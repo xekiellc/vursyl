@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Voices — VURSYL</title>
+<meta name="theme-color" content="#070B14">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WLXN8N61GF"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js',new Date());
+  gtag('config','G-WLXN8N61GF');
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Outfit:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --bg:#070B14;--bg2:#0B1220;--card:#0E1626;--card-hi:#13203A;
+  --line:#1C2840;--line-hi:#2C4470;
+  --text:#F2F6FF;--text-dim:#8FA3C8;--text-faint:#5A6C8F;
+  --mint:#64E0B8;--violet:#A78BFA;--sky:#60A5FA;--pink:#F0A4C0;--amber:#F5C078;--leaf:#A3D977;
+  --aurora:linear-gradient(110deg,#A78BFA 0%,#60A5FA 35%,#64E0B8 70%,#A3D977 100%);
+  --font-d:'Unbounded',sans-serif;--font-b:'Outfit',sans-serif;--font-m:'JetBrains Mono',monospace;
+  --accent:var(--violet);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:var(--font-b);font-weight:300;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+::selection{background:var(--violet);color:var(--bg)}
+
+#field{position:fixed;inset:0;z-index:0;pointer-events:none}
+.wrap{position:relative;z-index:1;max-width:1200px;margin:0 auto;padding:0 24px}
+
+header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rgba(7,11,20,.78);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:64px;max-width:1200px;margin:0 auto;padding:0 24px}
+.logo{font-family:var(--font-d);font-weight:800;font-size:1.05rem;letter-spacing:.22em}
+.logo span{background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
+.nav-links{display:flex;gap:22px;align-items:center}
+.nav-links a{font-size:.84rem;font-weight:400;color:var(--text-dim);letter-spacing:.04em;transition:color .2s}
+.nav-links a:hover{color:var(--text)}
+.nav-links a.rc{color:var(--mint);font-weight:500}
+.nav-links a.arc{color:var(--amber)}
+.nav-links a.vox{color:var(--violet);font-weight:500}
+.menu-btn{display:none;background:none;border:none;color:var(--text);font-size:1.5rem;cursor:pointer}
+@keyframes auroraShift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+
+/* LOADING / ERROR */
+.state{min-height:60vh;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:16px;text-align:center}
+.state .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--text-faint);text-transform:uppercase}
+.state h2{font-family:var(--font-d);font-weight:600;font-size:1.4rem;letter-spacing:.08em}
+.state p{color:var(--text-dim);font-size:.95rem;max-width:400px;line-height:1.65}
+
+/* PROFILE HERO */
+.profile-hero{padding:64px 0 48px}
+.back{font-family:var(--font-m);font-size:.72rem;letter-spacing:.2em;color:var(--text-faint);text-transform:uppercase;display:inline-flex;align-items:center;gap:8px;margin-bottom:32px;transition:color .2s}
+.back:hover{color:var(--accent)}
+.hero-top{display:flex;align-items:flex-start;gap:28px;flex-wrap:wrap}
+.avatar{width:80px;height:80px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:var(--font-d);font-weight:800;font-size:1.4rem;letter-spacing:.05em;flex-shrink:0;border:1px solid var(--line-hi)}
+.hero-info{flex:1;min-width:0}
+.hero-info .cat-badge{font-family:var(--font-m);font-size:.65rem;letter-spacing:.22em;text-transform:uppercase;padding:4px 12px;border-radius:999px;border:1px solid;display:inline-block;margin-bottom:12px}
+.hero-info h1{font-family:var(--font-d);font-weight:800;font-size:clamp(1.6rem,5vw,2.8rem);letter-spacing:.08em;line-height:1.15;margin-bottom:8px}
+.hero-info .role{font-size:1rem;color:var(--text-dim);margin-bottom:16px}
+.hero-links{display:flex;gap:10px;flex-wrap:wrap}
+.hlink{font-family:var(--font-m);font-size:.72rem;letter-spacing:.15em;text-transform:uppercase;padding:7px 16px;border-radius:999px;border:1px solid var(--line);color:var(--text-dim);transition:all .2s}
+.hlink:hover{border-color:var(--accent);color:var(--accent)}
+
+/* LAYOUT */
+.profile-layout{display:grid;grid-template-columns:1fr 300px;gap:32px;align-items:start;padding-bottom:80px}
+.main-col{display:flex;flex-direction:column;gap:24px}
+.sidebar{display:flex;flex-direction:column;gap:16px;position:sticky;top:80px}
+
+/* CARDS */
+.pcard{border:1px solid var(--line);border-radius:16px;background:var(--card);padding:24px 28px;opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s ease}
+.pcard.vis{opacity:1;transform:none}
+.pcard .k{font-family:var(--font-m);font-size:.68rem;letter-spacing:.25em;color:var(--accent);text-transform:uppercase;margin-bottom:14px}
+.pcard p{color:var(--text-dim);line-height:1.75;font-size:.97rem}
+.pcard p strong{color:var(--text);font-weight:500}
+
+/* KNOWN FOR */
+.known-list{display:flex;flex-direction:column;gap:8px}
+.known-item{display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-bottom:1px solid var(--line)}
+.known-item:last-child{border-bottom:none;padding-bottom:0}
+.known-dot{width:6px;height:6px;border-radius:50%;background:var(--accent);flex-shrink:0;margin-top:7px}
+.known-item span{font-size:.92rem;color:var(--text-dim);line-height:1.5}
+
+/* POSITIONS */
+.position-list{display:flex;flex-direction:column;gap:12px}
+.position-item{background:var(--bg2);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:0 10px 10px 0;padding:12px 16px;font-size:.92rem;color:var(--text-dim);line-height:1.6}
+
+/* NOTE */
+.note-card{border:1px solid rgba(248,113,113,.25);border-radius:16px;background:rgba(248,113,113,.04);padding:24px 28px;opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s ease}
+.note-card.vis{opacity:1;transform:none}
+.note-card .k{font-family:var(--font-m);font-size:.68rem;letter-spacing:.25em;color:#F87171;text-transform:uppercase;margin-bottom:14px}
+.note-card p{color:var(--text-dim);line-height:1.75;font-size:.92rem}
+
+/* ARCHIVE FEED */
+.arc-list{display:flex;flex-direction:column;gap:10px}
+.arc-item{border:1px solid var(--line);border-radius:12px;background:var(--card);padding:14px 18px;display:flex;gap:14px;align-items:flex-start;transition:border-color .2s;opacity:0;transform:translateY(12px);transition:opacity .45s ease,transform .45s ease,border-color .2s}
+.arc-item.vis{opacity:1;transform:none}
+.arc-item:hover{border-color:var(--line-hi)}
+.arc-item .ac{width:3px;flex-shrink:0;border-radius:3px;align-self:stretch;background:var(--accent)}
+.arc-item .body h3{font-weight:500;font-size:.92rem;line-height:1.45;margin-bottom:5px}
+.arc-item .body h3 a:hover{text-decoration:underline;text-underline-offset:4px}
+.arc-item .body .meta{font-size:.74rem;color:var(--text-faint);display:flex;gap:12px}
+.empty-feed{font-family:var(--font-m);font-size:.74rem;letter-spacing:.15em;color:var(--text-faint);text-transform:uppercase;padding:24px 0;text-align:center}
+
+/* SIDEBAR BOXES */
+.sbox{border:1px solid var(--line);border-radius:14px;background:var(--card);padding:18px 20px}
+.sbox .k{font-family:var(--font-m);font-size:.65rem;letter-spacing:.22em;color:var(--accent);text-transform:uppercase;margin-bottom:12px}
+.sstat{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid var(--line)}
+.sstat:last-child{border-bottom:none;padding-bottom:0}
+.sstat .n{font-family:var(--font-d);font-weight:600;font-size:1.1rem;color:var(--accent)}
+.sstat .l{font-size:.78rem;color:var(--text-faint)}
+.related-list{display:flex;flex-direction:column;gap:8px}
+.rvoice{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line);transition:opacity .2s}
+.rvoice:last-child{border-bottom:none;padding-bottom:0}
+.rvoice:hover{opacity:.75}
+.rv-av{width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:var(--font-d);font-weight:700;font-size:.65rem;flex-shrink:0}
+.rv-name{font-weight:500;font-size:.84rem}
+.rv-role{font-size:.72rem;color:var(--text-faint);margin-top:1px}
+
+footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;position:relative;z-index:1}
+.f-in{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;align-items:center}
+.f-in .fl{font-family:var(--font-d);font-weight:800;letter-spacing:.2em;font-size:.95rem}
+.f-in p{color:var(--text-faint);font-size:.82rem;line-height:1.7}
+.f-in a{color:var(--text-dim)}
+.f-in a:hover{color:var(--mint)}
+
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
+  .pcard,.note-card,.arc-item{opacity:1;transform:none}
+}
+@media(max-width:900px){
+  .profile-layout{grid-template-columns:1fr}
+  .sidebar{position:static}
+}
+@media(max-width:760px){
+  .nav-links{display:none;position:absolute;top:64px;left:0;right:0;background:var(--bg2);border-bottom:1px solid var(--line);flex-direction:column;padding:18px 24px;gap:18px;align-items:flex-start}
+  .nav-links.open{display:flex}
+  .menu-btn{display:block}
+  .hero-top{gap:18px}
+  .avatar{width:60px;height:60px;font-size:1rem}
+}
+</style>
+</head>
+<body>
+
+<canvas id="field" aria-hidden="true"></canvas>
+
+<header>
+  <nav class="nav">
+    <a class="logo" href="/"><span>VURSYL</span></a>
+    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    <div class="nav-links" id="navLinks">
+      <a href="/#feed">Feed</a>
+      <a href="/archive.html" class="arc">Archive</a>
+      <a href="/voices/" class="vox">Voices</a>
+      <a href="/reality-check.html" class="rc">Reality Check</a>
+      <a href="/about.html">About</a>
+    </div>
+  </nav>
+</header>
+
+<div id="loadingState" class="wrap">
+  <div class="state">
+    <div class="k">Loading</div>
+    <h2>Fetching profile…</h2>
+  </div>
+</div>
+
+<div id="profileContent" style="display:none">
+  <div class="wrap">
+    <div class="profile-hero">
+      <a class="back" href="/voices/">← All voices</a>
+      <div class="hero-top">
+        <div class="avatar" id="pAvatar"></div>
+        <div class="hero-info">
+          <div class="cat-badge" id="pBadge"></div>
+          <h1 id="pName"></h1>
+          <div class="role" id="pRole"></div>
+          <div class="hero-links" id="pLinks"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="profile-layout">
+      <div class="main-col">
+        <div class="pcard" id="bioCard">
+          <div class="k">About</div>
+          <p id="pBio"></p>
+        </div>
+
+        <div class="pcard" id="knownCard">
+          <div class="k">Known for</div>
+          <div class="known-list" id="pKnown"></div>
+        </div>
+
+        <div class="pcard" id="posCard">
+          <div class="k">Positions &amp; views</div>
+          <div class="position-list" id="pPositions"></div>
+        </div>
+
+        <div class="note-card" id="noteCard" style="display:none">
+          <div class="k">Vursyl note</div>
+          <p id="pNote"></p>
+        </div>
+
+        <div class="pcard" id="feedCard">
+          <div class="k">From the archive</div>
+          <div class="arc-list" id="pFeed"></div>
+        </div>
+      </div>
+
+      <aside class="sidebar">
+        <div class="sbox">
+          <div class="k">Archive stats</div>
+          <div class="sstat"><span class="l">Mentions found</span><span class="n" id="sMentions">—</span></div>
+          <div class="sstat"><span class="l">Category</span><span class="n" id="sCat" style="font-size:.78rem;letter-spacing:.1em;text-transform:uppercase">—</span></div>
+        </div>
+        <div class="sbox" id="relatedBox">
+          <div class="k">Related voices</div>
+          <div class="related-list" id="pRelated"></div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</div>
+
+<div id="errorState" class="wrap" style="display:none">
+  <div class="state">
+    <div class="k">404</div>
+    <h2>Voice not found</h2>
+    <p>This profile doesn't exist in the Vursyl voices directory yet.</p>
+    <a href="/voices/" style="margin-top:20px;font-family:var(--font-m);font-size:.78rem;letter-spacing:.2em;color:var(--violet);text-transform:uppercase">← Browse all voices</a>
+  </div>
+</div>
+
+<footer>
+  <div class="f-in">
+    <div>
+      <div class="fl">VURSYL</div>
+      <p style="margin-top:8px">The universal hub for positive AI, quantum &amp; emerging technology news.</p>
+    </div>
+    <p>© 2026 Vursyl · <a href="mailto:info@vursyl.com">info@vursyl.com</a> · One feed. Universal knowledge.</p>
+  </div>
+</footer>
+
+<script>
+const CATS={ai:"AI & LLMs",quantum:"Quantum",health:"Health & Bio",robotics:"Robotics & Space",compute:"Compute & Data"};
+const CAT_COLORS={ai:"#A78BFA",quantum:"#64E0B8",health:"#F0A4C0",robotics:"#60A5FA",compute:"#F5C078"};
+const CAT_BG={ai:"rgba(167,139,250,.12)",quantum:"rgba(100,224,184,.12)",health:"rgba(240,164,192,.12)",robotics:"rgba(96,165,250,.12)",compute:"rgba(245,192,120,.12)"};
+
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function ago(iso){
+  const m=Math.floor((Date.now()-new Date(iso))/60000);
+  if(m<60)return m+"m ago";if(m<1440)return Math.floor(m/60)+"h ago";
+  return Math.floor(m/1440)+"d ago";
+}
+
+/* get slug from URL */
+const slug=new URLSearchParams(location.search).get("slug")||
+  location.pathname.replace(/\/voices\/?/,"").replace(/\.html$/,"").replace(/^\//,"");
+
+/* constellation */
+(function(){
+  const cv=document.getElementById("field"),ctx=cv.getContext("2d");
+  const reduced=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if(reduced)return;
+  let W,H,nodes=[],mx=.5,my=.5;
+  const COLORS=["#64E0B8","#A78BFA","#60A5FA"];
+  function size(){
+    W=cv.width=innerWidth;H=cv.height=innerHeight;
+    const n=Math.min(55,Math.floor(W*H/26000));
+    nodes=Array.from({length:n},()=>({x:Math.random()*W,y:Math.random()*H,
+      vx:(Math.random()-.5)*.18,vy:(Math.random()-.5)*.18,
+      r:Math.random()*1.5+.6,c:COLORS[Math.floor(Math.random()*3)]}));
+  }
+  function draw(){
+    ctx.clearRect(0,0,W,H);
+    const px=(mx-.5)*16,py=(my-.5)*16;
+    for(const n of nodes){n.x+=n.vx;n.y+=n.vy;if(n.x<0||n.x>W)n.vx*=-1;if(n.y<0||n.y>H)n.vy*=-1;}
+    ctx.lineWidth=1;
+    for(let i=0;i<nodes.length;i++)for(let j=i+1;j<nodes.length;j++){
+      const a=nodes[i],b=nodes[j],d=(a.x-b.x)**2+(a.y-b.y)**2;
+      if(d<130*130){ctx.strokeStyle=`rgba(60,90,150,${(1-d/16900)*.28})`;ctx.beginPath();ctx.moveTo(a.x+px,a.y+py);ctx.lineTo(b.x+px,b.y+py);ctx.stroke();}
+    }
+    for(const n of nodes){ctx.fillStyle=n.c;ctx.globalAlpha=.65;ctx.beginPath();ctx.arc(n.x+px,n.y+py,n.r,0,7);ctx.fill();ctx.globalAlpha=1;}
+    requestAnimationFrame(draw);
+  }
+  size();draw();
+  addEventListener("resize",size);
+  addEventListener("mousemove",e=>{mx=e.clientX/W;my=e.clientY/H;});
+})();
+
+document.getElementById("menuBtn").addEventListener("click",()=>
+  document.getElementById("navLinks").classList.toggle("open"));
+
+function reveal(){
+  const io=new IntersectionObserver(es=>es.forEach(e=>{
+    if(e.isIntersecting){e.target.classList.add("vis");io.unobserve(e.target);}
+  }),{threshold:.05});
+  document.querySelectorAll(".pcard,.note-card,.arc-item").forEach(el=>io.observe(el));
+}
+
+function renderProfile(voice,allVoices,news){
+  const color=CAT_COLORS[voice.cat]||"#A78BFA";
+  const bg=CAT_BG[voice.cat]||"rgba(167,139,250,.12)";
+  const catLabel=CATS[voice.cat]||voice.cat;
+
+  /* update page meta */
+  document.title=`${voice.name} — VURSYL Voices`;
+  const desc=`${voice.name} — ${voice.role}. ${voice.bio.slice(0,150)}…`;
+  let metaDesc=document.querySelector("meta[name=description]");
+  if(!metaDesc){metaDesc=document.createElement("meta");metaDesc.name="description";document.head.appendChild(metaDesc);}
+  metaDesc.content=desc;
+
+  /* set accent */
+  document.documentElement.style.setProperty("--accent",color);
+
+  /* avatar */
+  const av=document.getElementById("pAvatar");
+  av.textContent=voice.initials;
+  av.style.background=bg;
+  av.style.color=color;
+
+  /* badge */
+  const badge=document.getElementById("pBadge");
+  badge.textContent=catLabel;
+  badge.style.color=color;
+  badge.style.borderColor=color.replace(")",", .35)").replace("rgb","rgba").replace("#","")||color;
+  badge.style.background=bg;
+
+  document.getElementById("pName").textContent=voice.name;
+  document.getElementById("pRole").textContent=voice.role;
+  document.getElementById("pBio").textContent=voice.bio;
+
+  /* links */
+  const linksEl=document.getElementById("pLinks");
+  const links=voice.links||{};
+  if(links.x)linksEl.innerHTML+=`<a class="hlink" href="${esc(links.x)}" target="_blank" rel="noopener">𝕏 / Twitter</a>`;
+  if(links.web)linksEl.innerHTML+=`<a class="hlink" href="${esc(links.web)}" target="_blank" rel="noopener">Website →</a>`;
+  if(!links.x&&!links.web)linksEl.innerHTML=`<span style="font-family:var(--font-m);font-size:.72rem;color:var(--text-faint);letter-spacing:.15em">No public links</span>`;
+
+  /* known for */
+  document.getElementById("pKnown").innerHTML=(voice.known_for||[]).map(k=>
+    `<div class="known-item"><div class="known-dot"></div><span>${esc(k)}</span></div>`).join("");
+
+  /* positions */
+  document.getElementById("pPositions").innerHTML=(voice.positions||[]).map(p=>
+    `<div class="position-item">${esc(p)}</div>`).join("");
+
+  /* note */
+  if(voice.note){
+    document.getElementById("pNote").textContent=voice.note;
+    document.getElementById("noteCard").style.display="";
+  }
+
+  /* archive feed */
+  const keys=(voice.keywords||[voice.name]).map(k=>k.toLowerCase());
+  const mentions=news.filter(item=>keys.some(k=>item.title.toLowerCase().includes(k)));
+  document.getElementById("sMentions").textContent=mentions.length.toLocaleString();
+  document.getElementById("sCat").textContent=catLabel;
+  document.getElementById("sCat").style.color=color;
+
+  if(mentions.length){
+    document.getElementById("pFeed").innerHTML=mentions.slice(0,20).map((item,i)=>`
+      <div class="arc-item" style="transition-delay:${Math.min(i*35,280)}ms">
+        <div class="ac"></div>
+        <div class="body">
+          <h3><a href="${esc(item.url)}" target="_blank" rel="noopener">${esc(item.title)}</a></h3>
+          <div class="meta"><span>${esc(item.source)}</span><span>${ago(item.published)}</span></div>
+        </div>
+      </div>`).join("");
+  } else {
+    document.getElementById("pFeed").innerHTML=`<div class="empty-feed">No archive mentions yet — check back as the feed grows</div>`;
+  }
+
+  /* related voices — same category, different person */
+  const related=allVoices.filter(v=>v.cat===voice.cat&&v.slug!==voice.slug).slice(0,5);
+  if(related.length){
+    document.getElementById("pRelated").innerHTML=related.map(v=>`
+      <a class="rvoice" href="/voices/profile.html?slug=${esc(v.slug)}">
+        <div class="rv-av" style="background:${CAT_BG[v.cat]};color:${CAT_COLORS[v.cat]}">${esc(v.initials)}</div>
+        <div><div class="rv-name">${esc(v.name)}</div><div class="rv-role">${esc(v.role)}</div></div>
+      </a>`).join("");
+  } else document.getElementById("relatedBox").style.display="none";
+
+  /* show */
+  document.getElementById("loadingState").style.display="none";
+  document.getElementById("profileContent").style.display="";
+  reveal();
+}
+
+/* load data */
+Promise.all([
+  fetch("/data/voices.json",{cache:"no-store"}).then(r=>r.ok?r.json():null),
+  fetch("/data/news.json",{cache:"no-store"}).then(r=>r.ok?r.json():null)
+]).then(([vd,nd])=>{
+  const allVoices=(vd?.voices)||[];
+  const news=(nd?.items)||[];
+  const voice=allVoices.find(v=>v.slug===slug);
+  if(!voice){
+    document.getElementById("loadingState").style.display="none";
+    document.getElementById("errorState").style.display="";
+    return;
+  }
+  renderProfile(voice,allVoices,news);
+}).catch(()=>{
+  document.getElementById("loadingState").style.display="none";
+  document.getElementById("errorState").style.display="";
+});
+</script>
+</body>
+</html>
