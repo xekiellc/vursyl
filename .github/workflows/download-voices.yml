@@ -20,23 +20,22 @@ jobs:
             local slug=$1
             local url=$2
             local out="images/voices/${slug}.jpg"
-            if [ -f "$out" ]; then
+            if [ -f "$out" ] && [ -s "$out" ]; then
               echo "Already exists: $out"
               return
             fi
             echo "Downloading $slug..."
-            curl -sL --max-time 15 \
+            curl -sL --max-time 20 \
               -H "User-Agent: Mozilla/5.0 (compatible; VursylBot/1.0)" \
-              "$url" -o "$out"
-            if [ $? -eq 0 ] && [ -s "$out" ]; then
+              "$url" -o "$out" || true
+            if [ -s "$out" ]; then
               echo "  OK: $out"
             else
-              echo "  FAILED: $slug ($url)"
+              echo "  FAILED: $slug"
               rm -f "$out"
             fi
           }
 
-          # AI & LLMs
           download "sam-altman" "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sam_Altman_CogX_2023_%28cropped%29.jpg/440px-Sam_Altman_CogX_2023_%28cropped%29.jpg"
           download "dario-amodei" "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dario_Amodei_2024_%28cropped%29.jpg/440px-Dario_Amodei_2024_%28cropped%29.jpg"
           download "andrej-karpathy" "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Andrej_Karpathy_at_Stanford_%28cropped%29.jpg/440px-Andrej_Karpathy_at_Stanford_%28cropped%29.jpg"
@@ -49,19 +48,15 @@ jobs:
           download "elon-musk" "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/440px-Elon_Musk_Royal_Society_%28crop2%29.jpg"
           download "mark-zuckerberg" "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/440px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg"
           download "satya-nadella" "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg/440px-MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg"
-          download "sebastian-raschka" "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sebastian_Raschka_2022_%28cropped%29.jpg/440px-Sebastian_Raschka_2022_%28cropped%29.jpg"
+          download "sebastian-raschka" "https://sebastianraschka.com/images/portrait.jpg"
           download "lex-fridman" "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lex_Fridman_2024_%28cropped%29.jpg/440px-Lex_Fridman_2024_%28cropped%29.jpg"
           download "kai-fu-lee" "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kai-Fu_Lee_2019_%28cropped%29.jpg/440px-Kai-Fu_Lee_2019_%28cropped%29.jpg"
           download "logan-kilpatrick" "https://pbs.twimg.com/profile_images/1683482893879025664/eYFMCGpW_400x400.jpg"
           download "peter-diamandis" "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Peter_Diamandis_2019_%28cropped%29.jpg/440px-Peter_Diamandis_2019_%28cropped%29.jpg"
-
-          # Compute & Data
           download "jensen-huang" "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jensen_Huang_at_CES_2024_%28cropped%29.jpg/440px-Jensen_Huang_at_CES_2024_%28cropped%29.jpg"
           download "bernard-marr" "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bernard_Marr_%28cropped%29.jpg/440px-Bernard_Marr_%28cropped%29.jpg"
           download "kate-crawford" "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kate_Crawford_2019_%28cropped%29.jpg/440px-Kate_Crawford_2019_%28cropped%29.jpg"
           download "scott-galloway" "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Scott_Galloway_2022_%28cropped%29.jpg/440px-Scott_Galloway_2022_%28cropped%29.jpg"
-
-          # Health & Bio
           download "eric-topol" "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Eric_Topol_2019_%28cropped%29.jpg/440px-Eric_Topol_2019_%28cropped%29.jpg"
           download "bob-wachter" "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bob_Wachter_2019_%28cropped%29.jpg/440px-Bob_Wachter_2019_%28cropped%29.jpg"
           download "shiv-rao" "https://pbs.twimg.com/profile_images/1671937663303208960/QKqxOjHT_400x400.jpg"
@@ -74,23 +69,19 @@ jobs:
           download "nir-barzilai" "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Nir_Barzilai_%28cropped%29.jpg/440px-Nir_Barzilai_%28cropped%29.jpg"
           download "daniel-kraft" "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Daniel_Kraft_2018_%28cropped%29.jpg/440px-Daniel_Kraft_2018_%28cropped%29.jpg"
           download "atul-butte" "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Atul_Butte_%28cropped%29.jpg/440px-Atul_Butte_%28cropped%29.jpg"
-
-          # Robotics & Space
           download "brett-adcock" "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brett_Adcock_%28cropped%29.jpg/440px-Brett_Adcock_%28cropped%29.jpg"
           download "marc-raibert" "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Marc_Raibert_2019_%28cropped%29.jpg/440px-Marc_Raibert_2019_%28cropped%29.jpg"
           download "peter-beck" "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Peter_Beck_%28Rocket_Lab%29_%28cropped%29.jpg/440px-Peter_Beck_%28Rocket_Lab%29_%28cropped%29.jpg"
-
-          # Quantum
           download "hartmut-neven" "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hartmut_Neven_%28cropped%29.jpg/440px-Hartmut_Neven_%28cropped%29.jpg"
           download "krysta-svore" "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Krysta_Svore_%28cropped%29.jpg/440px-Krysta_Svore_%28cropped%29.jpg"
           download "john-martinis" "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/John_Martinis_2019_%28cropped%29.jpg/440px-John_Martinis_2019_%28cropped%29.jpg"
           download "jerry-chow" "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jerry_Chow_IBM_%28cropped%29.jpg/440px-Jerry_Chow_IBM_%28cropped%29.jpg"
-          download "fred-chong" "https://people.cs.uchicago.edu/~ftchong/images/chong-photo.jpg"
+          download "fred-chong" "https://cs.uchicago.edu/people/frederic-chong/"
           download "alan-baratz" "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alan_Baratz_D-Wave_%28cropped%29.jpg/440px-Alan_Baratz_D-Wave_%28cropped%29.jpg"
           download "michio-kaku" "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Michio_Kaku_2019_%28cropped%29.jpg/440px-Michio_Kaku_2019_%28cropped%29.jpg"
 
-          echo "Download complete. Listing results:"
-          ls -la images/voices/
+          echo "All downloads attempted. Results:"
+          ls -la images/voices/ 2>/dev/null || echo "No images downloaded"
 
       - name: Commit voice photos
         run: |
