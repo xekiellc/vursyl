@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thought Leaders — VURSYL</title>
+<meta name="description" content="The voices shaping AI, quantum, health, robotics, and emerging technology. Profiles of the researchers, founders, and thinkers driving the frontier forward.">
+<link rel="canonical" href="https://vursyl.com/voices/">
+<meta property="og:title" content="Thought Leaders — VURSYL">
+<meta property="og:description" content="The voices shaping AI, quantum, health, and emerging technology. Profiles of the researchers and founders driving the frontier.">
+<meta property="og:url" content="https://vursyl.com/voices/">
+<meta property="og:image" content="https://vursyl.com/og-image.png">
+<meta name="theme-color" content="#070B14">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WLXN8N61GF"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js',new Date());
+  gtag('config','G-WLXN8N61GF');
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Outfit:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --bg:#070B14;--bg2:#0B1220;--card:#0E1626;--card-hi:#13203A;
+  --line:#1C2840;--line-hi:#2C4470;
+  --text:#F2F6FF;--text-dim:#8FA3C8;--text-faint:#5A6C8F;
+  --mint:#64E0B8;--violet:#A78BFA;--sky:#60A5FA;--pink:#F0A4C0;--amber:#F5C078;--leaf:#A3D977;
+  --aurora:linear-gradient(110deg,#A78BFA 0%,#60A5FA 35%,#64E0B8 70%,#A3D977 100%);
+  --font-d:'Unbounded',sans-serif;--font-b:'Outfit',sans-serif;--font-m:'JetBrains Mono',monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:var(--font-b);font-weight:300;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+::selection{background:var(--violet);color:var(--bg)}
+
+#field{position:fixed;inset:0;z-index:0;pointer-events:none}
+.wrap{position:relative;z-index:1;max-width:1200px;margin:0 auto;padding:0 24px}
+
+header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rgba(7,11,20,.78);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:64px;max-width:1200px;margin:0 auto;padding:0 24px}
+.logo{font-family:var(--font-d);font-weight:800;font-size:1.05rem;letter-spacing:.22em}
+.logo span{background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
+.nav-links{display:flex;gap:22px;align-items:center}
+.nav-links a{font-size:.84rem;font-weight:400;color:var(--text-dim);letter-spacing:.04em;transition:color .2s}
+.nav-links a:hover{color:var(--text)}
+.nav-links a.rc{color:var(--mint);font-weight:500}
+.nav-links a.arc{color:var(--amber)}
+.nav-links a.vox{color:var(--violet);font-weight:500}
+.menu-btn{display:none;background:none;border:none;color:var(--text);font-size:1.5rem;cursor:pointer}
+@keyframes auroraShift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+
+.page-hero{padding:72px 0 48px}
+.page-hero .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--violet);text-transform:uppercase;margin-bottom:16px}
+.page-hero h1{font-family:var(--font-d);font-weight:800;font-size:clamp(1.8rem,5vw,3rem);letter-spacing:.1em;line-height:1.15;margin-bottom:16px}
+.page-hero h1 em{font-style:normal;background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
+.page-hero p{color:var(--text-dim);font-size:1rem;line-height:1.7;max-width:600px}
+
+.filter-row{display:flex;gap:8px;flex-wrap:wrap;padding:28px 0 32px}
+.fpill{font-family:var(--font-b);font-weight:500;font-size:.8rem;padding:7px 16px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--text-dim);cursor:pointer;transition:all .2s}
+.fpill:hover{border-color:var(--line-hi);color:var(--text)}
+.fpill.active{border-color:transparent;color:var(--bg)}
+.fpill[data-f="all"].active{background:var(--text)}
+.fpill[data-f="ai"].active{background:var(--violet)}
+.fpill[data-f="quantum"].active{background:var(--mint)}
+.fpill[data-f="health"].active{background:var(--pink)}
+.fpill[data-f="robotics"].active{background:var(--sky)}
+.fpill[data-f="compute"].active{background:var(--amber)}
+
+.count-line{font-family:var(--font-m);font-size:.72rem;letter-spacing:.18em;color:var(--text-faint);text-transform:uppercase;margin-bottom:20px}
+
+.voices-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;padding-bottom:80px}
+.vcard{border:1px solid var(--line);border-radius:16px;background:var(--card);padding:24px 26px;display:flex;flex-direction:column;gap:14px;position:relative;overflow:hidden;opacity:0;transform:translateY(16px);transition:opacity .5s ease,transform .5s ease,border-color .2s,box-shadow .2s}
+.vcard.vis{opacity:1;transform:none}
+.vcard:hover{border-color:var(--line-hi);box-shadow:0 12px 36px -16px rgba(167,139,250,.18)}
+.vcard::before{content:"";position:absolute;top:0;left:0;right:0;height:2px;background:var(--c,var(--violet));opacity:0;transition:opacity .2s}
+.vcard:hover::before{opacity:1}
+.vcard[data-cat="ai"]{--c:var(--violet)}
+.vcard[data-cat="quantum"]{--c:var(--mint)}
+.vcard[data-cat="health"]{--c:var(--pink)}
+.vcard[data-cat="robotics"]{--c:var(--sky)}
+.vcard[data-cat="compute"]{--c:var(--amber)}
+
+.avatar{width:52px;height:52px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:var(--font-d);font-weight:800;font-size:1rem;letter-spacing:.05em;flex-shrink:0;border:1px solid var(--line-hi)}
+.vcard-top{display:flex;align-items:center;gap:14px}
+.vcard-top .info h2{font-family:var(--font-d);font-weight:600;font-size:.92rem;letter-spacing:.04em;margin-bottom:4px}
+.vcard-top .info .role{font-size:.78rem;color:var(--text-dim)}
+.vcard p{font-size:.86rem;color:var(--text-dim);line-height:1.6;flex:1}
+.vcard-footer{display:flex;align-items:center;justify-content:space-between;gap:8px;padding-top:12px;border-top:1px solid var(--line)}
+.vcard-footer .mentions{font-family:var(--font-m);font-size:.68rem;letter-spacing:.12em;color:var(--text-faint);text-transform:uppercase}
+.vcard-footer .arrow{font-size:.82rem;color:var(--c,var(--violet));opacity:.7}
+.note-flag{font-family:var(--font-m);font-size:.62rem;letter-spacing:.15em;text-transform:uppercase;padding:2px 8px;border-radius:4px;background:rgba(248,113,113,.1);color:#F87171;border:1px solid rgba(248,113,113,.2)}
+
+footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;position:relative;z-index:1}
+.f-in{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;align-items:center}
+.f-in .fl{font-family:var(--font-d);font-weight:800;letter-spacing:.2em;font-size:.95rem}
+.f-in p{color:var(--text-faint);font-size:.82rem;line-height:1.7}
+.f-in a{color:var(--text-dim)}
+.f-in a:hover{color:var(--mint)}
+
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
+  .vcard{opacity:1;transform:none}
+}
+@media(max-width:760px){
+  .nav-links{display:none;position:absolute;top:64px;left:0;right:0;background:var(--bg2);border-bottom:1px solid var(--line);flex-direction:column;padding:18px 24px;gap:18px;align-items:flex-start}
+  .nav-links.open{display:flex}
+  .menu-btn{display:block}
+}
+</style>
+</head>
+<body>
+
+<canvas id="field" aria-hidden="true"></canvas>
+
+<header>
+  <nav class="nav">
+    <a class="logo" href="/"><span>VURSYL</span></a>
+    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    <div class="nav-links" id="navLinks">
+      <a href="/#feed">Feed</a>
+      <a href="/archive.html" class="arc">Archive</a>
+      <a href="/voices/" class="vox">Voices</a>
+      <a href="/reality-check.html" class="rc">Reality Check</a>
+      <a href="/about.html">About</a>
+    </div>
+  </nav>
+</header>
+
+<div class="wrap">
+  <div class="page-hero">
+    <div class="k">Thought leaders</div>
+    <h1>The <em>voices</em> of the frontier.</h1>
+    <p>The researchers, founders, and thinkers shaping AI, quantum, health, robotics, and emerging technology. Each profile tracks their archive mentions, positions, and why they matter.</p>
+  </div>
+
+  <div class="filter-row" id="filterRow">
+    <button class="fpill active" data-f="all">All voices</button>
+    <button class="fpill" data-f="ai">AI &amp; LLMs</button>
+    <button class="fpill" data-f="quantum">Quantum</button>
+    <button class="fpill" data-f="health">Health &amp; Bio</button>
+    <button class="fpill" data-f="robotics">Robotics &amp; Space</button>
+    <button class="fpill" data-f="compute">Compute &amp; Data</button>
+  </div>
+
+  <div class="count-line" id="countLine"></div>
+  <div class="voices-grid" id="voicesGrid"></div>
+</div>
+
+<footer>
+  <div class="f-in">
+    <div>
+      <div class="fl">VURSYL</div>
+      <p style="margin-top:8px">The universal hub for positive AI, quantum &amp; emerging technology news.</p>
+    </div>
+    <p>© 2026 Vursyl · <a href="mailto:info@vursyl.com">info@vursyl.com</a> · One feed. Universal knowledge.</p>
+  </div>
+</footer>
+
+<script>
+const CAT_COLORS={ai:"#A78BFA",quantum:"#64E0B8",health:"#F0A4C0",robotics:"#60A5FA",compute:"#F5C078"};
+const CAT_BG={ai:"rgba(167,139,250,.12)",quantum:"rgba(100,224,184,.12)",health:"rgba(240,164,192,.12)",robotics:"rgba(96,165,250,.12)",compute:"rgba(245,192,120,.12)"};
+
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+let VOICES=[],NEWS=[],activeFilter="all";
+
+function countMentions(voice){
+  if(!NEWS.length)return 0;
+  const keys=(voice.keywords||[voice.name]).map(k=>k.toLowerCase());
+  return NEWS.filter(item=>keys.some(k=>item.title.toLowerCase().includes(k))).length;
+}
+
+function render(){
+  const filtered=activeFilter==="all"?VOICES:VOICES.filter(v=>v.cat===activeFilter);
+  document.getElementById("countLine").textContent=`${filtered.length} voice${filtered.length!==1?"s":""}`;
+  const grid=document.getElementById("voicesGrid");
+  grid.innerHTML=filtered.map((v,i)=>{
+    const color=CAT_COLORS[v.cat]||"#A78BFA";
+    const bg=CAT_BG[v.cat]||"rgba(167,139,250,.12)";
+    const mentions=countMentions(v);
+    return`<a class="vcard" href="/voices/profile.html?slug=${esc(v.slug)}" data-cat="${v.cat}" style="transition-delay:${Math.min(i*35,320)}ms">
+      <div class="vcard-top">
+        <div class="avatar" style="background:${bg};color:${color}">${esc(v.initials)}</div>
+        <div class="info">
+          <h2>${esc(v.name)}</h2>
+          <div class="role">${esc(v.role)}</div>
+        </div>
+      </div>
+      <p>${esc(v.bio.slice(0,120))}…</p>
+      <div class="vcard-footer">
+        <span class="mentions">${mentions} mention${mentions!==1?"s":""}</span>
+        ${v.note?`<span class="note-flag">Vursyl note</span>`:`<span class="arrow">→</span>`}
+      </div>
+    </a>`;
+  }).join("");
+  reveal();
+}
+
+function reveal(){
+  const io=new IntersectionObserver(es=>es.forEach(e=>{
+    if(e.isIntersecting){e.target.classList.add("vis");io.unobserve(e.target);}
+  }),{threshold:.06});
+  document.querySelectorAll(".vcard:not(.vis)").forEach(el=>io.observe(el));
+}
+
+document.getElementById("filterRow").addEventListener("click",e=>{
+  const b=e.target.closest(".fpill");if(!b)return;
+  document.querySelectorAll(".fpill").forEach(p=>p.classList.remove("active"));
+  b.classList.add("active");activeFilter=b.dataset.f;render();
+});
+
+document.getElementById("menuBtn").addEventListener("click",()=>
+  document.getElementById("navLinks").classList.toggle("open"));
+
+(function(){
+  const cv=document.getElementById("field"),ctx=cv.getContext("2d");
+  const reduced=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if(reduced)return;
+  let W,H,nodes=[],mx=.5,my=.5;
+  const COLORS=["#64E0B8","#A78BFA","#60A5FA"];
+  function size(){
+    W=cv.width=innerWidth;H=cv.height=innerHeight;
+    const n=Math.min(55,Math.floor(W*H/26000));
+    nodes=Array.from({length:n},()=>({x:Math.random()*W,y:Math.random()*H,
+      vx:(Math.random()-.5)*.18,vy:(Math.random()-.5)*.18,
+      r:Math.random()*1.5+.6,c:COLORS[Math.floor(Math.random()*3)]}));
+  }
+  function draw(){
+    ctx.clearRect(0,0,W,H);
+    const px=(mx-.5)*16,py=(my-.5)*16;
+    for(const n of nodes){n.x+=n.vx;n.y+=n.vy;if(n.x<0||n.x>W)n.vx*=-1;if(n.y<0||n.y>H)n.vy*=-1;}
+    ctx.lineWidth=1;
+    for(let i=0;i<nodes.length;i++)for(let j=i+1;j<nodes.length;j++){
+      const a=nodes[i],b=nodes[j],d=(a.x-b.x)**2+(a.y-b.y)**2;
+      if(d<130*130){ctx.strokeStyle=`rgba(60,90,150,${(1-d/16900)*.28})`;ctx.beginPath();ctx.moveTo(a.x+px,a.y+py);ctx.lineTo(b.x+px,b.y+py);ctx.stroke();}
+    }
+    for(const n of nodes){ctx.fillStyle=n.c;ctx.globalAlpha=.65;ctx.beginPath();ctx.arc(n.x+px,n.y+py,n.r,0,7);ctx.fill();ctx.globalAlpha=1;}
+    requestAnimationFrame(draw);
+  }
+  size();draw();
+  addEventListener("resize",size);
+  addEventListener("mousemove",e=>{mx=e.clientX/W;my=e.clientY/H;});
+})();
+
+Promise.allSettled([
+  fetch("/data/voices.json",{cache:"no-store"}).then(r=>r.ok?r.json():null),
+  fetch("/data/news.json",{cache:"no-store"}).then(r=>r.ok?r.json():null)
+]).then(([v,n])=>{
+  if(v.status==="fulfilled"&&v.value?.voices?.length)VOICES=v.value.voices;
+  if(n.status==="fulfilled"&&n.value?.items?.length)NEWS=n.value.items;
+  render();
+});
+</script>
+</body>
+</html>
