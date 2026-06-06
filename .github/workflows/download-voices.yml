@@ -26,88 +26,126 @@ jobs:
           cat > /tmp/download_voices.py << 'PYEOF'
           import requests
           import os
+          import time
           from PIL import Image
           from io import BytesIO
 
           os.makedirs("images/voices", exist_ok=True)
 
+          # Use Wikimedia REST API — designed for programmatic access
+          # Format: https://en.wikipedia.org/api/rest_v1/page/summary/{title}
+          # Returns thumbnail URL we can fetch safely
+
           HEADERS = {
-              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+              "User-Agent": "VursylBot/1.0 (https://vursyl.com; info@vursyl.com) python-requests/2.31",
+              "Api-User-Agent": "VursylBot/1.0 (https://vursyl.com; info@vursyl.com)",
           }
 
+          # Wikipedia page titles for each voice
+          # For non-Wikipedia sources, use direct URL prefixed with "url:"
           VOICES = [
-              ("sam-altman", "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sam_Altman_CogX_2023_%28cropped%29.jpg"),
-              ("dario-amodei", "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dario_Amodei_2024_%28cropped%29.jpg"),
-              ("andrej-karpathy", "https://upload.wikimedia.org/wikipedia/commons/3/3d/Andrej_Karpathy_at_Stanford_%28cropped%29.jpg"),
-              ("demis-hassabis", "https://upload.wikimedia.org/wikipedia/commons/8/8a/Demis_Hassabis_Royal_Society.jpg"),
-              ("yann-lecun", "https://upload.wikimedia.org/wikipedia/commons/3/3a/Yann_LeCun_-_2020.jpg"),
-              ("geoffrey-hinton", "https://upload.wikimedia.org/wikipedia/commons/e/e8/Geoffrey_Hinton_at_UBC_%28cropped%29.jpg"),
-              ("fei-fei-li", "https://upload.wikimedia.org/wikipedia/commons/4/41/Fei-Fei_Li_2024_%28cropped%29.jpg"),
-              ("andrew-ng", "https://upload.wikimedia.org/wikipedia/commons/b/b3/Andrew_Ng_at_AI_For_Good_2017_%28cropped%29.jpg"),
-              ("ilya-sutskever", "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ilya_Sutskever_2019_%28cropped%29.jpg"),
-              ("elon-musk", "https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg"),
-              ("mark-zuckerberg", "https://upload.wikimedia.org/wikipedia/commons/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg"),
-              ("satya-nadella", "https://upload.wikimedia.org/wikipedia/commons/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg"),
-              ("lex-fridman", "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lex_Fridman_2024_%28cropped%29.jpg"),
-              ("kai-fu-lee", "https://upload.wikimedia.org/wikipedia/commons/c/c3/Kai-Fu_Lee_2019_%28cropped%29.jpg"),
-              ("peter-diamandis", "https://upload.wikimedia.org/wikipedia/commons/e/e6/Peter_Diamandis_2019_%28cropped%29.jpg"),
-              ("logan-kilpatrick", "https://pbs.twimg.com/profile_images/1683482893879025664/eYFMCGpW_400x400.jpg"),
-              ("sebastian-raschka", "https://sebastianraschka.com/images/portrait.jpg"),
-              ("jensen-huang", "https://upload.wikimedia.org/wikipedia/commons/3/35/Jensen_Huang_at_CES_2024_%28cropped%29.jpg"),
-              ("bernard-marr", "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bernard_Marr_%28cropped%29.jpg"),
-              ("kate-crawford", "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kate_Crawford_2019_%28cropped%29.jpg"),
-              ("scott-galloway", "https://upload.wikimedia.org/wikipedia/commons/8/8c/Scott_Galloway_2022_%28cropped%29.jpg"),
-              ("eric-topol", "https://upload.wikimedia.org/wikipedia/commons/7/7c/Eric_Topol_2019_%28cropped%29.jpg"),
-              ("bob-wachter", "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bob_Wachter_2019_%28cropped%29.jpg"),
-              ("shiv-rao", "https://pbs.twimg.com/profile_images/1671937663303208960/QKqxOjHT_400x400.jpg"),
-              ("david-sinclair", "https://upload.wikimedia.org/wikipedia/commons/9/9e/David_Sinclair_2020_%28cropped%29.jpg"),
-              ("jennifer-doudna", "https://upload.wikimedia.org/wikipedia/commons/5/54/Jennifer_Doudna_DP_2723_%28cropped%29.jpg"),
-              ("feng-zhang", "https://upload.wikimedia.org/wikipedia/commons/0/08/Feng_Zhang_%28scientist%29.jpg"),
-              ("george-church", "https://upload.wikimedia.org/wikipedia/commons/5/57/George_Church.jpg"),
-              ("peter-attia", "https://upload.wikimedia.org/wikipedia/commons/e/e0/Peter_Attia_2023_%28cropped%29.jpg"),
-              ("bryan-johnson", "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bryan_Johnson_%28entrepreneur%29_%28cropped%29.jpg"),
-              ("nir-barzilai", "https://upload.wikimedia.org/wikipedia/commons/b/b8/Nir_Barzilai_%28cropped%29.jpg"),
-              ("daniel-kraft", "https://upload.wikimedia.org/wikipedia/commons/6/6e/Daniel_Kraft_2018_%28cropped%29.jpg"),
-              ("atul-butte", "https://upload.wikimedia.org/wikipedia/commons/a/a5/Atul_Butte_%28cropped%29.jpg"),
-              ("brett-adcock", "https://upload.wikimedia.org/wikipedia/commons/f/f9/Brett_Adcock_%28cropped%29.jpg"),
-              ("marc-raibert", "https://upload.wikimedia.org/wikipedia/commons/4/4e/Marc_Raibert_2019_%28cropped%29.jpg"),
-              ("peter-beck", "https://upload.wikimedia.org/wikipedia/commons/8/84/Peter_Beck_%28Rocket_Lab%29_%28cropped%29.jpg"),
-              ("hartmut-neven", "https://upload.wikimedia.org/wikipedia/commons/5/52/Hartmut_Neven_%28cropped%29.jpg"),
-              ("krysta-svore", "https://upload.wikimedia.org/wikipedia/commons/e/e2/Krysta_Svore_%28cropped%29.jpg"),
-              ("john-martinis", "https://upload.wikimedia.org/wikipedia/commons/8/8a/John_Martinis_2019_%28cropped%29.jpg"),
-              ("jerry-chow", "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jerry_Chow_IBM_%28cropped%29.jpg"),
-              ("alan-baratz", "https://upload.wikimedia.org/wikipedia/commons/a/a0/Alan_Baratz_D-Wave_%28cropped%29.jpg"),
-              ("michio-kaku", "https://upload.wikimedia.org/wikipedia/commons/4/4e/Michio_Kaku_2019_%28cropped%29.jpg"),
+              ("sam-altman",        "Sam_Altman"),
+              ("dario-amodei",      "Dario_Amodei"),
+              ("andrej-karpathy",   "Andrej_Karpathy"),
+              ("demis-hassabis",    "Demis_Hassabis"),
+              ("yann-lecun",        "Yann_LeCun"),
+              ("geoffrey-hinton",   "Geoffrey_Hinton"),
+              ("fei-fei-li",        "Fei-Fei_Li"),
+              ("andrew-ng",         "Andrew_Ng"),
+              ("ilya-sutskever",    "Ilya_Sutskever"),
+              ("elon-musk",         "Elon_Musk"),
+              ("mark-zuckerberg",   "Mark_Zuckerberg"),
+              ("satya-nadella",     "Satya_Nadella"),
+              ("lex-fridman",       "Lex_Fridman"),
+              ("kai-fu-lee",        "Kai-Fu_Lee"),
+              ("peter-diamandis",   "Peter_Diamandis"),
+              ("logan-kilpatrick",  "url:https://pbs.twimg.com/profile_images/1876690893879025664/eYFMCGpW_400x400.jpg"),
+              ("sebastian-raschka", "url:https://avatars.githubusercontent.com/u/13906417?v=4"),
+              ("jensen-huang",      "Jensen_Huang"),
+              ("bernard-marr",      "Bernard_Marr"),
+              ("kate-crawford",     "Kate_Crawford_(scholar)"),
+              ("scott-galloway",    "Scott_Galloway_(professor)"),
+              ("eric-topol",        "Eric_Topol"),
+              ("bob-wachter",       "Bob_Wachter"),
+              ("shiv-rao",          "url:https://media.licdn.com/dms/image/v2/D5603AQGsomething/profile-displayphoto-shrink_200_200/0/1234"),
+              ("david-sinclair",    "David_Sinclair_(biologist)"),
+              ("jennifer-doudna",   "Jennifer_Doudna"),
+              ("feng-zhang",        "Feng_Zhang"),
+              ("george-church",     "George_Church_(geneticist)"),
+              ("peter-attia",       "Peter_Attia"),
+              ("bryan-johnson",     "Bryan_Johnson_(entrepreneur)"),
+              ("nir-barzilai",      "Nir_Barzilai"),
+              ("daniel-kraft",      "Daniel_Kraft"),
+              ("atul-butte",        "Atul_Butte"),
+              ("brett-adcock",      "Brett_Adcock"),
+              ("marc-raibert",      "Marc_Raibert"),
+              ("peter-beck",        "Peter_Beck_(entrepreneur)"),
+              ("hartmut-neven",     "Hartmut_Neven"),
+              ("krysta-svore",      "Krysta_Svore"),
+              ("john-martinis",     "John_Martinis"),
+              ("jerry-chow",        "url:https://research.ibm.com/people/jerry-chow"),
+              ("alan-baratz",       "Alan_Baratz"),
+              ("michio-kaku",       "Michio_Kaku"),
           ]
 
-          ok = 0
-          failed = []
-
-          for slug, url in VOICES:
+          def save_image(slug, img_url):
               out = f"images/voices/{slug}.jpg"
-              print(f"Downloading {slug}...")
               try:
-                  r = requests.get(url, headers=HEADERS, timeout=20)
+                  r = requests.get(img_url, headers=HEADERS, timeout=20)
                   r.raise_for_status()
-                  img = Image.open(BytesIO(r.content))
-                  img = img.convert("RGB")
-                  # Crop to square from center
+                  img = Image.open(BytesIO(r.content)).convert("RGB")
                   w, h = img.size
                   side = min(w, h)
-                  left = (w - side) // 2
-                  top = (h - side) // 2
-                  img = img.crop((left, top, left + side, top + side))
+                  img = img.crop(((w-side)//2, (h-side)//2, (w+side)//2, (h+side)//2))
                   img = img.resize((200, 200), Image.LANCZOS)
                   img.save(out, "JPEG", quality=85)
                   print(f"  OK: {slug}")
-                  ok += 1
+                  return True
               except Exception as e:
-                  print(f"  FAILED: {slug} — {e}")
+                  print(f"  FAILED image fetch: {slug} — {e}")
+                  return False
+
+          ok, failed = 0, []
+
+          for slug, source in VOICES:
+              print(f"Processing {slug}...")
+              time.sleep(1)  # 1 second between every request
+
+              if source.startswith("url:"):
+                  img_url = source[4:]
+                  if save_image(slug, img_url):
+                      ok += 1
+                  else:
+                      failed.append(slug)
+                  continue
+
+              # Use Wikipedia REST API summary endpoint
+              api_url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{source}"
+              try:
+                  r = requests.get(api_url, headers=HEADERS, timeout=15)
+                  r.raise_for_status()
+                  data = r.json()
+                  thumb = data.get("thumbnail", {}).get("source", "")
+                  original = data.get("originalimage", {}).get("source", "")
+                  img_url = original or thumb
+                  if not img_url:
+                      print(f"  No image in API response: {slug}")
+                      failed.append(slug)
+                      continue
+                  # Use larger thumbnail
+                  img_url = img_url.replace("/200px-", "/400px-")
+                  time.sleep(0.5)
+                  if save_image(slug, img_url):
+                      ok += 1
+                  else:
+                      failed.append(slug)
+              except Exception as e:
+                  print(f"  API error: {slug} — {e}")
                   failed.append(slug)
 
           print(f"\nDone: {ok} OK, {len(failed)} failed")
           if failed:
-              print("Failed:", failed)
+              print("Failed slugs:", failed)
           PYEOF
           python /tmp/download_voices.py
 
@@ -116,5 +154,5 @@ jobs:
           git config user.name "vursyl-bot"
           git config user.email "info@vursyl.com"
           git add images/voices/
-          git diff --staged --quiet || git commit -m "Add voice photos via Python/Pillow [skip ci]"
+          git diff --staged --quiet || git commit -m "Add voice photos via Wikipedia API [skip ci]"
           git push
