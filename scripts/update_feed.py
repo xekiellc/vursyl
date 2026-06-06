@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 VURSYL feed pipeline
-Generates data/news.json and data/media.json
+Generates data/news.json and data/media.json (append-only — items are never deleted)
 Sources: NewsAPI + lab/institution RSS feeds + YouTube Data API
 Filter:  Claude Haiku — positive/constructive content only, categorized
 
@@ -22,8 +22,8 @@ YOUTUBE_KEY   = os.environ["YOUTUBE_API_KEY"]
 
 OUT_NEWS  = "data/news.json"
 OUT_MEDIA = "data/media.json"
-MAX_NEWS_ITEMS  = 60
-MAX_MEDIA_ITEMS = 18
+MAX_NEWS_ITEMS  = 5000   # archive cap — effectively unlimited for years
+MAX_MEDIA_ITEMS = 2000
 LOOKBACK_HOURS  = 48
 MODEL = "claude-haiku-4-5-20251001"
 
@@ -41,16 +41,15 @@ NEWSAPI_QUERIES = {
 
 RSS_FEEDS = [
     ("OpenAI",            "https://openai.com/news/rss.xml"),
-    ("Anthropic",         "https://www.anthropic.com/rss.xml"),
+    ("Anthropic",         "https://www.anthropic.com/news/rss"),
     ("Google DeepMind",   "https://deepmind.google/blog/rss.xml"),
     ("NVIDIA",            "https://blogs.nvidia.com/feed/"),
     ("Microsoft Research","https://www.microsoft.com/en-us/research/feed/"),
     ("MIT News AI",       "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml"),
-    ("IBM Research",      "https://research.ibm.com/blog/rss.xml"),
-    ("NIH News",          "https://www.nih.gov/news-events/news-releases/feed"),
+    ("IBM Research",      "https://research.ibm.com/blog/feed.rss"),
+    ("NIH News",          "https://www.nih.gov/news-events/news-releases/feed.xml"),
 ]
 
-# YouTube channels by handle — resolved to upload playlists at runtime
 YOUTUBE_CHANNELS = [
     "TwoMinutePapers",
     "lexfridman",
@@ -83,10 +82,11 @@ def post_json(url, payload, headers):
         return json.loads(r.read().decode("utf-8"))
 
 def iso(dt_str):
-    """Normalize various date formats to ISO 8601 UTC."""
-    fmts = ["%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M:%S%z",
-            "%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z",
-            "%Y-%m-%dT%H:%M:%S.%fZ"]
+    fmts = [
+        "%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M:%S%z",
+        "%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z",
+        "%Y-%m-%dT%H:%M:%S.%fZ",
+    ]
     for f in fmts:
         try:
             d = datetime.strptime(dt_str.strip(), f)
@@ -104,10 +104,78 @@ def recent(iso_str, hours=LOOKBACK_HOURS):
     except ValueError:
         return False
 
+# ---------------- ARCHIVE MERGE ----------------
+
+def load_existing(path):
+    """Load existing JSON file and return its items list, or empty list if missing/invalid."""
+    try:
+        with open(path, "r") as f:
+            data = json.load(f)
+            return data.get("items", [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+def merge(existing, new_items, max_items):
+    """
+    Merge new items into existing archive.
+    - Deduplicate by URL (primary) and title hash (secondary).
+    - New items prepended so archive is newest-first.
+    - existing items are NEVER removed — append only.
+    - Hero flag only kept on the single most recent hero.
+    - Hard cap at max_items to keep file size sane over years.
+    """
+    seen_urls = set()
+    seen_titles = set()
+    merged = []
+
+    # Index existing by url for O(1) lookup
+    existing_by_url = {i["url"]: i for i in existing if i.get("url")}
+
+    # Bring in new items first (newest first)
+    for item in new_items:
+        url = item.get("url", "")
+        title_key = hashlib.md5(item.get("title", "").lower().encode()).hexdigest()
+        if url in seen_urls or title_key in seen_titles:
+            continue
+        if url in existing_by_url:
+            # Update hero flag if newly designated, keep rest of existing record
+            if item.get("breakthrough"):
+                existing_by_url[url]["breakthrough"] = True
+            seen_urls.add(url)
+            seen_titles.add(title_key)
+            continue
+        seen_urls.add(url)
+        seen_titles.add(title_key)
+        merged.append(item)
+
+    # Append existing items that aren't in new batch
+    for item in existing:
+        url = item.get("url", "")
+        title_key = hashlib.md5(item.get("title", "").lower().encode()).hexdigest()
+        if url in seen_urls or title_key in seen_titles:
+            if url not in seen_urls:
+                merged.append(item)
+            continue
+        seen_urls.add(url)
+        seen_titles.add(title_key)
+        merged.append(item)
+
+    # Only one hero allowed — keep it on the most recent one
+    hero_found = False
+    for item in merged:
+        if item.get("breakthrough"):
+            if hero_found:
+                item.pop("breakthrough", None)
+            else:
+                hero_found = True
+
+    return merged[:max_items]
+
 # ---------------- COLLECTORS ----------------
 
 def collect_newsapi():
-    items, frm = [], (datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)).strftime("%Y-%m-%dT%H:%M:%S")
+    items = []
+    frm = (datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)).strftime("%Y-%m-%dT%H:%M:%S")
     for cat, q in NEWSAPI_QUERIES.items():
         url = ("https://newsapi.org/v2/everything?" + urllib.parse.urlencode({
             "q": q, "from": frm, "language": "en", "sortBy": "publishedAt", "pageSize": 25
@@ -144,11 +212,13 @@ def collect_rss():
                 pub = (e.findtext("pubDate") or e.findtext("atom:published", namespaces=ns)
                        or e.findtext("atom:updated", namespaces=ns) or "")
                 if title and link:
-                    items.append({"title": title, "url": link.strip(), "source": name,
-                                  "category": "ai", "published": iso(pub)})
+                    items.append({
+                        "title": title, "url": link.strip(), "source": name,
+                        "category": "ai", "published": iso(pub),
+                    })
         except Exception as ex:
             print(f"[rss:{name}] {ex}")
-    return [i for i in items if recent(i["published"], hours=96)]  # labs post less often
+    return [i for i in items if recent(i["published"], hours=96)]
 
 def collect_youtube():
     items = []
@@ -167,7 +237,7 @@ def collect_youtube():
                 s = v["snippet"]
                 vid = s["resourceId"]["videoId"]
                 pub = iso(s["publishedAt"])
-                if not recent(pub, hours=120):  # 5-day window for video
+                if not recent(pub, hours=120):
                     continue
                 items.append({
                     "title": s["title"].strip(),
@@ -212,13 +282,16 @@ def claude_filter(items):
         resp = post_json("https://api.anthropic.com/v1/messages", {
             "model": MODEL, "max_tokens": 4000,
             "messages": [{"role": "user", "content": FILTER_PROMPT + listing}],
-        }, {"Content-Type": "application/json", "x-api-key": ANTHROPIC_KEY,
-            "anthropic-version": "2023-06-01"})
+        }, {
+            "Content-Type": "application/json",
+            "x-api-key": ANTHROPIC_KEY,
+            "anthropic-version": "2023-06-01",
+        })
         text = "".join(b.get("text", "") for b in resp.get("content", []))
         text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
         decisions = json.loads(text).get("accepted", [])
     except Exception as e:
-        print(f"[claude] filter failed: {e} — failing closed (no unfiltered publishing)")
+        print(f"[claude] filter failed: {e} — failing closed")
         return []
     out = []
     for d in decisions:
@@ -231,8 +304,6 @@ def claude_filter(items):
             out.append(item)
     return out
 
-# ---------------- MAIN ----------------
-
 def dedupe(items):
     seen, out = set(), []
     for i in items:
@@ -242,36 +313,49 @@ def dedupe(items):
             out.append(i)
     return out
 
+# ---------------- MAIN ----------------
+
 def main():
     os.makedirs("data", exist_ok=True)
 
-    print("Collecting articles…")
-    articles = dedupe(collect_newsapi() + collect_rss())
-    print(f"  {len(articles)} candidates")
-    news = claude_filter(articles)
-    news.sort(key=lambda x: x["published"], reverse=True)
-    heroes = [n for n in news if n.get("breakthrough")]
-    for extra in heroes[1:]:
-        extra.pop("breakthrough", None)
-    news = news[:MAX_NEWS_ITEMS]
-    print(f"  {len(news)} accepted")
+    # Load existing archives
+    existing_news  = load_existing(OUT_NEWS)
+    existing_media = load_existing(OUT_MEDIA)
+    print(f"Archive: {len(existing_news)} news, {len(existing_media)} media items loaded")
 
+    # Collect + filter new articles
+    print("Collecting articles…")
+    raw_articles = dedupe(collect_newsapi() + collect_rss())
+    print(f"  {len(raw_articles)} candidates")
+    new_news = claude_filter(raw_articles)
+    new_news.sort(key=lambda x: x["published"], reverse=True)
+    print(f"  {len(new_news)} accepted")
+
+    # Collect + filter new media
     print("Collecting media…")
-    videos = dedupe(collect_youtube())
-    print(f"  {len(videos)} candidates")
-    media = claude_filter(videos)
-    for m in media:
+    raw_media = dedupe(collect_youtube())
+    print(f"  {len(raw_media)} candidates")
+    new_media = claude_filter(raw_media)
+    for m in new_media:
         m.pop("breakthrough", None)
-    media.sort(key=lambda x: x["published"], reverse=True)
-    media = media[:MAX_MEDIA_ITEMS]
-    print(f"  {len(media)} accepted")
+    new_media.sort(key=lambda x: x["published"], reverse=True)
+    print(f"  {len(new_media)} accepted")
+
+    # Merge new into existing archives (append-only)
+    all_news  = merge(existing_news,  new_news,  MAX_NEWS_ITEMS)
+    all_media = merge(existing_media, new_media, MAX_MEDIA_ITEMS)
 
     stamp = datetime.now(timezone.utc).isoformat()
     with open(OUT_NEWS, "w") as f:
-        json.dump({"updated": stamp, "items": news}, f, indent=1)
+        json.dump({"updated": stamp, "items": all_news}, f, indent=1)
     with open(OUT_MEDIA, "w") as f:
-        json.dump({"updated": stamp, "items": media}, f, indent=1)
-    print("Done — data/news.json + data/media.json written.")
+        json.dump({"updated": stamp, "items": all_media}, f, indent=1)
+
+    print(f"Done — {len(all_news)} news / {len(all_media)} media items in archive.")
+    print(f"  New this run: {len(new_news)} news / {len(new_media)} media")
+
+def __main__():
+    main()
 
 if __name__ == "__main__":
     main()
