@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#070B14"/>
+  <line x1="10" y1="10" x2="22" y2="10" stroke="#2C4470" stroke-width="1.2"/>
+  <line x1="10" y1="10" x2="16" y2="22" stroke="#2C4470" stroke-width="1.2"/>
+  <line x1="22" y1="10" x2="16" y2="22" stroke="#2C4470" stroke-width="1.2"/>
+  <line x1="10" y1="10" x2="5" y2="18" stroke="#1C2840" stroke-width="1"/>
+  <line x1="22" y1="10" x2="27" y2="18" stroke="#1C2840" stroke-width="1"/>
+  <line x1="16" y1="22" x2="16" y2="28" stroke="#1C2840" stroke-width="1"/>
+  <circle cx="10" cy="10" r="2.8" fill="#A78BFA"/>
+  <circle cx="22" cy="10" r="2.4" fill="#64E0B8"/>
+  <circle cx="16" cy="22" r="2.6" fill="#60A5FA"/>
+  <circle cx="5" cy="18" r="1.6" fill="#5A6C8F" opacity=".7"/>
+  <circle cx="27" cy="18" r="1.6" fill="#5A6C8F" opacity=".7"/>
+  <circle cx="16" cy="28" r="1.4" fill="#5A6C8F" opacity=".6"/>
+  <circle cx="16" cy="15" r="1.8" fill="#64E0B8" opacity=".5"/>
+</svg>
