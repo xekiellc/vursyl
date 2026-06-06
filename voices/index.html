@@ -76,6 +76,7 @@ header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rg
 .count-line{font-family:var(--font-m);font-size:.72rem;letter-spacing:.18em;color:var(--text-faint);text-transform:uppercase;margin-bottom:20px}
 
 .voices-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;padding-bottom:80px}
+
 .vcard{border:1px solid var(--line);border-radius:16px;background:var(--card);padding:24px 26px;display:flex;flex-direction:column;gap:14px;position:relative;overflow:hidden;opacity:0;transform:translateY(16px);transition:opacity .5s ease,transform .5s ease,border-color .2s,box-shadow .2s}
 .vcard.vis{opacity:1;transform:none}
 .vcard:hover{border-color:var(--line-hi);box-shadow:0 12px 36px -16px rgba(167,139,250,.18)}
@@ -87,10 +88,16 @@ header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rg
 .vcard[data-cat="robotics"]{--c:var(--sky)}
 .vcard[data-cat="compute"]{--c:var(--amber)}
 
-.avatar{width:52px;height:52px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:var(--font-d);font-weight:800;font-size:1rem;letter-spacing:.05em;flex-shrink:0;border:1px solid var(--line-hi)}
+/* AVATAR — photo or initials fallback */
+.avatar{width:56px;height:56px;border-radius:50%;flex-shrink:0;border:2px solid var(--line-hi);overflow:hidden;position:relative;display:flex;align-items:center;justify-content:center;font-family:var(--font-d);font-weight:800;font-size:1rem;letter-spacing:.05em}
+.avatar img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
+.avatar img.error{display:none}
+.avatar .initials{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-family:var(--font-d);font-weight:800;font-size:.95rem}
+.avatar .initials.hidden{display:none}
+
 .vcard-top{display:flex;align-items:center;gap:14px}
-.vcard-top .info h2{font-family:var(--font-d);font-weight:600;font-size:.92rem;letter-spacing:.04em;margin-bottom:4px}
-.vcard-top .info .role{font-size:.78rem;color:var(--text-dim)}
+.vcard-top .info h2{font-family:var(--font-d);font-weight:600;font-size:.9rem;letter-spacing:.04em;margin-bottom:4px}
+.vcard-top .info .role{font-size:.76rem;color:var(--text-dim)}
 .vcard p{font-size:.86rem;color:var(--text-dim);line-height:1.6;flex:1}
 .vcard-footer{display:flex;align-items:center;justify-content:space-between;gap:8px;padding-top:12px;border-top:1px solid var(--line)}
 .vcard-footer .mentions{font-family:var(--font-m);font-size:.68rem;letter-spacing:.12em;color:var(--text-faint);text-transform:uppercase}
@@ -165,7 +172,7 @@ footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;pos
 
 <script>
 const CAT_COLORS={ai:"#A78BFA",quantum:"#64E0B8",health:"#F0A4C0",robotics:"#60A5FA",compute:"#F5C078"};
-const CAT_BG={ai:"rgba(167,139,250,.12)",quantum:"rgba(100,224,184,.12)",health:"rgba(240,164,192,.12)",robotics:"rgba(96,165,250,.12)",compute:"rgba(245,192,120,.12)"};
+const CAT_BG={ai:"rgba(167,139,250,.15)",quantum:"rgba(100,224,184,.15)",health:"rgba(240,164,192,.15)",robotics:"rgba(96,165,250,.15)",compute:"rgba(245,192,120,.15)"};
 
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
@@ -177,17 +184,29 @@ function countMentions(voice){
   return NEWS.filter(item=>keys.some(k=>item.title.toLowerCase().includes(k))).length;
 }
 
+function avatarHTML(v){
+  const color=CAT_COLORS[v.cat]||"#A78BFA";
+  const bg=CAT_BG[v.cat]||"rgba(167,139,250,.15)";
+  if(v.photo){
+    return`<div class="avatar" style="border-color:${color}20">
+      <img src="${esc(v.photo)}" alt="${esc(v.name)}" loading="lazy" onerror="this.classList.add('error');this.nextElementSibling.classList.remove('hidden')">
+      <div class="initials hidden" style="background:${bg};color:${color}">${esc(v.initials)}</div>
+    </div>`;
+  }
+  return`<div class="avatar" style="background:${bg};color:${color};border-color:${color}30">
+    <div class="initials" style="color:${color}">${esc(v.initials)}</div>
+  </div>`;
+}
+
 function render(){
   const filtered=activeFilter==="all"?VOICES:VOICES.filter(v=>v.cat===activeFilter);
   document.getElementById("countLine").textContent=`${filtered.length} voice${filtered.length!==1?"s":""}`;
   const grid=document.getElementById("voicesGrid");
   grid.innerHTML=filtered.map((v,i)=>{
-    const color=CAT_COLORS[v.cat]||"#A78BFA";
-    const bg=CAT_BG[v.cat]||"rgba(167,139,250,.12)";
     const mentions=countMentions(v);
     return`<a class="vcard" href="/voices/profile.html?slug=${esc(v.slug)}" data-cat="${v.cat}" style="transition-delay:${Math.min(i*35,320)}ms">
       <div class="vcard-top">
-        <div class="avatar" style="background:${bg};color:${color}">${esc(v.initials)}</div>
+        ${avatarHTML(v)}
         <div class="info">
           <h2>${esc(v.name)}</h2>
           <div class="role">${esc(v.role)}</div>
