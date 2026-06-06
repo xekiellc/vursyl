@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & LLMs — VURSYL</title>
+<meta name="description" content="The latest breakthroughs in artificial intelligence, large language models, AI research, and AI products — curated and filtered for positive, constructive progress.">
+<link rel="canonical" href="https://vursyl.com/category/ai.html">
+<meta property="og:title" content="AI & LLMs — VURSYL">
+<meta property="og:description" content="Breakthroughs in artificial intelligence and large language models. Positive progress only.">
+<meta property="og:url" content="https://vursyl.com/category/ai.html">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#070B14">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='30' cy='35' r='8' fill='%2364E0B8'/><circle cx='70' cy='30' r='6' fill='%23A78BFA'/><circle cx='55' cy='70' r='7' fill='%2360A5FA'/><line x1='30' y1='35' x2='70' y2='30' stroke='%23335' stroke-width='3'/><line x1='70' y1='30' x2='55' y2='70' stroke='%23335' stroke-width='3'/><line x1='30' y1='35' x2='55' y2='70' stroke='%23335' stroke-width='3'/></svg>">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WLXN8N61GF"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js',new Date());
+  gtag('config','G-WLXN8N61GF');
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Outfit:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --bg:#070B14;--bg2:#0B1220;--card:#0E1626;--card-hi:#13203A;
+  --line:#1C2840;--line-hi:#2C4470;
+  --text:#F2F6FF;--text-dim:#8FA3C8;--text-faint:#5A6C8F;
+  --mint:#64E0B8;--violet:#A78BFA;--sky:#60A5FA;--pink:#F0A4C0;--amber:#F5C078;--leaf:#A3D977;
+  --accent:var(--violet);
+  --aurora:linear-gradient(110deg,#A78BFA 0%,#60A5FA 35%,#64E0B8 70%,#A3D977 100%);
+  --font-d:'Unbounded',sans-serif;--font-b:'Outfit',sans-serif;--font-m:'JetBrains Mono',monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:var(--font-b);font-weight:300;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+::selection{background:var(--accent);color:var(--bg)}
+
+#field{position:fixed;inset:0;z-index:0;pointer-events:none}
+.wrap{position:relative;z-index:1;max-width:1200px;margin:0 auto;padding:0 24px}
+
+/* NAV */
+header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rgba(7,11,20,.78);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:64px;max-width:1200px;margin:0 auto;padding:0 24px}
+.logo{font-family:var(--font-d);font-weight:800;font-size:1.05rem;letter-spacing:.22em}
+.logo span{background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
+.nav-links{display:flex;gap:22px;align-items:center}
+.nav-links a{font-size:.84rem;font-weight:400;color:var(--text-dim);letter-spacing:.04em;transition:color .2s}
+.nav-links a:hover{color:var(--text)}
+.nav-links a.active{color:var(--accent);font-weight:500}
+.nav-links a.rc{color:var(--mint);font-weight:500}
+.nav-links a.arc{color:var(--amber)}
+.menu-btn{display:none;background:none;border:none;color:var(--text);font-size:1.5rem;cursor:pointer}
+@keyframes auroraShift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+
+/* CAT NAV */
+.cat-nav{border-bottom:1px solid var(--line);background:var(--bg2);position:relative;z-index:1}
+.cat-nav-inner{display:flex;gap:4px;max-width:1200px;margin:0 auto;padding:0 24px;overflow-x:auto;scrollbar-width:none}
+.cat-nav-inner::-webkit-scrollbar{display:none}
+.cn{font-family:var(--font-b);font-weight:500;font-size:.82rem;color:var(--text-dim);padding:12px 16px;border-bottom:2px solid transparent;white-space:nowrap;transition:color .2s,border-color .2s;text-decoration:none;display:block}
+.cn:hover{color:var(--text)}
+.cn.active{border-bottom-color:var(--accent);color:var(--accent)}
+
+/* HERO */
+.page-hero{padding:64px 0 44px}
+.page-hero .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--accent);text-transform:uppercase}
+.page-hero h1{font-family:var(--font-d);font-weight:800;font-size:clamp(1.8rem,5vw,3rem);letter-spacing:.1em;margin-top:14px;line-height:1.15}
+.page-hero p{color:var(--text-dim);margin-top:14px;font-size:1rem;line-height:1.7;max-width:600px}
+.page-hero .count{font-family:var(--font-m);font-size:.74rem;color:var(--text-faint);letter-spacing:.2em;margin-top:12px;text-transform:uppercase}
+
+/* HERO CARD */
+.botd{margin:0 0 14px;border:1px solid var(--line-hi);border-radius:18px;background:linear-gradient(160deg,var(--card-hi),var(--card));padding:28px 32px;position:relative;overflow:hidden;opacity:0;transform:translateY(20px);transition:opacity .7s ease,transform .7s ease}
+.botd.vis{opacity:1;transform:none}
+.botd::before{content:"";position:absolute;inset:0 0 auto 0;height:3px;background:var(--accent)}
+.botd .k{font-family:var(--font-m);font-size:.68rem;letter-spacing:.28em;color:var(--accent);text-transform:uppercase}
+.botd h2{font-family:var(--font-d);font-weight:600;font-size:clamp(1.1rem,2.8vw,1.55rem);line-height:1.35;margin:12px 0 10px}
+.botd h2 a:hover{text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:6px}
+.botd .meta{font-size:.82rem;color:var(--text-dim)}
+
+/* GRID */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:16px;padding:18px 0 60px}
+.card{border:1px solid var(--line);border-radius:14px;background:var(--card);padding:20px 22px;display:flex;flex-direction:column;gap:12px;position:relative;overflow:hidden;opacity:0;transform:translateY(20px);transition:opacity .55s ease,transform .55s ease,border-color .2s,box-shadow .2s}
+.card.vis{opacity:1;transform:none}
+.card::before{content:"";position:absolute;top:0;left:0;right:0;height:2px;background:var(--accent);opacity:0;transition:opacity .2s}
+.card:hover{border-color:var(--line-hi);box-shadow:0 12px 36px -16px rgba(167,139,250,.3)}
+.card:hover::before{opacity:1}
+.card .cat{font-family:var(--font-m);font-size:.64rem;letter-spacing:.2em;text-transform:uppercase;color:var(--accent)}
+.card h3{font-weight:500;font-size:1rem;line-height:1.45;flex:1}
+.card h3 a:hover{text-decoration:underline;text-underline-offset:5px}
+.card .meta{font-size:.76rem;color:var(--text-faint);display:flex;justify-content:space-between;gap:10px}
+
+/* LOAD MORE */
+.load-wrap{text-align:center;padding:0 0 60px}
+.load-btn{font-family:var(--font-b);font-weight:500;font-size:.9rem;padding:13px 36px;border-radius:999px;border:1px solid var(--line-hi);background:transparent;color:var(--text-dim);cursor:pointer;transition:all .2s;letter-spacing:.04em}
+.load-btn:hover{border-color:var(--accent);color:var(--accent)}
+.load-btn:disabled{opacity:.4;cursor:default}
+
+/* SIDEBAR VOICES */
+.layout{display:grid;grid-template-columns:1fr 300px;gap:32px;align-items:start}
+.voices{position:sticky;top:80px}
+.voices-box{border:1px solid var(--line);border-radius:14px;background:var(--card);padding:20px 22px}
+.voices-box .k{font-family:var(--font-m);font-size:.66rem;letter-spacing:.22em;color:var(--accent);text-transform:uppercase;margin-bottom:14px}
+.voice{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:1px solid var(--line)}
+.voice:last-child{border-bottom:none;padding-bottom:0}
+.v-dot{width:8px;height:8px;border-radius:50%;background:var(--accent);flex-shrink:0}
+.v-name{font-weight:500;font-size:.88rem}
+.v-role{font-size:.74rem;color:var(--text-faint);margin-top:2px}
+
+/* FOOTER */
+footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;position:relative;z-index:1}
+.f-in{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;align-items:center}
+.f-in .fl{font-family:var(--font-d);font-weight:800;letter-spacing:.2em;font-size:.95rem}
+.f-in p{color:var(--text-faint);font-size:.82rem;line-height:1.7}
+.f-in a{color:var(--text-dim)}
+.f-in a:hover{color:var(--mint)}
+
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
+  .botd,.card{opacity:1;transform:none}
+}
+@media(max-width:900px){
+  .layout{grid-template-columns:1fr}
+  .voices{position:static}
+}
+@media(max-width:760px){
+  .nav-links{display:none;position:absolute;top:64px;left:0;right:0;background:var(--bg2);border-bottom:1px solid var(--line);flex-direction:column;padding:18px 24px;gap:18px;align-items:flex-start}
+  .nav-links.open{display:flex}
+  .menu-btn{display:block}
+}
+</style>
+</head>
+<body>
+
+<canvas id="field" aria-hidden="true"></canvas>
+
+<header>
+  <nav class="nav">
+    <a class="logo" href="/"><span>VURSYL</span></a>
+    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    <div class="nav-links" id="navLinks">
+      <a href="/category/ai.html" class="active">AI &amp; LLMs</a>
+      <a href="/category/quantum.html">Quantum</a>
+      <a href="/category/health.html">Health &amp; Bio</a>
+      <a href="/category/robotics.html">Robotics &amp; Space</a>
+      <a href="/category/compute.html">Compute &amp; Data</a>
+      <a href="/category/breakthroughs.html">Breakthroughs</a>
+      <a href="/archive.html" class="arc">Archive</a>
+      <a href="/reality-check.html" class="rc">Reality Check</a>
+    </div>
+  </nav>
+</header>
+
+<nav class="cat-nav" aria-label="Categories">
+  <div class="cat-nav-inner">
+    <a class="cn active" href="/category/ai.html">AI &amp; LLMs</a>
+    <a class="cn" href="/category/quantum.html">Quantum</a>
+    <a class="cn" href="/category/health.html">Health &amp; Bio</a>
+    <a class="cn" href="/category/robotics.html">Robotics &amp; Space</a>
+    <a class="cn" href="/category/compute.html">Compute &amp; Data</a>
+    <a class="cn" href="/category/breakthroughs.html">Breakthroughs</a>
+  </div>
+</nav>
+
+<div class="wrap" style="padding-top:0">
+  <div class="page-hero">
+    <div class="k">Category</div>
+    <h1>AI &amp; LLMs</h1>
+    <p>Breakthroughs in artificial intelligence, large language models, AI research, agents, and products. Every item curated for positive, constructive progress.</p>
+    <div class="count" id="countLine">Loading…</div>
+  </div>
+
+  <div class="layout">
+    <div>
+      <article class="botd" id="botd"></article>
+      <div class="grid" id="grid"></div>
+      <div class="load-wrap" id="loadWrap" style="display:none">
+        <button class="load-btn" id="loadBtn">Load more</button>
+      </div>
+    </div>
+
+    <aside class="voices">
+      <div class="voices-box">
+        <div class="k">Key voices</div>
+        <div class="voice"><div class="v-dot"></div><div><div class="v-name">Sam Altman</div><div class="v-role">CEO, OpenAI</div></div></div>
+        <div class="voice"><div class="v-dot"></div><div><div class="v-name">Dario Amodei</div><div class="v-role">CEO, Anthropic</div></div></div>
+        <div class="voice"><div class="v-dot"></div><div><div class="v-name">Andrej Karpathy</div><div class="v-role">Anthropic pre-training</div></div></div>
+        <div class="voice"><div class="v-dot"></div><div><div class="v-name">Demis Hassabis</div><div class="v-role">CEO, Google DeepMind</div></div></div>
+        <div class="voice"><div class="v-dot"></div><div><div class="v-name">Yann LeCun</div><div class="v-role">Chief AI Scientist, Meta</div></div></div>
+        <div class="voice"><div class="v-dot"></div><div><div class="v-name">Andrew Ng</div><div class="v-role">Founder, DeepLearning.AI</div></div></div>
+        <div class="voice"><div class="v-dot"></div><div><div class="v-name">Fei-Fei Li</div><div class="v-role">Stanford HAI</div></div></div>
+        <div class="voice"><div class="v-dot"></div><div><div class="v-name">Sebastian Raschka</div><div class="v-role">LLM researcher &amp; author</div></div></div>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<footer>
+  <div class="f-in">
+    <div>
+      <div class="fl">VURSYL</div>
+      <p style="margin-top:8px">The universal hub for positive AI, quantum &amp; emerging technology news.</p>
+    </div>
+    <p>© 2026 Vursyl · <a href="mailto:info@vursyl.com">info@vursyl.com</a> · One feed. Universal knowledge.</p>
+  </div>
+</footer>
+
+<script>
+const CAT="ai";
+const LABEL="AI & LLMs";
+const PAGE=30;
+let ALL=[],page=1;
+
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function ago(iso){
+  const m=Math.floor((Date.now()-new Date(iso))/60000);
+  if(m<60)return m+"m ago";if(m<1440)return Math.floor(m/60)+"h ago";
+  return Math.floor(m/1440)+"d ago";
+}
+
+function render(){
+  const items=ALL;
+  const hero=items.find(i=>i.breakthrough)||items[0];
+  const rest=items.filter(i=>i!==hero);
+  const pageItems=rest.slice(0,page*PAGE);
+
+  const botd=document.getElementById("botd");
+  if(hero){
+    botd.innerHTML=`<div class="k">Latest breakthrough</div>
+      <h2><a href="${esc(hero.url)}" target="_blank" rel="noopener">${esc(hero.title)}</a></h2>
+      <div class="meta">${esc(hero.source)} · ${ago(hero.published)}</div>`;
+    botd.style.display="";
+  } else botd.style.display="none";
+
+  document.getElementById("grid").innerHTML=pageItems.map((i,idx)=>`
+    <article class="card" style="transition-delay:${Math.min(idx%PAGE*35,300)}ms">
+      <div class="cat">${LABEL}</div>
+      <h3><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+      <div class="meta"><span>${esc(i.source)}</span><span>${ago(i.published)}</span></div>
+    </article>`).join("");
+
+  document.getElementById("countLine").textContent=`${items.length.toLocaleString()} articles in archive`;
+  const loadWrap=document.getElementById("loadWrap");
+  const loadBtn=document.getElementById("loadBtn");
+  if(rest.length>pageItems.length){
+    loadWrap.style.display="";
+    loadBtn.textContent=`Load more (${rest.length-pageItems.length} remaining)`;
+    loadBtn.disabled=false;
+  } else loadWrap.style.display="none";
+
+  reveal();
+}
+
+function reveal(){
+  const io=new IntersectionObserver(es=>es.forEach(e=>{
+    if(e.isIntersecting){e.target.classList.add("vis");io.unobserve(e.target);}
+  }),{threshold:.06});
+  document.querySelectorAll(".botd:not(.vis),.card:not(.vis)").forEach(el=>io.observe(el));
+}
+
+document.getElementById("loadBtn").addEventListener("click",()=>{page++;render();});
+document.getElementById("menuBtn").addEventListener("click",()=>
+  document.getElementById("navLinks").classList.toggle("open"));
+
+/* CONSTELLATION */
+(function(){
+  const cv=document.getElementById("field"),ctx=cv.getContext("2d");
+  const reduced=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if(reduced)return;
+  let W,H,nodes=[],mx=.5,my=.5;
+  const COLORS=["#A78BFA","#60A5FA","#64E0B8"];
+  function size(){
+    W=cv.width=innerWidth;H=cv.height=innerHeight;
+    const n=Math.min(55,Math.floor(W*H/26000));
+    nodes=Array.from({length:n},()=>({x:Math.random()*W,y:Math.random()*H,
+      vx:(Math.random()-.5)*.18,vy:(Math.random()-.5)*.18,
+      r:Math.random()*1.5+.6,c:COLORS[Math.floor(Math.random()*3)]}));
+  }
+  function draw(){
+    ctx.clearRect(0,0,W,H);
+    const px=(mx-.5)*16,py=(my-.5)*16;
+    for(const n of nodes){
+      n.x+=n.vx;n.y+=n.vy;
+      if(n.x<0||n.x>W)n.vx*=-1;if(n.y<0||n.y>H)n.vy*=-1;
+    }
+    ctx.lineWidth=1;
+    for(let i=0;i<nodes.length;i++)for(let j=i+1;j<nodes.length;j++){
+      const a=nodes[i],b=nodes[j],d=(a.x-b.x)**2+(a.y-b.y)**2;
+      if(d<130*130){
+        ctx.strokeStyle=`rgba(80,60,180,${(1-d/16900)*.28})`;
+        ctx.beginPath();ctx.moveTo(a.x+px,a.y+py);ctx.lineTo(b.x+px,b.y+py);ctx.stroke();
+      }
+    }
+    for(const n of nodes){
+      ctx.fillStyle=n.c;ctx.globalAlpha=.65;
+      ctx.beginPath();ctx.arc(n.x+px,n.y+py,n.r,0,7);ctx.fill();ctx.globalAlpha=1;
+    }
+    requestAnimationFrame(draw);
+  }
+  size();draw();
+  addEventListener("resize",size);
+  addEventListener("mousemove",e=>{mx=e.clientX/W;my=e.clientY/H;});
+})();
+
+/* LOAD DATA */
+fetch("../data/news.json",{cache:"no-store"})
+  .then(r=>r.ok?r.json():null)
+  .then(j=>{
+    if(j?.items?.length){
+      ALL=j.items.filter(i=>i.category===CAT);
+      ALL.sort((a,b)=>new Date(b.published)-new Date(a.published));
+    }
+    render();
+  })
+  .catch(()=>render());
+</script>
+</body>
+</html>
