@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>404 — VURSYL</title>
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#070B14">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='30' cy='35' r='8' fill='%2364E0B8'/><circle cx='70' cy='30' r='6' fill='%23A78BFA'/><circle cx='55' cy='70' r='7' fill='%2360A5FA'/><line x1='30' y1='35' x2='70' y2='30' stroke='%23335' stroke-width='3'/><line x1='70' y1='30' x2='55' y2='70' stroke='%23335' stroke-width='3'/><line x1='30' y1='35' x2='55' y2='70' stroke='%23335' stroke-width='3'/></svg>">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WLXN8N61GF"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js',new Date());
+  gtag('config','G-WLXN8N61GF');
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Outfit:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --bg:#070B14;--bg2:#0B1220;--card:#0E1626;--card-hi:#13203A;
+  --line:#1C2840;--line-hi:#2C4470;
+  --text:#F2F6FF;--text-dim:#8FA3C8;--text-faint:#5A6C8F;
+  --mint:#64E0B8;--violet:#A78BFA;--sky:#60A5FA;--amber:#F5C078;--leaf:#A3D977;
+  --aurora:linear-gradient(110deg,#A78BFA 0%,#60A5FA 35%,#64E0B8 70%,#A3D977 100%);
+  --font-d:'Unbounded',sans-serif;--font-b:'Outfit',sans-serif;--font-m:'JetBrains Mono',monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%}
+body{background:var(--bg);color:var(--text);font-family:var(--font-b);font-weight:300;overflow:hidden;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+
+#field{position:fixed;inset:0;z-index:0;pointer-events:none}
+
+.page{position:relative;z-index:1;height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px}
+
+.logo{font-family:var(--font-d);font-weight:800;font-size:1rem;letter-spacing:.22em;position:absolute;top:24px;left:24px}
+.logo span{background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
+
+.code{font-family:var(--font-d);font-weight:800;font-size:clamp(5rem,18vw,11rem);letter-spacing:.08em;line-height:1;background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite;margin-bottom:16px}
+
+.k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--text-faint);text-transform:uppercase;margin-bottom:18px}
+
+.msg{font-family:var(--font-d);font-weight:600;font-size:clamp(1rem,3vw,1.6rem);letter-spacing:.06em;margin-bottom:16px}
+
+.sub{font-size:.95rem;color:var(--text-dim);line-height:1.7;max-width:480px;margin:0 auto 40px}
+
+.links{display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
+.link{font-family:var(--font-b);font-weight:500;font-size:.88rem;letter-spacing:.04em;padding:11px 24px;border-radius:999px;border:1px solid var(--line-hi);color:var(--text-dim);transition:all .2s}
+.link:hover{border-color:var(--mint);color:var(--mint)}
+.link.primary{background:var(--aurora);background-size:300% 100%;border:none;color:#06140F;animation:auroraShift 8s linear infinite}
+.link.primary:hover{transform:translateY(-2px);box-shadow:0 12px 32px -10px rgba(100,224,184,.4)}
+
+.signal{position:absolute;bottom:28px;font-family:var(--font-m);font-size:.7rem;letter-spacing:.2em;color:var(--text-faint);text-transform:uppercase}
+.signal span{color:var(--mint)}
+
+@keyframes auroraShift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
+}
+</style>
+</head>
+<body>
+
+<canvas id="field" aria-hidden="true"></canvas>
+
+<div class="page">
+  <a class="logo" href="/"><span>VURSYL</span></a>
+
+  <div class="code">404</div>
+  <div class="k">Signal lost</div>
+  <div class="msg">This page doesn't exist.</div>
+  <p class="sub">The URL may have changed, or this page never made it through the positivity filter. Either way, there are breakthroughs waiting for you on the other side.</p>
+
+  <div class="links">
+    <a class="link primary" href="/">Back to the feed →</a>
+    <a class="link" href="/archive.html">Archive</a>
+    <a class="link" href="/reality-check.html">Reality Check</a>
+    <a class="link" href="/about.html">About</a>
+  </div>
+
+  <div class="signal">VURSYL · <span>SIGNAL ACTIVE</span> · ONE FEED. UNIVERSAL KNOWLEDGE.</div>
+</div>
+
+<script>
+(function(){
+  const cv=document.getElementById("field"),ctx=cv.getContext("2d");
+  const reduced=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if(reduced)return;
+  let W,H,nodes=[],pulses=[],mx=.5,my=.5,raf;
+  const COLORS=["#64E0B8","#A78BFA","#60A5FA"];
+  function size(){
+    W=cv.width=innerWidth;H=cv.height=innerHeight;
+    const n=Math.min(60,Math.floor(W*H/20000));
+    nodes=Array.from({length:n},()=>({
+      x:Math.random()*W,y:Math.random()*H,
+      vx:(Math.random()-.5)*.22,vy:(Math.random()-.5)*.22,
+      r:Math.random()*1.8+.7,c:COLORS[Math.floor(Math.random()*3)]
+    }));
+  }
+  function pulse(){
+    if(nodes.length<2)return;
+    const a=nodes[Math.floor(Math.random()*nodes.length)];
+    let b=null,bd=1e9;
+    for(const n of nodes){if(n===a)continue;const d=(n.x-a.x)**2+(n.y-a.y)**2;if(d<bd){bd=d;b=n}}
+    if(b&&bd<180*180)pulses.push({a,b,t:0});
+  }
+  function draw(){
+    ctx.clearRect(0,0,W,H);
+    const px=(mx-.5)*28,py=(my-.5)*28;
+    for(const n of nodes){
+      n.x+=n.vx;n.y+=n.vy;
+      if(n.x<0||n.x>W)n.vx*=-1;if(n.y<0||n.y>H)n.vy*=-1;
+    }
+    ctx.lineWidth=1;
+    for(let i=0;i<nodes.length;i++)for(let j=i+1;j<nodes.length;j++){
+      const a=nodes[i],b=nodes[j],dx=a.x-b.x,dy=a.y-b.y,d=dx*dx+dy*dy;
+      if(d<170*170){
+        ctx.strokeStyle=`rgba(60,90,150,${(1-d/28900)*.4})`;
+        ctx.beginPath();ctx.moveTo(a.x+px,a.y+py);ctx.lineTo(b.x+px,b.y+py);ctx.stroke();
+      }
+    }
+    for(const n of nodes){
+      ctx.fillStyle=n.c;ctx.globalAlpha=.75;
+      ctx.beginPath();ctx.arc(n.x+px,n.y+py,n.r,0,7);ctx.fill();ctx.globalAlpha=1;
+    }
+    pulses=pulses.filter(p=>p.t<1);
+    for(const p of pulses){
+      p.t+=.018;
+      const x=p.a.x+(p.b.x-p.a.x)*p.t,y=p.a.y+(p.b.y-p.a.y)*p.t;
+      ctx.fillStyle="#CFFCEB";ctx.beginPath();ctx.arc(x+px,y+py,2.4,0,7);ctx.fill();
+    }
+    raf=requestAnimationFrame(draw);
+  }
+  size();draw();
+  setInterval(pulse,700);
+  addEventListener("resize",size);
+  addEventListener("mousemove",e=>{mx=e.clientX/W;my=e.clientY/H;});
+  document.addEventListener("visibilitychange",()=>{
+    if(document.hidden)cancelAnimationFrame(raf);else draw();
+  });
+})();
+</script>
+</body>
+</html>
