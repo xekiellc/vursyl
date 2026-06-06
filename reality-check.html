@@ -1,497 +1,454 @@
+#!/usr/bin/env python3
+"""
+VURSYL feed pipeline
+Generates:
+  data/news.json         — positive news archive (append-only)
+  data/media.json        — video/podcast archive (append-only)
+  data/reality-check.json — auto-generated Reality Check entries
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Reality Check — VURSYL</title>
-<meta name="description" content="The doom is overrated. The data isn't. Vursyl Reality Check takes the most viral claims about AI, data centers, and emerging tech — and tests them against the numbers.">
-<link rel="canonical" href="https://vursyl.com/reality-check.html">
-<meta property="og:title" content="Reality Check — VURSYL">
-<meta property="og:description" content="The doom is overrated. The data isn't. AI panic headlines rarely survive contact with the evidence.">
-<meta property="og:url" content="https://vursyl.com/reality-check.html">
-<meta property="og:type" content="website">
-<meta name="theme-color" content="#070B14">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='30' cy='35' r='8' fill='%2364E0B8'/><circle cx='70' cy='30' r='6' fill='%23A78BFA'/><circle cx='55' cy='70' r='7' fill='%2360A5FA'/><line x1='30' y1='35' x2='70' y2='30' stroke='%23335' stroke-width='3'/><line x1='70' y1='30' x2='55' y2='70' stroke='%23335' stroke-width='3'/><line x1='30' y1='35' x2='55' y2='70' stroke='%23335' stroke-width='3'/></svg>">
+Env vars required:
+  NEWSAPI_KEY        - newsapi.org key
+  ANTHROPIC_API_KEY  - Claude API key
+  YOUTUBE_API_KEY    - YouTube Data API v3 key
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WLXN8N61GF"></script>
-<script>
-  window.dataLayer=window.dataLayer||[];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js',new Date());
-  gtag('config','G-WLXN8N61GF');
-</script>
+Run: python scripts/update_feed.py
+"""
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Outfit:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+import os, json, time, hashlib, urllib.request, urllib.parse, xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, timezone
 
-<style>
-:root{
-  --bg:#070B14;--bg2:#0B1220;--card:#0E1626;--card-hi:#13203A;
-  --line:#1C2840;--line-hi:#2C4470;
-  --text:#F2F6FF;--text-dim:#8FA3C8;--text-faint:#5A6C8F;
-  --mint:#64E0B8;--violet:#A78BFA;--sky:#60A5FA;--pink:#F0A4C0;--amber:#F5C078;--leaf:#A3D977;--red:#F87171;
-  --aurora:linear-gradient(110deg,#A78BFA 0%,#60A5FA 35%,#64E0B8 70%,#A3D977 100%);
-  --font-d:'Unbounded',sans-serif;--font-b:'Outfit',sans-serif;--font-m:'JetBrains Mono',monospace;
+NEWSAPI_KEY   = os.environ["NEWSAPI_KEY"]
+ANTHROPIC_KEY = os.environ["ANTHROPIC_API_KEY"]
+YOUTUBE_KEY   = os.environ["YOUTUBE_API_KEY"]
+
+OUT_NEWS  = "data/news.json"
+OUT_MEDIA = "data/media.json"
+OUT_RC    = "data/reality-check.json"
+
+MAX_NEWS_ITEMS  = 5000
+MAX_MEDIA_ITEMS = 2000
+MAX_RC_ITEMS    = 50
+LOOKBACK_HOURS  = 48
+MODEL_FILTER = "claude-haiku-4-5-20251001"
+MODEL_RC     = "claude-sonnet-4-6"
+
+CATEGORIES = ["ai", "quantum", "health", "robotics", "compute", "breakthroughs"]
+
+RC_TAGS = {
+  "energy":   ["energy","water","electricity","environment","carbon","emissions","power"],
+  "jobs":     ["jobs","employment","unemployment","workers","labor","layoffs","replace"],
+  "safety":   ["dangerous","risk","alignment","AGI","existential","regulation","ban","halt"],
+  "health":   ["medical","hospital","diagnosis","FDA","clinical","patient","drug"],
+  "quantum":  ["quantum","encryption","cryptography","qubits","supremacy"],
+  "privacy":  ["privacy","data","surveillance","personal","tracking","GDPR"],
 }
-*{margin:0;padding:0;box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{background:var(--bg);color:var(--text);font-family:var(--font-b);font-weight:300;overflow-x:hidden;-webkit-font-smoothing:antialiased}
-a{color:inherit;text-decoration:none}
-::selection{background:var(--violet);color:var(--bg)}
 
-#field{position:fixed;inset:0;z-index:0;pointer-events:none}
-.wrap{position:relative;z-index:1;max-width:1080px;margin:0 auto;padding:0 24px}
+# ---------------- SOURCES ----------------
 
-/* NAV */
-header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rgba(7,11,20,.78);border-bottom:1px solid var(--line)}
-.nav{display:flex;align-items:center;justify-content:space-between;height:64px;max-width:1200px;margin:0 auto;padding:0 24px}
-.logo{font-family:var(--font-d);font-weight:800;font-size:1.05rem;letter-spacing:.22em}
-.logo span{background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
-.nav-links{display:flex;gap:22px;align-items:center}
-.nav-links a{font-size:.84rem;font-weight:400;color:var(--text-dim);letter-spacing:.04em;transition:color .2s}
-.nav-links a:hover{color:var(--text)}
-.nav-links a.rc{color:var(--mint);font-weight:500}
-.nav-links a.arc{color:var(--amber)}
-.menu-btn{display:none;background:none;border:none;color:var(--text);font-size:1.5rem;cursor:pointer}
-@keyframes auroraShift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
-
-/* PAGE HERO */
-.page-hero{padding:72px 0 52px;max-width:760px}
-.page-hero .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--mint);text-transform:uppercase}
-.page-hero h1{font-family:var(--font-d);font-weight:800;font-size:clamp(1.8rem,5.5vw,3.2rem);letter-spacing:.08em;margin-top:16px;line-height:1.15}
-.page-hero h1 em{font-style:normal;background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
-.page-hero .sub{color:var(--text-dim);margin-top:18px;font-size:1.05rem;line-height:1.7;max-width:620px}
-.page-hero .mandate{margin-top:22px;background:var(--card);border:1px solid var(--line);border-left:3px solid var(--mint);border-radius:0 12px 12px 0;padding:16px 22px;font-family:var(--font-m);font-size:.82rem;color:var(--mint);line-height:1.6;letter-spacing:.02em}
-
-/* FILTER PILLS */
-.filter-row{display:flex;gap:8px;flex-wrap:wrap;padding:28px 0 36px}
-.fpill{font-family:var(--font-b);font-weight:500;font-size:.8rem;padding:7px 16px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--text-dim);cursor:pointer;transition:all .2s}
-.fpill:hover{border-color:var(--line-hi);color:var(--text)}
-.fpill.active{background:var(--mint);color:#04342C;border-color:transparent}
-
-/* ENTRIES */
-.entries{display:flex;flex-direction:column;gap:32px;padding-bottom:80px}
-.entry{border:1px solid var(--line);border-radius:18px;background:var(--card);overflow:hidden;opacity:0;transform:translateY(20px);transition:opacity .6s ease,transform .6s ease}
-.entry.vis{opacity:1;transform:none}
-.entry-head{padding:28px 32px 0}
-.claim-bar{display:flex;align-items:flex-start;gap:14px;margin-bottom:20px}
-.claim-icon{width:40px;height:40px;border-radius:10px;background:rgba(248,113,113,.12);border:1px solid rgba(248,113,113,.25);display:flex;align-items:center;justify-content:center;font-size:1.1rem;flex-shrink:0;margin-top:2px}
-.claim-label{font-family:var(--font-m);font-size:.68rem;letter-spacing:.25em;text-transform:uppercase;color:var(--red);margin-bottom:7px}
-.claim-text{font-family:var(--font-d);font-weight:600;font-size:clamp(.95rem,2.2vw,1.2rem);line-height:1.4;color:var(--text)}
-.verdict-bar{display:flex;align-items:center;gap:12px;padding:14px 32px;background:rgba(100,224,184,.06);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-.verdict-pill{font-family:var(--font-m);font-size:.7rem;letter-spacing:.2em;text-transform:uppercase;padding:5px 14px;border-radius:999px;font-weight:500;white-space:nowrap}
-.verdict-pill.busted{background:rgba(100,224,184,.15);color:var(--mint);border:1px solid rgba(100,224,184,.3)}
-.verdict-pill.misleading{background:rgba(245,192,120,.12);color:var(--amber);border:1px solid rgba(245,192,120,.3)}
-.verdict-pill.partial{background:rgba(96,165,250,.12);color:var(--sky);border:1px solid rgba(96,165,250,.3)}
-.verdict-summary{font-size:.92rem;color:var(--text-dim);line-height:1.5}
-.entry-body{padding:24px 32px 28px}
-.entry-body h3{font-family:var(--font-d);font-weight:600;font-size:.88rem;letter-spacing:.06em;color:var(--mint);margin-bottom:10px;text-transform:uppercase}
-.entry-body p{color:var(--text-dim);line-height:1.75;font-size:.97rem;margin-bottom:16px}
-.entry-body p:last-child{margin-bottom:0}
-.entry-body strong{color:var(--text);font-weight:500}
-.data-points{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin:20px 0}
-.dp{background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:14px 18px}
-.dp .n{font-family:var(--font-d);font-weight:600;font-size:1.3rem;color:var(--mint)}
-.dp .l{font-size:.78rem;color:var(--text-faint);margin-top:5px;line-height:1.4}
-.tag-row{display:flex;gap:8px;flex-wrap:wrap;margin-top:20px;padding-top:18px;border-top:1px solid var(--line)}
-.tag{font-family:var(--font-m);font-size:.65rem;letter-spacing:.18em;text-transform:uppercase;padding:4px 10px;border-radius:6px;background:var(--bg2);color:var(--text-faint);border:1px solid var(--line)}
-
-/* SUBMIT STRIP */
-.submit-strip{border:1px solid var(--line);border-radius:18px;background:var(--bg2);padding:34px;margin:10px 0 70px;display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap}
-.submit-strip .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--sky);text-transform:uppercase}
-.submit-strip h2{font-family:var(--font-d);font-weight:600;font-size:clamp(1rem,2.4vw,1.35rem);margin-top:12px;line-height:1.4}
-.submit-strip p{color:var(--text-dim);margin-top:10px;max-width:500px;line-height:1.65;font-size:.95rem}
-.btn{display:inline-block;font-weight:500;font-size:.9rem;letter-spacing:.04em;padding:13px 28px;border-radius:999px;background:var(--aurora);background-size:300% 100%;color:#06140F;animation:auroraShift 8s linear infinite;transition:transform .2s,box-shadow .2s;white-space:nowrap}
-.btn:hover{transform:translateY(-2px);box-shadow:0 14px 36px -12px rgba(100,224,184,.45)}
-
-/* FOOTER */
-footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;position:relative;z-index:1}
-.f-in{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;align-items:center}
-.f-in .fl{font-family:var(--font-d);font-weight:800;letter-spacing:.2em;font-size:.95rem}
-.f-in p{color:var(--text-faint);font-size:.82rem;line-height:1.7}
-.f-in a{color:var(--text-dim)}
-.f-in a:hover{color:var(--mint)}
-
-@media(prefers-reduced-motion:reduce){
-  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
-  .entry{opacity:1;transform:none}
+NEWSAPI_QUERIES = {
+  "ai":       '"artificial intelligence" OR "large language model" OR LLM OR "AI model" OR "AI breakthrough"',
+  "quantum":  '"quantum computing" OR "quantum computer" OR "quantum chip" OR "error correction" qubit',
+  "health":   '"AI" AND (drug OR diagnosis OR cancer OR FDA OR clinical OR longevity OR CRISPR OR biotech)',
+  "robotics": 'humanoid robot OR robotics OR SpaceX OR "space technology" OR autonomous',
+  "compute":  'semiconductor OR "data center" OR GPU OR NVIDIA OR "chip breakthrough" OR supercomputer',
 }
-@media(max-width:760px){
-  .nav-links{display:none;position:absolute;top:64px;left:0;right:0;background:var(--bg2);border-bottom:1px solid var(--line);flex-direction:column;padding:18px 24px;gap:18px;align-items:flex-start}
-  .nav-links.open{display:flex}
-  .menu-btn{display:block}
-  .entry-head{padding:22px 20px 0}
-  .entry-body{padding:20px 20px 24px}
-  .verdict-bar{padding:14px 20px}
-  .submit-strip{flex-direction:column;align-items:flex-start}
-}
-</style>
-</head>
-<body>
 
-<canvas id="field" aria-hidden="true"></canvas>
+RC_QUERIES = [
+  '"AI" AND (dangerous OR risk OR threat OR ban OR regulation OR harm OR replace OR jobs OR water OR energy)',
+  '"artificial intelligence" AND (concern OR warning OR fear OR problem OR dangerous OR crisis)',
+  '"data center" AND (water OR energy OR environment OR electricity OR bills)',
+  '"quantum" AND (encryption OR security OR threat OR break OR hack)',
+]
 
-<header>
-  <nav class="nav">
-    <a class="logo" href="/"><span>VURSYL</span></a>
-    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
-    <div class="nav-links" id="navLinks">
-      <a href="/#feed" data-cat="ai">AI &amp; LLMs</a>
-      <a href="/#feed" data-cat="quantum">Quantum</a>
-      <a href="/#feed" data-cat="health">Health &amp; Bio</a>
-      <a href="/#feed" data-cat="robotics">Robotics &amp; Space</a>
-      <a href="/#feed" data-cat="compute">Compute &amp; Data</a>
-      <a href="/#watch">Watch &amp; Listen</a>
-      <a href="archive.html" class="arc">Archive</a>
-      <a href="reality-check.html" class="rc">Reality Check</a>
-    </div>
-  </nav>
-</header>
+RSS_FEEDS = [
+  ("OpenAI",            "https://openai.com/news/rss.xml"),
+  ("Anthropic",         "https://www.anthropic.com/news/rss"),
+  ("Google DeepMind",   "https://deepmind.google/blog/rss.xml"),
+  ("NVIDIA",            "https://blogs.nvidia.com/feed/"),
+  ("Microsoft Research","https://www.microsoft.com/en-us/research/feed/"),
+  ("MIT News AI",       "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml"),
+  ("IBM Research",      "https://research.ibm.com/blog/feed.rss"),
+  ("NIH News",          "https://www.nih.gov/news-events/news-releases/feed.xml"),
+]
 
-<div class="wrap">
-  <div class="page-hero">
-    <div class="k">Reality Check</div>
-    <h1>The doom is overrated.<br><em>The data isn't.</em></h1>
-    <p class="sub">AI panic headlines rarely survive contact with the evidence. Reality Check takes the most viral claims about artificial intelligence, data centers, and emerging technology — and tests them against the numbers. No spin. Pro-tech. Sourced.</p>
-    <div class="mandate">VURSYL EDITORIAL STANDARD — We steelman every concern, then present what the data actually shows. Optimism backed by evidence is unbeatable.</div>
-  </div>
+YOUTUBE_CHANNELS = [
+  "TwoMinutePapers","lexfridman","DwarkeshPatel","PeterDiamandis",
+  "a16z","ycombinator","anthropic-ai","OpenAI","GoogleDeepMind",
+  "NVIDIA","qiskit","TED",
+]
 
-  <div class="filter-row" id="filterRow">
-    <button class="fpill active" data-tag="all">All claims</button>
-    <button class="fpill" data-tag="energy">Energy &amp; Environment</button>
-    <button class="fpill" data-tag="jobs">Jobs &amp; Economy</button>
-    <button class="fpill" data-tag="safety">AI Safety</button>
-    <button class="fpill" data-tag="health">Health &amp; Bio</button>
-    <button class="fpill" data-tag="quantum">Quantum</button>
-    <button class="fpill" data-tag="privacy">Privacy &amp; Data</button>
-  </div>
+# ---------------- HTTP HELPERS ----------------
 
-  <div class="entries" id="entries">
+def http_get(url, headers=None, timeout=30):
+  req = urllib.request.Request(url, headers=headers or {"User-Agent":"VursylBot/1.0"})
+  with urllib.request.urlopen(req, timeout=timeout) as r:
+    return r.read().decode("utf-8", errors="replace")
 
-    <!-- ENTRY 1 -->
-    <article class="entry" data-tags="energy">
-      <div class="entry-head">
-        <div class="claim-bar">
-          <div class="claim-icon">⚡</div>
-          <div>
-            <div class="claim-label">The claim</div>
-            <div class="claim-text">"AI data centers are destroying the environment and driving up everyone's electric bills."</div>
-          </div>
-        </div>
-      </div>
-      <div class="verdict-bar">
-        <span class="verdict-pill misleading">Misleading</span>
-        <span class="verdict-summary">Real growth, missing context on efficiency gains and who actually pays.</span>
-      </div>
-      <div class="entry-body">
-        <h3>What's true</h3>
-        <p>Data center electricity consumption is growing. The IEA projects global data center demand will roughly double between 2022 and 2026. That is a real number and worth taking seriously.</p>
-        <h3>What the data actually shows</h3>
-        <p>The efficiency story is the one that gets left out. <strong>Energy use per computation has fallen by a factor of roughly 1,000 over the past decade</strong> — meaning today's AI does vastly more per watt than the systems of 2014. The absolute consumption grows because the volume of computation grows faster than efficiency improves, not because the technology is becoming less efficient.</p>
-        <p>On household bills: data centers negotiate directly with utilities at wholesale rates and sign long-term power purchase agreements. Residential ratepayers are on a completely different tariff structure. The transmission and distribution infrastructure costs that do affect bills are spread across all commercial and industrial consumers, of which data centers are one category among thousands.</p>
-        <div class="data-points">
-          <div class="dp"><div class="n">~1,000×</div><div class="l">Improvement in energy per computation over the past decade</div></div>
-          <div class="dp"><div class="n">~1–2%</div><div class="l">Global electricity used by data centers (IEA 2024)</div></div>
-          <div class="dp"><div class="n">100%</div><div class="l">Of major cloud providers with net-zero or renewable energy commitments</div></div>
-        </div>
-        <h3>The bigger picture</h3>
-        <p>The same AI infrastructure accused of consuming power is also the primary tool being used to optimize renewable energy grids, predict solar and wind output, reduce industrial energy waste, and accelerate materials science for next-generation batteries. The energy calculus is far more complicated than the headline suggests.</p>
-        <div class="tag-row">
-          <span class="tag">Energy</span><span class="tag">Environment</span><span class="tag">Data Centers</span>
-        </div>
-      </div>
-    </article>
+def http_json(url, headers=None):
+  return json.loads(http_get(url, headers))
 
-    <!-- ENTRY 2 -->
-    <article class="entry" data-tags="jobs">
-      <div class="entry-head">
-        <div class="claim-bar">
-          <div class="claim-icon">💼</div>
-          <div>
-            <div class="claim-label">The claim</div>
-            <div class="claim-text">"AI will eliminate most jobs within a decade. Mass unemployment is inevitable."</div>
-          </div>
-        </div>
-      </div>
-      <div class="verdict-bar">
-        <span class="verdict-pill misleading">Misleading</span>
-        <span class="verdict-summary">Automation changes jobs far more often than it eliminates them — and always has.</span>
-      </div>
-      <div class="entry-body">
-        <h3>What's true</h3>
-        <p>AI is automating specific tasks within jobs, and some roles will shrink or shift. Radiologists reading routine scans, paralegals doing document review, and coders writing boilerplate are all seeing real automation pressure. That's real and worth preparing for.</p>
-        <h3>What the data actually shows</h3>
-        <p>The countries with the highest rates of industrial automation — Germany, Japan, South Korea, Singapore — consistently have among the <strong>lowest unemployment rates in the world</strong>. Automation compresses the cost of goods and services, which increases purchasing power, which creates demand for new categories of work that didn't exist before.</p>
-        <p>The ATM is the canonical example: it was supposed to eliminate bank tellers. Instead, it reduced the cost per branch so much that banks opened more branches, and the total number of tellers grew for two decades after ATM rollout. The pattern repeats across every major wave of automation in recorded economic history.</p>
-        <div class="data-points">
-          <div class="dp"><div class="n">85M</div><div class="l">Jobs WEF estimates AI will displace by 2025</div></div>
-          <div class="dp"><div class="n">97M</div><div class="l">New roles WEF estimates AI will create in the same period</div></div>
-          <div class="dp"><div class="n">Net +12M</div><div class="l">Projected job creation delta — WEF Future of Jobs Report</div></div>
-        </div>
-        <h3>The bigger picture</h3>
-        <p>The economic risk of AI is not mass unemployment — it is transition speed. Some workers will need to retrain faster than previous generations did. That's a real policy challenge. It is a very different problem from the apocalyptic framing that dominates headlines, and it has a very different set of solutions.</p>
-        <div class="tag-row">
-          <span class="tag">Jobs</span><span class="tag">Economy</span><span class="tag">Automation</span>
-        </div>
-      </div>
-    </article>
+def post_json(url, payload, headers):
+  data = json.dumps(payload).encode("utf-8")
+  req = urllib.request.Request(url, data=data, headers=headers, method="POST")
+  with urllib.request.urlopen(req, timeout=120) as r:
+    return json.loads(r.read().decode("utf-8"))
 
-    <!-- ENTRY 3 -->
-    <article class="entry" data-tags="safety">
-      <div class="entry-head">
-        <div class="claim-bar">
-          <div class="claim-icon">🤖</div>
-          <div>
-            <div class="claim-label">The claim</div>
-            <div class="claim-text">"AI is hitting a wall. Scaling is dead. The LLM era is over."</div>
-          </div>
-        </div>
-      </div>
-      <div class="verdict-bar">
-        <span class="verdict-pill busted">Busted</span>
-        <span class="verdict-summary">This claim has been made and disproven repeatedly since 2022.</span>
-      </div>
-      <div class="entry-body">
-        <h3>What's true</h3>
-        <p>Pre-training scaling returns are becoming more expensive to achieve. Getting the next doubling of effective capability requires more compute than the previous doubling. That is a real observation about the economics of frontier model development.</p>
-        <h3>What the data actually shows</h3>
-        <p>"Scaling is dead" has been confidently declared after GPT-3, after GPT-4, after Claude 2, and after Gemini 1.0. Each time, the next generation of models arrived and the claim was quietly forgotten. The reason is that the original claim confuses <strong>one scaling axis slowing down</strong> with <strong>all paths to capability improvement closing</strong>.</p>
-        <p>Post-training techniques — RLHF, constitutional AI, reasoning chains, tool use, and agentic scaffolding — have delivered capability jumps entirely separate from raw pre-training scale. Inference-time compute scaling (thinking longer, not just training bigger) is an entirely new axis that was barely explored before 2024 and is now central to frontier lab roadmaps. Andrej Karpathy joined Anthropic in May 2026 specifically to work on pre-training acceleration using AI-assisted research loops — the opposite of a field running out of runway.</p>
-        <div class="data-points">
-          <div class="dp"><div class="n">4×</div><div class="l">Times "scaling is dead" was declared since GPT-3 — and reversed</div></div>
-          <div class="dp"><div class="n">3+</div><div class="l">Independent scaling axes now active: pre-train, post-train, inference-time</div></div>
-        </div>
-        <h3>The bigger picture</h3>
-        <p>The field is not hitting a wall. It is discovering that the wall it thought existed was actually a door. Every "end of scaling" moment in AI history has preceded a new approach that unlocked the next phase of progress. There is no strong theoretical reason to believe the current moment is different.</p>
-        <div class="tag-row">
-          <span class="tag">AI Safety</span><span class="tag">Scaling</span><span class="tag">LLMs</span>
-        </div>
-      </div>
-    </article>
+def iso(dt_str):
+  fmts = [
+    "%Y-%m-%dT%H:%M:%SZ","%Y-%m-%dT%H:%M:%S%z",
+    "%a, %d %b %Y %H:%M:%S %z","%a, %d %b %Y %H:%M:%S %Z",
+    "%Y-%m-%dT%H:%M:%S.%fZ",
+  ]
+  for f in fmts:
+    try:
+      d = datetime.strptime(dt_str.strip(), f)
+      if d.tzinfo is None:
+        d = d.replace(tzinfo=timezone.utc)
+      return d.astimezone(timezone.utc).isoformat()
+    except (ValueError, AttributeError):
+      continue
+  return datetime.now(timezone.utc).isoformat()
 
-    <!-- ENTRY 4 -->
-    <article class="entry" data-tags="energy">
-      <div class="entry-head">
-        <div class="claim-bar">
-          <div class="claim-icon">💧</div>
-          <div>
-            <div class="claim-label">The claim</div>
-            <div class="claim-text">"AI data centers are drinking our water supply dry."</div>
-          </div>
-        </div>
-      </div>
-      <div class="verdict-bar">
-        <span class="verdict-pill partial">Partial</span>
-        <span class="verdict-summary">Water use is real and improving rapidly. The comparison context is almost always missing.</span>
-      </div>
-      <div class="entry-body">
-        <h3>What's true</h3>
-        <p>Data centers that use evaporative cooling do consume water. A large hyperscale facility can use millions of gallons per year. That is a real number that deserves real scrutiny, especially in water-stressed regions.</p>
-        <h3>What the data actually shows</h3>
-        <p>The missing comparison: a single 18-hole golf course in the American Southwest uses <strong>approximately 90 million gallons of water per year</strong>. The United States has roughly 16,000 golf courses. Agriculture accounts for 70% of global freshwater withdrawals. Data centers, in aggregate, account for less than 0.5% of global water withdrawals.</p>
-        <p>More importantly, the industry is actively moving away from water cooling. Microsoft, Google, and Meta have all announced or deployed closed-loop liquid cooling systems that use zero evaporative water loss. Microsoft's next-generation data centers are designed to achieve net-zero water use in operations. The trajectory is sharply in the right direction.</p>
-        <div class="data-points">
-          <div class="dp"><div class="n">&lt;0.5%</div><div class="l">Global freshwater withdrawals from data centers</div></div>
-          <div class="dp"><div class="n">70%</div><div class="l">Global freshwater withdrawals from agriculture</div></div>
-          <div class="dp"><div class="n">0</div><div class="l">Evaporative water loss in next-gen closed-loop liquid cooling</div></div>
-        </div>
-        <h3>The bigger picture</h3>
-        <p>Water stewardship matters and the industry should be held to account on it. The trajectory of the technology is toward water-free cooling, not more consumption. The current moment of water use is a transition artifact, not a permanent condition — and it is orders of magnitude smaller than the sectors that never make headlines for their water consumption.</p>
-        <div class="tag-row">
-          <span class="tag">Energy</span><span class="tag">Water</span><span class="tag">Data Centers</span>
-        </div>
-      </div>
-    </article>
+def recent(iso_str, hours=LOOKBACK_HOURS):
+  try:
+    d = datetime.fromisoformat(iso_str.replace("Z","+00:00"))
+    return d > datetime.now(timezone.utc) - timedelta(hours=hours)
+  except ValueError:
+    return False
 
-    <!-- ENTRY 5 -->
-    <article class="entry" data-tags="health">
-      <div class="entry-head">
-        <div class="claim-bar">
-          <div class="claim-icon">🏥</div>
-          <div>
-            <div class="claim-label">The claim</div>
-            <div class="claim-text">"AI in medicine is dangerous. You can't trust a machine with your health."</div>
-          </div>
-        </div>
-      </div>
-      <div class="verdict-bar">
-        <span class="verdict-pill busted">Busted</span>
-        <span class="verdict-summary">FDA-cleared AI diagnostics are outperforming human baselines in multiple specialties.</span>
-      </div>
-      <div class="entry-body">
-        <h3>What's true</h3>
-        <p>Early AI medical tools had real problems — overfitting to training populations, poor generalization across demographics, and a lack of interpretability. Those were legitimate concerns that the field has spent years addressing.</p>
-        <h3>What the data actually shows</h3>
-        <p>The FDA has cleared over 900 AI-enabled medical devices as of 2025, the majority in radiology. Multiple peer-reviewed studies show AI diagnostic tools matching or exceeding specialist performance in specific tasks: diabetic retinopathy screening, breast cancer detection on mammography, skin lesion classification, and cardiac arrhythmia detection on ECG.</p>
-        <p>The key framing is <strong>AI as augmentation, not replacement</strong>. The most effective deployments pair AI with physicians — the AI catches what the human misses and the human catches what the AI misses. Error rates drop dramatically versus either working alone. This is not a hypothetical; it is the clinical evidence from deployed systems.</p>
-        <div class="data-points">
-          <div class="dp"><div class="n">900+</div><div class="l">FDA-cleared AI medical devices as of 2025</div></div>
-          <div class="dp"><div class="n">94.5%</div><div class="l">Sensitivity of Google's AI in diabetic retinopathy screening (vs ~87% specialist average)</div></div>
-          <div class="dp"><div class="n">31%</div><div class="l">Reduction in clinician burnout from AI scribe deployment (Cleveland Clinic data)</div></div>
-        </div>
-        <h3>The bigger picture</h3>
-        <p>The question is not whether to trust machines with health decisions — physicians already use machines constantly (MRI, CT, ECG, lab analyzers). The question is whether AI tools meet the evidentiary bar for clinical use. For a growing number of applications, peer-reviewed evidence and regulatory clearance say they do.</p>
-        <div class="tag-row">
-          <span class="tag">Health</span><span class="tag">AI Diagnostics</span><span class="tag">FDA</span>
-        </div>
-      </div>
-    </article>
+# ---------------- ARCHIVE MERGE ----------------
 
-    <!-- ENTRY 6 -->
-    <article class="entry" data-tags="quantum">
-      <div class="entry-head">
-        <div class="claim-bar">
-          <div class="claim-icon">⚛️</div>
-          <div>
-            <div class="claim-label">The claim</div>
-            <div class="claim-text">"Quantum computers will break all encryption and destroy internet security overnight."</div>
-          </div>
-        </div>
-      </div>
-      <div class="verdict-bar">
-        <span class="verdict-pill misleading">Misleading</span>
-        <span class="verdict-summary">Cryptographically relevant quantum computers are years to decades away — and post-quantum encryption is already deploying.</span>
-      </div>
-      <div class="entry-body">
-        <h3>What's true</h3>
-        <p>A sufficiently powerful quantum computer running Shor's algorithm could theoretically break RSA and ECC encryption — the backbone of most current internet security. This is a real theoretical threat and the cryptography community has taken it seriously for over two decades.</p>
-        <h3>What the data actually shows</h3>
-        <p>Breaking 2048-bit RSA encryption requires an estimated <strong>4,000+ logical qubits running with very low error rates</strong>. The best quantum computers in 2026 have hundreds to low thousands of physical qubits with error rates that require thousands of physical qubits per logical qubit. We are likely a decade or more from cryptographically relevant scale — and that estimate has not moved materially in five years.</p>
-        <p>More importantly, NIST finalized its first post-quantum cryptography standards in 2024. Major browsers, cloud providers, and government agencies are already deploying quantum-resistant encryption. The security community is not waiting — the transition is underway now, well before any threat materializes.</p>
-        <div class="data-points">
-          <div class="dp"><div class="n">4,000+</div><div class="l">Logical qubits needed to threaten RSA-2048</div></div>
-          <div class="dp"><div class="n">2024</div><div class="l">Year NIST finalized post-quantum cryptography standards</div></div>
-          <div class="dp"><div class="n">10+ yrs</div><div class="l">Conservative estimate to cryptographically relevant quantum scale</div></div>
-        </div>
-        <h3>The bigger picture</h3>
-        <p>Quantum computing is genuinely exciting and the progress is real — but the most valuable near-term applications are optimization, simulation, and drug discovery, not breaking encryption. The encryption threat is real in theory, well understood, and being actively mitigated. The "overnight collapse of internet security" framing ignores twenty years of preparation by the cryptography community.</p>
-        <div class="tag-row">
-          <span class="tag">Quantum</span><span class="tag">Encryption</span><span class="tag">Security</span>
-        </div>
-      </div>
-    </article>
+def load_existing(path):
+  try:
+    with open(path,"r") as f:
+      data = json.load(f)
+      return data.get("items",[])
+  except (FileNotFoundError, json.JSONDecodeError):
+    return []
 
-    <!-- ENTRY 7 -->
-    <article class="entry" data-tags="safety">
-      <div class="entry-head">
-        <div class="claim-bar">
-          <div class="claim-icon">🧠</div>
-          <div>
-            <div class="claim-label">The claim</div>
-            <div class="claim-text">"AI models just plagiarize and remix existing work. There's nothing creative or intelligent happening."</div>
-          </div>
-        </div>
-      </div>
-      <div class="verdict-bar">
-        <span class="verdict-pill busted">Busted</span>
-        <span class="verdict-summary">This fundamentally misunderstands how large language models generate output.</span>
-      </div>
-      <div class="entry-body">
-        <h3>What's true</h3>
-        <p>LLMs are trained on human-generated text and their outputs are statistically shaped by that training data. Memorization of specific training examples does occur and is a legitimate area of ongoing research and mitigation.</p>
-        <h3>What the data actually shows</h3>
-        <p>The claim conflates training on data with copying data — a fundamental technical error. When a human reads thousands of books and then writes a novel, we do not say they plagiarized every book they read. LLMs learn <strong>statistical relationships between concepts</strong>, not a lookup table of sentences to retrieve.</p>
-        <p>More concretely: frontier AI models are solving novel mathematical proofs, designing new protein structures that have never existed in nature, synthesizing research across disciplines to generate genuinely new hypotheses, and writing code for problems with no prior solution in the training data. AlphaFold solved the protein folding problem — a 50-year grand challenge of biology — by generating structural predictions for proteins never before characterized. That is not remix. That is discovery.</p>
-        <div class="data-points">
-          <div class="dp"><div class="n">200M+</div><div class="l">Protein structures predicted by AlphaFold — most never previously known</div></div>
-          <div class="dp"><div class="n">IMO 2025</div><div class="l">AI achieved gold-medal level performance on International Math Olympiad</div></div>
-        </div>
-        <h3>The bigger picture</h3>
-        <p>The debate about AI creativity is genuinely interesting and philosophically rich. The claim that AI is "just plagiarism" is not that debate — it is a technical mischaracterization that falls apart on contact with what frontier models are actually doing in science, mathematics, and engineering.</p>
-        <div class="tag-row">
-          <span class="tag">AI Safety</span><span class="tag">Creativity</span><span class="tag">LLMs</span>
-        </div>
-      </div>
-    </article>
+def merge(existing, new_items, max_items):
+  seen_urls, seen_titles, merged = set(), set(), []
+  existing_by_url = {i["url"]:i for i in existing if i.get("url")}
+  for item in new_items:
+    url = item.get("url","")
+    title_key = hashlib.md5(item.get("title","").lower().encode()).hexdigest()
+    if url in seen_urls or title_key in seen_titles:
+      continue
+    if url in existing_by_url:
+      if item.get("breakthrough"):
+        existing_by_url[url]["breakthrough"] = True
+      seen_urls.add(url); seen_titles.add(title_key)
+      continue
+    seen_urls.add(url); seen_titles.add(title_key)
+    merged.append(item)
+  for item in existing:
+    url = item.get("url","")
+    title_key = hashlib.md5(item.get("title","").lower().encode()).hexdigest()
+    if url in seen_urls or title_key in seen_titles:
+      if url not in seen_urls:
+        merged.append(item)
+      continue
+    seen_urls.add(url); seen_titles.add(title_key)
+    merged.append(item)
+  hero_found = False
+  for item in merged:
+    if item.get("breakthrough"):
+      if hero_found:
+        item.pop("breakthrough",None)
+      else:
+        hero_found = True
+  return merged[:max_items]
 
-  </div>
+# ---------------- COLLECTORS ----------------
 
-  <section class="submit-strip">
-    <div>
-      <div class="k">Submit a claim</div>
-      <h2>Heard something that doesn't add up?</h2>
-      <p>Send us the viral claim, the headline, or the take — and we'll put it through the Reality Check. Pro-tech. Evidence-first. No doom tolerated.</p>
-    </div>
-    <a class="btn" href="mailto:info@vursyl.com?subject=Reality Check submission">Submit a claim →</a>
-  </section>
-</div>
+def collect_newsapi():
+  items = []
+  frm = (datetime.now(timezone.utc)-timedelta(hours=LOOKBACK_HOURS)).strftime("%Y-%m-%dT%H:%M:%S")
+  for cat, q in NEWSAPI_QUERIES.items():
+    url = ("https://newsapi.org/v2/everything?"+urllib.parse.urlencode({
+      "q":q,"from":frm,"language":"en","sortBy":"publishedAt","pageSize":25
+    })+f"&apiKey={NEWSAPI_KEY}")
+    try:
+      for a in http_json(url).get("articles",[]):
+        if not a.get("title") or a["title"]=="[Removed]":
+          continue
+        items.append({
+          "title":a["title"].strip(),"url":a["url"],
+          "source":(a.get("source") or {}).get("name","News"),
+          "category":cat,"published":iso(a.get("publishedAt","")),
+        })
+    except Exception as e:
+      print(f"[newsapi:{cat}] {e}")
+    time.sleep(1)
+  return items
 
-<footer>
-  <div class="f-in">
-    <div>
-      <div class="fl">VURSYL</div>
-      <p style="margin-top:8px">The universal hub for positive AI, quantum &amp; emerging technology news.</p>
-    </div>
-    <p>© 2026 Vursyl · <a href="mailto:info@vursyl.com">info@vursyl.com</a> · One feed. Universal knowledge.</p>
-  </div>
-</footer>
+def collect_rc_candidates():
+  """Collect potentially doom-framed headlines for Reality Check processing."""
+  items = []
+  frm = (datetime.now(timezone.utc)-timedelta(hours=72)).strftime("%Y-%m-%dT%H:%M:%S")
+  for q in RC_QUERIES:
+    url = ("https://newsapi.org/v2/everything?"+urllib.parse.urlencode({
+      "q":q,"from":frm,"language":"en","sortBy":"popularity","pageSize":15
+    })+f"&apiKey={NEWSAPI_KEY}")
+    try:
+      for a in http_json(url).get("articles",[]):
+        if not a.get("title") or a["title"]=="[Removed]":
+          continue
+        items.append({
+          "title":a["title"].strip(),
+          "url":a["url"],
+          "source":(a.get("source") or {}).get("name","News"),
+          "published":iso(a.get("publishedAt","")),
+        })
+    except Exception as e:
+      print(f"[newsapi:rc] {e}")
+    time.sleep(1)
+  seen, deduped = set(), []
+  for i in items:
+    key = hashlib.md5(i["title"].lower().encode()).hexdigest()
+    if key not in seen:
+      seen.add(key); deduped.append(i)
+  return deduped[:30]
 
-<script>
-/* CONSTELLATION */
-(function(){
-  const cv=document.getElementById("field"),ctx=cv.getContext("2d");
-  const reduced=matchMedia("(prefers-reduced-motion: reduce)").matches;
-  if(reduced)return;
-  let W,H,nodes=[],mx=.5,my=.5;
-  const COLORS=["#64E0B8","#A78BFA","#60A5FA"];
-  function size(){
-    W=cv.width=innerWidth;H=cv.height=innerHeight;
-    const n=Math.min(50,Math.floor(W*H/28000));
-    nodes=Array.from({length:n},()=>({x:Math.random()*W,y:Math.random()*H,
-      vx:(Math.random()-.5)*.18,vy:(Math.random()-.5)*.18,
-      r:Math.random()*1.4+.6,c:COLORS[Math.floor(Math.random()*3)]}));
-  }
-  function draw(){
-    ctx.clearRect(0,0,W,H);
-    const px=(mx-.5)*16,py=(my-.5)*16;
-    for(const n of nodes){
-      n.x+=n.vx;n.y+=n.vy;
-      if(n.x<0||n.x>W)n.vx*=-1;if(n.y<0||n.y>H)n.vy*=-1;
-    }
-    ctx.lineWidth=1;
-    for(let i=0;i<nodes.length;i++)for(let j=i+1;j<nodes.length;j++){
-      const a=nodes[i],b=nodes[j],d=(a.x-b.x)**2+(a.y-b.y)**2;
-      if(d<130*130){
-        ctx.strokeStyle=`rgba(60,90,150,${(1-d/16900)*.28})`;
-        ctx.beginPath();ctx.moveTo(a.x+px,a.y+py);ctx.lineTo(b.x+px,b.y+py);ctx.stroke();
-      }
-    }
-    for(const n of nodes){
-      ctx.fillStyle=n.c;ctx.globalAlpha=.65;
-      ctx.beginPath();ctx.arc(n.x+px,n.y+py,n.r,0,7);ctx.fill();ctx.globalAlpha=1;
-    }
-    requestAnimationFrame(draw);
-  }
-  size();draw();
-  addEventListener("resize",size);
-  addEventListener("mousemove",e=>{mx=e.clientX/W;my=e.clientY/H;});
-})();
+def collect_rss():
+  items = []
+  for name, feed in RSS_FEEDS:
+    try:
+      root = ET.fromstring(http_get(feed))
+      ns = {"atom":"http://www.w3.org/2005/Atom"}
+      entries = root.findall(".//item") or root.findall(".//atom:entry",ns)
+      for e in entries[:8]:
+        title = (e.findtext("title") or e.findtext("atom:title",namespaces=ns) or "").strip()
+        link  = e.findtext("link") or ""
+        if not link:
+          ln = e.find("atom:link",ns)
+          link = ln.get("href") if ln is not None else ""
+        pub = (e.findtext("pubDate") or e.findtext("atom:published",namespaces=ns)
+               or e.findtext("atom:updated",namespaces=ns) or "")
+        if title and link:
+          items.append({"title":title,"url":link.strip(),"source":name,
+                        "category":"ai","published":iso(pub)})
+    except Exception as ex:
+      print(f"[rss:{name}] {ex}")
+  return [i for i in items if recent(i["published"],hours=96)]
 
-/* FILTER */
-let activeTag="all";
-document.getElementById("filterRow").addEventListener("click",e=>{
-  const b=e.target.closest(".fpill");if(!b)return;
-  document.querySelectorAll(".fpill").forEach(p=>p.classList.remove("active"));
-  b.classList.add("active");
-  activeTag=b.dataset.tag;
-  document.querySelectorAll(".entry").forEach(en=>{
-    const tags=en.dataset.tags||"";
-    const show=activeTag==="all"||tags.includes(activeTag);
-    en.style.display=show?"":"none";
-  });
-});
+def collect_youtube():
+  items = []
+  for handle in YOUTUBE_CHANNELS:
+    try:
+      ch = http_json("https://www.googleapis.com/youtube/v3/channels?"+urllib.parse.urlencode({
+        "part":"contentDetails","forHandle":handle,"key":YOUTUBE_KEY}))
+      chans = ch.get("items",[])
+      if not chans:
+        print(f"[yt:{handle}] handle not found")
+        continue
+      uploads = chans[0]["contentDetails"]["relatedPlaylists"]["uploads"]
+      pl = http_json("https://www.googleapis.com/youtube/v3/playlistItems?"+urllib.parse.urlencode({
+        "part":"snippet","playlistId":uploads,"maxResults":5,"key":YOUTUBE_KEY}))
+      for v in pl.get("items",[]):
+        s = v["snippet"]
+        vid = s["resourceId"]["videoId"]
+        pub = iso(s["publishedAt"])
+        if not recent(pub,hours=120):
+          continue
+        items.append({
+          "title":s["title"].strip(),
+          "url":f"https://www.youtube.com/watch?v={vid}",
+          "source":s["channelTitle"],
+          "thumbnail":(s.get("thumbnails",{}).get("medium") or {}).get("url",""),
+          "category":"ai","published":pub,
+        })
+    except Exception as e:
+      print(f"[yt:{handle}] {e}")
+    time.sleep(0.5)
+  return items
 
-/* REVEAL */
-const io=new IntersectionObserver(es=>es.forEach(e=>{
-  if(e.isIntersecting){e.target.classList.add("vis");io.unobserve(e.target);}
-}),{threshold:.06});
-document.querySelectorAll(".entry").forEach(el=>io.observe(el));
+# ---------------- CLAUDE FILTER ----------------
 
-/* MOBILE NAV */
-document.getElementById("menuBtn").addEventListener("click",()=>
-  document.getElementById("navLinks").classList.toggle("open"));
-</script>
-</body>
-</html>
+FILTER_PROMPT = """You are the editorial filter for VURSYL, a relentlessly positive news hub covering AI, quantum computing, and emerging technology. Vursyl publishes ONLY positive, constructive, optimistic content: breakthroughs, milestones, launches, approvals, records, discoveries, and wins.
+
+REJECT any item that is: doom-framed, fear-based, about layoffs, lawsuits, bans, failures, scandals, warnings, risks, culture-war angles, or stock-drop news. Neutral technical explainers and factual announcements are ACCEPTED. When in doubt, REJECT.
+
+For each ACCEPTED item assign exactly one category:
+- ai (AI models, LLMs, research, agents, products)
+- quantum (quantum computing, qubits, error correction)
+- health (AI/tech in medicine, biotech, longevity, CRISPR, FDA)
+- robotics (robots, humanoids, drones, space, autonomous)
+- compute (chips, GPUs, data centers, infrastructure)
+- breakthroughs (exceptional cross-cutting milestone — reserve for the truly remarkable)
+
+Pick AT MOST ONE item as "hero": the single most exciting positive item in the batch.
+
+Respond ONLY with JSON, no markdown fences:
+{"accepted":[{"i":<index>,"category":"<cat>","hero":<true|false>}]}
+
+Items:
+"""
+
+def claude_filter(items):
+  if not items:
+    return []
+  listing = "\n".join(f'{n}. [{i["source"]}] {i["title"]}' for n,i in enumerate(items))
+  try:
+    resp = post_json("https://api.anthropic.com/v1/messages",{
+      "model":MODEL_FILTER,"max_tokens":4000,
+      "messages":[{"role":"user","content":FILTER_PROMPT+listing}],
+    },{"Content-Type":"application/json","x-api-key":ANTHROPIC_KEY,"anthropic-version":"2023-06-01"})
+    text = "".join(b.get("text","") for b in resp.get("content",[]))
+    text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+    decisions = json.loads(text).get("accepted",[])
+  except Exception as e:
+    print(f"[claude:filter] {e} — failing closed")
+    return []
+  out = []
+  for d in decisions:
+    idx,cat = d.get("i"),d.get("category")
+    if isinstance(idx,int) and 0<=idx<len(items) and cat in CATEGORIES:
+      item = dict(items[idx])
+      item["category"] = cat
+      if d.get("hero"):
+        item["breakthrough"] = True
+      out.append(item)
+  return out
+
+# ---------------- REALITY CHECK GENERATOR ----------------
+
+RC_SYSTEM = """You are the Reality Check editor for VURSYL — a pro-technology, pro-AI, evidence-first publication. Your job is to take viral negative or misleading claims about AI, quantum computing, data centers, and emerging technology, and produce clear, sourced, confident rebuttals.
+
+VURSYL editorial standards:
+- Steelman the concern first (acknowledge what is real about it)
+- Then present what the data actually shows (be specific, cite real numbers where possible)
+- End with the bigger picture (positive trajectory, context, or what the concern misses)
+- Tone: confident, pro-tech, never dismissive, always evidence-based
+- Never use weasel words. State positions clearly.
+- Length: 3 short paragraphs maximum per section"""
+
+RC_PROMPT = """Analyze these recent headlines for potential Reality Check entries. Identify the 2-3 most viral, misleading, or fear-based claims that Vursyl should rebut with evidence.
+
+For each claim, produce a Reality Check entry in this exact JSON structure:
+{{
+  "claim": "The exact claim or fear as a person might say it",
+  "verdict": "Busted" | "Misleading" | "Partial",
+  "verdict_summary": "One sentence summary of what the data shows",
+  "tag": "energy" | "jobs" | "safety" | "health" | "quantum" | "privacy",
+  "icon": "⚡" | "💼" | "🤖" | "🏥" | "⚛️" | "🔒",
+  "what_is_true": "One paragraph — steelman the concern, acknowledge the real kernel",
+  "what_data_shows": "One paragraph — the actual evidence, specific numbers, named studies",
+  "bigger_picture": "One paragraph — positive trajectory, context, what the claim misses",
+  "data_points": [
+    {{"n": "statistic or number", "l": "what it means"}},
+    {{"n": "statistic or number", "l": "what it means"}},
+    {{"n": "statistic or number", "l": "what it means"}}
+  ],
+  "tags": ["tag1", "tag2"]
+}}
+
+Headlines to analyze:
+{headlines}
+
+Respond ONLY with a JSON array of 2-3 entries. No markdown fences. No preamble."""
+
+def generate_reality_checks(candidates):
+  if not candidates:
+    print("[rc] no candidates")
+    return []
+  headlines = "\n".join(f'{i+1}. [{c["source"]}] {c["title"]}' for i,c in enumerate(candidates[:20]))
+  try:
+    resp = post_json("https://api.anthropic.com/v1/messages",{
+      "model":MODEL_RC,"max_tokens":4000,
+      "system":RC_SYSTEM,
+      "messages":[{"role":"user","content":RC_PROMPT.format(headlines=headlines)}],
+    },{"Content-Type":"application/json","x-api-key":ANTHROPIC_KEY,"anthropic-version":"2023-06-01"})
+    text = "".join(b.get("text","") for b in resp.get("content",[]))
+    text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+    entries = json.loads(text)
+    if not isinstance(entries,list):
+      entries = [entries]
+    now = datetime.now(timezone.utc).isoformat()
+    for e in entries:
+      e["generated"] = now
+      e["auto"] = True
+    print(f"[rc] generated {len(entries)} entries")
+    return entries
+  except Exception as ex:
+    print(f"[claude:rc] {ex}")
+    return []
+
+def merge_rc(existing, new_entries):
+  """Keep newest MAX_RC_ITEMS, dedupe by claim text."""
+  seen = set()
+  merged = []
+  for e in new_entries + existing:
+    key = hashlib.md5(e.get("claim","").lower().encode()).hexdigest()
+    if key not in seen:
+      seen.add(key)
+      merged.append(e)
+  return merged[:MAX_RC_ITEMS]
+
+def load_rc(path):
+  try:
+    with open(path,"r") as f:
+      data = json.load(f)
+      return data.get("entries",[])
+  except (FileNotFoundError, json.JSONDecodeError):
+    return []
+
+# ---------------- DEDUPE ----------------
+
+def dedupe(items):
+  seen, out = set(), []
+  for i in items:
+    key = hashlib.md5(i["title"].lower().encode()).hexdigest()
+    if key not in seen:
+      seen.add(key); out.append(i)
+  return out
+
+# ---------------- MAIN ----------------
+
+def main():
+  os.makedirs("data",exist_ok=True)
+
+  existing_news  = load_existing(OUT_NEWS)
+  existing_media = load_existing(OUT_MEDIA)
+  existing_rc    = load_rc(OUT_RC)
+  print(f"Archive: {len(existing_news)} news, {len(existing_media)} media, {len(existing_rc)} RC entries")
+
+  print("Collecting articles…")
+  raw_articles = dedupe(collect_newsapi()+collect_rss())
+  print(f"  {len(raw_articles)} candidates")
+  new_news = claude_filter(raw_articles)
+  new_news.sort(key=lambda x:x["published"],reverse=True)
+  print(f"  {len(new_news)} accepted")
+
+  print("Collecting media…")
+  raw_media = dedupe(collect_youtube())
+  print(f"  {len(raw_media)} candidates")
+  new_media = claude_filter(raw_media)
+  for m in new_media:
+    m.pop("breakthrough",None)
+  new_media.sort(key=lambda x:x["published"],reverse=True)
+  print(f"  {len(new_media)} accepted")
+
+  print("Collecting Reality Check candidates…")
+  rc_candidates = collect_rc_candidates()
+  print(f"  {len(rc_candidates)} candidates")
+  new_rc = generate_reality_checks(rc_candidates)
+
+  all_news  = merge(existing_news,  new_news,  MAX_NEWS_ITEMS)
+  all_media = merge(existing_media, new_media, MAX_MEDIA_ITEMS)
+  all_rc    = merge_rc(existing_rc, new_rc)
+
+  stamp = datetime.now(timezone.utc).isoformat()
+
+  with open(OUT_NEWS,"w") as f:
+    json.dump({"updated":stamp,"items":all_news},f,indent=1)
+  with open(OUT_MEDIA,"w") as f:
+    json.dump({"updated":stamp,"items":all_media},f,indent=1)
+  with open(OUT_RC,"w") as f:
+    json.dump({"updated":stamp,"entries":all_rc},f,indent=1)
+
+  print(f"Done — {len(all_news)} news / {len(all_media)} media / {len(all_rc)} RC entries")
+  print(f"  New this run: {len(new_news)} news / {len(new_media)} media / {len(new_rc)} RC entries")
+
+if __name__ == "__main__":
+  main()
