@@ -19,28 +19,30 @@ jobs:
       - name: Clear and re-download voice photos
         run: |
           mkdir -p images/voices
-          # Remove all existing voice photos to start fresh
           rm -f images/voices/*.jpg
 
           download() {
             local slug=$1
             local url=$2
+            local tmp="/tmp/${slug}_raw"
             local out="images/voices/${slug}.jpg"
             echo "Downloading $slug..."
             curl -sL --max-time 20 \
               -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
               -H "Referer: https://en.wikipedia.org/" \
-              "$url" -o "$out" || true
-            # Validate it's actually an image
-            if file "$out" 2>/dev/null | grep -qiE 'jpeg|jpg|image'; then
-              echo "  OK: $slug"
+              "$url" -o "$tmp" || true
+            # Convert to proper JPEG using ImageMagick
+            convert "$tmp" -resize 200x200^ -gravity center -extent 200x200 -quality 85 "$out" 2>/dev/null
+            if [ -f "$out" ] && [ -s "$out" ]; then
+              echo "  OK: $slug ($(du -k "$out" | cut -f1)KB)"
             else
-              echo "  INVALID (not a real image): $slug — removing"
+              echo "  FAILED: $slug"
               rm -f "$out"
             fi
+            rm -f "$tmp"
           }
 
-          # AI & LLMs — using Wikimedia direct image URLs
+          # AI & LLMs
           download "sam-altman" "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sam_Altman_CogX_2023_%28cropped%29.jpg"
           download "dario-amodei" "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dario_Amodei_2024_%28cropped%29.jpg"
           download "andrej-karpathy" "https://upload.wikimedia.org/wikipedia/commons/3/3d/Andrej_Karpathy_at_Stanford_%28cropped%29.jpg"
@@ -101,5 +103,5 @@ jobs:
           git config user.name "vursyl-bot"
           git config user.email "info@vursyl.com"
           git add images/voices/
-          git diff --staged --quiet || git commit -m "Add validated voice profile photos [skip ci]"
+          git diff --staged --quiet || git commit -m "Add converted voice profile photos [skip ci]"
           git push
