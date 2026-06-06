@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1200px;height:630px;overflow:hidden;background:#070B14;font-family:'Unbounded',sans-serif}
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Outfit:wght@300;400;500&family=JetBrains+Mono:wght@400;500&display=swap');
+
+.bg{position:absolute;inset:0;background:#070B14}
+.noise{position:absolute;inset:0;opacity:.04;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E")}
+
+/* constellation dots */
+.dot{position:absolute;border-radius:50%}
+.line{position:absolute;height:1px;transform-origin:left center}
+
+/* aurora glow blobs */
+.blob{position:absolute;border-radius:50%;filter:blur(80px);opacity:.18}
+
+.content{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;padding:72px 80px}
+
+.k{font-family:'JetBrains Mono',monospace;font-size:13px;letter-spacing:.3em;color:#5A6C8F;text-transform:uppercase;margin-bottom:24px}
+
+.wordmark{font-family:'Unbounded',sans-serif;font-weight:800;font-size:96px;letter-spacing:.18em;line-height:1;background:linear-gradient(110deg,#A78BFA 0%,#60A5FA 35%,#64E0B8 70%,#A3D977 100%);-webkit-background-clip:text;background-clip:text;color:transparent;margin-bottom:22px}
+
+.tagline{font-family:'Outfit',sans-serif;font-weight:300;font-size:28px;color:#8FA3C8;letter-spacing:.06em;margin-bottom:44px}
+
+.cats{display:flex;gap:12px;flex-wrap:wrap}
+.cat{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.2em;text-transform:uppercase;padding:6px 14px;border-radius:999px;border:1px solid}
+.cat.ai{color:#A78BFA;border-color:rgba(167,139,250,.35);background:rgba(167,139,250,.08)}
+.cat.q{color:#64E0B8;border-color:rgba(100,224,184,.35);background:rgba(100,224,184,.08)}
+.cat.h{color:#F0A4C0;border-color:rgba(240,164,192,.35);background:rgba(240,164,192,.08)}
+.cat.r{color:#60A5FA;border-color:rgba(96,165,250,.35);background:rgba(96,165,250,.08)}
+.cat.c{color:#F5C078;border-color:rgba(245,192,120,.35);background:rgba(245,192,120,.08)}
+.cat.b{color:#A3D977;border-color:rgba(163,217,119,.35);background:rgba(163,217,119,.08)}
+
+/* right side visual */
+.right{position:absolute;right:0;top:0;bottom:0;width:420px;display:flex;align-items:center;justify-content:center}
+
+.node-svg{width:380px;height:380px;opacity:.7}
+
+/* bottom bar */
+.bottom{position:absolute;bottom:0;left:0;right:0;height:3px;background:linear-gradient(110deg,#A78BFA 0%,#60A5FA 35%,#64E0B8 70%,#A3D977 100%)}
+
+/* domain */
+.domain{position:absolute;bottom:28px;right:80px;font-family:'JetBrains Mono',monospace;font-size:13px;letter-spacing:.2em;color:#5A6C8F;text-transform:uppercase}
+</style>
+</head>
+<body>
+
+<div class="bg"></div>
+
+<!-- aurora blobs -->
+<div class="blob" style="width:500px;height:500px;background:#A78BFA;top:-150px;right:100px"></div>
+<div class="blob" style="width:400px;height:400px;background:#64E0B8;bottom:-100px;right:300px"></div>
+<div class="blob" style="width:300px;height:300px;background:#60A5FA;top:100px;right:500px;opacity:.12"></div>
+
+<!-- content left -->
+<div class="content" style="max-width:720px">
+  <div class="k">The universal hub for emerging technology</div>
+  <div class="wordmark">VURSYL</div>
+  <div class="tagline">One feed. Universal knowledge.</div>
+  <div class="cats">
+    <span class="cat ai">AI &amp; LLMs</span>
+    <span class="cat q">Quantum</span>
+    <span class="cat h">Health &amp; Bio</span>
+    <span class="cat r">Robotics &amp; Space</span>
+    <span class="cat c">Compute &amp; Data</span>
+    <span class="cat b">Breakthroughs</span>
+  </div>
+</div>
+
+<!-- constellation SVG right side -->
+<div class="right">
+  <svg class="node-svg" viewBox="0 0 380 380" xmlns="http://www.w3.org/2000/svg">
+    <!-- connection lines -->
+    <line x1="190" y1="190" x2="80" y2="80" stroke="#1C2840" stroke-width="1.5"/>
+    <line x1="190" y1="190" x2="300" y2="75" stroke="#1C2840" stroke-width="1.5"/>
+    <line x1="190" y1="190" x2="320" y2="220" stroke="#1C2840" stroke-width="1.5"/>
+    <line x1="190" y1="190" x2="270" y2="320" stroke="#1C2840" stroke-width="1.5"/>
+    <line x1="190" y1="190" x2="80" y2="300" stroke="#1C2840" stroke-width="1.5"/>
+    <line x1="190" y1="190" x2="55" y2="200" stroke="#1C2840" stroke-width="1.5"/>
+    <line x1="80" y1="80" x2="300" y2="75" stroke="#1C2840" stroke-width="1"/>
+    <line x1="300" y1="75" x2="320" y2="220" stroke="#1C2840" stroke-width="1"/>
+    <line x1="320" y1="220" x2="270" y2="320" stroke="#1C2840" stroke-width="1"/>
+    <line x1="270" y1="320" x2="80" y2="300" stroke="#1C2840" stroke-width="1"/>
+    <line x1="80" y1="300" x2="55" y2="200" stroke="#1C2840" stroke-width="1"/>
+    <line x1="55" y1="200" x2="80" y2="80" stroke="#1C2840" stroke-width="1"/>
+    <!-- outer ring connections -->
+    <line x1="80" y1="80" x2="40" y2="130" stroke="#1C2840" stroke-width=".8" opacity=".6"/>
+    <line x1="300" y1="75" x2="345" y2="120" stroke="#1C2840" stroke-width=".8" opacity=".6"/>
+    <line x1="320" y1="220" x2="358" y2="270" stroke="#1C2840" stroke-width=".8" opacity=".6"/>
+    <line x1="270" y1="320" x2="230" y2="358" stroke="#1C2840" stroke-width=".8" opacity=".6"/>
+    <line x1="80" y1="300" x2="45" y2="340" stroke="#1C2840" stroke-width=".8" opacity=".6"/>
+
+    <!-- pulse line highlight -->
+    <line x1="190" y1="190" x2="300" y2="75" stroke="#64E0B8" stroke-width="1.5" opacity=".4"/>
+
+    <!-- outer nodes -->
+    <circle cx="40" cy="130" r="4" fill="#5A6C8F" opacity=".5"/>
+    <circle cx="345" cy="120" r="3.5" fill="#5A6C8F" opacity=".5"/>
+    <circle cx="358" cy="270" r="3" fill="#5A6C8F" opacity=".5"/>
+    <circle cx="230" cy="358" r="4" fill="#5A6C8F" opacity=".5"/>
+    <circle cx="45" cy="340" r="3.5" fill="#5A6C8F" opacity=".5"/>
+    <circle cx="160" cy="40" r="3" fill="#5A6C8F" opacity=".4"/>
+    <circle cx="330" cy="160" r="3" fill="#5A6C8F" opacity=".4"/>
+
+    <!-- main category nodes -->
+    <circle cx="80" cy="80" r="10" fill="#A78BFA" opacity=".85"/>
+    <circle cx="300" cy="75" r="9" fill="#64E0B8" opacity=".85"/>
+    <circle cx="320" cy="220" r="9" fill="#F0A4C0" opacity=".85"/>
+    <circle cx="270" cy="320" r="10" fill="#60A5FA" opacity=".85"/>
+    <circle cx="80" cy="300" r="9" fill="#F5C078" opacity=".85"/>
+    <circle cx="55" cy="200" r="8" fill="#A3D977" opacity=".85"/>
+
+    <!-- pulse dot on line -->
+    <circle cx="255" cy="120" r="3.5" fill="#64E0B8" opacity=".9"/>
+
+    <!-- center hub -->
+    <circle cx="190" cy="190" r="18" fill="#0E1626" stroke="#2C4470" stroke-width="1.5"/>
+    <circle cx="190" cy="190" r="10" fill="none" stroke="#64E0B8" stroke-width="1.5" opacity=".6"/>
+    <circle cx="190" cy="190" r="4" fill="#64E0B8" opacity=".9"/>
+
+    <!-- node labels -->
+    <text x="58" y="74" font-family="JetBrains Mono,monospace" font-size="9" fill="#A78BFA" opacity=".8" letter-spacing="1">AI</text>
+    <text x="308" y="69" font-family="JetBrains Mono,monospace" font-size="9" fill="#64E0B8" opacity=".8" letter-spacing="1">Q</text>
+    <text x="328" y="215" font-family="JetBrains Mono,monospace" font-size="9" fill="#F0A4C0" opacity=".8" letter-spacing="1">H</text>
+    <text x="276" y="340" font-family="JetBrains Mono,monospace" font-size="9" fill="#60A5FA" opacity=".8" letter-spacing="1">R</text>
+    <text x="57" y="320" font-family="JetBrains Mono,monospace" font-size="9" fill="#F5C078" opacity=".8" letter-spacing="1">C</text>
+    <text x="30" y="196" font-family="JetBrains Mono,monospace" font-size="9" fill="#A3D977" opacity=".8" letter-spacing="1">B</text>
+  </svg>
+</div>
+
+<!-- bottom aurora bar -->
+<div class="bottom"></div>
+
+<!-- domain -->
+<div class="domain">vursyl.com</div>
+
+</body>
+</html>
