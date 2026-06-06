@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About — VURSYL</title>
+<meta name="description" content="Vursyl is the universal hub for positive AI, quantum, and emerging technology news. Built on the belief that the future is extraordinary — and the evidence agrees.">
+<link rel="canonical" href="https://vursyl.com/about.html">
+<meta property="og:title" content="About — VURSYL">
+<meta property="og:description" content="The universal hub for positive AI, quantum, and emerging technology news. Built on the belief that the future is extraordinary.">
+<meta property="og:url" content="https://vursyl.com/about.html">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#070B14">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='30' cy='35' r='8' fill='%2364E0B8'/><circle cx='70' cy='30' r='6' fill='%23A78BFA'/><circle cx='55' cy='70' r='7' fill='%2360A5FA'/><line x1='30' y1='35' x2='70' y2='30' stroke='%23335' stroke-width='3'/><line x1='70' y1='30' x2='55' y2='70' stroke='%23335' stroke-width='3'/><line x1='30' y1='35' x2='55' y2='70' stroke='%23335' stroke-width='3'/></svg>">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WLXN8N61GF"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js',new Date());
+  gtag('config','G-WLXN8N61GF');
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Outfit:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --bg:#070B14;--bg2:#0B1220;--card:#0E1626;--card-hi:#13203A;
+  --line:#1C2840;--line-hi:#2C4470;
+  --text:#F2F6FF;--text-dim:#8FA3C8;--text-faint:#5A6C8F;
+  --mint:#64E0B8;--violet:#A78BFA;--sky:#60A5FA;--pink:#F0A4C0;--amber:#F5C078;--leaf:#A3D977;
+  --aurora:linear-gradient(110deg,#A78BFA 0%,#60A5FA 35%,#64E0B8 70%,#A3D977 100%);
+  --font-d:'Unbounded',sans-serif;--font-b:'Outfit',sans-serif;--font-m:'JetBrains Mono',monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:var(--font-b);font-weight:300;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+::selection{background:var(--violet);color:var(--bg)}
+
+#field{position:fixed;inset:0;z-index:0;pointer-events:none}
+.wrap{position:relative;z-index:1;max-width:1080px;margin:0 auto;padding:0 24px}
+
+/* NAV */
+header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rgba(7,11,20,.78);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:64px;max-width:1200px;margin:0 auto;padding:0 24px}
+.logo{font-family:var(--font-d);font-weight:800;font-size:1.05rem;letter-spacing:.22em}
+.logo span{background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
+.nav-links{display:flex;gap:22px;align-items:center}
+.nav-links a{font-size:.84rem;font-weight:400;color:var(--text-dim);letter-spacing:.04em;transition:color .2s}
+.nav-links a:hover{color:var(--text)}
+.nav-links a.rc{color:var(--mint);font-weight:500}
+.nav-links a.arc{color:var(--amber)}
+.menu-btn{display:none;background:none;border:none;color:var(--text);font-size:1.5rem;cursor:pointer}
+@keyframes auroraShift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+
+/* HERO */
+.page-hero{padding:80px 0 60px;max-width:800px}
+.page-hero .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--violet);text-transform:uppercase}
+.page-hero h1{font-family:var(--font-d);font-weight:800;font-size:clamp(2rem,6vw,3.6rem);letter-spacing:.1em;margin-top:16px;line-height:1.1}
+.page-hero h1 em{font-style:normal;background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
+.page-hero .lead{color:var(--text-dim);margin-top:22px;font-size:1.12rem;line-height:1.75;max-width:680px}
+
+/* ETYMOLOGY */
+.etym{border:1px solid var(--line);border-left:3px solid var(--violet);border-radius:0 14px 14px 0;background:var(--card);padding:28px 32px;margin:48px 0}
+.etym .word{font-family:var(--font-d);font-weight:800;font-size:1.6rem;letter-spacing:.15em;background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
+.etym .pron{font-family:var(--font-m);font-size:.8rem;color:var(--text-faint);letter-spacing:.1em;margin-top:6px}
+.etym .def{margin-top:16px;font-size:1rem;color:var(--text-dim);line-height:1.7}
+.etym .def strong{color:var(--text);font-weight:500}
+.etym .origin{margin-top:12px;font-family:var(--font-m);font-size:.76rem;color:var(--text-faint);letter-spacing:.08em;line-height:1.6}
+
+/* SECTIONS */
+.section{margin:56px 0}
+.section .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--mint);text-transform:uppercase;margin-bottom:16px}
+.section h2{font-family:var(--font-d);font-weight:600;font-size:clamp(1.2rem,3vw,1.8rem);letter-spacing:.06em;line-height:1.3;margin-bottom:20px}
+.section p{color:var(--text-dim);line-height:1.8;font-size:1rem;margin-bottom:16px;max-width:720px}
+.section p:last-child{margin-bottom:0}
+.section p strong{color:var(--text);font-weight:500}
+
+/* PILLARS */
+.pillars{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:28px}
+.pillar{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px 24px;position:relative;overflow:hidden;opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s ease}
+.pillar.vis{opacity:1;transform:none}
+.pillar::before{content:"";position:absolute;top:0;left:0;right:0;height:2px;background:var(--c,var(--violet))}
+.pillar .icon{font-size:1.6rem;margin-bottom:12px}
+.pillar h3{font-family:var(--font-d);font-weight:600;font-size:.82rem;letter-spacing:.08em;color:var(--c,var(--violet));text-transform:uppercase;margin-bottom:10px}
+.pillar p{font-size:.88rem;color:var(--text-dim);line-height:1.6;margin:0}
+
+/* STATS */
+.about-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:32px 0}
+.astat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 22px;text-align:center;opacity:0;transform:translateY(14px);transition:opacity .5s ease,transform .5s ease}
+.astat.vis{opacity:1;transform:none}
+.astat .n{font-family:var(--font-d);font-weight:600;font-size:1.6rem;background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
+.astat .l{font-family:var(--font-m);font-size:.68rem;letter-spacing:.18em;color:var(--text-faint);text-transform:uppercase;margin-top:6px}
+
+/* CATEGORIES */
+.cat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-top:24px}
+.cat-card{border:1px solid var(--line);border-radius:12px;background:var(--card);padding:16px 20px;display:flex;align-items:center;gap:14px;transition:border-color .2s}
+.cat-card:hover{border-color:var(--line-hi)}
+.cat-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.cat-card h3{font-weight:500;font-size:.92rem}
+.cat-card p{font-size:.78rem;color:var(--text-faint);margin-top:3px}
+
+/* CONTACT */
+.contact-strip{border:1px solid var(--line);border-radius:18px;background:var(--bg2);padding:36px;margin:56px 0 80px;display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap}
+.contact-strip .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--sky);text-transform:uppercase}
+.contact-strip h2{font-family:var(--font-d);font-weight:600;font-size:clamp(1rem,2.4vw,1.35rem);margin-top:12px}
+.contact-strip p{color:var(--text-dim);margin-top:10px;font-size:.95rem;line-height:1.65;max-width:480px}
+.btn{display:inline-block;font-weight:500;font-size:.9rem;letter-spacing:.04em;padding:13px 28px;border-radius:999px;background:var(--aurora);background-size:300% 100%;color:#06140F;animation:auroraShift 8s linear infinite;transition:transform .2s,box-shadow .2s;white-space:nowrap}
+.btn:hover{transform:translateY(-2px);box-shadow:0 14px 36px -12px rgba(100,224,184,.45)}
+
+/* FOOTER */
+footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;position:relative;z-index:1}
+.f-in{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;align-items:center}
+.f-in .fl{font-family:var(--font-d);font-weight:800;letter-spacing:.2em;font-size:.95rem}
+.f-in p{color:var(--text-faint);font-size:.82rem;line-height:1.7}
+.f-in a{color:var(--text-dim)}
+.f-in a:hover{color:var(--mint)}
+
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
+  .pillar,.astat{opacity:1;transform:none}
+}
+@media(max-width:760px){
+  .nav-links{display:none;position:absolute;top:64px;left:0;right:0;background:var(--bg2);border-bottom:1px solid var(--line);flex-direction:column;padding:18px 24px;gap:18px;align-items:flex-start}
+  .nav-links.open{display:flex}
+  .menu-btn{display:block}
+  .contact-strip{flex-direction:column;align-items:flex-start}
+  .etym{padding:22px 20px}
+}
+</style>
+</head>
+<body>
+
+<canvas id="field" aria-hidden="true"></canvas>
+
+<header>
+  <nav class="nav">
+    <a class="logo" href="/"><span>VURSYL</span></a>
+    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    <div class="nav-links" id="navLinks">
+      <a href="/#feed" data-cat="ai">AI &amp; LLMs</a>
+      <a href="/#feed" data-cat="quantum">Quantum</a>
+      <a href="/#feed" data-cat="health">Health &amp; Bio</a>
+      <a href="/#feed" data-cat="robotics">Robotics &amp; Space</a>
+      <a href="/#feed" data-cat="compute">Compute &amp; Data</a>
+      <a href="/#watch">Watch &amp; Listen</a>
+      <a href="archive.html" class="arc">Archive</a>
+      <a href="reality-check.html" class="rc">Reality Check</a>
+    </div>
+  </nav>
+</header>
+
+<div class="wrap">
+
+  <div class="page-hero">
+    <div class="k">About Vursyl</div>
+    <h1>Built for the<br><em>believers.</em></h1>
+    <p class="lead">The future of human civilization is being written right now — in research labs, quantum computing facilities, biotech startups, and AI training runs. Vursyl exists to make sure that story gets told clearly, completely, and without the doom tax that most technology coverage charges by default.</p>
+  </div>
+
+  <div class="etym">
+    <div class="word">VURSYL</div>
+    <div class="pron">/ vər · sil / · noun</div>
+    <div class="def">
+      <strong>From "versal"</strong> — an archaic and poetic form of <strong>"universal."</strong> Encompassing all things. Of or relating to the whole. Not limited by category, discipline, or boundary.
+    </div>
+    <div class="origin">
+      Origin: Middle English · versal → universal → vursyl<br>
+      The name reflects the mission: one feed, covering everything that matters at the frontier of human knowledge and capability.
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="k">The mission</div>
+    <h2>One feed. Universal knowledge.</h2>
+    <p>Most technology news is filtered through a lens of conflict, risk, and decline. Every AI breakthrough gets a paragraph of benefits and three paragraphs of dangers. Every quantum milestone gets buried under speculation about encryption apocalypse. Every biotech advance gets hedged into meaninglessness.</p>
+    <p>Vursyl operates on a different premise: <strong>the positive case for emerging technology is not naive — it is the most accurate reading of the evidence.</strong> The data on AI productivity gains, quantum computing milestones, FDA-cleared diagnostics, and longevity research is extraordinary. That story deserves to be told directly, without the reflexive qualification that passes for balance in most outlets.</p>
+    <p>We are not anti-criticism. We are pro-evidence. When the evidence is positive — and in emerging technology, it overwhelmingly is — we say so without apology.</p>
+  </div>
+
+  <div class="section">
+    <div class="k">What we cover</div>
+    <h2>The technologies shaping the next 50 years.</h2>
+    <div class="cat-grid">
+      <div class="cat-card">
+        <div class="cat-dot" style="background:var(--violet)"></div>
+        <div><h3>AI &amp; LLMs</h3><p>Models, agents, research, products</p></div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-dot" style="background:var(--mint)"></div>
+        <div><h3>Quantum</h3><p>Computing, error correction, hardware</p></div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-dot" style="background:var(--pink)"></div>
+        <div><h3>Health &amp; Bio</h3><p>AI diagnostics, biotech, longevity, CRISPR</p></div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-dot" style="background:var(--sky)"></div>
+        <div><h3>Robotics &amp; Space</h3><p>Humanoids, autonomy, orbital systems</p></div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-dot" style="background:var(--amber)"></div>
+        <div><h3>Compute &amp; Data</h3><p>Chips, infrastructure, efficiency</p></div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-dot" style="background:var(--leaf)"></div>
+        <div><h3>Breakthroughs</h3><p>Cross-cutting milestones that change everything</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="k">Our principles</div>
+    <h2>How Vursyl works.</h2>
+    <div class="pillars" id="pillars">
+      <div class="pillar" style="--c:var(--violet)">
+        <div class="icon">⚡</div>
+        <h3>Positive only</h3>
+        <p>Every item in the feed is filtered by AI for positive, constructive, optimistic content. Doom, fear, and failure don't make the cut — not because we ignore reality, but because the reality of emerging technology is genuinely exciting.</p>
+      </div>
+      <div class="pillar" style="--c:var(--mint)">
+        <div class="icon">🗄️</div>
+        <h3>Permanent archive</h3>
+        <p>Vursyl never deletes. Every article, video, and podcast that passes the filter is preserved permanently in the archive — searchable by category, date, and keyword. The record of this era should exist.</p>
+      </div>
+      <div class="pillar" style="--c:var(--sky)">
+        <div class="icon">📡</div>
+        <h3>Multi-source</h3>
+        <p>NewsAPI, lab blogs from OpenAI, Anthropic, DeepMind, NVIDIA, IBM Research, MIT, NIH, and YouTube channels from the field's most trusted voices — all filtered and curated into one unified feed.</p>
+      </div>
+      <div class="pillar" style="--c:var(--amber)">
+        <div class="icon">🔄</div>
+        <h3>Always fresh</h3>
+        <p>The pipeline runs four times daily — 00:00, 06:00, 12:00, and 18:00 UTC — pulling new content, filtering it, and publishing automatically. The feed is never stale by more than six hours.</p>
+      </div>
+      <div class="pillar" style="--c:var(--pink)">
+        <div class="icon">✅</div>
+        <h3>Reality Check</h3>
+        <p>For every viral claim about AI dangers, data center harms, or quantum threats, Vursyl publishes a sourced, evidence-first rebuttal. Optimism backed by data is unbeatable.</p>
+      </div>
+      <div class="pillar" style="--c:var(--leaf)">
+        <div class="icon">🎬</div>
+        <h3>Watch &amp; Listen</h3>
+        <p>Beyond headlines — curated video and podcast content from the frontier's most trusted voices: researchers, founders, lab leads, and the podcasters who interview them.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="k">By the numbers</div>
+    <h2>The feed, quantified.</h2>
+    <div class="about-stats" id="aboutStats">
+      <div class="astat" id="as1"><div class="n" id="asTotal">—</div><div class="l">Items archived</div></div>
+      <div class="astat"><div class="n">4×</div><div class="l">Updates daily</div></div>
+      <div class="astat"><div class="n">8</div><div class="l">RSS lab feeds</div></div>
+      <div class="astat"><div class="n">12</div><div class="l">YouTube channels</div></div>
+      <div class="astat"><div class="n">6</div><div class="l">Content categories</div></div>
+      <div class="astat"><div class="n">0</div><div class="l">Doom tolerated</div></div>
+    </div>
+  </div>
+
+  <section class="contact-strip">
+    <div>
+      <div class="k">Get in touch</div>
+      <h2>Questions, tips, or Reality Check submissions?</h2>
+      <p>Send us a viral AI claim to debunk, a breakthrough you think we missed, or a thought leader we should be tracking. We read everything sent to info@vursyl.com.</p>
+    </div>
+    <a class="btn" href="mailto:info@vursyl.com">Contact Vursyl →</a>
+  </section>
+
+</div>
+
+<footer>
+  <div class="f-in">
+    <div>
+      <div class="fl">VURSYL</div>
+      <p style="margin-top:8px">The universal hub for positive AI, quantum &amp; emerging technology news.</p>
+    </div>
+    <p>© 2026 Vursyl · <a href="mailto:info@vursyl.com">info@vursyl.com</a> · One feed. Universal knowledge.</p>
+  </div>
+</footer>
+
+<script>
+/* CONSTELLATION */
+(function(){
+  const cv=document.getElementById("field"),ctx=cv.getContext("2d");
+  const reduced=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if(reduced)return;
+  let W,H,nodes=[],mx=.5,my=.5;
+  const COLORS=["#64E0B8","#A78BFA","#60A5FA"];
+  function size(){
+    W=cv.width=innerWidth;H=cv.height=innerHeight;
+    const n=Math.min(55,Math.floor(W*H/26000));
+    nodes=Array.from({length:n},()=>({x:Math.random()*W,y:Math.random()*H,
+      vx:(Math.random()-.5)*.18,vy:(Math.random()-.5)*.18,
+      r:Math.random()*1.5+.6,c:COLORS[Math.floor(Math.random()*3)]}));
+  }
+  function draw(){
+    ctx.clearRect(0,0,W,H);
+    const px=(mx-.5)*16,py=(my-.5)*16;
+    for(const n of nodes){
+      n.x+=n.vx;n.y+=n.vy;
+      if(n.x<0||n.x>W)n.vx*=-1;if(n.y<0||n.y>H)n.vy*=-1;
+    }
+    ctx.lineWidth=1;
+    for(let i=0;i<nodes.length;i++)for(let j=i+1;j<nodes.length;j++){
+      const a=nodes[i],b=nodes[j],d=(a.x-b.x)**2+(a.y-b.y)**2;
+      if(d<130*130){
+        ctx.strokeStyle=`rgba(60,90,150,${(1-d/16900)*.28})`;
+        ctx.beginPath();ctx.moveTo(a.x+px,a.y+py);ctx.lineTo(b.x+px,b.y+py);ctx.stroke();
+      }
+    }
+    for(const n of nodes){
+      ctx.fillStyle=n.c;ctx.globalAlpha=.65;
+      ctx.beginPath();ctx.arc(n.x+px,n.y+py,n.r,0,7);ctx.fill();ctx.globalAlpha=1;
+    }
+    requestAnimationFrame(draw);
+  }
+  size();draw();
+  addEventListener("resize",size);
+  addEventListener("mousemove",e=>{mx=e.clientX/W;my=e.clientY/H;});
+})();
+
+/* REVEAL */
+const io=new IntersectionObserver(es=>es.forEach(e=>{
+  if(e.isIntersecting){e.target.classList.add("vis");io.unobserve(e.target);}
+}),{threshold:.07});
+document.querySelectorAll(".pillar,.astat").forEach(el=>io.observe(el));
+
+/* LIVE STATS FROM DATA */
+Promise.allSettled([
+  fetch("data/news.json",{cache:"no-store"}).then(r=>r.ok?r.json():null),
+  fetch("data/media.json",{cache:"no-store"}).then(r=>r.ok?r.json():null)
+]).then(([n,m])=>{
+  const nc=(n.status==="fulfilled"&&n.value?.items?.length)||0;
+  const mc=(m.status==="fulfilled"&&m.value?.items?.length)||0;
+  const total=nc+mc;
+  if(total)document.getElementById("asTotal").textContent=total.toLocaleString()+"+";
+});
+
+/* MOBILE NAV */
+document.getElementById("menuBtn").addEventListener("click",()=>
+  document.getElementById("navLinks").classList.toggle("open"));
+</script>
+</body>
+</html>
