@@ -62,7 +62,14 @@ header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rg
 .back{font-family:var(--font-m);font-size:.72rem;letter-spacing:.2em;color:var(--text-faint);text-transform:uppercase;display:inline-flex;align-items:center;gap:8px;margin-bottom:32px;transition:color .2s}
 .back:hover{color:var(--accent)}
 .hero-top{display:flex;align-items:flex-start;gap:28px;flex-wrap:wrap}
-.avatar{width:80px;height:80px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:var(--font-d);font-weight:800;font-size:1.4rem;letter-spacing:.05em;flex-shrink:0;border:1px solid var(--line-hi)}
+
+/* AVATAR — large profile version */
+.avatar{width:96px;height:96px;border-radius:50%;flex-shrink:0;overflow:hidden;position:relative;display:flex;align-items:center;justify-content:center;border:2px solid var(--line-hi)}
+.avatar img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
+.avatar img.error{display:none}
+.avatar .initials{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-family:var(--font-d);font-weight:800;font-size:1.4rem;letter-spacing:.05em}
+.avatar .initials.hidden{display:none}
+
 .hero-info{flex:1;min-width:0}
 .hero-info .cat-badge{font-family:var(--font-m);font-size:.65rem;letter-spacing:.22em;text-transform:uppercase;padding:4px 12px;border-radius:999px;border:1px solid;display:inline-block;margin-bottom:12px}
 .hero-info h1{font-family:var(--font-d);font-weight:800;font-size:clamp(1.6rem,5vw,2.8rem);letter-spacing:.08em;line-height:1.15;margin-bottom:8px}
@@ -102,7 +109,7 @@ header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rg
 
 /* ARCHIVE FEED */
 .arc-list{display:flex;flex-direction:column;gap:10px}
-.arc-item{border:1px solid var(--line);border-radius:12px;background:var(--card);padding:14px 18px;display:flex;gap:14px;align-items:flex-start;transition:border-color .2s;opacity:0;transform:translateY(12px);transition:opacity .45s ease,transform .45s ease,border-color .2s}
+.arc-item{border:1px solid var(--line);border-radius:12px;background:var(--card);padding:14px 18px;display:flex;gap:14px;align-items:flex-start;opacity:0;transform:translateY(12px);transition:opacity .45s ease,transform .45s ease,border-color .2s}
 .arc-item.vis{opacity:1;transform:none}
 .arc-item:hover{border-color:var(--line-hi)}
 .arc-item .ac{width:3px;flex-shrink:0;border-radius:3px;align-self:stretch;background:var(--accent)}
@@ -111,18 +118,24 @@ header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rg
 .arc-item .body .meta{font-size:.74rem;color:var(--text-faint);display:flex;gap:12px}
 .empty-feed{font-family:var(--font-m);font-size:.74rem;letter-spacing:.15em;color:var(--text-faint);text-transform:uppercase;padding:24px 0;text-align:center}
 
-/* SIDEBAR BOXES */
+/* SIDEBAR */
 .sbox{border:1px solid var(--line);border-radius:14px;background:var(--card);padding:18px 20px}
 .sbox .k{font-family:var(--font-m);font-size:.65rem;letter-spacing:.22em;color:var(--accent);text-transform:uppercase;margin-bottom:12px}
 .sstat{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid var(--line)}
 .sstat:last-child{border-bottom:none;padding-bottom:0}
 .sstat .n{font-family:var(--font-d);font-weight:600;font-size:1.1rem;color:var(--accent)}
 .sstat .l{font-size:.78rem;color:var(--text-faint)}
+
+/* RELATED VOICES */
 .related-list{display:flex;flex-direction:column;gap:8px}
 .rvoice{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line);transition:opacity .2s}
 .rvoice:last-child{border-bottom:none;padding-bottom:0}
 .rvoice:hover{opacity:.75}
-.rv-av{width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:var(--font-d);font-weight:700;font-size:.65rem;flex-shrink:0}
+.rv-av{width:36px;height:36px;border-radius:50%;overflow:hidden;flex-shrink:0;position:relative;display:flex;align-items:center;justify-content:center;font-family:var(--font-d);font-weight:700;font-size:.65rem}
+.rv-av img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
+.rv-av img.error{display:none}
+.rv-av .ri{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-family:var(--font-d);font-weight:700;font-size:.65rem}
+.rv-av .ri.hidden{display:none}
 .rv-name{font-weight:500;font-size:.84rem}
 .rv-role{font-size:.72rem;color:var(--text-faint);margin-top:1px}
 
@@ -146,7 +159,7 @@ footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;pos
   .nav-links.open{display:flex}
   .menu-btn{display:block}
   .hero-top{gap:18px}
-  .avatar{width:60px;height:60px;font-size:1rem}
+  .avatar{width:72px;height:72px}
 }
 </style>
 </head>
@@ -196,22 +209,18 @@ footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;pos
           <div class="k">About</div>
           <p id="pBio"></p>
         </div>
-
         <div class="pcard" id="knownCard">
           <div class="k">Known for</div>
           <div class="known-list" id="pKnown"></div>
         </div>
-
         <div class="pcard" id="posCard">
           <div class="k">Positions &amp; views</div>
           <div class="position-list" id="pPositions"></div>
         </div>
-
         <div class="note-card" id="noteCard" style="display:none">
           <div class="k">Vursyl note</div>
           <p id="pNote"></p>
         </div>
-
         <div class="pcard" id="feedCard">
           <div class="k">From the archive</div>
           <div class="arc-list" id="pFeed"></div>
@@ -255,7 +264,7 @@ footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;pos
 <script>
 const CATS={ai:"AI & LLMs",quantum:"Quantum",health:"Health & Bio",robotics:"Robotics & Space",compute:"Compute & Data"};
 const CAT_COLORS={ai:"#A78BFA",quantum:"#64E0B8",health:"#F0A4C0",robotics:"#60A5FA",compute:"#F5C078"};
-const CAT_BG={ai:"rgba(167,139,250,.12)",quantum:"rgba(100,224,184,.12)",health:"rgba(240,164,192,.12)",robotics:"rgba(96,165,250,.12)",compute:"rgba(245,192,120,.12)"};
+const CAT_BG={ai:"rgba(167,139,250,.15)",quantum:"rgba(100,224,184,.15)",health:"rgba(240,164,192,.15)",robotics:"rgba(96,165,250,.15)",compute:"rgba(245,192,120,.15)"};
 
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function ago(iso){
@@ -264,11 +273,10 @@ function ago(iso){
   return Math.floor(m/1440)+"d ago";
 }
 
-/* get slug from URL */
 const slug=new URLSearchParams(location.search).get("slug")||
   location.pathname.replace(/\/voices\/?/,"").replace(/\.html$/,"").replace(/^\//,"");
 
-/* constellation */
+/* CONSTELLATION */
 (function(){
   const cv=document.getElementById("field"),ctx=cv.getContext("2d");
   const reduced=matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -309,96 +317,102 @@ function reveal(){
   document.querySelectorAll(".pcard,.note-card,.arc-item").forEach(el=>io.observe(el));
 }
 
+function buildAvatar(voice,size=96){
+  const color=CAT_COLORS[voice.cat]||"#A78BFA";
+  const bg=CAT_BG[voice.cat]||"rgba(167,139,250,.15)";
+  const el=document.getElementById("pAvatar");
+  el.style.borderColor=color+"40";
+  el.style.width=size+"px";
+  el.style.height=size+"px";
+  if(voice.photo){
+    el.innerHTML=`<img src="${esc(voice.photo)}" alt="${esc(voice.name)}"
+      onerror="this.classList.add('error');this.nextElementSibling.classList.remove('hidden')">
+      <div class="initials hidden" style="background:${bg};color:${color}">${esc(voice.initials)}</div>`;
+  } else {
+    el.innerHTML=`<div class="initials" style="background:${bg};color:${color}">${esc(voice.initials)}</div>`;
+  }
+}
+
 function renderProfile(voice,allVoices,news){
   const color=CAT_COLORS[voice.cat]||"#A78BFA";
-  const bg=CAT_BG[voice.cat]||"rgba(167,139,250,.12)";
+  const bg=CAT_BG[voice.cat]||"rgba(167,139,250,.15)";
   const catLabel=CATS[voice.cat]||voice.cat;
 
-  /* update page meta */
   document.title=`${voice.name} — VURSYL Voices`;
-  const desc=`${voice.name} — ${voice.role}. ${voice.bio.slice(0,150)}…`;
   let metaDesc=document.querySelector("meta[name=description]");
   if(!metaDesc){metaDesc=document.createElement("meta");metaDesc.name="description";document.head.appendChild(metaDesc);}
-  metaDesc.content=desc;
+  metaDesc.content=`${voice.name} — ${voice.role}. ${voice.bio.slice(0,150)}…`;
 
-  /* set accent */
   document.documentElement.style.setProperty("--accent",color);
 
-  /* avatar */
-  const av=document.getElementById("pAvatar");
-  av.textContent=voice.initials;
-  av.style.background=bg;
-  av.style.color=color;
+  buildAvatar(voice,96);
 
-  /* badge */
   const badge=document.getElementById("pBadge");
   badge.textContent=catLabel;
   badge.style.color=color;
-  badge.style.borderColor=color.replace(")",", .35)").replace("rgb","rgba").replace("#","")||color;
+  badge.style.borderColor=color+"50";
   badge.style.background=bg;
 
   document.getElementById("pName").textContent=voice.name;
   document.getElementById("pRole").textContent=voice.role;
   document.getElementById("pBio").textContent=voice.bio;
 
-  /* links */
   const linksEl=document.getElementById("pLinks");
   const links=voice.links||{};
   if(links.x)linksEl.innerHTML+=`<a class="hlink" href="${esc(links.x)}" target="_blank" rel="noopener">𝕏 / Twitter</a>`;
   if(links.web)linksEl.innerHTML+=`<a class="hlink" href="${esc(links.web)}" target="_blank" rel="noopener">Website →</a>`;
   if(!links.x&&!links.web)linksEl.innerHTML=`<span style="font-family:var(--font-m);font-size:.72rem;color:var(--text-faint);letter-spacing:.15em">No public links</span>`;
 
-  /* known for */
   document.getElementById("pKnown").innerHTML=(voice.known_for||[]).map(k=>
     `<div class="known-item"><div class="known-dot"></div><span>${esc(k)}</span></div>`).join("");
 
-  /* positions */
   document.getElementById("pPositions").innerHTML=(voice.positions||[]).map(p=>
     `<div class="position-item">${esc(p)}</div>`).join("");
 
-  /* note */
   if(voice.note){
     document.getElementById("pNote").textContent=voice.note;
     document.getElementById("noteCard").style.display="";
   }
 
-  /* archive feed */
   const keys=(voice.keywords||[voice.name]).map(k=>k.toLowerCase());
   const mentions=news.filter(item=>keys.some(k=>item.title.toLowerCase().includes(k)));
   document.getElementById("sMentions").textContent=mentions.length.toLocaleString();
   document.getElementById("sCat").textContent=catLabel;
   document.getElementById("sCat").style.color=color;
 
-  if(mentions.length){
-    document.getElementById("pFeed").innerHTML=mentions.slice(0,20).map((item,i)=>`
+  document.getElementById("pFeed").innerHTML=mentions.length
+    ?mentions.slice(0,20).map((item,i)=>`
       <div class="arc-item" style="transition-delay:${Math.min(i*35,280)}ms">
         <div class="ac"></div>
         <div class="body">
           <h3><a href="${esc(item.url)}" target="_blank" rel="noopener">${esc(item.title)}</a></h3>
           <div class="meta"><span>${esc(item.source)}</span><span>${ago(item.published)}</span></div>
         </div>
-      </div>`).join("");
-  } else {
-    document.getElementById("pFeed").innerHTML=`<div class="empty-feed">No archive mentions yet — check back as the feed grows</div>`;
-  }
+      </div>`).join("")
+    :`<div class="empty-feed">No archive mentions yet — check back as the feed grows</div>`;
 
-  /* related voices — same category, different person */
+  /* related voices with photo support */
   const related=allVoices.filter(v=>v.cat===voice.cat&&v.slug!==voice.slug).slice(0,5);
   if(related.length){
-    document.getElementById("pRelated").innerHTML=related.map(v=>`
-      <a class="rvoice" href="/voices/profile.html?slug=${esc(v.slug)}">
-        <div class="rv-av" style="background:${CAT_BG[v.cat]};color:${CAT_COLORS[v.cat]}">${esc(v.initials)}</div>
+    document.getElementById("pRelated").innerHTML=related.map(v=>{
+      const rc=CAT_COLORS[v.cat]||"#A78BFA";
+      const rb=CAT_BG[v.cat]||"rgba(167,139,250,.15)";
+      const photoHTML=v.photo
+        ?`<img src="${esc(v.photo)}" alt="${esc(v.name)}" onerror="this.classList.add('error');this.nextElementSibling.classList.remove('hidden')">
+           <div class="ri hidden" style="background:${rb};color:${rc}">${esc(v.initials)}</div>`
+        :`<div class="ri" style="background:${rb};color:${rc}">${esc(v.initials)}</div>`;
+      return`<a class="rvoice" href="/voices/profile.html?slug=${esc(v.slug)}">
+        <div class="rv-av" style="border:1px solid ${rc}30">${photoHTML}</div>
         <div><div class="rv-name">${esc(v.name)}</div><div class="rv-role">${esc(v.role)}</div></div>
-      </a>`).join("");
+      </a>`;
+    }).join("");
   } else document.getElementById("relatedBox").style.display="none";
 
-  /* show */
   document.getElementById("loadingState").style.display="none";
   document.getElementById("profileContent").style.display="";
   reveal();
 }
 
-/* load data */
 Promise.all([
   fetch("/data/voices.json",{cache:"no-store"}).then(r=>r.ok?r.json():null),
   fetch("/data/news.json",{cache:"no-store"}).then(r=>r.ok?r.json():null)
