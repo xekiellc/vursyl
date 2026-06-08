@@ -1,19 +1,104 @@
 {
- "updated": "2026-06-08T16:03:06.567189+00:00",
+ "updated": "2026-06-08T20:25:52.236797+00:00",
  "items": [
   {
-   "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+   "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+   "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
    "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-06-08T03:00:50+00:00"
+   "category": "ai",
+   "published": "2026-06-08T06:00:57+00:00"
   },
   {
-   "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
-   "source": "NVIDIA",
+   "title": "Introducing the OpenAI Economic Research Exchange",
+   "url": "https://openai.com/index/economic-research-exchange",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-08T00:00:00+00:00"
+  },
+  {
+   "title": "We hung out with around 100 robots \u2013 and here are the bizarre highlights",
+   "url": "https://newatlas.com/ai-humanoids/gallery-robots-hong-kong/",
+   "source": "New Atlas",
    "category": "robotics",
-   "published": "2026-06-07T23:00:36+00:00"
+   "published": "2026-06-07T20:03:00+00:00"
+  },
+  {
+   "title": "Show HN: Omni \u2013 airgapped macOS multimodal search over local files",
+   "url": "https://github.com/hanxiao/omni-macos/",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-07T19:16:43+00:00"
+  },
+  {
+   "title": "I finally built the central AI hub I've been wanting, and Open WebUI made it stupidly simple",
+   "url": "https://www.xda-developers.com/i-built-the-central-ai-hub-ive-been-wanting-and-open-webui-made-it-simple/",
+   "source": "XDA Developers",
+   "category": "ai",
+   "published": "2026-06-07T19:00:08+00:00"
+  },
+  {
+   "title": "Zealand Pharma announces Boehringer Ingelheim's survodutide Phase III trial in people living with obesity showed targeted 34% visceral and 63% liver fat reduction, while minimizing lean mass loss in pre-specified analysis",
+   "url": "https://www.globenewswire.com/news-release/2026/06/07/3307740/0/en/Zealand-Pharma-announces-Boehringer-Ingelheim-s-survodutide-Phase-III-trial-in-people-living-with-obesity-showed-targeted-34-visceral-and-63-liver-fat-reduction-while-minimizing-le.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-07T18:30:00+00:00"
+  },
+  {
+   "title": "Huge Psilocybin Dose Has Incredible Effect on Elderly Dementia Patient",
+   "url": "https://www.sciencealert.com/huge-psilocybin-dose-has-incredible-effect-on-elderly-dementia-patient",
+   "source": "ScienceAlert",
+   "category": "health",
+   "published": "2026-06-07T18:00:08+00:00"
+  },
+  {
+   "title": "Healthcare AI moves into clinical practice: Microsoft expands its ambitions",
+   "url": "https://www.digitaljournal.com/article/healthcare-ai-moves-into-clinical-practice-microsoft-expands-its-ambitions/",
+   "source": "Digital Journal",
+   "category": "health",
+   "published": "2026-06-07T17:29:58+00:00"
+  },
+  {
+   "title": "Getting AI to sniff out Alzheimer\u2019s early",
+   "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/getting-ai-to-sniff-out-alzheimers-early/article71074076.ece",
+   "source": "BusinessLine",
+   "category": "health",
+   "published": "2026-06-07T17:21:32+00:00"
+  },
+  {
+   "title": "China beats Elon Musk to launch world\u2019s first commercial brain chip",
+   "url": "https://www.news.com.au/technology/science/human-body/jesuslevel-technologies-china-beats-elon-musk-to-launch-worlds-first-commercial-brain-chip/news-story/ad8fb1f508e4ad6ef80bbf46911b8827",
+   "source": "News.com.au",
+   "category": "health",
+   "published": "2026-06-07T16:06:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "New '3D' Computer Chips Could Extend Moore's Law, Study Shows",
+   "url": "https://www.sciencealert.com/new-3d-computer-chips-could-extend-moores-law-study-shows",
+   "source": "ScienceAlert",
+   "category": "compute",
+   "published": "2026-06-07T11:00:03+00:00"
+  },
+  {
+   "title": "While China floods the humanoid market, America's top three are quietly building patent moats",
+   "url": "https://www.digitimes.com/news/a20260605PD229/robot-patent-development-market-competition.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-06-07T02:36:48+00:00"
+  },
+  {
+   "title": "Tesla\u2019s humanoid robot costs $55K to build, with $21K just for the legs",
+   "url": "https://cryptobriefing.com/tesla-optimus-robot-build-cost-breakdown/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-06-06T22:13:11+00:00"
+  },
+  {
+   "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+   "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-05T05:38:37+00:00"
   },
   {
    "title": "I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair",
@@ -48,8 +133,7 @@
    "url": "https://cryptobriefing.com/cambridge-ai-designed-vaccine-coronavirus-trial/",
    "source": "Crypto Briefing",
    "category": "health",
-   "published": "2026-06-07T13:10:55+00:00",
-   "breakthrough": true
+   "published": "2026-06-07T13:10:55+00:00"
   },
   {
    "title": "Autonomous AI improves Lyme test reliability #science",
@@ -57,13 +141,6 @@
    "source": "Alltoc.com",
    "category": "health",
    "published": "2026-06-07T12:02:11+00:00"
-  },
-  {
-   "title": "NVIDIA, KRAFTON, NC and Reigning \u2018League of Legends\u2019 Champions T1 Celebrate RTX Spark at Korea\u2019s PC Bangs",
-   "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-07T07:00:15+00:00"
   },
   {
    "title": "PATH to boost AI training and career opportunities for industry-aligned jobs",
