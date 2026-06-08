@@ -1,6 +1,294 @@
 {
- "updated": "2026-06-07T19:40:42.435769+00:00",
+ "updated": "2026-06-08T04:27:03.696150+00:00",
  "items": [
+  {
+   "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+   "source": "NVIDIA",
+   "category": "breakthroughs",
+   "published": "2026-06-08T03:00:50+00:00"
+  },
+  {
+   "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-06-07T23:00:36+00:00"
+  },
+  {
+   "title": "NVIDIA, KRAFTON, NC and Reigning \u2018League of Legends\u2019 Champions T1 Celebrate RTX Spark at Korea\u2019s PC Bangs",
+   "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-07T07:00:15+00:00"
+  },
+  {
+   "title": "aions-llm 1.0.11",
+   "url": "https://pypi.org/project/aions-llm/1.0.11/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T04:15:32+00:00"
+  },
+  {
+   "title": "aigovkit added to PyPI",
+   "url": "https://pypi.org/project/aigovkit/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T04:15:01+00:00"
+  },
+  {
+   "title": "aigovkit 0.2.0",
+   "url": "https://pypi.org/project/aigovkit/0.2.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T04:15:01+00:00"
+  },
+  {
+   "title": "HP announces the most powerful Windows AI PC ever built \u2014 Nvidia GB300 workstation can handle one trillion parameters thanks to its 784GB unified memory,",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183626548",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-06-07T04:12:32+00:00"
+  },
+  {
+   "title": "arcis 1.6.5",
+   "url": "https://pypi.org/project/arcis/1.6.5/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T04:02:38+00:00"
+  },
+  {
+   "title": "chowkidar 0.9.3",
+   "url": "https://pypi.org/project/chowkidar/0.9.3/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T04:01:13+00:00"
+  },
+  {
+   "title": "zing-audit 0.5.0",
+   "url": "https://pypi.org/project/zing-audit/0.5.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T03:58:57+00:00"
+  },
+  {
+   "title": "'Start your job search with...': American billionaire Mark Cuban shares career advice to graduates in the AI era, explains how to find better opportunities",
+   "url": "https://economictimes.indiatimes.com/news/new-updates/start-your-job-search-with-american-billionaire-mark-cuban-shares-career-advice-to-graduates-in-the-ai-era-urges-them-to-look-beyond-big-corporations/articleshow/131561695.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-06-07T03:50:30+00:00"
+  },
+  {
+   "title": "AI can now solve JEE papers. Can it give students a fairer shot at success?",
+   "url": "https://timesofindia.indiatimes.com/blogs/voices/ai-can-now-solve-jee-papers-can-it-give-students-a-fairer-shot-at-success/",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-06-07T03:48:52+00:00"
+  },
+  {
+   "title": "The most powerful AI stories right now are not chatbots. They are the quiet algorithms reading burnt Roman scrolls, trawling through millions of galaxies, and finding things hidden in data no human team could ever finish searching.",
+   "url": "https://spacedaily.com/t-the-most-powerful-ai-stories-right-now-are-not-chatbots-they-are-the-quiet-algorithms-reading-burnt-roman-scrolls-trawling-through-millions-of-galaxies-and-finding-things-hidden-in-data-no-human-te/",
+   "source": "Space Daily",
+   "category": "breakthroughs",
+   "published": "2026-06-07T03:44:35+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "lfx-ibm-nightly 0.1.0.dev2",
+   "url": "https://pypi.org/project/lfx-ibm-nightly/0.1.0.dev2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T03:34:18+00:00"
+  },
+  {
+   "title": "aions-llm 1.0.10",
+   "url": "https://pypi.org/project/aions-llm/1.0.10/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T03:30:15+00:00"
+  },
+  {
+   "title": "toolbox-gateway 0.1.0",
+   "url": "https://pypi.org/project/toolbox-gateway/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T03:24:23+00:00"
+  },
+  {
+   "title": "toolbox-gateway added to PyPI",
+   "url": "https://pypi.org/project/toolbox-gateway/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T03:24:17+00:00"
+  },
+  {
+   "title": "freelm 0.2.2",
+   "url": "https://pypi.org/project/freelm/0.2.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T03:21:41+00:00"
+  },
+  {
+   "title": "puffo-agent 0.12.1",
+   "url": "https://pypi.org/project/puffo-agent/0.12.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T03:20:15+00:00"
+  },
+  {
+   "title": "AI legal agent designed to guide police during domestic violence calls",
+   "url": "https://newatlas.com/ai-humanoids/ai-legal-agent-guide-cops-domestic-violence/",
+   "source": "New Atlas",
+   "category": "ai",
+   "published": "2026-06-07T03:03:00+00:00"
+  },
+  {
+   "title": "freelm 0.2.1",
+   "url": "https://pypi.org/project/freelm/0.2.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T02:56:20+00:00"
+  },
+  {
+   "title": "llm-zip 0.1.8",
+   "url": "https://pypi.org/project/llm-zip/0.1.8/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-07T02:53:53+00:00"
+  },
+  {
+   "title": "AI cracks one of biology\u2019s biggest puzzles",
+   "url": "https://www.thedailystar.net/health/news/ai-cracks-one-biologys-biggest-puzzles-4192336",
+   "source": "The Daily Star",
+   "category": "health",
+   "published": "2026-06-07T02:45:13+00:00"
+  },
+  {
+   "title": "South Korea data center market to hit KRW11T by 2029",
+   "url": "https://www.digitimes.com/news/a20260605PD236/data-center-data-market-demand-infrastructure.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-06-07T02:40:57+00:00"
+  },
+  {
+   "title": "Pegatron unit ASRock Rack wins order to supply 587 GPU servers for Thailand AI data center",
+   "url": "https://www.digitimes.com/news/a20260605PD233/asrock-pegatron-gpu-infrastructure-data-center.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-06-07T02:40:18+00:00"
+  },
+  {
+   "title": "Japan injects JPY150B into Rapidus to push for 2nm production by 2027",
+   "url": "https://www.digitimes.com/news/a20260605PD232/rapidus-government-2027-production-chips.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-06-07T02:37:10+00:00"
+  },
+  {
+   "title": "While China floods the humanoid market, America's top three are quietly building patent moats",
+   "url": "https://www.digitimes.com/news/a20260605PD229/robot-patent-development-market-competition.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-06-07T02:36:48+00:00"
+  },
+  {
+   "title": "ADATA goes global with data centers, eyes 1Q27 payoff",
+   "url": "https://www.digitimes.com/news/a20260605PD216/data-center-growth-demand-2026-expansion.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-06-07T02:35:29+00:00"
+  },
+  {
+   "title": "Aewin pushes two-phase direct liquid cooling for high-density AI racks and gaming",
+   "url": "https://www.digitimes.com/news/a20260605PD202/2026-aewin-cooling-gaming-ai-liquid-cooling.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-06-07T02:34:45+00:00"
+  },
+  {
+   "title": "Taiwan Mobile and GMI Cloud sign MOU to expand AI data center services into SEA and beyond",
+   "url": "https://www.digitimes.com/news/a20260605PD201/twm-cloud-aidc-asia-2026.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-06-07T02:34:26+00:00"
+  },
+  {
+   "title": "Coalition for Health AI (CHAI) Names Board of Directors and CEO | CHAI",
+   "url": "https://www.chai.org/news/coalition-for-health-ai-chai-names-board-of-directors-and-ceo",
+   "source": "Chai.org",
+   "category": "health",
+   "published": "2026-06-07T00:51:44+00:00"
+  },
+  {
+   "title": "Coalition for Health AI (CHAI\u2122) Updates Progress and Plans to Issue Guidelines for the Responsible Use of AI in Healthcare",
+   "url": "https://www.chai.org/news/coalition-for-health-ai-chai-updates-progress-and-plans-to-issue-guidelines-for-the-responsible-use-of-ai-in-healthcare",
+   "source": "Chai.org",
+   "category": "health",
+   "published": "2026-06-07T00:51:44+00:00"
+  },
+  {
+   "title": "CHAI Releases New Patient Survey Report on Health AI & Transparency | CHAI",
+   "url": "https://www.chai.org/news/chai-releases-new-patient-survey-report-on-health-ai-and-transparency",
+   "source": "Chai.org",
+   "category": "health",
+   "published": "2026-06-07T00:51:43+00:00"
+  },
+  {
+   "title": "mps-xtrap 2.2.2",
+   "url": "https://pypi.org/project/mps-xtrap/2.2.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-06T20:52:58+00:00"
+  },
+  {
+   "title": "mostlyrightmd 1.6.0",
+   "url": "https://pypi.org/project/mostlyrightmd/1.6.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-06T16:05:16+00:00"
+  },
+  {
+   "title": "Chinese Post Office Deploys Humanoid Robots to Sort Mail",
+   "url": "https://futurism.com/robots-and-machines/chinese-post-office-humanoid-robots-mail",
+   "source": "Futurism",
+   "category": "robotics",
+   "published": "2026-06-06T13:30:00+00:00"
+  },
+  {
+   "title": "FutureWave\u2019s Furny home robot talks to you by moving, not by talking",
+   "url": "https://www.yankodesign.com/2026/06/06/futurewaves-furny-home-robot-talks-to-you-by-moving-not-by-talking/",
+   "source": "Yanko Design",
+   "category": "robotics",
+   "published": "2026-06-06T13:20:27+00:00"
+  },
+  {
+   "title": "PATH to boost AI training and career opportunities for industry-aligned jobs",
+   "url": "https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-04T19:50:00+00:00"
+  },
+  {
+   "title": "NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery",
+   "url": "https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-04T16:00:00+00:00"
+  },
+  {
+   "title": "How Endava is redesigning software delivery around AI agents",
+   "url": "https://openai.com/index/endava-frontiers",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-04T12:00:00+00:00"
+  },
+  {
+   "title": "Dreaming: Better memory for a more helpful ChatGPT",
+   "url": "https://openai.com/index/chatgpt-memory-dreaming",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-04T09:00:00+00:00"
+  },
   {
    "title": "emmykit added to PyPI",
    "url": "https://pypi.org/project/emmykit/",
@@ -198,33 +486,11 @@
    "published": "2026-06-06T10:36:19+00:00"
   },
   {
-   "title": "'Elon Musk said he thinks humanoid robots will be in many homes in three years, and I agree with him.' I sat down with Jake Dyson to hear his predictions for AI and robotics in your home \u2014 and why you shouldn't throw out your stick vac just yet",
-   "url": "https://www.techradar.com/home/vacuums/jake-dyson-interview-robots-in-the-home",
-   "source": "TechRadar",
-   "category": "robotics",
-   "published": "2026-06-06T07:00:00+00:00"
-  },
-  {
    "title": "Quantinuum Announces Closing of Upsized Initial Public Offering",
    "url": "https://www.prnewswire.co.uk/news-releases/quantinuum-announces-closing-of-upsized-initial-public-offering-302793104.html",
    "source": "PR Newswire UK",
    "category": "quantum",
-   "published": "2026-06-05T21:01:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
-   "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-05T05:38:37+00:00"
-  },
-  {
-   "title": "Forecast: Fun Ahead \u2014 18 Games Join in June to Stream on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-04T13:00:27+00:00"
+   "published": "2026-06-05T21:01:00+00:00"
   },
   {
    "title": "Biodefense in the Intelligence Age",
@@ -274,13 +540,6 @@
    "source": "PCMag.com",
    "category": "compute",
    "published": "2026-06-06T12:49:47+00:00"
-  },
-  {
-   "title": "A wheeled robot may beat humanoids into your home",
-   "url": "https://www.foxnews.com/tech/wheeled-robot-may-beat-humanoids-home",
-   "source": "Fox News",
-   "category": "robotics",
-   "published": "2026-06-06T12:07:51+00:00"
   },
   {
    "title": "Researchers Successfully Trial AI-Designed Vaccine for the First Time",
