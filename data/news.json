@@ -1,19 +1,76 @@
 {
- "updated": "2026-06-08T11:07:12.791435+00:00",
+ "updated": "2026-06-08T16:03:06.567189+00:00",
  "items": [
   {
-   "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
-   "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+   "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
    "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-08T06:00:57+00:00"
+   "category": "robotics",
+   "published": "2026-06-08T03:00:50+00:00"
   },
   {
-   "title": "New '3D' Computer Chips Could Extend Moore's Law, Study Shows",
-   "url": "https://www.sciencealert.com/new-3d-computer-chips-could-extend-moores-law-study-shows",
-   "source": "ScienceAlert",
+   "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-06-07T23:00:36+00:00"
+  },
+  {
+   "title": "I visited Intel's robot-run AI chip factory, where the biggest danger is human skin and hair",
+   "url": "https://www.businessinsider.com/inside-intel-ai-chip-factory-manufacture-humans-greatest-threat-2026-6",
+   "source": "Business Insider",
+   "category": "robotics",
+   "published": "2026-06-07T15:47:59+00:00"
+  },
+  {
+   "title": "Microsoft and Nvidia are betting on AI to make old x86 Windows apps run better on next-gen RTX Spark PCs",
+   "url": "https://www.notebookcheck.net/Microsoft-and-Nvidia-are-betting-on-AI-to-make-old-x86-Windows-apps-run-better-on-next-gen-RTX-Spark-PCs.1316864.0.html",
+   "source": "Notebookcheck.net",
    "category": "compute",
-   "published": "2026-06-07T11:00:03+00:00"
+   "published": "2026-06-07T15:23:00+00:00"
+  },
+  {
+   "title": "Mac-inspired Nvidia RTX Spark Dell XPS mini PC revealed: Unmatched port selection, up to 128GB RAM",
+   "url": "https://www.notebookcheck.net/Mac-inspired-Nvidia-RTX-Spark-Dell-XPS-mini-PC-revealed-Unmatched-port-selection-up-to-128GB-RAM.1317027.0.html",
+   "source": "Notebookcheck.net",
+   "category": "compute",
+   "published": "2026-06-07T15:10:00+00:00"
+  },
+  {
+   "title": "Microsoft gains autonomy from OpenAI to pursue superintelligence on its own terms",
+   "url": "https://cryptobriefing.com/microsoft-openai-autonomy-superintelligence/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-06-07T15:09:38+00:00"
+  },
+  {
+   "title": "University of Cambridge tests world-first AI-designed vaccine against coronaviruses",
+   "url": "https://cryptobriefing.com/cambridge-ai-designed-vaccine-coronavirus-trial/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-06-07T13:10:55+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Autonomous AI improves Lyme test reliability #science",
+   "url": "https://alltoc.com/science/autonomous-ai-improves-lyme-test-reliability",
+   "source": "Alltoc.com",
+   "category": "health",
+   "published": "2026-06-07T12:02:11+00:00"
+  },
+  {
+   "title": "NVIDIA, KRAFTON, NC and Reigning \u2018League of Legends\u2019 Champions T1 Celebrate RTX Spark at Korea\u2019s PC Bangs",
+   "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-07T07:00:15+00:00"
+  },
+  {
+   "title": "PATH to boost AI training and career opportunities for industry-aligned jobs",
+   "url": "https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-04T19:50:00+00:00"
   },
   {
    "title": "Mesa 26.2 Lands VK_GOOGLE_display_timing Support For Direct Display Mode",
@@ -90,15 +147,7 @@
    "url": "https://cryptobriefing.com/spacex-google-ai-compute-deal/",
    "source": "Crypto Briefing",
    "category": "compute",
-   "published": "2026-06-07T09:35:37+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Gilead Sciences (GILD), Lakefront Biotherapeutics Acquire Ouro Medicines to Advance Autoimmune Pipeline",
-   "url": "https://finance.yahoo.com/sectors/healthcare/articles/gilead-sciences-gild-lakefront-biotherapeutics-043916213.html",
-   "source": "Yahoo Entertainment",
-   "category": "health",
-   "published": "2026-06-07T04:39:16+00:00"
+   "published": "2026-06-07T09:35:37+00:00"
   },
   {
    "title": "Reid Hoffman to leave Microsoft board to focus on AI drug discovery startup Manas AI",
@@ -106,13 +155,6 @@
    "source": "Crypto Briefing",
    "category": "health",
    "published": "2026-06-06T22:13:47+00:00"
-  },
-  {
-   "title": "Tesla\u2019s humanoid robot costs $55K to build, with $21K just for the legs",
-   "url": "https://cryptobriefing.com/tesla-optimus-robot-build-cost-breakdown/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-06-06T22:13:11+00:00"
   },
   {
    "title": "J.P. Morgan upgrades Tesla to neutral, cites robotics and autonomous driving as long-term catalysts",
@@ -127,13 +169,6 @@
    "source": "Fox News",
    "category": "robotics",
    "published": "2026-06-06T12:07:51+00:00"
-  },
-  {
-   "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
-   "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-05T05:38:37+00:00"
   },
   {
    "title": "aions-llm 1.0.11",
@@ -855,13 +890,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-06-05T22:39:33+00:00"
-  },
-  {
-   "title": "The crucial human component in computing and AI",
-   "url": "https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-06-05T20:10:00+00:00"
   },
   {
    "title": "Yoland Yan: Comfy UI revolutionizes image generation with node-based precision, the ideogram model enhances control with bounding boxes, and granular prompting maximizes AI effectiveness | TWIST",
