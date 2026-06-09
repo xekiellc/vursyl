@@ -1,6 +1,273 @@
 {
- "updated": "2026-06-09T03:58:58.954562+00:00",
+ "updated": "2026-06-09T09:59:31.981159+00:00",
  "items": [
+  {
+   "title": "Show HN: Incremental RAG ingestion, only changed chunks get re-embedded",
+   "url": "https://github.com/shamikhan005/chunks-sync",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-08T09:57:52+00:00"
+  },
+  {
+   "title": "South Korea to seek priority supply of Nvidia Vera Rubin GPUs, science minister says",
+   "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-to-seek-priority-supply-of-nvidia-vera-rubin-gpus-science-minister-says/articleshow/131584630.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-06-08T09:50:36+00:00"
+  },
+  {
+   "title": "nvidia-nat-mcp 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-mcp/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:49:30+00:00"
+  },
+  {
+   "title": "nvidia-nat-adk 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-adk/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:49:11+00:00"
+  },
+  {
+   "title": "nvidia-nat-openpipe-art 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-openpipe-art/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:48:52+00:00"
+  },
+  {
+   "title": "nvidia-nat-llama-index 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-llama-index/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:48:34+00:00"
+  },
+  {
+   "title": "nvidia-nat-fastmcp 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-fastmcp/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:48:15+00:00"
+  },
+  {
+   "title": "nvidia-nat-opentelemetry 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-opentelemetry/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:47:56+00:00"
+  },
+  {
+   "title": "nvidia-nat-nemo-customizer 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-nemo-customizer/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:47:37+00:00"
+  },
+  {
+   "title": "nvidia-nat-mem0ai 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-mem0ai/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:47:19+00:00"
+  },
+  {
+   "title": "Nvidia strikes multi-year AI infrastructure deals with Korean firms",
+   "url": "https://www.verdict.co.uk/nvidia-ai-infrastructure-deals-korea/",
+   "source": "Verdict",
+   "category": "compute",
+   "published": "2026-06-08T09:46:52+00:00"
+  },
+  {
+   "title": "nvidia-nat-mysql 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-mysql/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:46:41+00:00"
+  },
+  {
+   "title": "nvidia-nat-core 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-core/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:46:22+00:00"
+  },
+  {
+   "title": "nvidia-nat-data-flywheel 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-data-flywheel/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:45:59+00:00"
+  },
+  {
+   "title": "nvidia-nat-eval 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-eval/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:45:40+00:00"
+  },
+  {
+   "title": "nvidia-nat-weave 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-weave/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:45:21+00:00"
+  },
+  {
+   "title": "nvidia-nat-a2a 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-a2a/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:45:02+00:00"
+  },
+  {
+   "title": "nvidia-nat-s3 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-s3/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:44:44+00:00"
+  },
+  {
+   "title": "nvidia-nat-redis 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-redis/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:44:06+00:00"
+  },
+  {
+   "title": "nvidia-nat-security 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-security/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:43:47+00:00"
+  },
+  {
+   "title": "nvidia-nat-langchain 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-langchain/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:43:28+00:00"
+  },
+  {
+   "title": "nvidia-nat-autogen 1.9.0a20260608",
+   "url": "https://pypi.org/project/nvidia-nat-autogen/1.9.0a20260608/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:43:09+00:00"
+  },
+  {
+   "title": "Implementing AI Memory Systems in C# Using Vector Databases",
+   "url": "https://www.c-sharpcorner.com/article/implementing-ai-memory-systems-in-c-sharp-using-vector-databases/",
+   "source": "C-sharpcorner.com",
+   "category": "ai",
+   "published": "2026-06-08T09:24:59+00:00"
+  },
+  {
+   "title": "agent-belt 0.2.0",
+   "url": "https://pypi.org/project/agent-belt/0.2.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-08T09:17:43+00:00"
+  },
+  {
+   "title": "Microsoft Discovery Reaches GA on Azure, Powering the Agentic AI Behind Majorana 2 Quantum Chip",
+   "url": "https://www.infoq.com/news/2026/06/microsoft-discovery-majorana-2/",
+   "source": "InfoQ.com",
+   "category": "breakthroughs",
+   "published": "2026-06-08T09:08:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Starmer announces sovereign compute strategy amid \u00a31.1bn chip investment",
+   "url": "https://www.computerweekly.com/news/366643844/Starmer-announces-sovereign-compute-strategy-amid-11bn-chip-investment",
+   "source": "ComputerWeekly.com",
+   "category": "compute",
+   "published": "2026-06-08T09:05:00+00:00"
+  },
+  {
+   "title": "Nvidia clinches deals with South Korean giants",
+   "url": "https://www.rte.ie/news/business/2026/0608/1577304-nvidia-south-korean-deals/",
+   "source": "RTE",
+   "category": "compute",
+   "published": "2026-06-08T09:01:07+00:00"
+  },
+  {
+   "title": "Show HN: CogCore \u2013 An API-native TypeScript runtime for building agents",
+   "url": "https://github.com/carsonDB/CogCore",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-08T09:00:37+00:00"
+  },
+  {
+   "title": "Why radiologists prefer domain-specific AI over generic AI",
+   "url": "https://www.techtarget.com/healthtechanalytics/feature/Why-radiologists-prefer-domain-specific-AI-over-generic-AI",
+   "source": "Techtarget.com",
+   "category": "health",
+   "published": "2026-06-08T09:00:00+00:00"
+  },
+  {
+   "title": "Innodisk Showcases Full Qualcomm Dragonwing Edge AI Lineup at Computex 2026, Spanning Dragonwing IQ8 Through IQ10",
+   "url": "https://www.prnewswire.com/news-releases/innodisk-showcases-full-qualcomm-dragonwing-edge-ai-lineup-at-computex-2026-spanning-dragonwing-iq8-through-iq10-302793823.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-06-08T08:22:00+00:00"
+  },
+  {
+   "title": "Tethis to launch SmartBioSurface\u00ae slides at EACR Conference",
+   "url": "https://www.prnewswire.com/news-releases/tethis-to-launch-smartbiosurface-slides-at-eacr-conference-302792955.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-08T07:00:00+00:00"
+  },
+  {
+   "title": "New data from Phase 2 ZUPREME-1 trial at the American Diabetes Association 2026 Scientific Sessions further support potential of petrelintide to redefine the weight management experience for people living with overweight and obesity",
+   "url": "https://www.biospace.com/press-releases/new-data-from-phase-2-zupreme-1-trial-at-the-american-diabetes-association-2026-scientific-sessions-further-support-potential-of-petrelintide-to-redefine-the-weight-management-experience-for-people-living-with-overweight-and-obesity",
+   "source": "BioSpace",
+   "category": "health",
+   "published": "2026-06-08T06:28:48+00:00"
+  },
+  {
+   "title": "Cosylab Launches PlanOne\u2122 Treatment Planning System for Particle Therapy",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cosylab-launches-planone-treatment-planning-system-for-particle-therapy",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-06-08T06:10:17+00:00"
+  },
+  {
+   "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+   "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-06-08T06:00:57+00:00"
+  },
+  {
+   "title": "Press Release: Sanofi\u2019s Sarclisa subcutaneous approved in the EU as the first anticancer treatment administered via an on-body injector",
+   "url": "https://www.globenewswire.com/news-release/2026/06/08/3307781/0/en/Press-Release-Sanofi-s-Sarclisa-subcutaneous-approved-in-the-EU-as-the-first-anticancer-treatment-administered-via-an-on-body-injector.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-08T05:00:00+00:00"
+  },
+  {
+   "title": "Nurix Therapeutics Announces Global Collaboration with Roche to Co-Develop and Co-Commercialize Potential Best-in-Class BTK Degrader Bexobrutideg Across Malignant Hematology, Immunology and Neurology",
+   "url": "https://www.globenewswire.com/news-release/2026/06/08/3307775/0/en/Nurix-Therapeutics-Announces-Global-Collaboration-with-Roche-to-Co-Develop-and-Co-Commercialize-Potential-Best-in-Class-BTK-Degrader-Bexobrutideg-Across-Malignant-Hematology-Immuno.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-08T05:00:00+00:00"
+  },
+  {
+   "title": "Introducing the OpenAI Economic Research Exchange",
+   "url": "https://openai.com/index/economic-research-exchange",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-08T00:00:00+00:00"
+  },
+  {
+   "title": "New '3D' Computer Chips Could Extend Moore's Law, Study Shows",
+   "url": "https://www.sciencealert.com/new-3d-computer-chips-could-extend-moores-law-study-shows",
+   "source": "ScienceAlert",
+   "category": "compute",
+   "published": "2026-06-07T11:00:03+00:00"
+  },
   {
    "title": "Confidential submission of draft S-1 to the SEC",
    "url": "https://openai.com/index/openai-submits-confidential-s-1",
@@ -44,26 +311,11 @@
    "published": "2026-06-08T03:02:11+00:00"
   },
   {
-   "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-   "source": "Nvidia.com",
-   "category": "robotics",
-   "published": "2026-06-08T03:00:50+00:00",
-   "breakthrough": true
-  },
-  {
    "title": "Nvidia unveils AI infrastructure deals in South Korea",
    "url": "https://www.digitaljournal.com/article/nvidia-unveils-ai-infrastructure-deals-in-south-korea/",
    "source": "Digital Journal",
    "category": "compute",
    "published": "2026-06-08T03:00:37+00:00"
-  },
-  {
-   "title": "Nvidia CEO says company is working with LG on humanoid robots and data centers",
-   "url": "https://www.channelnewsasia.com/business/nvidia-ceo-says-company-working-lg-humanoid-robots-and-data-centers-6168246",
-   "source": "CNA",
-   "category": "robotics",
-   "published": "2026-06-08T02:37:27+00:00"
   },
   {
    "title": "South Korea's Naver to build gigawatt-scale AI factories using Nvidia technology",
@@ -101,25 +353,11 @@
    "published": "2026-06-08T01:50:03+00:00"
   },
   {
-   "title": "Built to benefit everyone: our plan",
-   "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-08T01:30:00+00:00"
-  },
-  {
    "title": "OriCell's GPC3 CAR-T Receives NMPA Clearance for Confirmatory Phase II Trial in Late-Line Advanced Hepatocellular Carcinoma",
    "url": "https://www.prnewswire.com/news-releases/oricells-gpc3-car-t-receives-nmpa-clearance-for-confirmatory-phase-ii-trial-in-late-line-advanced-hepatocellular-carcinoma-302793391.html",
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-06-08T00:08:00+00:00"
-  },
-  {
-   "title": "Induction of cortical on/off periods in awake mice fulfills sleep functions",
-   "url": "https://www.nature.com/articles/s41593-026-02318-9",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-06-08T00:00:00+00:00"
   },
   {
    "title": "AI is taking on antibiotic resistance \u2014 here\u2019s how",
@@ -150,46 +388,11 @@
    "published": "2026-06-07T23:35:30+00:00"
   },
   {
-   "title": "Nvidia clinches deals with South Korean giants including SK Group to advance AI boom",
-   "url": "https://www.channelnewsasia.com/business/nvidia-clinches-deals-south-korean-giants-including-sk-group-advance-ai-boom-6167936",
-   "source": "CNA",
-   "category": "compute",
-   "published": "2026-06-07T23:27:00+00:00"
-  },
-  {
-   "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
-   "source": "Nvidia.com",
-   "category": "robotics",
-   "published": "2026-06-07T23:00:36+00:00"
-  },
-  {
-   "title": "Quantum computing moves toward industrialization and data center integration",
-   "url": "https://4sysops.com/archives/quantum-computing-moves-toward-industrialization-and-data-center-integration/",
-   "source": "4sysops.com",
-   "category": "quantum",
-   "published": "2026-06-07T22:49:30+00:00"
-  },
-  {
    "title": "Humans Solve Erdos Problem!!",
    "url": "https://blog.computationalcomplexity.org/2026/06/humans-solve-erdos-problem.html",
    "source": "Computationalcomplexity.org",
    "category": "breakthroughs",
    "published": "2026-06-07T19:29:06+00:00"
-  },
-  {
-   "title": "Microsoft Announces Majorana 2 Quantum Chip as Wedbush Calls It Another \u2018Validation\u2019 for the Industry",
-   "url": "https://www.barchart.com/story/news/2346995/microsoft-announces-majorana-2-quantum-chip-as-wedbush-calls-it-another-validation-for-the-industry",
-   "source": "Barchart.com",
-   "category": "quantum",
-   "published": "2026-06-07T14:15:02+00:00"
-  },
-  {
-   "title": "NVIDIA, KRAFTON, NC and Reigning \u2018League of Legends\u2019 Champions T1 Celebrate RTX Spark at Korea\u2019s PC Bangs",
-   "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-07T07:00:15+00:00"
   },
   {
    "title": "The crucial human component in computing and AI",
