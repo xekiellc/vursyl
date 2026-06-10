@@ -1,47 +1,167 @@
 {
- "updated": "2026-06-10T04:10:36.404679+00:00",
+ "updated": "2026-06-10T10:12:12.608215+00:00",
  "items": [
   {
-   "title": "Startup\u2019s nuclear-inspired cooling system could make data centers more sustainable",
-   "url": "https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610",
-   "source": "MIT News AI",
-   "category": "compute",
-   "published": "2026-06-10T04:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA Confidential Computing to Help Expand Apple\u2019s Private Cloud Compute",
-   "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-09T22:34:27+00:00"
-  },
-  {
-   "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-   "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-06-09T14:10:19+00:00"
-  },
-  {
-   "title": "Powering the future of robotics in Europe",
-   "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-   "source": "Google DeepMind",
-   "category": "robotics",
-   "published": "2026-06-09T14:02:33+00:00"
-  },
-  {
-   "title": "How engineers at Nextdoor use Codex to build without limits",
-   "url": "https://openai.com/index/nextdoor",
+   "title": "From data to decisions: how LSEG is scaling trusted AI",
+   "url": "https://openai.com/index/lseg",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-06-09T12:00:00+00:00"
+   "published": "2026-06-10T00:00:00+00:00"
   },
   {
-   "title": "What Codex unlocks for Notion",
-   "url": "https://openai.com/index/notion",
-   "source": "OpenAI",
+   "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+   "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-06-09T15:16:25+00:00"
+  },
+  {
+   "title": "GDS and Vnet Rally on Reports of Major China Data Center Investment Plan",
+   "url": "https://investorshub.advfn.com/market-news/article/29984/gds-and-vnet-rally-on-reports-of-major-china-data-center-investment-plan",
+   "source": "Advfn.com",
+   "category": "compute",
+   "published": "2026-06-09T10:10:47+00:00"
+  },
+  {
+   "title": "ThroughPut.AI Now Available Through Carahsoft, Expanding Government and Commercial Access to AI-Powered Predictive Supply Chain Decision Intelligence",
+   "url": "https://www.prnewswire.com/news-releases/throughputai-now-available-through-carahsoft-expanding-government-and-commercial-access-to-ai-powered-predictive-supply-chain-decision-intelligence-302795117.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-06-09T10:10:00+00:00"
+  },
+  {
+   "title": "Vortex 3.0 Released As Full-Stack, Open-Source RISC-V GPU Now With 3D Pipeline",
+   "url": "https://www.phoronix.com/news/Vortex-3.0-RISC-V-GPGPU",
+   "source": "Phoronix",
+   "category": "compute",
+   "published": "2026-06-09T10:02:19+00:00"
+  },
+  {
+   "title": "I spent hours testing Claude Opus 4.8 \u2014 these are the 5 biggest upgrades",
+   "url": "https://www.androidauthority.com/claude-opus-4-8-vs-4-7-hands-on-3673511/",
+   "source": "Android Authority",
+   "category": "ai",
+   "published": "2026-06-09T10:00:06+00:00"
+  },
+  {
+   "title": "Nasdaq Launches Economic Institute, Debuts New AI Research Series",
+   "url": "https://www.globenewswire.com/news-release/2026/06/09/3308640/6948/en/Nasdaq-Launches-Economic-Institute-Debuts-New-AI-Research-Series.html",
+   "source": "GlobeNewswire",
    "category": "ai",
    "published": "2026-06-09T10:00:00+00:00"
+  },
+  {
+   "title": "Aignostics Partners with the Pancreatic Cancer Action Network to Advance Pancreatic Cancer Research",
+   "url": "https://www.prnewswire.com/news-releases/aignostics-partners-with-the-pancreatic-cancer-action-network-to-advance-pancreatic-cancer-research-302794401.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-09T10:00:00+00:00"
+  },
+  {
+   "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+   "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+   "source": "MIT Technology Review",
+   "category": "health",
+   "published": "2026-06-09T10:00:00+00:00"
+  },
+  {
+   "title": "Ambitious Bio Emerges From Stealth, Catalyzing America's Response to Biopharma's 'Sputnik Moment'",
+   "url": "https://www.prnewswire.com/news-releases/ambitious-bio-emerges-from-stealth-catalyzing-americas-response-to-biopharmas-sputnik-moment-302794550.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-09T10:00:00+00:00"
+  },
+  {
+   "title": "Pudu Robotics and Robobee Forge Strategic Partnership with Denner for Major Robotic Cleaning Deployment Across Swiss Stores",
+   "url": "https://www.prnewswire.com/news-releases/pudu-robotics-and-robobee-forge-strategic-partnership-with-denner-for-major-robotic-cleaning-deployment-across-swiss-stores-302795108.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-06-09T10:00:00+00:00"
+  },
+  {
+   "title": "SpaceX, Anthropic, OpenAI can rewrite history for megacap IPOs",
+   "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/spacex-anthropic-openai-can-rewrite-history-for-megacap-ipos/articleshow/131607565.cms",
+   "source": "The Times of India",
+   "category": "breakthroughs",
+   "published": "2026-06-09T09:55:50+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Linux developers are using AI vibe coding to keep vintage AMD GPUs alive \u2014 R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a n",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183705008",
+   "source": "Slashdot.org",
+   "category": "ai",
+   "published": "2026-06-09T09:52:05+00:00"
+  },
+  {
+   "title": "uMR Jupiter 5T, the Middle East's First 5T Ultra-High-Field MRI, Begins Clinical Operation in Istanbul",
+   "url": "https://www.prnewswire.com/news-releases/umr-jupiter-5t-the-middle-easts-first-5t-ultra-high-field-mri-begins-clinical-operation-in-istanbul-302795110.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-09T09:34:00+00:00"
+  },
+  {
+   "title": "FinThrive bets AI can prevent denials with new product",
+   "url": "https://www.techtarget.com/revcyclemanagement/news/366643948/FinThrive-bets-AI-can-prevent-denials-with-new-product",
+   "source": "Techtarget.com",
+   "category": "health",
+   "published": "2026-06-09T09:32:00+00:00"
+  },
+  {
+   "title": "Whole-Body Spatial Intelligence Beyond Weight-loss: nference Advances Cardiometabolism Moat for Precision Peptide Medicines and Healthy Longevity",
+   "url": "https://www.prnewswire.com/news-releases/whole-body-spatial-intelligence-beyond-weight-loss-nference-advances-cardiometabolism-moat-for-precision-peptide-medicines-and-healthy-longevity-302795089.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-09T09:13:00+00:00"
+  },
+  {
+   "title": "\"Revolutionizing Wound Care: AI-Driven Solutions Expected to Transform Diabetes Management\"",
+   "url": "https://www.globenewswire.com/news-release/2026/06/09/3308596/28124/en/Revolutionizing-Wound-Care-AI-Driven-Solutions-Expected-to-Transform-Diabetes-Management.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-09T08:06:00+00:00"
+  },
+  {
+   "title": "Philips Future Health Index 2026: AI is already saving clinicians time and delivering measurable impact in healthcare",
+   "url": "https://financialpost.com/globe-newswire/philips-future-health-index-2026-ai-is-already-saving-clinicians-time-and-delivering-measurable-impact-in-healthcare",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-06-09T08:02:21+00:00"
+  },
+  {
+   "title": "IQM Announces Novel Quantum Error Correction Approach Toward Fault-Tolerant Quantum Computing",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/iqm-announces-novel-quantum-error-correction-approach-toward-fault-tolerant-quantum-computing",
+   "source": "Financial Post",
+   "category": "quantum",
+   "published": "2026-06-09T07:10:14+00:00"
+  },
+  {
+   "title": "Robot pets with AI could soon live with you",
+   "url": "https://www.foxnews.com/tech/robot-pets-ai-could-soon-live",
+   "source": "Fox News",
+   "category": "robotics",
+   "published": "2026-06-08T18:00:01+00:00"
+  },
+  {
+   "title": "How Anthropic\u2019s Claude Oceanus is Writing 80 Percent of Merged Code",
+   "url": "https://www.geeky-gadgets.com/anthropic-agi-nemotron-3-ultra/",
+   "source": "Geeky Gadgets",
+   "category": "ai",
+   "published": "2026-06-08T13:15:00+00:00"
+  },
+  {
+   "title": "Nvidia deepens South Korea ties through new AI partnerships (NVDA)",
+   "url": "https://investorshub.advfn.com/market-news/article/29954/nvidia-deepens-south-korea-ties-through-new-ai-partnerships-nvda",
+   "source": "Advfn.com",
+   "category": "compute",
+   "published": "2026-06-08T10:18:31+00:00"
+  },
+  {
+   "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+   "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-08T06:00:57+00:00"
   },
   {
    "title": "areno added to PyPI",
@@ -114,13 +234,6 @@
    "published": "2026-06-09T03:00:00+00:00"
   },
   {
-   "title": "Nvidia and LG team up to build AI factories for robotics and data centers",
-   "url": "https://cryptobriefing.com/nvidia-lg-robotics-data-center-collaboration/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-06-09T02:03:07+00:00"
-  },
-  {
    "title": "Three New Ebola Vaccines Are in The Works. Here's The Science Behind Them.",
    "url": "https://www.sciencealert.com/three-new-ebola-vaccines-are-in-the-works-heres-the-science-behind-them",
    "source": "ScienceAlert",
@@ -135,25 +248,11 @@
    "published": "2026-06-09T00:30:00+00:00"
   },
   {
-   "title": "Observation of exact quantum critical states",
-   "url": "https://www.nature.com/articles/s41567-026-03333-0",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-06-09T00:00:00+00:00"
-  },
-  {
    "title": "Scientists Found 2 Existing Drugs Could Reverse Alzheimer's Brain Damage in Mice",
    "url": "https://www.sciencealert.com/scientists-found-2-existing-drugs-could-reverse-alzheimers-brain-damage-in-mice",
    "source": "ScienceAlert",
    "category": "health",
    "published": "2026-06-08T23:41:18+00:00"
-  },
-  {
-   "title": "Doosan combines products and manufacturing with Nvidia\u2019s AI platforms",
-   "url": "https://cryptobriefing.com/doosan-nvidia-ai-partnership/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-06-08T22:57:25+00:00"
   },
   {
    "title": "Artificial Intelligence Governance in Health Systems: Systematic Review of Frameworks and Integrative Model Proposal",
@@ -177,25 +276,11 @@
    "published": "2026-06-08T21:05:00+00:00"
   },
   {
-   "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-   "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-06-08T13:04:59+00:00"
-  },
-  {
    "title": "WiMi Explores Multi-Dimensional Pooling Optimization Technology under the Variational Quantum Algorithm Framework",
    "url": "https://www.prnewswire.com/news-releases/wimi-explores-multi-dimensional-pooling-optimization-technology-under-the-variational-quantum-algorithm-framework-302793940.html",
    "source": "PRNewswire",
    "category": "quantum",
    "published": "2026-06-08T12:40:00+00:00"
-  },
-  {
-   "title": "Nvidia and Hyundai go deeper on robotics, with Boston Dynamics\u2019 Atlas at the centre",
-   "url": "https://thenextweb.com/news/nvidia-hyundai-robotics-boston-dynamics-physical-ai/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-06-08T11:01:50+00:00"
   },
   {
    "title": "Solidion Technology Granted 7 New Patents on Composite Anode Materials For Batteries Targeting Humanoid Robots, Space-Based Artificial Intelligence Data Centers and the Lunar Economy",
@@ -210,27 +295,6 @@
    "source": "Verdict",
    "category": "compute",
    "published": "2026-06-08T09:46:52+00:00"
-  },
-  {
-   "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-08T03:00:50+00:00"
-  },
-  {
-   "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-07T23:00:36+00:00"
-  },
-  {
-   "title": "NVIDIA, KRAFTON, NC and Reigning \u2018League of Legends\u2019 Champions T1 Celebrate RTX Spark at Korea\u2019s PC Bangs",
-   "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-07T07:00:15+00:00"
   },
   {
    "title": "Visage Highlights One Platform AI-Optimized at SIIM26",
@@ -328,8 +392,7 @@
    "url": "https://thenextweb.com/news/trump-h1b-100k-fee-judge-blocks-tech-workers/",
    "source": "The Next Web",
    "category": "health",
-   "published": "2026-06-08T18:46:18+00:00",
-   "breakthrough": true
+   "published": "2026-06-08T18:46:18+00:00"
   },
   {
    "title": "Apple finally ships its AI do-over: Siri AI, a standalone app, and a three-tier privacy stack",
@@ -364,13 +427,6 @@
    "url": "https://www.nature.com/articles/s41593-026-02318-9",
    "source": "Nature.com",
    "category": "health",
-   "published": "2026-06-08T00:00:00+00:00"
-  },
-  {
-   "title": "Introducing the OpenAI Economic Research Exchange",
-   "url": "https://openai.com/index/economic-research-exchange",
-   "source": "OpenAI",
-   "category": "ai",
    "published": "2026-06-08T00:00:00+00:00"
   },
   {
