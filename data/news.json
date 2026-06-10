@@ -1,12 +1,167 @@
 {
- "updated": "2026-06-10T15:50:05.473684+00:00",
+ "updated": "2026-06-10T20:37:51.500593+00:00",
  "items": [
   {
-   "title": "Startup\u2019s nuclear-inspired cooling system could make data centers more sustainable",
-   "url": "https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-06-10T04:00:00+00:00"
+   "title": "DiffusionGemma: 4x faster text generation",
+   "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-06-10T16:24:11+00:00"
+  },
+  {
+   "title": "NVIDIA Accelerates Google DeepMind\u2019s DiffusionGemma for Local AI",
+   "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-10T16:15:20+00:00"
+  },
+  {
+   "title": "From data to decisions: how LSEG is scaling trusted AI",
+   "url": "https://openai.com/index/lseg",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-10T00:00:00+00:00"
+  },
+  {
+   "title": "Claude Fable 5 brings Mythos to the masses \u2014 Anthropic's new frontier model is 'state-of-the-art on nearly all tested benchmarks'",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-fable-5-brings-mythos-to-the-masses-anthropics-next-frontier-model-is-state-of-the-art-on-nearly-all-tested-benchmarks",
+   "source": "Tom's Hardware UK",
+   "category": "ai",
+   "published": "2026-06-09T20:34:10+00:00"
+  },
+  {
+   "title": "DeployAIBots Establishes Miami Headquarters, Expanding AI-Driven Automation for Growing Businesses",
+   "url": "https://www.globenewswire.com/news-release/2026/06/09/3309352/0/en/DeployAIBots-Establishes-Miami-Headquarters-Expanding-AI-Driven-Automation-for-Growing-Businesses.html",
+   "source": "GlobeNewswire",
+   "category": "ai",
+   "published": "2026-06-09T20:31:00+00:00"
+  },
+  {
+   "title": "Anthropic's Claude Fable 5 Is the First Mythos-Level AI Model You Can Actually Use",
+   "url": "https://www.cnet.com/tech/services-and-software/claude-fable-5-first-mythos-ai-model-anthropic-safety-news/",
+   "source": "CNET",
+   "category": "ai",
+   "published": "2026-06-09T20:25:59+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "YY Group (NASDAQ YYGH) Launches Commercial Humanoid Robotics Initiative to Drive AI-Driven Margin Expansion and Address Global Facility Management Labor Shortages",
+   "url": "https://www.globenewswire.com/news-release/2026/06/09/3309337/0/en/YY-Group-NASDAQ-YYGH-Launches-Commercial-Humanoid-Robotics-Initiative-to-Drive-AI-Driven-Margin-Expansion-and-Address-Global-Facility-Management-Labor-Shortages.html",
+   "source": "GlobeNewswire",
+   "category": "robotics",
+   "published": "2026-06-09T20:20:00+00:00"
+  },
+  {
+   "title": "Cohere releases North Mini Code, a 30B parameter open-source coding model built for enterprise developers",
+   "url": "https://cryptobriefing.com/cohere-north-mini-code-release/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-06-09T20:16:36+00:00"
+  },
+  {
+   "title": "Agentic AI takes centre stage in Canada\u2019s next tech wave",
+   "url": "https://www.digitaljournal.com/article/agentic-ai-takes-centre-stage-in-canadas-next-tech-wave/",
+   "source": "Digital Journal",
+   "category": "ai",
+   "published": "2026-06-09T20:13:44+00:00"
+  },
+  {
+   "title": "Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI",
+   "url": "https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/",
+   "source": "Amazon.com",
+   "category": "robotics",
+   "published": "2026-06-09T20:07:24+00:00"
+  },
+  {
+   "title": "RLWRLD Launches DexBench Initiative to Define Next-Generation Industry Standards for Humanoid AI in Collaboration with NVIDIA",
+   "url": "https://apnews.com/press-release/pr-newswire/press-release-b31d143e0ecae167836e3772379de8cf",
+   "source": "Associated Press",
+   "category": "robotics",
+   "published": "2026-06-09T20:04:53+00:00"
+  },
+  {
+   "title": "ROHM launches New Top-Side Cooling Package for SiC MOSFETs",
+   "url": "https://www.globenewswire.com/news-release/2026/06/09/3309305/0/en/ROHM-launches-New-Top-Side-Cooling-Package-for-SiC-MOSFETs.html",
+   "source": "GlobeNewswire",
+   "category": "compute",
+   "published": "2026-06-09T20:00:00+00:00"
+  },
+  {
+   "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+   "url": "https://aarushgupta.io/posts/kan-fpga/",
+   "source": "Aarushgupta.io",
+   "category": "compute",
+   "published": "2026-06-09T19:21:45+00:00"
+  },
+  {
+   "title": "MIT\u2019s ultrasound wristband tracks every finger movement and lets you control a robot hand in real time",
+   "url": "https://thenextweb.com/news/mit-ultrasound-wristband-hand-tracking-robot-control/",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-06-09T19:17:53+00:00"
+  },
+  {
+   "title": "AI IS A FORCE MULTIPLIER FOR NEUROPATHOLOGY AT UC DAVIS",
+   "url": "https://www.prnewswire.com/news-releases/ai-is-a-force-multiplier-for-neuropathology-at-uc-davis-302795658.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-09T19:00:00+00:00"
+  },
+  {
+   "title": "Radiology AI systems flag breast cancer signs six years before diagnosis",
+   "url": "https://www.news-medical.net/news/20260609/Radiology-AI-systems-flag-breast-cancer-signs-six-years-before-diagnosis.aspx",
+   "source": "News-Medical.Net",
+   "category": "health",
+   "published": "2026-06-09T18:40:05+00:00"
+  },
+  {
+   "title": "The AI supersystem shift: Why Arista\u2019s 1.6T announcement is an Ethernet inflection point",
+   "url": "https://siliconangle.com/2026/06/09/ai-supersystem-shift-aristas-1-6t-announcement-ethernet-inflection-point/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-06-09T17:53:56+00:00"
+  },
+  {
+   "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
+   "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-06-09T17:40:31+00:00"
+  },
+  {
+   "title": "AI Vaccine Clears Human Trials, Handing Pharma a New Playbook",
+   "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-vaccine-clears-human-trials-handing-pharma-a-new-playbook/",
+   "source": "pymnts.com",
+   "category": "health",
+   "published": "2026-06-09T17:33:22+00:00"
+  },
+  {
+   "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+   "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-06-09T15:16:25+00:00"
+  },
+  {
+   "title": "Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research",
+   "url": "https://www.prnewswire.com/news-releases/global-robotic-process-automation-market-accelerates-enterprise-efficiency-through-ai-driven-automation--cagr-23-5--persistence-market-research-302795334.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-06-09T14:01:00+00:00"
+  },
+  {
+   "title": "IQM Announces Novel Quantum Error Correction Approach Toward Fault-Tolerant Quantum Computing",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/iqm-announces-novel-quantum-error-correction-approach-toward-fault-tolerant-quantum-computing",
+   "source": "Financial Post",
+   "category": "quantum",
+   "published": "2026-06-09T07:10:14+00:00"
+  },
+  {
+   "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+   "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-08T06:00:57+00:00"
   },
   {
    "title": "NVIDIA Confidential Computing to Help Expand Apple\u2019s Private Cloud Compute",
@@ -100,25 +255,11 @@
    "published": "2026-06-09T15:21:02+00:00"
   },
   {
-   "title": "MIT researchers channel AI to turn hand gestures into robot training data",
-   "url": "https://abcnews.com/Technology/wireStory/mit-researchers-channel-ai-turn-hand-gestures-robot-133708861",
-   "source": "Abcnews.com",
-   "category": "robotics",
-   "published": "2026-06-09T15:02:06+00:00"
-  },
-  {
    "title": "bswift Further Strengthens Personalized Health Engagement at Scale",
    "url": "https://www.prnewswire.com/news-releases/bswift-further-strengthens-personalized-health-engagement-at-scale-302794482.html",
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-06-09T15:00:00+00:00"
-  },
-  {
-   "title": "MIT researchers made a wristband to teach robots how to do housework and surgery",
-   "url": "https://fortune.com/2026/06/09/mit-researchers-wristband-teach-robots-housework-surgery/",
-   "source": "Fortune",
-   "category": "robotics",
-   "published": "2026-06-09T14:57:59+00:00"
   },
   {
    "title": "Vulcan Imaging Associates Deploys Strings Agentic AI to Automate Imaging Operations and Enhance Clinical Resilience",
@@ -135,13 +276,6 @@
    "published": "2026-06-09T14:27:00+00:00"
   },
   {
-   "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-   "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-06-09T14:10:19+00:00"
-  },
-  {
    "title": "PromptBio Launched All-New Agentic AI Platform For Life Sciences, Turning Scientific Intent Into Executable Experiments",
    "url": "https://www.prnewswire.com/news-releases/promptbio-launched-all-new-agentic-ai-platform-for-life-sciences-turning-scientific-intent-into-executable-experiments-302795113.html",
    "source": "PRNewswire",
@@ -156,26 +290,11 @@
    "published": "2026-06-09T14:05:00+00:00"
   },
   {
-   "title": "Powering the future of robotics in Europe",
-   "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-   "source": "Google DeepMind",
-   "category": "robotics",
-   "published": "2026-06-09T14:02:33+00:00"
-  },
-  {
    "title": "AI Could Provide 'Early Alert' for Breast Cancer 6 Years in Advance",
    "url": "https://www.prnewswire.com/news-releases/ai-could-provide-early-alert-for-breast-cancer-6-years-in-advance-302793705.html",
    "source": "PRNewswire",
    "category": "health",
-   "published": "2026-06-09T14:00:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Nvidia partners with LG to build humanoid robots and next-generation data centers",
-   "url": "https://cryptobriefing.com/nvidia-lg-humanoid-robots-data-centers/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-06-09T13:36:08+00:00"
+   "published": "2026-06-09T14:00:00+00:00"
   },
   {
    "title": "RLWRLD Launches DexBench Initiative to Define Next-Generation Industry Standards for Humanoid AI in Collaboration with NVIDIA",
@@ -192,20 +311,6 @@
    "published": "2026-06-09T13:30:00+00:00"
   },
   {
-   "title": "How engineers at Nextdoor use Codex to build without limits",
-   "url": "https://openai.com/index/nextdoor",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-09T12:00:00+00:00"
-  },
-  {
-   "title": "Robot-arm maker Standard Bots hits a $1bn valuation to scale US manufacturing",
-   "url": "https://thenextweb.com/news/standard-bots-200m-1bn-valuation-us-robots/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-06-09T11:32:34+00:00"
-  },
-  {
    "title": "Nvidia and Hyundai deepen alliance to advance AI-powered robotics and autonomous mobility",
    "url": "https://cryptobriefing.com/nvidia-hyundai-ai-robotics-alliance/",
    "source": "Crypto Briefing",
@@ -213,46 +318,11 @@
    "published": "2026-06-09T10:50:35+00:00"
   },
   {
-   "title": "What Codex unlocks for Notion",
-   "url": "https://openai.com/index/notion",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-09T10:00:00+00:00"
-  },
-  {
    "title": "Nvidia and LG team up to build AI factories for robotics and data centers",
    "url": "https://cryptobriefing.com/nvidia-lg-robotics-data-center-collaboration/",
    "source": "Crypto Briefing",
    "category": "robotics",
    "published": "2026-06-09T02:03:07+00:00"
-  },
-  {
-   "title": "Observation of exact quantum critical states",
-   "url": "https://www.nature.com/articles/s41567-026-03333-0",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-06-09T00:00:00+00:00"
-  },
-  {
-   "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-   "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-06-08T13:04:59+00:00"
-  },
-  {
-   "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-06-08T03:00:50+00:00"
-  },
-  {
-   "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-06-07T23:00:36+00:00"
   },
   {
    "title": "GDS and Vnet Rally on Reports of Major China Data Center Investment Plan",
