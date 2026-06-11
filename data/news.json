@@ -1,19 +1,202 @@
 {
- "updated": "2026-06-11T10:46:18.522826+00:00",
+ "updated": "2026-06-11T16:12:16.739654+00:00",
  "items": [
+  {
+   "title": "How an astrophysicist uses Codex to help simulate black holes",
+   "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-11T00:00:00+00:00"
+  },
+  {
+   "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+   "url": "https://openai.com/index/openai-on-oracle-cloud",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-10T20:00:00+00:00"
+  },
+  {
+   "title": "AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance \u2014 company shares first estimated EPYC Venice benchmarks",
+   "url": "https://www.tomshardware.com/pc-components/cpus/amd-fires-back-at-nvidia-claiming-256-core-zen-6-venice-cpu-beats-vera-by-3-3x-in-rack-level-performance-company-shares-first-estimated-epyc-venice-benchmarks",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-06-10T16:00:29+00:00"
+  },
+  {
+   "title": "Simplilearn and Carahsoft Partner to Bring AI and Digital Skills Training to the U.S. Public Sector",
+   "url": "https://www.prnewswire.com/news-releases/simplilearn-and-carahsoft-partner-to-bring-ai-and-digital-skills-training-to-the-us-public-sector-302796703.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-06-10T16:00:00+00:00"
+  },
+  {
+   "title": "DiffusionGemma: 4x faster text generation",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+   "source": "Blog.google",
+   "category": "ai",
+   "published": "2026-06-10T16:00:00+00:00"
+  },
+  {
+   "title": "AI Software Cuts Sepsis Deaths In Half At Florida Hospital",
+   "url": "https://dailycaller.com/2026/06/10/ai-sepsis-deaths-florida-hospital/",
+   "source": "The Daily Caller",
+   "category": "health",
+   "published": "2026-06-10T15:59:10+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "PoliceAI to speed up investigations and fight crime",
+   "url": "https://www.gov.uk/government/news/policeai-to-speed-up-investigations-and-fight-crime",
+   "source": "Www.gov.uk",
+   "category": "ai",
+   "published": "2026-06-10T15:58:48+00:00"
+  },
+  {
+   "title": "Mastercard Enables AI Agents to Pay Each Other",
+   "url": "https://www.pymnts.com/mastercard/2026/mastercard-enables-ai-agents-to-pay-each-other/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-06-10T15:57:06+00:00"
+  },
+  {
+   "title": "Humaniod robotics company raises up to $1.4 billion from Nvidia, Amazon and others",
+   "url": "https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html",
+   "source": "CNBC",
+   "category": "robotics",
+   "published": "2026-06-10T15:56:49+00:00"
+  },
+  {
+   "title": "AI Serving Platform That Adapts to Your Model",
+   "url": "https://www.databricks.com/blog/ai-serving-platform-adapts-your-model",
+   "source": "Databricks.com",
+   "category": "ai",
+   "published": "2026-06-10T15:52:14+00:00"
+  },
+  {
+   "title": "Google reportedly books Intel for packaging more than 3 million TPUs in 2028 \u2014 SK hynix is testing Intel's EMIB packaging for HBM integration",
+   "url": "https://www.tomshardware.com/tech-industry/google-reportedly-books-intel-for-more-than-3-million-tpus-in-2028",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-06-10T15:49:41+00:00"
+  },
+  {
+   "title": "Build an AI-Powered Equipment Repair Assistant Using Amazon Bedrock AgentCore",
+   "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-06-10T15:21:35+00:00"
+  },
+  {
+   "title": "Duolingo and Khan Academy Dominate EdTech AI Visibility, According to 5W AI Intelligence",
+   "url": "https://www.prnewswire.com/news-releases/duolingo-and-khan-academy-dominate-edtech-ai-visibility-according-to-5w-ai-intelligence-302776463.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-06-10T15:00:00+00:00"
+  },
+  {
+   "title": "Leaf Raises $13M Series B to bring AI to Agribusiness",
+   "url": "https://www.prnewswire.com/news-releases/leaf-raises-13m-series-b-to-bring-ai-to-agribusiness-302795837.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-06-10T15:00:00+00:00"
+  },
+  {
+   "title": "Vallige Introduces Val -- a Smart Companion to Support Families Living with Dementia",
+   "url": "https://www.prnewswire.com/news-releases/vallige-introduces-val--a-smart-companion-to-support-families-living-with-dementia-302796882.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-10T14:37:00+00:00"
+  },
+  {
+   "title": "Show HN: A curated collection of simple datasets for machine learning",
+   "url": "https://github.com/pplonski/datasets-for-start",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-10T14:10:41+00:00"
+  },
+  {
+   "title": "Pudu Robotics and Robobee Forge Strategic Partnership with Denner for Major Robotic Cleaning Deployment Across Swiss Stores",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/pudu-robotics-and-robobee-forge-strategic-partnership-with-denner-for-major-robotic-cleaning-deployment-across-swiss-stores/article71083504.ece",
+   "source": "BusinessLine",
+   "category": "robotics",
+   "published": "2026-06-10T12:54:27+00:00"
+  },
+  {
+   "title": "Startup\u2019s nuclear-inspired cooling system could make data centers more sustainable",
+   "url": "https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610",
+   "source": "MIT News AI",
+   "category": "compute",
+   "published": "2026-06-10T04:00:00+00:00"
+  },
+  {
+   "title": "Improved quantum processor logical error rates via correction and detection",
+   "url": "https://www.nature.com/articles/s41586-026-10628-y",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-06-10T00:00:00+00:00"
+  },
+  {
+   "title": "Show HN: OpenYabby, voice-controlled multi-agent orchestrator for Claude Code",
+   "url": "https://github.com/OpenYabby/OpenYabby",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-09T20:08:06+00:00"
+  },
+  {
+   "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+   "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-06-09T14:10:19+00:00"
+  },
+  {
+   "title": "Powering the future of robotics in Europe",
+   "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+   "source": "Google DeepMind",
+   "category": "robotics",
+   "published": "2026-06-09T14:02:33+00:00"
+  },
+  {
+   "title": "How engineers at Nextdoor use Codex to build without limits",
+   "url": "https://openai.com/index/nextdoor",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-09T12:00:00+00:00"
+  },
+  {
+   "title": "What Codex unlocks for Notion",
+   "url": "https://openai.com/index/notion",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-09T10:00:00+00:00"
+  },
+  {
+   "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+   "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-06-08T13:04:59+00:00"
+  },
+  {
+   "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+   "source": "NVIDIA",
+   "category": "breakthroughs",
+   "published": "2026-06-08T03:00:50+00:00"
+  },
+  {
+   "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-06-07T23:00:36+00:00"
+  },
   {
    "title": "DiffusionGemma: 4x faster text generation",
    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
    "source": "Google DeepMind",
    "category": "ai",
    "published": "2026-06-10T16:24:11+00:00"
-  },
-  {
-   "title": "NVIDIA Accelerates Google DeepMind\u2019s DiffusionGemma for Local AI",
-   "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-10T16:15:20+00:00"
   },
   {
    "title": "From Gov.gr to CRM: Greece steps up digital state overhaul",
@@ -79,25 +262,11 @@
    "published": "2026-06-10T10:00:00+00:00"
   },
   {
-   "title": "AGIBOT Brings APC 2026 to Indonesia, Accelerating Local Deployment of Embodied AI",
-   "url": "https://en.antaranews.com/news/418736/agibot-brings-apc-2026-to-indonesia-accelerating-local-deployment-of-embodied-ai",
-   "source": "Antaranews.com",
-   "category": "robotics",
-   "published": "2026-06-10T09:59:06+00:00"
-  },
-  {
    "title": "Uncovr raises $7M for AI that writes the operative report before the surgeon leaves the room",
    "url": "https://thenextweb.com/news/uncovr-7m-seed-surgical-ai-index-ventures/",
    "source": "The Next Web",
    "category": "health",
    "published": "2026-06-10T09:53:57+00:00"
-  },
-  {
-   "title": "Infineon and VinRobotics sign partnership to advance humanoid robot development",
-   "url": "https://www.digitimes.com/news/a20260610PR200/development-infineon-partnership-robotics-asia.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-06-10T09:15:00+00:00"
   },
   {
    "title": "Samsung takes major stake in US biosciences company to expand health footprint",
@@ -112,13 +281,6 @@
    "source": "Crypto Briefing",
    "category": "robotics",
    "published": "2026-06-10T08:11:46+00:00"
-  },
-  {
-   "title": "Ambani-backed Addverb wants $100 million to build India\u2019s answer to Unitree and Tesla Optimus",
-   "url": "https://thenextweb.com/news/addverb-india-robotics-ambani-100m-humanoid/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-06-10T07:21:58+00:00"
   },
   {
    "title": "Haut.AI Collaborates with OLAY on Virtual Companion Technology to Power Clinically Modeled Skincare Simulations",
@@ -142,53 +304,11 @@
    "published": "2026-06-10T06:25:00+00:00"
   },
   {
-   "title": "UBTECH-backed UWORLD\u2019s full-size humanoid companion robot secures 3,000 orders in eight days",
-   "url": "http://technode.com/2026/06/10/ubtech-backed-uworlds-full-size-humanoid-companion-robot-secures-3000-orders-in-eight-days/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-06-10T06:05:17+00:00"
-  },
-  {
-   "title": "Bringing Jobs Back To The US Via \u2026 Robots? Standard Bots Raises $200 Million",
-   "url": "https://www.forbes.com/sites/johnkoetsier/2026/06/10/bringing-jobs-back-to-the-us-via--robots-standard-bots-raises-200-million/",
-   "source": "Forbes",
-   "category": "robotics",
-   "published": "2026-06-10T05:35:24+00:00"
-  },
-  {
    "title": "Ambani-backed robot start-up seeks $100 million to take on China",
    "url": "https://www.bloomberg.com/news/articles/2026-06-10/ambani-backed-robot-startup-seeks-100-million-to-take-on-china",
    "source": "Bloomberg",
    "category": "robotics",
    "published": "2026-06-10T04:45:48+00:00"
-  },
-  {
-   "title": "From data to decisions: how LSEG is scaling trusted AI",
-   "url": "https://openai.com/index/lseg",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-10T00:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA Confidential Computing to Help Expand Apple\u2019s Private Cloud Compute",
-   "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-09T22:34:27+00:00"
-  },
-  {
-   "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-   "url": "https://aarushgupta.io/posts/kan-fpga/",
-   "source": "Aarushgupta.io",
-   "category": "compute",
-   "published": "2026-06-09T19:21:45+00:00"
-  },
-  {
-   "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-   "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-06-09T15:16:25+00:00"
   },
   {
    "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
@@ -251,8 +371,7 @@
    "url": "https://www.sciencealert.com/worlds-first-ai-designed-vaccine-tested-in-humans-for-the-first-time",
    "source": "ScienceAlert",
    "category": "health",
-   "published": "2026-06-10T03:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-06-10T03:00:00+00:00"
   },
   {
    "title": "Meta partners with Reliance to lease 168 MW AI data centre in Jamnagar",
