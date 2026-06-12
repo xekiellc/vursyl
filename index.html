@@ -316,7 +316,8 @@ let DATA=SEED,MEDIA={items:[]},activeCat="all";
   function size(){W=cv.width=innerWidth;H=cv.height=innerHeight;
     const n=Math.min(70,Math.floor(W*H/22000));
     nodes=Array.from({length:n},()=>({x:Math.random()*W,y:Math.random()*H,
-      vx:(Math.random()-.5)*.22,vy:(Math.random()-.5)*.22,r:Math.random()*1.6+.8,c:COLORS[Math.floor(Math.random()*3)]}));
+      vx:(Math.random()-.5)*.22,vy:(Math.random()-.5)*.22,
+      r:Math.random()*1.6+.8,c:COLORS[Math.floor(Math.random()*3)]}));
   }
   function pulse(){if(nodes.length<2)return;
     const a=nodes[Math.floor(Math.random()*nodes.length)];
@@ -353,8 +354,7 @@ function ago(iso){const m=Math.floor((Date.now()-new Date(iso))/60000);
 
 function render(){
   const items=DATA.items.filter(i=>CATS[i.category]);
-  const recent=items.filter(i=>{try{return(Date.now()-new Date(i.published))<172800000;}catch{return true;}});
-  const pool=recent.length>=4?recent:items;
+  const pool=items;
   const hero=pool.find(i=>i.breakthrough)||pool[0];
   const rest=pool.filter(i=>i!==hero).filter(i=>activeCat==="all"||i.category===activeCat).slice(0,30);
   const botd=document.getElementById("botd");
