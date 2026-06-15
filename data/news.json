@@ -1,6 +1,70 @@
 {
- "updated": "2026-06-14T19:44:14.591348+00:00",
+ "updated": "2026-06-15T04:55:34.298279+00:00",
  "items": [
+  {
+   "title": "Introducing the OpenAI Partner Network",
+   "url": "https://openai.com/index/introducing-openai-partner-network",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-14T17:00:00+00:00"
+  },
+  {
+   "title": "Show HN: Agent Gate \u2013 a deterministic CI firewall for AI-generated PRs",
+   "url": "https://github.com/sjh9714/Agent-Gate",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-14T04:38:42+00:00"
+  },
+  {
+   "title": "TM Technology pushes into physical intelligence with its first humanoid robot",
+   "url": "https://www.digitimes.com/news/a20260612PD226/robot-software-smart-manufacturing-manufacturing-automation.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-06-14T01:44:14+00:00"
+  },
+  {
+   "title": "AI-designed 'universal vaccine' passes first human clinical trial, could prevent future pandemics",
+   "url": "https://www.foxnews.com/health/ai-designed-universal-vaccine-passes-first-human-clinical-trial-could-prevent-future-pandemics",
+   "source": "Fox News",
+   "category": "health",
+   "published": "2026-06-13T20:59:04+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Show HN: Web Researcher MCP \u2013 Search with verify citations and sources",
+   "url": "https://github.com/zoharbabin/web-researcher-mcp",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-13T19:48:03+00:00"
+  },
+  {
+   "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+   "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-12T21:00:08+00:00"
+  },
+  {
+   "title": "New OpenAI Academy courses for the next era of work",
+   "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-12T10:00:00+00:00"
+  },
+  {
+   "title": "How Preply combines AI and human tutors to personalize learning",
+   "url": "https://openai.com/index/preply",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-12T00:00:00+00:00"
+  },
+  {
+   "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-11T13:00:17+00:00"
+  },
   {
    "title": "Partners with Nebius to Support AI Robotics Startup in Europe",
    "url": "https://biztoc.com/x/a83243981d937781",
@@ -93,20 +157,6 @@
    "published": "2026-06-13T18:25:09+00:00"
   },
   {
-   "title": "Partners With South Korea\u2019s LG Group On Humanoid Robots And Data Centers",
-   "url": "https://biztoc.com/x/33bb3e881531a1f0",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-06-13T18:24:52+00:00"
-  },
-  {
-   "title": "NVIDIA Corporation (NVDA) Partners With South Korea\u2019s LG Group On Humanoid Robots And Data Centers",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-partners-south-175948056.html",
-   "source": "Yahoo Entertainment",
-   "category": "robotics",
-   "published": "2026-06-13T17:59:48+00:00"
-  },
-  {
    "title": "How can self-driving cars see better? Make their sensors more human.",
    "url": "http://www.popsci.com/technology/self-driving-car-sensors-human-eye/",
    "source": "Popular Science",
@@ -119,13 +169,6 @@
    "source": "GeekTyrant",
    "category": "robotics",
    "published": "2026-06-13T14:04:00+00:00"
-  },
-  {
-   "title": "Hitch Open Ping-Pong Embodied (HOPE) AI Challenge Joins the 2026 World Humanoid Robot Games, Seeding Advanced Physical AI Against Human Performance",
-   "url": "https://www.globenewswire.com/news-release/2026/06/13/3311374/0/en/Hitch-Open-Ping-Pong-Embodied-HOPE-AI-Challenge-Joins-the-2026-World-Humanoid-Robot-Games-Seeding-Advanced-Physical-AI-Against-Human-Performance.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-06-13T08:09:00+00:00"
   },
   {
    "title": "When it comes to predicting people\u2019s preferences, it pays to consider \u201cthe power of three\u201d",
@@ -454,8 +497,7 @@
    "url": "https://www.digitaljournal.com/article/ai-designs-a-vaccine-for-viruses-that-do-not-yet-exist/",
    "source": "Digital Journal",
    "category": "health",
-   "published": "2026-06-12T20:38:02+00:00",
-   "breakthrough": true
+   "published": "2026-06-12T20:38:02+00:00"
   },
   {
    "title": "UID and AEG ID Combine to Expand Industrial RFID Solutions Across North America",
