@@ -1,12 +1,83 @@
 {
- "updated": "2026-06-15T04:55:34.298279+00:00",
+ "updated": "2026-06-15T12:27:35.621297+00:00",
  "items": [
   {
-   "title": "Introducing the OpenAI Partner Network",
-   "url": "https://openai.com/index/introducing-openai-partner-network",
-   "source": "OpenAI",
+   "title": "NVIDIA GB300 Dominates Agentic AI Workloads With 20x Performance Leap Over Hopper As Rubin Nears Launch",
+   "url": "https://wccftech.com/nvidia-gb300-dominates-agentic-ai-workloads-20x-performance-leap-over-hopper/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-06-14T12:25:04+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Jio Platforms breaks into global top 20 in latest WIPO patents rankings; climbs 320 places on coveted chart",
+   "url": "https://www.livemint.com/companies/news/jio-platforms-breaks-into-global-top-20-in-latest-wipo-patents-rankings-climbs-320-places-on-coveted-chart-11781438222964.html",
+   "source": "Livemint",
+   "category": "breakthroughs",
+   "published": "2026-06-14T12:11:11+00:00"
+  },
+  {
+   "title": "Engineers Found a Genius Way to Slash Data Center Energy Use",
+   "url": "https://www.sciencealert.com/engineers-found-a-genius-way-to-slash-data-center-energy-use",
+   "source": "ScienceAlert",
+   "category": "compute",
+   "published": "2026-06-14T12:00:44+00:00"
+  },
+  {
+   "title": "I gave my NAS a local AI brain, and it finally became the home dashboard I always wanted",
+   "url": "https://www.xda-developers.com/nas-ai-brain-home-dashboard/",
+   "source": "XDA Developers",
    "category": "ai",
-   "published": "2026-06-14T17:00:00+00:00"
+   "published": "2026-06-14T12:00:22+00:00"
+  },
+  {
+   "title": "Amazon signs multibillion-dollar Corning deal to build the next generation of fiber optic cables for data centers",
+   "url": "https://www.techradar.com/pro/amazon-signs-multibillion-dollar-corning-deal-to-build-the-next-generation-of-fiber-optic-cables-for-data-centers",
+   "source": "TechRadar",
+   "category": "compute",
+   "published": "2026-06-14T12:00:00+00:00"
+  },
+  {
+   "title": "NHS England rolls out Microsoft 365 Copilot to 505,000 staff after trial reports 43 minutes saved per day",
+   "url": "https://thenextweb.com/news/nhs-england-microsoft-copilot-505000-staff-ai-rollout/",
+   "source": "The Next Web",
+   "category": "health",
+   "published": "2026-06-14T09:15:41+00:00"
+  },
+  {
+   "title": "KFSH Highlights Human-Centered AI as a Path to Better Care at HLTH Europe 2026",
+   "url": "https://www.globenewswire.com/news-release/2026/06/14/3311433/0/en/KFSH-Highlights-Human-Centered-AI-as-a-Path-to-Better-Care-at-HLTH-Europe-2026.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-14T07:01:00+00:00"
+  },
+  {
+   "title": "Microsoft rolls out Copilot AI tools to over half a million NHS England staff, promises 'to improve service delivery, reduce costs and create more time for care'",
+   "url": "https://www.techradar.com/pro/microsoft-rolls-out-copilot-ai-tools-to-over-half-a-million-nhs-england-staff-promises-to-improve-service-delivery-reduce-costs-and-create-more-time-for-care",
+   "source": "TechRadar",
+   "category": "health",
+   "published": "2026-06-14T07:00:00+00:00"
+  },
+  {
+   "title": "Partners With South Korea\u2019s LG Group On Humanoid Robots And Data Centers",
+   "url": "https://biztoc.com/x/33bb3e881531a1f0",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-06-13T18:24:52+00:00"
+  },
+  {
+   "title": "NVIDIA Corporation (NVDA) Partners With South Korea\u2019s LG Group On Humanoid Robots And Data Centers",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-partners-south-175948056.html",
+   "source": "Yahoo Entertainment",
+   "category": "robotics",
+   "published": "2026-06-13T17:59:48+00:00"
+  },
+  {
+   "title": "MIT affiliates win 2026 Hertz Foundation Fellowships",
+   "url": "https://news.mit.edu/2026/hertz-foundation-fellowships-0611",
+   "source": "MIT News AI",
+   "category": "breakthroughs",
+   "published": "2026-06-11T17:30:00+00:00"
   },
   {
    "title": "Show HN: Agent Gate \u2013 a deterministic CI firewall for AI-generated PRs",
@@ -16,19 +87,11 @@
    "published": "2026-06-14T04:38:42+00:00"
   },
   {
-   "title": "TM Technology pushes into physical intelligence with its first humanoid robot",
-   "url": "https://www.digitimes.com/news/a20260612PD226/robot-software-smart-manufacturing-manufacturing-automation.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-06-14T01:44:14+00:00"
-  },
-  {
    "title": "AI-designed 'universal vaccine' passes first human clinical trial, could prevent future pandemics",
    "url": "https://www.foxnews.com/health/ai-designed-universal-vaccine-passes-first-human-clinical-trial-could-prevent-future-pandemics",
    "source": "Fox News",
    "category": "health",
-   "published": "2026-06-13T20:59:04+00:00",
-   "breakthrough": true
+   "published": "2026-06-13T20:59:04+00:00"
   },
   {
    "title": "Show HN: Web Researcher MCP \u2013 Search with verify citations and sources",
@@ -36,27 +99,6 @@
    "source": "Github.com",
    "category": "ai",
    "published": "2026-06-13T19:48:03+00:00"
-  },
-  {
-   "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-   "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-12T21:00:08+00:00"
-  },
-  {
-   "title": "New OpenAI Academy courses for the next era of work",
-   "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-12T10:00:00+00:00"
-  },
-  {
-   "title": "How Preply combines AI and human tutors to personalize learning",
-   "url": "https://openai.com/index/preply",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-12T00:00:00+00:00"
   },
   {
    "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
@@ -169,13 +211,6 @@
    "source": "GeekTyrant",
    "category": "robotics",
    "published": "2026-06-13T14:04:00+00:00"
-  },
-  {
-   "title": "When it comes to predicting people\u2019s preferences, it pays to consider \u201cthe power of three\u201d",
-   "url": "https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-06-11T19:10:00+00:00"
   },
   {
    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
