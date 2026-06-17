@@ -1,47 +1,237 @@
 {
- "updated": "2026-06-17T15:46:44.357445+00:00",
+ "updated": "2026-06-17T20:21:28.016747+00:00",
  "items": [
   {
-   "title": "Could AI tell you where you left your keys?",
-   "url": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
+   "title": "In game theory, generalists sometimes win out over specialists",
+   "url": "https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617",
    "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-06-17T04:00:00+00:00"
+   "published": "2026-06-17T19:20:00+00:00"
   },
   {
-   "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
-   "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
-   "source": "NVIDIA",
+   "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+   "url": "https://openai.com/index/ai-chemist-improves-reaction",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-06-16T22:30:41+00:00"
+   "published": "2026-06-17T10:00:00+00:00"
   },
   {
-   "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI\u2019s Optical Backbone",
-   "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
-   "source": "NVIDIA",
+   "title": "Leaked Intel SoC Plan Pairs x86 CPUs With NVIDIA RTX Integrated GPUs In Early 2028",
+   "url": "https://hothardware.com/news/intel-leak-nvidia-igpus-planned-early-2028",
+   "source": "Hot Hardware",
    "category": "compute",
-   "published": "2026-06-16T22:10:56+00:00"
+   "published": "2026-06-16T20:20:00+00:00"
   },
   {
-   "title": "Unlocking UK house-building with AI-accelerated planning",
-   "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-06-16T21:29:50+00:00"
-  },
-  {
-   "title": "MIT\u2019s Initiative for New Manufacturing builds momentum",
-   "url": "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-06-16T20:30:00+00:00"
-  },
-  {
-   "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-   "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
-   "source": "NVIDIA",
+   "title": "HPE expands self-driving networking and agentic AI infrastructure",
+   "url": "https://4sysops.com/archives/hpe-expands-self-driving-networking-and-agentic-ai-infrastructure/",
+   "source": "4sysops.com",
    "category": "compute",
-   "published": "2026-06-16T16:30:27+00:00"
+   "published": "2026-06-16T20:18:00+00:00"
+  },
+  {
+   "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+   "url": "https://github.com/nvlabs/cutile-rs",
+   "source": "Github.com",
+   "category": "compute",
+   "published": "2026-06-16T20:17:42+00:00"
+  },
+  {
+   "title": "The First AI-Designed Vaccine Is Here - And It's Surprisingly Safe",
+   "url": "https://www.bgr.com/2195716/ai-designed-universal-vaccine-coronavirus-safety-success-explained/",
+   "source": "BGR",
+   "category": "health",
+   "published": "2026-06-16T20:17:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-06-16T20:16:02+00:00"
+  },
+  {
+   "title": "Python dev saved from disaster by intuition... and AI",
+   "url": "https://www.theregister.com/ai-and-ml/2026/06/16/python-dev-saved-from-disaster-by-intuition-and-ai/5256632",
+   "source": "Theregister.com",
+   "category": "ai",
+   "published": "2026-06-16T20:15:06+00:00"
+  },
+  {
+   "title": "Apartments.com Offers Renters AI-Powered Search Options",
+   "url": "https://biztoc.com/x/1c497210b38d52f4",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-06-16T20:13:45+00:00"
+  },
+  {
+   "title": "Mercury Deploys Conversational AI Interface Across FinTech Platform",
+   "url": "https://biztoc.com/x/547276ed37711379",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-06-16T20:13:42+00:00"
+  },
+  {
+   "title": "Adyen Debuts Agentic Solutions For Enterprise Merchants",
+   "url": "https://biztoc.com/x/9eec2e3301a9d1b9",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-06-16T20:13:41+00:00"
+  },
+  {
+   "title": "T-Mobile Puts AI Inside Cell Towers for Robots and Drones",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/t-mobile-puts-ai-inside-cell-towers-for-robots-and-drones/",
+   "source": "pymnts.com",
+   "category": "robotics",
+   "published": "2026-06-16T20:11:19+00:00"
+  },
+  {
+   "title": "Show HN: ctx is now open-source, a hackable desktop workbench for coding agents",
+   "url": "https://github.com/ctxrs/ctx",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-16T20:07:58+00:00"
+  },
+  {
+   "title": "Amazon Bedrock Guardrails adds automated reasoning checks in Sydney",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-sydney/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-06-16T20:07:00+00:00"
+  },
+  {
+   "title": "Genesis AI unveils humanoid robot Eno for LG factories, shipping Q4 2026",
+   "url": "https://cryptobriefing.com/genesis-ai-eno-robot-lg-factories/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-06-16T19:47:16+00:00"
+  },
+  {
+   "title": "Google Rewrites Smartwatch Design Rules With Wear OS 7",
+   "url": "https://www.iphoneincanada.ca/2026/06/16/google-rewrites-smartwatch-design-rules-with-wear-os-7/",
+   "source": "iPhone in Canada",
+   "category": "compute",
+   "published": "2026-06-16T19:24:41+00:00"
+  },
+  {
+   "title": "IQM Deploys Its First U.S. Quantum Computer at Oak Ridge National Laboratory",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/iqm-deploys-its-first-u-s-quantum-computer-at-oak-ridge-national-laboratory",
+   "source": "Financial Post",
+   "category": "quantum",
+   "published": "2026-06-16T19:00:53+00:00"
+  },
+  {
+   "title": "Physical AI Steps in as Global Workforce Shrinks",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/physical-ai-steps-in-as-global-workforce-shrinks/",
+   "source": "pymnts.com",
+   "category": "robotics",
+   "published": "2026-06-16T18:25:14+00:00"
+  },
+  {
+   "title": "Richtech Robotics to Debut Latest AI-Driven Pallet Jack Robot During Keynote Session at Automate 2026 in Chicago",
+   "url": "https://www.globenewswire.com/news-release/2026/06/16/3312952/0/en/Richtech-Robotics-to-Debut-Latest-AI-Driven-Pallet-Jack-Robot-During-Keynote-Session-at-Automate-2026-in-Chicago.html",
+   "source": "GlobeNewswire",
+   "category": "robotics",
+   "published": "2026-06-16T18:05:00+00:00"
+  },
+  {
+   "title": "XR and AI Leap into the Future at Augmented World Expo USA 2026 as Expo Hall Opens in Long Beach, CA",
+   "url": "https://www.prnewswire.com/news-releases/xr-and-ai-leap-into-the-future-at-augmented-world-expo-usa-2026-as-expo-hall-opens-in-long-beach-ca-302802146.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-06-16T18:00:00+00:00"
+  },
+  {
+   "title": "Pacific AI\u2019s healthcare AI governance platform now available on AWS Marketplace and Azure Marketplace",
+   "url": "https://www.globenewswire.com/news-release/2026/06/16/3312932/0/en/Pacific-AI-s-healthcare-AI-governance-platform-now-available-on-AWS-Marketplace-and-Azure-Marketplace.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-16T17:28:00+00:00"
+  },
+  {
+   "title": "Announcing Apps on Databricks Marketplace",
+   "url": "https://www.databricks.com/blog/announcing-apps-databricks-marketplace",
+   "source": "Databricks.com",
+   "category": "ai",
+   "published": "2026-06-16T16:37:37+00:00"
+  },
+  {
+   "title": "Net Health Achieves ISO/IEC 42001:2023 Certification, the International Standard for Responsible AI Management",
+   "url": "https://www.prnewswire.com/news-releases/net-health-achieves-isoiec-420012023-certification-the-international-standard-for-responsible-ai-management-302802056.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-06-16T16:33:00+00:00"
+  },
+  {
+   "title": "Nvidia powers open-source humanoid robot to learn movement in 7 days",
+   "url": "https://cryptobriefing.com/nvidia-open-source-humanoid-robot-seven-days/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-06-16T16:28:21+00:00"
+  },
+  {
+   "title": "Karnataka explores biotech financing framework, AI-led innovation to support sector growth",
+   "url": "https://economictimes.indiatimes.com/tech/technology/karnataka-explores-biotech-financing-framework-ai-led-innovation-to-support-sector-growth/articleshow/131776713.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-06-16T16:21:25+00:00"
+  },
+  {
+   "title": "Ping An Good Doctor Upgrades AI Doctor Service \"Ping An AI Doctor\", Expanding Access to Ping An Ecosystem's 90 Million MAUs",
+   "url": "https://www.prnewswire.com/news-releases/ping-an-good-doctor-upgrades-ai-doctor-service-ping-an-ai-doctor--expanding-access-to-ping-an-ecosystems-90-million-maus-302802035.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-16T16:17:00+00:00"
+  },
+  {
+   "title": "New wheeled robot says no thanks to humanoid hype",
+   "url": "https://www.foxnews.com/tech/new-wheeled-robot-says-thanks-humanoid-hype",
+   "source": "Fox News",
+   "category": "robotics",
+   "published": "2026-06-16T13:47:33+00:00"
+  },
+  {
+   "title": "This AI robot startup thinks humanoids are overrated",
+   "url": "https://www.businessinsider.com/genesis-ai-unveils-robot-with-no-head-or-legs-2026-6#article",
+   "source": "Business Insider",
+   "category": "robotics",
+   "published": "2026-06-16T13:00:01+00:00"
+  },
+  {
+   "title": "Samsung considers a stake in US robotics firm Boston Dynamics",
+   "url": "https://www.sammobile.com/news/samsung-considers-a-stake-in-us-robotics-firm-boston-dynamics/",
+   "source": "SamMobile",
+   "category": "robotics",
+   "published": "2026-06-16T11:28:11+00:00"
+  },
+  {
+   "title": "Alibaba unveils AI models for robots as China\u2019s focus shifts to agents",
+   "url": "https://thenextweb.com/news/alibaba-ai-models-for-robots-as-chinas-focus-shifts-to-agents/",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-06-16T07:21:20+00:00"
+  },
+  {
+   "title": "Predicting model behavior before release by simulating deployment",
+   "url": "https://openai.com/index/deployment-simulation",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-16T00:00:00+00:00"
+  },
+  {
+   "title": "Hewlett Packard Enterprise partners with 8 quantum firms to build hybrid HPC, AI, and quantum platform",
+   "url": "https://cryptobriefing.com/hpe-quantum-scaling-alliance-hybrid-platform/",
+   "source": "Crypto Briefing",
+   "category": "breakthroughs",
+   "published": "2026-06-15T20:40:52+00:00"
+  },
+  {
+   "title": "Introducing the OpenAI Partner Network",
+   "url": "https://openai.com/index/introducing-openai-partner-network",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-14T17:00:00+00:00"
   },
   {
    "title": "Show HN: Agent Harness Lab \u2013 compare agent frameworks with swappable tools",
@@ -97,8 +287,7 @@
    "url": "https://asia.nikkei.com/business/education/japan-wants-to-send-30-000-young-scientists-abroad-for-ai-quantum-research",
    "source": "Nikkei.com",
    "category": "breakthroughs",
-   "published": "2026-06-16T15:29:59+00:00",
-   "breakthrough": true
+   "published": "2026-06-16T15:29:59+00:00"
   },
   {
    "title": "UBC MOSAIC and LifeLabs Unlock New Ways to Manage and Predict Heart Health",
@@ -113,27 +302,6 @@
    "source": "Semrush.com",
    "category": "ai",
    "published": "2026-06-16T15:04:00+00:00"
-  },
-  {
-   "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
-   "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-16T15:00:36+00:00"
-  },
-  {
-   "title": "Mobileye puts self-driving tech in 230 million cars. Now it wants to run its own robotaxis.",
-   "url": "https://thenextweb.com/news/mobileye-puts-self-driving-tech-in-230-million-cars-now-it-wants-to-run-its-own-robotaxis/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-06-16T14:46:35+00:00"
-  },
-  {
-   "title": "Genesis AI thinks the humanoid hype is wrong. Its wheeled robot is the counterargument.",
-   "url": "https://thenextweb.com/news/genesis-ai-thinks-the-humanoid-hype-is-wrong-its-wheeled-robot-is-the-counterargument/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-06-16T14:38:02+00:00"
   },
   {
    "title": "Sciene AI Companion: building an autonomous Customer Success platform on Databricks",
@@ -155,48 +323,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-06-16T14:12:00+00:00"
-  },
-  {
-   "title": "Atom Computing Raises More Than $300 Million to Accelerate Deployment of Fault-Tolerant, Neutral-Atom Quantum Computers",
-   "url": "https://www.prnewswire.com/news-releases/atom-computing-raises-more-than-300-million-to-accelerate-deployment-of-fault-tolerant-neutral-atom-quantum-computers-302800832.html",
-   "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-06-16T13:04:00+00:00"
-  },
-  {
-   "title": "French startup bets on non-humanoid design in crowded AI robot race",
-   "url": "https://www.channelnewsasia.com/business/french-startup-bets-non-humanoid-design-in-crowded-ai-robot-race-6187411",
-   "source": "CNA",
-   "category": "robotics",
-   "published": "2026-06-16T13:01:35+00:00"
-  },
-  {
-   "title": "D-Wave Quantum details accelerated gate-model roadmap for fault-tolerant systems",
-   "url": "https://cryptobriefing.com/d-wave-quantum-gate-model-roadmap-fault-tolerant/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-06-16T11:35:00+00:00"
-  },
-  {
-   "title": "Expands Commercial Reach With 256 Qubit Dublin Quantum Deployment",
-   "url": "https://biztoc.com/x/8710a1565e9c1b62",
-   "source": "Biztoc.com",
-   "category": "quantum",
-   "published": "2026-06-16T11:22:15+00:00"
-  },
-  {
-   "title": "EeroQ Makes World-First Breakthrough in Electron Qubits Floating on Helium",
-   "url": "https://www.prnewswire.com/news-releases/eeroq-makes-world-first-breakthrough-in-electron-qubits-floating-on-helium-302800779.html",
-   "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-06-16T11:06:00+00:00"
-  },
-  {
-   "title": "Qwen-VLA: The AI Model That Sees, Thinks, and Acts",
-   "url": "https://www.c-sharpcorner.com/article/qwen-vla-the-ai-model-that-sees-thinks-and-acts/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-06-16T03:32:48+00:00"
   },
   {
    "title": "Humanoid robot becomes the first of its kind to climb 20,000 feet up a volcano",
@@ -316,13 +442,6 @@
    "source": "4sysops.com",
    "category": "ai",
    "published": "2026-06-16T10:39:43+00:00"
-  },
-  {
-   "title": "Samsung To Manufacture Elon Musk\u2019s Next-Gen Neuralink Brain Chip",
-   "url": "https://www.ubergizmo.com/2026/06/samsung-neuralink/",
-   "source": "Ubergizmo",
-   "category": "robotics",
-   "published": "2026-06-16T10:32:38+00:00"
   },
   {
    "title": "EndoDNA Launches BIOS, Turning Genetic Data Into Living Clinical Intelligence for Precision Medicine",
