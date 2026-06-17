@@ -1,12 +1,272 @@
 {
- "updated": "2026-06-16T20:58:59.825058+00:00",
+ "updated": "2026-06-17T04:42:47.143517+00:00",
  "items": [
   {
-   "title": "Predicting model behavior before release by simulating deployment",
-   "url": "https://openai.com/index/deployment-simulation",
-   "source": "OpenAI",
+   "title": "Could AI tell you where you left your keys?",
+   "url": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
+   "source": "MIT News AI",
    "category": "ai",
+   "published": "2026-06-17T04:00:00+00:00"
+  },
+  {
+   "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+   "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-16T22:30:41+00:00"
+  },
+  {
+   "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI\u2019s Optical Backbone",
+   "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-16T22:10:56+00:00"
+  },
+  {
+   "title": "Unlocking UK house-building with AI-accelerated planning",
+   "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-06-16T21:29:50+00:00"
+  },
+  {
+   "title": "MIT\u2019s Initiative for New Manufacturing builds momentum",
+   "url": "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-16T20:30:00+00:00"
+  },
+  {
+   "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+   "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-16T16:30:27+00:00"
+  },
+  {
+   "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+   "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-16T15:00:36+00:00"
+  },
+  {
+   "title": "justllm 0.4.0",
+   "url": "https://pypi.org/project/justllm/0.4.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-16T04:40:55+00:00"
+  },
+  {
+   "title": "quiver-sdk 1.0.0",
+   "url": "https://pypi.org/project/quiver-sdk/1.0.0/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-06-16T04:40:54+00:00"
+  },
+  {
+   "title": "Kerun Launches Integrated Transformer and Substation Solutions for AI Data Centers in Hot-Climate Regions",
+   "url": "https://www.prnewswire.co.uk/news-releases/kerun-launches-integrated-transformer-and-substation-solutions-for-ai-data-centers-in-hot-climate-regions-302801093.html",
+   "source": "PR Newswire UK",
+   "category": "compute",
+   "published": "2026-06-16T04:36:00+00:00"
+  },
+  {
+   "title": "ietf-llm 0.13.1",
+   "url": "https://pypi.org/project/ietf-llm/0.13.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-16T04:28:25+00:00"
+  },
+  {
+   "title": "Sarvam is deeply interested in solving for agentic AI, enterprise business scaling rapidly: Founders Pratyush Kumar, Vivek Raghavan",
+   "url": "https://www.moneycontrol.com/news/business/startup/sarvam-is-deeply-interested-in-solving-for-agentic-ai-enterprise-business-scaling-rapidly-founders-pratyush-kumar-vivek-raghavan-13950490.html",
+   "source": "Moneycontrol",
+   "category": "ai",
+   "published": "2026-06-16T04:24:15+00:00"
+  },
+  {
+   "title": "Grok integrates natively into Warp terminal for AI coding",
+   "url": "https://cryptobriefing.com/grok-warp-terminal-ai-coding/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-06-16T04:18:07+00:00"
+  },
+  {
+   "title": "smart-autocommit 0.5.1",
+   "url": "https://pypi.org/project/smart-autocommit/0.5.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-16T04:12:28+00:00"
+  },
+  {
+   "title": "waystone 0.4.44",
+   "url": "https://pypi.org/project/waystone/0.4.44/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-16T04:09:15+00:00"
+  },
+  {
+   "title": "aquin 0.2.5",
+   "url": "https://pypi.org/project/aquin/0.2.5/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-16T04:04:57+00:00"
+  },
+  {
+   "title": "samf-framework added to PyPI",
+   "url": "https://pypi.org/project/samf-framework/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-06-16T04:03:44+00:00"
+  },
+  {
+   "title": "AMD to acquire MEXT to expand AI memory optimization tools",
+   "url": "https://www.digitimes.com/news/a20260616PR201/amd-data-center-infrastructure-optimization.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-06-16T04:02:27+00:00"
+  },
+  {
+   "title": "opentalking added to PyPI",
+   "url": "https://pypi.org/project/opentalking/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-16T03:54:18+00:00"
+  },
+  {
+   "title": "How AngelHack uses hackathons to ease AI adoption",
+   "url": "https://www.computerweekly.com/news/366644461/How-AngelHack-uses-hackathons-to-ease-AI-adoption",
+   "source": "ComputerWeekly.com",
+   "category": "ai",
+   "published": "2026-06-16T03:41:00+00:00"
+  },
+  {
+   "title": "Qwen-VLA: The AI Model That Sees, Thinks, and Acts",
+   "url": "https://www.c-sharpcorner.com/article/qwen-vla-the-ai-model-that-sees-thinks-and-acts/",
+   "source": "C-sharpcorner.com",
+   "category": "ai",
+   "published": "2026-06-16T03:32:48+00:00"
+  },
+  {
+   "title": "vllmstat 0.6.0",
+   "url": "https://pypi.org/project/vllmstat/0.6.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-16T03:28:14+00:00"
+  },
+  {
+   "title": "solveit-modal added to PyPI",
+   "url": "https://pypi.org/project/solveit-modal/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-16T03:18:51+00:00"
+  },
+  {
+   "title": "Amazon EC2 P6-B200 instances are now available in the Asia Pacific (Mumbai) Region",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-mumbai/",
+   "source": "Amazon.com",
+   "category": "compute",
+   "published": "2026-06-16T03:08:00+00:00"
+  },
+  {
+   "title": "Tredence Named 2026 Databricks Business Transformation Partner of the Year",
+   "url": "https://www.prnewswire.com/news-releases/tredence-named-2026-databricks-business-transformation-partner-of-the-year-302800581.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-06-16T00:30:00+00:00"
+  },
+  {
+   "title": "DeepMind spinout raises $2.1 billion",
+   "url": "https://www.nature.com/articles/s41587-026-03189-y",
+   "source": "Nature.com",
+   "category": "breakthroughs",
    "published": "2026-06-16T00:00:00+00:00"
+  },
+  {
+   "title": "Fauna Robotics",
+   "url": "https://www.awwwards.com/sites/fauna-robotics",
+   "source": "Awwwards.com",
+   "category": "robotics",
+   "published": "2026-06-16T00:00:00+00:00"
+  },
+  {
+   "title": "Databricks announces 2026 global partner awards",
+   "url": "https://www.databricks.com/blog/databricks-announces-2026-global-partner-awards",
+   "source": "Databricks.com",
+   "category": "ai",
+   "published": "2026-06-15T23:55:00+00:00"
+  },
+  {
+   "title": "The AI from Skin Analytics that caught 20,000 cancers in the UK is now certified for use on a standard smartphone",
+   "url": "https://www.prnewswire.com/news-releases/the-ai-from-skin-analytics-that-caught-20-000-cancers-in-the-uk-is-now-certified-for-use-on-a-standard-smartphone-302800754.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-15T23:01:00+00:00"
+  },
+  {
+   "title": "Radical Numerics launches with $50M to build general biological intelligence",
+   "url": "https://siliconangle.com/2026/06/15/radical-numerics-launches-50m-build-general-biological-intelligence/",
+   "source": "SiliconANGLE News",
+   "category": "breakthroughs",
+   "published": "2026-06-15T22:13:48+00:00"
+  },
+  {
+   "title": "Trella Health Launches Physician Group Explore & Analyze to Help Post-Acute Organizations Identify High-Value Referral Opportunities",
+   "url": "https://www.prnewswire.com/news-releases/trella-health-launches-physician-group-explore--analyze-to-help-post-acute-organizations-identify-high-value-referral-opportunities-302800782.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-15T20:59:00+00:00"
+  },
+  {
+   "title": "Humanoid robot becomes the first of its kind to climb 20,000 feet up a volcano",
+   "url": "https://www.tweaktown.com/news/112201/humanoid-robot-becomes-the-first-of-its-kind-to-climb-20000-feet-up-a-volcano/index.html",
+   "source": "TweakTown",
+   "category": "robotics",
+   "published": "2026-06-15T16:29:06+00:00"
+  },
+  {
+   "title": "KEENON Humanoid Pours Drinks at GCS 2026, 100,000 Others Run Hotels",
+   "url": "https://www.yankodesign.com/2026/06/15/keenon-humanoid-pours-drinks-at-gcs-2026-100000-others-run-hotels/",
+   "source": "Yanko Design",
+   "category": "robotics",
+   "published": "2026-06-15T14:20:50+00:00"
+  },
+  {
+   "title": "Atom Computing and Phasecraft Announce Strategic Collaboration to Accelerate Development of Next-Generation Materials",
+   "url": "https://www.prnewswire.com/news-releases/atom-computing-and-phasecraft-announce-strategic-collaboration-to-accelerate-development-of-next-generation-materials-302799329.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-06-15T13:04:00+00:00"
+  },
+  {
+   "title": "AWS and QuEra lay out roadmap to fault-tolerant quantum computing in next two years",
+   "url": "https://siliconangle.com/2026/06/15/aws-quera-lay-roadmap-fault-tolerant-quantum-computing-next-two-years/",
+   "source": "SiliconANGLE News",
+   "category": "quantum",
+   "published": "2026-06-15T13:00:21+00:00"
+  },
+  {
+   "title": "QuEra Announces 2028 Fault-Tolerant Quantum Computer and Expanded Multi-Year Strategic Collaboration with AWS",
+   "url": "https://www.prnewswire.com/news-releases/quera-announces-2028-fault-tolerant-quantum-computer-and-expanded-multi-year-strategic-collaboration-with-aws-302799818.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-06-15T13:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "etiket-sync-agent-qcodes added to PyPI",
+   "url": "https://pypi.org/project/etiket-sync-agent-qcodes/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-06-15T08:46:13+00:00"
+  },
+  {
+   "title": "parityos-tket added to PyPI",
+   "url": "https://pypi.org/project/parityos-tket/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-06-15T08:06:09+00:00"
   },
   {
    "title": "Arcade Raises $60 Million to Control AI Agents",
@@ -30,13 +290,6 @@
    "published": "2026-06-15T20:42:05+00:00"
   },
   {
-   "title": "Hewlett Packard Enterprise partners with 8 quantum firms to build hybrid HPC, AI, and quantum platform",
-   "url": "https://cryptobriefing.com/hpe-quantum-scaling-alliance-hybrid-platform/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-06-15T20:40:52+00:00"
-  },
-  {
    "title": "SpaceX reaches $2.5T valuation after record-shattering IPO, becomes 6th largest public company",
    "url": "https://cryptobriefing.com/spacex-ipo-2-5-trillion-valuation/",
    "source": "Crypto Briefing",
@@ -58,27 +311,6 @@
    "published": "2026-06-15T20:24:22+00:00"
   },
   {
-   "title": "HPE Expands Quantum Ecosystem to Advance Hybrid HPC and Quantum Computing",
-   "url": "https://www.storagereview.com/news/hpe-expands-quantum-ecosystem-to-advance-hybrid-hpc-and-quantum-computing",
-   "source": "Storagereview.com",
-   "category": "quantum",
-   "published": "2026-06-15T20:00:45+00:00"
-  },
-  {
-   "title": "China\u2019s Honghu T70 Fully Autonomous Electric Tractor Attracts Online Attention",
-   "url": "https://www.activistpost.com/chinas-honghu-t70-fully-autonomous-electric-tractor-attracts-online-attention/",
-   "source": "Activistpost.com",
-   "category": "robotics",
-   "published": "2026-06-15T20:00:00+00:00"
-  },
-  {
-   "title": "Light-speed decisions: A key step toward practical quantum computing",
-   "url": "https://www.digitaljournal.com/article/light-speed-decisions-a-key-step-toward-practical-quantum-computing/",
-   "source": "Digital Journal",
-   "category": "quantum",
-   "published": "2026-06-15T19:41:43+00:00"
-  },
-  {
    "title": "Fluorescent nanosensor enables rapid, first-of-its-kind detection of key gut health biomarker",
    "url": "https://news.mit.edu/2026/fluorescent-nanosensor-enables-rapid-detection-key-gut-health-biomarker-0615",
    "source": "Mit.edu",
@@ -91,20 +323,6 @@
    "source": "The Times of India",
    "category": "robotics",
    "published": "2026-06-15T18:50:28+00:00"
-  },
-  {
-   "title": "Watch: Korean Humanoid Robot Performs Viral K-POP Dance, Learns By Watching Videos",
-   "url": "https://biztoc.com/x/53f75a213ddbd0dc",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-06-15T10:40:10+00:00"
-  },
-  {
-   "title": "Introducing the OpenAI Partner Network",
-   "url": "https://openai.com/index/introducing-openai-partner-network",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-14T17:00:00+00:00"
   },
   {
    "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
@@ -212,13 +430,6 @@
    "published": "2026-06-15T14:17:00+00:00"
   },
   {
-   "title": "India pitches quantum computing collaboration with Russia under national mission",
-   "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-pitches-quantum-computing-collaboration-with-russia-under-national-mission/articleshow/131745085.cms",
-   "source": "The Times of India",
-   "category": "quantum",
-   "published": "2026-06-15T12:22:40+00:00"
-  },
-  {
    "title": "AT&S pours up to \u20ac2bn into Malaysia and China to ride the AI chip boom",
    "url": "https://thenextweb.com/news/ats-malaysia-ai-substrate-investment/",
    "source": "The Next Web",
@@ -259,13 +470,6 @@
    "source": "TechRadar",
    "category": "compute",
    "published": "2026-06-15T11:01:32+00:00"
-  },
-  {
-   "title": "Samsung said to be making next-generation Neuralink brain chip",
-   "url": "https://www.sammobile.com/news/samsung-making-neuralink-brain-chip-fourth-generation/",
-   "source": "SamMobile",
-   "category": "robotics",
-   "published": "2026-06-15T11:01:26+00:00"
   },
   {
    "title": "Undo lands $37M to give AI agents the runtime context to fix bugs",
