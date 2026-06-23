@@ -1,12 +1,188 @@
 {
- "updated": "2026-06-23T15:12:03.820601+00:00",
+ "updated": "2026-06-23T20:13:00.150959+00:00",
  "items": [
   {
-   "title": "How Businesses Are Building Specialized AI They Can Trust",
-   "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+   "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+   "url": "https://openai.com/index/gpt-5-immunology-mystery",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-23T17:00:00+00:00"
+  },
+  {
+   "title": "Helping build shared standards for advanced AI",
+   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-23T13:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA Powers Over 400 of the World\u2019s 500 Fastest Supercomputers",
+   "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-23T09:00:38+00:00"
+  },
+  {
+   "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+   "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
    "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-06-23T13:00:07+00:00"
+   "published": "2026-06-23T06:00:09+00:00"
+  },
+  {
+   "title": "New chip could help tiny robots traverse complex environments",
+   "url": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-06-23T04:00:00+00:00"
+  },
+  {
+   "title": "How Omio is building the future of conversational travel",
+   "url": "https://openai.com/index/omio",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-23T00:00:00+00:00"
+  },
+  {
+   "title": "TECfusions\u2019 Simon Tusha Participates in Nasdaq Global Industrials Forum, Highlighting the Critical Role of Data Centers in the AI Economy",
+   "url": "https://www.globenewswire.com/news-release/2026/06/22/3315609/0/en/TECfusions-Simon-Tusha-Participates-in-Nasdaq-Global-Industrials-Forum-Highlighting-the-Critical-Role-of-Data-Centers-in-the-AI-Economy.html",
+   "source": "GlobeNewswire",
+   "category": "compute",
+   "published": "2026-06-22T20:10:00+00:00"
+  },
+  {
+   "title": "Inference chip startup Groq raises $650M to grow its cloud platform",
+   "url": "https://siliconangle.com/2026/06/22/inference-chip-startup-groq-raises-650m-grow-cloud-platform/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-06-22T20:06:25+00:00"
+  },
+  {
+   "title": "Delivery robot startup Robot.com bets its next act on wheeled humanoids for kitchens and warehouses",
+   "url": "https://thenextweb.com/news/robot-com-kiwibot-r-noid-humanoid-workplace-physical-intelligence/",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-06-22T20:05:56+00:00"
+  },
+  {
+   "title": "OpenAI signs one of its largest enterprise deals with Samsung Electronics",
+   "url": "https://www.gsmarena.com/openai_signs_one_of_its_largest_enterprise_deals_with_samsung_electronics-news-73386.php",
+   "source": "GSMArena.com",
+   "category": "ai",
+   "published": "2026-06-22T20:00:02+00:00"
+  },
+  {
+   "title": "For $500, an AI Beat 2 Lawyers in UK Court",
+   "url": "https://biztoc.com/x/2950e61f5ef9dd05",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-06-22T19:51:13+00:00"
+  },
+  {
+   "title": "MoonPay Acquires AI Accounting Agent Maker Entendre",
+   "url": "https://biztoc.com/x/d8bfca64a8116882",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-06-22T19:51:02+00:00"
+  },
+  {
+   "title": "Show HN: A local rig to test if AI social simulation predicts reality",
+   "url": "https://github.com/zzvimercm-git/mirofish-calibration",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-22T19:45:43+00:00"
+  },
+  {
+   "title": "Quantum computing pushes toward fault tolerance as Alice & Bob unveils first commercial cat\u2011qubit system",
+   "url": "https://www.digitaljournal.com/article/quantum-computing-pushes-toward-fault-tolerance-as-alice-bob-unveils-first-commercial-cat-qubit-system/",
+   "source": "Digital Journal",
+   "category": "quantum",
+   "published": "2026-06-22T19:39:07+00:00"
+  },
+  {
+   "title": "Robot.com Launches R-noid, a Humanoid Built For the Work That Burns People Out. No Legs, All Lift to the Bottom Line.",
+   "url": "https://www.prnewswire.com/news-releases/robotcom-launches-r-noid-a-humanoid-built-for-the-work-that-burns-people-out-no-legs-all-lift-to-the-bottom-line-302806619.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-06-22T18:23:00+00:00"
+  },
+  {
+   "title": "NVIDIA Floods Europe With 35 Supercomputers Spanning 23 Countries, Stacking Up To 800 Exaflops Of AI Compute",
+   "url": "https://wccftech.com/nvidia-floods-europe-with-35-supercomputers-23-countries-800-exaflops-ai-compute/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-06-22T15:25:20+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+   "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-06-22T13:00:48+00:00"
+  },
+  {
+   "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-22T13:00:38+00:00"
+  },
+  {
+   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+   "source": "NVIDIA",
+   "category": "breakthroughs",
+   "published": "2026-06-22T13:00:20+00:00"
+  },
+  {
+   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-22T13:00:20+00:00"
+  },
+  {
+   "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+   "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
+   "source": "NVIDIA",
+   "category": "breakthroughs",
+   "published": "2026-06-22T13:00:13+00:00"
+  },
+  {
+   "title": "Europe Unveils a Record 35 New NVIDIA AI Supercomputers",
+   "url": "https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-06-22T13:00:00+00:00"
+  },
+  {
+   "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+   "url": "https://openai.com/index/patch-the-planet",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-22T10:00:00+00:00"
+  },
+  {
+   "title": "Daybreak: Tools for securing every organization in the world",
+   "url": "https://openai.com/index/daybreak-securing-the-world",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-22T10:00:00+00:00"
+  },
+  {
+   "title": "Codex-maxxing for long-running work",
+   "url": "https://openai.com/index/codex-maxxing-long-running-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-22T00:00:00+00:00"
+  },
+  {
+   "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+   "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-21T23:00:00+00:00"
   },
   {
    "title": "Dun & Bradstreet Adds Agentic AI to Compliance Workflows",
@@ -135,47 +311,11 @@
    "published": "2026-06-22T14:00:00+00:00"
   },
   {
-   "title": "Nvidia Seeks to Make Humanoid AI Robots Safer Around Humans",
-   "url": "https://financialpost.com/pmn/business-pmn/nvidia-seeks-to-make-humanoid-ai-robots-safer-around-humans",
-   "source": "Financial Post",
-   "category": "robotics",
-   "published": "2026-06-22T13:33:30+00:00"
-  },
-  {
-   "title": "FORT Robotics extends its Trust Layer for Physical AI by adding Outside-In Safety in collaboration with NVIDIA Halos for Robotics",
-   "url": "https://www.prnewswire.com/news-releases/fort-robotics-extends-its-trust-layer-for-physical-ai-by-adding-outside-in-safety-in-collaboration-with-nvidia-halos-for-robotics-302804999.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-06-22T13:05:00+00:00"
-  },
-  {
-   "title": "Nvidia introduces Halos for Robotics to bridge the physical AI safety gap",
-   "url": "https://siliconangle.com/2026/06/22/nvidia-introduces-halos-robotics-bridge-physical-ai-safety-gap/",
-   "source": "SiliconANGLE News",
-   "category": "robotics",
-   "published": "2026-06-22T13:00:46+00:00"
-  },
-  {
    "title": "Europe Unveils a Record 35 New NVIDIA AI Supercomputers",
    "url": "https://www.globenewswire.com/news-release/2026/06/22/3315319/0/en/Europe-Unveils-a-Record-35-New-NVIDIA-AI-Supercomputers.html",
    "source": "GlobeNewswire",
    "category": "compute",
-   "published": "2026-06-22T13:00:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "NVIDIA Announces Halos for Robotics, the Industry\u2019s First Full-Stack Safety System for Physical AI",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai",
-   "source": "Nvidia.com",
-   "category": "robotics",
    "published": "2026-06-22T13:00:00+00:00"
-  },
-  {
-   "title": "SEALSQ\u2019s QS7001 Post-Quantum Secure Element Aligned with New ANSSI Post Quantum Mandate",
-   "url": "https://www.globenewswire.com/news-release/2026/06/22/3315274/0/en/SEALSQ-s-QS7001-Post-Quantum-Secure-Element-Aligned-with-New-ANSSI-Post-Quantum-Mandate.html",
-   "source": "GlobeNewswire",
-   "category": "quantum",
-   "published": "2026-06-22T12:30:00+00:00"
   },
   {
    "title": "A better way to model the behavior of metal alloys",
