@@ -1,68 +1,159 @@
 {
- "updated": "2026-06-22T20:55:20.454052+00:00",
+ "updated": "2026-06-23T03:58:47.585502+00:00",
  "items": [
   {
-   "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
-   "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+   "title": "Hotter Than a Hot Tub: The 45\u00b0C Breakthrough to Cool AI\u2019s Biggest Machines",
+   "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-06-22T13:00:48+00:00"
+   "published": "2026-06-22T05:00:22+00:00"
   },
   {
-   "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-22T13:00:38+00:00"
-  },
-  {
-   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-22T13:00:20+00:00"
-  },
-  {
-   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-22T13:00:20+00:00"
-  },
-  {
-   "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
-   "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-22T13:00:13+00:00"
-  },
-  {
-   "title": "Daybreak: Tools for securing every organization in the world",
-   "url": "https://openai.com/index/daybreak-securing-the-world",
-   "source": "OpenAI",
+   "title": "agentinsight-sdk 0.1.5",
+   "url": "https://pypi.org/project/agentinsight-sdk/0.1.5/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-06-22T10:00:00+00:00"
+   "published": "2026-06-22T03:56:47+00:00"
   },
   {
-   "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-   "url": "https://openai.com/index/patch-the-planet",
-   "source": "OpenAI",
+   "title": "oh-my-wiki added to PyPI",
+   "url": "https://pypi.org/project/oh-my-wiki/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-06-22T10:00:00+00:00"
+   "published": "2026-06-22T03:56:31+00:00"
   },
   {
-   "title": "Codex-maxxing for long-running work",
-   "url": "https://openai.com/index/codex-maxxing-long-running-work",
-   "source": "OpenAI",
+   "title": "oh-my-wiki 2.7.0",
+   "url": "https://pypi.org/project/oh-my-wiki/2.7.0/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-06-22T00:00:00+00:00"
+   "published": "2026-06-22T03:56:31+00:00"
   },
   {
-   "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-   "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-   "source": "OpenAI",
+   "title": "distil-llm 0.5.0",
+   "url": "https://pypi.org/project/distil-llm/0.5.0/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-06-21T23:00:00+00:00"
+   "published": "2026-06-22T03:53:54+00:00"
+  },
+  {
+   "title": "vault-for-llm 0.6.27",
+   "url": "https://pypi.org/project/vault-for-llm/0.6.27/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-22T03:52:42+00:00"
+  },
+  {
+   "title": "RealSense D585 Pro targets robotics with wide-field sensing and edge processing",
+   "url": "https://linuxgizmos.com/realsense-d585-pro-targets-robotics-with-wide-fov-sensing-and-edge-processing/",
+   "source": "Linuxgizmos.com",
+   "category": "robotics",
+   "published": "2026-06-22T03:50:31+00:00"
+  },
+  {
+   "title": "\u2018Finally, a video editor built for AI\u2019\u2014Palmier launches as the first AI-native editing platform. Here\u2019s why this changes everything.",
+   "url": "https://techpinions.com/finally-a-video-editor-built-for-ai-palmier-launches-as-the-first-ai-native-editing-platform-heres-why-this-changes-everything/",
+   "source": "Techpinions.com",
+   "category": "ai",
+   "published": "2026-06-22T03:45:39+00:00"
+  },
+  {
+   "title": "Show HN: Crespo \u2013 Tree-sitter AST blueprints instead of raw code for LLMs",
+   "url": "https://github.com/hrudulmmn/crespo",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-22T03:28:11+00:00"
+  },
+  {
+   "title": "chimeraforge 0.4.0",
+   "url": "https://pypi.org/project/chimeraforge/0.4.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-22T03:24:31+00:00"
+  },
+  {
+   "title": "llmadapt added to PyPI",
+   "url": "https://pypi.org/project/llmadapt/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-22T03:10:26+00:00"
+  },
+  {
+   "title": "llmadapt 0.1.0",
+   "url": "https://pypi.org/project/llmadapt/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-22T03:10:26+00:00"
+  },
+  {
+   "title": "TeLLMgramBot 3.16.0",
+   "url": "https://pypi.org/project/tellmgrambot/3.16.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-22T03:07:50+00:00"
+  },
+  {
+   "title": "plutus-agent 0.2.0",
+   "url": "https://pypi.org/project/plutus-agent/0.2.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-22T02:39:14+00:00"
+  },
+  {
+   "title": "plutus-agent added to PyPI",
+   "url": "https://pypi.org/project/plutus-agent/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-22T02:39:09+00:00"
+  },
+  {
+   "title": "Sakana Fugu",
+   "url": "https://sakana.ai/fugu/",
+   "source": "Sakana.ai",
+   "category": "ai",
+   "published": "2026-06-22T02:08:18+00:00"
+  },
+  {
+   "title": "AI startups fuel talent war as hiring surges across India",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startups-fuel-talent-war-as-hiring-surges-across-india/articleshow/131897020.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-06-22T00:30:00+00:00"
+  },
+  {
+   "title": "Indian deep-tech to see funding surge amid sovereign push: Celesta\u2019s Viswanathan",
+   "url": "https://www.livemint.com/companies/news/indian-deep-tech-to-see-funding-surge-amid-sovereign-push-celesta-s-viswanathan-11782036944376.html",
+   "source": "Livemint",
+   "category": "ai",
+   "published": "2026-06-22T00:29:50+00:00"
+  },
+  {
+   "title": "ScolioLife Advances Non-Surgical Scoliosis Care With AI and 3D Printing",
+   "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-7cc3007b56fcb468f8c630193a431b34",
+   "source": "Associated Press",
+   "category": "health",
+   "published": "2026-06-21T23:54:21+00:00"
+  },
+  {
+   "title": "locci added to PyPI",
+   "url": "https://pypi.org/project/locci/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-21T16:34:23+00:00"
+  },
+  {
+   "title": "Show HN: Jacobi\u2013IDE for Abaqus subroutine with analytical tests and AI diagnosis",
+   "url": "https://jacobee.netlify.app/",
+   "source": "Netlify.app",
+   "category": "ai",
+   "published": "2026-06-21T16:20:46+00:00"
+  },
+  {
+   "title": "A better way to model the behavior of metal alloys",
+   "url": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-19T18:00:00+00:00"
   },
   {
    "title": "'Outdated' red tape holding back AI cancer breakthrough, scientists say",
@@ -100,32 +191,11 @@
    "published": "2026-06-21T19:00:00+00:00"
   },
   {
-   "title": "A New Store in Hong Kong Has No Human Employees, Just a Single Humanoid Robot",
-   "url": "https://futurism.com/robots-and-machines/hong-store-no-employees-robot",
-   "source": "Futurism",
-   "category": "robotics",
-   "published": "2026-06-21T17:00:00+00:00"
-  },
-  {
-   "title": "Jenny Duan\u2019s Clair Health Tracks Female Hormones with a Wearable AI Device",
-   "url": "https://femwealth.substack.com/p/jenny-duans-clair-health-tracks-female",
-   "source": "Substack.com",
-   "category": "health",
-   "published": "2026-06-21T16:52:56+00:00"
-  },
-  {
    "title": "As world populations crash, is this Japanese robot city our future?",
    "url": "https://www.theblaze.com/tech/as-world-populations-crash-is-this-japanese-robot-city-our-future",
    "source": "TheBlaze",
    "category": "robotics",
    "published": "2026-06-21T16:30:00+00:00"
-  },
-  {
-   "title": "Humans May One Day Be Able to Regrow Lost Fingers, Limbs, or Other Body Parts Thanks to a Serum That Helped Mice Regrow Part of an Amputated Fing",
-   "url": "https://thoughtcatalog.com/holden-desalles/2026/06/humans-may-one-day-be-able-to-regrow-lost-fingers-limbs-or-other-body-parts-thanks-to-a-serum-that-helped-mice-regrow-part-of-an-amputated-fing/",
-   "source": "Thoughtcatalog.com",
-   "category": "health",
-   "published": "2026-06-21T16:18:05+00:00"
   },
   {
    "title": "Absci Corporation progresses ABS-201 into human trials, bolstering AI-driven drug discovery",
@@ -140,13 +210,6 @@
    "source": "Crypto Briefing",
    "category": "health",
    "published": "2026-06-21T15:03:39+00:00"
-  },
-  {
-   "title": "New Device Can Take Photographs With a Single Atom",
-   "url": "https://spectrum.ieee.org/single-atom-camera-quantum-computing?share_id=9623103",
-   "source": "Ieee.org",
-   "category": "breakthroughs",
-   "published": "2026-06-21T13:00:01+00:00"
   },
   {
    "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
