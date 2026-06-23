@@ -1,12 +1,188 @@
 {
- "updated": "2026-06-23T03:58:47.585502+00:00",
+ "updated": "2026-06-23T09:52:19.731653+00:00",
  "items": [
   {
-   "title": "Hotter Than a Hot Tub: The 45\u00b0C Breakthrough to Cool AI\u2019s Biggest Machines",
-   "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+   "title": "NVIDIA Powers Over 400 of the World\u2019s 500 Fastest Supercomputers",
+   "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-06-22T05:00:22+00:00"
+   "published": "2026-06-23T09:00:38+00:00"
+  },
+  {
+   "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+   "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-23T06:00:09+00:00"
+  },
+  {
+   "title": "New chip could help tiny robots traverse complex environments",
+   "url": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-06-23T04:00:00+00:00"
+  },
+  {
+   "title": "How Omio is building the future of conversational travel",
+   "url": "https://openai.com/index/omio",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-23T00:00:00+00:00"
+  },
+  {
+   "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+   "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+   "source": "NVIDIA",
+   "category": "breakthroughs",
+   "published": "2026-06-22T13:00:48+00:00"
+  },
+  {
+   "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-22T13:00:38+00:00"
+  },
+  {
+   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-22T13:00:20+00:00"
+  },
+  {
+   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-22T13:00:20+00:00"
+  },
+  {
+   "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+   "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-22T13:00:13+00:00"
+  },
+  {
+   "title": "Daybreak: Tools for securing every organization in the world",
+   "url": "https://openai.com/index/daybreak-securing-the-world",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-22T10:00:00+00:00"
+  },
+  {
+   "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+   "url": "https://openai.com/index/patch-the-planet",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-22T10:00:00+00:00"
+  },
+  {
+   "title": "Andes\u682a\u5f0f\u4f1a\u793e\u3001\u30c7\u30e9\u30a4\u30c8\u30fb\u30d9\u30f3\u30c1\u30e3\u30fc\u30ba\u3092\u30ea\u30fc\u30c9\u6295\u8cc7\u5bb6\u3068\u3057\u3066\u30b7\u30fc\u30c9\u30e9\u30a6\u30f3\u30c9\u3067\u7d2f\u8a082.4\u5104\u5186\u3092\u8abf\u9054",
+   "url": "https://prtimes.jp/main/html/rd/p/000000006.000174361.html",
+   "source": "Prtimes.jp",
+   "category": "ai",
+   "published": "2026-06-22T09:40:41+00:00"
+  },
+  {
+   "title": "Show HN: Saar Agentic Orchestration Platform",
+   "url": "https://github.com/Poi5eN/Nexus",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-22T09:36:15+00:00"
+  },
+  {
+   "title": "Indonesia turns to AI to deliver Prabowo\u2019s biggest promises",
+   "url": "https://thenextweb.com/news/indonesia-turns-to-ai-to-deliver-prabowos-biggest-promises/",
+   "source": "The Next Web",
+   "category": "ai",
+   "published": "2026-06-22T09:20:18+00:00"
+  },
+  {
+   "title": "ChemT Biotechnology Raises US$5 Million in 18 months to bring AI to Biomanufacturing",
+   "url": "https://www.prnewswire.com/news-releases/chemt-biotechnology-raises-us5-million-in-18-months-to-bring-ai-to-biomanufacturing-302806228.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-22T09:15:00+00:00"
+  },
+  {
+   "title": "fifty-agent-sdk 1.1.0",
+   "url": "https://pypi.org/project/fifty-agent-sdk/1.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-22T09:09:29+00:00"
+  },
+  {
+   "title": "fifty-agent-sdk added to PyPI",
+   "url": "https://pypi.org/project/fifty-agent-sdk/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-22T09:09:24+00:00"
+  },
+  {
+   "title": "Show HN: Prismag \u2013 Per-block model routing for the terminal and any IDE",
+   "url": "https://github.com/rufus-SD/prismag",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-22T09:00:55+00:00"
+  },
+  {
+   "title": "What GenAI\u2019s Math Breakthrough Means For Medicine",
+   "url": "https://www.forbes.com/sites/robertpearl/2026/06/22/what-genais-math-breakthrough-means-for-medicine/",
+   "source": "Forbes",
+   "category": "health",
+   "published": "2026-06-22T09:00:00+00:00"
+  },
+  {
+   "title": "How smart rooms are supporting virtual nursing operations",
+   "url": "https://www.techtarget.com/virtualhealthcare/feature/How-smart-rooms-are-supporting-virtual-nursing-operations",
+   "source": "Techtarget.com",
+   "category": "health",
+   "published": "2026-06-22T09:00:00+00:00"
+  },
+  {
+   "title": "Transgene Expands myvac\u00ae into Non-Small Cell Lung Cancer with TG4070, an Individualized Neoantigen Therapeutic Vaccine",
+   "url": "https://www.globenewswire.com/news-release/2026/06/22/3315033/0/en/Transgene-Expands-myvac-into-Non-Small-Cell-Lung-Cancer-with-TG4070-an-Individualized-Neoantigen-Therapeutic-Vaccine.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-22T05:30:00+00:00"
+  },
+  {
+   "title": "Apple supplier Lingyi seeks US$1.1 billion Hong Kong IPO to fund AI and robotics push",
+   "url": "https://biztoc.com/x/e80190feb2b7d102",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-06-22T02:19:08+00:00"
+  },
+  {
+   "title": "Codex-maxxing for long-running work",
+   "url": "https://openai.com/index/codex-maxxing-long-running-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-22T00:00:00+00:00"
+  },
+  {
+   "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+   "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-21T23:00:00+00:00"
+  },
+  {
+   "title": "A New Store in Hong Kong Has No Human Employees, Just a Single Humanoid Robot",
+   "url": "https://futurism.com/robots-and-machines/hong-store-no-employees-robot",
+   "source": "Futurism",
+   "category": "robotics",
+   "published": "2026-06-21T17:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "New Device Can Take Photographs With a Single Atom",
+   "url": "https://spectrum.ieee.org/single-atom-camera-quantum-computing?share_id=9623103",
+   "source": "Ieee.org",
+   "category": "breakthroughs",
+   "published": "2026-06-21T13:00:01+00:00"
   },
   {
    "title": "agentinsight-sdk 0.1.5",
@@ -149,13 +325,6 @@
    "published": "2026-06-21T16:20:46+00:00"
   },
   {
-   "title": "A better way to model the behavior of metal alloys",
-   "url": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-06-19T18:00:00+00:00"
-  },
-  {
    "title": "'Outdated' red tape holding back AI cancer breakthrough, scientists say",
    "url": "https://www.abc.net.au/news/2026-06-22/australian-dog-cancer-treated-via-mrna-vaccine-and-ai/106692668",
    "source": "ABC News (AU)",
@@ -216,8 +385,7 @@
    "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
    "source": "Nvidia.com",
    "category": "robotics",
-   "published": "2026-06-21T00:49:23+00:00",
-   "breakthrough": true
+   "published": "2026-06-21T00:49:23+00:00"
   },
   {
    "title": "Canada\u2019s farms are turning to robotics for efficiency and the employment gap",
