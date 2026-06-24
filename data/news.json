@@ -1,19 +1,377 @@
 {
- "updated": "2026-06-24T04:00:39.715731+00:00",
+ "updated": "2026-06-24T09:40:09.477943+00:00",
  "items": [
   {
-   "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-   "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
-   "source": "NVIDIA",
+   "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+   "url": "https://openai.com/index/gpt-5-immunology-mystery",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-06-24T00:05:37+00:00"
+   "published": "2026-06-23T17:00:00+00:00"
   },
   {
-   "title": "How Businesses Are Building Specialized AI They Can Trust",
-   "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+   "title": "Helping build shared standards for advanced AI",
+   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-23T13:00:00+00:00"
+  },
+  {
+   "title": "gpt-simple-lm added to PyPI",
+   "url": "https://pypi.org/project/gpt-simple-lm/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-23T09:36:24+00:00"
+  },
+  {
+   "title": "tm-ai 2.93.1",
+   "url": "https://pypi.org/project/tm-ai/2.93.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-23T09:35:02+00:00"
+  },
+  {
+   "title": "aop-launcher added to PyPI",
+   "url": "https://pypi.org/project/aop-launcher/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-23T09:33:37+00:00"
+  },
+  {
+   "title": "Doctors Thought It Was Asthma. A.I. Flagged a Serious Heart Problem. - The New York Times",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184051402",
+   "source": "Slashdot.org",
+   "category": "health",
+   "published": "2026-06-23T09:32:19+00:00"
+  },
+  {
+   "title": "rein-strands 0.3.0",
+   "url": "https://pypi.org/project/rein-strands/0.3.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-23T09:31:55+00:00"
+  },
+  {
+   "title": "rein-strands added to PyPI",
+   "url": "https://pypi.org/project/rein-strands/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-23T09:31:50+00:00"
+  },
+  {
+   "title": "is-it-true added to PyPI",
+   "url": "https://pypi.org/project/is-it-true/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-23T09:26:45+00:00"
+  },
+  {
+   "title": "Autodesk releases Arnold 7.5.2 with 3D Gaussian Splatting",
+   "url": "https://www.cgchannel.com/2026/06/autodesk-releases-arnold-7-5-2-with-support-for-gaussian-splatting/",
+   "source": "Cgchannel.com",
+   "category": "ai",
+   "published": "2026-06-23T09:26:02+00:00"
+  },
+  {
+   "title": "nvidia-nat-s3 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-s3/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:23:58+00:00"
+  },
+  {
+   "title": "NVIDIA MCX75343AAS-NEA SmartNIC Firmware 28.39.5172",
+   "url": "https://drivers.softpedia.com/get/NETWORK-CARD/Nvidia/NVIDIA-MCX75343AAS-NEA-SmartNIC-Firmware-28-39-5172.shtml",
+   "source": "Softpedia.com",
+   "category": "compute",
+   "published": "2026-06-23T09:23:01+00:00"
+  },
+  {
+   "title": "nvidia-nat-security 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-security/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:23:01+00:00"
+  },
+  {
+   "title": "nvidia-nat-nemo-customizer 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-nemo-customizer/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:22:40+00:00"
+  },
+  {
+   "title": "nvidia-nat-weave 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-weave/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:22:21+00:00"
+  },
+  {
+   "title": "nvidia-nat-adk 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-adk/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:22:02+00:00"
+  },
+  {
+   "title": "nvidia-nat-mem0ai 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-mem0ai/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:21:43+00:00"
+  },
+  {
+   "title": "nvidia-nat-zep-cloud 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-zep-cloud/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:21:24+00:00"
+  },
+  {
+   "title": "nvidia-nat-config-optimizer 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-config-optimizer/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:21:05+00:00"
+  },
+  {
+   "title": "nvidia-nat-eval 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-eval/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:20:45+00:00"
+  },
+  {
+   "title": "nvidia-nat-mcp 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-mcp/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:20:26+00:00"
+  },
+  {
+   "title": "scoutlet added to PyPI",
+   "url": "https://pypi.org/project/scoutlet/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-23T09:20:06+00:00"
+  },
+  {
+   "title": "nvidia-nat-phoenix 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-phoenix/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:20:06+00:00"
+  },
+  {
+   "title": "nvidia-nat-ragas 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-ragas/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:19:46+00:00"
+  },
+  {
+   "title": "Humanoid Livestream: Robot Makers Rushing To Show Machines On Real Production Lines",
+   "url": "https://www.forbes.com/sites/johnkoetsier/2026/06/23/humanoid-livestream-robot-makers-rushing-to-show-machines-on-real-production-lines/",
+   "source": "Forbes",
+   "category": "robotics",
+   "published": "2026-06-23T09:19:29+00:00"
+  },
+  {
+   "title": "nvidia-nat-redis 1.9.0a20260623",
+   "url": "https://pypi.org/project/nvidia-nat-redis/1.9.0a20260623/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-06-23T09:19:27+00:00"
+  },
+  {
+   "title": "vault-for-llm 0.6.55",
+   "url": "https://pypi.org/project/vault-for-llm/0.6.55/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-23T09:19:23+00:00"
+  },
+  {
+   "title": "powerailabs-cassette added to PyPI",
+   "url": "https://pypi.org/project/powerailabs-cassette/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-23T09:18:59+00:00"
+  },
+  {
+   "title": "TeLLMgramBot 3.16.1",
+   "url": "https://pypi.org/project/tellmgrambot/3.16.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-23T09:17:18+00:00"
+  },
+  {
+   "title": "Mavenir turns NOC knowledge into automation for autonomous networks",
+   "url": "https://www.helpnetsecurity.com/2026/06/23/mavenir-turns-noc-knowledge-into-automation-for-autonomous-networks/",
+   "source": "Help Net Security",
+   "category": "ai",
+   "published": "2026-06-23T09:05:22+00:00"
+  },
+  {
+   "title": "NVIDIA Powers Over 400 of the World\u2019s 500 Fastest Supercomputers",
+   "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-23T09:00:38+00:00"
+  },
+  {
+   "title": "Nvidia targets robot safety as humanoids edge toward factory floors",
+   "url": "https://www.digitimes.com/news/a20260623VL216/robot-nvidia-industrial-software-bloomberg.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-06-23T08:48:18+00:00"
+  },
+  {
+   "title": "NVIDIA announces Halos for safer AI-powered robots",
+   "url": "https://www.yugatech.com/news/nvidia-announces-halos-for-safer-ai-powered-robots/",
+   "source": "Yugatech.com",
+   "category": "robotics",
+   "published": "2026-06-23T08:23:36+00:00"
+  },
+  {
+   "title": "UK backs new AI labs to make technology cheaper, more reliable and easier to use",
+   "url": "https://www.gov.uk/government/news/uk-backs-new-ai-labs-to-make-technology-cheaper-more-reliable-and-easier-to-use",
+   "source": "Www.gov.uk",
+   "category": "ai",
+   "published": "2026-06-23T08:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+   "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
+   "source": "Nvidia.com",
+   "category": "ai",
+   "published": "2026-06-23T06:00:09+00:00"
+  },
+  {
+   "title": "Oversonic Robotics: STMicroelectronics, Fondazione ENEA Tech Biomedical and SpotInvest acquire a stake in the Company",
+   "url": "https://www.prnewswire.com/news-releases/oversonic-robotics-stmicroelectronics-fondazione-enea-tech-biomedical-and-spotinvest-acquire-a-stake-in-the-company-302806639.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-06-23T05:30:00+00:00"
+  },
+  {
+   "title": "Press Release: Sanofi\u2019s Wayrilz approved in Japan to treat immune thrombocytopenia",
+   "url": "https://www.globenewswire.com/news-release/2026/06/23/3315701/0/en/Press-Release-Sanofi-s-Wayrilz-approved-in-Japan-to-treat-immune-thrombocytopenia.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-23T05:15:00+00:00"
+  },
+  {
+   "title": "Press Release: Sanofi\u2019s Cenrifki (tolebrutinib) approved in the EU as the first disability-targeting medicine for secondary progressive multiple sclerosis without relapses",
+   "url": "https://www.globenewswire.com/news-release/2026/06/23/3315699/0/en/Press-Release-Sanofi-s-Cenrifki-tolebrutinib-approved-in-the-EU-as-the-first-disability-targeting-medicine-for-secondary-progressive-multiple-sclerosis-without-relapses.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-23T05:00:00+00:00"
+  },
+  {
+   "title": "New chip could help tiny robots traverse complex environments",
+   "url": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-06-23T04:00:00+00:00"
+  },
+  {
+   "title": "How Omio is building the future of conversational travel",
+   "url": "https://openai.com/index/omio",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-23T00:00:00+00:00"
+  },
+  {
+   "title": "Delivery robot startup Robot.com bets its next act on wheeled humanoids for kitchens and warehouses",
+   "url": "https://thenextweb.com/news/robot-com-kiwibot-r-noid-humanoid-workplace-physical-intelligence/",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-06-22T20:05:56+00:00"
+  },
+  {
+   "title": "Quantum computing pushes toward fault tolerance as Alice & Bob unveils first commercial cat\u2011qubit system",
+   "url": "https://www.digitaljournal.com/article/quantum-computing-pushes-toward-fault-tolerance-as-alice-bob-unveils-first-commercial-cat-qubit-system/",
+   "source": "Digital Journal",
+   "category": "quantum",
+   "published": "2026-06-22T19:39:07+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Robot.com Launches R-noid, a Humanoid Built For the Work That Burns People Out. No Legs, All Lift to the Bottom Line.",
+   "url": "https://www.prnewswire.com/news-releases/robotcom-launches-r-noid-a-humanoid-built-for-the-work-that-burns-people-out-no-legs-all-lift-to-the-bottom-line-302806619.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-06-22T18:23:00+00:00"
+  },
+  {
+   "title": "NVIDIA Floods Europe With 35 Supercomputers Spanning 23 Countries, Stacking Up To 800 Exaflops Of AI Compute",
+   "url": "https://wccftech.com/nvidia-floods-europe-with-35-supercomputers-23-countries-800-exaflops-ai-compute/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-06-22T15:25:20+00:00"
+  },
+  {
+   "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+   "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-06-22T13:00:48+00:00"
+  },
+  {
+   "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
    "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-06-23T13:00:07+00:00"
+   "published": "2026-06-22T13:00:38+00:00"
+  },
+  {
+   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-22T13:00:20+00:00"
+  },
+  {
+   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-22T13:00:20+00:00"
+  },
+  {
+   "title": "Europe Unveils a Record 35 New NVIDIA AI Supercomputers",
+   "url": "https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-06-22T13:00:00+00:00"
+  },
+  {
+   "title": "Daybreak: Tools for securing every organization in the world",
+   "url": "https://openai.com/index/daybreak-securing-the-world",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-22T10:00:00+00:00"
+  },
+  {
+   "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+   "url": "https://openai.com/index/patch-the-planet",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-22T10:00:00+00:00"
+  },
+  {
+   "title": "Codex-maxxing for long-running work",
+   "url": "https://openai.com/index/codex-maxxing-long-running-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-22T00:00:00+00:00"
+  },
+  {
+   "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+   "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-21T23:00:00+00:00"
   },
   {
    "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
@@ -100,13 +458,6 @@
    "published": "2026-06-23T00:40:46+00:00"
   },
   {
-   "title": "Unconditional advantage of quantum teleportation over direct transmission of single photons through a lossy channel",
-   "url": "https://www.nature.com/articles/s41567-026-03348-7",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-06-23T00:00:00+00:00"
-  },
-  {
    "title": "Efficient generation of epitope-targeted antibodies with Germinal",
    "url": "https://www.nature.com/articles/s41587-026-03187-0",
    "source": "Nature.com",
@@ -147,34 +498,6 @@
    "source": "Biztoc.com",
    "category": "health",
    "published": "2026-06-22T21:22:17+00:00"
-  },
-  {
-   "title": "Tesla\u2019s Optimus Humanoid Robot Mass Production Nears As Taiwanese Suppliers Gear Up To Provide Components \u2013 Report",
-   "url": "https://wccftech.com/teslas-optimus-humanoid-robot-mass-production-nears-as-taiwanese-suppliers-gear-up-to-provide-components-report/",
-   "source": "Wccftech",
-   "category": "robotics",
-   "published": "2026-06-22T20:32:43+00:00"
-  },
-  {
-   "title": "\u2018Eye-watering price tags\u2019 on humanoid robots may soon be history\u2014here\u2019s why that matters",
-   "url": "https://techpinions.com/eye-watering-price-tags-on-humanoid-robots-may-soon-be-history-heres-why-that-matters/",
-   "source": "Techpinions.com",
-   "category": "robotics",
-   "published": "2026-06-22T20:03:28+00:00"
-  },
-  {
-   "title": "JB Pritzker Says Illinois Has 'A Right To Win' Quantum Computing Race, Builds Chicago Hub With PsiQuantum, GlobalFoundries",
-   "url": "https://finance.yahoo.com/technology/articles/jb-pritzker-says-illinois-win-150016683.html",
-   "source": "Yahoo Entertainment",
-   "category": "quantum",
-   "published": "2026-06-22T15:00:16+00:00"
-  },
-  {
-   "title": "SEALSQ\u2019s QS7001 Post-Quantum Secure Element Aligned with New ANSSI Post Quantum Mandate",
-   "url": "https://www.globenewswire.com/news-release/2026/06/22/3315274/0/en/SEALSQ-s-QS7001-Post-Quantum-Secure-Element-Aligned-with-New-ANSSI-Post-Quantum-Mandate.html",
-   "source": "GlobeNewswire",
-   "category": "quantum",
-   "published": "2026-06-22T12:30:00+00:00"
   },
   {
    "title": "TECfusions\u2019 Simon Tusha Participates in Nasdaq Global Industrials Forum, Highlighting the Critical Role of Data Centers in the AI Economy",
