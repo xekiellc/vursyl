@@ -1,19 +1,215 @@
 {
- "updated": "2026-06-24T09:40:09.477943+00:00",
+ "updated": "2026-06-24T14:41:33.736912+00:00",
  "items": [
   {
-   "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-   "url": "https://openai.com/index/gpt-5-immunology-mystery",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-23T17:00:00+00:00"
+   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+   "source": "Microsoft Research",
+   "category": "health",
+   "published": "2026-06-24T14:00:14+00:00"
   },
   {
-   "title": "Helping build shared standards for advanced AI",
-   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+   "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+   "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
    "source": "OpenAI",
+   "category": "compute",
+   "published": "2026-06-24T06:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+   "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-24T00:05:37+00:00"
+  },
+  {
+   "title": "Show HN: AI Agents the Unix Way \u2013 built with bash, curl, and jq",
+   "url": "https://github.com/cloudkj/llayer",
+   "source": "Github.com",
    "category": "ai",
-   "published": "2026-06-23T13:00:00+00:00"
+   "published": "2026-06-23T14:38:29+00:00"
+  },
+  {
+   "title": "Mistral OCR 4 launches with bounding boxes, block classification, and confidence scores in 170 languages",
+   "url": "https://cryptobriefing.com/mistral-ocr-4-launch/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-06-23T14:37:35+00:00"
+  },
+  {
+   "title": "Cognitive fallibility in LLMs: modeling human forgetting and reconstruction bias to enhance trust",
+   "url": "https://researchonline.lse.ac.uk/id/eprint/138966/",
+   "source": "Lse.ac.uk",
+   "category": "ai",
+   "published": "2026-06-23T14:32:01+00:00"
+  },
+  {
+   "title": "Artificial Intelligence in Healthcare Market worth $194.79 billion by 2031 | MarketsandMarkets\u2122",
+   "url": "https://www.prnewswire.com/news-releases/artificial-intelligence-in-healthcare-market-worth-194-79-billion-by-2031--marketsandmarkets-302807335.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-23T14:31:00+00:00"
+  },
+  {
+   "title": "BigLaw associates prepare for depositions with AI training tool DepoSim",
+   "url": "https://www.abajournal.com/news/article/biglaw-associates-prepare-for-depositions-with-ai-training-tool-deposim",
+   "source": "Abajournal.com",
+   "category": "ai",
+   "published": "2026-06-23T14:28:00+00:00"
+  },
+  {
+   "title": "Luminvera bets on immersive software for robotics",
+   "url": "https://thenextweb.com/news/luminvera-bets-on-immersive-software-for-robotics/",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-06-23T14:17:41+00:00"
+  },
+  {
+   "title": "Reader Submitted: An Assistive Communication Ecosystem Enabling Real-Time Deaf-Hearing Conversation",
+   "url": "https://www.core77.com/projects/144469/An-Assistive-Communication-Ecosystem-Enabling-Real-Time-Deaf-Hearing-Conversation",
+   "source": "Core77.com",
+   "category": "ai",
+   "published": "2026-06-23T14:15:00+00:00"
+  },
+  {
+   "title": "OpenAI Expands Daybreak to Help Defenders Patch Flaws",
+   "url": "https://www.infosecurity-magazine.com/news/openai-daybreak-gpt-5-5-cyber/",
+   "source": "Infosecurity Magazine",
+   "category": "ai",
+   "published": "2026-06-23T14:15:00+00:00"
+  },
+  {
+   "title": "Tecno's EllaClaw AI agent gains cross-app automation and system-level device optimization",
+   "url": "https://www.gsmarena.com/tecnos_ellaclaw_ai_agent_gains_crossapp_automation_and_systemlevel_device_optimization-news-73403.php",
+   "source": "GSMArena.com",
+   "category": "ai",
+   "published": "2026-06-23T14:13:02+00:00"
+  },
+  {
+   "title": "Meta Launches Its Own $299 Smart Glasses Ahead of Apple's Debut",
+   "url": "https://www.macrumors.com/2026/06/23/meta-launches-its-own-299-smart-glasses/",
+   "source": "MacRumors",
+   "category": "compute",
+   "published": "2026-06-23T14:11:50+00:00"
+  },
+  {
+   "title": "Ben Lamm and Colossal Biosciences: The billionaire tech founder behind the $10 billion plan to bring back extinct animals",
+   "url": "https://economictimes.indiatimes.com/news/new-updates/ben-lamm-and-colossal-biosciences-the-billionaire-tech-founder-behind-the-10-billion-plan-to-bring-back-extinct-animals/articleshow/131940776.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-06-23T14:10:43+00:00"
+  },
+  {
+   "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+   "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+   "source": "The Verge",
+   "category": "health",
+   "published": "2026-06-23T14:06:44+00:00"
+  },
+  {
+   "title": "Ladder Health Raises $7M to Fix Pediatric Therapy's Waitlist Crisis",
+   "url": "https://www.prnewswire.com/news-releases/ladder-health-raises-7m-to-fix-pediatric-therapys-waitlist-crisis-302807679.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-23T14:04:00+00:00"
+  },
+  {
+   "title": "Changes in AI Mammogram Risk Scores over Time Help Predict Future Breast Cancer",
+   "url": "https://www.prnewswire.com/news-releases/changes-in-ai-mammogram-risk-scores-over-time-help-predict-future-breast-cancer-302805049.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-23T14:00:00+00:00"
+  },
+  {
+   "title": "Nvidia unveils BioNeMo agent toolkit for AI-driven drug discovery and biology research",
+   "url": "https://cryptobriefing.com/nvidia-bionemo-agent-toolkit-ai-biology/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-06-23T13:57:44+00:00"
+  },
+  {
+   "title": "Diagnostic.ly Unveils New At-Home Diagnostics Capabilities to Automate Test & Treat and Treat & Prove Care",
+   "url": "https://www.prnewswire.com/news-releases/diagnosticly-unveils-new-at-home-diagnostics-capabilities-to-automate-test--treat-and-treat--prove-care-302807820.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-23T13:47:00+00:00"
+  },
+  {
+   "title": "Hypershell AI Exoskeletons made us feel superhuman \u2014 models are up to $800 off for Prime Day",
+   "url": "https://nypost.com/2026/06/23/shopping/hypershell-exoskeletons-shocked-us-now-800-off-for-prime-day/",
+   "source": "New York Post",
+   "category": "robotics",
+   "published": "2026-06-23T13:30:00+00:00"
+  },
+  {
+   "title": "Astral Systems raises \u00a323M to make cancer isotopes by fusion",
+   "url": "https://thenextweb.com/news/astral-systems-23m-fusion-cancer-isotopes/",
+   "source": "The Next Web",
+   "category": "health",
+   "published": "2026-06-23T13:29:44+00:00"
+  },
+  {
+   "title": "GROW THERAPY AND STANFORD UNIVERSITY LAUNCH RESEARCH PARTNERSHIP TO ESTABLISH CLINICAL SAFETY STANDARDS IN AI FOR MENTAL HEALTH",
+   "url": "https://www.prnewswire.com/news-releases/grow-therapy-and-stanford-university-launch-research-partnership-to-establish-clinical-safety-standards-in-ai-for-mental-health-302807808.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-23T13:18:00+00:00"
+  },
+  {
+   "title": "Wheeler Bio Launches New Website Reflecting Expansion of Capabilities, Clients Served, and a Commitment to High-Science, High-Touch Biologics Manufacturing",
+   "url": "https://www.prnewswire.com/news-releases/wheeler-bio-launches-new-website-reflecting-expansion-of-capabilities-clients-served-and-a-commitment-to-high-science-high-touch-biologics-manufacturing-302807400.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-23T13:11:00+00:00"
+  },
+  {
+   "title": "Sigmatic Sciences Powers AI Scientists with NVIDIA\u2019s Latest BioNeMo Agentic Capabilities",
+   "url": "https://www.globenewswire.com/news-release/2026/06/23/3316060/0/en/Sigmatic-Sciences-Powers-AI-Scientists-with-NVIDIA-s-Latest-BioNeMo-Agentic-Capabilities.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-23T13:10:00+00:00"
+  },
+  {
+   "title": "How Businesses Are Building Specialized AI They Can Trust",
+   "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-23T13:00:07+00:00"
+  },
+  {
+   "title": "AI Is Learning to Read the Room",
+   "url": "https://spectrum.ieee.org/emotion-ai-context",
+   "source": "Ieee.org",
+   "category": "ai",
+   "published": "2026-06-23T12:00:01+00:00"
+  },
+  {
+   "title": "Physical AI to drive private 5G market",
+   "url": "https://www.computerweekly.com/news/366645042/Physical-AI-to-drive-private-5G-market",
+   "source": "ComputerWeekly.com",
+   "category": "robotics",
+   "published": "2026-06-23T12:00:00+00:00"
+  },
+  {
+   "title": "Unconditional advantage of quantum teleportation over direct transmission of single photons through a lossy channel",
+   "url": "https://www.nature.com/articles/s41567-026-03348-7",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-06-23T00:00:00+00:00"
+  },
+  {
+   "title": "Tesla\u2019s Optimus Humanoid Robot Mass Production Nears As Taiwanese Suppliers Gear Up To Provide Components \u2013 Report",
+   "url": "https://wccftech.com/teslas-optimus-humanoid-robot-mass-production-nears-as-taiwanese-suppliers-gear-up-to-provide-components-report/",
+   "source": "Wccftech",
+   "category": "robotics",
+   "published": "2026-06-22T20:32:43+00:00"
+  },
+  {
+   "title": "\u2018Eye-watering price tags\u2019 on humanoid robots may soon be history\u2014here\u2019s why that matters",
+   "url": "https://techpinions.com/eye-watering-price-tags-on-humanoid-robots-may-soon-be-history-heres-why-that-matters/",
+   "source": "Techpinions.com",
+   "category": "robotics",
+   "published": "2026-06-22T20:03:28+00:00"
   },
   {
    "title": "gpt-simple-lm added to PyPI",
@@ -170,13 +366,6 @@
    "published": "2026-06-23T09:19:46+00:00"
   },
   {
-   "title": "Humanoid Livestream: Robot Makers Rushing To Show Machines On Real Production Lines",
-   "url": "https://www.forbes.com/sites/johnkoetsier/2026/06/23/humanoid-livestream-robot-makers-rushing-to-show-machines-on-real-production-lines/",
-   "source": "Forbes",
-   "category": "robotics",
-   "published": "2026-06-23T09:19:29+00:00"
-  },
-  {
    "title": "nvidia-nat-redis 1.9.0a20260623",
    "url": "https://pypi.org/project/nvidia-nat-redis/1.9.0a20260623/",
    "source": "Pypi.org",
@@ -212,46 +401,11 @@
    "published": "2026-06-23T09:05:22+00:00"
   },
   {
-   "title": "NVIDIA Powers Over 400 of the World\u2019s 500 Fastest Supercomputers",
-   "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-23T09:00:38+00:00"
-  },
-  {
-   "title": "Nvidia targets robot safety as humanoids edge toward factory floors",
-   "url": "https://www.digitimes.com/news/a20260623VL216/robot-nvidia-industrial-software-bloomberg.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-06-23T08:48:18+00:00"
-  },
-  {
-   "title": "NVIDIA announces Halos for safer AI-powered robots",
-   "url": "https://www.yugatech.com/news/nvidia-announces-halos-for-safer-ai-powered-robots/",
-   "source": "Yugatech.com",
-   "category": "robotics",
-   "published": "2026-06-23T08:23:36+00:00"
-  },
-  {
    "title": "UK backs new AI labs to make technology cheaper, more reliable and easier to use",
    "url": "https://www.gov.uk/government/news/uk-backs-new-ai-labs-to-make-technology-cheaper-more-reliable-and-easier-to-use",
    "source": "Www.gov.uk",
    "category": "ai",
    "published": "2026-06-23T08:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
-   "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
-   "source": "Nvidia.com",
-   "category": "ai",
-   "published": "2026-06-23T06:00:09+00:00"
-  },
-  {
-   "title": "Oversonic Robotics: STMicroelectronics, Fondazione ENEA Tech Biomedical and SpotInvest acquire a stake in the Company",
-   "url": "https://www.prnewswire.com/news-releases/oversonic-robotics-stmicroelectronics-fondazione-enea-tech-biomedical-and-spotinvest-acquire-a-stake-in-the-company-302806639.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-06-23T05:30:00+00:00"
   },
   {
    "title": "Press Release: Sanofi\u2019s Wayrilz approved in Japan to treat immune thrombocytopenia",
@@ -268,110 +422,11 @@
    "published": "2026-06-23T05:00:00+00:00"
   },
   {
-   "title": "New chip could help tiny robots traverse complex environments",
-   "url": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
-   "source": "MIT News AI",
-   "category": "robotics",
-   "published": "2026-06-23T04:00:00+00:00"
-  },
-  {
-   "title": "How Omio is building the future of conversational travel",
-   "url": "https://openai.com/index/omio",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-23T00:00:00+00:00"
-  },
-  {
-   "title": "Delivery robot startup Robot.com bets its next act on wheeled humanoids for kitchens and warehouses",
-   "url": "https://thenextweb.com/news/robot-com-kiwibot-r-noid-humanoid-workplace-physical-intelligence/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-06-22T20:05:56+00:00"
-  },
-  {
-   "title": "Quantum computing pushes toward fault tolerance as Alice & Bob unveils first commercial cat\u2011qubit system",
-   "url": "https://www.digitaljournal.com/article/quantum-computing-pushes-toward-fault-tolerance-as-alice-bob-unveils-first-commercial-cat-qubit-system/",
-   "source": "Digital Journal",
-   "category": "quantum",
-   "published": "2026-06-22T19:39:07+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Robot.com Launches R-noid, a Humanoid Built For the Work That Burns People Out. No Legs, All Lift to the Bottom Line.",
-   "url": "https://www.prnewswire.com/news-releases/robotcom-launches-r-noid-a-humanoid-built-for-the-work-that-burns-people-out-no-legs-all-lift-to-the-bottom-line-302806619.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-06-22T18:23:00+00:00"
-  },
-  {
-   "title": "NVIDIA Floods Europe With 35 Supercomputers Spanning 23 Countries, Stacking Up To 800 Exaflops Of AI Compute",
-   "url": "https://wccftech.com/nvidia-floods-europe-with-35-supercomputers-23-countries-800-exaflops-ai-compute/",
-   "source": "Wccftech",
-   "category": "compute",
-   "published": "2026-06-22T15:25:20+00:00"
-  },
-  {
-   "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
-   "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
-   "source": "Nvidia.com",
-   "category": "compute",
-   "published": "2026-06-22T13:00:48+00:00"
-  },
-  {
-   "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-22T13:00:38+00:00"
-  },
-  {
-   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-22T13:00:20+00:00"
-  },
-  {
-   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-22T13:00:20+00:00"
-  },
-  {
    "title": "Europe Unveils a Record 35 New NVIDIA AI Supercomputers",
    "url": "https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers",
    "source": "Nvidia.com",
    "category": "compute",
    "published": "2026-06-22T13:00:00+00:00"
-  },
-  {
-   "title": "Daybreak: Tools for securing every organization in the world",
-   "url": "https://openai.com/index/daybreak-securing-the-world",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-22T10:00:00+00:00"
-  },
-  {
-   "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-   "url": "https://openai.com/index/patch-the-planet",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-22T10:00:00+00:00"
-  },
-  {
-   "title": "Codex-maxxing for long-running work",
-   "url": "https://openai.com/index/codex-maxxing-long-running-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-22T00:00:00+00:00"
-  },
-  {
-   "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-   "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-21T23:00:00+00:00"
   },
   {
    "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
