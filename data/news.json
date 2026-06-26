@@ -1,12 +1,328 @@
 {
- "updated": "2026-06-26T09:36:42.844750+00:00",
+ "updated": "2026-06-26T14:35:17.808151+00:00",
  "items": [
   {
-   "title": "Understanding the brain with AI-driven explanations and experiments",
-   "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+   "title": "LLMs help robots understand vague instructions and focus on key details",
+   "url": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-26T13:00:00+00:00"
+  },
+  {
+   "title": "Additive manufacturing: transforming submarine maintenance and support",
+   "url": "https://www.gov.uk/government/news/additive-manufacturing-transforming-submarine-maintenance-and-support",
+   "source": "Www.gov.uk",
+   "category": "robotics",
+   "published": "2026-06-25T14:33:29+00:00"
+  },
+  {
+   "title": "ironclad-ai 0.0.19",
+   "url": "https://pypi.org/project/ironclad-ai/0.0.19/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-25T14:30:40+00:00"
+  },
+  {
+   "title": "ROC Awarded Facial Recognition System of the Year in AI Breakthrough Awards 2026",
+   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317716/0/en/ROC-Awarded-Facial-Recognition-System-of-the-Year-in-AI-Breakthrough-Awards-2026.html",
+   "source": "GlobeNewswire",
+   "category": "ai",
+   "published": "2026-06-25T14:30:00+00:00"
+  },
+  {
+   "title": "[Latest] Global AI Voice Agents in Healthcare Market Size/Share Worth USD 14.37 Billion by 2035 at a 18.3% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317720/0/en/Latest-Global-AI-Voice-Agents-in-Healthcare-Market-Size-Share-Worth-USD-14-37-Billion-by-2035-at-a-18-3-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-S.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-25T14:30:00+00:00"
+  },
+  {
+   "title": "Data Center Storage Market to Reach USD 142.58 Billion by 2032: What Technology Leaders Need to Know",
+   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317715/0/en/Data-Center-Storage-Market-to-Reach-USD-142-58-Billion-by-2032-What-Technology-Leaders-Need-to-Know.html",
+   "source": "GlobeNewswire",
+   "category": "compute",
+   "published": "2026-06-25T14:30:00+00:00"
+  },
+  {
+   "title": "Electronic Components Market Size to Grow $1,512.69 Billion by 2035 | SNS Insider",
+   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317718/0/en/Electronic-Components-Market-Size-to-Grow-1-512-69-Billion-by-2035-SNS-Insider.html",
+   "source": "GlobeNewswire",
+   "category": "compute",
+   "published": "2026-06-25T14:30:00+00:00"
+  },
+  {
+   "title": "BlackBerry Q1 FY2027 earnings beat, raises full-year outlook",
+   "url": "https://qz.com/blackberry-earnings-outlook-qnx-ai-growth-062526",
+   "source": "Quartz India",
+   "category": "compute",
+   "published": "2026-06-25T14:28:33+00:00"
+  },
+  {
+   "title": "llmstudio-core 1.1.5a5",
+   "url": "https://pypi.org/project/llmstudio-core/1.1.5a5/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-25T14:26:09+00:00"
+  },
+  {
+   "title": "vault-for-llm 0.7.5",
+   "url": "https://pypi.org/project/vault-for-llm/0.7.5/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-25T14:26:07+00:00"
+  },
+  {
+   "title": "Orange Pi 6 CIX CD8180 12-core Arm SBC gets 2.5GbE networking, smaller form factor, drops battery support",
+   "url": "https://www.cnx-software.com/2026/06/25/orange-pi-6-cix-cd8180-12-core-arm-sbc-gets-2-5gbe-networking-smaller-form-factor-drops-battery-support/",
+   "source": "CNX Software",
+   "category": "compute",
+   "published": "2026-06-25T14:25:15+00:00"
+  },
+  {
+   "title": "flexllm 0.12.0",
+   "url": "https://pypi.org/project/flexllm/0.12.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-25T14:23:35+00:00"
+  },
+  {
+   "title": "Repositioning retail for the AI era",
+   "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+   "source": "MIT Technology Review",
+   "category": "ai",
+   "published": "2026-06-25T14:22:59+00:00"
+  },
+  {
+   "title": "BlackBerry Shares Soar More Than 20 Percent as Cybersecurity Firm Gains Momentum",
+   "url": "https://www.ibtimes.com.au/blackberry-strategic-shift-cybersecurity-automotive-software-growth-1871323",
+   "source": "Ibtimes.com.au",
+   "category": "compute",
+   "published": "2026-06-25T14:21:13+00:00"
+  },
+  {
+   "title": "I rebuilt our content update pipeline in Claude Code. Here's why.",
+   "url": "https://www.semrush.com/blog/how-i-rebuilt-our-content-update-pipeline/",
+   "source": "Semrush.com",
+   "category": "ai",
+   "published": "2026-06-25T14:19:00+00:00"
+  },
+  {
+   "title": "Your AI Agent Keeps Missing The Real Bottleneck. JetBrains Rider Can Fix It Now.",
+   "url": "https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/",
+   "source": "Jetbrains.com",
+   "category": "ai",
+   "published": "2026-06-25T14:17:40+00:00"
+  },
+  {
+   "title": "Qualcomm Jumps 11%, Then Pulls Back Amid Meta Platforms Data Center Deal and Wave of Analyst Target Hikes",
+   "url": "https://biztoc.com/x/0c3b9a3625d8a7e6",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-06-25T14:15:23+00:00"
+  },
+  {
+   "title": "Xanadu Quantum Technologies Shares Rise as Company Advances Photonic Quantum Computing Research",
+   "url": "https://www.ibtimes.com.au/xanadu-quantum-technologies-photonic-computing-1871322",
+   "source": "Ibtimes.com.au",
+   "category": "quantum",
+   "published": "2026-06-25T14:15:00+00:00"
+  },
+  {
+   "title": "China\u2019s Lineshine \u2018came out of nowhere\u2019 to grab title of most powerful computer in the known universe",
+   "url": "https://www.techradar.com/pro/chinas-lineshine-came-out-of-nowhere-to-grab-title-of-most-powerful-computer-in-the-known-universe",
+   "source": "TechRadar",
+   "category": "compute",
+   "published": "2026-06-25T14:02:30+00:00"
+  },
+  {
+   "title": "Commure Named \u201cOverall NLP Company of the Year\u201d in 2026 AI Breakthrough Awards",
+   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317685/0/en/Commure-Named-Overall-NLP-Company-of-the-Year-in-2026-AI-Breakthrough-Awards.html",
+   "source": "GlobeNewswire",
+   "category": "ai",
+   "published": "2026-06-25T14:02:00+00:00"
+  },
+  {
+   "title": "Engineered bipaternal mice reveal the consequences of life without a maternal genomic contribution",
+   "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003871",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-06-25T14:00:00+00:00"
+  },
+  {
+   "title": "Artificial Intelligence in emergency department triage: A scoping review",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352338",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-06-25T14:00:00+00:00"
+  },
+  {
+   "title": "A new vision for quantum computing takes a big step forward, with new grant",
+   "url": "https://news.yale.edu/2026/06/25/new-vision-quantum-computing-takes-big-step-forward-new-grant",
+   "source": "Yale.edu",
+   "category": "quantum",
+   "published": "2026-06-25T13:50:11+00:00"
+  },
+  {
+   "title": "AI-Enabled Digital Mental Health Modalities for Mental Health Management and Mental Health Access across Mental Health Care Providers, General Public, and Clinical Populations: Scoping Review",
+   "url": "https://preprints.jmir.org/preprint/105389",
+   "source": "Jmir.org",
+   "category": "health",
+   "published": "2026-06-25T13:35:28+00:00"
+  },
+  {
+   "title": "Micron employees become 'millionaires overnight,' as Q3 results announced",
+   "url": "https://freerepublic.com/focus/f-news/4385367/posts",
+   "source": "Freerepublic.com",
+   "category": "compute",
+   "published": "2026-06-25T13:26:19+00:00"
+  },
+  {
+   "title": "Qblox Collaborates with HPE to Advance Hybrid Classical-Quantum Computing",
+   "url": "https://www.prnewswire.com/news-releases/qblox-collaborates-with-hpe-to-advance-hybrid-classical-quantum-computing-302810751.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-06-25T13:14:00+00:00"
+  },
+  {
+   "title": "Wisedocs Names Jenna Earnshaw CEO and Connor Atchison President Amid New Research, Product Expansion, and Enterprise Growth",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/wisedocs-names-jenna-earnshaw-ceo-and-connor-atchison-president-amid-new-research-product-expansion-and-enterprise-growth",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-06-25T13:06:23+00:00"
+  },
+  {
+   "title": "BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg",
+   "url": "https://www.press.bmwgroup.com/global/article/detail/T0458778EN/bmw-group-advances-the-use-of-physical-ai-in-production-with-figure-03-project-in-spartanburg?language=en",
+   "source": "Bmwgroup.com",
+   "category": "robotics",
+   "published": "2026-06-25T13:03:21+00:00"
+  },
+  {
+   "title": "Evaluate Recognized for Artificial Intelligence Innovation in 9th Annual AI Breakthrough Awards Program",
+   "url": "https://financialpost.com/globe-newswire/evaluate-recognized-for-artificial-intelligence-innovation-in-9th-annual-ai-breakthrough-awards-program",
+   "source": "Financial Post",
+   "category": "ai",
+   "published": "2026-06-25T13:03:07+00:00"
+  },
+  {
+   "title": "Infinitus Introduces Clinical Escalations, Bringing Real-Time Clinical Risk Detection to Healthcare AI Agent Conversations",
+   "url": "https://www.prnewswire.com/news-releases/infinitus-introduces-clinical-escalations-bringing-real-time-clinical-risk-detection-to-healthcare-ai-agent-conversations-302809819.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-25T13:03:00+00:00"
+  },
+  {
+   "title": "Amazon-Backed Agility Robotics Goes Public in Quest to Scale\u00a0Humanoids",
+   "url": "http://wwd.com/sourcing-journal/logistics/agility-robotics-goes-public-humanoid-robots-digit-spac-merger-amazon-1239030943/",
+   "source": "WWD",
+   "category": "robotics",
+   "published": "2026-06-25T13:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "MicroCloud Hologram Inc. Develops Approximate Quantum State Preparation and Entanglement-Dependent Complexity Algorithm Technology",
+   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317549/0/en/MicroCloud-Hologram-Inc-Develops-Approximate-Quantum-State-Preparation-and-Entanglement-Dependent-Complexity-Algorithm-Technology.html",
+   "source": "GlobeNewswire",
+   "category": "quantum",
+   "published": "2026-06-25T12:45:00+00:00"
+  },
+  {
+   "title": "Virtuix Reports Fiscal Year 2026 Results as Meta Launch, Defense Momentum and AI Initiatives Expand Growth Opportunities",
+   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317496/0/en/Virtuix-Reports-Fiscal-Year-2026-Results-as-Meta-Launch-Defense-Momentum-and-AI-Initiatives-Expand-Growth-Opportunities.html",
+   "source": "GlobeNewswire",
+   "category": "robotics",
+   "published": "2026-06-25T12:01:00+00:00"
+  },
+  {
+   "title": "Agility Robotics to merge with Churchill Capital Corp XI in $2.5bn deal",
+   "url": "https://biztoc.com/x/7af433e75f5dcbe6",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-06-25T11:00:02+00:00"
+  },
+  {
+   "title": "Chinese Humanoids Take On Penalty Challenge As Messi, Ronaldo Light Up FIFA World Cup",
+   "url": "https://biztoc.com/x/424f31957f17eaa3",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-06-25T10:42:09+00:00"
+  },
+  {
+   "title": "Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race",
+   "url": "https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html",
+   "source": "CNBC",
+   "category": "ai",
+   "published": "2026-06-25T00:09:37+00:00"
+  },
+  {
+   "title": "Micron CEO forecasts multi-decade memory demand cycle driven by humanoid robots",
+   "url": "https://cryptobriefing.com/micron-humanoid-robots-memory-demand-cycle/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-06-24T22:54:18+00:00"
+  },
+  {
+   "title": "Humanoid robot startup Agility Robotics is going public at a $2.5 billion valuation via a SPAC",
+   "url": "https://biztoc.com/x/8f9a57aa15e44b0b",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-06-24T21:17:59+00:00"
+  },
+  {
+   "title": "Forget Betting on One Quantum Stock. This Fund Owns the Entire Field for Just 0.40%",
+   "url": "https://247wallst.com/investing/2026/06/24/forget-betting-on-one-quantum-stock-this-fund-owns-the-entire-field-for-just-0-40/",
+   "source": "24/7 Wall St.",
+   "category": "quantum",
+   "published": "2026-06-24T16:22:08+00:00"
+  },
+  {
+   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
    "source": "Microsoft Research",
+   "category": "health",
+   "published": "2026-06-24T14:00:14+00:00"
+  },
+  {
+   "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+   "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+   "source": "OpenAI",
    "category": "breakthroughs",
-   "published": "2026-06-25T16:00:00+00:00"
+   "published": "2026-06-24T06:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+   "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-24T00:05:37+00:00"
+  },
+  {
+   "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+   "url": "https://openai.com/index/gpt-5-immunology-mystery",
+   "source": "OpenAI",
+   "category": "health",
+   "published": "2026-06-23T17:00:00+00:00"
+  },
+  {
+   "title": "How Businesses Are Building Specialized AI They Can Trust",
+   "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-23T13:00:07+00:00"
+  },
+  {
+   "title": "Helping build shared standards for advanced AI",
+   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-23T13:00:00+00:00"
+  },
+  {
+   "title": "How Omio is building the future of conversational travel",
+   "url": "https://openai.com/index/omio",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-23T00:00:00+00:00"
   },
   {
    "title": "At 13, he left school. At 14, he owns office in Burj Khalifa, Dubai: How teen built a thriving AI business, without taking an AI course",
@@ -65,40 +381,11 @@
    "published": "2026-06-25T08:57:48+00:00"
   },
   {
-   "title": "Agility Robotics targets Nasdaq debut as Abico eyes robot mass production",
-   "url": "https://www.digitimes.com/news/a20260625PD230/robot-nasdaq-production-2026-ability-enterprise.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-06-25T08:35:25+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "ZUOWEI Unveils Humanoid Care Robots to Address Global Aging Challenges",
-   "url": "https://www.prnewswire.com/news-releases/zuowei-unveils-humanoid-care-robots-to-address-global-aging-challenges-302810226.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-06-25T08:00:00+00:00"
-  },
-  {
    "title": "Domino Data Lab and Appsilon Partner to Speed AI to Production for Life Sciences",
    "url": "https://www.prnewswire.com/news-releases/domino-data-lab-and-appsilon-partner-to-speed-ai-to-production-for-life-sciences-302809553.html",
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-06-25T08:00:00+00:00"
-  },
-  {
-   "title": "quantum-genesis 1.0.0",
-   "url": "https://pypi.org/project/quantum-genesis/1.0.0/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-06-25T07:14:42+00:00"
-  },
-  {
-   "title": "quantum-genesis added to PyPI",
-   "url": "https://pypi.org/project/quantum-genesis/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-06-25T07:14:42+00:00"
   },
   {
    "title": "Elsevier Expands LeapSpace\u2122 with New Agentic Capabilities for Tasks Across the Complete Research Workflow",
@@ -120,13 +407,6 @@
    "source": "Syllad.com",
    "category": "health",
    "published": "2026-06-25T04:07:25+00:00"
-  },
-  {
-   "title": "Improving the speed and energy-efficiency of AI agents",
-   "url": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-06-25T04:00:00+00:00"
   },
   {
    "title": "How agents are transforming work",
@@ -155,34 +435,6 @@
    "source": "Biztoc.com",
    "category": "robotics",
    "published": "2026-06-24T17:13:30+00:00"
-  },
-  {
-   "title": "Introducing computer use in Gemini 3.5 Flash",
-   "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-06-24T16:30:01+00:00"
-  },
-  {
-   "title": "NVIDIA Powers Over 400 of the World\u2019s 500 Fastest Supercomputers",
-   "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-23T09:00:38+00:00"
-  },
-  {
-   "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
-   "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-23T06:00:09+00:00"
-  },
-  {
-   "title": "New chip could help tiny robots traverse complex environments",
-   "url": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
-   "source": "MIT News AI",
-   "category": "robotics",
-   "published": "2026-06-23T04:00:00+00:00"
   },
   {
    "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
@@ -295,13 +547,6 @@
    "source": "Nature.com",
    "category": "ai",
    "published": "2026-06-25T00:00:00+00:00"
-  },
-  {
-   "title": "Humanoid Robotics CEO: The First Pure-Play Robot Company Is About to Go Public",
-   "url": "https://biztoc.com/x/3518c0a7ae1f0b07",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-06-24T22:19:10+00:00"
   },
   {
    "title": "Fine-Tuning Large Language Models for Motivational Interviewing in Health Behavior Change: Development and Evaluation Study",
