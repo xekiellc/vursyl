@@ -1,12 +1,244 @@
 {
- "updated": "2026-06-26T14:35:17.808151+00:00",
+ "updated": "2026-06-26T19:57:39.763416+00:00",
  "items": [
   {
-   "title": "LLMs help robots understand vague instructions and focus on key details",
-   "url": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
+   "title": "Previewing GPT-5.6 Sol: a next-generation model",
+   "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-26T10:00:00+00:00"
+  },
+  {
+   "title": "University of Maryland Expands Landmark Research Program to Address Society's Most Pressing Challenges",
+   "url": "https://www.prnewswire.com/news-releases/university-of-maryland-expands-landmark-research-program-to-address-societys-most-pressing-challenges-302811205.html",
+   "source": "PRNewswire",
+   "category": "breakthroughs",
+   "published": "2026-06-25T19:55:00+00:00"
+  },
+  {
+   "title": "US invests $250M in I-Pulse for semiconductor and pulsed-power development under CHIPS Act",
+   "url": "https://cryptobriefing.com/us-invests-250m-ipulse-semiconductor-chips-act/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-06-25T19:52:29+00:00"
+  },
+  {
+   "title": "Linux Foundation Launches Akrites To Coordinate AI-Driven Open Source Security",
+   "url": "https://slashdot.org/submission/17348496/linux-foundation-launches-akrites-to-coordinate-ai-driven-open-source-security",
+   "source": "Slashdot.org",
+   "category": "ai",
+   "published": "2026-06-25T19:51:22+00:00"
+  },
+  {
+   "title": "Chinese open source AI models are closing the gap with US rivals, and the market implications are significant",
+   "url": "https://cryptobriefing.com/chinese-open-source-ai-models-us-capabilities/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-06-25T19:49:20+00:00"
+  },
+  {
+   "title": "IBM\u2019s 0.7nm Nanostack Packs Nearly 100 Billion Transistors, Pushes Logic Below 1nm",
+   "url": "https://www.storagereview.com/news/ibms-0-7nm-nanostack-packs-nearly-100-billion-transistors-pushes-logic-below-1nm",
+   "source": "Storagereview.com",
+   "category": "compute",
+   "published": "2026-06-25T19:47:51+00:00"
+  },
+  {
+   "title": "BlackBerry Dials Into Physical AI as Revenues Jump 26%",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/blackberry-dials-into-physical-ai-as-revenues-jump-26/",
+   "source": "pymnts.com",
+   "category": "compute",
+   "published": "2026-06-25T19:46:28+00:00"
+  },
+  {
+   "title": "ocrcontext added to PyPI",
+   "url": "https://pypi.org/project/ocrcontext/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-25T19:46:04+00:00"
+  },
+  {
+   "title": "Apple Reportedly Skipping M6 Mac Chips to Fast-Track M7",
+   "url": "https://www.iphoneincanada.ca/2026/06/25/apple-reportedly-skipping-m6-mac-chips-to-fast-track-m7/",
+   "source": "iPhone in Canada",
+   "category": "compute",
+   "published": "2026-06-25T19:43:01+00:00"
+  },
+  {
+   "title": "M6 MacBook Pro Expected This Year With Apple's First 2nm Chip",
+   "url": "https://www.macrumors.com/2026/06/25/m6-macbook-pro-2026/",
+   "source": "MacRumors",
+   "category": "compute",
+   "published": "2026-06-25T19:42:04+00:00"
+  },
+  {
+   "title": "GPUArmor: A Hardware-Software Co-design for Efficient and Scalable Memory Safety on GPUs",
+   "url": "https://research.nvidia.com/publication/2026-05_gpuarmor-hardware-software-co-design-efficient-and-scalable-memory-safety-gpus",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-06-25T19:40:54+00:00"
+  },
+  {
+   "title": "Show HN: OnBuzz \u2013 an open-source workspace for AI agent teams",
+   "url": "https://github.com/Loxia-ai/onbuzz-community",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-25T19:37:48+00:00"
+  },
+  {
+   "title": "Cosmos Health Advances International Patent Application for Its Proprietary Hydrogel Weight Management Platform Across the U.S., Europe, Australia, and Canada",
+   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317905/0/en/Cosmos-Health-Advances-International-Patent-Application-for-Its-Proprietary-Hydrogel-Weight-Management-Platform-Across-the-U-S-Europe-Australia-and-Canada.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-06-25T19:31:00+00:00"
+  },
+  {
+   "title": "OASIS: Object-Aware Page Management for Multi-GPU Systems",
+   "url": "https://research.nvidia.com/publication/2025-02_oasis-object-aware-page-management-multi-gpu-systems",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-06-25T19:28:28+00:00"
+  },
+  {
+   "title": "betterdb-agent-memory added to PyPI",
+   "url": "https://pypi.org/project/betterdb-agent-memory/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-25T19:24:39+00:00"
+  },
+  {
+   "title": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats",
+   "url": "https://www.prnewswire.com/news-releases/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats-302811165.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-06-25T19:24:00+00:00"
+  },
+  {
+   "title": "US gives India assurance on access to AI technologies",
+   "url": "https://economictimes.indiatimes.com/news/india/us-gives-india-assurance-on-access-to-ai-technologies/articleshow/132002678.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-06-25T19:23:18+00:00"
+  },
+  {
+   "title": "Adobe to Acquire Topaz Labs to Boost AI Video & Image Tools",
+   "url": "https://www.cmswire.com/digital-experience/adobe-to-acquire-topaz-labs-to-boost-ai-video-image-tools/",
+   "source": "CMSWire",
+   "category": "compute",
+   "published": "2026-06-25T19:21:21+00:00"
+  },
+  {
+   "title": "Green Agriculture Chain Section at the 4th CISCE: AI-Driven Innovation Across Global Agri-Food Supply Chains",
+   "url": "https://www.prnewswire.com/news-releases/green-agriculture-chain-section-at-the-4th-cisce-ai-driven-innovation-across-global-agri-food-supply-chains-302811148.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-06-25T19:10:00+00:00"
+  },
+  {
+   "title": "IBM Unveils Sub-1 Nanometer Chip Technology",
+   "url": "https://biztoc.com/x/f2d9c19ce0d180b6",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-06-25T19:03:31+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Pro Medicus just struck a revolutionary AI cardiology deal. Here's why that matters",
+   "url": "https://www.fool.com.au/2026/06/26/pro-medicus-just-struck-a-revolutionary-ai-cardiology-deal-heres-why-that-matters/",
+   "source": "Motley Fool Australia",
+   "category": "health",
+   "published": "2026-06-25T19:00:00+00:00"
+  },
+  {
+   "title": "Amid Amazon's Robot Surge, Proteus Charts a New Path Forward",
+   "url": "https://www.cnet.com/tech/amid-amazons-robot-surge-proteus-charts-a-new-path-forward/",
+   "source": "CNET",
+   "category": "robotics",
+   "published": "2026-06-25T18:45:22+00:00"
+  },
+  {
+   "title": "The Inevitable Electrification of Labor? \u2014 CleanTechnica Field Trip",
+   "url": "https://cleantechnica.com/2026/06/25/the-inevitable-electrification-of-labor-cleantechnica-field-trip/",
+   "source": "CleanTechnica",
+   "category": "robotics",
+   "published": "2026-06-25T18:39:54+00:00"
+  },
+  {
+   "title": "Bionic hands are now teaching robots to feel",
+   "url": "https://www.foxnews.com/tech/bionic-hands-teaching-robots-feel",
+   "source": "Fox News",
+   "category": "robotics",
+   "published": "2026-06-25T16:39:11+00:00"
+  },
+  {
+   "title": "Understanding the brain with AI-driven explanations and experiments",
+   "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-06-25T16:00:00+00:00"
+  },
+  {
+   "title": "Agility Robotics targets Nasdaq debut as Abico eyes robot mass production",
+   "url": "https://www.digitimes.com/news/a20260625PD230/robot-nasdaq-production-2026-ability-enterprise.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-06-25T08:35:25+00:00"
+  },
+  {
+   "title": "ZUOWEI Unveils Humanoid Care Robots to Address Global Aging Challenges",
+   "url": "https://www.prnewswire.com/news-releases/zuowei-unveils-humanoid-care-robots-to-address-global-aging-challenges-302810226.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-06-25T08:00:00+00:00"
+  },
+  {
+   "title": "quantum-genesis 1.0.0",
+   "url": "https://pypi.org/project/quantum-genesis/1.0.0/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-06-25T07:14:42+00:00"
+  },
+  {
+   "title": "quantum-genesis added to PyPI",
+   "url": "https://pypi.org/project/quantum-genesis/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-06-25T07:14:42+00:00"
+  },
+  {
+   "title": "Improving the speed and energy-efficiency of AI agents",
+   "url": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
    "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-06-26T13:00:00+00:00"
+   "published": "2026-06-25T04:00:00+00:00"
+  },
+  {
+   "title": "Introducing computer use in Gemini 3.5 Flash",
+   "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-06-24T16:30:01+00:00"
+  },
+  {
+   "title": "NVIDIA Powers Over 400 of the World\u2019s 500 Fastest Supercomputers",
+   "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-23T09:00:38+00:00"
+  },
+  {
+   "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+   "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-23T06:00:09+00:00"
+  },
+  {
+   "title": "New chip could help tiny robots traverse complex environments",
+   "url": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-06-23T04:00:00+00:00"
   },
   {
    "title": "Additive manufacturing: transforming submarine maintenance and support",
@@ -121,13 +353,6 @@
    "published": "2026-06-25T14:15:23+00:00"
   },
   {
-   "title": "Xanadu Quantum Technologies Shares Rise as Company Advances Photonic Quantum Computing Research",
-   "url": "https://www.ibtimes.com.au/xanadu-quantum-technologies-photonic-computing-1871322",
-   "source": "Ibtimes.com.au",
-   "category": "quantum",
-   "published": "2026-06-25T14:15:00+00:00"
-  },
-  {
    "title": "China\u2019s Lineshine \u2018came out of nowhere\u2019 to grab title of most powerful computer in the known universe",
    "url": "https://www.techradar.com/pro/chinas-lineshine-came-out-of-nowhere-to-grab-title-of-most-powerful-computer-in-the-known-universe",
    "source": "TechRadar",
@@ -156,13 +381,6 @@
    "published": "2026-06-25T14:00:00+00:00"
   },
   {
-   "title": "A new vision for quantum computing takes a big step forward, with new grant",
-   "url": "https://news.yale.edu/2026/06/25/new-vision-quantum-computing-takes-big-step-forward-new-grant",
-   "source": "Yale.edu",
-   "category": "quantum",
-   "published": "2026-06-25T13:50:11+00:00"
-  },
-  {
    "title": "AI-Enabled Digital Mental Health Modalities for Mental Health Management and Mental Health Access across Mental Health Care Providers, General Public, and Clinical Populations: Scoping Review",
    "url": "https://preprints.jmir.org/preprint/105389",
    "source": "Jmir.org",
@@ -177,25 +395,11 @@
    "published": "2026-06-25T13:26:19+00:00"
   },
   {
-   "title": "Qblox Collaborates with HPE to Advance Hybrid Classical-Quantum Computing",
-   "url": "https://www.prnewswire.com/news-releases/qblox-collaborates-with-hpe-to-advance-hybrid-classical-quantum-computing-302810751.html",
-   "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-06-25T13:14:00+00:00"
-  },
-  {
    "title": "Wisedocs Names Jenna Earnshaw CEO and Connor Atchison President Amid New Research, Product Expansion, and Enterprise Growth",
    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/wisedocs-names-jenna-earnshaw-ceo-and-connor-atchison-president-amid-new-research-product-expansion-and-enterprise-growth",
    "source": "Financial Post",
    "category": "health",
    "published": "2026-06-25T13:06:23+00:00"
-  },
-  {
-   "title": "BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg",
-   "url": "https://www.press.bmwgroup.com/global/article/detail/T0458778EN/bmw-group-advances-the-use-of-physical-ai-in-production-with-figure-03-project-in-spartanburg?language=en",
-   "source": "Bmwgroup.com",
-   "category": "robotics",
-   "published": "2026-06-25T13:03:21+00:00"
   },
   {
    "title": "Evaluate Recognized for Artificial Intelligence Innovation in 9th Annual AI Breakthrough Awards Program",
@@ -210,49 +414,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-06-25T13:03:00+00:00"
-  },
-  {
-   "title": "Amazon-Backed Agility Robotics Goes Public in Quest to Scale\u00a0Humanoids",
-   "url": "http://wwd.com/sourcing-journal/logistics/agility-robotics-goes-public-humanoid-robots-digit-spac-merger-amazon-1239030943/",
-   "source": "WWD",
-   "category": "robotics",
-   "published": "2026-06-25T13:00:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "MicroCloud Hologram Inc. Develops Approximate Quantum State Preparation and Entanglement-Dependent Complexity Algorithm Technology",
-   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317549/0/en/MicroCloud-Hologram-Inc-Develops-Approximate-Quantum-State-Preparation-and-Entanglement-Dependent-Complexity-Algorithm-Technology.html",
-   "source": "GlobeNewswire",
-   "category": "quantum",
-   "published": "2026-06-25T12:45:00+00:00"
-  },
-  {
-   "title": "Virtuix Reports Fiscal Year 2026 Results as Meta Launch, Defense Momentum and AI Initiatives Expand Growth Opportunities",
-   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317496/0/en/Virtuix-Reports-Fiscal-Year-2026-Results-as-Meta-Launch-Defense-Momentum-and-AI-Initiatives-Expand-Growth-Opportunities.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-06-25T12:01:00+00:00"
-  },
-  {
-   "title": "Agility Robotics to merge with Churchill Capital Corp XI in $2.5bn deal",
-   "url": "https://biztoc.com/x/7af433e75f5dcbe6",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-06-25T11:00:02+00:00"
-  },
-  {
-   "title": "Chinese Humanoids Take On Penalty Challenge As Messi, Ronaldo Light Up FIFA World Cup",
-   "url": "https://biztoc.com/x/424f31957f17eaa3",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-06-25T10:42:09+00:00"
-  },
-  {
-   "title": "Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race",
-   "url": "https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html",
-   "source": "CNBC",
-   "category": "ai",
-   "published": "2026-06-25T00:09:37+00:00"
   },
   {
    "title": "Micron CEO forecasts multi-decade memory demand cycle driven by humanoid robots",
@@ -274,55 +435,6 @@
    "source": "24/7 Wall St.",
    "category": "quantum",
    "published": "2026-06-24T16:22:08+00:00"
-  },
-  {
-   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
-   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
-   "source": "Microsoft Research",
-   "category": "health",
-   "published": "2026-06-24T14:00:14+00:00"
-  },
-  {
-   "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-   "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-   "source": "OpenAI",
-   "category": "breakthroughs",
-   "published": "2026-06-24T06:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-   "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-24T00:05:37+00:00"
-  },
-  {
-   "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-   "url": "https://openai.com/index/gpt-5-immunology-mystery",
-   "source": "OpenAI",
-   "category": "health",
-   "published": "2026-06-23T17:00:00+00:00"
-  },
-  {
-   "title": "How Businesses Are Building Specialized AI They Can Trust",
-   "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-23T13:00:07+00:00"
-  },
-  {
-   "title": "Helping build shared standards for advanced AI",
-   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-23T13:00:00+00:00"
-  },
-  {
-   "title": "How Omio is building the future of conversational travel",
-   "url": "https://openai.com/index/omio",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-23T00:00:00+00:00"
   },
   {
    "title": "At 13, he left school. At 14, he owns office in Burj Khalifa, Dubai: How teen built a thriving AI business, without taking an AI course",
@@ -407,13 +519,6 @@
    "source": "Syllad.com",
    "category": "health",
    "published": "2026-06-25T04:07:25+00:00"
-  },
-  {
-   "title": "How agents are transforming work",
-   "url": "https://openai.com/index/how-agents-are-transforming-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-25T02:00:00+00:00"
   },
   {
    "title": "Agility Robotics heads to Wall Street in a $2.5B bet on staffing warehouses with humanoids",
