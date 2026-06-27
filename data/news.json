@@ -1,19 +1,104 @@
 {
- "updated": "2026-06-27T03:54:21.043525+00:00",
+ "updated": "2026-06-27T08:43:13.848592+00:00",
  "items": [
   {
-   "title": "LLMs help robots understand vague instructions and focus on key details",
-   "url": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
-   "source": "MIT News AI",
-   "category": "robotics",
-   "published": "2026-06-26T13:00:00+00:00"
+   "title": "Microsoft integrates Entra and Purview to secure AI agents and data",
+   "url": "https://4sysops.com/archives/microsoft-integrates-entra-and-purview-to-secure-ai-agents-and-data/",
+   "source": "4sysops.com",
+   "category": "ai",
+   "published": "2026-06-26T08:39:33+00:00"
   },
   {
-   "title": "Academia Sinica readies Taiwan-made quantum chip for engineering push",
-   "url": "https://www.digitimes.com/news/a20260625PD236/academia-sinica-chips-taiwan-equipment-quantum.html",
-   "source": "Digitimes",
-   "category": "quantum",
-   "published": "2026-06-26T03:53:00+00:00"
+   "title": "Onsemi announces $7bn all-stock agreement to buy Synaptics",
+   "url": "https://biztoc.com/x/bf4738082a564bf0",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-06-26T08:39:28+00:00"
+  },
+  {
+   "title": "Greece to send astronaut to the international space station \u2013 Mitsotakis meets with instructor",
+   "url": "https://en.protothema.gr/2026/06/26/greece-to-send-astronaut-to-the-international-space-station-mitsotakis-meets-with-instructor/",
+   "source": "Protothema.gr",
+   "category": "robotics",
+   "published": "2026-06-26T08:25:41+00:00"
+  },
+  {
+   "title": "Unveil \u201cJalape\u00f1o\u201d AI Accelerator for Enhanced LLM Inference",
+   "url": "https://biztoc.com/x/7b247f29fef4c262",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-06-26T08:24:40+00:00"
+  },
+  {
+   "title": "Airwallex hits $11 billion valuation with $320 million raise as fintech pushes into finance run by AI agents",
+   "url": "https://biztoc.com/x/e60e30e4d7a7a18e",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-06-26T08:23:06+00:00"
+  },
+  {
+   "title": "Lilly launches \"The Memory Radio Station\" across Europe, inviting the public to visually reconstruct fading memories through GenAI",
+   "url": "https://www.prnewswire.com/news-releases/lilly-launches-the-memory-radio-station-across-europe-inviting-the-public-to-visually-reconstruct-fading-memories-through-genai-302811677.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-26T08:23:00+00:00"
+  },
+  {
+   "title": "Strategy Of Employing AI Mental Health Chatbots As School Psych Counselors For Teens",
+   "url": "https://www.forbes.com/sites/lanceeliot/2026/06/26/strategy-of-employing-ai-mental-health-chatbots-as-school-psych-counselors-for-teens/",
+   "source": "Forbes",
+   "category": "health",
+   "published": "2026-06-26T07:15:00+00:00"
+  },
+  {
+   "title": "World's first hotel entirely staffed by robots to open in 2027",
+   "url": "https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/",
+   "source": "New Atlas",
+   "category": "robotics",
+   "published": "2026-06-26T07:03:00+00:00"
+  },
+  {
+   "title": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+   "url": "https://github.com/calesthio/OpenMontage",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-26T05:47:01+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Amid Amazon's Robot Surge, Proteus Charts a New Path Forward",
+   "url": "https://www.cnet.com/tech/amid-amazons-robot-surge-proteus-charts-a-new-path-forward/",
+   "source": "CNET",
+   "category": "robotics",
+   "published": "2026-06-25T18:45:22+00:00"
+  },
+  {
+   "title": "Understanding the brain with AI-driven explanations and experiments",
+   "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+   "source": "Microsoft Research",
+   "category": "breakthroughs",
+   "published": "2026-06-25T16:00:00+00:00"
+  },
+  {
+   "title": "Improving the speed and energy-efficiency of AI agents",
+   "url": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-25T04:00:00+00:00"
+  },
+  {
+   "title": "Introducing computer use in Gemini 3.5 Flash",
+   "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-06-24T16:30:01+00:00"
+  },
+  {
+   "title": "NVIDIA Powers Over 400 of the World\u2019s 500 Fastest Supercomputers",
+   "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-06-23T09:00:38+00:00"
   },
   {
    "title": "imbalanced-losses 0.4.2",
@@ -121,13 +206,6 @@
    "published": "2026-06-26T02:46:48+00:00"
   },
   {
-   "title": "Forget the score, MWC Shanghai\u2019s humanoid robot penalty shootout put embodied AI to the test",
-   "url": "http://technode.com/2026/06/26/forget-the-score-mwc-shanghais-humanoid-robot-penalty-shootout-put-embodied-ai-to-the-test/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-06-26T02:44:05+00:00"
-  },
-  {
    "title": "Two Decades of Precision: Lingyi iTech Marks 20th Anniversary with Landmark Hong Kong Listing (1688.HK) to Anchor Its Global AI Leadership",
    "url": "https://www.prnewswire.com/news-releases/two-decades-of-precision-lingyi-itech-marks-20th-anniversary-with-landmark-hong-kong-listing-1688hk-to-anchor-its-global-ai-leadership-302811110.html",
    "source": "PRNewswire",
@@ -142,13 +220,6 @@
    "published": "2026-06-26T00:58:18+00:00"
   },
   {
-   "title": "Coherent control of interacting solid-state spins below the diffraction limit",
-   "url": "https://www.nature.com/articles/s41567-026-03319-y",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-06-26T00:00:00+00:00"
-  },
-  {
    "title": "Near-perfect genome sequencing in medical genetics",
    "url": "https://www.nature.com/articles/s41588-026-02645-4",
    "source": "Nature.com",
@@ -156,39 +227,11 @@
    "published": "2026-06-26T00:00:00+00:00"
   },
   {
-   "title": "Red Hat OpenShift delivers high-performance LLM inference for financial services",
-   "url": "https://www.redhat.com/en/blog/red-hat-openshift-delivers-high-performance-llm-inference-financial-services",
-   "source": "Redhat.com",
-   "category": "ai",
-   "published": "2026-06-26T00:00:00+00:00"
-  },
-  {
-   "title": "Generative AI-enabled clinical decision support system in primary care: a pragmatic, cluster-randomized trial",
-   "url": "https://www.nature.com/articles/s41591-026-04503-6",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-06-26T00:00:00+00:00"
-  },
-  {
-   "title": "GlobalFoundries expands Singapore role as it targets physical AI hardware wave",
-   "url": "https://www.digitimes.com/news/a20260625VL205/globalfoundries-data-technology-investment-manufacturing.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-06-25T23:51:21+00:00"
-  },
-  {
    "title": "Spectroscopic discrimination of bacterial species of variable pathogenicity through explainable machine learning",
    "url": "https://pubs.rsc.org/en/content/articlelanding/2026/nr/d6nr00689b",
    "source": "Royal Society of Chemistry",
    "category": "ai",
    "published": "2026-06-25T23:00:00+00:00"
-  },
-  {
-   "title": "Onsemi to buy Synaptics in $7 billion all-stock deal",
-   "url": "https://finance.yahoo.com/technology/ai/articles/onsemi-buy-synaptics-7-billion-202231775.html",
-   "source": "Yahoo Entertainment",
-   "category": "compute",
-   "published": "2026-06-25T20:22:31+00:00"
   },
   {
    "title": "Domyn plans to launch open-source frontier AI model within a year",
@@ -210,91 +253,6 @@
    "source": "Singularity Hub",
    "category": "ai",
    "published": "2026-06-25T16:02:56+00:00"
-  },
-  {
-   "title": "Xanadu Quantum Technologies Shares Rise as Company Advances Photonic Quantum Computing Research",
-   "url": "https://www.ibtimes.com.au/xanadu-quantum-technologies-photonic-computing-1871322",
-   "source": "Ibtimes.com.au",
-   "category": "quantum",
-   "published": "2026-06-25T14:15:00+00:00"
-  },
-  {
-   "title": "A new vision for quantum computing takes a big step forward, with new grant",
-   "url": "https://news.yale.edu/2026/06/25/new-vision-quantum-computing-takes-big-step-forward-new-grant",
-   "source": "Yale.edu",
-   "category": "quantum",
-   "published": "2026-06-25T13:50:11+00:00"
-  },
-  {
-   "title": "Qblox Collaborates with HPE to Advance Hybrid Classical-Quantum Computing",
-   "url": "https://www.prnewswire.com/news-releases/qblox-collaborates-with-hpe-to-advance-hybrid-classical-quantum-computing-302810751.html",
-   "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-06-25T13:14:00+00:00"
-  },
-  {
-   "title": "MicroCloud Hologram Inc. Develops Approximate Quantum State Preparation and Entanglement-Dependent Complexity Algorithm Technology",
-   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317549/0/en/MicroCloud-Hologram-Inc-Develops-Approximate-Quantum-State-Preparation-and-Entanglement-Dependent-Complexity-Algorithm-Technology.html",
-   "source": "GlobeNewswire",
-   "category": "quantum",
-   "published": "2026-06-25T12:45:00+00:00"
-  },
-  {
-   "title": "How agents are transforming work",
-   "url": "https://openai.com/index/how-agents-are-transforming-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-25T02:00:00+00:00"
-  },
-  {
-   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
-   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
-   "source": "Microsoft Research",
-   "category": "health",
-   "published": "2026-06-24T14:00:14+00:00"
-  },
-  {
-   "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-   "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-   "source": "OpenAI",
-   "category": "compute",
-   "published": "2026-06-24T06:00:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-   "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-24T00:05:37+00:00"
-  },
-  {
-   "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-   "url": "https://openai.com/index/gpt-5-immunology-mystery",
-   "source": "OpenAI",
-   "category": "health",
-   "published": "2026-06-23T17:00:00+00:00"
-  },
-  {
-   "title": "How Businesses Are Building Specialized AI They Can Trust",
-   "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-23T13:00:07+00:00"
-  },
-  {
-   "title": "Helping build shared standards for advanced AI",
-   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-23T13:00:00+00:00"
-  },
-  {
-   "title": "Previewing GPT-5.6 Sol: a next-generation model",
-   "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-26T10:00:00+00:00"
   },
   {
    "title": "University of Maryland Expands Landmark Research Program to Address Society's Most Pressing Challenges",
