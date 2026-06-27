@@ -1,6 +1,112 @@
 {
- "updated": "2026-06-27T13:53:36.269970+00:00",
+ "updated": "2026-06-27T19:28:19.497491+00:00",
  "items": [
+  {
+   "title": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
+   "url": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
+   "source": "Decrypt",
+   "category": "ai",
+   "published": "2026-06-26T19:23:37+00:00"
+  },
+  {
+   "title": "Show HN: Mantis, A self-hosted LLM gateway",
+   "url": "https://github.com/mantis-llm-gateway",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-26T19:15:04+00:00"
+  },
+  {
+   "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
+   "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-06-26T19:00:57+00:00"
+  },
+  {
+   "title": "Meet Mahi Malhani: Class 12 Delhi Student builds TRASHbot, an AI waste-sorting robot with 90% accuracy that\u2019s already being used in societies",
+   "url": "https://economictimes.indiatimes.com/news/new-updates/meet-mahi-malhani-class-12-delhi-student-builds-trashbot-an-ai-waste-sorting-robot-with-90-accuracy-thats-already-being-used-in-societies/articleshow/132023829.cms",
+   "source": "The Times of India",
+   "category": "robotics",
+   "published": "2026-06-26T18:58:55+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "KKR Agrees to Buy EDF Power Assets as AI Boom Fuels Demand",
+   "url": "https://financialpost.com/pmn/business-pmn/kkr-agrees-to-buy-edf-power-assets-as-ai-boom-fuels-demand",
+   "source": "Financial Post",
+   "category": "compute",
+   "published": "2026-06-26T18:57:48+00:00"
+  },
+  {
+   "title": "Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100",
+   "url": "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/",
+   "source": "Apache.org",
+   "category": "compute",
+   "published": "2026-06-26T18:25:15+00:00"
+  },
+  {
+   "title": "University of Phoenix Launches Three New Artificial Intelligence Professional Development Pathways",
+   "url": "https://www.prnewswire.com/news-releases/university-of-phoenix-launches-three-new-artificial-intelligence-professional-development-pathways-302812118.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-06-26T16:39:00+00:00"
+  },
+  {
+   "title": "RADIN Health Expands National Footprint with Four Additional Hospitals Deployed at UHS Nevada Health System",
+   "url": "https://apnews.com/press-release/pr-newswire/press-release-e1031ccad676c367b6c1c367fd7a5f68",
+   "source": "Associated Press",
+   "category": "health",
+   "published": "2026-06-26T15:47:05+00:00"
+  },
+  {
+   "title": "Supermicro Adds NVIDIA Vera Rubin NVL4 DCBBS Blueprint for Converged HPC and AI",
+   "url": "https://www.storagereview.com/news/supermicro-adds-nvidia-vera-rubin-nvl4-dcbbs-blueprint-for-converged-hpc-and-ai",
+   "source": "Storagereview.com",
+   "category": "compute",
+   "published": "2026-06-26T15:42:54+00:00"
+  },
+  {
+   "title": "Moderna Stock Jumps More Than 11% After Science Day Showcases Expanding mRNA Pipeline Beyond Vaccines",
+   "url": "https://www.ibtimes.com.au/moderna-stock-surges-science-day-mrna-pipeline-1871391",
+   "source": "Ibtimes.com.au",
+   "category": "health",
+   "published": "2026-06-26T14:36:32+00:00"
+  },
+  {
+   "title": "World's first hotel entirely staffed by robots to open in 2027",
+   "url": "https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/",
+   "source": "New Atlas",
+   "category": "robotics",
+   "published": "2026-06-26T07:03:00+00:00"
+  },
+  {
+   "title": "amazon-braket-qdmi added to PyPI",
+   "url": "https://pypi.org/project/amazon-braket-qdmi/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-06-26T06:49:17+00:00"
+  },
+  {
+   "title": "Understanding the brain with AI-driven explanations and experiments",
+   "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-06-25T16:00:00+00:00"
+  },
+  {
+   "title": "Improving the speed and energy-efficiency of AI agents",
+   "url": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-25T04:00:00+00:00"
+  },
+  {
+   "title": "Introducing computer use in Gemini 3.5 Flash",
+   "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-06-24T16:30:01+00:00"
+  },
   {
    "title": "Apple will skip its high-end M6 Mac chips and fast-track an AI-focused M7 generation for 2027, report claims \u2014 may release a base M6 chip for entry-level Macs this year",
    "url": "https://www.tomshardware.com/tech-industry/apple-will-skip-its-high-end-m6-mac-chips-and-fast-track-an-ai-focused-m7-generation-for-2027",
@@ -72,13 +178,6 @@
    "published": "2026-06-26T13:25:48+00:00"
   },
   {
-   "title": "LLMs help robots understand vague instructions and focus on key details",
-   "url": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
-   "source": "MIT News AI",
-   "category": "robotics",
-   "published": "2026-06-26T13:00:00+00:00"
-  },
-  {
    "title": "Hanyang University Researchers Develop AI-designed Shape-Shifting Microneedles for Diabetic Wound Healing",
    "url": "https://www.prnewswire.com/news-releases/hanyang-university-researchers-develop-ai-designed-shape-shifting-microneedles-for-diabetic-wound-healing-302810914.html",
    "source": "PRNewswire",
@@ -114,61 +213,11 @@
    "published": "2026-06-26T12:09:35+00:00"
   },
   {
-   "title": "BMW\u2019s New Robot Is Sorting Car Parts in South Carolina",
-   "url": "https://www.bmwblog.com/2026/06/26/bmw-figure-03-humanoid-robot-spartanburg-plant/",
-   "source": "BMWBLOG",
-   "category": "robotics",
-   "published": "2026-06-26T11:16:34+00:00"
-  },
-  {
-   "title": "Robotics startup FieldAI has hit a $100 million milestone",
-   "url": "https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6#article",
-   "source": "Business Insider",
-   "category": "robotics",
-   "published": "2026-06-26T10:00:01+00:00"
-  },
-  {
    "title": "Previewing GPT-5.6 Sol: a next-generation model",
    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-06-26T10:00:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Can video games help us better understand quantum mechanics?",
-   "url": "https://www.newscientist.com/article/2532015-can-video-games-help-us-better-understand-quantum-mechanics/",
-   "source": "New Scientist",
-   "category": "quantum",
-   "published": "2026-06-26T09:00:02+00:00"
-  },
-  {
-   "title": "Agility Robotics IPO strengthens Foxconn's long-term robotics ambitions",
-   "url": "https://www.digitimes.com/news/a20260626PD211/robotics-foxconn-ipo-manufacturing-investment.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-06-26T06:51:16+00:00"
-  },
-  {
-   "title": "Academia Sinica readies Taiwan-made quantum chip for engineering push",
-   "url": "https://www.digitimes.com/news/a20260625PD236/academia-sinica-chips-taiwan-equipment-quantum.html",
-   "source": "Digitimes",
-   "category": "quantum",
-   "published": "2026-06-26T03:53:00+00:00"
-  },
-  {
-   "title": "Forget the score, MWC Shanghai\u2019s humanoid robot penalty shootout put embodied AI to the test",
-   "url": "http://technode.com/2026/06/26/forget-the-score-mwc-shanghais-humanoid-robot-penalty-shootout-put-embodied-ai-to-the-test/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-06-26T02:44:05+00:00"
-  },
-  {
-   "title": "Coherent control of interacting solid-state spins below the diffraction limit",
-   "url": "https://www.nature.com/articles/s41567-026-03319-y",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-06-26T00:00:00+00:00"
+   "published": "2026-06-26T10:00:00+00:00"
   },
   {
    "title": "GlobalFoundries expands Singapore role as it targets physical AI hardware wave",
@@ -183,34 +232,6 @@
    "source": "Ibtimes.com.au",
    "category": "quantum",
    "published": "2026-06-25T14:15:00+00:00"
-  },
-  {
-   "title": "How agents are transforming work",
-   "url": "https://openai.com/index/how-agents-are-transforming-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-25T02:00:00+00:00"
-  },
-  {
-   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
-   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
-   "source": "Microsoft Research",
-   "category": "health",
-   "published": "2026-06-24T14:00:14+00:00"
-  },
-  {
-   "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-   "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-   "source": "OpenAI",
-   "category": "breakthroughs",
-   "published": "2026-06-24T06:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-   "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-24T00:05:37+00:00"
   },
   {
    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
