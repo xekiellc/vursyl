@@ -1,6 +1,119 @@
 {
- "updated": "2026-06-28T19:28:43.350656+00:00",
+ "updated": "2026-06-29T04:23:10.872289+00:00",
  "items": [
+  {
+   "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+   "url": "https://openai.com/index/hp-frontier-partnership",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-28T17:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Private sector key to India-US AI tie-up: K Nagaraj Naidu, Addl Secy, MEA",
+   "url": "https://www.thehindubusinessline.com/news/private-sector-key-to-india-us-ai-tie-up-k-nagaraj-naidu-addl-secy-mea/article71157020.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-06-28T04:21:14+00:00"
+  },
+  {
+   "title": "Australia boosts shark-spotting drone coverage at beaches",
+   "url": "https://www.rte.ie/news/world/2026/0628/1580715-australia-shark-world/",
+   "source": "RTE",
+   "category": "robotics",
+   "published": "2026-06-28T03:38:48+00:00"
+  },
+  {
+   "title": "agentops-sdk 0.1.3",
+   "url": "https://pypi.org/project/agentops-sdk/0.1.3/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-28T03:29:52+00:00"
+  },
+  {
+   "title": "litellm 1.91.0rc1",
+   "url": "https://pypi.org/project/litellm/1.91.0rc1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-28T03:26:31+00:00"
+  },
+  {
+   "title": "Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry",
+   "url": "https://biztoc.com/x/cc3e38d952e5e92f",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-06-28T03:21:10+00:00"
+  },
+  {
+   "title": "Maintaining a mature Open Source project: dealing with the upgrade treadmill with the help of a LLM",
+   "url": "https://arbee.design/en-gb/blog/maintaining-a-mature-open-source-project-with-the/",
+   "source": "Arbee.design",
+   "category": "ai",
+   "published": "2026-06-28T03:00:00+00:00"
+  },
+  {
+   "title": "LG Chem weighs CCL expansion as AI chip demand strains supply",
+   "url": "https://www.digitimes.com/news/a20260625VL221/lg-chem-ccl-expansion-demand-ai-chip.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-06-28T02:52:37+00:00"
+  },
+  {
+   "title": "Bridging Labs and Markets: How the New Indo-Swiss Partnership is Reshaping Global Health Technology - Prevention is better than cure",
+   "url": "https://healthandfamily.in/bridging-labs-and-markets-how-the-new-indo-swiss-partnership-is-reshaping-global-health-technology/",
+   "source": "Healthandfamily.in",
+   "category": "health",
+   "published": "2026-06-28T02:52:31+00:00"
+  },
+  {
+   "title": "Sunrise builds integrated energy platform as AI data center demand rises",
+   "url": "https://www.digitimes.com/news/a20260624PD216/data-center-efficiency-electricity-green-energy.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-06-28T02:51:08+00:00"
+  },
+  {
+   "title": "Intel's AI Bet Is Finally Paying Off -- Is It Time to Reconsider This Stock?",
+   "url": "https://biztoc.com/x/2865e4ac1f911862",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-06-28T01:50:21+00:00"
+  },
+  {
+   "title": "Commentary: Dr ChatGPT is getting remarkably good at diagnosing health problems",
+   "url": "https://www.channelnewsasia.com/commentary/chatgpt-doctor-diagnose-health-problems-6212751",
+   "source": "CNA",
+   "category": "health",
+   "published": "2026-06-27T22:00:00+00:00"
+  },
+  {
+   "title": "Show HN: Autonomous CAD design and OpenFOAM optimization loop using local LLMs",
+   "url": "https://github.com/ostenjap/LLM-Agent-generated-Quadcopter-Prop",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-27T21:28:55+00:00"
+  },
+  {
+   "title": "Forget AGI. The prize is enterprise AGI",
+   "url": "https://siliconangle.com/2026/06/27/forget-agi-prize-enterprise-agi/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-06-27T20:25:57+00:00"
+  },
+  {
+   "title": "LLMs help robots understand vague instructions and focus on key details",
+   "url": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-06-26T13:00:00+00:00"
+  },
+  {
+   "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America\u2019s success",
+   "url": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-25T16:00:00+00:00"
+  },
   {
    "title": "pyvectorhound added to PyPI",
    "url": "https://pypi.org/project/pyvectorhound/",
@@ -16,25 +129,11 @@
    "published": "2026-06-27T19:27:29+00:00"
   },
   {
-   "title": "BHU meet focuses on skull base surgery, AI in ENT",
-   "url": "https://timesofindia.indiatimes.com/city/varanasi/bhu-meet-focuses-on-skull-base-surgery-ai-in-ent/articleshow/132041837.cms",
-   "source": "The Times of India",
-   "category": "health",
-   "published": "2026-06-27T19:26:47+00:00"
-  },
-  {
    "title": "ONEXPLAYER X2 handheld gaming PC combines Intel Arc G3 Extreme with an 11 inch screen and detachable controllers",
    "url": "https://liliputing.com/onexplayer-x2-handheld-gaming-pc-combines-intel-arc-g3-extreme-with-an-11-inch-screen-and-detachable-controllers/",
    "source": "Liliputing",
    "category": "compute",
    "published": "2026-06-27T19:25:17+00:00"
-  },
-  {
-   "title": "Eli Lilly (LLY) and BioArctic AB Enter into Research and Collaboration Agreement",
-   "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-bioarctic-ab-192132946.html",
-   "source": "Yahoo Entertainment",
-   "category": "health",
-   "published": "2026-06-27T19:21:32+00:00"
   },
   {
    "title": "statguardian added to PyPI",
@@ -156,20 +255,6 @@
    "published": "2026-06-27T17:12:52+00:00"
   },
   {
-   "title": "TherapyGo Announces Milestone as AI-Powered Mental Health Platform Expands Access to Licensed Psychologists",
-   "url": "https://www.globenewswire.com/news-release/2026/06/27/3318557/0/en/TherapyGo-Announces-Milestone-as-AI-Powered-Mental-Health-Platform-Expands-Access-to-Licensed-Psychologists.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-06-27T17:06:00+00:00"
-  },
-  {
-   "title": "Machine Learning Is Enabling A New Era For Precision Medicine And Pharmacogenomics",
-   "url": "https://www.forbes.com/sites/saibala/2026/06/27/machine-learning-is-enabling-a-new-era-for-precision-medicine-and-pharmacogenomics/",
-   "source": "Forbes",
-   "category": "health",
-   "published": "2026-06-27T16:35:17+00:00"
-  },
-  {
    "title": "mistikguard 0.1.0",
    "url": "https://pypi.org/project/mistikguard/",
    "source": "Pypi.org",
@@ -238,20 +323,6 @@
    "source": "Pypi.org",
    "category": "robotics",
    "published": "2026-06-27T06:24:02+00:00"
-  },
-  {
-   "title": "Previewing GPT-5.6 Sol: a next-generation model",
-   "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-26T10:00:00+00:00"
-  },
-  {
-   "title": "Understanding the brain with AI-driven explanations and experiments",
-   "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-06-25T16:00:00+00:00"
   },
   {
    "title": "Improving the speed and energy-efficiency of AI agents",
