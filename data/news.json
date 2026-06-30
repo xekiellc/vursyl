@@ -1,26 +1,258 @@
 {
- "updated": "2026-06-29T20:05:55.935524+00:00",
+ "updated": "2026-06-30T04:03:28.989428+00:00",
  "items": [
   {
-   "title": "Inaugural Music Technology Research Showcase celebrates work of new graduate program\u2019s initial students",
-   "url": "https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629",
+   "title": "Memora:\u00a0A Harmonic Memory Representation Balancing Abstraction and Specificity",
+   "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-06-29T21:14:22+00:00"
+  },
+  {
+   "title": "3 Questions: Beyond data-driven aesthetics",
+   "url": "https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629",
    "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-06-29T19:00:00+00:00"
+   "published": "2026-06-29T18:00:00+00:00"
   },
   {
-   "title": "Claude Meets Blackwell Ultra: Anthropic\u2019s Models Now Run on NVIDIA GB300 in Azure",
-   "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+   "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+   "url": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
    "source": "NVIDIA",
-   "category": "breakthroughs",
-   "published": "2026-06-29T17:00:19+00:00"
+   "category": "robotics",
+   "published": "2026-06-29T15:00:04+00:00"
   },
   {
-   "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-   "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+   "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+   "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-29T10:59:38+00:00"
+  },
+  {
+   "title": "How IAM providers are preparing for agentic AI",
+   "url": "https://www.computerweekly.com/feature/How-IAM-providers-are-preparing-for-agentic-AI",
+   "source": "ComputerWeekly.com",
+   "category": "ai",
+   "published": "2026-06-29T04:00:00+00:00"
+  },
+  {
+   "title": "VivaTech 2026 Hong Kong Tech Pavilion connects local start-ups with European opportunities",
+   "url": "https://en.antaranews.com/news/420720/vivatech-2026-hong-kong-tech-pavilion-connects-local-start-ups-with-european-opportunities",
+   "source": "Antaranews.com",
+   "category": "ai",
+   "published": "2026-06-29T03:59:57+00:00"
+  },
+  {
+   "title": "proofbench added to PyPI",
+   "url": "https://pypi.org/project/proofbench/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-29T03:57:48+00:00"
+  },
+  {
+   "title": "guardrails-ai-llm-critic added to PyPI",
+   "url": "https://pypi.org/project/guardrails-ai-llm-critic/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-29T03:56:54+00:00"
+  },
+  {
+   "title": "guardrails-ai-llm-critic 0.1.0",
+   "url": "https://pypi.org/project/guardrails-ai-llm-critic/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-29T03:56:54+00:00"
+  },
+  {
+   "title": "Intel Arc Graphics Driver 31.0.101.5595 for Windows 10 Vibranium 64-bit",
+   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-31-0-101-5595-for-Windows-10-Vibranium-64-bit.shtml",
+   "source": "Softpedia.com",
+   "category": "compute",
+   "published": "2026-06-29T03:56:02+00:00"
+  },
+  {
+   "title": "Intel Arc Graphics Driver 32.0.101.5730 for Windows 11 version 24H2",
+   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-5730-for-Windows-11-version-24H2.shtml",
+   "source": "Softpedia.com",
+   "category": "compute",
+   "published": "2026-06-29T03:40:01+00:00"
+  },
+  {
+   "title": "92% of tech executives see AI management as vital work skill by 2031: KPMG",
+   "url": "https://www.thehindubusinessline.com/info-tech/92-of-tech-executives-see-ai-management-as-vital-work-skill-by-2031-kpmg/article71159960.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-06-29T03:26:41+00:00"
+  },
+  {
+   "title": "Australia's Firmus announces Nvidia-backed 'AI factory' in Indonesia",
+   "url": "https://biztoc.com/x/9a48a70ecba8d20c",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-06-29T03:26:41+00:00"
+  },
+  {
+   "title": "Ex-Governors, Big Tech Launch RAISE US to Help Workers 'Navigate the AI Economy'",
+   "url": "https://slashdot.org/submission/17348582/ex-governors-big-tech-launch-raise-us-to-help-workers-navigate-the-ai-economy",
+   "source": "Slashdot.org",
+   "category": "ai",
+   "published": "2026-06-29T03:23:29+00:00"
+  },
+  {
+   "title": "Show HN: Self hosting a modern LLM stack",
+   "url": "https://github.com/raiyanyahya/llmaker",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-29T03:18:27+00:00"
+  },
+  {
+   "title": "Intel Arc Graphics Driver 32.0.101.5730 for Windows 11",
+   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-5730-for-Windows-11.shtml",
+   "source": "Softpedia.com",
+   "category": "compute",
+   "published": "2026-06-29T03:16:01+00:00"
+  },
+  {
+   "title": "mcp-mesh 2.6.0",
+   "url": "https://pypi.org/project/mcp-mesh/2.6.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-29T03:15:42+00:00"
+  },
+  {
+   "title": "China\u2019s first AI-powered cancer vaccine production line set to launch in Beijing",
+   "url": "https://biztoc.com/x/9ae438ad8537baa6",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-06-29T03:11:39+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Qlean Dataset\u3001\u300c\u65e5\u672c\u8a9e\u30fb3\u8a71\u8005\u30d3\u30b8\u30cd\u30b9\u30c6\u30fc\u30de\u306e\u5bfe\u8a71\u97f3\u58f0\u30fb\u30c8\u30e9\u30f3\u30b9\u30af\u30ea\u30d7\u30c8\u300d\u3092\u63d0\u4f9b\u958b\u59cb",
+   "url": "https://prtimes.jp/main/html/rd/p/000000173.000108024.html",
+   "source": "Prtimes.jp",
+   "category": "ai",
+   "published": "2026-06-29T03:00:00+00:00"
+  },
+  {
+   "title": "South Korea plans massive AI and chip investment drive worth up to $648 billion",
+   "url": "https://cryptobriefing.com/south-korea-ai-chip-investment-drive/",
+   "source": "Crypto Briefing",
+   "category": "breakthroughs",
+   "published": "2026-06-29T02:55:39+00:00"
+  },
+  {
+   "title": "4DMedical Receives TGA Approval for CT:VQ\u2122, Bringing Non-Contrast Ventilation-Perfusion Imaging to Australia",
+   "url": "https://www.prnewswire.com/news-releases/4dmedical-receives-tga-approval-for-ctvq-bringing-non-contrast-ventilation-perfusion-imaging-to-australia-302812825.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-29T02:55:00+00:00"
+  },
+  {
+   "title": "Intel Arc Graphics Driver 32.0.101.5730 for Windows 10 S 64-bit",
+   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-5730-for-Windows-10-S-64-bit.shtml",
+   "source": "Softpedia.com",
+   "category": "compute",
+   "published": "2026-06-29T02:53:01+00:00"
+  },
+  {
+   "title": "Intel Arc Graphics Driver 32.0.101.5730 for Windows 10 version 21H2 64-bit",
+   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-5730-for-Windows-10-version-21H2-64-bit.shtml",
+   "source": "Softpedia.com",
+   "category": "compute",
+   "published": "2026-06-29T02:43:02+00:00"
+  },
+  {
+   "title": "South Korean president to unveil massive AI and chip investment drive",
+   "url": "https://economictimes.indiatimes.com/tech/technology/south-korean-president-to-unveil-massive-ai-and-chip-investment-drive/articleshow/132061338.cms",
+   "source": "The Times of India",
+   "category": "breakthroughs",
+   "published": "2026-06-29T02:31:55+00:00"
+  },
+  {
+   "title": "Intel Arc Graphics Driver 32.0.101.5730 for Windows 10 64-bit",
+   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-5730-for-Windows-10-64-bit.shtml",
+   "source": "Softpedia.com",
+   "category": "compute",
+   "published": "2026-06-29T02:30:01+00:00"
+  },
+  {
+   "title": "A Doctor At Home: The Rise Of Ambient Home Health Monitoring",
+   "url": "https://www.forbes.com/sites/saibala/2026/06/28/a-doctor-at-home-the-rise-of-ambient-home-health-monitoring/",
+   "source": "Forbes",
+   "category": "health",
+   "published": "2026-06-29T02:29:54+00:00"
+  },
+  {
+   "title": "Intel Arc Graphics Driver 32.0.101.5730 for Windows 10 Vibranium 64-bit",
+   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-5730-for-Windows-10-Vibranium-64-bit.shtml",
+   "source": "Softpedia.com",
+   "category": "compute",
+   "published": "2026-06-29T02:16:01+00:00"
+  },
+  {
+   "title": "South Korea to unveil massive AI and chip investment drive",
+   "url": "https://www.channelnewsasia.com/east-asia/south-korea-ai-chip-investment-6217126",
+   "source": "CNA",
+   "category": "breakthroughs",
+   "published": "2026-06-29T02:13:00+00:00"
+  },
+  {
+   "title": "Harbour BioMed Appoints Dr. Lloyd Klickstein as Scientific Advisor for Immunology",
+   "url": "https://www.prnewswire.com/news-releases/harbour-biomed-appoints-dr-lloyd-klickstein-as-scientific-advisor-for-immunology-302812792.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-29T01:27:00+00:00"
+  },
+  {
+   "title": "$5 Billion Startup Puts Humanoid Robots to Work",
+   "url": "https://biztoc.com/x/5f52387caa1698de",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-06-29T00:08:06+00:00"
+  },
+  {
+   "title": "Distributed AI inference: What telecom service provider leaders should know",
+   "url": "https://www.redhat.com/en/blog/distributed-ai-inference-what-telecom-service-provider-leaders-should-know",
+   "source": "Redhat.com",
+   "category": "ai",
+   "published": "2026-06-29T00:00:00+00:00"
+  },
+  {
+   "title": "WIRobotics Begins Building a Physical AI Development Ecosystem: The First Technology Release Features the ALLEX Simulation Model",
+   "url": "https://www.prnewswire.com/news-releases/wirobotics-begins-building-a-physical-ai-development-ecosystem-the-first-technology-release-features-the-allex-simulation-model-302812541.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-06-29T00:00:00+00:00"
+  },
+  {
+   "title": "trialmatchai added to PyPI",
+   "url": "https://pypi.org/project/trialmatchai/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-28T22:25:49+00:00"
+  },
+  {
+   "title": "trialmatchai 0.2.0",
+   "url": "https://pypi.org/project/trialmatchai/0.2.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-06-28T22:25:49+00:00"
+  },
+  {
+   "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+   "url": "https://openai.com/index/hp-frontier-partnership",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-06-29T07:00:00+00:00"
+   "published": "2026-06-28T17:00:00+00:00"
+  },
+  {
+   "title": "LLMs help robots understand vague instructions and focus on key details",
+   "url": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-26T13:00:00+00:00"
   },
   {
    "title": "The Cells In Your Body Fade With Age, But There May Be a Way to Reverse It",
@@ -219,13 +451,6 @@
    "published": "2026-06-28T18:00:00+00:00"
   },
   {
-   "title": "How simulation tech can ready robots for the real world",
-   "url": "https://www.thehindubusinessline.com/business-tech/how-simulation-tech-can-ready-robots-for-the-real-world/article71158843.ece",
-   "source": "BusinessLine",
-   "category": "robotics",
-   "published": "2026-06-28T17:31:21+00:00"
-  },
-  {
    "title": "I used Claude Code to get a second opinion on my MRI",
    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
    "source": "Antoine.fi",
@@ -244,8 +469,7 @@
    "url": "https://www.globenewswire.com/news-release/2026/06/28/3318607/0/en/World-s-First-AGI-Smart-City-Clinical-Trial-Opens-Waiting-List-This-Monday-Veterans-First-for-America.html",
    "source": "GlobeNewswire",
    "category": "health",
-   "published": "2026-06-28T16:11:00+00:00",
-   "breakthrough": true
+   "published": "2026-06-28T16:11:00+00:00"
   },
   {
    "title": "Bengaluru research uses AI to hunt cervical cancer risk years before diagnosis",
@@ -253,20 +477,6 @@
    "source": "The Times of India",
    "category": "health",
    "published": "2026-06-28T16:05:08+00:00"
-  },
-  {
-   "title": "AGIBOT's 15,000th Robot Rolls Off the Production Line, Marking a New Milestone in Embodied AI Deployment",
-   "url": "https://www.prnewswire.com/news-releases/agibots-15-000th-robot-rolls-off-the-production-line-marking-a-new-milestone-in-embodied-ai-deployment-302812693.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-06-28T10:02:00+00:00"
-  },
-  {
-   "title": "Previewing GPT-5.6 Sol: a next-generation model",
-   "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-26T10:00:00+00:00"
   },
   {
    "title": "Michael Caine\u2019s AI Voice Sets Sail Through THE ODYSSEY Ahead of Christopher Nolan\u2019s Epic Film Adaptation",
