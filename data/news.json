@@ -1,40 +1,244 @@
 {
- "updated": "2026-07-01T09:58:32.174769+00:00",
+ "updated": "2026-07-01T14:47:23.859952+00:00",
  "items": [
   {
-   "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
-   "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
-   "source": "NVIDIA",
-   "category": "health",
-   "published": "2026-06-30T17:00:38+00:00"
+   "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+   "url": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-30T15:30:00+00:00"
   },
   {
-   "title": "SkillOpt: Agent skills as trainable parameters",
-   "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+   "title": "Inside HHS's AI push: Department efforts align around governance, collaboration",
+   "url": "https://www.techtarget.com/healthtechanalytics/feature/Inside-HHSs-AI-push-Department-efforts-align-around-governance-collaboration",
+   "source": "Techtarget.com",
+   "category": "ai",
+   "published": "2026-06-30T14:44:00+00:00"
+  },
+  {
+   "title": "Lumo 2.0: Proton's Private Alternative to ChatGPT and Claude Just Got Better",
+   "url": "https://itsfoss.com/news/proton-lumo-2/",
+   "source": "Itsfoss.com",
+   "category": "ai",
+   "published": "2026-06-30T14:42:23+00:00"
+  },
+  {
+   "title": "Virtual care model helps CommonSpirit tackle nurse retention challenges",
+   "url": "https://www.techtarget.com/virtualhealthcare/feature/Virtual-care-model-helps-CommonSpirit-tackle-nurse-retention-challenges",
+   "source": "Techtarget.com",
+   "category": "health",
+   "published": "2026-06-30T14:41:00+00:00"
+  },
+  {
+   "title": "Jon and Mindy Gray bet $55M on AI to catch cancer before it starts",
+   "url": "https://thenextweb.com/news/gray-ai-cancer-interception-institute/",
+   "source": "The Next Web",
+   "category": "health",
+   "published": "2026-06-30T14:38:24+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Show HN: Myna \u2013 a local AI Chief of Staff that remembers your work",
+   "url": "https://github.com/agentflock/myna",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-06-30T14:34:36+00:00"
+  },
+  {
+   "title": "OpenAI cuts inference costs in half with new optimization technique",
+   "url": "https://cryptobriefing.com/openai-cuts-inference-costs-optimization/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-06-30T14:22:17+00:00"
+  },
+  {
+   "title": "Samsung and KDDI Successfully Complete AI-Powered Network Optimization Trial on Commercial 5G Standalone Network in Japan",
+   "url": "https://news.samsung.com/global/samsung-and-kddi-successfully-complete-ai-powered-network-optimization-trial-on-commercial-5g-standalone-network-in-japan",
+   "source": "Samsung.com",
+   "category": "compute",
+   "published": "2026-06-30T14:21:49+00:00"
+  },
+  {
+   "title": "Realistic Grips for Game Creator 2 by Auxilium",
+   "url": "https://assetstore.unity.com/packages/tools/utilities/realistic-grips-for-game-creator-2-380340",
+   "source": "Unity.com",
+   "category": "ai",
+   "published": "2026-06-30T14:20:14+00:00"
+  },
+  {
+   "title": "GMKtec EVO-T2 review: An impressive AI mini PC that goes some way to addressing the imbalance between the best Intel can offer over AMD",
+   "url": "https://www.techradar.com/computing/gmktec-evo-t2-mini-pc-review",
+   "source": "TechRadar",
+   "category": "compute",
+   "published": "2026-06-30T14:20:00+00:00"
+  },
+  {
+   "title": "TKROBOTS Introduces AI Quant Trading Bot to Make Automated Crypto Trading Easier for Everyday Users",
+   "url": "https://www.globenewswire.com/news-release/2026/06/30/3319882/0/en/TKROBOTS-Introduces-AI-Quant-Trading-Bot-to-Make-Automated-Crypto-Trading-Easier-for-Everyday-Users.html",
+   "source": "GlobeNewswire",
+   "category": "ai",
+   "published": "2026-06-30T14:20:00+00:00"
+  },
+  {
+   "title": "Ecommerce AI SEO: How to optimize online stores for LLMs",
+   "url": "https://www.semrush.com/blog/ecommerce-ai-seo/",
+   "source": "Semrush.com",
+   "category": "ai",
+   "published": "2026-06-30T14:18:00+00:00"
+  },
+  {
+   "title": "Tsingke Biotech Hosts Shanghai Salon on Oligonucleotide Drugs, Spotlighting Next-Gen RNA Therapeutics",
+   "url": "https://www.prnewswire.com/news-releases/tsingke-biotech-hosts-shanghai-salon-on-oligonucleotide-drugs-spotlighting-next-gen-rna-therapeutics-302811515.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-30T14:17:00+00:00"
+  },
+  {
+   "title": "Q&A: Generate Biomedicines CTO talks AI advancements",
+   "url": "https://www.techtarget.com/searchenterpriseai/feature/QA-Generate-Biomedicines-CTO-talks-AI-advancements",
+   "source": "Techtarget.com",
+   "category": "health",
+   "published": "2026-06-30T14:03:00+00:00"
+  },
+  {
+   "title": "Omen AI Raises $31M Series A to Bring Continuous Fluid Intelligence to the Machines Powering the AI Economy",
+   "url": "https://www.prnewswire.com/news-releases/omen-ai-raises-31m-series-a-to-bring-continuous-fluid-intelligence-to-the-machines-powering-the-ai-economy-302814262.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-06-30T14:00:00+00:00"
+  },
+  {
+   "title": "AI-driven molecular diversification and ligand-based optimization of macitentan derivatives targeting VEGFR1 and endothelin signaling pathways",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352451",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-06-30T14:00:00+00:00"
+  },
+  {
+   "title": "AI Is Transforming Drug Discovery. Here Is the Next Trillion-Dollar Biotech Opportunity",
+   "url": "https://biztoc.com/x/e33d4e0991bbe457",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-06-30T13:46:53+00:00"
+  },
+  {
+   "title": "Healthcare Staffing Just Evolved: Human-Led Support, Amplified by AI",
+   "url": "https://www.prnewswire.com/news-releases/healthcare-staffing-just-evolved-human-led-support-amplified-by-ai-302805173.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-06-30T13:34:00+00:00"
+  },
+  {
+   "title": "Midjourney\u2019s Whole Body Ultrasound System: A Radiologist\u2019s Thoughts",
+   "url": "https://www.forbes.com/sites/paulhsieh/2026/06/30/midjourneys-whole-body-ultrasound-system-a-radiologists-thoughts/",
+   "source": "Forbes",
+   "category": "health",
+   "published": "2026-06-30T13:32:34+00:00"
+  },
+  {
+   "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+   "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-30T13:00:27+00:00"
+  },
+  {
+   "title": "Mint Signed MoU with Ascendze Pte. Ltd. to Advance Strategic Expansion in Singapore\u2019s Semiconductor and Robotics Sector",
+   "url": "https://www.globenewswire.com/news-release/2026/06/30/3319666/0/en/Mint-Signed-MoU-with-Ascendze-Pte-Ltd-to-Advance-Strategic-Expansion-in-Singapore-s-Semiconductor-and-Robotics-Sector.html",
+   "source": "GlobeNewswire",
+   "category": "robotics",
+   "published": "2026-06-30T12:30:00+00:00"
+  },
+  {
+   "title": "This $5.5 billion robotics startup built a school for humanoids",
+   "url": "https://biztoc.com/x/a61188c51bbfc611",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-06-30T12:15:26+00:00"
+  },
+  {
+   "title": "Apptronik launches robot training hub, unveils Apollo 2 humanoid robot",
+   "url": "https://www.channelnewsasia.com/business/apptronik-launches-robot-training-hub-unveils-apollo-2-humanoid-robot-6221641",
+   "source": "CNA",
+   "category": "robotics",
+   "published": "2026-06-30T12:01:44+00:00"
+  },
+  {
+   "title": "The Trump Administration Doubles Down on Quantum",
+   "url": "https://spectrum.ieee.org/quantum-computing-trump-executive-orders",
+   "source": "Ieee.org",
+   "category": "quantum",
+   "published": "2026-06-30T12:00:01+00:00"
+  },
+  {
+   "title": "Innoviz Technologies Backs Mobileye (MBLY) Robotaxi Push With LiDAR Supply Deal",
+   "url": "https://finance.yahoo.com/technology/articles/innoviz-technologies-backs-mobileye-mbly-020408825.html",
+   "source": "Yahoo Entertainment",
+   "category": "robotics",
+   "published": "2026-06-30T02:04:08+00:00"
+  },
+  {
+   "title": "Richtech Robotics (RR) Launches Live, 24/7 Interactive Streaming Platform Built Around ADAM, The Company\u2019s AI-Powered Humanoid Robot",
+   "url": "https://finance.yahoo.com/technology/ai/articles/richtech-robotics-rr-launches-live-020406700.html",
+   "source": "Yahoo Entertainment",
+   "category": "robotics",
+   "published": "2026-06-30T02:04:06+00:00"
+  },
+  {
+   "title": "Avnet Brings Ecosystem Together to Scale Edge AI in Singapore",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/avnet-brings-ecosystem-together-to-scale-edge-ai-in-singapore/article71164188.ece",
+   "source": "BusinessLine",
+   "category": "compute",
+   "published": "2026-06-30T02:00:22+00:00"
+  },
+  {
+   "title": "Memora:\u00a0A Harmonic Memory Representation Balancing Abstraction and Specificity",
+   "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
    "source": "Microsoft Research",
    "category": "ai",
-   "published": "2026-06-30T16:50:02+00:00"
+   "published": "2026-06-29T21:14:22+00:00"
   },
   {
-   "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-   "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-   "source": "Google DeepMind",
+   "title": "New quantum simulation breakthrough could accelerate fault-tolerant computing",
+   "url": "https://www.digitaljournal.com/article/new-quantum-simulation-breakthrough-could-accelerate-fault-tolerant-computing/",
+   "source": "Digital Journal",
+   "category": "quantum",
+   "published": "2026-06-29T20:58:39+00:00"
+  },
+  {
+   "title": "Inaugural Music Technology Research Showcase celebrates work of new graduate program\u2019s initial students",
+   "url": "https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629",
+   "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-06-30T16:02:40+00:00"
+   "published": "2026-06-29T19:00:00+00:00"
   },
   {
-   "title": "How NVIDIA\u2019s Inference Software Stack Powers the Lowest Token Cost",
-   "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-30T15:00:57+00:00"
+   "title": "3 Questions: Beyond data-driven aesthetics",
+   "url": "https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-06-29T18:00:00+00:00"
   },
   {
-   "title": "How Jaiveer Singh Is Helping Robots \u2014 and Developers \u2014 Move Faster",
-   "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
+   "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+   "url": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
    "source": "NVIDIA",
    "category": "robotics",
-   "published": "2026-06-30T15:00:49+00:00"
+   "published": "2026-06-29T15:00:04+00:00"
+  },
+  {
+   "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+   "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-29T10:59:38+00:00"
+  },
+  {
+   "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+   "url": "https://openai.com/index/hp-frontier-partnership",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-28T17:00:00+00:00"
   },
   {
    "title": "Ford Says 350 Veterans Helped Reduce New-Car Problems by 21% After AI Fell Short",
@@ -79,33 +283,11 @@
    "published": "2026-06-30T09:22:00+00:00"
   },
   {
-   "title": "How ChatGPT adoption has expanded",
-   "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-30T09:00:00+00:00"
-  },
-  {
    "title": "In January 2026, scientists reported that the human brain processes spoken language in a sequence that closely mirrors the layered architecture of advanced AI language models \u2014 suggesting that biological brains and artificial networks may build meaning through surprisingly similar step-by-step computations.",
    "url": "https://spacedaily.com/in-january-2026-scientists-reported-that-the-human-brain-processes-spoken-language-in-a-sequence-that-closely-mirrors-the-layered-architecture-of-advanced-ai-language-models-suggesting-that/",
    "source": "Space Daily",
    "category": "breakthroughs",
-   "published": "2026-06-30T08:54:20+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Huawei OpenHarmony targets China's humanoid robot race with 1.3 billion-device ecosystem",
-   "url": "https://www.digitimes.com/news/a20260630VL212/huawei-openharmony-robot-hardware-2026.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-06-30T08:30:00+00:00"
-  },
-  {
-   "title": "TBI Motion taps humanoid robot demand with small-batch shipments",
-   "url": "https://www.digitimes.com/news/a20260630PD213/demand-shipments-robot-shipping-2026.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-06-30T07:35:00+00:00"
+   "published": "2026-06-30T08:54:20+00:00"
   },
   {
    "title": "Meta says new AI system can convert brain activity into text without surgery",
@@ -113,13 +295,6 @@
    "source": "The Times of India",
    "category": "ai",
    "published": "2026-06-30T07:30:10+00:00"
-  },
-  {
-   "title": "South Korea To Spend $1 Trillion On More Memory Chip Production, Humanoid Robots",
-   "url": "https://slashdot.org/submission/17348614/south-korea-to-spend-1-trillion-on-more-memory-chip-production-humanoid-robots",
-   "source": "Slashdot.org",
-   "category": "compute",
-   "published": "2026-06-30T06:17:12+00:00"
   },
   {
    "title": "Just - Evotec Biologics Launches J.TRAIN to Deliver Turnkey Continuous Manufacturing for Biologics",
@@ -143,32 +318,11 @@
    "published": "2026-06-30T05:00:00+00:00"
   },
   {
-   "title": "Samsung resumes 1.4nm chip development, targets 2029 mass production",
-   "url": "https://www.sammobile.com/news/samsung-resumes-1-4nm-chip-development-2029-mass-production/",
-   "source": "SamMobile",
-   "category": "compute",
-   "published": "2026-06-30T04:33:09+00:00"
-  },
-  {
-   "title": "Introducing GeneBench-Pro",
-   "url": "https://openai.com/index/introducing-genebench-pro",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-30T00:00:00+00:00"
-  },
-  {
    "title": "Robotics enter classrooms, Kolkata schools upgrade labs for AI-driven courses",
    "url": "https://timesofindia.indiatimes.com/city/kolkata/robotics-enter-classrooms-kolkata-schools-upgrade-labs-for-ai-driven-courses/articleshow/132077302.cms",
    "source": "The Times of India",
    "category": "robotics",
    "published": "2026-06-29T17:54:41+00:00"
-  },
-  {
-   "title": "Claude Meets Blackwell Ultra: Anthropic\u2019s Models Now Run on NVIDIA GB300 in Azure",
-   "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-29T17:00:19+00:00"
   },
   {
    "title": "AI\u00b2 Robotics and X Square Robot each hit $2.9B valuations as China\u2019s robotics boom accelerates",
@@ -255,20 +409,6 @@
    "published": "2026-06-30T00:00:00+00:00"
   },
   {
-   "title": "Core dump epidemiology: fixing an 18-year-old bug",
-   "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-30T00:00:00+00:00"
-  },
-  {
-   "title": "Inside Genebench-Pro",
-   "url": "https://openai.com/index/genebench-pro/case-studies",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-30T00:00:00+00:00"
-  },
-  {
    "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
    "url": "https://biztoc.com/x/e793bc251af53a4b",
    "source": "Biztoc.com",
@@ -309,13 +449,6 @@
    "source": "The Next Web",
    "category": "compute",
    "published": "2026-06-29T11:42:39+00:00"
-  },
-  {
-   "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-   "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-29T07:00:00+00:00"
   },
   {
    "title": "Digital Realty Announces Purchase of Blackstone Interest in Three Northern Virginia Data Centers",
