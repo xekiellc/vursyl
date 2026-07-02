@@ -1,12 +1,216 @@
 {
- "updated": "2026-07-02T09:21:11.536100+00:00",
+ "updated": "2026-07-02T14:12:40.799152+00:00",
  "items": [
   {
-   "title": "Tesla begins installation of first Optimus production line at Fremont factory",
-   "url": "https://cryptobriefing.com/tesla-optimus-production-line-fremont-2/",
-   "source": "Crypto Briefing",
+   "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
+   "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-02T03:34:48+00:00"
+  },
+  {
+   "title": "SBI unveils a suite of AI-powered digital journeys for retail and business banking customers",
+   "url": "https://www.thehindubusinessline.com/money-and-banking/sbi-unveils-a-suite-of-ai-powered-digital-journeys-for-retail-and-business-banking-customers/article71170132.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-07-01T14:10:11+00:00"
+  },
+  {
+   "title": "Startup Oxmiq raises $35 million to build chip architecture to lower cost of AI",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/startup-oxmiq-raises-35-million-to-build-chip-architecture-to-lower-cost-of-ai/articleshow/132117037.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-01T14:06:47+00:00"
+  },
+  {
+   "title": "Ex-Intel exec Raja Koduri's OXMIQ raises $35 million to build licensable AI chip architecture",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/oxmiq-raises-35-million-to-license-ai-chip-designs-as-sovereign-ai-demand-grows/articleshow/132117037.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-01T14:06:47+00:00"
+  },
+  {
+   "title": "(PHOTO) Elon Musk Tours Optimus Production Line in Fremont as Tesla Advances Humanoid Robot Development",
+   "url": "https://www.ibtimes.com.au/tesla-optimus-robot-progress-1871658",
+   "source": "Ibtimes.com.au",
    "category": "robotics",
-   "published": "2026-07-01T09:16:22+00:00"
+   "published": "2026-07-01T14:05:34+00:00"
+  },
+  {
+   "title": "Fable 5 Is Back After Anthropic Irons Out Security Concerns With US Government",
+   "url": "https://uk.pcmag.com/ai/165958/fable-5-is-back-after-anthropic-irons-out-security-concerns-with-us-government",
+   "source": "PCMag.com",
+   "category": "ai",
+   "published": "2026-07-01T14:04:27+00:00"
+  },
+  {
+   "title": "Claude Sonnet 5 is here, and the 'most agentic Sonnet model yet' shows that the AI war is shifting from chat to agents",
+   "url": "https://www.techradar.com/ai-platforms-assistants/claude/claude-sonnet-5-is-here-and-the-most-agentic-sonnet-model-yet-shows-that-the-ai-war-is-shifting-from-chat-to-agents",
+   "source": "TechRadar",
+   "category": "ai",
+   "published": "2026-07-01T14:03:09+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Experity Acquires Exdion Healthcare to Accelerate AI-Driven Revenue Cycle Management Automation for On-Demand Care",
+   "url": "https://www.prnewswire.com/news-releases/experity-acquires-exdion-healthcare-to-accelerate-ai-driven-revenue-cycle-management-automation-for-on-demand-care-302815075.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-01T14:00:00+00:00"
+  },
+  {
+   "title": "Q/C Technologies Relocates Headquarters to San Francisco in Proximity to World-Class Engineering Experts for Photonic Computing and Optical AI Inference Initiative",
+   "url": "https://www.globenewswire.com/news-release/2026/07/01/3320730/0/en/Q-C-Technologies-Relocates-Headquarters-to-San-Francisco-in-Proximity-to-World-Class-Engineering-Experts-for-Photonic-Computing-and-Optical-AI-Inference-Initiative.html",
+   "source": "GlobeNewswire",
+   "category": "compute",
+   "published": "2026-07-01T13:44:00+00:00"
+  },
+  {
+   "title": "Longevity\u306e\u793e\u4f1a\u5b9f\u88c5\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u59cb\u52d5\uff1a\u4e16\u754c\u6709\u6570\u306e\u9577\u5bff\u56fd\u30fb\u65e5\u672c\u304b\u3089\u3001Longevity\u9769\u547d\u3092\u4e16\u754c\u3078\u3002",
+   "url": "https://prtimes.jp/main/html/rd/p/000000001.000186296.html",
+   "source": "Prtimes.jp",
+   "category": "health",
+   "published": "2026-07-01T13:40:02+00:00"
+  },
+  {
+   "title": "NSA, DEVCOM Army Research Office Launch QuantumEAGLe Initiative",
+   "url": "https://financialpost.com/globe-newswire/nsa-devcom-army-research-office-launch-quantumeagle-initiative",
+   "source": "Financial Post",
+   "category": "quantum",
+   "published": "2026-07-01T13:16:17+00:00"
+  },
+  {
+   "title": "Decent Holding Inc. Expands Community Healthcare Network to Over 480 Operational Centers, Advancing Its Vision to Build China's AI-Enabled Healthy Aging Platform",
+   "url": "https://www.globenewswire.com/news-release/2026/07/01/3320681/0/en/Decent-Holding-Inc-Expands-Community-Healthcare-Network-to-Over-480-Operational-Centers-Advancing-Its-Vision-to-Build-China-s-AI-Enabled-Healthy-Aging-Platform.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-01T13:16:00+00:00"
+  },
+  {
+   "title": "Cigna invests $100 million in new AI-powered specialty pharmacy program",
+   "url": "https://www.channelnewsasia.com/business/cigna-invests-100-million-in-new-ai-powered-specialty-pharmacy-program-6225041",
+   "source": "CNA",
+   "category": "health",
+   "published": "2026-07-01T13:15:41+00:00"
+  },
+  {
+   "title": "Multi-Cancer Early Detection Market to Reach USD 7.04 Billion by 2035, Expanding at 17.04% CAGR with AI-Powered Liquid Biopsy Adoption | SNS Insider",
+   "url": "https://www.globenewswire.com/news-release/2026/07/01/3320660/0/en/Multi-Cancer-Early-Detection-Market-to-Reach-USD-7-04-Billion-by-2035-Expanding-at-17-04-CAGR-with-AI-Powered-Liquid-Biopsy-Adoption-SNS-Insider.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-01T13:01:00+00:00"
+  },
+  {
+   "title": "NVIDIA and Partners Build in America, for America",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-01T13:00:47+00:00"
+  },
+  {
+   "title": "Why this 98-qubit quantum computer is a big deal",
+   "url": "https://www.scientificamerican.com/article/why-this-98-qubit-quantum-computer-is-a-big-deal/",
+   "source": "Scientific American",
+   "category": "quantum",
+   "published": "2026-07-01T13:00:00+00:00"
+  },
+  {
+   "title": "Valet Health, OnDoc.ai, and ViewMedica Launch CarePath PX to Unify Delivery of Automated, Provider-Branded Patient Education for Advanced Care",
+   "url": "https://www.prnewswire.com/news-releases/valet-health-ondocai-and-viewmedica-launch-carepath-px-to-unify-delivery-of-automated-provider-branded-patient-education-for-advanced-care-302814815.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-01T12:31:00+00:00"
+  },
+  {
+   "title": "Micron and General Motors Sign Strategic Agreement to Secure Supply and Accelerate Innovation",
+   "url": "https://www.globenewswire.com/news-release/2026/07/01/3320600/14450/en/Micron-and-General-Motors-Sign-Strategic-Agreement-to-Secure-Supply-and-Accelerate-Innovation.html",
+   "source": "GlobeNewswire",
+   "category": "compute",
+   "published": "2026-07-01T12:30:00+00:00"
+  },
+  {
+   "title": "Caris Life Sciences Launches Caris Detect, the World's Most Sensitive and Comprehensive Multi-Cancer Early Detection Blood Test",
+   "url": "https://www.prnewswire.com/news-releases/caris-life-sciences-launches-caris-detect-the-worlds-most-sensitive-and-comprehensive-multi-cancer-early-detection-blood-test-302815420.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-01T12:30:00+00:00"
+  },
+  {
+   "title": "BTQ Technologies Receives Final Approval for Full Acquisition of QPerfect, Advancing Its Mission of Building Trusted Quantum Technologies With World-Class Emulation, Digital Twin, and Control Capabilities",
+   "url": "https://www.prnewswire.com/news-releases/btq-technologies-receives-final-approval-for-full-acquisition-of-qperfect-advancing-its-mission-of-building-trusted-quantum-technologies-with-world-class-emulation-digital-twin-and-control-capabilities-302815500.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-07-01T11:30:00+00:00"
+  },
+  {
+   "title": "Apptronik opens robot training hub in Austin, Texas and debuts Apollo 2",
+   "url": "https://biztoc.com/x/6c58c72bad1dd4be",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-01T10:21:25+00:00"
+  },
+  {
+   "title": "Chinese firm sells hyper-real, 'always loyal' humanoid robots",
+   "url": "https://biztoc.com/x/ded68c9befff4e0e",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-01T10:06:49+00:00"
+  },
+  {
+   "title": "Avnet Brings Ecosystem Together to Scale Edge AI in Singapore",
+   "url": "https://en.antaranews.com/news/421057/avnet-brings-ecosystem-together-to-scale-edge-ai-in-singapore",
+   "source": "Antaranews.com",
+   "category": "compute",
+   "published": "2026-07-01T07:52:50+00:00"
+  },
+  {
+   "title": "China humanoid robot commercialization accelerates, shipments to reach 50,000 in 2026",
+   "url": "https://www.digitimes.com/news/a20260630PD241/china-humanoid-robot-production-2026-shipments.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-07-01T02:59:56+00:00"
+  },
+  {
+   "title": "UBTECH Launches UWORLD U1, the World's First Full-Size Mass-Produced Ultra-Bionic Humanoid Robot",
+   "url": "https://www.prnewswire.com/news-releases/ubtech-launches-uworld-u1-the-worlds-first-full-size-mass-produced-ultra-bionic-humanoid-robot-302815285.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-07-01T02:46:00+00:00"
+  },
+  {
+   "title": "How Microsoft Achieved a 1,000X Breakthrough in Quantum Computing",
+   "url": "https://www.geeky-gadgets.com/microsoft-majorana-2-quantum-chip/",
+   "source": "Geeky Gadgets",
+   "category": "breakthroughs",
+   "published": "2026-07-01T01:45:00+00:00"
+  },
+  {
+   "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+   "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-30T13:00:27+00:00"
+  },
+  {
+   "title": "How ChatGPT adoption has expanded",
+   "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-30T09:00:00+00:00"
+  },
+  {
+   "title": "Memora:\u00a0A Harmonic Memory Representation Balancing Abstraction and Specificity",
+   "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-06-29T21:14:22+00:00"
+  },
+  {
+   "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+   "url": "https://openai.com/index/hp-frontier-partnership",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-28T17:00:00+00:00"
   },
   {
    "title": "AI skills power nearly two-thirds of new GCC hiring in India",
@@ -100,25 +304,11 @@
    "published": "2026-07-01T07:45:38+00:00"
   },
   {
-   "title": "Tesla showcases Optimus production line at Fremont factory",
-   "url": "https://cryptobriefing.com/tesla-optimus-production-line-fremont/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-07-01T07:06:43+00:00"
-  },
-  {
    "title": "Celltrion secures FDA's 1st interchangeable status for Rituximab biosimilar - The Korea Times",
    "url": "https://www.koreatimes.co.kr/business/companies/20260701/celltrion-secures-fdas-1st-interchangeable-status-for-rituximab-biosimilar",
    "source": "\ucf54\ub9ac\uc544\ud0c0\uc784\uc2a4",
    "category": "health",
    "published": "2026-07-01T07:05:03+00:00"
-  },
-  {
-   "title": "China's humanoid robot boom turns physical AI from prototype to production",
-   "url": "https://www.digitimes.com/news/a20260701VL213/china-humanoid-robot-robotics-production-policy.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-07-01T06:53:56+00:00"
   },
   {
    "title": "SciBase Submits FDA 510(k) to Expand Nevisense into the Largest Skin Cancer Market",
@@ -135,13 +325,6 @@
    "published": "2026-07-01T06:12:00+00:00"
   },
   {
-   "title": "UBTECH unveils consumer humanoid robot U1, says orders secure 11,000 ahead of first deliveries",
-   "url": "http://technode.com/2026/07/01/ubtech-unveils-consumer-humanoid-robot-u1-says-orders-secure-11000-ahead-of-first-deliveries/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-07-01T05:52:41+00:00"
-  },
-  {
    "title": "MindMaze Therapeutics Enrolls First Patients in SwissNeuroRehab Study, Advancing At-Home Reimbursement Strategy in Europe",
    "url": "https://www.prnewswire.com/news-releases/mindmaze-therapeutics-enrolls-first-patients-in-swissneurorehab-study-advancing-at-home-reimbursement-strategy-in-europe-302815404.html",
    "source": "PRNewswire",
@@ -149,74 +332,11 @@
    "published": "2026-07-01T05:22:00+00:00"
   },
   {
-   "title": "South Korea Invests Big in Chip Production and Humanoid Robots",
-   "url": "https://nextbigwhat.com/south-korea-invests-big-in-chip-production-and-humanoid-robots/",
-   "source": "Nextbigwhat.com",
-   "category": "robotics",
-   "published": "2026-07-01T04:55:15+00:00"
-  },
-  {
-   "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
-   "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
-   "source": "NVIDIA",
-   "category": "health",
-   "published": "2026-06-30T17:00:38+00:00"
-  },
-  {
-   "title": "SkillOpt: Agent skills as trainable parameters",
-   "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-06-30T16:50:02+00:00"
-  },
-  {
-   "title": "Microsoft unveils Majorana 2 quantum computing chip amid US push for innovation",
-   "url": "https://cryptobriefing.com/microsoft-majorana-2-quantum-chip-crypto/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-06-30T16:09:42+00:00"
-  },
-  {
-   "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-   "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-06-30T16:02:40+00:00"
-  },
-  {
-   "title": "How NVIDIA\u2019s Inference Software Stack Powers the Lowest Token Cost",
-   "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-30T15:00:57+00:00"
-  },
-  {
-   "title": "How Jaiveer Singh Is Helping Robots \u2014 and Developers \u2014 Move Faster",
-   "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-06-30T15:00:49+00:00"
-  },
-  {
    "title": "Inside Genebench-Pro",
    "url": "https://openai.com/index/genebench-pro/case-studies",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-06-30T00:00:00+00:00"
-  },
-  {
-   "title": "Introducing GeneBench-Pro",
-   "url": "https://openai.com/index/introducing-genebench-pro",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-30T00:00:00+00:00"
-  },
-  {
-   "title": "Claude Meets Blackwell Ultra: Anthropic\u2019s Models Now Run on NVIDIA GB300 in Azure",
-   "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-29T17:00:19+00:00"
   },
   {
    "title": "Mapping Europe\u2019s AI Workforce Opportunity",
@@ -251,8 +371,7 @@
    "url": "https://nextbigwhat.com/anthropic-unveils-claude-sonnet-5-offering-affordable-agentic-ai-capabilities/",
    "source": "Nextbigwhat.com",
    "category": "ai",
-   "published": "2026-07-01T03:36:36+00:00",
-   "breakthrough": true
+   "published": "2026-07-01T03:36:36+00:00"
   },
   {
    "title": "Etched valued at $5B for AI chip with $1B in pre-sales",
