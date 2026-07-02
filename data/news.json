@@ -1,12 +1,194 @@
 {
- "updated": "2026-07-02T14:12:40.799152+00:00",
+ "updated": "2026-07-02T19:38:56.775521+00:00",
  "items": [
   {
-   "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
-   "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
-   "source": "NVIDIA",
+   "title": "Claude Fable 5 cleared to return as US lifts Anthropic\u2019s export control restriction [U: Now available]",
+   "url": "https://9to5mac.com/2026/07/01/claude-fable-5-cleared-to-return-as-us-lifts-anthropics-export-control-restriction/",
+   "source": "9to5Mac",
+   "category": "ai",
+   "published": "2026-07-01T19:35:44+00:00"
+  },
+  {
+   "title": "Twelve Labs Raises $100 Million to Fund Bet on Video AI",
+   "url": "https://www.pymnts.com/news/investment-tracker/2026/twelve-labs-raises-100-million-to-fund-bet-on-video-ai/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-07-01T19:15:37+00:00"
+  },
+  {
+   "title": "Show HN: GOAT 2.0 \u2013 AI orchestrator with proactive episodic memory",
+   "url": "https://github.com/takashikiari/GOAT2-General-Orchestrated-Agent-Topology",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-01T19:12:55+00:00"
+  },
+  {
+   "title": "Valar nuclear startup partners with Nvidia on data center aiming to conserve water",
+   "url": "https://www.channelnewsasia.com/business/valar-nuclear-startup-partners-nvidia-data-center-aiming-conserve-water-6225766",
+   "source": "CNA",
    "category": "compute",
-   "published": "2026-07-02T03:34:48+00:00"
+   "published": "2026-07-01T19:03:23+00:00"
+  },
+  {
+   "title": "India-Japan Annual Summit to focus on AI, chips & clean energy",
+   "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-japan-annual-summit-to-focus-on-ai-chips-clean-energy/articleshow/132123431.cms",
+   "source": "The Times of India",
+   "category": "breakthroughs",
+   "published": "2026-07-01T18:52:00+00:00"
+  },
+  {
+   "title": "Oxmiq raises $35M to build AI chip architecture that runs CUDA programs without Nvidia hardware",
+   "url": "https://cryptobriefing.com/oxmiq-raises-35m-ai-chip-architecture/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-01T18:49:34+00:00"
+  },
+  {
+   "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+   "url": "https://biztoc.com/x/6a8c1f8900e5fd4f",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-07-01T18:44:21+00:00"
+  },
+  {
+   "title": "Mankind Pharma partners Denovo Sciences for AI-led drug discovery",
+   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/mankind-pharma-partners-denovo-sciences-for-ai-led-drug-discovery/articleshow/132123139.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-07-01T18:41:27+00:00"
+  },
+  {
+   "title": "Classiq and QAI Launch Quantum Cloud Offering in Korea",
+   "url": "https://www.globenewswire.com/news-release/2026/07/01/3320940/0/en/Classiq-and-QAI-Launch-Quantum-Cloud-Offering-in-Korea.html",
+   "source": "GlobeNewswire",
+   "category": "quantum",
+   "published": "2026-07-01T18:37:00+00:00"
+  },
+  {
+   "title": "Structured memory filtering with metadata in AgentCore Memory",
+   "url": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-07-01T18:03:10+00:00"
+  },
+  {
+   "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
+   "url": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-07-01T18:01:32+00:00"
+  },
+  {
+   "title": "GitHub Copilot CLI introduces intelligent task routing with HyDRA",
+   "url": "https://4sysops.com/archives/github-copilot-cli-introduces-intelligent-task-routing-with-hydra/",
+   "source": "4sysops.com",
+   "category": "ai",
+   "published": "2026-07-01T17:50:23+00:00"
+  },
+  {
+   "title": "Simplify model selection in Amazon Bedrock with the open source Model Profiler",
+   "url": "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-07-01T17:46:54+00:00"
+  },
+  {
+   "title": "Accelerate protein design with BoltzGen on Amazon SageMaker AI",
+   "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai/",
+   "source": "Amazon.com",
+   "category": "health",
+   "published": "2026-07-01T17:44:08+00:00"
+  },
+  {
+   "title": "Alleva Introduces Alleva Intelligence, Expanding Its AI Strategy Across Behavioral Health",
+   "url": "https://www.prnewswire.com/news-releases/alleva-introduces-alleva-intelligence-expanding-its-ai-strategy-across-behavioral-health-302815696.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-07-01T17:10:00+00:00"
+  },
+  {
+   "title": "A missing kitten rode under a car hood. AI brought her home",
+   "url": "https://www.foxnews.com/tech/missing-kitten-rode-under-car-hood-ai-brought-her-home",
+   "source": "Fox News",
+   "category": "ai",
+   "published": "2026-07-01T16:54:25+00:00"
+  },
+  {
+   "title": "Tesla begins installation of first Optimus production line at Fremont factory",
+   "url": "https://cryptobriefing.com/tesla-optimus-production-line-fremont-2/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-07-01T09:16:22+00:00"
+  },
+  {
+   "title": "Tesla showcases Optimus production line at Fremont factory",
+   "url": "https://cryptobriefing.com/tesla-optimus-production-line-fremont/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-07-01T07:06:43+00:00"
+  },
+  {
+   "title": "China's humanoid robot boom turns physical AI from prototype to production",
+   "url": "https://www.digitimes.com/news/a20260701VL213/china-humanoid-robot-robotics-production-policy.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-07-01T06:53:56+00:00"
+  },
+  {
+   "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+   "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+   "source": "NVIDIA",
+   "category": "health",
+   "published": "2026-06-30T17:00:38+00:00"
+  },
+  {
+   "title": "SkillOpt: Agent skills as trainable parameters",
+   "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-06-30T16:50:02+00:00"
+  },
+  {
+   "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+   "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-06-30T16:02:40+00:00"
+  },
+  {
+   "title": "How NVIDIA\u2019s Inference Software Stack Powers the Lowest Token Cost",
+   "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-30T15:00:57+00:00"
+  },
+  {
+   "title": "How Jaiveer Singh Is Helping Robots \u2014 and Developers \u2014 Move Faster",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-06-30T15:00:49+00:00"
+  },
+  {
+   "title": "Introducing GeneBench-Pro",
+   "url": "https://openai.com/index/introducing-genebench-pro",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-30T00:00:00+00:00"
+  },
+  {
+   "title": "Core dump epidemiology: fixing an 18-year-old bug",
+   "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-06-30T00:00:00+00:00"
+  },
+  {
+   "title": "Claude Meets Blackwell Ultra: Anthropic\u2019s Models Now Run on NVIDIA GB300 in Azure",
+   "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-06-29T17:00:19+00:00"
   },
   {
    "title": "SBI unveils a suite of AI-powered digital journeys for retail and business banking customers",
@@ -28,13 +210,6 @@
    "source": "The Times of India",
    "category": "compute",
    "published": "2026-07-01T14:06:47+00:00"
-  },
-  {
-   "title": "(PHOTO) Elon Musk Tours Optimus Production Line in Fremont as Tesla Advances Humanoid Robot Development",
-   "url": "https://www.ibtimes.com.au/tesla-optimus-robot-progress-1871658",
-   "source": "Ibtimes.com.au",
-   "category": "robotics",
-   "published": "2026-07-01T14:05:34+00:00"
   },
   {
    "title": "Fable 5 Is Back After Anthropic Irons Out Security Concerns With US Government",
@@ -73,13 +248,6 @@
    "published": "2026-07-01T13:40:02+00:00"
   },
   {
-   "title": "NSA, DEVCOM Army Research Office Launch QuantumEAGLe Initiative",
-   "url": "https://financialpost.com/globe-newswire/nsa-devcom-army-research-office-launch-quantumeagle-initiative",
-   "source": "Financial Post",
-   "category": "quantum",
-   "published": "2026-07-01T13:16:17+00:00"
-  },
-  {
    "title": "Decent Holding Inc. Expands Community Healthcare Network to Over 480 Operational Centers, Advancing Its Vision to Build China's AI-Enabled Healthy Aging Platform",
    "url": "https://www.globenewswire.com/news-release/2026/07/01/3320681/0/en/Decent-Holding-Inc-Expands-Community-Healthcare-Network-to-Over-480-Operational-Centers-Advancing-Its-Vision-to-Build-China-s-AI-Enabled-Healthy-Aging-Platform.html",
    "source": "GlobeNewswire",
@@ -99,20 +267,6 @@
    "source": "GlobeNewswire",
    "category": "health",
    "published": "2026-07-01T13:01:00+00:00"
-  },
-  {
-   "title": "NVIDIA and Partners Build in America, for America",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-01T13:00:47+00:00"
-  },
-  {
-   "title": "Why this 98-qubit quantum computer is a big deal",
-   "url": "https://www.scientificamerican.com/article/why-this-98-qubit-quantum-computer-is-a-big-deal/",
-   "source": "Scientific American",
-   "category": "quantum",
-   "published": "2026-07-01T13:00:00+00:00"
   },
   {
    "title": "Valet Health, OnDoc.ai, and ViewMedica Launch CarePath PX to Unify Delivery of Automated, Provider-Branded Patient Education for Advanced Care",
@@ -136,27 +290,6 @@
    "published": "2026-07-01T12:30:00+00:00"
   },
   {
-   "title": "BTQ Technologies Receives Final Approval for Full Acquisition of QPerfect, Advancing Its Mission of Building Trusted Quantum Technologies With World-Class Emulation, Digital Twin, and Control Capabilities",
-   "url": "https://www.prnewswire.com/news-releases/btq-technologies-receives-final-approval-for-full-acquisition-of-qperfect-advancing-its-mission-of-building-trusted-quantum-technologies-with-world-class-emulation-digital-twin-and-control-capabilities-302815500.html",
-   "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-07-01T11:30:00+00:00"
-  },
-  {
-   "title": "Apptronik opens robot training hub in Austin, Texas and debuts Apollo 2",
-   "url": "https://biztoc.com/x/6c58c72bad1dd4be",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-07-01T10:21:25+00:00"
-  },
-  {
-   "title": "Chinese firm sells hyper-real, 'always loyal' humanoid robots",
-   "url": "https://biztoc.com/x/ded68c9befff4e0e",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-07-01T10:06:49+00:00"
-  },
-  {
    "title": "Avnet Brings Ecosystem Together to Scale Edge AI in Singapore",
    "url": "https://en.antaranews.com/news/421057/avnet-brings-ecosystem-together-to-scale-edge-ai-in-singapore",
    "source": "Antaranews.com",
@@ -176,34 +309,6 @@
    "source": "PRNewswire",
    "category": "robotics",
    "published": "2026-07-01T02:46:00+00:00"
-  },
-  {
-   "title": "How Microsoft Achieved a 1,000X Breakthrough in Quantum Computing",
-   "url": "https://www.geeky-gadgets.com/microsoft-majorana-2-quantum-chip/",
-   "source": "Geeky Gadgets",
-   "category": "breakthroughs",
-   "published": "2026-07-01T01:45:00+00:00"
-  },
-  {
-   "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
-   "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-06-30T13:00:27+00:00"
-  },
-  {
-   "title": "How ChatGPT adoption has expanded",
-   "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-30T09:00:00+00:00"
-  },
-  {
-   "title": "Memora:\u00a0A Harmonic Memory Representation Balancing Abstraction and Specificity",
-   "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-06-29T21:14:22+00:00"
   },
   {
    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
@@ -330,20 +435,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-07-01T05:22:00+00:00"
-  },
-  {
-   "title": "Inside Genebench-Pro",
-   "url": "https://openai.com/index/genebench-pro/case-studies",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-30T00:00:00+00:00"
-  },
-  {
-   "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-   "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-29T07:00:00+00:00"
   },
   {
    "title": "US govt lifts restrictions on powerful AI models, Anthropic says",
@@ -533,13 +624,6 @@
    "source": "Forbes",
    "category": "robotics",
    "published": "2026-06-30T14:57:28+00:00"
-  },
-  {
-   "title": "Q&A: What is agentic AI today, and what do we want it to be?",
-   "url": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-06-30T15:30:00+00:00"
   },
   {
    "title": "Inside HHS's AI push: Department efforts align around governance, collaboration",
