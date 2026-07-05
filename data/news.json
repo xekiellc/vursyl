@@ -1,6 +1,196 @@
 {
- "updated": "2026-07-05T13:49:54.987607+00:00",
+ "updated": "2026-07-05T19:25:21.749281+00:00",
  "items": [
+  {
+   "title": "bingo-ai 4.7.0",
+   "url": "https://pypi.org/project/bingo-ai/4.7.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T19:23:09+00:00"
+  },
+  {
+   "title": "swarmtrace 0.4.8",
+   "url": "https://pypi.org/project/swarmtrace/0.4.8/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T19:22:26+00:00"
+  },
+  {
+   "title": "litellm 1.91.0",
+   "url": "https://pypi.org/project/litellm/1.91.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T19:18:25+00:00"
+  },
+  {
+   "title": "overllm 0.5.0",
+   "url": "https://pypi.org/project/overllm/0.5.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T19:12:31+00:00"
+  },
+  {
+   "title": "veritasgraph-mcp added to PyPI",
+   "url": "https://pypi.org/project/veritasgraph-mcp/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T19:12:25+00:00"
+  },
+  {
+   "title": "EY launches The Face of the Future a creative marketing campaign that puts people at the center of AI to boost confidence",
+   "url": "https://www.ey.com/en_vn/newsroom/2023/11/ey-launches-the-face-of-the-future-a-creative-marketing-campaign-that-puts-people-at-the-center-of-ai-to-boost-confidence",
+   "source": "Ey.com",
+   "category": "ai",
+   "published": "2026-07-04T19:02:04+00:00"
+  },
+  {
+   "title": "telescope-llm-text-detection added to PyPI",
+   "url": "https://pypi.org/project/telescope-llm-text-detection/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T18:57:14+00:00"
+  },
+  {
+   "title": "m23-llm added to PyPI",
+   "url": "https://pypi.org/project/m23-llm/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T18:54:20+00:00"
+  },
+  {
+   "title": "Meta develops Vistara chip to reuse DDR4 memory in DDR5 servers, cutting costs amid AI infrastructure boom",
+   "url": "https://cryptobriefing.com/meta-vistara-chip-ddr4-ddr5-servers/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-04T18:45:32+00:00"
+  },
+  {
+   "title": "qcheck-quantum 0.8.0",
+   "url": "https://pypi.org/project/qcheck-quantum/0.8.0/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-07-04T18:40:21+00:00"
+  },
+  {
+   "title": "llmshim 0.1.23",
+   "url": "https://pypi.org/project/llmshim/0.1.23/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T18:39:13+00:00"
+  },
+  {
+   "title": "reactionclassifier 0.1.1",
+   "url": "https://pypi.org/project/reactionclassifier/0.1.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T18:38:15+00:00"
+  },
+  {
+   "title": "skillflow-py 1.5.4",
+   "url": "https://pypi.org/project/skillflow-py/1.5.4/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T18:33:52+00:00"
+  },
+  {
+   "title": "PraisonAI 4.6.125",
+   "url": "https://pypi.org/project/praisonai/4.6.125/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T18:17:56+00:00"
+  },
+  {
+   "title": "fabri 0.9.1",
+   "url": "https://pypi.org/project/fabri/0.9.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-04T18:14:38+00:00"
+  },
+  {
+   "title": "Scientists Just Unlocked an Endless Army of Cancer-Fighting Cells",
+   "url": "https://www.sciencealert.com/scientists-just-unlocked-an-endless-army-of-cancer-fighting-cells",
+   "source": "ScienceAlert",
+   "category": "health",
+   "published": "2026-07-04T18:00:00+00:00"
+  },
+  {
+   "title": "Lightwheel raises $145M to build robotics simulation and data infrastructure",
+   "url": "https://cryptobriefing.com/lightwheel-raises-145m-robotics-simulation/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-07-04T17:57:13+00:00"
+  },
+  {
+   "title": "Samsung And SK Hynix Launch Huge $518 Billion Chip Plant Expansion",
+   "url": "https://hothardware.com/news/samsung-sk-hynix-chip-plant-expansion",
+   "source": "Hot Hardware",
+   "category": "compute",
+   "published": "2026-07-04T17:00:00+00:00"
+  },
+  {
+   "title": "Anthropic launches \"AI workbench\" for scientists using Claude",
+   "url": "https://www.techradar.com/pro/anthropic-launches-ai-workbench-for-scientists-using-claude",
+   "source": "TechRadar",
+   "category": "ai",
+   "published": "2026-07-04T16:00:00+00:00"
+  },
+  {
+   "title": "\u2018In some jobs, they want to be replaced\u2019: Chinese robotics company Agibot says humanoids could take over \u2018dangerous\u2019 jobs \u2014 and one day even teach children",
+   "url": "https://www.techradar.com/tech/in-some-jobs-they-want-to-be-replaced-chinese-robotics-company-agibot-says-humanoids-could-take-over-dangerous-jobs-and-one-day-even-teach-children",
+   "source": "TechRadar",
+   "category": "robotics",
+   "published": "2026-07-04T16:00:00+00:00"
+  },
+  {
+   "title": "Anthropic targets drug discovery for neglected diseases with Claude Science initiative",
+   "url": "https://cryptobriefing.com/anthropic-claude-science-drug-discovery-neglected-diseases/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-07-04T15:41:32+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "BMW\u2019s Figure 03 Humanoid Robot Could Change Factory Logistics Forever",
+   "url": "https://bitrebels.com/technology/bmws-figure-03-humanoid-robot-could-change-factory-logistics-forever/",
+   "source": "Bitrebels.com",
+   "category": "robotics",
+   "published": "2026-07-04T15:25:02+00:00"
+  },
+  {
+   "title": "Humanoid Robots In 2026: The Biggest AI Robot Breakthroughs You Need To Know",
+   "url": "https://bitrebels.com/technology/humanoid-robots-in-2026-the-biggest-ai-robot-breakthroughs-you-need-to-know/",
+   "source": "Bitrebels.com",
+   "category": "robotics",
+   "published": "2026-07-04T14:18:54+00:00"
+  },
+  {
+   "title": "Humanoid AI Robot Demonstrates World-First Gesture Technology",
+   "url": "https://newsonjapan.com/article/149858.php",
+   "source": "Newsonjapan.com",
+   "category": "robotics",
+   "published": "2026-07-04T09:13:04+00:00"
+  },
+  {
+   "title": "this soft robot wants to fold laundry without pretending to be human",
+   "url": "https://www.designboom.com/technology/soft-robot-fold-laundry-weave-robotics-isaac-1/",
+   "source": "Designboom",
+   "category": "robotics",
+   "published": "2026-07-03T21:00:49+00:00"
+  },
+  {
+   "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+   "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+   "source": "Google DeepMind",
+   "category": "breakthroughs",
+   "published": "2026-07-03T14:25:43+00:00"
+  },
+  {
+   "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
+   "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-02T03:34:48+00:00"
+  },
   {
    "title": "Show HN: I ran 400 hours of interviews, so I built the tool I wished existed",
    "url": "https://news.ycombinator.com/item?id=48778853",
@@ -209,8 +399,7 @@
    "url": "https://www.forbes.com/sites/johnkoetsier/2026/07/02/boston-dynamics-new-atlas-humanoid-robot-order-of-magnitude-simpler/",
    "source": "Forbes",
    "category": "robotics",
-   "published": "2026-07-02T22:42:29+00:00",
-   "breakthrough": true
+   "published": "2026-07-02T22:42:29+00:00"
   },
   {
    "title": "Global 5G in Defense Market to Surge from $2.06 Billion to $12.83 Billion by 2035, Driven by Advanced Network Integrations",
