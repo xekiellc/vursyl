@@ -1,6 +1,112 @@
 {
- "updated": "2026-07-06T10:47:22.756593+00:00",
+ "updated": "2026-07-06T15:43:45.919845+00:00",
  "items": [
+  {
+   "title": "How Nations Are Deploying AI for Strategic Priorities",
+   "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-06T15:00:25+00:00"
+  },
+  {
+   "title": "China Insight: China\u2019s Fashion Industry Enters the AI Era, From a Search Economy to Machine-led Discovery",
+   "url": "https://biztoc.com/x/210d15f4366f7dce",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-07-05T15:29:17+00:00"
+  },
+  {
+   "title": "Show HN: Contextrot\u2013 Analyze where Claude Code degrades from its own session log",
+   "url": "https://github.com/Priyanshu-byte-coder/contextrot",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-05T15:11:37+00:00"
+  },
+  {
+   "title": "Train and run transformers directly on Apple's Neural Engine",
+   "url": "https://github.com/christopherkarani/Espresso",
+   "source": "Github.com",
+   "category": "compute",
+   "published": "2026-07-05T15:02:43+00:00"
+  },
+  {
+   "title": "Show HN: microide, a 100% vibecoded IDE that LLM agents can drive",
+   "url": "https://pablojimenezmateo.github.io/microide/",
+   "source": "Github.io",
+   "category": "ai",
+   "published": "2026-07-05T14:49:19+00:00"
+  },
+  {
+   "title": "South Korea Plans 15GW AI Data Center Buildout",
+   "url": "https://slashdot.org/submission/17348736/south-korea-plans-15gw-ai-data-center-buildout",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-07-05T14:33:53+00:00"
+  },
+  {
+   "title": "Unitree secures approval for $619M Shanghai IPO to expand AI robotics",
+   "url": "https://cryptobriefing.com/unitree-619m-shanghai-ipo-ai-robotics/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-07-05T13:36:06+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "NHS App will use AI to triage patients as part of \u00a310bn tech overhaul",
+   "url": "https://thenextweb.com/news/nhs-app-ai-triage-10bn-overhaul/",
+   "source": "The Next Web",
+   "category": "health",
+   "published": "2026-07-05T13:22:37+00:00"
+  },
+  {
+   "title": "China\u2019s robot-run hotel opens to public in 2027",
+   "url": "https://www.foxnews.com/tech/chinas-robot-run-hotel-opens-public-2027",
+   "source": "Fox News",
+   "category": "robotics",
+   "published": "2026-07-05T10:58:01+00:00"
+  },
+  {
+   "title": "BMW Puts Next-Gen Humanoid Robots To Work On Factory Floors In South Carolina",
+   "url": "https://biztoc.com/x/b89cfccad26b4035",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-05T01:44:39+00:00"
+  },
+  {
+   "title": "BMW deploys next-gen humanoid robots in South Carolina factory",
+   "url": "https://cryptobriefing.com/bmw-humanoid-robots-south-carolina-factory/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-07-05T01:39:11+00:00"
+  },
+  {
+   "title": "iFLYTEK Officially Launches Open Platform in Central Asia, Positioning Uzbekistan as a New Regional AI Hub",
+   "url": "https://www.globenewswire.com/news-release/2026/07/05/3322052/0/en/iFLYTEK-Officially-Launches-Open-Platform-in-Central-Asia-Positioning-Uzbekistan-as-a-New-Regional-AI-Hub.html",
+   "source": "GlobeNewswire",
+   "category": "ai",
+   "published": "2026-07-05T01:19:00+00:00"
+  },
+  {
+   "title": "Two People With Severe Autoimmune Disease Are in Remission After 'Reset' Treatment",
+   "url": "https://www.sciencealert.com/two-people-with-severe-autoimmune-disease-are-in-remission-after-stem-cell-transplant",
+   "source": "ScienceAlert",
+   "category": "health",
+   "published": "2026-07-05T01:10:00+00:00"
+  },
+  {
+   "title": "NSA, DEVCOM Army Research Office Launch QuantumEAGLe Initiative",
+   "url": "https://soldiersystems.net/2026/07/05/nsa-devcom-army-research-office-launch-quantumeagle-initiative/",
+   "source": "Soldiersystems.net",
+   "category": "quantum",
+   "published": "2026-07-05T00:00:00+00:00"
+  },
+  {
+   "title": "NHS app to use AI to determine which service best for patients",
+   "url": "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o",
+   "source": "BBC News",
+   "category": "health",
+   "published": "2026-07-04T21:32:08+00:00"
+  },
   {
    "title": "ETtech Explainer: What is Microsoft\u2019s new Frontier Company?",
    "url": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-what-is-microsofts-new-frontier-company/articleshow/132194098.cms",
@@ -58,13 +164,6 @@
    "published": "2026-07-05T09:23:12+00:00"
   },
   {
-   "title": "UBTech U1 Robot: Is This the Most Human-Like Humanoid Robot Yet?",
-   "url": "https://www.kuriositas.com/2026/07/ubtech-u1-robot-is-this-most-human-like.html",
-   "source": "Kuriositas.com",
-   "category": "robotics",
-   "published": "2026-07-05T08:35:41+00:00"
-  },
-  {
    "title": "Broadcom locks in deals with three hyperscalers, cementing its role as the AI chip maker that isn\u2019t Nvidia",
    "url": "https://cryptobriefing.com/broadcom-hyperscaler-deals-ai-chip-investment/",
    "source": "Crypto Briefing",
@@ -83,15 +182,7 @@
    "url": "https://www.sciencealert.com/scientists-just-unlocked-an-endless-army-of-cancer-fighting-cells",
    "source": "ScienceAlert",
    "category": "health",
-   "published": "2026-07-04T18:00:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "\u2018In some jobs, they want to be replaced\u2019: Chinese robotics company Agibot says humanoids could take over \u2018dangerous\u2019 jobs \u2014 and one day even teach children",
-   "url": "https://www.techradar.com/tech/in-some-jobs-they-want-to-be-replaced-chinese-robotics-company-agibot-says-humanoids-could-take-over-dangerous-jobs-and-one-day-even-teach-children",
-   "source": "TechRadar",
-   "category": "robotics",
-   "published": "2026-07-04T16:00:00+00:00"
+   "published": "2026-07-04T18:00:00+00:00"
   },
   {
    "title": "The Quest to Make Humanoid Robots Safe Enough for Humans - WSJ",
@@ -106,13 +197,6 @@
    "source": "Bitrebels.com",
    "category": "robotics",
    "published": "2026-07-04T15:25:02+00:00"
-  },
-  {
-   "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-   "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-   "source": "Google DeepMind",
-   "category": "breakthroughs",
-   "published": "2026-07-03T14:25:43+00:00"
   },
   {
    "title": "rag-llm-infra 0.1.2",
