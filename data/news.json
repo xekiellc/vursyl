@@ -1,6 +1,161 @@
 {
- "updated": "2026-07-08T14:26:16.562172+00:00",
+ "updated": "2026-07-08T19:40:46.532449+00:00",
  "items": [
+  {
+   "title": "Flint: A visualization language for the AI era",
+   "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-07-08T16:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+   "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-08T15:00:27+00:00"
+  },
+  {
+   "title": "Helping K\u201312 educators build practical AI skills",
+   "url": "https://openai.com/index/k-12-educators-practical-skills",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-08T10:00:00+00:00"
+  },
+  {
+   "title": "Introducing GPT-Live",
+   "url": "https://openai.com/index/introducing-gpt-live",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-08T00:00:00+00:00"
+  },
+  {
+   "title": "Show HN: Q a REPL for LLM inside the terminal",
+   "url": "https://github.com/alaa-alawi/q",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-07T19:37:50+00:00"
+  },
+  {
+   "title": "Storage gets promoted in the agentic AI era",
+   "url": "https://siliconangle.com/2026/07/07/storage-technology-value-agentic-ai-raisesummit/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-07-07T19:28:18+00:00"
+  },
+  {
+   "title": "Show HN: Tessera \u2013 an AI agent that refuses to answer without evidence",
+   "url": "https://github.com/robert-vetter/tessera",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-07T19:24:07+00:00"
+  },
+  {
+   "title": "How Imperial College London is accelerating dementia research with a modern data platform",
+   "url": "https://www.databricks.com/blog/how-imperial-college-london-accelerating-dementia-research-modern-data-platform",
+   "source": "Databricks.com",
+   "category": "health",
+   "published": "2026-07-07T19:20:00+00:00"
+  },
+  {
+   "title": "Show HN: Bike4Mind \u2013 open-core AI workbench; any model, agents, RAG, self-host",
+   "url": "https://github.com/Bike4Mind/bike4mind",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-07T19:17:34+00:00"
+  },
+  {
+   "title": "Perplexity says it plans to use Nvidia's new CPU",
+   "url": "https://www.channelnewsasia.com/business/perplexity-says-it-plans-use-nvidias-new-cpu-6239231",
+   "source": "CNA",
+   "category": "compute",
+   "published": "2026-07-07T19:03:47+00:00"
+  },
+  {
+   "title": "South Korea\u2019s FuriosaAI brings its Nvidia-challenger chips to Europe",
+   "url": "https://thenextweb.com/news/furiosaai-rngd-europe-equinix-lisbon/",
+   "source": "The Next Web",
+   "category": "compute",
+   "published": "2026-07-07T18:57:59+00:00"
+  },
+  {
+   "title": "Tracing evolution of vaccine for cancer, malaria",
+   "url": "https://news.harvard.edu/gazette/story/2026/07/tracing-evolution-of-vaccine-for-cancer-malaria/",
+   "source": "Harvard School of Engineering and Applied Sciences",
+   "category": "health",
+   "published": "2026-07-07T18:48:54+00:00"
+  },
+  {
+   "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+   "url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
+   "source": "Nvidia.com",
+   "category": "robotics",
+   "published": "2026-07-07T17:06:00+00:00"
+  },
+  {
+   "title": "EDETEK to Support the FDA's Real-Time Clinical Trials Initiative with Its R&D Cloud and Sponsor Partnership Program",
+   "url": "https://www.prnewswire.com/news-releases/edetek-to-support-the-fdas-real-time-clinical-trials-initiative-with-its-rd-cloud-and-sponsor-partnership-program-302819697.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-07T16:30:00+00:00"
+  },
+  {
+   "title": "Fractal Selected as Preferred Services Partner in the Claude Partner Network",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/fractal-selected-as-preferred-services-partner-in-the-claude-partner-network/article71194978.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-07-07T16:00:21+00:00"
+  },
+  {
+   "title": "A-Alpha Bio Launches Atlas to Address the Data Bottleneck in AI-Enabled Protein Design",
+   "url": "https://www.globenewswire.com/news-release/2026/07/07/3323508/0/en/A-Alpha-Bio-Launches-Atlas-to-Address-the-Data-Bottleneck-in-AI-Enabled-Protein-Design.html",
+   "source": "GlobeNewswire",
+   "category": "breakthroughs",
+   "published": "2026-07-07T16:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Reliance's Strand Life Sciences secures Indian patent for blood-based early cancer detection",
+   "url": "https://www.livemint.com/companies/news/rils-strand-life-sciences-secures-indian-patent-for-blood-based-early-cancer-detection-11783430389988.html",
+   "source": "Livemint",
+   "category": "health",
+   "published": "2026-07-07T15:41:59+00:00"
+  },
+  {
+   "title": "Ex-Tesla Optimus scientist unveils European humanoid robot startup",
+   "url": "http://electrek.co/2026/07/07/tesla-optimus-scientist-uma-humanoid-robot/",
+   "source": "Electrek",
+   "category": "robotics",
+   "published": "2026-07-07T14:56:32+00:00"
+  },
+  {
+   "title": "Syntiant files for a US IPO, betting public markets want edge AI too",
+   "url": "https://thenextweb.com/news/syntiant-us-ipo-edge-ai-nasdaq/",
+   "source": "The Next Web",
+   "category": "compute",
+   "published": "2026-07-07T10:50:37+00:00"
+  },
+  {
+   "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+   "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-07-07T06:00:26+00:00"
+  },
+  {
+   "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+   "url": "https://openai.com/index/australian-payments-plus",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-07T00:00:00+00:00"
+  },
+  {
+   "title": "How Open Models Are Driving AI Research",
+   "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-06T16:00:00+00:00"
+  },
   {
    "title": "AI Innovators Adopt NVIDIA Vera \u2014 Why Max Single-Threaded CPU at Scale Matters",
    "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
@@ -139,8 +294,7 @@
    "url": "https://github.com/bkuan001/halo-record",
    "source": "Github.com",
    "category": "ai",
-   "published": "2026-07-07T14:07:08+00:00",
-   "breakthrough": true
+   "published": "2026-07-07T14:07:08+00:00"
   },
   {
    "title": "tensor-grep 1.45.2",
@@ -248,13 +402,6 @@
    "published": "2026-07-07T13:17:00+00:00"
   },
   {
-   "title": "A hobbyist is building his home AI \"a body\", one sensor at a time",
-   "url": "https://www.notebookcheck.net/A-hobbyist-is-building-his-home-AI-a-body-one-sensor-at-a-time.1336766.0.html",
-   "source": "Notebookcheck.net",
-   "category": "robotics",
-   "published": "2026-07-07T13:14:00+00:00"
-  },
-  {
    "title": "Presage Technologies Earns FDA Clearance for Contactless Vital Signs, Makes Them Available for Free",
    "url": "https://www.prnewswire.com/news-releases/presage-technologies-earns-fda-clearance-for-contactless-vital-signs-makes-them-available-for-free-302818692.html",
    "source": "PRNewswire",
@@ -304,74 +451,11 @@
    "published": "2026-07-07T13:01:00+00:00"
   },
   {
-   "title": "Onconetix Highlights Realbotix Partnership with Bloom Services to Launch UK Pilot Using Humanoid Robots to Combat Elderly Social Isolation",
-   "url": "https://www.globenewswire.com/news-release/2026/07/07/3323233/0/en/Onconetix-Highlights-Realbotix-Partnership-with-Bloom-Services-to-Launch-UK-Pilot-Using-Humanoid-Robots-to-Combat-Elderly-Social-Isolation.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-07T13:00:00+00:00"
-  },
-  {
-   "title": "\u2018Robots should understand you, talk to you, and work for you\u2019: Chinese robotics company Agibot is heralding a robot revolution \u2014 I met the \u2018humanoids\u2019 up close",
-   "url": "https://www.techradar.com/tech/robots-should-understand-you-talk-to-you-and-work-for-you-chinese-robotics-company-agibot-is-heralding-a-robot-revolution-i-met-the-humanoids-up-close",
-   "source": "TechRadar",
-   "category": "robotics",
-   "published": "2026-07-07T12:48:11+00:00"
-  },
-  {
-   "title": "Ex-Tesla Optimus scientist launches UMA to build Europe\u2019s humanoid robot",
-   "url": "https://thenextweb.com/news/uma-cadene-northstar-european-humanoid-robot/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-07-07T12:32:54+00:00"
-  },
-  {
-   "title": "Realbotix Partners with Bloom to Launch UK Pilot Using Humanoid Robots to Combat Elderly Social Isolation",
-   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/realbotix-partners-with-bloom-to-launch-uk-pilot-using-humanoid-robots-to-combat-elderly-social-isolation",
-   "source": "Financial Post",
-   "category": "robotics",
-   "published": "2026-07-07T11:30:36+00:00"
-  },
-  {
-   "title": "Airwheel Launches AI Suitcase Redefines Smart Travel - Luxury Intelligent Rideable Electric Cabin Suitcase for the Future of Mobility",
-   "url": "https://www.globenewswire.com/news-release/2026/07/07/3322972/0/en/Airwheel-Launches-AI-Suitcase-Redefines-Smart-Travel-Luxury-Intelligent-Rideable-Electric-Cabin-Suitcase-for-the-Future-of-Mobility.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-07T09:46:00+00:00"
-  },
-  {
-   "title": "World\u2019s First 3D-printed Nuclear Reactor Module Unveiled By US Firm",
-   "url": "https://www.ponoko.com/blog/ponoko/worlds-first-3d-printed-nuclear-reactor-module-unveiled-by-us-firm/",
-   "source": "Ponoko.com",
-   "category": "breakthroughs",
-   "published": "2026-07-07T09:14:21+00:00"
-  },
-  {
-   "title": "Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
-   "url": "https://www.nature.com/articles/s41586-026-10882-0",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-07-07T00:00:00+00:00"
-  },
-  {
-   "title": "MUFG aims to become AI-native with OpenAI",
-   "url": "https://openai.com/index/mufg",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-07T00:00:00+00:00"
-  },
-  {
    "title": "Toward a future that preserves benefits of neurotechnology for all",
    "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
    "source": "MIT News AI",
    "category": "health",
    "published": "2026-07-06T19:50:00+00:00"
-  },
-  {
-   "title": "How Nations Are Deploying AI for Strategic Priorities",
-   "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-06T15:00:25+00:00"
   },
   {
    "title": "Rapid Growth in AI for Animal Health: Market Expected to Reach $4.21 Billion by 2030",
