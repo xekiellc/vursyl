@@ -1,6 +1,378 @@
 {
- "updated": "2026-07-08T08:36:47.883040+00:00",
+ "updated": "2026-07-08T14:26:16.562172+00:00",
  "items": [
+  {
+   "title": "AI Innovators Adopt NVIDIA Vera \u2014 Why Max Single-Threaded CPU at Scale Matters",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-07T15:00:52+00:00"
+  },
+  {
+   "title": "simplicio-cli 0.9.4",
+   "url": "https://pypi.org/project/simplicio-cli/0.9.4/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-07T14:19:06+00:00"
+  },
+  {
+   "title": "ai-model-manager 0.2.2",
+   "url": "https://pypi.org/project/ai-model-manager/0.2.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-07T14:19:03+00:00"
+  },
+  {
+   "title": "The replacement-augmentation paradox: techno-perceptual dynamics of AI adoption in medical imaging and the future of work",
+   "url": "https://researchonline.lse.ac.uk/id/eprint/140138/",
+   "source": "Lse.ac.uk",
+   "category": "health",
+   "published": "2026-07-07T14:19:01+00:00"
+  },
+  {
+   "title": "PraisonAI 4.6.133",
+   "url": "https://pypi.org/project/praisonai/4.6.133/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-07T14:18:01+00:00"
+  },
+  {
+   "title": "code2lora 0.2.1",
+   "url": "https://pypi.org/project/code2lora/0.2.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-07T14:16:57+00:00"
+  },
+  {
+   "title": "scankii 1.3.0",
+   "url": "https://pypi.org/project/scankii/1.3.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-07T14:16:31+00:00"
+  },
+  {
+   "title": "Intel Arc Graphics Driver 30.0.101.1325 for Windows 10 version 1903 64-bit",
+   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-30-0-101-1325-for-Windows-10-version-1903-64-bit.shtml",
+   "source": "Softpedia.com",
+   "category": "compute",
+   "published": "2026-07-07T14:16:01+00:00"
+  },
+  {
+   "title": "pwm-agent-core 1.0.0",
+   "url": "https://pypi.org/project/pwm-agent-core/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-07T14:15:43+00:00"
+  },
+  {
+   "title": "pwm-agent-codex-gpu 0.1.0",
+   "url": "https://pypi.org/project/pwm-agent-codex-gpu/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-07-07T14:15:42+00:00"
+  },
+  {
+   "title": "pwm-agent-claude-gpu 0.1.0",
+   "url": "https://pypi.org/project/pwm-agent-claude-gpu/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-07-07T14:15:41+00:00"
+  },
+  {
+   "title": "Bitdeer\u2019s (BTDR) Subsidiary Signs AI Data Center Colocation Lease Agreement",
+   "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_58cc5023-802a-4a21-bc29-14cd99e344c9",
+   "source": "Yahoo Entertainment",
+   "category": "compute",
+   "published": "2026-07-07T14:15:32+00:00"
+  },
+  {
+   "title": "Nvidia Corp. (NVDA) Announces a Profit-Sharing Program For Its Computing Framework Access",
+   "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_55dca2ba-36e8-4363-9f31-ad4e1e58c9d8",
+   "source": "Yahoo Entertainment",
+   "category": "compute",
+   "published": "2026-07-07T14:15:26+00:00"
+  },
+  {
+   "title": "AI-driven governance essential for detecting fraud, managing high financial data volatility: Experts",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-driven-governance-essential-for-detecting-fraud-managing-high-financial-data-volatility-experts/articleshow/132241569.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-07-07T14:13:46+00:00"
+  },
+  {
+   "title": "markitai 0.16.0",
+   "url": "https://pypi.org/project/markitai/0.16.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-07T14:13:38+00:00"
+  },
+  {
+   "title": "Surgical Safety Technologies Becomes Aimbient, Expanding Ambient AI Across the Procedural Environment",
+   "url": "https://www.prnewswire.com/news-releases/surgical-safety-technologies-becomes-aimbient-expanding-ambient-ai-across-the-procedural-environment-302819601.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-07T14:12:00+00:00"
+  },
+  {
+   "title": "eggpool 0.5.4",
+   "url": "https://pypi.org/project/eggpool/0.5.4/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-07T14:10:19+00:00"
+  },
+  {
+   "title": "Evaluating browser security in the AI search era",
+   "url": "https://www.techtarget.com/searchcio/feature/Evaluating-browser-security-in-the-AI-search-era",
+   "source": "Techtarget.com",
+   "category": "ai",
+   "published": "2026-07-07T14:10:00+00:00"
+  },
+  {
+   "title": "taiwan-fda-mcp 0.6.0",
+   "url": "https://pypi.org/project/taiwan-fda-mcp/0.6.0/",
+   "source": "Pypi.org",
+   "category": "health",
+   "published": "2026-07-07T14:09:08+00:00"
+  },
+  {
+   "title": "Show HN: Halo \u2013 open-source, tamper-evident runtime evidence for AI agents",
+   "url": "https://github.com/bkuan001/halo-record",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-07T14:07:08+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "tensor-grep 1.45.2",
+   "url": "https://pypi.org/project/tensor-grep/1.45.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-07T14:03:46+00:00"
+  },
+  {
+   "title": "Wistron Intel Arc Graphics Driver 32.0.101.6637 for Windows 10 version 1903 64-bit",
+   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-6637-for-Windows-10-version-1903-64-bit.shtml",
+   "source": "Softpedia.com",
+   "category": "compute",
+   "published": "2026-07-07T14:02:40+00:00"
+  },
+  {
+   "title": "Wistron Intel Arc Graphics Driver 32.0.101.6637 for Windows 10 version 21H2 64-bit",
+   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-6637-for-Windows-10-version-21H2-64-bit.shtml",
+   "source": "Softpedia.com",
+   "category": "compute",
+   "published": "2026-07-07T14:02:15+00:00"
+  },
+  {
+   "title": "Plasma cell-free DNA measured prior to renal replacement therapy initiation is not associated with incident adverse outcomes, hospitalizations or malignancies in chronic kidney disease stage 4\u20135 patients",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353258",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-07-07T14:00:00+00:00"
+  },
+  {
+   "title": "A developmental shift in glucocorticoid receptor expression preserves glucocorticoid sensitivity in the adult suprachiasmatic nucleus",
+   "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003870",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-07-07T14:00:00+00:00"
+  },
+  {
+   "title": "Photonic Inc. Names Orlagh Neary Chief Marketing Officer and Briony Shipman Vice President of Global Government Affairs",
+   "url": "https://www.globenewswire.com/news-release/2026/07/07/3323385/0/en/Photonic-Inc-Names-Orlagh-Neary-Chief-Marketing-Officer-and-Briony-Shipman-Vice-President-of-Global-Government-Affairs.html",
+   "source": "GlobeNewswire",
+   "category": "ai",
+   "published": "2026-07-07T14:00:00+00:00"
+  },
+  {
+   "title": "Enhancing medical Q&A systems with multimodal knowledge graphs and dual-layer attention mechanisms",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353112",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-07-07T14:00:00+00:00"
+  },
+  {
+   "title": "A unified framework for interpretable elevator fault diagnosis and predictive maintenance via style-aware CoT fine-tuning",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353219",
+   "source": "Plos.org",
+   "category": "ai",
+   "published": "2026-07-07T14:00:00+00:00"
+  },
+  {
+   "title": "Discovery of hub genes linking oxidative stress to type 2 diabetic sarcopenia using single-cell sequencing and machine learning",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352753",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-07-07T14:00:00+00:00"
+  },
+  {
+   "title": "Insilico Initiates Phase III Clinical Trial for Rentosertib, Its AI-Empowered TNIK Inhibitor for Idiopathic Pulmonary Fibrosis",
+   "url": "https://www.prnewswire.com/news-releases/insilico-initiates-phase-iii-clinical-trial-for-rentosertib-its-ai-empowered-tnik-inhibitor-for-idiopathic-pulmonary-fibrosis-302819553.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-07T13:43:00+00:00"
+  },
+  {
+   "title": "Reliance\u2019s Strand Life Sciences secures Indian patent for liquid biopsy platform",
+   "url": "https://www.thehindubusinessline.com/news/science/reliances-strand-life-sciences-secures-indian-patent-for-liquid-biopsy-platform/article71193229.ece",
+   "source": "BusinessLine",
+   "category": "health",
+   "published": "2026-07-07T13:42:11+00:00"
+  },
+  {
+   "title": "The Genes That Could Cancel Out a Fatal Diagnosis",
+   "url": "https://www.theatlantic.com/health/2026/07/genetic-outliers/687821/",
+   "source": "The Atlantic",
+   "category": "health",
+   "published": "2026-07-07T13:38:28+00:00"
+  },
+  {
+   "title": "A Pilot Project for Fashion Made in America\u2014But With AI and\u00a0Robotics",
+   "url": "http://wwd.com/sourcing-journal/trade/made-in-america-robotics-avalo-createme-laguna-fabrics-1239054525/",
+   "source": "WWD",
+   "category": "robotics",
+   "published": "2026-07-07T13:30:00+00:00"
+  },
+  {
+   "title": "Oncotelic Successfully Completes Initial Safety Cohort of Phase 1b SP-03-B101 Trial; Independent Safety Review Committee Recommends Dose Escalation and European Expansion Underway",
+   "url": "https://www.globenewswire.com/news-release/2026/07/07/3323328/0/en/Oncotelic-Successfully-Completes-Initial-Safety-Cohort-of-Phase-1b-SP-03-B101-Trial-Independent-Safety-Review-Committee-Recommends-Dose-Escalation-and-European-Expansion-Underway.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-07T13:30:00+00:00"
+  },
+  {
+   "title": "Virtuix Signs Strategic Partnership with Sirica Therapeutics to Advance AI-Driven Autism Therapy",
+   "url": "https://www.globenewswire.com/news-release/2026/07/07/3323310/0/en/Virtuix-Signs-Strategic-Partnership-with-Sirica-Therapeutics-to-Advance-AI-Driven-Autism-Therapy.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-07T13:17:00+00:00"
+  },
+  {
+   "title": "A hobbyist is building his home AI \"a body\", one sensor at a time",
+   "url": "https://www.notebookcheck.net/A-hobbyist-is-building-his-home-AI-a-body-one-sensor-at-a-time.1336766.0.html",
+   "source": "Notebookcheck.net",
+   "category": "robotics",
+   "published": "2026-07-07T13:14:00+00:00"
+  },
+  {
+   "title": "Presage Technologies Earns FDA Clearance for Contactless Vital Signs, Makes Them Available for Free",
+   "url": "https://www.prnewswire.com/news-releases/presage-technologies-earns-fda-clearance-for-contactless-vital-signs-makes-them-available-for-free-302818692.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-07T13:13:00+00:00"
+  },
+  {
+   "title": "FDA Clears CliniComp PACS Viewer (MIMPS), Unifying Diagnostic Imaging, Enterprise EHR, and Native AI in a Single Platform",
+   "url": "https://www.prnewswire.com/news-releases/fda-clears-clinicomp-pacs-viewer-mimps-unifying-diagnostic-imaging-enterprise-ehr-and-native-ai-in-a-single-platform-302818723.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-07T13:11:00+00:00"
+  },
+  {
+   "title": "AI4Eyes Accepted into MEDTEQ+ Avis\u00e9 Program and Awarded $700,000 to be Tested in Real World Clinical Setting",
+   "url": "https://www.prnewswire.com/news-releases/ai4eyes-accepted-into-medteq-avise-program-and-awarded-700-000-to-be-tested-in-real-world-clinical-setting-302819514.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-07T13:10:00+00:00"
+  },
+  {
+   "title": "emtelligent Medical Language Engine Improves LLM Coding Accuracy",
+   "url": "https://www.prnewswire.com/news-releases/emtelligent-medical-language-engine-improves-llm-coding-accuracy-302819316.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-07T13:06:00+00:00"
+  },
+  {
+   "title": "Altasciences and Evidence Matters Advance AI-Driven Drug Development With Nonclinical Automation Breakthrough",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/altasciences-and-evidence-matters-advance-ai-driven-drug-development-with-nonclinical-automation-breakthrough",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-07-07T13:03:47+00:00"
+  },
+  {
+   "title": "WELL Health Announces Proposed TSXV Listing and Concurrent Financing for WELLSTAR, One of Canada\u2019s Leading Healthcare Software and AI Platforms",
+   "url": "https://www.globenewswire.com/news-release/2026/07/07/3323291/0/en/WELL-Health-Announces-Proposed-TSXV-Listing-and-Concurrent-Financing-for-WELLSTAR-One-of-Canada-s-Leading-Healthcare-Software-and-AI-Platforms.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-07T13:03:00+00:00"
+  },
+  {
+   "title": "Carta Healthcare Brings Hybrid Intelligence to Oncology with Lighthouse for Cancer Registry Abstraction",
+   "url": "https://www.prnewswire.com/news-releases/carta-healthcare-brings-hybrid-intelligence-to-oncology-with-lighthouse-for-cancer-registry-abstraction-302819285.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-07T13:01:00+00:00"
+  },
+  {
+   "title": "Onconetix Highlights Realbotix Partnership with Bloom Services to Launch UK Pilot Using Humanoid Robots to Combat Elderly Social Isolation",
+   "url": "https://www.globenewswire.com/news-release/2026/07/07/3323233/0/en/Onconetix-Highlights-Realbotix-Partnership-with-Bloom-Services-to-Launch-UK-Pilot-Using-Humanoid-Robots-to-Combat-Elderly-Social-Isolation.html",
+   "source": "GlobeNewswire",
+   "category": "robotics",
+   "published": "2026-07-07T13:00:00+00:00"
+  },
+  {
+   "title": "\u2018Robots should understand you, talk to you, and work for you\u2019: Chinese robotics company Agibot is heralding a robot revolution \u2014 I met the \u2018humanoids\u2019 up close",
+   "url": "https://www.techradar.com/tech/robots-should-understand-you-talk-to-you-and-work-for-you-chinese-robotics-company-agibot-is-heralding-a-robot-revolution-i-met-the-humanoids-up-close",
+   "source": "TechRadar",
+   "category": "robotics",
+   "published": "2026-07-07T12:48:11+00:00"
+  },
+  {
+   "title": "Ex-Tesla Optimus scientist launches UMA to build Europe\u2019s humanoid robot",
+   "url": "https://thenextweb.com/news/uma-cadene-northstar-european-humanoid-robot/",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-07-07T12:32:54+00:00"
+  },
+  {
+   "title": "Realbotix Partners with Bloom to Launch UK Pilot Using Humanoid Robots to Combat Elderly Social Isolation",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/realbotix-partners-with-bloom-to-launch-uk-pilot-using-humanoid-robots-to-combat-elderly-social-isolation",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-07-07T11:30:36+00:00"
+  },
+  {
+   "title": "Airwheel Launches AI Suitcase Redefines Smart Travel - Luxury Intelligent Rideable Electric Cabin Suitcase for the Future of Mobility",
+   "url": "https://www.globenewswire.com/news-release/2026/07/07/3322972/0/en/Airwheel-Launches-AI-Suitcase-Redefines-Smart-Travel-Luxury-Intelligent-Rideable-Electric-Cabin-Suitcase-for-the-Future-of-Mobility.html",
+   "source": "GlobeNewswire",
+   "category": "robotics",
+   "published": "2026-07-07T09:46:00+00:00"
+  },
+  {
+   "title": "World\u2019s First 3D-printed Nuclear Reactor Module Unveiled By US Firm",
+   "url": "https://www.ponoko.com/blog/ponoko/worlds-first-3d-printed-nuclear-reactor-module-unveiled-by-us-firm/",
+   "source": "Ponoko.com",
+   "category": "breakthroughs",
+   "published": "2026-07-07T09:14:21+00:00"
+  },
+  {
+   "title": "Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
+   "url": "https://www.nature.com/articles/s41586-026-10882-0",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-07-07T00:00:00+00:00"
+  },
+  {
+   "title": "MUFG aims to become AI-native with OpenAI",
+   "url": "https://openai.com/index/mufg",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-07T00:00:00+00:00"
+  },
+  {
+   "title": "Toward a future that preserves benefits of neurotechnology for all",
+   "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-07-06T19:50:00+00:00"
+  },
+  {
+   "title": "How Nations Are Deploying AI for Strategic Priorities",
+   "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-06T15:00:25+00:00"
+  },
   {
    "title": "Rapid Growth in AI for Animal Health: Market Expected to Reach $4.21 Billion by 2030",
    "url": "https://www.globenewswire.com/news-release/2026/07/07/3322908/28124/en/Rapid-Growth-in-AI-for-Animal-Health-Market-Expected-to-Reach-4-21-Billion-by-2030.html",
@@ -79,20 +451,6 @@
    "published": "2026-07-07T07:52:40+00:00"
   },
   {
-   "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
-   "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-   "source": "Nvidia.com",
-   "category": "robotics",
-   "published": "2026-07-07T06:00:26+00:00"
-  },
-  {
-   "title": "How Boston Dynamics Got Its Atlas Humanoid Robot Fit for the World Cup",
-   "url": "https://www.cnet.com/tech/computing/boston-dynamics-atlas-humanoid-robot-world-cup-soccer-skills/",
-   "source": "CNET",
-   "category": "robotics",
-   "published": "2026-07-07T05:51:04+00:00"
-  },
-  {
    "title": "Verbalizable Representations\u00a0Form a Global Workspace in Language Models",
    "url": "https://transformer-circuits.pub/2026/workspace/index.html",
    "source": "Transformer-circuits.pub",
@@ -105,28 +463,6 @@
    "source": "Biztoc.com",
    "category": "health",
    "published": "2026-07-07T05:16:25+00:00"
-  },
-  {
-   "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-   "url": "https://openai.com/index/australian-payments-plus",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-07T00:00:00+00:00"
-  },
-  {
-   "title": "IBM, Oak Ridge and Cleveland Clinic unveil quantum-powered novel fusion energy research",
-   "url": "https://www.nextgov.com/emerging-tech/2026/07/ibm-oak-ridge-and-cleveland-clinic-unveil-quantum-powered-novel-fusion-energy-research/414599/",
-   "source": "Nextgov",
-   "category": "quantum",
-   "published": "2026-07-06T17:49:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "How Open Models Are Driving AI Research",
-   "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-06T16:00:00+00:00"
   },
   {
    "title": "mini-agent-kit added to PyPI",
@@ -269,13 +605,6 @@
    "published": "2026-07-07T02:27:00+00:00"
   },
   {
-   "title": "The Quantum Revolution: A Guide for Allied Policymakers",
-   "url": "https://www.hoover.org/research/quantum-revolution-guide-allied-policymakers",
-   "source": "Hoover.org",
-   "category": "quantum",
-   "published": "2026-07-07T00:00:00+00:00"
-  },
-  {
    "title": "Discovery of potent low-toxicity antimicrobial peptides through diffusion modeling",
    "url": "https://www.nature.com/articles/s41467-026-75030-8",
    "source": "Nature.com",
@@ -316,20 +645,6 @@
    "source": "The Times of India",
    "category": "health",
    "published": "2026-07-06T20:14:35+00:00"
-  },
-  {
-   "title": "How novice coders can develop AI programs for military applications",
-   "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-07T17:25:00+00:00"
-  },
-  {
-   "title": "Jesse Thaler named director of the Laboratory for Nuclear Science",
-   "url": "https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-07-07T14:45:00+00:00"
   },
   {
    "title": "A $310 Million Bet on AI Model Training",
