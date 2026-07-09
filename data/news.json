@@ -1,19 +1,244 @@
 {
- "updated": "2026-07-09T09:49:10.199441+00:00",
+ "updated": "2026-07-09T15:20:18.630597+00:00",
  "items": [
   {
-   "title": "Flint: A visualization language for the AI era",
-   "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-07-08T16:00:00+00:00"
+   "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-09T13:00:55+00:00"
   },
   {
-   "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-   "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+   "title": "runscribe added to PyPI",
+   "url": "https://pypi.org/project/runscribe/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T15:18:03+00:00"
+  },
+  {
+   "title": "distil-llm 1.13.0rc3",
+   "url": "https://pypi.org/project/distil-llm/1.13.0rc3/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T15:17:53+00:00"
+  },
+  {
+   "title": "soundgate 0.1.0",
+   "url": "https://pypi.org/project/soundgate/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T15:17:19+00:00"
+  },
+  {
+   "title": "soundgate added to PyPI",
+   "url": "https://pypi.org/project/soundgate/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T15:17:19+00:00"
+  },
+  {
+   "title": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets: BBG",
+   "url": "https://biztoc.com/x/ded833d7396d3930",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-07-08T15:13:32+00:00"
+  },
+  {
+   "title": "torch_to_nnef_llm 0.24.2",
+   "url": "https://pypi.org/project/torch-to-nnef-llm/0.24.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T15:13:24+00:00"
+  },
+  {
+   "title": "OpenAI announces upgraded voice mode for ChatGPT during livestream",
+   "url": "https://cryptobriefing.com/openai-announces-upgraded-voice-mode-for-chatgpt-during-livestream/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-07-08T15:12:38+00:00"
+  },
+  {
+   "title": "RICS Extends Early Access Program for GAIA | RIA\u2122, the Investment Adviser Industry's First Patented AI-Driven Platform for the Rule 206(4)-7 Annual Review",
+   "url": "https://www.prnewswire.com/news-releases/rics-extends-early-access-program-for-gaia--ria-the-investment-adviser-industrys-first-patented-ai-driven-platform-for-the-rule-2064-7-annual-review-302820226.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-07-08T15:11:00+00:00"
+  },
+  {
+   "title": "Blue Owl launches Kirkwood Infrastructure Group to build fiber backbone for AI-era data centers",
+   "url": "https://cryptobriefing.com/blue-owl-kirkwood-infrastructure-fiber-ai-data-centers/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-08T15:07:40+00:00"
+  },
+  {
+   "title": "Beyond Lithium: New Battery Tech Starts to Break Through",
+   "url": "https://e360.yale.edu/features/energy-storage-sodium-solid-state",
+   "source": "Yale.edu",
+   "category": "breakthroughs",
+   "published": "2026-07-08T15:07:00+00:00"
+  },
+  {
+   "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
+   "url": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
+   "source": "Nvidia.com",
+   "category": "ai",
+   "published": "2026-07-08T15:06:09+00:00"
+  },
+  {
+   "title": "sutra-dev 0.9.4",
+   "url": "https://pypi.org/project/sutra-dev/0.9.4/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T15:05:32+00:00"
+  },
+  {
+   "title": "promptry 1.0.1",
+   "url": "https://pypi.org/project/promptry/1.0.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T15:05:08+00:00"
+  },
+  {
+   "title": "Rigaku Opens \u2018Rigaku Solutions Center Osaka\u2019 to Strengthen Global Semiconductor Metrology Service Capabilities",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/rigaku-opens-rigaku-solutions-center-osaka-to-strengthen-global-semiconductor-metrology-service-capabilities",
+   "source": "Financial Post",
+   "category": "compute",
+   "published": "2026-07-08T15:02:07+00:00"
+  },
+  {
+   "title": "Beni Is a Cute Autonomous Camera Robot On Wheels",
+   "url": "https://petapixel.com/2026/07/08/beni-is-a-cute-autonomous-camera-robot-on-wheels/",
+   "source": "PetaPixel",
+   "category": "robotics",
+   "published": "2026-07-08T15:00:28+00:00"
+  },
+  {
+   "title": "Richardson Electronics, Ltd. Selected to Manufacture Power Supply for C-Motive's New ZeroMag\u00ae Electrostatic Motor",
+   "url": "https://www.globenewswire.com/news-release/2026/07/08/3324268/0/en/Richardson-Electronics-Ltd-Selected-to-Manufacture-Power-Supply-for-C-Motive-s-New-ZeroMag-Electrostatic-Motor.html",
+   "source": "GlobeNewswire",
+   "category": "compute",
+   "published": "2026-07-08T15:00:00+00:00"
+  },
+  {
+   "title": "LangChain and NVIDIA Launch NemoClaw Deep Agents Blueprint for Enterprise Agents",
+   "url": "https://www.prnewswire.com/news-releases/langchain-and-nvidia-launch-nemoclaw-deep-agents-blueprint-for-enterprise-agents-302820446.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-07-08T15:00:00+00:00"
+  },
+  {
+   "title": "Mistral AI unveils Robostral Navigate, an 8B robotics model that could reshape industrial automation investing",
+   "url": "https://cryptobriefing.com/mistral-robostral-navigate-robotics-model/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-07-08T14:56:56+00:00"
+  },
+  {
+   "title": "4 US Advanced Nuclear Reactors Successfully Demonstrated, DOE Says",
+   "url": "https://www.rigzone.com/news/4_us_advanced_nuclear_reactors_successfully_demonstrated_doe_says-08-jul-2026-184091-article/",
+   "source": "Rigzone",
+   "category": "compute",
+   "published": "2026-07-08T14:54:15+00:00"
+  },
+  {
+   "title": "Is Ionis Pharmaceuticals, Inc. (IONS) Stock a Buy After Tryngolza\u2019s FDA Approval?",
+   "url": "https://finance.yahoo.com/healthcare/articles/ionis-pharmaceuticals-inc-ions-stock-145029688.html",
+   "source": "Yahoo Entertainment",
+   "category": "health",
+   "published": "2026-07-08T14:50:29+00:00"
+  },
+  {
+   "title": "India bets on OSAT to build semiconductor manufacturing ecosystem",
+   "url": "https://www.thehindubusinessline.com/info-tech/india-bets-on-osat-to-build-semiconductor-manufacturing-ecosystem/article71198975.ece",
+   "source": "BusinessLine",
+   "category": "compute",
+   "published": "2026-07-08T14:48:47+00:00"
+  },
+  {
+   "title": "Quantum startup Oratomic banks $300M to race straight to fault-tolerance",
+   "url": "https://siliconangle.com/2026/07/08/quantum-startup-oratomic-banks-300m-race-straight-fault-tolerance/",
+   "source": "SiliconANGLE News",
+   "category": "quantum",
+   "published": "2026-07-08T14:45:40+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Tsingke Highlights AI-Driven CLDN18.2 Antibody Discovery at AIS 2026",
+   "url": "https://www.prnewswire.com/news-releases/tsingke-highlights-ai-driven-cldn18-2-antibody-discovery-at-ais-2026--302820198.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-08T14:17:00+00:00"
+  },
+  {
+   "title": "Linus Health AAIC Studies Advance Alzheimer's Care: Earlier Detection, More Confident Diagnosis, and Patient-Centered Measurement",
+   "url": "https://www.prnewswire.com/news-releases/linus-health-aaic-studies-advance-alzheimers-care-earlier-detection-more-confident-diagnosis-and-patient-centered-measurement-302820352.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-08T14:00:00+00:00"
+  },
+  {
+   "title": "QpiAI Open-Sources Its Quantum SDK to Accelerate Global Quantum Software Development",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/qpiai-open-sources-its-quantum-sdk-to-accelerate-global-quantum-software-development/article71197347.ece",
+   "source": "BusinessLine",
+   "category": "quantum",
+   "published": "2026-07-08T13:39:25+00:00"
+  },
+  {
+   "title": "Enzymatic DNA Synthesis Technology Market - Global Forecast 2026-2032, Leading Companies Profiled",
+   "url": "https://www.globenewswire.com/news-release/2026/07/08/3324186/28124/en/Enzymatic-DNA-Synthesis-Technology-Market-Global-Forecast-2026-2032-Leading-Companies-Profiled.html",
+   "source": "GlobeNewswire",
+   "category": "breakthroughs",
+   "published": "2026-07-08T13:30:00+00:00"
+  },
+  {
+   "title": "LUMI AI Factory Selects IQM to Deploy Advanced Quantum Computer, Accelerating Hybrid HPC and AI Development",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/lumi-ai-factory-selects-iqm-to-deploy-advanced-quantum-computer-accelerating-hybrid-hpc-and-ai-development",
+   "source": "Financial Post",
+   "category": "quantum",
+   "published": "2026-07-08T12:08:06+00:00"
+  },
+  {
+   "title": "BTQ Technologies Completes Acquisition of QPerfect, Advancing Its Mission of Building Trusted Quantum Technologies With World-Class Emulation, Digital Twin, and Control Capabilities",
+   "url": "https://www.prnewswire.com/news-releases/btq-technologies-completes-acquisition-of-qperfect-advancing-its-mission-of-building-trusted-quantum-technologies-with-world-class-emulation-digital-twin-and-control-capabilities-302820456.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-07-08T11:30:00+00:00"
+  },
+  {
+   "title": "Show HN: Open-weights VLA model for 20 robot embodiments (code and checkpoints)",
+   "url": "https://github.com/robbyant/lingbot-vla-v2",
+   "source": "Github.com",
+   "category": "robotics",
+   "published": "2026-07-08T10:32:54+00:00"
+  },
+  {
+   "title": "In vivo feasibility study of humanoid robots in surgery",
+   "url": "https://www.nature.com/articles/s41586-026-10796-x",
+   "source": "Nature.com",
+   "category": "robotics",
+   "published": "2026-07-08T00:00:00+00:00"
+  },
+  {
+   "title": "How novice coders can develop AI programs for military applications",
+   "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-07T17:25:00+00:00"
+  },
+  {
+   "title": "MUFG aims to become AI-native with OpenAI",
+   "url": "https://openai.com/index/mufg",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-07T00:00:00+00:00"
+  },
+  {
+   "title": "How Nations Are Deploying AI for Strategic Priorities",
+   "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
    "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-07-08T15:00:27+00:00"
+   "published": "2026-07-06T15:00:25+00:00"
   },
   {
    "title": "Our approach to government and national security partnerships",
@@ -184,20 +409,6 @@
    "published": "2026-07-08T08:20:00+00:00"
   },
   {
-   "title": "Robbyant Upgrades and Open-Sources LingBot-VLA 2.0 as a Next-Generation Universal Brain for Embodied AI",
-   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/robbyant-upgrades-and-open-sources-lingbot-vla-2-0-as-a-next-generation-universal-brain-for-embodied-ai",
-   "source": "Financial Post",
-   "category": "robotics",
-   "published": "2026-07-08T08:13:48+00:00"
-  },
-  {
-   "title": "Nomagic\u2019s new AI lab headed by former Google DeepMind researcher claims success in early deployment of \u2018AI brain\u2019 for warehouse robots",
-   "url": "https://biztoc.com/x/bf0d75a1010bede6",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-07-08T07:51:21+00:00"
-  },
-  {
    "title": "Tethis expands global access to SmartBioSurface\u00ae through new channel partners in Brazil, India, China and South Africa",
    "url": "https://www.prnewswire.com/news-releases/tethis-expands-global-access-to-smartbiosurface-through-new-channel-partners-in-brazil-india-china-and-south-africa-302818524.html",
    "source": "PRNewswire",
@@ -216,8 +427,7 @@
    "url": "https://www.sciencealert.com/painless-swab-detects-oral-cancers-in-an-hour-with-over-95-accuracy",
    "source": "ScienceAlert",
    "category": "health",
-   "published": "2026-07-08T05:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-07-08T05:00:00+00:00"
   },
   {
    "title": "QpiAI Open-Sources Its Quantum SDK to Accelerate Global Quantum Software Development",
@@ -227,27 +437,6 @@
    "published": "2026-07-08T04:40:04+00:00"
   },
   {
-   "title": "Introducing GPT-Live",
-   "url": "https://openai.com/index/introducing-gpt-live",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-08T00:00:00+00:00"
-  },
-  {
-   "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
-   "url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
-   "source": "Nvidia.com",
-   "category": "robotics",
-   "published": "2026-07-07T17:06:00+00:00"
-  },
-  {
-   "title": "AI Innovators Adopt NVIDIA Vera \u2014 Why Max Single-Threaded CPU at Scale Matters",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-07T15:00:52+00:00"
-  },
-  {
    "title": "Ex-Tesla Optimus scientist unveils European humanoid robot startup",
    "url": "http://electrek.co/2026/07/07/tesla-optimus-scientist-uma-humanoid-robot/",
    "source": "Electrek",
@@ -255,32 +444,11 @@
    "published": "2026-07-07T14:56:32+00:00"
   },
   {
-   "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
-   "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-07-07T06:00:26+00:00"
-  },
-  {
-   "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-   "url": "https://openai.com/index/australian-payments-plus",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-07T00:00:00+00:00"
-  },
-  {
    "title": "Toward a future that preserves benefits of neurotechnology for all",
    "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
    "source": "MIT News AI",
    "category": "ai",
    "published": "2026-07-06T19:50:00+00:00"
-  },
-  {
-   "title": "How Open Models Are Driving AI Research",
-   "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-06T16:00:00+00:00"
   },
   {
    "title": "Germany Sets New Six-Month Start-Up Record",
