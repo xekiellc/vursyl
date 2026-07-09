@@ -1,12 +1,286 @@
 {
- "updated": "2026-07-09T03:43:23.283672+00:00",
+ "updated": "2026-07-09T09:49:10.199441+00:00",
  "items": [
   {
-   "title": "Separating signal from noise in coding evaluations",
-   "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+   "title": "Flint: A visualization language for the AI era",
+   "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-07-08T16:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+   "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-08T15:00:27+00:00"
+  },
+  {
+   "title": "Our approach to government and national security partnerships",
+   "url": "https://openai.com/index/government-national-security-partnerships",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-07-08T13:00:00+00:00"
+   "published": "2026-07-08T13:30:00+00:00"
+  },
+  {
+   "title": "Helping K\u201312 educators build practical AI skills",
+   "url": "https://openai.com/index/k-12-educators-practical-skills",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-08T10:00:00+00:00"
+  },
+  {
+   "title": "opik 2.1.20",
+   "url": "https://pypi.org/project/opik/2.1.20/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T09:47:21+00:00"
+  },
+  {
+   "title": "PraisonAI 4.6.138",
+   "url": "https://pypi.org/project/praisonai/4.6.138/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T09:45:10+00:00"
+  },
+  {
+   "title": "llm-workflow-router 0.3.0",
+   "url": "https://pypi.org/project/llm-workflow-router/0.3.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T09:42:59+00:00"
+  },
+  {
+   "title": "llm-workflow-router added to PyPI",
+   "url": "https://pypi.org/project/llm-workflow-router/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T09:42:59+00:00"
+  },
+  {
+   "title": "promptshield-llm added to PyPI",
+   "url": "https://pypi.org/project/promptshield-llm/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T09:42:25+00:00"
+  },
+  {
+   "title": "promptshield-llm 0.1.0",
+   "url": "https://pypi.org/project/promptshield-llm/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T09:42:25+00:00"
+  },
+  {
+   "title": "A new wave of AI startups wants to automate hedge funds' secret sauce",
+   "url": "https://www.businessinsider.com/hedge-fund-ai-startups-analysts-investment-research-jobs-2026-7#article",
+   "source": "Business Insider",
+   "category": "ai",
+   "published": "2026-07-08T09:34:01+00:00"
+  },
+  {
+   "title": "Crusoe brings serverless fine-tuning to AI model development",
+   "url": "https://www.helpnetsecurity.com/2026/07/08/crusoe-serverless-fine-tuning/",
+   "source": "Help Net Security",
+   "category": "ai",
+   "published": "2026-07-08T09:31:57+00:00"
+  },
+  {
+   "title": "Replication Data for: \"SOCbot: Using Large Language Models to dynamically measure and classify occupations in surveys\"",
+   "url": "https://researchonline.lse.ac.uk/id/eprint/140153/",
+   "source": "Lse.ac.uk",
+   "category": "ai",
+   "published": "2026-07-08T09:30:18+00:00"
+  },
+  {
+   "title": "llm-rosetta 0.7.0a3",
+   "url": "https://pypi.org/project/llm-rosetta/0.7.0a3/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T09:28:16+00:00"
+  },
+  {
+   "title": "trialmatchai 0.5.0",
+   "url": "https://pypi.org/project/trialmatchai/0.5.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T09:27:29+00:00"
+  },
+  {
+   "title": "gaptrace added to PyPI",
+   "url": "https://pypi.org/project/gaptrace/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T09:25:30+00:00"
+  },
+  {
+   "title": "SNP and Palantir Form Strategic Partnership to Accelerate Secure SAP Transformations",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snp-and-palantir-form-strategic-partnership-to-accelerate-secure-sap-transformations",
+   "source": "Financial Post",
+   "category": "ai",
+   "published": "2026-07-08T09:24:59+00:00"
+  },
+  {
+   "title": "gaptrace-evaluate added to PyPI",
+   "url": "https://pypi.org/project/gaptrace-evaluate/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T09:24:57+00:00"
+  },
+  {
+   "title": "gaptrace-capture added to PyPI",
+   "url": "https://pypi.org/project/gaptrace-capture/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-08T09:24:11+00:00"
+  },
+  {
+   "title": "AI in Warehousing Market Projected to Reach $127.66 Billion by 2035 as E-Commerce Automation and Intelligent Logistics Accelerate Worldwide | Report by SNS Insider",
+   "url": "https://www.globenewswire.com/news-release/2026/07/08/3323879/0/en/AI-in-Warehousing-Market-Projected-to-Reach-127-66-Billion-by-2035-as-E-Commerce-Automation-and-Intelligent-Logistics-Accelerate-Worldwide-Report-by-SNS-Insider.html",
+   "source": "GlobeNewswire",
+   "category": "ai",
+   "published": "2026-07-08T09:10:00+00:00"
+  },
+  {
+   "title": "HVDC power to ramp up in 2H26, as Delta eyes momentum in AI power systems",
+   "url": "https://www.digitimes.com/news/a20260707PD228/delta-electronics-capex-data-center-design-2026-shipments.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-08T09:04:53+00:00"
+  },
+  {
+   "title": "France-Taiwan tech ties move from talks to factory floor",
+   "url": "https://www.digitimes.com/news/a20260708VL224/france-taiwan-foxconn-europe-data-center.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-08T09:04:20+00:00"
+  },
+  {
+   "title": "UST ties up with Anthropic to integrate Claude in engineering and operational\u00a0workflows",
+   "url": "https://www.thehindubusinessline.com/info-tech/ust-ties-up-with-anthropic-to-integrate-claude-in-engineering-and-operationalworkflows/article71197168.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-07-08T09:00:19+00:00"
+  },
+  {
+   "title": "Indonesia calls for inclusive AI standards to protect developing MSMEs",
+   "url": "https://en.antaranews.com/news/421892/indonesia-calls-for-inclusive-ai-standards-to-protect-developing-msmes",
+   "source": "Antaranews.com",
+   "category": "ai",
+   "published": "2026-07-08T08:54:56+00:00"
+  },
+  {
+   "title": "Google to plant its AI flag in India: What it means for the country",
+   "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/google-cloud-plants-its-ai-flag-in-india-gemini-local-hosting-data-sovereignty-what-it-means-for-the-country/articleshow/132257905.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-07-08T08:37:51+00:00"
+  },
+  {
+   "title": "AI, Cybersecurity, and Interoperable Systems: Core Pillars Driving the Smart Hospital Evolution",
+   "url": "https://www.globenewswire.com/news-release/2026/07/08/3323867/28124/en/AI-Cybersecurity-and-Interoperable-Systems-Core-Pillars-Driving-the-Smart-Hospital-Evolution.html",
+   "source": "GlobeNewswire",
+   "category": "ai",
+   "published": "2026-07-08T08:20:00+00:00"
+  },
+  {
+   "title": "Robbyant Upgrades and Open-Sources LingBot-VLA 2.0 as a Next-Generation Universal Brain for Embodied AI",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/robbyant-upgrades-and-open-sources-lingbot-vla-2-0-as-a-next-generation-universal-brain-for-embodied-ai",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-07-08T08:13:48+00:00"
+  },
+  {
+   "title": "Nomagic\u2019s new AI lab headed by former Google DeepMind researcher claims success in early deployment of \u2018AI brain\u2019 for warehouse robots",
+   "url": "https://biztoc.com/x/bf0d75a1010bede6",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-08T07:51:21+00:00"
+  },
+  {
+   "title": "Tethis expands global access to SmartBioSurface\u00ae through new channel partners in Brazil, India, China and South Africa",
+   "url": "https://www.prnewswire.com/news-releases/tethis-expands-global-access-to-smartbiosurface-through-new-channel-partners-in-brazil-india-china-and-south-africa-302818524.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-08T07:00:00+00:00"
+  },
+  {
+   "title": "Dumbo Health Launches SleepLongevityAge, Bringing Clinical Care to the World\u2019s Most Overlooked Health Metric",
+   "url": "https://www.globenewswire.com/news-release/2026/07/08/3323833/0/en/Dumbo-Health-Launches-SleepLongevityAge-Bringing-Clinical-Care-to-the-World-s-Most-Overlooked-Health-Metric.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-08T06:58:00+00:00"
+  },
+  {
+   "title": "Painless Swab Detects Oral Cancers in an Hour, With Over 95% Accuracy",
+   "url": "https://www.sciencealert.com/painless-swab-detects-oral-cancers-in-an-hour-with-over-95-accuracy",
+   "source": "ScienceAlert",
+   "category": "health",
+   "published": "2026-07-08T05:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "QpiAI Open-Sources Its Quantum SDK to Accelerate Global Quantum Software Development",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/qpiai-open-sources-its-quantum-sdk-to-accelerate-global-quantum-software-development",
+   "source": "Financial Post",
+   "category": "quantum",
+   "published": "2026-07-08T04:40:04+00:00"
+  },
+  {
+   "title": "Introducing GPT-Live",
+   "url": "https://openai.com/index/introducing-gpt-live",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-08T00:00:00+00:00"
+  },
+  {
+   "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+   "url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
+   "source": "Nvidia.com",
+   "category": "robotics",
+   "published": "2026-07-07T17:06:00+00:00"
+  },
+  {
+   "title": "AI Innovators Adopt NVIDIA Vera \u2014 Why Max Single-Threaded CPU at Scale Matters",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-07T15:00:52+00:00"
+  },
+  {
+   "title": "Ex-Tesla Optimus scientist unveils European humanoid robot startup",
+   "url": "http://electrek.co/2026/07/07/tesla-optimus-scientist-uma-humanoid-robot/",
+   "source": "Electrek",
+   "category": "robotics",
+   "published": "2026-07-07T14:56:32+00:00"
+  },
+  {
+   "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+   "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-07-07T06:00:26+00:00"
+  },
+  {
+   "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+   "url": "https://openai.com/index/australian-payments-plus",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-07T00:00:00+00:00"
+  },
+  {
+   "title": "Toward a future that preserves benefits of neurotechnology for all",
+   "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-06T19:50:00+00:00"
+  },
+  {
+   "title": "How Open Models Are Driving AI Research",
+   "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-06T16:00:00+00:00"
   },
   {
    "title": "Germany Sets New Six-Month Start-Up Record",
@@ -62,8 +336,7 @@
    "url": "https://gizmodo.com/spacexai-will-reportedly-release-a-major-new-ai-model-this-week-2000782710",
    "source": "Gizmodo.com",
    "category": "ai",
-   "published": "2026-07-08T02:22:52+00:00",
-   "breakthrough": true
+   "published": "2026-07-08T02:22:52+00:00"
   },
   {
    "title": "China's AI labs race to build custom AI chips while ASICs threaten Nvidia's dominance",
@@ -78,34 +351,6 @@
    "source": "CNBC",
    "category": "ai",
    "published": "2026-07-08T01:50:32+00:00"
-  },
-  {
-   "title": "Catalyst MedTech Announces Channel Partnership with APQ Health to Expand Access to Advanced Cardiac CT Analysis",
-   "url": "https://www.biospace.com/press-releases/catalyst-medtech-announces-channel-partnership-with-apq-health-to-expand-access-to-advanced-cardiac-ct-analysis",
-   "source": "BioSpace",
-   "category": "health",
-   "published": "2026-07-08T01:15:45+00:00"
-  },
-  {
-   "title": "Movemedical Launches Ask Move AI, the First AI Assistant Purpose-Built for Med Device Field Operations",
-   "url": "https://www.prnewswire.com/news-releases/movemedical-launches-ask-move-ai-the-first-ai-assistant-purpose-built-for-med-device-field-operations-302817222.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-08T00:15:00+00:00"
-  },
-  {
-   "title": "Diet\u2013microbiome synergy underlies obesity-associated immunotherapy efficacy",
-   "url": "https://www.nature.com/articles/s41586-026-10750-x",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-07-08T00:00:00+00:00"
-  },
-  {
-   "title": "In vivo feasibility study of humanoid robots in surgery",
-   "url": "https://www.nature.com/articles/s41586-026-10796-x",
-   "source": "Nature.com",
-   "category": "robotics",
-   "published": "2026-07-08T00:00:00+00:00"
   },
   {
    "title": "Lifeward Secures Growth Capital to Accelerate Commercial Expansion with Up to $11.2 Million in Strategic Financing",
@@ -129,39 +374,11 @@
    "published": "2026-07-07T19:37:00+00:00"
   },
   {
-   "title": "How novice coders can develop AI programs for military applications",
-   "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-07T17:25:00+00:00"
-  },
-  {
-   "title": "Jesse Thaler named director of the Laboratory for Nuclear Science",
-   "url": "https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-07-07T14:45:00+00:00"
-  },
-  {
    "title": "Modular Zombie AI & Wave System by Conquerror",
    "url": "https://assetstore.unity.com/packages/tools/game-toolkits/modular-zombie-ai-wave-system-380938",
    "source": "Unity.com",
    "category": "ai",
    "published": "2026-07-07T14:12:11+00:00"
-  },
-  {
-   "title": "A hobbyist is building his home AI \"a body\", one sensor at a time",
-   "url": "https://www.notebookcheck.net/A-hobbyist-is-building-his-home-AI-a-body-one-sensor-at-a-time.1336766.0.html",
-   "source": "Notebookcheck.net",
-   "category": "robotics",
-   "published": "2026-07-07T13:14:00+00:00"
-  },
-  {
-   "title": "Onconetix Highlights Realbotix Partnership with Bloom Services to Launch UK Pilot Using Humanoid Robots to Combat Elderly Social Isolation",
-   "url": "https://www.globenewswire.com/news-release/2026/07/07/3323233/0/en/Onconetix-Highlights-Realbotix-Partnership-with-Bloom-Services-to-Launch-UK-Pilot-Using-Humanoid-Robots-to-Combat-Elderly-Social-Isolation.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-07T13:00:00+00:00"
   },
   {
    "title": "\u2018Robots should understand you, talk to you, and work for you\u2019: Chinese robotics company Agibot is heralding a robot revolution \u2014 I met the \u2018humanoids\u2019 up close",
@@ -183,20 +400,6 @@
    "source": "Financial Post",
    "category": "robotics",
    "published": "2026-07-07T11:30:36+00:00"
-  },
-  {
-   "title": "MUFG aims to become AI-native with OpenAI",
-   "url": "https://openai.com/index/mufg",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-07T00:00:00+00:00"
-  },
-  {
-   "title": "How Nations Are Deploying AI for Strategic Priorities",
-   "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-06T15:00:25+00:00"
   },
   {
    "title": "Show HN: Q a REPL for LLM inside the terminal",
