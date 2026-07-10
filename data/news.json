@@ -1,6 +1,335 @@
 {
- "updated": "2026-07-10T14:38:22.309926+00:00",
+ "updated": "2026-07-10T19:39:54.307988+00:00",
  "items": [
+  {
+   "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+   "url": "https://openai.com/index/deutsche-telekom",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-10T07:00:00+00:00"
+  },
+  {
+   "title": "Gradium raises $100M seed round with Nvidia backing, intensifying the AI compute war crypto miners know well",
+   "url": "https://cryptobriefing.com/gradium-100m-seed-nvidia-ai-compute/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-09T19:36:40+00:00"
+  },
+  {
+   "title": "Show HN: Transcribe.Free - Free audio and video to text",
+   "url": "https://transcribe.free/",
+   "source": "Transcribe.free",
+   "category": "ai",
+   "published": "2026-07-09T19:35:20+00:00"
+  },
+  {
+   "title": "guardrails-ai-toxic-language-llm added to PyPI",
+   "url": "https://pypi.org/project/guardrails-ai-toxic-language-llm/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-09T19:34:42+00:00"
+  },
+  {
+   "title": "guardrails-ai-toxic-language-llm 0.1.0",
+   "url": "https://pypi.org/project/guardrails-ai-toxic-language-llm/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-09T19:34:42+00:00"
+  },
+  {
+   "title": "SK Hynix plans massive US share sale to ride the AI infrastructure wave",
+   "url": "https://cryptobriefing.com/sk-hynix-us-share-sale-ai-demand/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-09T19:34:16+00:00"
+  },
+  {
+   "title": "META Stock Alert: What to Know as Meta Platforms Announces $9 Billion Data Center",
+   "url": "https://biztoc.com/x/21c2bdf00a1c7a9e",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-07-09T19:33:25+00:00"
+  },
+  {
+   "title": "Amazon and Walmart\u2019s AI Shopping Race Is Now a Battle for Context, Not Clicks",
+   "url": "https://biztoc.com/x/b32b55bf3dc7e657",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-07-09T19:32:48+00:00"
+  },
+  {
+   "title": "OpenAI Debuts New Model Following Input From US Government",
+   "url": "https://biztoc.com/x/dfa560058662ccf2",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-07-09T19:32:32+00:00"
+  },
+  {
+   "title": "tau-coding-agent 0.7.1",
+   "url": "https://pypi.org/project/tau-coding-agent/0.7.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-09T19:32:20+00:00"
+  },
+  {
+   "title": "Axos Aims to Expand AI-Powered Financial Services With Arc Acquisition",
+   "url": "https://www.pymnts.com/news/banking/2026/axos-aims-to-expand-ai-powered-financial-services-with-arc-acquisition/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-07-09T19:32:13+00:00"
+  },
+  {
+   "title": "llm-log-analyzer 1.4.0",
+   "url": "https://pypi.org/project/llm-log-analyzer/1.4.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-09T19:29:35+00:00"
+  },
+  {
+   "title": "inspect-viz 0.4.1",
+   "url": "https://pypi.org/project/inspect-viz/0.4.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-09T19:28:54+00:00"
+  },
+  {
+   "title": "It's not just about the GPU crunching on an LLM anymore': Apple silicon leader explains why a Mac Mini could be the surprising choice for a machine running all your AI agents",
+   "url": "https://www.techradar.com/pro/its-not-just-about-the-gpu-crunching-on-an-llm-anymore-apple-silicon-leader-explains-why-a-mac-mini-could-be-the-surprising-choice-for-a-machine-running-all-your-ai-agents",
+   "source": "TechRadar",
+   "category": "compute",
+   "published": "2026-07-09T19:25:00+00:00"
+  },
+  {
+   "title": "llm-orchestra 0.18.3",
+   "url": "https://pypi.org/project/llm-orchestra/0.18.3/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-09T19:24:20+00:00"
+  },
+  {
+   "title": "bingo-ai 6.2.53",
+   "url": "https://pypi.org/project/bingo-ai/6.2.53/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-09T19:22:47+00:00"
+  },
+  {
+   "title": "chimera-agent 0.14.0",
+   "url": "https://pypi.org/project/chimera-agent/0.14.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-09T19:22:11+00:00"
+  },
+  {
+   "title": "Show HN: Spice 2.0 \u2013 Real-Time Analytical Query on Operational Data, Without ETL",
+   "url": "https://spice.ai/blog/spice-2-0-is-now-available",
+   "source": "Spice.ai",
+   "category": "ai",
+   "published": "2026-07-09T19:21:19+00:00"
+  },
+  {
+   "title": "litellm 1.93.0.dev2",
+   "url": "https://pypi.org/project/litellm/1.93.0.dev2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-09T19:15:28+00:00"
+  },
+  {
+   "title": "Fast token generation emerges as the key differentiator as heterogeneous inference takes hold",
+   "url": "https://siliconangle.com/2026/07/09/fast-token-generation-accelerates-enterprise-ai-inference-raisesummit/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-07-09T19:14:39+00:00"
+  },
+  {
+   "title": "ORIZON Expands OriZone Into a Growing AI-Native Web3 Ecosystem",
+   "url": "https://www.globenewswire.com/news-release/2026/07/09/3325169/0/en/ORIZON-Expands-OriZone-Into-a-Growing-AI-Native-Web3-Ecosystem.html",
+   "source": "GlobeNewswire",
+   "category": "ai",
+   "published": "2026-07-09T19:13:00+00:00"
+  },
+  {
+   "title": "Hivelocity Launches Streaming Bundle to Help Video Platforms Scale with Confidence",
+   "url": "https://www.prnewswire.com/news-releases/hivelocity-launches-streaming-bundle-to-help-video-platforms-scale-with-confidence-302822218.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-07-09T19:10:00+00:00"
+  },
+  {
+   "title": "Sanofi builds its own AI agent with Claude and Elementum, cutting ties with ServiceNow",
+   "url": "https://cryptobriefing.com/sanofi-in-house-ai-agent-claude-elementum/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-07-09T19:06:47+00:00"
+  },
+  {
+   "title": "Elon Musk calls Anthropic clear leader in AI, expects Mythos 2 soon",
+   "url": "https://cryptobriefing.com/musk-calls-anthropic-clear-ai-leader/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-07-09T19:06:16+00:00"
+  },
+  {
+   "title": "Gujarat\u2019s data centre policy woos hyperscalers, targets 7.5GW capacity",
+   "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarats-data-centre-policy-woos-hyperscalers-targets-7-5gw-capacity/articleshow/132297084.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-09T18:59:50+00:00"
+  },
+  {
+   "title": "DDN targets GPU efficiency with AI data infrastructure as the make-or-break layer",
+   "url": "https://siliconangle.com/2026/07/09/ai-data-infrastructure-gpu-efficiency-ddn-raisesummit/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-07-09T18:56:07+00:00"
+  },
+  {
+   "title": "Cerebras Is Building 200 MW of AI Compute",
+   "url": "https://biztoc.com/x/926adab8f5e04e66",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-07-09T18:50:11+00:00"
+  },
+  {
+   "title": "In groundbreaking first, humanoid robots performed surgery",
+   "url": "http://www.popsci.com/technology/humanoid-robots-perform-surgery/",
+   "source": "Popular Science",
+   "category": "robotics",
+   "published": "2026-07-09T18:35:44+00:00"
+  },
+  {
+   "title": "OpenEvidence and NewYork-Presbyterian, Columbia University and Weill Cornell Medicine Expand Clinical AI Tools Across New York City and Westchester",
+   "url": "https://apnews.com/press-release/business-wire/press-release-19bd13c1cbc24f68863549dfc4d1380d",
+   "source": "Associated Press",
+   "category": "health",
+   "published": "2026-07-09T17:28:58+00:00"
+  },
+  {
+   "title": "Evexia Diagnostics Partners with GutID to Offer True Microbiome Testing",
+   "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-caeb6e433f6035cf7fff2ecc60b59d89",
+   "source": "Associated Press",
+   "category": "health",
+   "published": "2026-07-09T17:23:53+00:00"
+  },
+  {
+   "title": "Alipay\u2019s owner just open-sourced an entire robot brain in a single week",
+   "url": "https://thenextweb.com/news/robbyant-ant-group-lingbot-embodied-ai-open-source/",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-07-09T17:20:04+00:00"
+  },
+  {
+   "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+   "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-07-09T16:46:22+00:00"
+  },
+  {
+   "title": "DIA AND MHRA LAUNCH NEW GLOBAL REGULATORY SCIENCE SUMMIT IN LONDON TO ADVANCE SAFER AND SMARTER HEALTH INNOVATION",
+   "url": "https://www.prnewswire.com/news-releases/dia-and-mhra-launch-new-global-regulatory-science-summit-in-london-to-advance-safer-and-smarter-health-innovation-302822113.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-09T16:38:00+00:00"
+  },
+  {
+   "title": "Robots swept RoboCup 2026, and they\u2019re coming for the human World Cup by 2050",
+   "url": "https://thenextweb.com/news/booster-robotics-robocup-2026-humanoid-football-sweep/",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-07-09T16:37:57+00:00"
+  },
+  {
+   "title": "Tiny robot boats build floating structures",
+   "url": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-07-09T15:50:00+00:00"
+  },
+  {
+   "title": "Oracle\u2019s Mark Hura: your AI advantage is your data, not the model",
+   "url": "https://thenextweb.com/news/oracle-mark-hura-raise-summit-ai-advantage-data/",
+   "source": "The Next Web",
+   "category": "ai",
+   "published": "2026-07-09T15:22:09+00:00"
+  },
+  {
+   "title": "Hint Health Announces the Next Evolution of Its Platform: A Unified Experience for Every Aspect of an Independent Practice",
+   "url": "https://www.prnewswire.com/news-releases/hint-health-announces-the-next-evolution-of-its-platform-a-unified-experience-for-every-aspect-of-an-independent-practice-302821540.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-09T15:00:00+00:00"
+  },
+  {
+   "title": "Elon Musk receives FTC greenlight to buy Mesh Optical as interconnects emerge as AI's tightest bottleneck \u2014 the move will expand Musk's growing stack of critical AI infrastructure",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/elon-musk-receives-ftc-greenlight-to-buy-mesh-optical-as-interconnects-emerge-as-ais-tightest-bottleneck-the-move-will-expand-musks-growing-stack-of-critical-ai-infrastructure",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-07-09T12:42:23+00:00"
+  },
+  {
+   "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+   "url": "https://openai.com/index/gpt-5-6",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-09T10:00:00+00:00"
+  },
+  {
+   "title": "ChatGPT is now a partner for your most ambitious work",
+   "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-09T10:00:00+00:00"
+  },
+  {
+   "title": "Humanoid robots perform surgery successfully for the first time, and the implications extend beyond the operating room",
+   "url": "https://cryptobriefing.com/humanoid-robots-perform-surgery-first-time/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-07-09T09:17:13+00:00"
+  },
+  {
+   "title": "Meet Isaac 1, the $8,000 home robot that wants to take folding laundry off your to-do list",
+   "url": "https://www.businessinsider.com/weave-robotics-ceo-kaan-dogrusoz-laundry-robot-isaac-1-2026-7#article",
+   "source": "Business Insider",
+   "category": "robotics",
+   "published": "2026-07-09T09:00:03+00:00"
+  },
+  {
+   "title": "Booster Robotics\u2019 Humanoid Robots Claim All Championship Titles at RoboCup 2026",
+   "url": "https://financialpost.com/globe-newswire/booster-robotics-humanoid-robots-claim-all-championship-titles-at-robocup-2026",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-07-09T07:51:03+00:00"
+  },
+  {
+   "title": "Booster Robotics' Humanoid Robots Claim All Championship Titles at RoboCup 2026",
+   "url": "https://www.globenewswire.com/news-release/2026/07/09/3324576/0/en/Booster-Robotics-Humanoid-Robots-Claim-All-Championship-Titles-at-RoboCup-2026.html",
+   "source": "GlobeNewswire",
+   "category": "robotics",
+   "published": "2026-07-09T07:49:00+00:00"
+  },
+  {
+   "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+   "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-08T15:00:27+00:00"
+  },
+  {
+   "title": "Helping K\u201312 educators build practical AI skills",
+   "url": "https://openai.com/index/k-12-educators-practical-skills",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-08T10:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+   "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-07-07T06:00:26+00:00"
+  },
   {
    "title": "pwm-ai4science 1.0.0",
    "url": "https://pypi.org/project/pwm-ai4science/1.0.0/",
@@ -63,13 +392,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-07-09T14:24:22+00:00"
-  },
-  {
-   "title": "Beyond Agentic AI: The Emergence Of Cognitive AI Ecosystems",
-   "url": "https://www.forbes.com/sites/chuckbrooks/2026/07/09/beyond-agentic-ai-the-emergence-of-cognitive-ai-ecosystems/",
-   "source": "Forbes",
-   "category": "ai",
-   "published": "2026-07-09T14:23:53+00:00"
   },
   {
    "title": "verifiers 0.1.15.dev438",
@@ -143,13 +465,6 @@
    "published": "2026-07-09T14:12:10+00:00"
   },
   {
-   "title": "memQ Named to Falling Walls Venture Top 100 Science Startups to Watch",
-   "url": "https://www.globenewswire.com/news-release/2026/07/09/3324936/0/en/memQ-Named-to-Falling-Walls-Venture-Top-100-Science-Startups-to-Watch.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-09T14:08:00+00:00"
-  },
-  {
    "title": "I Tested AI to Find Errors in My Medical Bills. Here\u2019s What It Found",
    "url": "https://www.cnet.com/tech/services-and-software/chatgpt-medical-bill-errors/",
    "source": "CNET",
@@ -192,41 +507,6 @@
    "published": "2026-07-09T14:00:00+00:00"
   },
   {
-   "title": "qubit-playground 0.1.0",
-   "url": "https://pypi.org/project/qubit-playground/0.1.0/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-07-09T13:20:53+00:00"
-  },
-  {
-   "title": "qubit-playground added to PyPI",
-   "url": "https://pypi.org/project/qubit-playground/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-07-09T13:20:52+00:00"
-  },
-  {
-   "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-09T13:00:55+00:00"
-  },
-  {
-   "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-   "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-09T13:00:00+00:00"
-  },
-  {
-   "title": "Mitsubishi Motors and Highlanders partner on robotics for manufacturing",
-   "url": "https://www.just-auto.com/news/mitsubishi-motors-and-highlanders-partner-on-robotics-for-manufacturing/",
-   "source": "Just-auto.com",
-   "category": "robotics",
-   "published": "2026-07-09T11:59:11+00:00"
-  },
-  {
    "title": "GPT-5.5 Bio Bug Bounty",
    "url": "https://openai.com/index/bio-bug-bounty",
    "source": "OpenAI",
@@ -234,46 +514,11 @@
    "published": "2026-07-09T10:00:00+00:00"
   },
   {
-   "title": "NCS launches enterprise AI platforms and products; deepens partnerships to accelerate AI-driven business transformation",
-   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation/article71200776.ece",
-   "source": "BusinessLine",
-   "category": "ai",
-   "published": "2026-07-09T02:00:33+00:00"
-  },
-  {
-   "title": "Principles of optics in Fock space for the scalable manipulation of large quantum states",
-   "url": "https://www.nature.com/articles/s41567-026-03370-9",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-07-09T00:00:00+00:00"
-  },
-  {
-   "title": "Hybrid nanophotonic trap for cold atoms using surface forces and a blue-detuned evanescent field",
-   "url": "https://www.nature.com/articles/s41566-026-01961-9",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-07-09T00:00:00+00:00"
-  },
-  {
-   "title": "Millisecond coherence times in gigahertz-frequency mechanical oscillators",
-   "url": "https://www.nature.com/articles/s41567-026-03314-3",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-07-09T00:00:00+00:00"
-  },
-  {
    "title": "10 insights from the Machina AI Summit: Physical AI moves from demos to deployment",
    "url": "https://siliconangle.com/2026/07/08/physical-ai-focus-machina-ai-summit-machina/",
    "source": "SiliconANGLE News",
    "category": "ai",
    "published": "2026-07-08T20:21:00+00:00"
-  },
-  {
-   "title": "Flint: A visualization language for the AI era",
-   "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-07-08T16:00:00+00:00"
   },
   {
    "title": "Beni Is a Cute Autonomous Camera Robot On Wheels",
@@ -288,20 +533,6 @@
    "source": "SiliconANGLE News",
    "category": "quantum",
    "published": "2026-07-08T14:45:40+00:00"
-  },
-  {
-   "title": "Our approach to government and national security partnerships",
-   "url": "https://openai.com/index/government-national-security-partnerships",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-08T13:30:00+00:00"
-  },
-  {
-   "title": "Separating signal from noise in coding evaluations",
-   "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-08T13:00:00+00:00"
   },
   {
    "title": "How novice coders can develop AI programs for military applications",
