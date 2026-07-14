@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06",
+  "updated": "2026-07-14",
   "voices": [
     {
       "slug": "sam-altman",
@@ -223,6 +223,20 @@
       "known_for": ["OpenAI developer relations", "Practical LLM API guidance", "Google Gemini developer ecosystem", "AI tools democratization"],
       "positions": ["Developer experience determines which AI platforms win", "Most AI applications will be built by non-AI-experts", "The API layer is where AI value is actually created"],
       "links": {"x": "https://x.com/OfficialLoganK"},
+      "note": null
+    },
+    {
+      "slug": "lydia-moynihan",
+      "name": "Lydia Moynihan",
+      "initials": "LM",
+      "photo": "/images/voices/lydia moynihan.jpeg",
+      "role": "Journalist, New York Post",
+      "cat": "ai",
+      "keywords": ["Lydia Moynihan", "Moynihan"],
+      "bio": "Wall Street and tech reporter at the New York Post. Self-described techno-optimist covering the intersection of business, politics, and innovation. Regular on CNBC Squawk Box and Fox Business. One of the sharpest pro-technology voices in American journalism.",
+      "known_for": ["New York Post Wall Street and tech reporting", "CNBC Squawk Box appearances", "Techno-optimist journalism", "Breaking stories on AI, finance, and Silicon Valley", "NYNext podcast"],
+      "positions": ["Technology is a force for human progress, not destruction", "The positive case for innovation is the accurate one", "Business and tech journalism should cover breakthroughs, not just fear"],
+      "links": {"x": "https://x.com/LJMoynihan"},
       "note": null
     },
     {
