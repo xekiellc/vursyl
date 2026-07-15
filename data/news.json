@@ -1,33 +1,195 @@
 {
- "updated": "2026-07-15T08:22:25.835811+00:00",
+ "updated": "2026-07-15T13:53:08.119662+00:00",
  "items": [
   {
-   "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
-   "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+   "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+   "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+   "source": "NVIDIA",
+   "category": "breakthroughs",
+   "published": "2026-07-15T10:51:37+00:00"
+  },
+  {
+   "title": "Helping AI models to meet the real world",
+   "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
    "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-07-14T18:00:00+00:00"
+   "published": "2026-07-14T20:25:00+00:00"
   },
   {
-   "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-   "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-   "source": "NVIDIA",
+   "title": "How AI is Shaping Childhood",
+   "url": "https://time.com/article/2026/07/14/why-humans-need-to-parent-ai-and-not-the-other-way-around/",
+   "source": "Time",
    "category": "ai",
-   "published": "2026-07-14T16:45:13+00:00"
+   "published": "2026-07-14T13:48:51+00:00"
   },
   {
-   "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-   "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-   "source": "NVIDIA",
+   "title": "Google DeepMind CEO calls for US Frontier AI Standards Body for model reviews",
+   "url": "https://cryptobriefing.com/google-deepmind-ceo-calls-for-us-frontier-ai-standards-body-for-model-reviews/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-07-14T13:48:13+00:00"
+  },
+  {
+   "title": "New Station Crew Counts Down to Soyuz Launch Live on NASA+",
+   "url": "https://www.nasa.gov/blogs/spacestation/2026/07/14/new-station-crew-counts-down-to-soyuz-launch-live-on-nasa/",
+   "source": "NASA",
+   "category": "robotics",
+   "published": "2026-07-14T13:47:09+00:00"
+  },
+  {
+   "title": "Distributed compute startup Boundless expands 4,000-GPU network from ZK to AI",
+   "url": "https://biztoc.com/x/e89e87846da87984",
+   "source": "Biztoc.com",
    "category": "compute",
-   "published": "2026-07-14T15:00:20+00:00"
+   "published": "2026-07-14T13:44:57+00:00"
   },
   {
-   "title": "How to manage AI investments in the agentic era",
-   "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+   "title": "Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents",
+   "url": "https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/",
+   "source": "InfoQ.com",
+   "category": "ai",
+   "published": "2026-07-14T13:40:00+00:00"
+  },
+  {
+   "title": "Live: SpaceX Falcon 9 rocket launches from Cape Canaveral with 29 Starlink satellites [1:29:20]",
+   "url": "https://freerepublic.com/focus/f-bloggers/4387898/posts",
+   "source": "Freerepublic.com",
+   "category": "robotics",
+   "published": "2026-07-14T13:33:14+00:00"
+  },
+  {
+   "title": "How online shopper bought R1,500 groceries in 15 seconds with AI help",
+   "url": "https://www.dailydispatch.co.za/business/2026-07-14-how-online-shopper-bought-r1500-groceries-in-15-seconds-with-ai-help/",
+   "source": "Dailydispatch.co.za",
+   "category": "ai",
+   "published": "2026-07-14T13:31:43+00:00"
+  },
+  {
+   "title": "Hadrius Raises $27 Million to Build Agentic Compliance Infrastructure",
+   "url": "https://www.prnewswire.com/news-releases/hadrius-raises-27-million-to-build-agentic-compliance-infrastructure-302824196.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-07-14T13:30:00+00:00"
+  },
+  {
+   "title": "HitGen Partner BioAge Labs Doses First Participant in Phase 2 Trial of BGE-102, a Novel Oral NLRP3 Inhibitor for Cardiovascular Risk Reduction",
+   "url": "https://www.prnewswire.com/news-releases/hitgen-partner-bioage-labs-doses-first-participant-in-phase-2-trial-of-bge-102-a-novel-oral-nlrp3-inhibitor-for-cardiovascular-risk-reduction-302824829.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-14T13:30:00+00:00"
+  },
+  {
+   "title": "AI Coalition for Social Impact, Convened by Blackbaud, Officially Opens the Free AI for Social Impact Certification Program",
+   "url": "https://www.prnewswire.com/news-releases/ai-coalition-for-social-impact-convened-by-blackbaud-officially-opens-the-free-ai-for-social-impact-certification-program-302824759.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-07-14T13:28:00+00:00"
+  },
+  {
+   "title": "The billion-dimensional map hidden inside every AI model",
+   "url": "https://boingboing.net/2026/07/14/latent-space-new-medium.html",
+   "source": "Boing Boing",
+   "category": "ai",
+   "published": "2026-07-14T13:26:19+00:00"
+  },
+  {
+   "title": "What is Physical AI? Why the Next AI Revolution Will Move Beyond the Screen",
+   "url": "https://www.c-sharpcorner.com/article/what-is-physical-ai-why-the-next-ai-revolution-will-move-beyond-the-screen2/",
+   "source": "C-sharpcorner.com",
+   "category": "ai",
+   "published": "2026-07-14T13:25:49+00:00"
+  },
+  {
+   "title": "Foundational context: Cross-industry & function-specific accelerators for Lakebase",
+   "url": "https://www.databricks.com/blog/foundational-context-cross-industry-function-specific-accelerators-lakebase",
+   "source": "Databricks.com",
+   "category": "ai",
+   "published": "2026-07-14T13:15:00+00:00"
+  },
+  {
+   "title": "Riyadh Gets Its First Luxury Brain Wellness Assessment as Brainify.AI Launches with The Longevity Suite",
+   "url": "https://www.prnewswire.com/news-releases/riyadh-gets-its-first-luxury-brain-wellness-assessment-as-brainifyai-launches-with-the-longevity-suite-302824267.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-14T13:06:00+00:00"
+  },
+  {
+   "title": "KeyReply Becomes Rezonate, Bringing Proven Engagement Intelligence to North America",
+   "url": "https://www.prnewswire.com/news-releases/keyreply-becomes-rezonate-bringing-proven-engagement-intelligence-to-north-america-302825084.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-07-14T13:05:00+00:00"
+  },
+  {
+   "title": "First Fully Robotic Pharmacy Fills a Prescription in Under 60 Seconds",
+   "url": "https://www.pymnts.com/healthcare/prescriptions/2026/first-fully-robotic-pharmacy-fills-a-prescription-in-under-60-seconds/",
+   "source": "pymnts.com",
+   "category": "robotics",
+   "published": "2026-07-14T13:00:13+00:00"
+  },
+  {
+   "title": "\u2018Listing is a must\u2019: China\u2019s LimX raises $200m as the humanoid IPO race heats up",
+   "url": "https://thenextweb.com/news/limx-dynamics-2-2-billion-humanoid-pre-ipo/",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-07-14T12:40:52+00:00"
+  },
+  {
+   "title": "Chai Discovery raises $400M for AI drug discovery as big pharma bets on machine learning over blockchain",
+   "url": "https://cryptobriefing.com/chai-discovery-400m-ai-drug-discovery/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-07-14T12:10:32+00:00"
+  },
+  {
+   "title": "Ensora Health extends Fusion's multi-discipline EHR deeper into adult physical therapy",
+   "url": "https://www.prnewswire.com/news-releases/ensora-health-extends-fusions-multi-discipline-ehr-deeper-into-adult-physical-therapy-302825045.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-14T12:10:00+00:00"
+  },
+  {
+   "title": "Quantinuum, Rolls-Royce, Riverlane and University of Edinburgh Sign Agreement to Explore Quantum Computing for Industrial Design and Simulation",
+   "url": "https://www.prnewswire.com/news-releases/quantinuum-rolls-royce-riverlane-and-university-of-edinburgh-sign-agreement-to-explore-quantum-computing-for-industrial-design-and-simulation-302824057.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-07-14T08:00:00+00:00"
+  },
+  {
+   "title": "Quadric Extends Series C to $46M with Second Close led by World Bank's IFC",
+   "url": "https://www.prnewswire.com/news-releases/quadric-extends-series-c-to-46m-with-second-close-led-by-world-banks-ifc-302823301.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-07-14T01:00:00+00:00"
+  },
+  {
+   "title": "Chinese robot startup LimX Dynamics raises $200m to improve autonomy",
+   "url": "https://biztoc.com/x/d1c87b35a58af8c3",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-14T00:45:01+00:00"
+  },
+  {
+   "title": "How data science teams use ChatGPT Work",
+   "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-07-14T10:00:00+00:00"
+   "published": "2026-07-14T00:00:00+00:00"
+  },
+  {
+   "title": "How sales teams use ChatGPT Work",
+   "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-14T00:00:00+00:00"
+  },
+  {
+   "title": "In a First, a Humanoid Robot Performed Live Surgery Under a Surgeon\u2019s Control",
+   "url": "https://singularityhub.com/2026/07/13/in-a-first-a-humanoid-robot-performed-live-surgery-under-a-surgeons-control/#article",
+   "source": "Singularity Hub",
+   "category": "robotics",
+   "published": "2026-07-13T23:10:32+00:00",
+   "breakthrough": true
   },
   {
    "title": "Samsung to produce custom AI chips for Anthropic: report",
@@ -128,14 +290,6 @@
    "published": "2026-07-14T08:00:00+00:00"
   },
   {
-   "title": "Jane Goodall Institute USA and FormationQ Launch First-of-its-kind Quantum Computing Research Programme to Explore the Ecological Roots of War and Peace",
-   "url": "https://www.prnewswire.com/news-releases/jane-goodall-institute-usa-and-formationq-launch-first-of-its-kind-quantum-computing-research-programme-to-explore-the-ecological-roots-of-war-and-peace-302824400.html",
-   "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-07-14T07:00:00+00:00",
-   "breakthrough": true
-  },
-  {
    "title": "Architecting GDPR-Compliant GenAI: An End-to-End Guide to Multi-Agent RAG with LangGraph",
    "url": "https://www.c-sharpcorner.com/article/architecting-gdpr-compliant-genai-an-end-to-end-guide-to-multi-agent-rag-with-l/",
    "source": "C-sharpcorner.com",
@@ -148,13 +302,6 @@
    "source": "The Times of India",
    "category": "compute",
    "published": "2026-07-14T06:21:44+00:00"
-  },
-  {
-   "title": "Humanoid Global Announces MBody AI\u2019s Advancements in Commercial Expansion and Proposed Business Combination with Check-Cap",
-   "url": "https://financialpost.com/globe-newswire/humanoid-global-announces-mbody-ais-advancements-in-commercial-expansion-and-proposed-business-combination-with-check-cap",
-   "source": "Financial Post",
-   "category": "robotics",
-   "published": "2026-07-14T05:33:10+00:00"
   },
   {
    "title": "XRP Healthcare, the First AI Healthcare Platform Built on the XRP Ledger, Announces BitMart Listing of XRPHAI",
@@ -171,46 +318,11 @@
    "published": "2026-07-14T04:21:13+00:00"
   },
   {
-   "title": "LimX Dynamics plans IPO after raising $200M in pre-IPO funding",
-   "url": "https://cryptobriefing.com/limx-dynamics-ipo-200m-pre-ipo-funding/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-07-14T04:05:46+00:00"
-  },
-  {
-   "title": "How MIT students are helping to prevent cyberattacks",
-   "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-13T19:10:00+00:00"
-  },
-  {
-   "title": "AI agents create virtual playgrounds to help robots get crucial training data",
-   "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
-   "source": "MIT News AI",
-   "category": "robotics",
-   "published": "2026-07-13T18:50:00+00:00"
-  },
-  {
    "title": "SpaceX Wants To Build AI Data Centers In Space. Will It Work?",
    "url": "https://www.ponoko.com/blog/ponoko/spacex-wants-to-build-ai-data-centers-in-space-will-it-work/",
    "source": "Ponoko.com",
    "category": "compute",
    "published": "2026-07-13T16:00:08+00:00"
-  },
-  {
-   "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-   "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-07-13T12:37:28+00:00"
-  },
-  {
-   "title": "New method aims to keep kids safe from illegal AI-generated content",
-   "url": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-13T04:00:00+00:00"
   },
   {
    "title": "India\u2019s tech services giant HCL is getting into the AI datacenter business",
