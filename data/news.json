@@ -1,19 +1,314 @@
 {
- "updated": "2026-07-16T14:04:07.253184+00:00",
+ "updated": "2026-07-16T19:19:46.853148+00:00",
  "items": [
   {
-   "title": "Our approach to bioresilience",
-   "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-   "source": "Google DeepMind",
-   "category": "breakthroughs",
-   "published": "2026-07-16T09:30:42+00:00"
+   "title": "Why teens deserve access to safe AI",
+   "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-16T16:00:00+00:00"
   },
   {
-   "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-   "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+   "title": "Sharpen the Sword, Skip the Downloads \u2014 \u2018Onimusha: Way of the Sword\u2019 Is Coming to GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
    "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-16T13:00:34+00:00"
+  },
+  {
+   "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
+   "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-16T04:00:00+00:00"
+  },
+  {
+   "title": "How Cars24 scales conversations and builds faster with OpenAI",
+   "url": "https://openai.com/index/cars24",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-16T00:00:00+00:00"
+  },
+  {
+   "title": "3 Questions: Neural transparency and the future of AI design",
+   "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-15T20:25:00+00:00"
+  },
+  {
+   "title": "jax-morpho 0.1.0",
+   "url": "https://pypi.org/project/jax-morpho/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-15T19:18:21+00:00"
+  },
+  {
+   "title": "jax-morpho added to PyPI",
+   "url": "https://pypi.org/project/jax-morpho/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-15T19:18:16+00:00"
+  },
+  {
+   "title": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin \u2014 company says that 'our roadmap is intact'",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184471624",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-07-15T19:13:44+00:00"
+  },
+  {
+   "title": "Supermicro Expands DCBBS Liquid Cooling With Ten Rear Door Heat Exchangers Up to 120kW",
+   "url": "https://www.storagereview.com/news/supermicro-expands-dcbbs-liquid-cooling-with-ten-rear-door-heat-exchangers-up-to-120kw",
+   "source": "Storagereview.com",
+   "category": "compute",
+   "published": "2026-07-15T19:12:41+00:00"
+  },
+  {
+   "title": "ASML Keeps Raising Its Sales Forecast. Here's What Comes Next for ASML Stock",
+   "url": "https://biztoc.com/x/03595c470b3c3957",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-07-15T19:10:52+00:00"
+  },
+  {
+   "title": "llmkb 0.1.0",
+   "url": "https://pypi.org/project/llmkb/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-15T19:03:50+00:00"
+  },
+  {
+   "title": "llmkb added to PyPI",
+   "url": "https://pypi.org/project/llmkb/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-15T19:03:43+00:00"
+  },
+  {
+   "title": "krish-agent added to PyPI",
+   "url": "https://pypi.org/project/krish-agent/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-15T19:02:48+00:00"
+  },
+  {
+   "title": "tensor-grep 1.76.9",
+   "url": "https://pypi.org/project/tensor-grep/1.76.9/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-15T19:01:15+00:00"
+  },
+  {
+   "title": "Thinking Machines unveils Inkling, its first open model, after 18 months of stealth building",
+   "url": "https://cryptobriefing.com/thinking-machines-inkling-open-model-launch/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-07-15T19:00:18+00:00"
+  },
+  {
+   "title": "ZTE's AI new calling builds an open and intelligent telecom ecosystem, transforming from basic voice call to an AI-powered service hub",
+   "url": "https://www.theregister.com/networks/2026/07/15/ztes-ai-new-calling-builds-an-open-and-intelligent-telecom-ecosystem-transforming-from-basic-voice-call-to-an-ai-powered-service-hub/5272114",
+   "source": "Theregister.com",
+   "category": "ai",
+   "published": "2026-07-15T19:00:07+00:00"
+  },
+  {
+   "title": "Amazon Stock Rises After CEO Says AI Chip Demand Is Booming",
+   "url": "https://biztoc.com/x/3520b345b65ff815",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-07-15T18:57:18+00:00"
+  },
+  {
+   "title": "Murati\u2019s Thinking Machines releases first AI model for broad use",
+   "url": "https://fortune.com/2026/07/15/what-is-mira-murati-thinking-machines-first-ai-model-inkling/",
+   "source": "Fortune",
+   "category": "ai",
+   "published": "2026-07-15T18:46:50+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "NVIDIA And SEGA Renew 30-Year Partnership To Power Games On RTX Spark",
+   "url": "https://hothardware.com/news/nvidia-sega-30-year-partnership-rtx-spark",
+   "source": "Hot Hardware",
+   "category": "compute",
+   "published": "2026-07-15T18:45:00+00:00"
+  },
+  {
+   "title": "Designing the AI-Enabled Life Sciences Workforce Summit Europe",
+   "url": "https://www.news-medical.net/suppliers/Designing-the-AI-Enabled-Life-Sciences-Workforce-Summit-Europe.aspx",
+   "source": "News-Medical.Net",
+   "category": "health",
+   "published": "2026-07-15T18:16:58+00:00"
+  },
+  {
+   "title": "Neko Health raises $700M at nearly $7bn and heads to New York",
+   "url": "https://thenextweb.com/news/neko-health-700m-series-c-us-expansion/",
+   "source": "The Next Web",
+   "category": "health",
+   "published": "2026-07-15T18:05:25+00:00"
+  },
+  {
+   "title": "Sinopia Biosciences Publishes Preclinical Data in Science Translational Medicine Supporting SB-0110, a Novel PKA-II Modulator, for Parkinson's Disease",
+   "url": "https://www.globenewswire.com/news-release/2026/07/15/3328046/0/en/Sinopia-Biosciences-Publishes-Preclinical-Data-in-Science-Translational-Medicine-Supporting-SB-0110-a-Novel-PKA-II-Modulator-for-Parkinson-s-Disease.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-15T18:00:00+00:00"
+  },
+  {
+   "title": "Serving multilingual patient populations with translation, security and trust",
+   "url": "https://insights.samsung.com/2026/07/15/serving-multilingual-patient-populations-with-translation-security-and-trust/",
+   "source": "Samsung.com",
+   "category": "health",
+   "published": "2026-07-15T17:23:19+00:00"
+  },
+  {
+   "title": "AI test predicts breast cancer\u2019s return",
+   "url": "https://www.futurity.org/ai-test-breast-cancer-recurrence-3340212/",
+   "source": "Futurity: Research News",
+   "category": "health",
+   "published": "2026-07-15T17:16:35+00:00"
+  },
+  {
+   "title": "Emergent hits a $1.5bn valuation as vibe coding mints another unicorn",
+   "url": "https://thenextweb.com/news/emergent-130m-series-c-vibe-coding-unicorn/",
+   "source": "The Next Web",
+   "category": "ai",
+   "published": "2026-07-15T17:13:16+00:00"
+  },
+  {
+   "title": "Datadog Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 For Observability Platforms For Sixth Consecutive Year",
+   "url": "https://www.globenewswire.com/news-release/2026/07/15/3328024/0/en/Datadog-Named-a-Leader-in-the-2026-Gartner-Magic-Quadrant-For-Observability-Platforms-For-Sixth-Consecutive-Year.html",
+   "source": "GlobeNewswire",
+   "category": "compute",
+   "published": "2026-07-15T17:13:00+00:00"
+  },
+  {
+   "title": "Society Insider: Wilhelmina and Ben O\u2019Keeffe launch longevity and wellness clinic in Auckland",
+   "url": "https://www.nzherald.co.nz/lifestyle/society-insider-wilhelmina-and-ben-okeeffe-launch-longevity-and-wellness-clinic-in-auckland/premium/TAPRN3ELJBBRNLKVYT7ON4EQYU/",
+   "source": "New Zealand Herald",
+   "category": "health",
+   "published": "2026-07-15T17:00:00+00:00"
+  },
+  {
+   "title": "Global AI in Pathology Market Poised for Phenomenal Expansion at a CAGR of ~25% by 2034 | DelveInsight",
+   "url": "https://www.globenewswire.com/news-release/2026/07/15/3328014/0/en/Global-AI-in-Pathology-Market-Poised-for-Phenomenal-Expansion-at-a-CAGR-of-25-by-2034-DelveInsight.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-15T17:00:00+00:00"
+  },
+  {
+   "title": "NeuroLexIQ and Canary Speech Partner to Bring AI Voice Analysis to the Personal Injury Intake Process",
+   "url": "https://www.prnewswire.com/news-releases/neurolexiq-and-canary-speech-partner-to-bring-ai-voice-analysis-to-the-personal-injury-intake-process-302826640.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-15T16:41:00+00:00"
+  },
+  {
+   "title": "Spotify Founder Daniel Ek Is Bringing His Body-Scanning Clinics to the U.S.",
+   "url": "https://gizmodo.com/spotify-founder-daniel-ek-is-bringing-his-body-scanning-clinics-to-the-u-s-2000785821",
+   "source": "Gizmodo.com",
+   "category": "health",
+   "published": "2026-07-15T16:40:10+00:00"
+  },
+  {
+   "title": "Craig-Hallum initiates buy rating on Quantinuum with $100 price target, signaling quantum computing\u2019s Wall Street moment",
+   "url": "https://cryptobriefing.com/craig-hallum-buy-rating-quantinuum-qnt/",
+   "source": "Crypto Briefing",
+   "category": "quantum",
+   "published": "2026-07-15T16:06:30+00:00"
+  },
+  {
+   "title": "Eastworlds partners with Unitree Robotics to advance embodied AI through Virtuals Protocol",
+   "url": "https://cryptobriefing.com/eastworlds-unitree-robotics-embodied-ai/",
+   "source": "Crypto Briefing",
    "category": "robotics",
-   "published": "2026-07-15T23:00:54+00:00"
+   "published": "2026-07-15T14:13:26+00:00"
+  },
+  {
+   "title": "The US is advancing AI safety through state and federal action",
+   "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-15T12:00:00+00:00"
+  },
+  {
+   "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+   "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-15T10:00:00+00:00"
+  },
+  {
+   "title": "LimX Dynamics raises US$200B in fundraising round as it prepares for public listing",
+   "url": "https://www.digitimes.com/news/a20260715VL227/humanoid-robot-ai-financing-ipo.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-07-15T08:24:50+00:00"
+  },
+  {
+   "title": "Classiq and ParityQC Partner to Optimize and Streamline Quantum Execution",
+   "url": "https://www.globenewswire.com/news-release/2026/07/15/3327449/0/en/Classiq-and-ParityQC-Partner-to-Optimize-and-Streamline-Quantum-Execution.html",
+   "source": "GlobeNewswire",
+   "category": "quantum",
+   "published": "2026-07-15T05:00:00+00:00"
+  },
+  {
+   "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
+   "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-14T18:00:00+00:00"
+  },
+  {
+   "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+   "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-14T16:45:13+00:00"
+  },
+  {
+   "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+   "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-14T15:00:20+00:00"
+  },
+  {
+   "title": "How to manage AI investments in the agentic era",
+   "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-14T10:00:00+00:00"
+  },
+  {
+   "title": "AI agents create virtual playgrounds to help robots get crucial training data",
+   "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-07-13T18:50:00+00:00"
+  },
+  {
+   "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+   "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-07-13T16:00:00+00:00"
+  },
+  {
+   "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
+   "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-07-13T12:37:28+00:00"
+  },
+  {
+   "title": "New method aims to keep kids safe from illegal AI-generated content",
+   "url": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-13T04:00:00+00:00"
   },
   {
    "title": "Africa Data Center Construction Market 2026-2031 | Nigeria Leverages Solar and Wind Energy in Data Centers to Cut Carbon Footprint",
@@ -153,8 +448,7 @@
    "url": "https://www.globenewswire.com/news-release/2026/07/15/3327848/0/en/Lark-Health-Partners-with-Samsung-to-Bring-AI-Powered-Health-Coach-to-U-S-Seniors.html",
    "source": "GlobeNewswire",
    "category": "health",
-   "published": "2026-07-15T13:46:00+00:00",
-   "breakthrough": true
+   "published": "2026-07-15T13:46:00+00:00"
   },
   {
    "title": "AI Labs Launches AI-Powered Investment Intelligence Platform to Bring Advanced Technology Stock Analytics to Retail Investors",
@@ -178,13 +472,6 @@
    "published": "2026-07-15T13:41:55+00:00"
   },
   {
-   "title": "Jensen Huang Lands In Japan, The Birthplace Of Humanoid Robots, As NVIDIA Kickstarts The Physical AI Era",
-   "url": "https://wccftech.com/jensen-huang-lands-in-japan-the-birthplace-of-humanoid-robots-as-nvidia-kickstarts-physical-ai-era/",
-   "source": "Wccftech",
-   "category": "robotics",
-   "published": "2026-07-15T13:30:26+00:00"
-  },
-  {
    "title": "Andor Health and Psynergy Health Launch ACCESS Clinic Powered by Andor Health's #1 AI-Native Clinical Services Operating System",
    "url": "https://www.prnewswire.com/news-releases/andor-health-and-psynergy-health-launch-access-clinic-powered-by-andor-healths-1-ai-native-clinical-services-operating-system-302825780.html",
    "source": "PRNewswire",
@@ -199,88 +486,11 @@
    "published": "2026-07-15T13:15:00+00:00"
   },
   {
-   "title": "What does it mean to be \u2018quantum\u2019? A physicist explains the basics behind Einstein\u2019s spooky actions at a distance",
-   "url": "https://theconversation.com/what-does-it-mean-to-be-quantum-a-physicist-explains-the-basics-behind-einsteins-spooky-actions-at-a-distance-281844",
-   "source": "The Conversation Africa",
-   "category": "quantum",
-   "published": "2026-07-15T12:12:28+00:00"
-  },
-  {
-   "title": "XPeng may build over 1,000 humanoid robots monthly",
-   "url": "https://biztoc.com/x/e0da4ed74240018e",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-07-15T11:48:04+00:00"
-  },
-  {
-   "title": "XPeng Aims to Produce Over 1,000 Robots a Month as It Plans Global Rollout",
-   "url": "https://biztoc.com/x/2475302f5d61a32d",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-07-15T11:32:09+00:00"
-  },
-  {
-   "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-   "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-07-15T10:51:37+00:00"
-  },
-  {
-   "title": "Hybrid Robots Market Projected to Reach $10.03 Billion by 2030 as Smart Manufacturing Accelerates",
-   "url": "https://www.globenewswire.com/news-release/2026/07/15/3327565/28124/en/Hybrid-Robots-Market-Projected-to-Reach-10-03-Billion-by-2030-as-Smart-Manufacturing-Accelerates.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-15T10:44:00+00:00"
-  },
-  {
-   "title": "Magnetic Quantum Material Enables One-Way Electrical Transport",
-   "url": "https://www.naturalnews.com/2026-07-15-magnetic-quantum-material-one-way-electrical-transport.html",
-   "source": "Naturalnews.com",
-   "category": "quantum",
-   "published": "2026-07-15T06:00:00+00:00"
-  },
-  {
-   "title": "Xiaomi updates progress on humanoid robots in auto factory, achieves 98% success rate in some tasks",
-   "url": "http://technode.com/2026/07/15/xiaomi-updates-progress-on-humanoid-robots-in-auto-factory-achieves-98-success-rate-in-some-tasks/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-07-15T02:14:13+00:00"
-  },
-  {
-   "title": "Universal gates from braiding and fusing anyons on quantum hardware",
-   "url": "https://www.nature.com/articles/s41586-026-10709-y",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-07-15T00:00:00+00:00"
-  },
-  {
-   "title": "All-mechanical coherence protection and fast control of a spin qubit",
-   "url": "https://www.nature.com/articles/s41567-026-03369-2",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-07-15T00:00:00+00:00"
-  },
-  {
-   "title": "canopus-quantum 0.2.0",
-   "url": "https://pypi.org/project/canopus-quantum/0.2.0/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-07-14T23:58:33+00:00"
-  },
-  {
    "title": "Boston Dynamics Wants Its Robot Dog to Deliver Your Packages",
    "url": "https://uk.pcmag.com/news/166157/boston-dynamics-wants-its-robot-dog-to-deliver-your-packages",
    "source": "PCMag.com",
    "category": "robotics",
    "published": "2026-07-14T20:33:10+00:00"
-  },
-  {
-   "title": "Helping AI models to meet the real world",
-   "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-14T20:25:00+00:00"
   },
   {
    "title": "qtdf added to PyPI",
@@ -295,20 +505,6 @@
    "source": "Nysfocus.com",
    "category": "robotics",
    "published": "2026-07-14T16:29:45+00:00"
-  },
-  {
-   "title": "How sales teams use ChatGPT Work",
-   "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-14T00:00:00+00:00"
-  },
-  {
-   "title": "How data science teams use ChatGPT Work",
-   "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-14T00:00:00+00:00"
   },
   {
    "title": "Post-Quantum\u2019s Algorithm \u2013 Classic McEliece \u2013 Achieves Global ISO Standardization to Protect the World From Quantum Cyber Attack",
@@ -414,13 +610,6 @@
    "source": "Biztoc.com",
    "category": "health",
    "published": "2026-07-15T00:38:37+00:00"
-  },
-  {
-   "title": "Physical AI: Physical operations are broken, a new kind of intelligence is needed",
-   "url": "https://www.redhat.com/en/blog/physical-ai-physical-operations-are-broken-new-kind-intelligence-needed",
-   "source": "Redhat.com",
-   "category": "robotics",
-   "published": "2026-07-15T00:00:00+00:00"
   },
   {
    "title": "Quantinuum, Rolls-Royce, Riverlane and University of Edinburgh Sign Agreement to Explore Quantum Computing for Industrial Design and Simulation",
@@ -568,13 +757,6 @@
    "source": "GlobeNewswire",
    "category": "ai",
    "published": "2026-07-14T05:00:00+00:00"
-  },
-  {
-   "title": "How MIT students are helping to prevent cyberattacks",
-   "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-13T19:10:00+00:00"
   },
   {
    "title": "How AI is Shaping Childhood",
