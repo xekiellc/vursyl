@@ -1,12 +1,237 @@
 {
- "updated": "2026-07-17T02:58:07.397200+00:00",
+ "updated": "2026-07-17T08:18:37.165396+00:00",
  "items": [
   {
-   "title": "Our approach to bioresilience",
-   "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-   "source": "Google DeepMind",
+   "title": "Why teens deserve access to safe AI",
+   "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-16T16:00:00+00:00"
+  },
+  {
+   "title": "Airbus picks Iliad\u2019s Scaleway for AI and defense cloud, signaling Europe\u2019s break from US hyperscalers",
+   "url": "https://cryptobriefing.com/airbus-scaleway-ai-defense-sovereign-cloud/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-16T08:14:19+00:00"
+  },
+  {
+   "title": "OpenAlex and JAMOVI Replace Paid Academic Research Software",
+   "url": "https://www.geeky-gadgets.com/free-tools-for-researchers/",
+   "source": "Geeky Gadgets",
+   "category": "ai",
+   "published": "2026-07-16T08:13:00+00:00"
+  },
+  {
+   "title": "TSMC to invest another $100 billion in US as Q2 profit blows past forecasts",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-to-invest-another-100-billion-in-us-as-q2-profit-blows-past-forecasts/articleshow/132433412.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-16T08:12:36+00:00"
+  },
+  {
+   "title": "Fujitsu and leading Japanese robotics companies to use Nvidia technology in 'physical AI'",
+   "url": "https://biztoc.com/x/f02fe5bee5152ac6",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-16T08:07:27+00:00"
+  },
+  {
+   "title": "Semicon 2.0 gives policy continuity, India already credible player in semiconductors: IESA chief",
+   "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/indias-semicon-20-a-game-changer-for-semiconductor-manufacturing-and-electronics-industry-growth/articleshow/132433298.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-16T08:06:51+00:00"
+  },
+  {
+   "title": "TCS and Google Cloud launch Gemini Experience Center in Kolkata",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tcs-and-google-cloud-launch-gemini-experience-center-in-kolkata/articleshow/132433314.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-07-16T08:03:53+00:00"
+  },
+  {
+   "title": "Credit Unions Plan to Nearly Triple AI Payment Services",
+   "url": "https://www.pymnts.com/credit-unions/2026/credit-unions-plan-to-nearly-triple-ai-payment-services/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-07-16T08:00:18+00:00"
+  },
+  {
+   "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World\u2019s First National AI Infrastructure",
+   "url": "https://www.globenewswire.com/news-release/2026/07/16/3328258/0/en/Japan-Government-Industrial-Leaders-and-NVIDIA-Launch-the-World-s-First-National-AI-Infrastructure.html",
+   "source": "GlobeNewswire",
+   "category": "compute",
+   "published": "2026-07-16T08:00:00+00:00"
+  },
+  {
+   "title": "Japan to buy 27,500 Nvidia Rubin chips for AI robotics initiative",
+   "url": "https://cryptobriefing.com/japan-nvidia-rubin-chips-ai-robotics/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-07-16T07:54:01+00:00"
+  },
+  {
+   "title": "India bets \u20b910,000 crore on a leap from generic drugs to biologics",
+   "url": "https://www.livemint.com/industry/india-biopharma-shakti-rs-10000-crore-generic-drugs-biologics-11784174014120.html",
+   "source": "Livemint",
    "category": "health",
-   "published": "2026-07-16T09:30:42+00:00"
+   "published": "2026-07-16T07:49:37+00:00"
+  },
+  {
+   "title": "Nvidia partners with Japanese robotics firms to advance AI development",
+   "url": "https://cryptobriefing.com/nvidia-japan-robotics-ai-partnerships/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-07-16T07:49:07+00:00"
+  },
+  {
+   "title": "NITI Aayog roadmap targets USD 691 bn bioeconomy by 2035; Jitendra Singh says India ready to lead biotech revolution",
+   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/niti-aayog-roadmap-targets-usd-691-bn-bioeconomy-by-2035-jitendra-singh-says-india-ready-to-lead-biotech-revolution/articleshow/132432899.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-07-16T07:44:00+00:00"
+  },
+  {
+   "title": "Show HN: Trellis2.c \u2013 Local 3D generation with Vulkan and CUDA",
+   "url": "https://github.com/Wimacs/trellis2.c",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-16T07:39:49+00:00"
+  },
+  {
+   "title": "Japanese Firms Increase Focus on Automation and AI",
+   "url": "https://newsonjapan.com/article/149993.php",
+   "source": "Newsonjapan.com",
+   "category": "ai",
+   "published": "2026-07-16T07:39:37+00:00"
+  },
+  {
+   "title": "Nvidia signs up Japan\u2019s robotics establishment for its open world models",
+   "url": "https://thenextweb.com/news/nvidia-japan-cosmos-coalition-robotics/",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-07-16T07:29:45+00:00"
+  },
+  {
+   "title": "Hyundai Motor Group acquires SoftBank stake to fully own Boston Dynamics",
+   "url": "https://cryptobriefing.com/hyundai-acquires-boston-dynamics-softbank-stake/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-07-16T07:07:02+00:00"
+  },
+  {
+   "title": "(PR) NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+   "url": "https://www.techpowerup.com/350803/nvidia-introduces-new-jetson-thor-computers-to-advance-mainstream-robotics-and-edge-ai",
+   "source": "Techpowerup.com",
+   "category": "robotics",
+   "published": "2026-07-16T06:44:13+00:00"
+  },
+  {
+   "title": "Mandrake Bio raises Rs 16 crore to build AI-powered gene-editing platform for agriculture, medicine",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mandrake-bio-raises-rs-16-crore-to-build-ai-powered-gene-editing-platform-for-agriculture-medicine/articleshow/132431719.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-07-16T06:43:15+00:00"
+  },
+  {
+   "title": "In July 2026, Cambridge economist Alessio Terzi and colleagues published the largest launch-cost dataset ever assembled \u2014 4,400 rockets flown since 1960 \u2014 and projected that the price of putting a kilogram into orbit will fall from $3,868 last year to $273 by 2040, if the company driving the collapse does not become its own bottleneck",
+   "url": "https://spacedaily.com/sd-in-july-2026-cambridge-economist-alessio-terzi-and-colleagues-published-the-largest-launch-cost-dataset-ever-assembled-4400-rockets-flown-since-1960-and-projected-that-the-pri/",
+   "source": "Space Daily",
+   "category": "breakthroughs",
+   "published": "2026-07-16T05:39:32+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Robo Ronaldo Explained: AI Humanoid Robot Making History at FIFA World Cup 2026",
+   "url": "https://www.successful-blog.com/1/who-is-robo-ronaldo/",
+   "source": "Successful-blog.com",
+   "category": "robotics",
+   "published": "2026-07-16T05:33:48+00:00"
+  },
+  {
+   "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
+   "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-16T04:00:00+00:00"
+  },
+  {
+   "title": "Japan\u2019s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
+   "url": "https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier",
+   "source": "Nvidia.com",
+   "category": "robotics",
+   "published": "2026-07-16T03:40:00+00:00"
+  },
+  {
+   "title": "Hyundai Motor Group to make Boston Dynamics wholly owned with purchase of SoftBank stake",
+   "url": "https://www.channelnewsasia.com/business/hyundai-motor-group-make-boston-dynamics-wholly-owned-purchase-softbank-stake-6257486",
+   "source": "CNA",
+   "category": "robotics",
+   "published": "2026-07-16T03:22:31+00:00"
+  },
+  {
+   "title": "How Cars24 scales conversations and builds faster with OpenAI",
+   "url": "https://openai.com/index/cars24",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-16T00:00:00+00:00"
+  },
+  {
+   "title": "Nvidia shrinks robotics chip size in half, maintains performance with new Jetson AGX Thor",
+   "url": "https://cryptobriefing.com/nvidia-robotics-chip-jetson-thor/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-07-15T23:33:24+00:00"
+  },
+  {
+   "title": "3 Questions: Neural transparency and the future of AI design",
+   "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-15T20:25:00+00:00"
+  },
+  {
+   "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+   "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-15T10:00:00+00:00"
+  },
+  {
+   "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
+   "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-14T18:00:00+00:00"
+  },
+  {
+   "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+   "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-14T16:45:13+00:00"
+  },
+  {
+   "title": "How to manage AI investments in the agentic era",
+   "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-14T10:00:00+00:00"
+  },
+  {
+   "title": "AI agents create virtual playgrounds to help robots get crucial training data",
+   "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-13T18:50:00+00:00"
+  },
+  {
+   "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
+   "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-07-13T12:37:28+00:00"
   },
   {
    "title": "Nvidia doubles down on the land of the rising GPU, wiring Blackwell into Japan's science, banks, factories and cars",
@@ -79,39 +304,11 @@
    "published": "2026-07-16T01:51:51+00:00"
   },
   {
-   "title": "Sugar-Coated Nanoparticles Shrink Deadly Brain Tumors in Mice",
-   "url": "https://www.sciencealert.com/sugar-coated-nanoparticles-shrink-deadly-brain-tumors-in-mice",
-   "source": "ScienceAlert",
-   "category": "health",
-   "published": "2026-07-16T01:38:00+00:00"
-  },
-  {
    "title": "Spectro Cloud wants to ease AI infrastructure management after raising $100M in funding",
    "url": "https://siliconangle.com/2026/07/15/spectro-cloud-wants-ease-ai-infrastructure-management-raising-100m-funding/",
    "source": "SiliconANGLE News",
    "category": "compute",
    "published": "2026-07-16T01:36:36+00:00"
-  },
-  {
-   "title": "Foxconn deepens humanoid robotics bet with US$9 million stake in Agility-linked SPAC",
-   "url": "https://www.digitimes.com/news/a20260716PD213/foxconn-robotics-spac-investment-robot.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-07-16T01:05:31+00:00"
-  },
-  {
-   "title": "Clinicians Are Adopting AI to Solve the Documentation Crisis, New Global Survey Finds",
-   "url": "https://www.prnewswire.com/news-releases/clinicians-are-adopting-ai-to-solve-the-documentation-crisis-new-global-survey-finds-302826981.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-16T00:19:00+00:00"
-  },
-  {
-   "title": "'This computer works almost like a guitar': Fingernail-sized quantum chip uses vibrations to store data",
-   "url": "https://www.techradar.com/pro/this-computer-works-almost-like-a-guitar-fingernail-sized-quantum-chip-uses-vibrations-to-store-data",
-   "source": "TechRadar",
-   "category": "quantum",
-   "published": "2026-07-16T00:05:00+00:00"
   },
   {
    "title": "Inhibited radiative decay enhances single-photon emitters",
@@ -121,35 +318,6 @@
    "published": "2026-07-16T00:00:00+00:00"
   },
   {
-   "title": "Rising Demand for Caregiving and Emotional Support to Drive Humanoid Companion Robot Market to US$1.1 Billion by 2030, Says TrendForce",
-   "url": "https://www.globenewswire.com/news-release/2026/07/16/3328192/0/en/Rising-Demand-for-Caregiving-and-Emotional-Support-to-Drive-Humanoid-Companion-Robot-Market-to-US-1-1-Billion-by-2030-Says-TrendForce.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-16T00:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA Jetson Thor T3000 & T2000 Unveiled For Physical AI, Powering Mainstream Humanoids, Robotics and Edge AI",
-   "url": "https://wccftech.com/nvidia-jetson-thor-t3000-t2000-unveiled-for-physical-ai-powering-humanoids-robotics/",
-   "source": "Wccftech",
-   "category": "robotics",
-   "published": "2026-07-15T23:40:14+00:00"
-  },
-  {
-   "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-   "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-   "source": "Nvidia.com",
-   "category": "robotics",
-   "published": "2026-07-15T23:00:54+00:00"
-  },
-  {
-   "title": "China Just Performed the World\u2019s First Implant of a Commercial Brain-Computer Interface",
-   "url": "https://gizmodo.com/china-just-performed-the-worlds-first-implant-of-a-commercial-brain-computer-interface-2000785981",
-   "source": "Gizmodo.com",
-   "category": "health",
-   "published": "2026-07-15T23:00:18+00:00",
-   "breakthrough": true
-  },
-  {
    "title": "Flexzo Ai Partners with Maiden Lane Medical to Accelerate AI-Driven Healthcare Workforce Transformation and Telemedicine Growth",
    "url": "https://www.prnewswire.com/news-releases/flexzo-ai-partners-with-maiden-lane-medical-to-accelerate-ai-driven-healthcare-workforce-transformation-and-telemedicine-growth-302826892.html",
    "source": "PRNewswire",
@@ -157,25 +325,11 @@
    "published": "2026-07-15T21:48:00+00:00"
   },
   {
-   "title": "QuiX Quantum\u2019s Carina could redefine photonic quantum computing",
-   "url": "https://www.digitaljournal.com/article/quix-quantums-carina-could-redefine-photonic-quantum-computing/",
-   "source": "Digital Journal",
-   "category": "quantum",
-   "published": "2026-07-15T21:09:20+00:00"
-  },
-  {
    "title": "Landmark ECOG-ACRIN ENDURANCE Study Co-Authored by International Myeloma Foundation Leaders Provides Evidence for Optimal Duration of Maintenance Therapy",
    "url": "https://www.globenewswire.com/news-release/2026/07/15/3328148/0/en/Landmark-ECOG-ACRIN-ENDURANCE-Study-Co-Authored-by-International-Myeloma-Foundation-Leaders-Provides-Evidence-for-Optimal-Duration-of-Maintenance-Therapy.html",
    "source": "GlobeNewswire",
    "category": "health",
    "published": "2026-07-15T21:00:00+00:00"
-  },
-  {
-   "title": "Walden Robotics launches with $300M, and its factory humanoids have no legs",
-   "url": "https://thenextweb.com/news/walden-robotics-300-million-toyota-humanoid/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-07-15T20:43:57+00:00"
   },
   {
    "title": "Rakovina Therapeutics Announces $1.5 Million Private Placement",
@@ -220,46 +374,11 @@
    "published": "2026-07-15T11:32:09+00:00"
   },
   {
-   "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-   "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-07-15T10:51:37+00:00"
-  },
-  {
    "title": "Hybrid Robots Market Projected to Reach $10.03 Billion by 2030 as Smart Manufacturing Accelerates",
    "url": "https://www.globenewswire.com/news-release/2026/07/15/3327565/28124/en/Hybrid-Robots-Market-Projected-to-Reach-10-03-Billion-by-2030-as-Smart-Manufacturing-Accelerates.html",
    "source": "GlobeNewswire",
    "category": "robotics",
    "published": "2026-07-15T10:44:00+00:00"
-  },
-  {
-   "title": "Helping AI models to meet the real world",
-   "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-14T20:25:00+00:00"
-  },
-  {
-   "title": "How sales teams use ChatGPT Work",
-   "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-14T00:00:00+00:00"
-  },
-  {
-   "title": "How data science teams use ChatGPT Work",
-   "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-14T00:00:00+00:00"
-  },
-  {
-   "title": "How MIT students are helping to prevent cyberattacks",
-   "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-13T19:10:00+00:00"
   },
   {
    "title": "Sharpen the Sword, Skip the Downloads \u2014 \u2018Onimusha: Way of the Sword\u2019 Is Coming to GeForce NOW",
@@ -442,13 +561,6 @@
    "source": "Gizmodo.com",
    "category": "health",
    "published": "2026-07-15T16:40:10+00:00"
-  },
-  {
-   "title": "Craig-Hallum initiates buy rating on Quantinuum with $100 price target, signaling quantum computing\u2019s Wall Street moment",
-   "url": "https://cryptobriefing.com/craig-hallum-buy-rating-quantinuum-qnt/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-07-15T16:06:30+00:00"
   },
   {
    "title": "LimX Dynamics raises US$200B in fundraising round as it prepares for public listing",
