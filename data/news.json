@@ -1,12 +1,265 @@
 {
- "updated": "2026-07-16T19:19:46.853148+00:00",
+ "updated": "2026-07-17T02:58:07.397200+00:00",
  "items": [
   {
-   "title": "Why teens deserve access to safe AI",
-   "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+   "title": "Our approach to bioresilience",
+   "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+   "source": "Google DeepMind",
+   "category": "health",
+   "published": "2026-07-16T09:30:42+00:00"
+  },
+  {
+   "title": "Nvidia doubles down on the land of the rising GPU, wiring Blackwell into Japan's science, banks, factories and cars",
+   "url": "https://www.digitimes.com/news/a20260716VL209/nvidia-blackwell-expansion-supercomputer-software.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-16T02:56:06+00:00"
+  },
+  {
+   "title": "Fleet: Hierarchical Task-Based Abstraction for Megakernels on Multi-Die GPUs",
+   "url": "https://arxiv.org/abs/2604.15379",
+   "source": "Arxiv.org",
+   "category": "compute",
+   "published": "2026-07-16T02:55:19+00:00"
+  },
+  {
+   "title": "Baidu to power AI search for Apple\u2019s Apple Intelligence in China",
+   "url": "http://technode.com/2026/07/16/baidu-to-power-ai-search-for-apples-apple-intelligence-in-china/",
+   "source": "TechNode",
+   "category": "ai",
+   "published": "2026-07-16T02:54:58+00:00"
+  },
+  {
+   "title": "Japan's enterprises and startups adopt Nvidia open models for specialized AI",
+   "url": "https://www.digitimes.com/news/a20260716PR203/nvidia-language-data-technology-software.html",
+   "source": "Digitimes",
+   "category": "ai",
+   "published": "2026-07-16T02:50:42+00:00"
+  },
+  {
+   "title": "AI startup Thinking Machines launches an open-weight AI model",
+   "url": "https://economictimes.indiatimes.com/tech/technology/ai-startup-thinking-machines-launches-an-open-weight-ai-model/articleshow/132428224.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-07-16T02:44:11+00:00"
+  },
+  {
+   "title": "Cadence rolls out AI agent to speed circuit board, chip packaging design",
+   "url": "https://economictimes.indiatimes.com/tech/technology/cadence-rolls-out-ai-agent-to-speed-circuit-board-chip-packaging-design/articleshow/132428203.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-16T02:42:08+00:00"
+  },
+  {
+   "title": "Agritech Rize raises $31 million in Series B as mix of equity and debt 8 AM EMBARGO",
+   "url": "https://www.livemint.com/companies/news/agritech-rize-raises-31-million-in-series-b-as-mix-of-equity-and-debt-8-am-embargo-11784110424443.html",
+   "source": "Livemint",
+   "category": "ai",
+   "published": "2026-07-16T02:34:00+00:00"
+  },
+  {
+   "title": "Thinking Machines Lab Drops Its First Model",
+   "url": "https://biztoc.com/x/de7bbe578069f067",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-07-16T02:31:22+00:00"
+  },
+  {
+   "title": "Union Cabinet clears Rs 1.9 lakh crore push for chips, mobile phones",
+   "url": "https://timesofindia.indiatimes.com/business/india-business/union-cabinet-clears-rs-1-9-lakh-crore-push-for-chips-mobile-phones/articleshow/132427656.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-16T01:59:05+00:00"
+  },
+  {
+   "title": "Mitsubishi Heavy Industries joins Nvidia partner network for power and cooling solutions",
+   "url": "https://cryptobriefing.com/mitsubishi-nvidia-power-cooling-partnership/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-16T01:51:51+00:00"
+  },
+  {
+   "title": "Sugar-Coated Nanoparticles Shrink Deadly Brain Tumors in Mice",
+   "url": "https://www.sciencealert.com/sugar-coated-nanoparticles-shrink-deadly-brain-tumors-in-mice",
+   "source": "ScienceAlert",
+   "category": "health",
+   "published": "2026-07-16T01:38:00+00:00"
+  },
+  {
+   "title": "Spectro Cloud wants to ease AI infrastructure management after raising $100M in funding",
+   "url": "https://siliconangle.com/2026/07/15/spectro-cloud-wants-ease-ai-infrastructure-management-raising-100m-funding/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-07-16T01:36:36+00:00"
+  },
+  {
+   "title": "Foxconn deepens humanoid robotics bet with US$9 million stake in Agility-linked SPAC",
+   "url": "https://www.digitimes.com/news/a20260716PD213/foxconn-robotics-spac-investment-robot.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-07-16T01:05:31+00:00"
+  },
+  {
+   "title": "Clinicians Are Adopting AI to Solve the Documentation Crisis, New Global Survey Finds",
+   "url": "https://www.prnewswire.com/news-releases/clinicians-are-adopting-ai-to-solve-the-documentation-crisis-new-global-survey-finds-302826981.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-16T00:19:00+00:00"
+  },
+  {
+   "title": "'This computer works almost like a guitar': Fingernail-sized quantum chip uses vibrations to store data",
+   "url": "https://www.techradar.com/pro/this-computer-works-almost-like-a-guitar-fingernail-sized-quantum-chip-uses-vibrations-to-store-data",
+   "source": "TechRadar",
+   "category": "quantum",
+   "published": "2026-07-16T00:05:00+00:00"
+  },
+  {
+   "title": "Inhibited radiative decay enhances single-photon emitters",
+   "url": "https://www.nature.com/articles/s41467-026-75489-5",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-07-16T00:00:00+00:00"
+  },
+  {
+   "title": "Rising Demand for Caregiving and Emotional Support to Drive Humanoid Companion Robot Market to US$1.1 Billion by 2030, Says TrendForce",
+   "url": "https://www.globenewswire.com/news-release/2026/07/16/3328192/0/en/Rising-Demand-for-Caregiving-and-Emotional-Support-to-Drive-Humanoid-Companion-Robot-Market-to-US-1-1-Billion-by-2030-Says-TrendForce.html",
+   "source": "GlobeNewswire",
+   "category": "robotics",
+   "published": "2026-07-16T00:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA Jetson Thor T3000 & T2000 Unveiled For Physical AI, Powering Mainstream Humanoids, Robotics and Edge AI",
+   "url": "https://wccftech.com/nvidia-jetson-thor-t3000-t2000-unveiled-for-physical-ai-powering-humanoids-robotics/",
+   "source": "Wccftech",
+   "category": "robotics",
+   "published": "2026-07-15T23:40:14+00:00"
+  },
+  {
+   "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+   "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+   "source": "Nvidia.com",
+   "category": "robotics",
+   "published": "2026-07-15T23:00:54+00:00"
+  },
+  {
+   "title": "China Just Performed the World\u2019s First Implant of a Commercial Brain-Computer Interface",
+   "url": "https://gizmodo.com/china-just-performed-the-worlds-first-implant-of-a-commercial-brain-computer-interface-2000785981",
+   "source": "Gizmodo.com",
+   "category": "health",
+   "published": "2026-07-15T23:00:18+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Flexzo Ai Partners with Maiden Lane Medical to Accelerate AI-Driven Healthcare Workforce Transformation and Telemedicine Growth",
+   "url": "https://www.prnewswire.com/news-releases/flexzo-ai-partners-with-maiden-lane-medical-to-accelerate-ai-driven-healthcare-workforce-transformation-and-telemedicine-growth-302826892.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-15T21:48:00+00:00"
+  },
+  {
+   "title": "QuiX Quantum\u2019s Carina could redefine photonic quantum computing",
+   "url": "https://www.digitaljournal.com/article/quix-quantums-carina-could-redefine-photonic-quantum-computing/",
+   "source": "Digital Journal",
+   "category": "quantum",
+   "published": "2026-07-15T21:09:20+00:00"
+  },
+  {
+   "title": "Landmark ECOG-ACRIN ENDURANCE Study Co-Authored by International Myeloma Foundation Leaders Provides Evidence for Optimal Duration of Maintenance Therapy",
+   "url": "https://www.globenewswire.com/news-release/2026/07/15/3328148/0/en/Landmark-ECOG-ACRIN-ENDURANCE-Study-Co-Authored-by-International-Myeloma-Foundation-Leaders-Provides-Evidence-for-Optimal-Duration-of-Maintenance-Therapy.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-15T21:00:00+00:00"
+  },
+  {
+   "title": "Walden Robotics launches with $300M, and its factory humanoids have no legs",
+   "url": "https://thenextweb.com/news/walden-robotics-300-million-toyota-humanoid/",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-07-15T20:43:57+00:00"
+  },
+  {
+   "title": "Rakovina Therapeutics Announces $1.5 Million Private Placement",
+   "url": "https://financialpost.com/globe-newswire/rakovina-therapeutics-announces-1-5-million-private-placement",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-07-15T20:33:46+00:00"
+  },
+  {
+   "title": "An OpenAI researcher is leaving to build a $2bn AI drug startup that has no name yet",
+   "url": "https://thenextweb.com/news/miles-wang-openai-ai-drug-discovery-startup/",
+   "source": "The Next Web",
+   "category": "ai",
+   "published": "2026-07-15T20:33:30+00:00"
+  },
+  {
+   "title": "Show HN: OpenClaw for Your Health",
+   "url": "https://www.withmurph.ai",
+   "source": "Withmurph.ai",
+   "category": "health",
+   "published": "2026-07-15T20:02:38+00:00"
+  },
+  {
+   "title": "Jensen Huang Lands In Japan, The Birthplace Of Humanoid Robots, As NVIDIA Kickstarts The Physical AI Era",
+   "url": "https://wccftech.com/jensen-huang-lands-in-japan-the-birthplace-of-humanoid-robots-as-nvidia-kickstarts-physical-ai-era/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-07-15T13:30:26+00:00"
+  },
+  {
+   "title": "XPeng may build over 1,000 humanoid robots monthly",
+   "url": "https://biztoc.com/x/e0da4ed74240018e",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-15T11:48:04+00:00"
+  },
+  {
+   "title": "XPeng Aims to Produce Over 1,000 Robots a Month as It Plans Global Rollout",
+   "url": "https://biztoc.com/x/2475302f5d61a32d",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-15T11:32:09+00:00"
+  },
+  {
+   "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+   "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-07-15T10:51:37+00:00"
+  },
+  {
+   "title": "Hybrid Robots Market Projected to Reach $10.03 Billion by 2030 as Smart Manufacturing Accelerates",
+   "url": "https://www.globenewswire.com/news-release/2026/07/15/3327565/28124/en/Hybrid-Robots-Market-Projected-to-Reach-10-03-Billion-by-2030-as-Smart-Manufacturing-Accelerates.html",
+   "source": "GlobeNewswire",
+   "category": "robotics",
+   "published": "2026-07-15T10:44:00+00:00"
+  },
+  {
+   "title": "Helping AI models to meet the real world",
+   "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-14T20:25:00+00:00"
+  },
+  {
+   "title": "How sales teams use ChatGPT Work",
+   "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-07-16T16:00:00+00:00"
+   "published": "2026-07-14T00:00:00+00:00"
+  },
+  {
+   "title": "How data science teams use ChatGPT Work",
+   "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-14T00:00:00+00:00"
+  },
+  {
+   "title": "How MIT students are helping to prevent cyberattacks",
+   "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-13T19:10:00+00:00"
   },
   {
    "title": "Sharpen the Sword, Skip the Downloads \u2014 \u2018Onimusha: Way of the Sword\u2019 Is Coming to GeForce NOW",
@@ -14,27 +267,6 @@
    "source": "NVIDIA",
    "category": "compute",
    "published": "2026-07-16T13:00:34+00:00"
-  },
-  {
-   "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
-   "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-16T04:00:00+00:00"
-  },
-  {
-   "title": "How Cars24 scales conversations and builds faster with OpenAI",
-   "url": "https://openai.com/index/cars24",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-16T00:00:00+00:00"
-  },
-  {
-   "title": "3 Questions: Neural transparency and the future of AI design",
-   "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-15T20:25:00+00:00"
   },
   {
    "title": "jax-morpho 0.1.0",
@@ -125,8 +357,7 @@
    "url": "https://fortune.com/2026/07/15/what-is-mira-murati-thinking-machines-first-ai-model-inkling/",
    "source": "Fortune",
    "category": "ai",
-   "published": "2026-07-15T18:46:50+00:00",
-   "breakthrough": true
+   "published": "2026-07-15T18:46:50+00:00"
   },
   {
    "title": "NVIDIA And SEGA Renew 30-Year Partnership To Power Games On RTX Spark",
@@ -220,27 +451,6 @@
    "published": "2026-07-15T16:06:30+00:00"
   },
   {
-   "title": "Eastworlds partners with Unitree Robotics to advance embodied AI through Virtuals Protocol",
-   "url": "https://cryptobriefing.com/eastworlds-unitree-robotics-embodied-ai/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-07-15T14:13:26+00:00"
-  },
-  {
-   "title": "The US is advancing AI safety through state and federal action",
-   "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-15T12:00:00+00:00"
-  },
-  {
-   "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-   "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-15T10:00:00+00:00"
-  },
-  {
    "title": "LimX Dynamics raises US$200B in fundraising round as it prepares for public listing",
    "url": "https://www.digitimes.com/news/a20260715VL227/humanoid-robot-ai-financing-ipo.html",
    "source": "Digitimes",
@@ -248,67 +458,11 @@
    "published": "2026-07-15T08:24:50+00:00"
   },
   {
-   "title": "Classiq and ParityQC Partner to Optimize and Streamline Quantum Execution",
-   "url": "https://www.globenewswire.com/news-release/2026/07/15/3327449/0/en/Classiq-and-ParityQC-Partner-to-Optimize-and-Streamline-Quantum-Execution.html",
-   "source": "GlobeNewswire",
-   "category": "quantum",
-   "published": "2026-07-15T05:00:00+00:00"
-  },
-  {
-   "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
-   "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-14T18:00:00+00:00"
-  },
-  {
-   "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-   "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-14T16:45:13+00:00"
-  },
-  {
-   "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-   "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-14T15:00:20+00:00"
-  },
-  {
-   "title": "How to manage AI investments in the agentic era",
-   "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-14T10:00:00+00:00"
-  },
-  {
-   "title": "AI agents create virtual playgrounds to help robots get crucial training data",
-   "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
-   "source": "MIT News AI",
-   "category": "robotics",
-   "published": "2026-07-13T18:50:00+00:00"
-  },
-  {
    "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
    "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
    "source": "Microsoft Research",
    "category": "ai",
    "published": "2026-07-13T16:00:00+00:00"
-  },
-  {
-   "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-   "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-07-13T12:37:28+00:00"
-  },
-  {
-   "title": "New method aims to keep kids safe from illegal AI-generated content",
-   "url": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-13T04:00:00+00:00"
   },
   {
    "title": "Africa Data Center Construction Market 2026-2031 | Nigeria Leverages Solar and Wind Energy in Data Centers to Cut Carbon Footprint",
