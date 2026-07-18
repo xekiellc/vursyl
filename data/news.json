@@ -1,12 +1,216 @@
 {
- "updated": "2026-07-17T19:17:30.637661+00:00",
+ "updated": "2026-07-18T02:50:25.869442+00:00",
  "items": [
   {
-   "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads \u2014 a Key Metric for Agentic AI",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+   "title": "Following the questions where they lead",
+   "url": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-17T17:25:00+00:00"
+  },
+  {
+   "title": "Indonesia targets global semiconductor supply chain role",
+   "url": "https://en.antaranews.com/news/422996/indonesia-targets-global-semiconductor-supply-chain-role",
+   "source": "Antaranews.com",
+   "category": "compute",
+   "published": "2026-07-17T02:44:13+00:00"
+  },
+  {
+   "title": "Show HN: KV-Cache Grafting \u2013 Boosting frozen 12B LLMs to 93.3% AIME accuracy",
+   "url": "https://arxiv.org/abs/2607.14431",
+   "source": "Arxiv.org",
+   "category": "ai",
+   "published": "2026-07-17T02:37:51+00:00"
+  },
+  {
+   "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals",
+   "url": "https://economictimes.indiatimes.com/tech/technology/chinas-moonshot-unveils-worlds-largest-open-ai-model-closing-in-on-us-rivals/articleshow/132451012.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-07-17T02:36:25+00:00"
+  },
+  {
+   "title": "Japan steps up sovereign AI ambitions as Noetra launches multimodal AI project, plans infrastructure of 27,500 Nvidia Rubin GPUs",
+   "url": "https://www.digitimes.com/news/a20260717PR204/japan-ai-development-infrastructure.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-17T02:29:41+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "UIUC AI Teaching Assistant",
+   "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-17T02:23:18+00:00"
+  },
+  {
+   "title": "Google AI Mode gets more useful with Canva, Instacart and YouTube app integrations",
+   "url": "https://siliconangle.com/2026/07/16/google-ai-mode-gets-useful-canva-instacart-youtube-app-integrations/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-07-17T02:00:15+00:00"
+  },
+  {
+   "title": "South Korea making its own security-centric AI model",
+   "url": "https://www.theregister.com/ai-and-ml/2026/07/17/south-korea-making-its-own-security-centric-ai-model/5274034",
+   "source": "Theregister.com",
+   "category": "ai",
+   "published": "2026-07-17T01:56:40+00:00"
+  },
+  {
+   "title": "Fujitsu and leading Japanese robotics companies to use Nvidia technology in \u2018physical AI\u2019",
+   "url": "https://biztoc.com/x/8eaff41f94d20270",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-17T01:37:14+00:00"
+  },
+  {
+   "title": "Global Times: 300 plus AI products set to make their global debuts at WAIC with strong focus on practical applications",
+   "url": "https://www.prnewswire.com/news-releases/global-times-300-plus-ai-products-set-to-make-their-global-debuts-at-waic-with-strong-focus-on-practical-applications-302828166.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-07-17T01:34:00+00:00"
+  },
+  {
+   "title": "Show HN: NexSub \u2013 100% offline real-time translation tool using local Whisper",
+   "url": "https://steelsoft.site/software/NexSub_home.html",
+   "source": "Steelsoft.site",
+   "category": "ai",
+   "published": "2026-07-17T01:16:09+00:00"
+  },
+  {
+   "title": "UnitedHealth\u2019s AI Bet Paid Off. Now It Is Selling the Playbook",
+   "url": "https://www.pymnts.com/earnings/2026/unitedhealths-ai-bet-paid-off-now-it-is-selling-the-playbook/",
+   "source": "pymnts.com",
+   "category": "health",
+   "published": "2026-07-17T01:01:31+00:00"
+  },
+  {
+   "title": "Ukraine wants combat humanoid robots \u2014 but expect Wall-E over Terminator, as simpler, wheeled tech still wins",
+   "url": "https://www.techradar.com/pro/ukraine-wants-combat-humanoid-robots-but-expect-wall-e-over-terminator-as-simpler-wheeled-tech-still-wins",
+   "source": "TechRadar",
+   "category": "robotics",
+   "published": "2026-07-16T23:20:00+00:00"
+  },
+  {
+   "title": "The 4 Layers Of Brain Behind One Of Europe\u2019s Leading Humanoid Robots",
+   "url": "https://www.forbes.com/sites/johnkoetsier/2026/07/16/the-4-layers-of-brain-behind-one-of-europes-leading-humanoid-robots/",
+   "source": "Forbes",
+   "category": "robotics",
+   "published": "2026-07-16T23:13:24+00:00"
+  },
+  {
+   "title": "Race against Tesla: China EV maker Xpeng to launch viral humanoid globally in 2027",
+   "url": "https://biztoc.com/x/167a27210c80fe8f",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-16T23:04:44+00:00"
+  },
+  {
+   "title": "AI helps pathologists spot prostate cancer faster: What Canada can learn from landmark UK study",
+   "url": "https://www.digitaljournal.com/article/ai-helps-pathologists-spot-prostate-cancer-faster-what-canada-can-learn-from-landmark-uk-study/",
+   "source": "Digital Journal",
+   "category": "health",
+   "published": "2026-07-16T21:29:07+00:00"
+  },
+  {
+   "title": "From experiment to insight: how Dotmatics Luma and Databricks make AI-ready science a reality",
+   "url": "https://www.databricks.com/blog/experiment-insight-how-dotmatics-luma-and-databricks-make-ai-ready-science-reality",
+   "source": "Databricks.com",
+   "category": "ai",
+   "published": "2026-07-16T21:07:45+00:00"
+  },
+  {
+   "title": "UPDATE \u2013 Glucotrack and L\u014dkahi Therapeutics Complete Strategic Business Combination, Establishing L\u014dkahi-Controlled Public Platform",
+   "url": "https://www.globenewswire.com/news-release/2026/07/16/3328838/0/en/UPDATE-Glucotrack-and-L%C5%8Dkahi-Therapeutics-Complete-Strategic-Business-Combination-Establishing-L%C5%8Dkahi-Controlled-Public-Platform.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-16T20:57:00+00:00"
+  },
+  {
+   "title": "Neo robot hands breakthrough can build LEGOs, unzip jackets, and open a bag of Funyuns \u2014 I can't tell if I'm thrilled or terrified",
+   "url": "https://www.techradar.com/ai-platforms-assistants/neo-robot-hands-breakthrough-can-build-legos-unzip-jackets-and-open-a-bag-of-funyuns-i-cant-tell-if-im-thrilled-or-terrified",
+   "source": "TechRadar",
+   "category": "robotics",
+   "published": "2026-07-16T20:30:02+00:00"
+  },
+  {
+   "title": "What if your AI agents had their own LinkedIn?  Welcome to Agent Social.",
+   "url": "https://www.c-sharpcorner.com/article/what-if-your-ai-agents-had-their-own-linkedin-welcome-to-agent-social/",
+   "source": "C-sharpcorner.com",
+   "category": "ai",
+   "published": "2026-07-16T20:21:09+00:00"
+  },
+  {
+   "title": "Why teens deserve access to safe AI",
+   "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-16T16:00:00+00:00"
+  },
+  {
+   "title": "What does it mean to be \u2018quantum\u2019? A physicist explains the basics behind Einstein\u2019s spooky actions at a distance",
+   "url": "https://www.geeksaresexy.net/2026/07/16/what-does-it-mean-to-be-quantum-a-physicist-explains-the-basics-behind-einsteins-spooky-actions-at-a-distance/",
+   "source": "Geeksaresexy.net",
+   "category": "quantum",
+   "published": "2026-07-16T13:59:18+00:00"
+  },
+  {
+   "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
+   "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-16T04:00:00+00:00"
+  },
+  {
+   "title": "How Cars24 scales conversations and builds faster with OpenAI",
+   "url": "https://openai.com/index/cars24",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-16T00:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+   "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-07-15T23:00:54+00:00"
+  },
+  {
+   "title": "3 Questions: Neural transparency and the future of AI design",
+   "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-15T20:25:00+00:00"
+  },
+  {
+   "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+   "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-07-15T10:51:37+00:00"
+  },
+  {
+   "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
+   "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-14T18:00:00+00:00"
+  },
+  {
+   "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+   "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-07-17T15:00:14+00:00"
+   "published": "2026-07-14T15:00:20+00:00"
+  },
+  {
+   "title": "How to manage AI investments in the agentic era",
+   "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-14T10:00:00+00:00"
   },
   {
    "title": "AI-powered software could recover 300GW of hidden capacity for the US power grid, enough to power thousands of AI data centers",
@@ -21,13 +225,6 @@
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-07-16T19:01:00+00:00"
-  },
-  {
-   "title": "Agility Opens New Fremont Facility to Accelerate Physical AI Development",
-   "url": "https://www.prnewswire.com/news-releases/agility-opens-new-fremont-facility-to-accelerate-physical-ai-development-302827927.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-07-16T19:00:00+00:00"
   },
   {
    "title": "Neurons Playing Tetris: Intactis Bio Joins the Biocomputing Industry",
@@ -49,77 +246,6 @@
    "source": "Biztoc.com",
    "category": "compute",
    "published": "2026-07-16T18:48:28+00:00"
-  },
-  {
-   "title": "Sunday Robotics says its robot can fold clothes it has never seen in unfamiliar homes",
-   "url": "https://www.businessinsider.com/sunday-robotics-memo-home-robot-fold-laundry-99-success-2026-7#article",
-   "source": "Business Insider",
-   "category": "robotics",
-   "published": "2026-07-16T18:01:01+00:00"
-  },
-  {
-   "title": "Neural atom quantum computing roadmap \u2014 how laser-cooled trapped atoms could pave the path beyond physical qubit counts",
-   "url": "https://www.tomshardware.com/tech-industry/quantum-computing/neural-atom-quantum-computing-roadmap-how-laser-cooled-trapped-atoms-could-pave-the-path-beyond-physical-qubit-counts",
-   "source": "Tom's Hardware UK",
-   "category": "quantum",
-   "published": "2026-07-16T16:52:54+00:00"
-  },
-  {
-   "title": "Xpeng\u2019s L03 is the first Chinese EV to put proprietary AI driving chips in a mass-market car",
-   "url": "https://thenextweb.com/news/xpeng-l03-turing-ai-chip-global-launch/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-07-16T16:40:06+00:00"
-  },
-  {
-   "title": "Global Quantum Materials Market Report 2027-2047 | Identifies Critical Supply-Chain Opportunities Across the Quantum Technology Industry",
-   "url": "https://www.globenewswire.com/news-release/2026/07/16/3328662/28124/en/Global-Quantum-Materials-Market-Report-2027-2047-Identifies-Critical-Supply-Chain-Opportunities-Across-the-Quantum-Technology-Industry.html",
-   "source": "GlobeNewswire",
-   "category": "quantum",
-   "published": "2026-07-16T15:33:00+00:00"
-  },
-  {
-   "title": "Hyundai buys SoftBank's Boston Dynamics stake for $325 million",
-   "url": "https://qz.com/hyundai-softbank-boston-dynamics-stake-acquisition-071626",
-   "source": "Quartz India",
-   "category": "robotics",
-   "published": "2026-07-16T15:11:47+00:00"
-  },
-  {
-   "title": "XPENG\u2019s Human-Like Robot Has Electronic Skin, Bionic Spine",
-   "url": "https://www.newsweek.com/xpengs-human-like-robot-has-electronic-skin-bionic-spine-12203584",
-   "source": "Newsweek",
-   "category": "robotics",
-   "published": "2026-07-16T14:24:39+00:00"
-  },
-  {
-   "title": "Humanoid Robots Just Performed Live Surgery For The First Time Ever",
-   "url": "https://brobible.com/culture/article/humanoid-robots-performed-live-surgery-first-time/",
-   "source": "BroBible",
-   "category": "robotics",
-   "published": "2026-07-16T14:11:54+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-   "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-15T10:00:00+00:00"
-  },
-  {
-   "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-   "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-14T16:45:13+00:00"
-  },
-  {
-   "title": "A scorecard for the AI age",
-   "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-17T10:00:00+00:00"
   },
   {
    "title": "Nvidia and Japan unveil world's first national AI infrastructure \u2014 Noetra consortium to build a 140MW Rubin AI factory with 27,500 GPUs",
@@ -276,13 +402,6 @@
    "published": "2026-07-16T09:44:42+00:00"
   },
   {
-   "title": "Our approach to bioresilience",
-   "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-   "source": "Google DeepMind",
-   "category": "health",
-   "published": "2026-07-16T09:30:42+00:00"
-  },
-  {
    "title": "Craig-Hallum initiates buy rating on Quantinuum with $100 price target, signaling quantum computing\u2019s Wall Street moment",
    "url": "https://cryptobriefing.com/craig-hallum-buy-rating-quantinuum-qnt/",
    "source": "Crypto Briefing",
@@ -295,13 +414,6 @@
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-07-15T12:00:00+00:00"
-  },
-  {
-   "title": "Helping AI models to meet the real world",
-   "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-14T20:25:00+00:00"
   },
   {
    "title": "How sales teams use ChatGPT Work",
