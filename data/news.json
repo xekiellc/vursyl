@@ -1,6 +1,76 @@
 {
- "updated": "2026-07-19T13:27:31.007963+00:00",
+ "updated": "2026-07-19T19:13:03.457622+00:00",
  "items": [
+  {
+   "title": "New York school district to deploy humanoid robot in classrooms this fall",
+   "url": "https://www.foxnews.com/media/new-york-school-district-deploy-humanoid-robot-classrooms-fall",
+   "source": "Fox News",
+   "category": "robotics",
+   "published": "2026-07-18T19:00:24+00:00"
+  },
+  {
+   "title": "Intel and Google deepen AI ties for chip design",
+   "url": "https://www.thestreet.com/technology/intel-google-cloud-ai-partnership",
+   "source": "TheStreet",
+   "category": "compute",
+   "published": "2026-07-18T18:33:00+00:00"
+  },
+  {
+   "title": "Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy",
+   "url": "https://biztoc.com/x/00d539bea8fdb0d2",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-07-18T18:11:48+00:00"
+  },
+  {
+   "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+   "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+   "source": "Deepmind.google",
+   "category": "health",
+   "published": "2026-07-18T16:02:45+00:00"
+  },
+  {
+   "title": "Show HN: TPU-accelerated quantum circuit simulation in Jax",
+   "url": "https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX",
+   "source": "Github.com",
+   "category": "quantum",
+   "published": "2026-07-18T14:43:18+00:00"
+  },
+  {
+   "title": "Scientists Spent 55 Years Studying Centenarians to Reveal The Secret to Living to 100",
+   "url": "https://www.sciencealert.com/scientists-reviewed-55-years-of-research-on-centenarians-to-reveal-the-complicated-truth-about-living-to-100",
+   "source": "ScienceAlert",
+   "category": "health",
+   "published": "2026-07-18T14:01:00+00:00"
+  },
+  {
+   "title": "OpenEvidence reportedly eyes $200M raise at $20B valuation, signaling AI healthcare\u2019s breakneck growth",
+   "url": "https://cryptobriefing.com/openevidence-200m-raise-20b-valuation/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-07-18T13:34:56+00:00"
+  },
+  {
+   "title": "Humanoid Loses Its Head In World's First Full-Size Robot Combat Tournament... And Keeps Fighting",
+   "url": "https://biztoc.com/x/e05c2306efddbc77",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-17T22:10:12+00:00"
+  },
+  {
+   "title": "World\u2019s first humanoid robot MMA fight delivers an unexpected ending at EngineAI event in China",
+   "url": "https://timesofindia.indiatimes.com/sports/international-sports/worlds-first-humanoid-robot-mma-fight-delivers-an-unexpected-ending-at-engineai-event-in-china/articleshow/132469624.cms",
+   "source": "The Times of India",
+   "category": "robotics",
+   "published": "2026-07-17T20:24:56+00:00"
+  },
+  {
+   "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads \u2014 a Key Metric for Agentic AI",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-17T15:00:14+00:00"
+  },
   {
    "title": "In superhero-themed video, PM Anwar launches AI avatar in bid to better connect with Malaysians",
    "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ai-avatar-agentic-artificial-intelligence-zetrix-6258796",
@@ -37,39 +107,11 @@
    "published": "2026-07-18T12:15:47+00:00"
   },
   {
-   "title": "NY school to introduce first humanoid robot in US classroom \u2014 and vows \u2018Sally\u2019 will never replace teachers",
-   "url": "https://nypost.com/2026/07/18/us-news/humanoid-robot-sally-to-join-seneca-nation-k-12-classrooms/",
-   "source": "New York Post",
-   "category": "robotics",
-   "published": "2026-07-18T12:15:00+00:00"
-  },
-  {
-   "title": "A French startup built a radiology viewer from scratch with AI at its core. Moffitt Cancer Center is already using it.",
-   "url": "https://thenextweb.com/news/raidium-ai-radiology-moffitt-cancer-center-us-launch/",
-   "source": "The Next Web",
-   "category": "health",
-   "published": "2026-07-18T10:07:35+00:00"
-  },
-  {
    "title": "Which AI Best Predicts the 2026 World Cup Final? We Asked 5 Models About Sunday's Match",
    "url": "https://www.cnet.com/tech/services-and-software/who-will-win-world-cup-final-ai-models-predict/",
    "source": "CNET",
    "category": "ai",
    "published": "2026-07-18T10:01:07+00:00"
-  },
-  {
-   "title": "Heralding The Minimal Clinically Important Difference When AI Is Used For Human Mental Health",
-   "url": "https://www.forbes.com/sites/lanceeliot/2026/07/18/heralded-minimal-clinically-important-difference-when-ai-is-used-for-human-mental-health/",
-   "source": "Forbes",
-   "category": "health",
-   "published": "2026-07-18T07:15:00+00:00"
-  },
-  {
-   "title": "\"Just The Beginning\": Japan Buys Billions In Nvidia Rubin Chips To Power Humanoid Robots",
-   "url": "https://biztoc.com/x/010ba04113cd756b",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-07-18T03:14:08+00:00"
   },
   {
    "title": "Global Times: China sends fresh signal on global AI cooperation at WAIC",
@@ -79,47 +121,12 @@
    "published": "2026-07-18T02:48:00+00:00"
   },
   {
-   "title": "Global Commercial Service Robot Shipments Leader KEENON Puts Humanoids to Work at WAIC 2026",
-   "url": "https://www.prnewswire.co.uk/news-releases/global-commercial-service-robot-shipments-leader-keenon-puts-humanoids-to-work-at-waic-2026-302828933.html",
-   "source": "PR Newswire UK",
-   "category": "robotics",
-   "published": "2026-07-18T01:49:00+00:00"
-  },
-  {
    "title": "A lightweight, integrated generative AI assistant for accelerated early-stage drug discovery on constrained-resource hardware",
    "url": "https://www.nature.com/articles/s41598-026-61237-8",
    "source": "Nature.com",
    "category": "health",
    "published": "2026-07-18T00:00:00+00:00",
    "breakthrough": true
-  },
-  {
-   "title": "Steve Wozniak's Foundation Partners With Realbotix To Build AI Teacherbot",
-   "url": "https://hardware.slashdot.org/story/26/07/17/1944211/steve-wozniaks-foundation-partners-with-realbotix-to-build-ai-teacherbot",
-   "source": "Slashdot.org",
-   "category": "robotics",
-   "published": "2026-07-17T23:00:00+00:00"
-  },
-  {
-   "title": "Agility Robotics plants its flag in Tesla\u2019s backyard",
-   "url": "https://biztoc.com/x/cd2b90d7a7e011a2",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-07-17T20:23:54+00:00"
-  },
-  {
-   "title": "Agility Robotics plants its flag in Tesla's backyard | TechCrunch",
-   "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-   "source": "TechCrunch",
-   "category": "robotics",
-   "published": "2026-07-17T20:22:47+00:00"
-  },
-  {
-   "title": "Following the questions where they lead",
-   "url": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-17T17:25:00+00:00"
   },
   {
    "title": "Why teens deserve access to safe AI",
@@ -134,34 +141,6 @@
    "source": "NVIDIA",
    "category": "compute",
    "published": "2026-07-16T13:00:34+00:00"
-  },
-  {
-   "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
-   "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-16T04:00:00+00:00"
-  },
-  {
-   "title": "How Cars24 scales conversations and builds faster with OpenAI",
-   "url": "https://openai.com/index/cars24",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-16T00:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-   "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-07-15T23:00:54+00:00"
-  },
-  {
-   "title": "3 Questions: Neural transparency and the future of AI design",
-   "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-15T20:25:00+00:00"
   },
   {
    "title": "A data center bathhouse? Architects are rethinking what AI infrastructure owes its neighbors",
