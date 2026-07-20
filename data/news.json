@@ -1,12 +1,125 @@
 {
- "updated": "2026-07-20T14:17:04.669673+00:00",
+ "updated": "2026-07-20T19:49:20.122465+00:00",
  "items": [
   {
-   "title": "Bristol Myers Squibb Building Life Science Industry\u2019s Most Advanced AI Factory on NVIDIA Vera Rubin",
-   "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+   "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+   "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
    "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-20T15:00:53+00:00"
+  },
+  {
+   "title": "Safety and alignment in an era of long-horizon models",
+   "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-20T10:00:00+00:00"
+  },
+  {
+   "title": "agentargus 0.1.0",
+   "url": "https://pypi.org/project/agentargus/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-19T19:42:53+00:00"
+  },
+  {
+   "title": "This open-source extension lets you rewrite your X algorithm using a local LLM, and it healed my timeline",
+   "url": "https://www.xda-developers.com/open-source-extension-lets-you-rewrite-your-x-algorithm-using-local-llm/",
+   "source": "XDA Developers",
+   "category": "ai",
+   "published": "2026-07-19T19:30:10+00:00"
+  },
+  {
+   "title": "Show HN: Bothread, multiple AI coding agents talk, share one repo, no collisions",
+   "url": "https://github.com/AdamACE9/bothread",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-19T19:09:57+00:00"
+  },
+  {
+   "title": "DGPUNET P2P AI Update on Distributed GPU Network v.06.25 complete, v.0.7 next",
+   "url": "https://slashdot.org/submission/17349110/dgpunet-p2p-ai-update-on-distributed-gpu-network-v0625-complete-v07-next",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-07-19T19:08:13+00:00"
+  },
+  {
+   "title": "Australia is making humanoid robots in the midst of its AI reckoning",
+   "url": "https://www.abc.net.au/news/2026-07-20/artificial-intelligence-testing-models-humanoids-data-centres/106928550",
+   "source": "ABC News (AU)",
+   "category": "robotics",
+   "published": "2026-07-19T19:00:00+00:00"
+  },
+  {
+   "title": "Canada\u2019s soft robotics research is moving from laboratory novelty to business tool",
+   "url": "https://www.digitaljournal.com/article/canadas-soft-robotics-research-is-moving-from-laboratory-novelty-to-business-tool/",
+   "source": "Digital Journal",
+   "category": "robotics",
+   "published": "2026-07-19T18:47:32+00:00"
+  },
+  {
+   "title": "Silicon chips learn to write DNA: Research points to cleaner route for synthetic biology",
+   "url": "https://www.digitaljournal.com/article/silicon-chips-learn-to-write-dna-research-points-to-cleaner-route-for-synthetic-biology/",
+   "source": "Digital Journal",
+   "category": "breakthroughs",
+   "published": "2026-07-19T17:59:23+00:00"
+  },
+  {
+   "title": "Robot 'Decapitated' in World's First-Ever Humanoid UFC Fight",
+   "url": "https://hardware.slashdot.org/story/26/07/19/1746241/robot-decapitated-in-worlds-first-ever-humanoid-ufc-fight",
+   "source": "Slashdot.org",
+   "category": "robotics",
+   "published": "2026-07-19T17:49:00+00:00"
+  },
+  {
+   "title": "Show HN: Run a 120B-parameter MoE on Android mid-range phone CPU-only llama.cpp",
+   "url": "https://github.com/Helldez/BigMoeOnEdge",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-19T17:17:43+00:00"
+  },
+  {
+   "title": "A Robotic Teaching Assistant is Heading to a New York State School",
+   "url": "https://uk.pcmag.com/ai/166228/a-robotic-teaching-assistant-is-heading-to-a-new-york-state-school",
+   "source": "PCMag.com",
+   "category": "robotics",
+   "published": "2026-07-19T14:58:08+00:00"
+  },
+  {
+   "title": "New AI blood test predicts heart disease 15 years early",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260716023603.htm",
+   "source": "Science Daily",
    "category": "health",
-   "published": "2026-07-20T10:59:23+00:00"
+   "published": "2026-07-19T14:58:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "'World's 1st mass-produced humanoid robot' motors to market in China",
+   "url": "https://newatlas.com/robotics/u1-worlds-first-mass-produced-humanoid-robot/",
+   "source": "New Atlas",
+   "category": "robotics",
+   "published": "2026-07-19T06:03:00+00:00"
+  },
+  {
+   "title": "NISQ and quantum supremacy did not fail",
+   "url": "https://scottaaronson.blog/?p=9949",
+   "source": "Scottaaronson.blog",
+   "category": "quantum",
+   "published": "2026-07-18T20:38:44+00:00"
+  },
+  {
+   "title": "Following the questions where they lead",
+   "url": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-17T17:25:00+00:00"
+  },
+  {
+   "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads \u2014 a Key Metric for Agentic AI",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-17T15:00:14+00:00"
   },
   {
    "title": "US semiconductor ETFs attract record $46B in inflows in 2026",
@@ -44,27 +157,6 @@
    "published": "2026-07-19T13:19:43+00:00"
   },
   {
-   "title": "Generative Artificial Intelligence in Psychotherapy Practice: A Global Online Survey of Mental Health Professionals\u2019 Adoption",
-   "url": "https://www.medrxiv.org/content/10.64898/2026.06.18.26355962v1",
-   "source": "Medrxiv.org",
-   "category": "health",
-   "published": "2026-07-19T12:32:39+00:00"
-  },
-  {
-   "title": "Pudu Robotics Showcases Full Product Portfolio at WAIC 2026, Winning the \"Most Investor-Attractive Enterprise\" Award",
-   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/pudu-robotics-showcases-full-product-portfolio-at-waic-2026-winning-the-most-investor-attractive-enterprise-award/article71241296.ece",
-   "source": "BusinessLine",
-   "category": "robotics",
-   "published": "2026-07-19T12:00:30+00:00"
-  },
-  {
-   "title": "Tesla Robotaxi Fleet Unveiled as Company Accelerates Autonomous Driving Ambitions",
-   "url": "https://www.ibtimes.com.au/tesla-gold-robotaxi-fleet-autonomous-urban-transport-1872557",
-   "source": "Ibtimes.com.au",
-   "category": "robotics",
-   "published": "2026-07-19T10:25:15+00:00"
-  },
-  {
    "title": "The Sound of Depression: Translating brain activity into language",
    "url": "https://www.haaretz.com/israel-news/tech-news/2026-07-19/ty-article-magazine/the-sound-of-depression-translating-brain-activity-into-language/0000019f-6a1d-de8e-afff-fbff1b7e0000",
    "source": "Haaretz",
@@ -77,27 +169,6 @@
    "source": "Github.com",
    "category": "ai",
    "published": "2026-07-19T01:14:24+00:00"
-  },
-  {
-   "title": "Interview: The pragmatic playbook behind Agility Robotics' rise",
-   "url": "https://www.digitimes.com/news/a20260717VL216/industrial-tdk-president-robot-robotics.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-07-19T00:58:01+00:00"
-  },
-  {
-   "title": "Three-tier humanoid robot architecture shift opens edge AI opportunities",
-   "url": "https://www.digitimes.com/news/a20260715PD219/humanoid-robot-fpga-hardware-nvidia.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-07-19T00:56:56+00:00"
-  },
-  {
-   "title": "A scorecard for the AI age",
-   "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-17T10:00:00+00:00"
   },
   {
    "title": "scitex-genai 0.1.4",
@@ -300,8 +371,7 @@
    "url": "https://www.notebookcheck.net/Kimi-K3-China-s-giant-AI-is-here-and-anyone-can-try-it-for-free.1346607.0.html",
    "source": "Notebookcheck.net",
    "category": "ai",
-   "published": "2026-07-19T08:30:00+00:00",
-   "breakthrough": true
+   "published": "2026-07-19T08:30:00+00:00"
   },
   {
    "title": "perfdigest-mcp 1.2.0",
