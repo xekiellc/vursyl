@@ -1,19 +1,251 @@
 {
- "updated": "2026-07-20T19:49:20.122465+00:00",
+ "updated": "2026-07-21T03:15:51.987867+00:00",
  "items": [
   {
-   "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-   "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+   "title": "Bristol Myers Squibb Building Life Science Industry\u2019s Most Advanced AI Factory on NVIDIA Vera Rubin",
+   "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
    "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-20T15:00:53+00:00"
+   "category": "health",
+   "published": "2026-07-20T10:59:23+00:00"
   },
   {
-   "title": "Safety and alignment in an era of long-horizon models",
-   "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+   "title": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment/articleshow/132505006.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-20T03:11:57+00:00"
+  },
+  {
+   "title": "jwarol2 added to PyPI",
+   "url": "https://pypi.org/project/jwarol2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T03:10:50+00:00"
+  },
+  {
+   "title": "mm-asset-rag 0.1.1",
+   "url": "https://pypi.org/project/mm-asset-rag/0.1.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T03:10:30+00:00"
+  },
+  {
+   "title": "ordel-engine 0.2.1",
+   "url": "https://pypi.org/project/ordel-engine/0.2.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T03:07:05+00:00"
+  },
+  {
+   "title": "ordel-tools 0.2.1",
+   "url": "https://pypi.org/project/ordel-tools/0.2.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T03:07:04+00:00"
+  },
+  {
+   "title": "Merck ramps up AI semiconductor materials push as Level Up nears completion",
+   "url": "https://www.digitimes.com/news/a20260716PD231/materials-merck-competition-equipment-packaging.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-20T03:06:12+00:00"
+  },
+  {
+   "title": "Exclusive Interview: Inside VSMC's Singapore fab, where silicon interposers and power chips underpin AI growth",
+   "url": "https://www.digitimes.com/news/a20260720PD205/tsmc-fab-silicon-chips-2026.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-20T03:03:30+00:00"
+  },
+  {
+   "title": "pf-core 0.9.0",
+   "url": "https://pypi.org/project/pf-core/0.9.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T03:02:47+00:00"
+  },
+  {
+   "title": "Protoface \u2013 Real-time avatar API for AI agents and apps from $0.01 per minute",
+   "url": "https://betalist.com/startups/protoface",
+   "source": "Betalist.com",
+   "category": "ai",
+   "published": "2026-07-20T03:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "distil-llm 1.20.2",
+   "url": "https://pypi.org/project/distil-llm/1.20.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T02:54:06+00:00"
+  },
+  {
+   "title": "Jensen Huang's week in Tokyo: what Nvidia's Japan trip reveals about future partners",
+   "url": "https://www.digitimes.com/news/a20260720VL205/jensen-huang-japan-government-robotics-supply-chain.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-20T02:54:01+00:00"
+  },
+  {
+   "title": "agentworld 0.1.0",
+   "url": "https://pypi.org/project/agentworld/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T02:52:40+00:00"
+  },
+  {
+   "title": "agentworld added to PyPI",
+   "url": "https://pypi.org/project/agentworld/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T02:52:40+00:00"
+  },
+  {
+   "title": "A Deep Dive Inside Kimi K3, And All Other Chinese AI Models: The Definitive China LLM Primer",
+   "url": "https://biztoc.com/x/6c09149dfc2b6578",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-07-20T02:51:34+00:00"
+  },
+  {
+   "title": "Manpower Ministry taps AI to build data-driven employment policies",
+   "url": "https://en.antaranews.com/news/423249/manpower-ministry-taps-ai-to-build-data-driven-employment-policies",
+   "source": "Antaranews.com",
+   "category": "ai",
+   "published": "2026-07-20T02:48:31+00:00"
+  },
+  {
+   "title": "octomem 0.1.2",
+   "url": "https://pypi.org/project/octomem/0.1.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T02:46:46+00:00"
+  },
+  {
+   "title": "octomem added to PyPI",
+   "url": "https://pypi.org/project/octomem/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T02:46:46+00:00"
+  },
+  {
+   "title": "China's Moonshot AI pauses new Kimi K3 subscriptions amid surge in demand",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-pauses-new-kimi-k3-subscriptions-amid-surge-in-demand/articleshow/132504650.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-07-20T02:43:28+00:00"
+  },
+  {
+   "title": "vocal-helper 0.6.0",
+   "url": "https://pypi.org/project/vocal-helper/0.6.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T02:30:02+00:00"
+  },
+  {
+   "title": "lintlang 0.3.1",
+   "url": "https://pypi.org/project/lintlang/0.3.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T02:29:06+00:00"
+  },
+  {
+   "title": "Fangzhou Launches Novo Nordisk\u2019s Once-Weekly Basal Insulin/GLP-1 Therapy in China",
+   "url": "https://www.globenewswire.com/news-release/2026/07/20/3329411/0/en/Fangzhou-Launches-Novo-Nordisk-s-Once-Weekly-Basal-Insulin-GLP-1-Therapy-in-China.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-20T02:15:00+00:00"
+  },
+  {
+   "title": "Enterprise Data Center Modernization: Moving From Legacy Hardware to Intelligent Infrastructure",
+   "url": "https://bloginformatico.com/enterprise-data-center-modernization-moving-from-legacy-hardware-to-intelligent-infrastructure/",
+   "source": "Bloginformatico.com",
+   "category": "compute",
+   "published": "2026-07-20T02:10:22+00:00"
+  },
+  {
+   "title": "Holtek sees customers prioritize supply stability over pricing as optical communications gains are expected in 2027",
+   "url": "https://www.digitimes.com/news/a20260715PD220/holtek-mcu-communications-revenue-taiwan-2026.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-20T02:03:46+00:00"
+  },
+  {
+   "title": "tensor-grep 1.83.0",
+   "url": "https://pypi.org/project/tensor-grep/1.83.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-20T01:31:39+00:00"
+  },
+  {
+   "title": "Samsung SDS launches Korea\u2019s first NPU-as-a-Service on FuriosaAI\u2019s RNGD chip",
+   "url": "https://cryptobriefing.com/samsung-sds-korea-npu-as-a-service-furiosaai-rngd/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-20T01:24:47+00:00"
+  },
+  {
+   "title": "MiTAC unveils liquid-cooled 52U rack packing 96 AMD GPUs into a single unit",
+   "url": "https://cryptobriefing.com/mitac-liquid-cooled-rack-96-amd-gpus/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-20T01:11:43+00:00"
+  },
+  {
+   "title": "Medical AI Startup OpenEvidence Weighs $200 Million Funding Round",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/medical-ai-startup-openevidence-weighs-200-million-funding-round/",
+   "source": "pymnts.com",
+   "category": "health",
+   "published": "2026-07-20T00:28:34+00:00"
+  },
+  {
+   "title": "Duvi Honig appointed to HHS AI evaluation panel focused on advancing healthcare Innovation",
+   "url": "https://www.israelnationalnews.com/news/430410",
+   "source": "Israelnationalnews.com",
+   "category": "health",
+   "published": "2026-07-19T16:10:00+00:00"
+  },
+  {
+   "title": "finerx-mcp 1.2.0",
+   "url": "https://pypi.org/project/finerx-mcp/1.2.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-19T13:25:06+00:00"
+  },
+  {
+   "title": "Generative Artificial Intelligence in Psychotherapy Practice: A Global Online Survey of Mental Health Professionals\u2019 Adoption",
+   "url": "https://www.medrxiv.org/content/10.64898/2026.06.18.26355962v1",
+   "source": "Medrxiv.org",
+   "category": "health",
+   "published": "2026-07-19T12:32:39+00:00"
+  },
+  {
+   "title": "Pudu Robotics Showcases Full Product Portfolio at WAIC 2026, Winning the \"Most Investor-Attractive Enterprise\" Award",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/pudu-robotics-showcases-full-product-portfolio-at-waic-2026-winning-the-most-investor-attractive-enterprise-award/article71241296.ece",
+   "source": "BusinessLine",
+   "category": "robotics",
+   "published": "2026-07-19T12:00:30+00:00"
+  },
+  {
+   "title": "trialmatchai 0.7.0",
+   "url": "https://pypi.org/project/trialmatchai/0.7.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-19T11:04:23+00:00"
+  },
+  {
+   "title": "Tesla Robotaxi Fleet Unveiled as Company Accelerates Autonomous Driving Ambitions",
+   "url": "https://www.ibtimes.com.au/tesla-gold-robotaxi-fleet-autonomous-urban-transport-1872557",
+   "source": "Ibtimes.com.au",
+   "category": "robotics",
+   "published": "2026-07-19T10:25:15+00:00"
+  },
+  {
+   "title": "A scorecard for the AI age",
+   "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-07-20T10:00:00+00:00"
+   "published": "2026-07-17T10:00:00+00:00"
   },
   {
    "title": "agentargus 0.1.0",
@@ -44,20 +276,6 @@
    "published": "2026-07-19T19:08:13+00:00"
   },
   {
-   "title": "Australia is making humanoid robots in the midst of its AI reckoning",
-   "url": "https://www.abc.net.au/news/2026-07-20/artificial-intelligence-testing-models-humanoids-data-centres/106928550",
-   "source": "ABC News (AU)",
-   "category": "robotics",
-   "published": "2026-07-19T19:00:00+00:00"
-  },
-  {
-   "title": "Canada\u2019s soft robotics research is moving from laboratory novelty to business tool",
-   "url": "https://www.digitaljournal.com/article/canadas-soft-robotics-research-is-moving-from-laboratory-novelty-to-business-tool/",
-   "source": "Digital Journal",
-   "category": "robotics",
-   "published": "2026-07-19T18:47:32+00:00"
-  },
-  {
    "title": "Silicon chips learn to write DNA: Research points to cleaner route for synthetic biology",
    "url": "https://www.digitaljournal.com/article/silicon-chips-learn-to-write-dna-research-points-to-cleaner-route-for-synthetic-biology/",
    "source": "Digital Journal",
@@ -79,47 +297,11 @@
    "published": "2026-07-19T17:17:43+00:00"
   },
   {
-   "title": "A Robotic Teaching Assistant is Heading to a New York State School",
-   "url": "https://uk.pcmag.com/ai/166228/a-robotic-teaching-assistant-is-heading-to-a-new-york-state-school",
-   "source": "PCMag.com",
-   "category": "robotics",
-   "published": "2026-07-19T14:58:08+00:00"
-  },
-  {
-   "title": "New AI blood test predicts heart disease 15 years early",
-   "url": "https://www.sciencedaily.com/releases/2026/07/260716023603.htm",
-   "source": "Science Daily",
-   "category": "health",
-   "published": "2026-07-19T14:58:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "'World's 1st mass-produced humanoid robot' motors to market in China",
-   "url": "https://newatlas.com/robotics/u1-worlds-first-mass-produced-humanoid-robot/",
-   "source": "New Atlas",
-   "category": "robotics",
-   "published": "2026-07-19T06:03:00+00:00"
-  },
-  {
    "title": "NISQ and quantum supremacy did not fail",
    "url": "https://scottaaronson.blog/?p=9949",
    "source": "Scottaaronson.blog",
    "category": "quantum",
    "published": "2026-07-18T20:38:44+00:00"
-  },
-  {
-   "title": "Following the questions where they lead",
-   "url": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-17T17:25:00+00:00"
-  },
-  {
-   "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads \u2014 a Key Metric for Agentic AI",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-17T15:00:14+00:00"
   },
   {
    "title": "US semiconductor ETFs attract record $46B in inflows in 2026",
