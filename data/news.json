@@ -1,12 +1,363 @@
 {
- "updated": "2026-07-22T19:27:51.326789+00:00",
+ "updated": "2026-07-23T03:20:25.871991+00:00",
  "items": [
   {
-   "title": "Advancing the next era of national science",
-   "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+   "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+   "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-23T02:00:46+00:00"
+  },
+  {
+   "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
+   "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+   "source": "Google DeepMind",
+   "category": "breakthroughs",
+   "published": "2026-07-22T13:38:54+00:00"
+  },
+  {
+   "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+   "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+   "source": "NVIDIA",
+   "category": "health",
+   "published": "2026-07-22T13:00:11+00:00"
+  },
+  {
+   "title": "Building AI infrastructure with the Effingham County community",
+   "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-07-22T12:00:00+00:00"
+   "published": "2026-07-22T13:00:00+00:00"
+  },
+  {
+   "title": "How news organizations are using AI to advance their vital missions",
+   "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-22T13:00:00+00:00"
+  },
+  {
+   "title": "Introducing OpenAI Presence",
+   "url": "https://openai.com/index/introducing-openai-presence",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-22T05:30:00+00:00"
+  },
+  {
+   "title": "inferhost 0.8.4",
+   "url": "https://pypi.org/project/inferhost/0.8.4/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-22T03:17:48+00:00"
+  },
+  {
+   "title": "distil-llm 1.25.0",
+   "url": "https://pypi.org/project/distil-llm/1.25.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-22T03:09:15+00:00"
+  },
+  {
+   "title": "agent-regress-cli 0.1.6",
+   "url": "https://pypi.org/project/agent-regress-cli/0.1.6/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-22T03:09:10+00:00"
+  },
+  {
+   "title": "Nvidia supplier Wistron launches $700 million Texas factory for AI system production",
+   "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-supplier-wistron-launches-700-million-texas-factory-for-ai-system-production/articleshow/132550288.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-22T03:08:41+00:00"
+  },
+  {
+   "title": "evalt 0.10.6",
+   "url": "https://pypi.org/project/evalt/0.10.6/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-22T03:01:53+00:00"
+  },
+  {
+   "title": "lfx-ibm 0.1.3",
+   "url": "https://pypi.org/project/lfx-ibm/0.1.3/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-22T02:58:04+00:00"
+  },
+  {
+   "title": "containerspec 0.1.1",
+   "url": "https://pypi.org/project/containerspec/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-07-22T02:56:02+00:00"
+  },
+  {
+   "title": "NVIDIA\u2019s first GeForce driver for Windows on Arm confirms RTX Spark N1X with 6,144 or 5,120 CUDA cores - VideoCardz.com",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184573682",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-07-22T02:52:16+00:00"
+  },
+  {
+   "title": "Bank of America Equips Customer Service Reps With Gen AI",
+   "url": "https://biztoc.com/x/ac91bde0ca94b65d",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-07-22T02:48:38+00:00"
+  },
+  {
+   "title": "New programmable photonic chip can control how fast light moves",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+   "source": "Science Daily",
+   "category": "compute",
+   "published": "2026-07-22T02:43:34+00:00"
+  },
+  {
+   "title": "prompt-ninja 1.0.5",
+   "url": "https://pypi.org/project/prompt-ninja/1.0.5/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-22T02:42:15+00:00"
+  },
+  {
+   "title": "decision-contract-audit 0.1.0",
+   "url": "https://pypi.org/project/decision-contract-audit/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-22T02:41:06+00:00"
+  },
+  {
+   "title": "decision-contract-audit added to PyPI",
+   "url": "https://pypi.org/project/decision-contract-audit/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-22T02:41:02+00:00"
+  },
+  {
+   "title": "Nvidia details AI rack strategy with Vera Rubin NVL72 and custom Vera CPU",
+   "url": "https://www.digitimes.com/news/a20260722VL206/nvidia-rubin-cpu.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-22T02:33:53+00:00"
+  },
+  {
+   "title": "NVIDIA Blackwell GB300 Continues To Set World Records for MoE Pre-Training While GB200 Sees A 4x Boost In Perf/W Through Continuous AI Software Stack Optimizations",
+   "url": "https://wccftech.com/nvidia-blackwell-gb300-continues-to-set-world-records-gb200-gets-4x-ai-boost-optimizations/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-07-22T02:30:03+00:00"
+  },
+  {
+   "title": "tensor-grep 1.92.2",
+   "url": "https://pypi.org/project/tensor-grep/1.92.2/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-07-22T02:29:51+00:00"
+  },
+  {
+   "title": "bareagent-cli 0.2.0",
+   "url": "https://pypi.org/project/bareagent-cli/0.2.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-22T02:24:13+00:00"
+  },
+  {
+   "title": "lmcache 0.5.2",
+   "url": "https://pypi.org/project/lmcache/0.5.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-22T02:21:13+00:00"
+  },
+  {
+   "title": "Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook",
+   "url": "https://siliconangle.com/2026/07/21/nvidia-vera-rubin-inside-agentic-ai-factory-rewrites-cpu-playbook/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-07-22T02:12:16+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "BIO Asia-Taiwan 2026 Unites 60 Countries, Showcasing Taiwan as a Global Biotech Innovation Partner",
+   "url": "https://www.prnewswire.com/news-releases/bio-asiataiwan-2026-unites-60-countries-showcasing-taiwan-as-a-global-biotech-innovation-partner-302831495.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-22T02:09:00+00:00"
+  },
+  {
+   "title": "Siemens to acquire Precision Innovations for AI-powered chip planning",
+   "url": "https://www.digitimes.com/news/a20260722PR200/siemens-acquisition-eda-design-software-development.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-22T02:06:57+00:00"
+  },
+  {
+   "title": "Mistral AI strikes multibillion deal with Microsoft to build out Azure infrastructure in Europe",
+   "url": "https://siliconangle.com/2026/07/21/mistral-ai-strikes-multibillion-deal-microsoft-build-azure-infrastructure-europe/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-07-22T02:04:06+00:00"
+  },
+  {
+   "title": "Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe",
+   "url": "https://siliconangle.com/2026/07/21/mistral-ai-strikes-multibillion-dollar-deal-microsoft-build-azure-infrastructure-europe/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-07-22T02:04:06+00:00"
+  },
+  {
+   "title": "MetaOptics to Deploy its Direct Laser Writer at the University of Arizona's Center of Semiconductor Manufacturing to Advance its U.S. Expansion",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/metaoptics-to-deploy-its-direct-laser-writer-at-the-university-of-arizonas-center-of-semiconductor-manufacturing-to-advance-its-u-s-expansion/article71251947.ece",
+   "source": "BusinessLine",
+   "category": "compute",
+   "published": "2026-07-22T02:00:29+00:00"
+  },
+  {
+   "title": "What Does NVIDIA Reflex Actually Do?",
+   "url": "https://www.bgr.com/2216961/what-is-nvidia-reflex-explained/",
+   "source": "BGR",
+   "category": "compute",
+   "published": "2026-07-22T01:47:00+00:00"
+  },
+  {
+   "title": "Dimension Capital's $800M third fund shows the intersection of science and compute is booming | TechCrunch",
+   "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+   "source": "TechCrunch",
+   "category": "breakthroughs",
+   "published": "2026-07-22T01:30:00+00:00"
+  },
+  {
+   "title": "Google Health: Extraction by Design",
+   "url": "https://bearliu.com/blog/google-health-extraction-by-design",
+   "source": "Bearliu.com",
+   "category": "health",
+   "published": "2026-07-22T01:10:33+00:00"
+  },
+  {
+   "title": "Oak \u2013 Deliver institutional-grade financial intelligence to your business",
+   "url": "https://betalist.com/startups/oak",
+   "source": "Betalist.com",
+   "category": "ai",
+   "published": "2026-07-22T01:05:00+00:00"
+  },
+  {
+   "title": "LG Display presents vision of lifestyle transformation at K-Display 2026",
+   "url": "https://www.prnewswire.com/news-releases/lg-display-presents-vision-of-lifestyle-transformation-at-k-display-2026-302831450.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-07-22T01:00:00+00:00"
+  },
+  {
+   "title": "Tesla's EV platform powers Optimus scale production edge",
+   "url": "https://www.digitimes.com/news/a20260721PD242/tesla-production-optimus-robot-technology.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-07-22T00:34:24+00:00"
+  },
+  {
+   "title": "harneloop added to PyPI",
+   "url": "https://pypi.org/project/harneloop/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-22T00:08:47+00:00"
+  },
+  {
+   "title": "AI identifies interactions in CRISPR complexes to improve specificity of DNA editing",
+   "url": "https://www.nature.com/articles/d41586-026-02042-1",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-07-22T00:00:00+00:00"
+  },
+  {
+   "title": "How to use AI to make a graphical abstract in minutes",
+   "url": "https://www.nature.com/articles/d41586-026-02072-9",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-07-22T00:00:00+00:00"
+  },
+  {
+   "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+   "url": "https://openai.com/index/ntt-data",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-22T00:00:00+00:00"
+  },
+  {
+   "title": "AI can boost Nigeria\u2019s GDP by 4% \u2013 IMF",
+   "url": "https://punchng.com/ai-can-boost-nigerias-gdp-by-4-imf/",
+   "source": "The Punch",
+   "category": "ai",
+   "published": "2026-07-21T23:08:13+00:00"
+  },
+  {
+   "title": "Quantinuum and SoftBank Corp. Publish Joint White Paper on Scaling Practical Quantum Computing Use Cases Toward the Fault-Tolerant Era",
+   "url": "https://www.prnewswire.com/news-releases/quantinuum-and-softbank-corp-publish-joint-white-paper-on-scaling-practical-quantum-computing-use-cases-toward-the-fault-tolerant-era-302828993.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-07-21T23:00:00+00:00"
+  },
+  {
+   "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+   "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-21T22:35:45+00:00"
+  },
+  {
+   "title": "Betting On the Future of Physical AI, Zalando Invests In\u00a0Sereact",
+   "url": "http://wwd.com/sourcing-journal/logistics/zalando-sereact-investment-physical-ai-1239077534/",
+   "source": "WWD",
+   "category": "robotics",
+   "published": "2026-07-21T22:00:00+00:00"
+  },
+  {
+   "title": "AMD capitalizes on AI momentum with systems strategy for open-source and hybrid technologies",
+   "url": "https://siliconangle.com/2026/07/21/server-processor-amd-ai-momentum-amdadvancingai/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-07-21T21:31:54+00:00"
+  },
+  {
+   "title": "SAM Might Be the Most Human Thing Samsung Has Finally Built",
+   "url": "https://www.yankodesign.com/2026/07/21/sam-might-be-the-most-human-thing-samsung-has-finally-built/",
+   "source": "Yanko Design",
+   "category": "robotics",
+   "published": "2026-07-21T21:30:05+00:00"
+  },
+  {
+   "title": "[Latest] Global AI in Drug Repurposing Market Size/Share Worth USD 10.56 Billion by 2035 at a 23.4% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+   "url": "https://www.globenewswire.com/news-release/2026/07/21/3330999/0/en/Latest-Global-AI-in-Drug-Repurposing-Market-Size-Share-Worth-USD-10-56-Billion-by-2035-at-a-23-4-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmenta.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-21T21:00:00+00:00"
+  },
+  {
+   "title": "Humanoid Raises $152 Million to Expand Robotics Company",
+   "url": "https://biztoc.com/x/d68caf45f05c3d92",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-07-21T19:15:01+00:00"
+  },
+  {
+   "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+   "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-21T07:00:00+00:00"
+  },
+  {
+   "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+   "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-21T00:00:00+00:00"
+  },
+  {
+   "title": "Bristol Myers Squibb Building Life Science Industry\u2019s Most Advanced AI Factory on NVIDIA Vera Rubin",
+   "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+   "source": "NVIDIA",
+   "category": "health",
+   "published": "2026-07-20T10:59:23+00:00"
   },
   {
    "title": "AI boom lifts Mexico tech exports, complicating Trump trade goals",
@@ -114,75 +465,11 @@
    "published": "2026-07-21T17:15:47+00:00"
   },
   {
-   "title": "London robotics startup Humanoid raises $152M Series A, with Bosch set to manufacture its wheeled robots at scale",
-   "url": "https://thenextweb.com/news/humanoid-152m-series-a-robotics-unicorn-bosch/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-07-21T17:08:32+00:00"
-  },
-  {
-   "title": "Introducing the ChatGPT for small business program",
-   "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-21T17:00:00+00:00"
-  },
-  {
-   "title": "Humanoid raises $152M at $1.35B valuation to bring human-like robots into factories",
-   "url": "https://siliconangle.com/2026/07/21/humanoid-raises-152m-1-35b-valuation-bring-human-like-robots-factories/",
-   "source": "SiliconANGLE News",
-   "category": "robotics",
-   "published": "2026-07-21T16:15:43+00:00"
-  },
-  {
-   "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-   "url": "https://blogs.nvidia.com/blog/vera-rubin/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-21T15:36:43+00:00"
-  },
-  {
-   "title": "Tesla expands robotaxi service to Orlando, Tampa ahead of earnings",
-   "url": "https://economictimes.indiatimes.com/tech/technology/tesla-expands-robotaxi-service-to-orlando-tampa-ahead-of-earnings/articleshow/132540502.cms",
-   "source": "The Times of India",
-   "category": "robotics",
-   "published": "2026-07-21T15:31:54+00:00"
-  },
-  {
-   "title": "Samsung creates a dedicated robotics division as tech giants race to build physical AI",
-   "url": "https://www.intomobile.com/2026/07/21/samsung-creates-a-dedicated-robotics-division-as-tech-giants-race-to-build-physical-ai/",
-   "source": "Intomobile.com",
-   "category": "robotics",
-   "published": "2026-07-21T15:22:08+00:00"
-  },
-  {
-   "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-   "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-07-21T15:16:30+00:00"
-  },
-  {
-   "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
-   "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-21T15:00:20+00:00"
-  },
-  {
    "title": "Humanoid Robot Market to Reach USD 50.27 Billion by 2035, Growing at 28.1% CAGR, Says MarketsandMarkets\u2122",
    "url": "https://www.globenewswire.com/news-release/2026/07/21/3330677/0/en/Humanoid-Robot-Market-to-Reach-USD-50-27-Billion-by-2035-Growing-at-28-1-CAGR-Says-MarketsandMarkets.html",
    "source": "GlobeNewswire",
    "category": "robotics",
-   "published": "2026-07-21T14:30:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Robotics startup Humanoid raises $152 million Series A round at $1.35 billion valuation",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/robotics-startup-humanoid-raises-152-million-series-a-round-at-1-35-billion-valuation/articleshow/132538983.cms",
-   "source": "The Times of India",
-   "category": "robotics",
-   "published": "2026-07-21T14:25:09+00:00"
+   "published": "2026-07-21T14:30:00+00:00"
   },
   {
    "title": "AI Chips Need Liquid Cooling. That's Why Vertiv's Stock Rally Can Continue",
@@ -190,13 +477,6 @@
    "source": "Biztoc.com",
    "category": "compute",
    "published": "2026-07-21T12:28:42+00:00"
-  },
-  {
-   "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-   "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-   "source": "NVIDIA",
-   "category": "breakthroughs",
-   "published": "2026-07-20T15:00:53+00:00"
   },
   {
    "title": "Safety and alignment in an era of long-horizon models",
@@ -8625,13 +8905,6 @@
    "source": "CNX Software",
    "category": "compute",
    "published": "2026-07-03T04:29:05+00:00"
-  },
-  {
-   "title": "NVIDIA and Partners Build in America, for America",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-01T13:00:47+00:00"
   },
   {
    "title": "nexus-agent-ai added to PyPI",
