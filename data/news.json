@@ -1,12 +1,195 @@
 {
- "updated": "2026-07-23T19:25:07.401458+00:00",
+ "updated": "2026-07-24T03:14:12.118845+00:00",
  "items": [
   {
-   "title": "Launching Health in ChatGPT",
-   "url": "https://openai.com/index/health-in-chatgpt",
-   "source": "OpenAI",
+   "title": "GeForce NOW Sets Sail With \u2018Path of Exile: Curse of the Allflame\u2019 Joining the Cloud",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-23T13:00:16+00:00"
+  },
+  {
+   "title": "MIT projects selected for funding under US Department of Energy\u2019s Genesis Mission",
+   "url": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
+   "source": "MIT News AI",
+   "category": "breakthroughs",
+   "published": "2026-07-23T12:00:00+00:00"
+  },
+  {
+   "title": "Alibaba's Amap Unveils Full-Stack ABot Upgrade for Embodied AI Robots",
+   "url": "https://www.prnewswire.com/news-releases/alibabas-amap-unveils-full-stack-abot-upgrade-for-embodied-ai-robots-302832833.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-07-23T03:07:00+00:00"
+  },
+  {
+   "title": "AWS turns Security Hub into an AI and multicloud security control plane",
+   "url": "https://siliconangle.com/2026/07/22/aws-turns-security-hub-ai-multicloud-security-control-plane/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-07-23T02:56:47+00:00"
+  },
+  {
+   "title": "WAIC 2026: Lightelligence maps AI's optical future with CPO, NPO, photonic computing",
+   "url": "https://www.digitimes.com/news/a20260722VL207/cpo-waic-2026-chips-infrastructure.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-23T02:44:50+00:00"
+  },
+  {
+   "title": "Merck makes 'AI for AI' its new semiconductor materials strategy",
+   "url": "https://www.digitimes.com/news/a20260721PD230/materials-merck-germany-optimization-design.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-23T02:43:52+00:00"
+  },
+  {
+   "title": "Nvidia pushes Spectrum-6 Ethernet into gigascale AI factories, tightening grip on network layer",
+   "url": "https://www.digitimes.com/news/a20260723VL205/nvidia-ethernet-rubin-switch-data.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-23T02:18:53+00:00"
+  },
+  {
+   "title": "Ainos passes 613 million odor data points as it expands Physical AI",
+   "url": "https://www.digitimes.com/news/a20260722PD226/data-ase-manufacturing-industrial-technology.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-07-23T02:13:33+00:00"
+  },
+  {
+   "title": "More Than 60 Nations Unite as IIHM Launches GAIHEC, the World's First Global AI Hospitality Education Council",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/more-than-60-nations-unite-as-iihm-launches-gaihec-the-worlds-first-global-ai-hospitality-education-council/article71256386.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-07-23T02:10:17+00:00"
+  },
+  {
+   "title": "MetaOptics to Deploy its Direct Laser Writer at the University of Arizona's Center of Semiconductor Manufacturing to Advance its U.S. Expansion",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/metaoptics-to-deploy-its-direct-laser-writer-at-the-university-of-arizonas-center-of-semiconductor-manufacturing-to-advance-its-u-s-expansion/article71256258.ece",
+   "source": "BusinessLine",
+   "category": "compute",
+   "published": "2026-07-23T02:02:26+00:00"
+  },
+  {
+   "title": "Gene Solutions Showcases Global Evidence and Responsible Innovation in Prenatal and Women's Genomic Health at ISPD 2026",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/gene-solutions-showcases-global-evidence-and-responsible-innovation-in-prenatal-and-womens-genomic-health-at-ispd-2026/article71256238.ece",
+   "source": "BusinessLine",
    "category": "health",
-   "published": "2026-07-23T00:00:00+00:00"
+   "published": "2026-07-23T02:01:36+00:00"
+  },
+  {
+   "title": "Gateway to Opportunities: Where Innovation Serves People -- Hangzhou's Journey from Countryside to Robotics Labs",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/gateway-to-opportunities-where-innovation-serves-people-hangzhous-journey-from-countryside-to-robotics-labs/article71256210.ece",
+   "source": "BusinessLine",
+   "category": "robotics",
+   "published": "2026-07-23T02:00:46+00:00"
+  },
+  {
+   "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+   "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-07-23T02:00:46+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "China Mobile-Led and Invested SEA-H2X International Submarine Cable Project Launches Commercially, Paving the Way for Digital and Intelligent Interconnectivity in Asia-Pacific",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/china-mobile-led-and-invested-sea-h2x-international-submarine-cable-project-launches-commercially-paving-the-way-for-digital-and-intelligent-interconnectivity-in-asia-pacific/article71256206.ece",
+   "source": "BusinessLine",
+   "category": "compute",
+   "published": "2026-07-23T02:00:38+00:00"
+  },
+  {
+   "title": "Show HN: AgentNest, self-hosted sandboxes for AI agents",
+   "url": "https://github.com/mihirahuja1/agentnestOSS",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-23T01:54:06+00:00"
+  },
+  {
+   "title": "Show HN: Grimoire \u2013 Best Practices for Everyone Installed for Your AI Agents",
+   "url": "https://github.com/jeffreytse/grimoire",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-23T01:19:08+00:00"
+  },
+  {
+   "title": "Humanoid robots close to 'ChatGPT moment'",
+   "url": "https://www.chinadaily.com.cn/a/202607/23/WS6a6164c6a310986e2b466c71.html",
+   "source": "\u4e2d\u56fd\u65e5\u62a5",
+   "category": "robotics",
+   "published": "2026-07-23T00:55:51+00:00"
+  },
+  {
+   "title": "Nona Biosciences Enters Research Collaboration with the Medical University of Vienna to Advance Fully Human Antibody Development for Infectious Diseases",
+   "url": "https://www.prnewswire.com/news-releases/nona-biosciences-enters-research-collaboration-with-the-medical-university-of-vienna-to-advance-fully-human-antibody-development-for-infectious-diseases-302832749.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-23T00:55:00+00:00"
+  },
+  {
+   "title": "Health Endeavors Launches AI Care Suite and Secures Growth Investment from Decathlon Capital Partners",
+   "url": "https://www.prnewswire.com/news-releases/health-endeavors-launches-ai-care-suite-and-secures-growth-investment-from-decathlon-capital-partners-302824305.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-22T23:00:00+00:00"
+  },
+  {
+   "title": "Quantinuum Appoints Chief Legal Officer and Chief People Officer",
+   "url": "https://www.prnewswire.com/news-releases/quantinuum-appoints-chief-legal-officer-and-chief-people-officer-302832514.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-07-22T20:15:00+00:00"
+  },
+  {
+   "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
+   "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+   "source": "Google DeepMind",
+   "category": "breakthroughs",
+   "published": "2026-07-22T13:38:54+00:00"
+  },
+  {
+   "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+   "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+   "source": "NVIDIA",
+   "category": "health",
+   "published": "2026-07-22T13:00:11+00:00"
+  },
+  {
+   "title": "Building AI infrastructure with the Effingham County community",
+   "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+   "source": "OpenAI",
+   "category": "compute",
+   "published": "2026-07-22T13:00:00+00:00"
+  },
+  {
+   "title": "How news organizations are using AI to advance their vital missions",
+   "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-22T13:00:00+00:00"
+  },
+  {
+   "title": "Introducing OpenAI Presence",
+   "url": "https://openai.com/index/introducing-openai-presence",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-22T05:30:00+00:00"
+  },
+  {
+   "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+   "url": "https://openai.com/index/ntt-data",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-22T00:00:00+00:00"
+  },
+  {
+   "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+   "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-21T22:35:45+00:00"
   },
   {
    "title": "Samsung Galaxy Watch Ultra2 and Watch9 Go Bigger on Battery, Brightness, and Health Tracking",
@@ -48,8 +231,7 @@
    "url": "https://www.nextbigfuture.com/2026/07/big-math-achievement-by-ai-resolves-87-year-old-problem.html",
    "source": "Next Big Future",
    "category": "breakthroughs",
-   "published": "2026-07-22T19:02:20+00:00",
-   "breakthrough": true
+   "published": "2026-07-22T19:02:20+00:00"
   },
   {
    "title": "Oklo stock jumps after Microsoft, Nvidia join $200M nuclear AI initiative",
@@ -199,13 +381,6 @@
    "published": "2026-07-22T13:33:56+00:00"
   },
   {
-   "title": "Advancing the next era of national science",
-   "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-22T12:00:00+00:00"
-  },
-  {
    "title": "Candid Health raises $120 million to take on America\u2019s $280 billion medical billing mess",
    "url": "https://fortune.com/2026/07/22/candid-health-raises-120-million-to-take-on-americas-280-billion-medical-billing-mess/",
    "source": "Fortune",
@@ -232,48 +407,6 @@
    "source": "PRNewswire",
    "category": "quantum",
    "published": "2026-07-21T23:00:00+00:00"
-  },
-  {
-   "title": "Introducing the ChatGPT for small business program",
-   "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-21T17:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-   "url": "https://blogs.nvidia.com/blog/vera-rubin/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-21T15:36:43+00:00"
-  },
-  {
-   "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-   "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-07-21T15:16:30+00:00"
-  },
-  {
-   "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
-   "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-21T15:00:20+00:00"
-  },
-  {
-   "title": "NVIDIA and Partners Build in America, for America",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-21T13:00:47+00:00"
-  },
-  {
-   "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-   "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-20T15:00:53+00:00"
   },
   {
    "title": "glia-agents 0.2.0",
