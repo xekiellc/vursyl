@@ -1,26 +1,244 @@
 {
- "updated": "2026-07-24T19:36:19.840720+00:00",
+ "updated": "2026-07-25T03:12:38.709355+00:00",
  "items": [
   {
-   "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-   "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-24T04:34:27+00:00"
+   "title": "llm-memory-store added to PyPI",
+   "url": "https://pypi.org/project/llm-memory-store/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-24T03:08:41+00:00"
   },
   {
-   "title": "Working to automate nuclear plant operations",
-   "url": "https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724",
+   "title": "mooncake-transfer-engine-cuda13 0.3.12",
+   "url": "https://pypi.org/project/mooncake-transfer-engine-cuda13/0.3.12/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-07-24T03:08:26+00:00"
+  },
+  {
+   "title": "AMD redraws server chip strategy as AI workloads evolve",
+   "url": "https://www.digitimes.com/news/a20260724PD221/amd-cpu-data-center-processor.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-24T03:07:49+00:00"
+  },
+  {
+   "title": "NVIDIA Isaac Sim\u5bfe\u5fdc\u30c7\u30b8\u30bf\u30eb\u30c4\u30a4\u30f3\u958b\u767a\u74b0\u5883\u3092\u69cb\u7bc9",
+   "url": "https://prtimes.jp/main/html/rd/p/000000111.000052796.html",
+   "source": "Prtimes.jp",
+   "category": "robotics",
+   "published": "2026-07-24T03:04:28+00:00"
+  },
+  {
+   "title": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
+   "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-amkor-strike-1-5-billion-chip-packaging-deal/articleshow/132595212.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-24T03:01:59+00:00"
+  },
+  {
+   "title": "OpenAI Launches ChatGPT Health Feature for All US Adults, Adding Apple Health and Medical Records Access",
+   "url": "https://www.ibtimes.com.au/openai-health-feature-chatgpt-personalised-insights-1872838",
+   "source": "Ibtimes.com.au",
+   "category": "health",
+   "published": "2026-07-24T03:01:23+00:00"
+  },
+  {
+   "title": "MOREH Showcases High-Performance LLM Inference on AMD GPUs at AMD Advancing AI 2026",
+   "url": "https://www.prnewswire.com/news-releases/moreh-showcases-high-performance-llm-inference-on-amd-gpus-at-amd-advancing-ai-2026-302833887.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-07-24T02:59:00+00:00"
+  },
+  {
+   "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
+   "url": "https://biztoc.com/x/ebdaddf1fc0a9f1f",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-07-24T02:52:25+00:00"
+  },
+  {
+   "title": "AMD says its newest AI server is in full production, will ship in months",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-says-its-newest-ai-server-is-in-full-production-will-ship-in-months/articleshow/132595123.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-24T02:49:34+00:00"
+  },
+  {
+   "title": "Indonesia seeks AI sovereignty through local models, digital talent",
+   "url": "https://en.antaranews.com/news/423869/indonesia-seeks-ai-sovereignty-through-local-models-digital-talent",
+   "source": "Antaranews.com",
+   "category": "ai",
+   "published": "2026-07-24T02:49:01+00:00"
+  },
+  {
+   "title": "Intel forecast crushes estimates as AI boom boosts chip demand; shares jump",
+   "url": "https://economictimes.indiatimes.com/tech/technology/intel-forecast-crushes-estimates-as-ai-boom-boosts-chip-demand-shares-jump/articleshow/132595094.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-24T02:47:02+00:00"
+  },
+  {
+   "title": "AI\u30ed\u30dc\u30c3\u30c8\u306e\u201c\u601d\u8003\u201d\u3092\u53ef\u8996\u5316\u3059\u308b\u300cAT-SYNAPSE Web Console\u300d\u3092\u958b\u767a",
+   "url": "https://prtimes.jp/main/html/rd/p/000000112.000052796.html",
+   "source": "Prtimes.jp",
+   "category": "ai",
+   "published": "2026-07-24T02:40:41+00:00"
+  },
+  {
+   "title": "mcp-server-openfda added to PyPI",
+   "url": "https://pypi.org/project/mcp-server-openfda/",
+   "source": "Pypi.org",
+   "category": "health",
+   "published": "2026-07-24T02:20:53+00:00"
+  },
+  {
+   "title": "AMD's latest 2nm-EPYC rollout signals broader role for CPUs in the AI data center",
+   "url": "https://www.digitimes.com/news/a20260724PD212/amd-cpu-data-center-chips-tsmc.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-24T02:11:09+00:00"
+  },
+  {
+   "title": "Supermicro Introduces New Server Portfolio with 6th Gen AMD EPYC\u2122 9006 Series CPUs, Delivering 1.7x Generational Performance Improvements",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/supermicro-introduces-new-server-portfolio-with-6th-gen-amd-epyctm-9006-series-cpus-delivering-17x-generational-performance-improvements/article71260733.ece",
+   "source": "BusinessLine",
+   "category": "compute",
+   "published": "2026-07-24T02:01:06+00:00"
+  },
+  {
+   "title": "Intel Foundry Securing Packaging & Wafer Deal With NVIDIA To Make Next-Gen Feynman GPUs Could Be Its Biggest Customer Win Yet",
+   "url": "https://wccftech.com/intel-foundry-nvidia-feynman-gpu-wafer-packaging-deal/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-07-24T01:50:24+00:00"
+  },
+  {
+   "title": "AI server demand powers Intel's fastest growth since 2011, but foundry proof still pending",
+   "url": "https://www.digitimes.com/news/a20260724VL201/intel-growth-demand-2011-2026.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-24T01:47:37+00:00"
+  },
+  {
+   "title": "After MouthPad, Augmental unveils Vox, a privacy-focused wearable mic that lets you whisper-to-type",
+   "url": "https://www.yankodesign.com/2026/07/23/after-mouthpad-augmental-unveils-vox-a-privacy-focused-wearable-mic-that-lets-you-whisper-to-type/",
+   "source": "Yanko Design",
+   "category": "ai",
+   "published": "2026-07-24T00:30:24+00:00"
+  },
+  {
+   "title": "A benchmark study of vision and pathology foundation models for computational pathology",
+   "url": "https://www.nature.com/articles/s41467-026-76004-6",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-07-24T00:00:00+00:00"
+  },
+  {
+   "title": "AI-based clinician decision support system for diagnosis of inherited retinal diseases: a multicenter, randomized trial",
+   "url": "https://www.nature.com/articles/s41591-026-04545-w",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-07-24T00:00:00+00:00"
+  },
+  {
+   "title": "IBM acquires quantum computing research lab HRL",
+   "url": "https://siliconangle.com/2026/07/23/ibm-acquires-quantum-computing-research-lab-hrl/",
+   "source": "SiliconANGLE News",
+   "category": "quantum",
+   "published": "2026-07-23T23:50:39+00:00"
+  },
+  {
+   "title": "VELMENI Receives FDA 510(k) Clearance for AI-Powered 3D CBCT Dental Imaging Software",
+   "url": "https://www.prnewswire.com/news-releases/velmeni-receives-fda-510k-clearance-for-ai-powered-3d-cbct-dental-imaging-software-302833735.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-23T21:25:00+00:00"
+  },
+  {
+   "title": "GeForce NOW Sets Sail With \u2018Path of Exile: Curse of the Allflame\u2019 Joining the Cloud",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-23T13:00:16+00:00"
+  },
+  {
+   "title": "MIT projects selected for funding under US Department of Energy\u2019s Genesis Mission",
+   "url": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
    "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-07-24T04:00:00+00:00"
+   "published": "2026-07-23T12:00:00+00:00"
   },
   {
-   "title": "AMD Advancing AI 2026: Ryzen AI Embedded X100, Kria AI Robotics Platform, and Robotics Partner Network",
-   "url": "https://www.techpowerup.com/351008/amd-advancing-ai-2026-ryzen-ai-embedded-x100-kria-ai-robotics-platform-and-robotics-partner-network",
-   "source": "Techpowerup.com",
+   "title": "IBM buys HRL Laboratories in shift to two-track quantum computing strategy",
+   "url": "https://www.channelnewsasia.com/business/ibm-buys-hrl-laboratories-in-shift-two-track-quantum-computing-strategy-6273506",
+   "source": "CNA",
+   "category": "quantum",
+   "published": "2026-07-23T11:02:39+00:00"
+  },
+  {
+   "title": "IBM to Acquire HRL Laboratories to Power the Future of Quantum",
+   "url": "https://www.prnewswire.com/news-releases/ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quantum-302833239.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-07-23T11:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+   "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+   "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-07-23T19:30:58+00:00"
+   "published": "2026-07-23T02:00:46+00:00"
+  },
+  {
+   "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
+   "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+   "source": "Google DeepMind",
+   "category": "breakthroughs",
+   "published": "2026-07-22T13:38:54+00:00"
+  },
+  {
+   "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+   "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+   "source": "NVIDIA",
+   "category": "health",
+   "published": "2026-07-22T13:00:11+00:00"
+  },
+  {
+   "title": "Building AI infrastructure with the Effingham County community",
+   "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-22T13:00:00+00:00"
+  },
+  {
+   "title": "How news organizations are using AI to advance their vital missions",
+   "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-22T13:00:00+00:00"
+  },
+  {
+   "title": "Introducing OpenAI Presence",
+   "url": "https://openai.com/index/introducing-openai-presence",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-22T05:30:00+00:00"
+  },
+  {
+   "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+   "url": "https://openai.com/index/ntt-data",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-22T00:00:00+00:00"
+  },
+  {
+   "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+   "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-21T22:35:45+00:00"
   },
   {
    "title": "AMD Advancing AI 2026: Pensando \"Salina\" DPU and \"Vulcano\" AI NIC Power Helios Networking",
@@ -107,20 +325,6 @@
    "published": "2026-07-23T18:32:41+00:00"
   },
   {
-   "title": "AMD\u2019s new X100 chip lineup puts Strix Halo into robots \u2013 APUs for physical AI bring Zen 5 CPU, RDNA 3.5 GPU cores to compete with Intel\u2019s Panther Lake",
-   "url": "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake",
-   "source": "Tom's Hardware UK",
-   "category": "robotics",
-   "published": "2026-07-23T18:30:00+00:00"
-  },
-  {
-   "title": "Tesla Says Optimus Is the First Robot That Learns by Watching",
-   "url": "https://biztoc.com/x/65a3b51a3dfcd01f",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-07-23T18:20:31+00:00"
-  },
-  {
    "title": "Right2Compute Coalition Launches to Secure Rights for Building AI Data Centers for Sovereign AI and Data Ownership",
    "url": "https://www.globenewswire.com/news-release/2026/07/23/3332486/0/en/Right2Compute-Coalition-Launches-to-Secure-Rights-for-Building-AI-Data-Centers-for-Sovereign-AI-and-Data-Ownership.html",
    "source": "GlobeNewswire",
@@ -142,13 +346,6 @@
    "published": "2026-07-23T17:34:58+00:00"
   },
   {
-   "title": "Travis Kalanick raised $1.7B for his robotics comeback, and Uber chipped in",
-   "url": "https://thenextweb.com/news/travis-kalanick-atoms-1-7-billion-industrial-ai-a16z-uber/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-07-23T17:33:39+00:00"
-  },
-  {
    "title": "Meet the robots of the future that are already hopping, slithering, and driving around U of T | BetaKit",
    "url": "https://betakit.com/meet-the-robots-of-the-future-that-are-already-hopping-slithering-and-driving-around-u-of-t/",
    "source": "BetaKit",
@@ -168,62 +365,6 @@
    "source": "Antaranews.com",
    "category": "robotics",
    "published": "2026-07-23T15:33:12+00:00"
-  },
-  {
-   "title": "iqm-qubit-selector 1.1.0",
-   "url": "https://pypi.org/project/iqm-qubit-selector/1.1.0/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-07-23T06:45:39+00:00"
-  },
-  {
-   "title": "Launching Health in ChatGPT",
-   "url": "https://openai.com/index/health-in-chatgpt",
-   "source": "OpenAI",
-   "category": "health",
-   "published": "2026-07-23T00:00:00+00:00"
-  },
-  {
-   "title": "Advancing the next era of national science",
-   "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-22T12:00:00+00:00"
-  },
-  {
-   "title": "Introducing the ChatGPT for small business program",
-   "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-21T17:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-   "url": "https://blogs.nvidia.com/blog/vera-rubin/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-21T15:36:43+00:00"
-  },
-  {
-   "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-   "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-07-21T15:16:30+00:00"
-  },
-  {
-   "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
-   "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-21T15:00:20+00:00"
-  },
-  {
-   "title": "NVIDIA and Partners Build in America, for America",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-21T13:00:47+00:00"
   },
   {
    "title": "AI infrastructure buildout reshapes the enterprise stack from silicon to systems",
