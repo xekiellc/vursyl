@@ -1,6 +1,140 @@
 {
- "updated": "2026-07-28T14:20:50.822675+00:00",
+ "updated": "2026-07-28T19:39:43.533639+00:00",
  "items": [
+  {
+   "title": "Scientific computing in the age of agentic AI",
+   "url": "https://openai.com/index/scientific-computing-agentic-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-28T17:00:00+00:00"
+  },
+  {
+   "title": "Powerful Compute So Compact, It\u2019s Clutch \u2014 Build AI Anywhere With NVIDIA Jetson",
+   "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-28T15:00:19+00:00"
+  },
+  {
+   "title": "Microsoft unveils AI cybersecurity system with OpenAI and Anthropic models",
+   "url": "https://cryptobriefing.com/microsoft-project-perception-ai-cybersecurity/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-07-27T19:38:07+00:00"
+  },
+  {
+   "title": "AMD says the MI430X is the fastest FP64 GPU ever built, but you can't buy one until 2027",
+   "url": "https://www.techradar.com/pro/amd-says-the-mi430x-is-the-fastest-fp64-gpu-ever-built-but-you-cant-buy-one-until-2027",
+   "source": "TechRadar",
+   "category": "compute",
+   "published": "2026-07-27T19:35:00+00:00"
+  },
+  {
+   "title": "Microsoft Unveils A.I. Cybersecurity Tools - The New York Times",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184725744",
+   "source": "Slashdot.org",
+   "category": "ai",
+   "published": "2026-07-27T19:32:46+00:00"
+  },
+  {
+   "title": "DIAGNOS Receives Health Canada Medical Device Licence for CARA System, Bringing AI-Assisted Retinal Image Analysis to Canadian Optometrists",
+   "url": "https://financialpost.com/globe-newswire/diagnos-receives-health-canada-medical-device-licence-for-cara-system-bringing-ai-assisted-retinal-image-analysis-to-canadian-optometrists",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-07-27T19:24:27+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Microsoft unveils MAI-Cyber-1-Flash, promises cybersecurity AI at half the cost",
+   "url": "https://www.helpnetsecurity.com/2026/07/27/microsoft-mai-cyber-1-flash-ai-model/",
+   "source": "Help Net Security",
+   "category": "ai",
+   "published": "2026-07-27T19:23:07+00:00"
+  },
+  {
+   "title": "Orange, Morrison plan French data centre venture to meet AI demand",
+   "url": "https://economictimes.indiatimes.com/tech/technology/orange-morrison-plan-french-data-centre-venture-to-meet-ai-demand/articleshow/132670113.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-27T19:20:17+00:00"
+  },
+  {
+   "title": "Nvidia to invest $5-billion in Ilya Sutskever\u2019s AI research startup",
+   "url": "https://biztoc.com/x/155f0abefe13e5b7",
+   "source": "Biztoc.com",
+   "category": "breakthroughs",
+   "published": "2026-07-27T19:13:19+00:00"
+  },
+  {
+   "title": "Microsoft\u2019s MDASH outperforms Claude Mythos, GPT-5.6 in cybersecurity test",
+   "url": "https://cryptobriefing.com/microsoft-mdash-outperforms-cybersecurity-test/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-07-27T19:08:58+00:00"
+  },
+  {
+   "title": "mimik Brings Device-First Agentic AI Software Infrastructure to Intel-Powered AI PC Platforms",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/mimik-brings-device-first-agentic-ai-software-infrastructure-to-intel-powered-ai-pc-platforms",
+   "source": "Financial Post",
+   "category": "ai",
+   "published": "2026-07-27T19:08:39+00:00"
+  },
+  {
+   "title": "RMZ-Colt set to invest Rs 1.77L crore in Andhra Pradesh data centre",
+   "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/rmz-colt-set-to-invest-rs-1-77l-crore-in-andhra-pradesh-data-centre/articleshow/132669899.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-27T19:05:12+00:00"
+  },
+  {
+   "title": "Atalante X, Wandercraft\u2019s Self-Balancing Rehabilitation Exoskeleton, Receives ARCSA Clearance in Ecuador, Advancing Latin American Expansion",
+   "url": "https://www.globenewswire.com/news-release/2026/07/27/3333799/0/en/Atalante-X-Wandercraft-s-Self-Balancing-Rehabilitation-Exoskeleton-Receives-ARCSA-Clearance-in-Ecuador-Advancing-Latin-American-Expansion.html",
+   "source": "GlobeNewswire",
+   "category": "robotics",
+   "published": "2026-07-27T17:45:00+00:00"
+  },
+  {
+   "title": "Cosmos Health Advances Its Technology-Driven Transformation with an AI-Enabled Subscription Platform Across B2C and B2B Channels",
+   "url": "https://www.globenewswire.com/news-release/2026/07/27/3333785/0/en/Cosmos-Health-Advances-Its-Technology-Driven-Transformation-with-an-AI-Enabled-Subscription-Platform-Across-B2C-and-B2B-Channels.html",
+   "source": "GlobeNewswire",
+   "category": "ai",
+   "published": "2026-07-27T17:05:00+00:00"
+  },
+  {
+   "title": "IBM Buys HRL Labs From Boeing and GM, Adding Silicon Spin Qubits to Its Quantum Roadmap",
+   "url": "https://www.storagereview.com/news/ibm-buys-hrl-labs-from-boeing-and-gm-adding-silicon-spin-qubits-to-its-quantum-roadmap",
+   "source": "Storagereview.com",
+   "category": "quantum",
+   "published": "2026-07-27T16:40:15+00:00"
+  },
+  {
+   "title": "FDA announces first company to participate in health tech pilot",
+   "url": "https://www.nextgov.com/emerging-tech/2026/07/fda-announces-first-company-participate-health-tech-pilot/415024/",
+   "source": "Nextgov",
+   "category": "health",
+   "published": "2026-07-27T16:24:00+00:00"
+  },
+  {
+   "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+   "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
+   "source": "Nvidia.com",
+   "category": "quantum",
+   "published": "2026-07-27T15:38:48+00:00"
+  },
+  {
+   "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+   "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-07-27T09:00:07+00:00"
+  },
+  {
+   "title": "Generative Bionics' smart robot skin prevents collisions",
+   "url": "https://newatlas.com/ai-humanoids/gene-01-smart-skin-robot/",
+   "source": "New Atlas",
+   "category": "robotics",
+   "published": "2026-07-27T07:12:05+00:00"
+  },
   {
    "title": "Samsung Wins $200 Billion Broadcom Contract For 2nm AI Chips",
    "url": "https://hothardware.com/news/samsung-wins-200-billion-broadcom-contract-for-2nm-ai-chips",
@@ -86,35 +220,6 @@
    "published": "2026-07-27T13:52:00+00:00"
   },
   {
-   "title": "Tether AI releases QVAC SDK 0.16 with image generation, robotics, and video features",
-   "url": "https://cryptobriefing.com/tether-ai-qvac-sdk-016-release/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-07-27T13:51:44+00:00"
-  },
-  {
-   "title": "Tesla buys Virtuix\u2019s Omni One treadmill system to train its Optimus humanoid robots",
-   "url": "https://cryptobriefing.com/tesla-virtuix-omni-one-optimus-robot/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-07-27T13:27:25+00:00"
-  },
-  {
-   "title": "Virtuix Sells First Enterprise System to Tesla for Optimus Humanoid Robot Division",
-   "url": "https://www.globenewswire.com/news-release/2026/07/27/3333607/0/en/Virtuix-Sells-First-Enterprise-System-to-Tesla-for-Optimus-Humanoid-Robot-Division.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-27T13:17:00+00:00"
-  },
-  {
-   "title": "Rigetti Expands Collaboration with HPE and Pittsburgh Supercomputing Center to Build New Hybrid Quantum-Classical Supercomputer",
-   "url": "https://www.globenewswire.com/news-release/2026/07/27/3333556/0/en/Rigetti-Expands-Collaboration-with-HPE-and-Pittsburgh-Supercomputing-Center-to-Build-New-Hybrid-Quantum-Classical-Supercomputer.html",
-   "source": "GlobeNewswire",
-   "category": "quantum",
-   "published": "2026-07-27T13:00:00+00:00",
-   "breakthrough": true
-  },
-  {
    "title": "HealthEx to Help Americans Bring Their Medical Records into AskMD by Sharecare",
    "url": "https://www.globenewswire.com/news-release/2026/07/27/3333558/0/en/HealthEx-to-Help-Americans-Bring-Their-Medical-Records-into-AskMD-by-Sharecare.html",
    "source": "GlobeNewswire",
@@ -136,32 +241,11 @@
    "published": "2026-07-27T13:00:00+00:00"
   },
   {
-   "title": "The Next Evolution of Robotics: From Standalone Machines to Coordinated Autonomous Workforces",
-   "url": "https://www.globenewswire.com/news-release/2026/07/27/3333517/0/en/The-Next-Evolution-of-Robotics-From-Standalone-Machines-to-Coordinated-Autonomous-Workforces.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-27T12:30:00+00:00"
-  },
-  {
-   "title": "How AI is expanding what people do at work",
-   "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-27T03:30:00+00:00"
-  },
-  {
    "title": "BYD to unveil first humanoid robot in early August",
    "url": "https://technode.com/2026/07/27/byd-to-unveil-first-humanoid-robot-in-early-august/",
    "source": "TechNode",
    "category": "robotics",
    "published": "2026-07-27T02:42:30+00:00"
-  },
-  {
-   "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-27T00:45:42+00:00"
   },
   {
    "title": "LG ELECTRONICS EARNS NVIDIA AI FACTORY VALIDATION FOR ITS 600KW COOLANT DISTRIBUTION UNIT",
