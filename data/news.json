@@ -1,12 +1,174 @@
 {
- "updated": "2026-07-27T19:41:44.151491+00:00",
+ "updated": "2026-07-28T02:51:02.390351+00:00",
  "items": [
   {
-   "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-   "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+   "title": "How AI is expanding what people do at work",
+   "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-27T03:30:00+00:00"
+  },
+  {
+   "title": "Show HN: I built a static verifier for OpenCode to stop unsafe AI tool calls",
+   "url": "https://github.com/albertjoseph0/opencode-plugin-guardians",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-27T02:45:22+00:00"
+  },
+  {
+   "title": "Chipmaker CXMT vaults to top of China\u2019s valuation with 470% Shanghai debut surge",
+   "url": "https://www.straitstimes.com/business/china-chipmaker-cxmts-shares-surge-470-in-shangai-trading-debut",
+   "source": "The Straits Times",
+   "category": "compute",
+   "published": "2026-07-27T02:45:00+00:00"
+  },
+  {
+   "title": "BYD to unveil first humanoid robot in early August",
+   "url": "https://technode.com/2026/07/27/byd-to-unveil-first-humanoid-robot-in-early-august/",
+   "source": "TechNode",
+   "category": "robotics",
+   "published": "2026-07-27T02:42:30+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Campaign ads must disclose AI use under new election rules",
+   "url": "https://www.haaretz.com/israel-news/israel-politics/2026-07-27/ty-article/.premium/campaign-ads-must-disclose-ai-use-under-new-election-rules/0000019f-a0a9-dcf3-a9df-a7bb647a0000",
+   "source": "Haaretz",
+   "category": "ai",
+   "published": "2026-07-27T02:33:01+00:00"
+  },
+  {
+   "title": "Show HN: Experimental multi-head window manager made for programmatic use",
+   "url": "https://github.com/cookiengineer/hydra",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-27T02:26:59+00:00"
+  },
+  {
+   "title": "ConV2X Smart Technology Transformation Summit Announces Global Health Leaders Defining Next Era of AI, Digital Health, and Clinical Innovation",
+   "url": "https://pr.holladayjournal.com/article/ConV2X-Smart-Technology-Transformation-Summit-Announces-Global-Health-Leaders-Defining-Next-Era-of-AI-Digital-Health-and-Clinical-Innovation/6a5f684648f12d0002cad4f4",
+   "source": "Holladayjournal.com",
+   "category": "health",
+   "published": "2026-07-27T02:11:01+00:00"
+  },
+  {
+   "title": "China chipmaker CXMT's shares surge 470% in Shangai trading debut",
+   "url": "https://www.channelnewsasia.com/business/china-chipmaker-cxmt-shares-surge-shanghai-trading-debut-6279601",
+   "source": "CNA",
+   "category": "compute",
+   "published": "2026-07-27T02:09:38+00:00"
+  },
+  {
+   "title": "Nvidia in talks to guarantee $250 billion for mega Ohio data center, WSJ reports",
+   "url": "https://biztoc.com/x/4429655b03f30c83",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-07-27T02:02:10+00:00"
+  },
+  {
+   "title": "SK Hynix\u2019s $26.5B Nasdaq debut sets a record and gives the South Korean won a lift",
+   "url": "https://cryptobriefing.com/sk-hynix-nasdaq-listing-south-korean-won/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-27T01:41:21+00:00"
+  },
+  {
+   "title": "India's HCLTech plans US$4.4B AI data center",
+   "url": "https://www.digitimes.com/news/a20260727PR201/india-data-center-expansion-infrastructure-partnership.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-27T01:26:23+00:00"
+  },
+  {
+   "title": "1.31 \u03bcm\u9ad8\u98fd\u548c\u51fa\u529b \u4f4e\u96d1\u97f3\u30bf\u30a4\u30d7\u534a\u5c0e\u4f53\u5149\u5897\u5e45\u5668\u306e\u8ca9\u58f2\u3092\u958b\u59cb",
+   "url": "https://prtimes.jp/main/html/rd/p/000000351.000109169.html",
+   "source": "Prtimes.jp",
+   "category": "compute",
+   "published": "2026-07-27T01:23:27+00:00"
+  },
+  {
+   "title": "IDMs target AI margins, boosting Taiwan power suppliers",
+   "url": "https://www.digitimes.com/news/a20260727PD210/texas-instruments-stmicroelectronics-demand-market-power-semiconductors.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-27T01:10:43+00:00"
+  },
+  {
+   "title": "AMD widens robotics push with Taiwan IPC partners as it targets Nvidia lead",
+   "url": "https://www.digitimes.com/news/a20260727PD211/amd-robotics-taiwan-nvidia-ipc.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-07-27T01:10:32+00:00"
+  },
+  {
+   "title": "iFIT and Samsung Health Deepen Partnership with Launch of iFIT Personal Trainer on Galaxy Devices",
+   "url": "https://www.lelezard.com/en/news-22307334.html",
+   "source": "Lelezard.com",
+   "category": "health",
+   "published": "2026-07-27T00:53:51+00:00"
+  },
+  {
+   "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+   "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
    "source": "NVIDIA",
-   "category": "breakthroughs",
-   "published": "2026-07-27T09:00:07+00:00"
+   "category": "compute",
+   "published": "2026-07-27T00:45:42+00:00"
+  },
+  {
+   "title": "T\u0101maki Health launches AI coach for primary care patients",
+   "url": "https://cfotech.co.nz/story/tamaki-health-launches-ai-coach-for-primary-care-patients",
+   "source": "Cfotech.co.nz",
+   "category": "health",
+   "published": "2026-07-27T00:21:32+00:00"
+  },
+  {
+   "title": "Are brain waves the next unlock for physical AI? | TechCrunch",
+   "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+   "source": "TechCrunch",
+   "category": "robotics",
+   "published": "2026-07-27T00:19:14+00:00"
+  },
+  {
+   "title": "Toward generalizable and interpretable AI in regulatory genomics",
+   "url": "https://www.nature.com/articles/s41588-026-02670-3",
+   "source": "Nature.com",
+   "category": "ai",
+   "published": "2026-07-27T00:00:00+00:00"
+  },
+  {
+   "title": "Samsung Electro-Mechanics starts pilot production of camera modules for humanoid robots in Vietnam, report says",
+   "url": "https://www.digitimes.com/news/a20260724VL219/semco-camera-production-humanoid-robot-lg-innotek.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-26T23:44:07+00:00"
+  },
+  {
+   "title": "Show HN: Codex fixed my 2010 MacBook Pro driver troubles with kernel patches",
+   "url": "https://github.com/ldyeax/macbook2010_nouveau_and_sleep_fixes/",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-26T22:11:41+00:00"
+  },
+  {
+   "title": "From livestream to embodied AI: Richtech Robotics is redefining the human\u2013robot interaction",
+   "url": "https://www.digitaljournal.com/article/from-livestream-to-embodied-ai-richtech-robotics-is-redefining-the-human-robot-interaction/",
+   "source": "Digital Journal",
+   "category": "robotics",
+   "published": "2026-07-26T20:40:11+00:00"
+  },
+  {
+   "title": "Elon Musk Just Revealed a Quiet Win for Tesla\u2019s AI Ambitions",
+   "url": "https://www.barchart.com/story/news/3469613/elon-musk-just-revealed-a-quiet-win-for-teslas-ai-ambitions",
+   "source": "Barchart.com",
+   "category": "ai",
+   "published": "2026-07-26T15:00:02+00:00"
+  },
+  {
+   "title": "New Humanoid Robot with \u2018Smart Skin\u2019 (I Touched It)",
+   "url": "https://www.cnet.com/videos/new-humanoid-robot-smart-skin-amd-conference-ai-gene01-generative-bionics/",
+   "source": "CNET",
+   "category": "robotics",
+   "published": "2026-07-26T11:22:34+00:00"
   },
   {
    "title": "agent-inbox 0.13.20",
@@ -125,8 +287,7 @@
    "url": "https://github.com/hertz-ai/HARTOS",
    "source": "Github.com",
    "category": "ai",
-   "published": "2026-07-26T18:40:08+00:00",
-   "breakthrough": true
+   "published": "2026-07-26T18:40:08+00:00"
   },
   {
    "title": "llm-catalogue added to PyPI",
@@ -143,13 +304,6 @@
    "published": "2026-07-26T18:28:46+00:00"
   },
   {
-   "title": "Rectal cancer had spread beyond the bowel and into nearby organs; doctors performed a rare robotic surgery that gave this 77-year-old a second chance",
-   "url": "https://timesofindia.indiatimes.com/health/rectal-cancer-had-spread-beyond-the-bowel-and-into-nearby-organs-doctors-performed-a-rare-robotic-surgery-that-gave-this-77-year-old-a-second-chance/articleshow/132646057.cms",
-   "source": "The Times of India",
-   "category": "health",
-   "published": "2026-07-26T18:13:20+00:00"
-  },
-  {
    "title": "NVIDIA Blackwell RTX 50 Hotspot And Per-Memory Temperature Monitoring: Here\u2019s Everything Enthusiasts Have Uncovered So Far",
    "url": "https://wccftech.com/roundup/nvidia-blackwell-rtx-50-hotspot-and-memory-temperature-monitoring-heres-everything-uncovered-so-far/",
    "source": "Wccftech",
@@ -162,13 +316,6 @@
    "source": "Rlsbb.cc",
    "category": "ai",
    "published": "2026-07-26T16:21:08+00:00"
-  },
-  {
-   "title": "Gate2ASI AI\u2019s AgentFactory: From Agent Memory to Governed Operational Intelligence",
-   "url": "https://www.c-sharpcorner.com/article/gate2asi-ais-agentfactory-from-agent-memory-to-governed-operational-intelligen/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-07-26T16:05:47+00:00"
   },
   {
    "title": "DARPA\u2019s \u2018Multiscale Reasoning For Human Physiology\u2019 seeks to model human health across scales, advance military medicine",
@@ -185,39 +332,11 @@
    "published": "2026-07-26T15:10:49+00:00"
   },
   {
-   "title": "New Tesla Optimus rival: Leak reveals first details about BYD's AI robot",
-   "url": "https://www.notebookcheck.net/New-Tesla-Optimus-rival-Leak-reveals-first-details-about-BYD-s-AI-robot.1352248.0.html",
-   "source": "Notebookcheck.net",
-   "category": "robotics",
-   "published": "2026-07-26T14:49:00+00:00"
-  },
-  {
-   "title": "Mitsubishi Motors partners with Tokyo startup to produce AI humanoid robots at scale",
-   "url": "https://cryptobriefing.com/mitsubishi-motors-ai-humanoid-robots-tokyo-startup/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-07-26T05:10:45+00:00"
-  },
-  {
    "title": "Sidewall-E: Meet Calvin, the tyre-stacking Renault robot",
    "url": "https://www.autocar.co.uk/car-news/features/sidewall-e-meet-calvin-tyre-stacking-renault-robot",
    "source": "Autocar",
    "category": "robotics",
    "published": "2026-07-26T05:00:00+00:00"
-  },
-  {
-   "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-   "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-24T04:34:27+00:00"
-  },
-  {
-   "title": "Working to automate nuclear plant operations",
-   "url": "https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-24T04:00:00+00:00"
   },
   {
    "title": "SpaceX Starship Path to One Month. One Week, One Day and Hours to Reuse",
