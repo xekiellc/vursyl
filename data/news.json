@@ -1,19 +1,250 @@
 {
- "updated": "2026-07-30T08:34:46.192869+00:00",
+ "updated": "2026-07-30T14:12:27.544741+00:00",
  "items": [
   {
-   "title": "We\u2019re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-   "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-07-29T16:02:10+00:00"
+   "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-30T13:00:20+00:00"
   },
   {
-   "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-   "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+   "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
    "source": "OpenAI",
    "category": "ai",
+   "published": "2026-07-29T15:00:00+00:00"
+  },
+  {
+   "title": "Europe Hyperscale Data Center Market to Reach USD 139.90 Billion by 2031, Cloud, AI, and Infrastructure Investments Converge - Arizton",
+   "url": "https://www.prnewswire.com/news-releases/europe-hyperscale-data-center-market-to-reach-usd-139-90-billion-by-2031--cloud-ai-and-infrastructure-investments-converge--arizton-302837668.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-07-29T14:09:00+00:00"
+  },
+  {
+   "title": "playwright-tc-failure-ai-analyzer added to PyPI",
+   "url": "https://pypi.org/project/playwright-tc-failure-ai-analyzer/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-07-29T14:07:34+00:00"
+  },
+  {
+   "title": "Smith+Nephew\u2019s TESSA\u2122 Spatial Surgery System granted De Novo classification by the FDA sparking a generational leap in Sports Medicine for personalized planning and procedural innovation",
+   "url": "https://financialpost.com/globe-newswire/smithnephews-tessa-spatial-surgery-system-granted-de-novo-classification-by-the-fda-sparking-a-generational-leap-in-sports-medicine-for-personalized-planning-and-procedural-innovation",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-07-29T14:04:38+00:00"
+  },
+  {
+   "title": "Nvidia partner ChipAgents raises $60M for agentic chip design",
+   "url": "https://thenextweb.com/news/nvidia-partner-chipagents-raises-60m-for-agentic-chip-design/",
+   "source": "The Next Web",
+   "category": "ai",
+   "published": "2026-07-29T14:03:05+00:00"
+  },
+  {
+   "title": "BrowserStack Launches Test Companion, Agentic AI That Brings Complete Test Automation Into the IDE",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/browserstack-launches-test-companion-agentic-ai-that-brings-complete-test-automation-into-the-ide/article71282042.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-07-29T14:00:16+00:00"
+  },
+  {
+   "title": "GPU repair service will upgrade the 11GB of VRAM on your RTX 2080 Ti to 22GB \u2014 mod involves physically adjusting the strap resistors on the PCB to support a new BIOS",
+   "url": "https://www.tomshardware.com/pc-components/gpus/gpu-repair-service-will-upgrade-the-11gb-of-vram-on-your-rtx-2080-ti-to-22gb-mod-involves-physically-adjusting-the-strap-resistors-on-the-pcb-to-support-a-new-bios",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-07-29T14:00:12+00:00"
+  },
+  {
+   "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
+   "url": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
+   "source": "Mit.edu",
+   "category": "health",
+   "published": "2026-07-29T14:00:00+00:00"
+  },
+  {
+   "title": "SynAPSeg: A novel dataset and image analysis framework for deep learning-based synapse detection and quantification",
+   "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014571",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-07-29T14:00:00+00:00"
+  },
+  {
+   "title": "Pronunciation assessment in foreign language learning: Reliability and scoring bias in human\u2013generative AI evaluation",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354603",
+   "source": "Plos.org",
+   "category": "ai",
+   "published": "2026-07-29T14:00:00+00:00"
+  },
+  {
+   "title": "A lightweight hybrid framework integrating convolutional neural networks and fast Fourier transform for reliable and calibrated ECG-based cardiac abnormality detection",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354834",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-07-29T14:00:00+00:00"
+  },
+  {
+   "title": "An integrated Gaussian\u2013Probabilistic\u2013Fuzzy framework for health assessment and remaining useful life prediction of medium-voltage switchgears",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354713",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-07-29T14:00:00+00:00"
+  },
+  {
+   "title": "CrewAI in Python: Coordinating Teams of AI Agents",
+   "url": "https://realpython.com/crewai-python/",
+   "source": "Realpython.com",
+   "category": "ai",
+   "published": "2026-07-29T14:00:00+00:00"
+  },
+  {
+   "title": "Object detection in histology: A multi-dataset benchmark and test-time inference",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354618",
+   "source": "Plos.org",
+   "category": "ai",
+   "published": "2026-07-29T14:00:00+00:00"
+  },
+  {
+   "title": "Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling",
+   "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014483",
+   "source": "Plos.org",
+   "category": "ai",
+   "published": "2026-07-29T14:00:00+00:00"
+  },
+  {
+   "title": "SEMI Reports Worldwide Silicon Wafer Shipments Increase 7.4% Year-on-Year in Q2 2026",
+   "url": "https://www.prnewswire.com/news-releases/semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-year-on-year-in-q2-2026--302836762.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-07-29T14:00:00+00:00"
+  },
+  {
+   "title": "TimelyCare Sets New Standard for Student Safety with URAC Artificial Intelligence in Healthcare Accreditation",
+   "url": "https://www.globenewswire.com/news-release/2026/07/29/3335370/0/en/TimelyCare-Sets-New-Standard-for-Student-Safety-with-URAC-Artificial-Intelligence-in-Healthcare-Accreditation.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-29T13:59:00+00:00"
+  },
+  {
+   "title": "AMD launches Radeon RX 9050 at $279 with OEM-only variant",
+   "url": "https://www.notebookcheck.net/AMD-launches-Radeon-RX-9050-at-279-with-OEM-only-variant.1354375.0.html",
+   "source": "Notebookcheck.net",
+   "category": "compute",
+   "published": "2026-07-29T13:59:00+00:00"
+  },
+  {
+   "title": "The Ultra-Wealthy Pay Up to $100,000 a Year for Elite Healthcare. This Startup Wants to Bring It to Everyone for a Fraction of the Price.",
+   "url": "https://www.entrepreneur.com/building-a-business/this-startup-wants-to-bring-elite-healthcare-to-everyone",
+   "source": "Entrepreneur",
+   "category": "health",
+   "published": "2026-07-29T13:58:00+00:00"
+  },
+  {
+   "title": "Quanta Computer plans largest Taiwanese stock sale in 19 years, signaling AI hardware confidence",
+   "url": "https://cryptobriefing.com/quanta-computer-largest-taiwan-stock-sale/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-29T13:55:06+00:00"
+  },
+  {
+   "title": "The Harry T. Mangurian, Jr. Foundation Surpasses $25 Million in Support of Blood Cancer United With New $4 Million Commitment",
+   "url": "https://www.prnewswire.com/news-releases/the-harry-t-mangurian-jr-foundation-surpasses-25-million-in-support-of-blood-cancer-united-with-new-4-million-commitment-302837295.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-29T13:30:00+00:00"
+  },
+  {
+   "title": "InsideTracker Unveils Source-Agnostic Blood Data Processing Across Nearly 120 Biomarkers",
+   "url": "https://www.prnewswire.com/news-releases/insidetracker-unveils-source-agnostic-blood-data-processing-across-nearly-120-biomarkers-302837181.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-29T13:04:00+00:00"
+  },
+  {
+   "title": "MUSC Health expands use of SoundHound\u2019s AI agent platform to retail and specialty pharmacies, surpasses 2.2 million patient calls",
+   "url": "https://www.globenewswire.com/news-release/2026/07/29/3335307/0/en/MUSC-Health-expands-use-of-SoundHound-s-AI-agent-platform-to-retail-and-specialty-pharmacies-surpasses-2-2-million-patient-calls.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-07-29T13:03:00+00:00"
+  },
+  {
+   "title": "10x Genomics and Lausanne University Hospital Collaborate to Advance Research in Diagnostic Applications of Single Cell and Spatial Technologies for Cancer Care",
+   "url": "https://www.prnewswire.com/news-releases/10x-genomics-and-lausanne-university-hospital-collaborate-to-advance-research-in-diagnostic-applications-of-single-cell-and-spatial-technologies-for-cancer-care-302837205.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-29T13:00:00+00:00"
+  },
+  {
+   "title": "SPRING FERTILITY LAUNCHES FIRST-OF-ITS-KIND PERSONALIZED IVF CALCULATOR",
+   "url": "https://www.prnewswire.com/news-releases/spring-fertility-launches-first-of-its-kind-personalized-ivf-calculator-302837324.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-29T13:00:00+00:00"
+  },
+  {
+   "title": "Nina Capital backs Woodway Assurance to tackle health data paralysis",
+   "url": "https://www.prnewswire.com/news-releases/nina-capital-backs-woodway-assurance-to-tackle-health-data-paralysis-302837793.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-29T13:00:00+00:00"
+  },
+  {
+   "title": "GlobalFoundries signs letter of intent with US Commerce Department for up to $375M in CHIPS R&D funding",
+   "url": "https://cryptobriefing.com/globalfoundries-chips-quantum-rd-award/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-29T10:43:00+00:00"
+  },
+  {
+   "title": "Commercial-Scale 'Heavy' Rare Earth Plant Now Under Construction in Utah",
+   "url": "https://www.prnewswire.com/news-releases/commercial-scale-heavy-rare-earth-plant-now-under-construction-in-utah-302837314.html",
+   "source": "PRNewswire",
+   "category": "compute",
    "published": "2026-07-29T10:00:00+00:00"
+  },
+  {
+   "title": "A 20-Year-Old Quantum Entanglement Theory Has Finally Been Confirmed in Experiments",
+   "url": "https://www.sciencealert.com/a-20-year-old-quantum-entanglement-theory-has-finally-been-confirmed-in-experiments",
+   "source": "ScienceAlert",
+   "category": "quantum",
+   "published": "2026-07-29T02:10:00+00:00"
+  },
+  {
+   "title": "A digitally controlled silicon quantum processing unit",
+   "url": "https://www.nature.com/articles/s41586-026-10754-7",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-07-29T00:00:00+00:00"
+  },
+  {
+   "title": "Weight-four parity checks in a spin-shuttling architecture",
+   "url": "https://www.nature.com/articles/s41586-026-10766-3",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-07-29T00:00:00+00:00"
+  },
+  {
+   "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+   "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-29T00:00:00+00:00"
+  },
+  {
+   "title": "How AI is expanding what people do at work",
+   "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-27T03:30:00+00:00"
+  },
+  {
+   "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+   "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-27T00:45:42+00:00"
   },
   {
    "title": "Vishal Sikka bets on 'AI surfing' with Hang Ten, raises $32 million to help enterprises ride the wave",
@@ -105,34 +336,6 @@
    "source": "The Gadgeteer",
    "category": "robotics",
    "published": "2026-07-29T03:00:01+00:00"
-  },
-  {
-   "title": "Underdog \u2018spin qubits\u2019 leap forward in race to a useful quantum computer",
-   "url": "https://www.nature.com/articles/d41586-026-02357-z",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-07-29T00:00:00+00:00"
-  },
-  {
-   "title": "Scientific computing in the age of agentic AI",
-   "url": "https://openai.com/index/scientific-computing-agentic-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-28T17:00:00+00:00"
-  },
-  {
-   "title": "Powerful Compute So Compact, It\u2019s Clutch \u2014 Build AI Anywhere With NVIDIA Jetson",
-   "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-28T15:00:19+00:00"
-  },
-  {
-   "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-   "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-27T09:00:07+00:00"
   },
   {
    "title": "Moonshot AI's Kimi K3 secures Day 0 support from Alibaba Cloud, Huawei Ascend",
