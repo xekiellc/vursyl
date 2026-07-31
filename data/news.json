@@ -1,33 +1,236 @@
 {
- "updated": "2026-07-30T19:40:22.895077+00:00",
+ "updated": "2026-07-31T03:25:09.122153+00:00",
  "items": [
   {
-   "title": "Echoverse: Deep, evolving environments for computer-use agents",
-   "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
-   "source": "Microsoft Research",
+   "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+   "url": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
+   "source": "MIT News AI",
+   "category": "breakthroughs",
+   "published": "2026-07-30T21:00:00+00:00"
+  },
+  {
+   "title": "Connecting research to policy on Capitol Hill",
+   "url": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
+   "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-07-30T17:00:00+00:00"
+   "published": "2026-07-30T20:35:00+00:00"
   },
   {
-   "title": "EvoLib: Turning experience into evolving knowledge",
-   "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
-   "source": "Microsoft Research",
+   "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-07-30T13:00:20+00:00"
+  },
+  {
+   "title": "Samsung reports record profit as South Korean chip giants benefit from global AI boom",
+   "url": "https://abcnews.com/Business/wireStory/samsung-reports-record-profit-south-korean-chip-giants-135212383",
+   "source": "Abcnews.com",
+   "category": "compute",
+   "published": "2026-07-30T03:22:11+00:00"
+  },
+  {
+   "title": "India needs more AI champions, says Paytm's Vijay Shekhar Sharma",
+   "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/india-needs-more-ai-champions-says-paytms-vijay-shekhar-sharma/articleshow/132726051.cms",
+   "source": "The Times of India",
    "category": "ai",
-   "published": "2026-07-30T16:00:00+00:00"
+   "published": "2026-07-30T03:21:55+00:00"
   },
   {
-   "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-   "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-   "source": "Google DeepMind",
-   "category": "robotics",
-   "published": "2026-07-30T15:00:59+00:00"
+   "title": "Microsoft Will Soon Release an AI Super App",
+   "url": "https://gizmodo.com/microsoft-will-soon-release-an-ai-super-app-2000792653",
+   "source": "Gizmodo.com",
+   "category": "ai",
+   "published": "2026-07-30T03:18:01+00:00"
   },
   {
-   "title": "Advancing the price-performance frontier with GPT-5.6",
-   "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+   "title": "MiniIO debuts AIStor Memory, the long-term memory AI agents need to scale safely",
+   "url": "https://siliconangle.com/2026/07/29/miniio-debuts-aistor-memory-long-term-memory-ai-agents-need-scale-safely/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-07-30T03:12:37+00:00"
+  },
+  {
+   "title": "Show HN: a Rust coding agent that is compatible with Claude Code plugins/skills",
+   "url": "https://github.com/KonghaYao/peri",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-07-30T03:01:22+00:00"
+  },
+  {
+   "title": "Microsoft says cash will keep flowing from AI, shares rise",
+   "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-says-cash-will-keep-flowing-from-ai-shares-rise/articleshow/132725767.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-07-30T03:00:30+00:00"
+  },
+  {
+   "title": "Italy, US to sign Pax Silica pact on AI, chip supply chains",
+   "url": "https://www.digitimes.com/news/a20260730VL212/italy-packaging-materials-european-commission.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-30T03:00:14+00:00"
+  },
+  {
+   "title": "GMKtec Launches Evo-X1 Pro Mini PC With Ryzen AI 9 HX 470 and eGPU Support Via OCuLink",
+   "url": "https://www.techpowerup.com/351210/gmktec-launches-evo-x1-pro-mini-pc-with-ryzen-ai-9-hx-470-and-egpu-support-via-oculink",
+   "source": "Techpowerup.com",
+   "category": "compute",
+   "published": "2026-07-30T02:43:01+00:00"
+  },
+  {
+   "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+   "url": "https://noelo.org/blog/kuna-release/",
+   "source": "Noelo.org",
+   "category": "ai",
+   "published": "2026-07-30T02:41:16+00:00"
+  },
+  {
+   "title": "Eight UNILAG startups secure N50m FG grant",
+   "url": "https://punchng.com/eight-unilag-startups-secure-n50m-fg-grant/",
+   "source": "The Punch",
+   "category": "ai",
+   "published": "2026-07-30T02:40:27+00:00"
+  },
+  {
+   "title": "Beetaloo Energy Signs Halliburton MOU for Gas-Powered Data Center Development",
+   "url": "https://biztoc.com/x/f17384c949e07090",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-07-30T02:33:44+00:00"
+  },
+  {
+   "title": "Microsoft Extends Data Center Lifespans to Soften AI Buildout Costs",
+   "url": "https://biztoc.com/x/aaa46477f047f1ca",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-07-30T02:32:34+00:00"
+  },
+  {
+   "title": "Samsung\u2019s stock rises on explosive operating profit growth",
+   "url": "https://siliconangle.com/2026/07/29/samsungs-stock-rises-explosive-operating-profit-growth/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-07-30T02:30:17+00:00"
+  },
+  {
+   "title": "Marvell plans US$250 million India investment to expand semiconductor R&D",
+   "url": "https://www.digitimes.com/news/a20260730PR201/marvell-investment-development-infrastructure-bangalore.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-30T02:15:48+00:00"
+  },
+  {
+   "title": "Lam Research raises outlook as AI-driven semiconductor demand fuels record revenue and margin expansion",
+   "url": "https://www.digitimes.com/news/a20260730VL204/lam-research-revenue-demand-outlook-equipment.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-30T02:15:33+00:00"
+  },
+  {
+   "title": "Microsoft commits $130 billion-plus to new data centre leases amid AI boom",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-over-130-billion-in-new-data-center-leases",
+   "source": "Bloomberg",
+   "category": "compute",
+   "published": "2026-07-30T01:57:41+00:00"
+  },
+  {
+   "title": "Arm's AI-driven data center growth offsets smartphone weakness, but softer handset outlook weighs on shares",
+   "url": "https://www.digitimes.com/news/a20260730VL203/arm-data-center-smartphone-growth-revenue.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-07-30T01:55:56+00:00"
+  },
+  {
+   "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+   "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+   "source": "vtdigger.org",
+   "category": "health",
+   "published": "2026-07-30T01:35:10+00:00"
+  },
+  {
+   "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+   "url": "https://openai.com/index/avatarin",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-07-30T10:00:00+00:00"
+   "published": "2026-07-30T00:00:00+00:00"
+  },
+  {
+   "title": "China's robot vacuum makers race ahead as innovation cycle outpaces smartphones",
+   "url": "https://www.digitimes.com/news/a20260729PD214/robot-market-2026-idc-2025.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-07-29T23:52:11+00:00"
+  },
+  {
+   "title": "FDA Clears a Non-Invasive Test That Estimates a Heart Pressure Normally Measured with a Catheter",
+   "url": "https://www.medicaldaily.com/fda-clears-corvista-pcwp-noninvasive-heart-failure-test-476582",
+   "source": "Medical Daily",
+   "category": "health",
+   "published": "2026-07-29T23:15:25+00:00"
+  },
+  {
+   "title": "Accuray Announces Plan Involving Financial Strengthening, Strategic Partnerships, Technology Rollouts, and Operational Initiatives to Drive Long-Term Value Creation",
+   "url": "https://www.prnewswire.com/news-releases/accuray-announces-plan-involving-financial-strengthening-strategic-partnerships-technology-rollouts-and-operational-initiatives-to-drive-long-term-value-creation-302838357.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-07-29T22:26:00+00:00"
+  },
+  {
+   "title": "Knowledge graph architecture gives enterprises ownership of the AI intelligence they create",
+   "url": "https://siliconangle.com/2026/07/29/knowledge-graph-architecture-enterprise-ai-neo4jdataplusai/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-07-29T22:02:46+00:00"
+  },
+  {
+   "title": "This $40,000 robodog breakdances instead of showing off kung fu",
+   "url": "https://boingboing.net/2026/07/29/this-40000-robodog-breakdances-instead-of-showing-off-kung-fu.html",
+   "source": "Boing Boing",
+   "category": "robotics",
+   "published": "2026-07-29T20:13:45+00:00"
+  },
+  {
+   "title": "(PR) HRL Demonstrates a Silicon Quantum Processor That Runs Itself",
+   "url": "https://www.techpowerup.com/351204/hrl-demonstrates-a-silicon-quantum-processor-that-runs-itself",
+   "source": "Techpowerup.com",
+   "category": "quantum",
+   "published": "2026-07-29T19:44:49+00:00"
+  },
+  {
+   "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-29T15:00:00+00:00"
+  },
+  {
+   "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
+   "url": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
+   "source": "MIT News AI",
+   "category": "breakthroughs",
+   "published": "2026-07-29T14:00:00+00:00"
+  },
+  {
+   "title": "GlobalFoundries signs letter of intent with US Commerce Department for up to $375M in CHIPS R&D funding",
+   "url": "https://cryptobriefing.com/globalfoundries-chips-quantum-rd-award/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-07-29T10:43:00+00:00"
+  },
+  {
+   "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+   "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-29T00:00:00+00:00"
+  },
+  {
+   "title": "How AI is expanding what people do at work",
+   "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-27T03:30:00+00:00"
   },
   {
    "title": "mlsys-lab 0.2.1",
@@ -42,13 +245,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-07-29T19:36:55+00:00"
-  },
-  {
-   "title": "You\u2019re Only Using Five Percent Of What AI Gives You \u2014 And That\u2019s The Point",
-   "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/07/29/youre-only-using-five-percent-of-what-ai-gives-you---and-thats-the-point/",
-   "source": "Forbes",
-   "category": "ai",
-   "published": "2026-07-29T19:33:35+00:00"
   },
   {
    "title": "Show HN: Concord, some open source stuff",
@@ -177,13 +373,6 @@
    "published": "2026-07-29T19:02:00+00:00"
   },
   {
-   "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
-   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184754130",
-   "source": "Slashdot.org",
-   "category": "quantum",
-   "published": "2026-07-29T18:52:35+00:00"
-  },
-  {
    "title": "truecell added to PyPI",
    "url": "https://pypi.org/project/truecell/",
    "source": "Pypi.org",
@@ -226,25 +415,11 @@
    "published": "2026-07-29T16:16:36+00:00"
   },
   {
-   "title": "We\u2019re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-   "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-07-29T16:02:10+00:00"
-  },
-  {
    "title": "The Startup Using AI To Make Hearing Aids Better",
    "url": "https://www.forbes.com/sites/innovationrx/2026/07/29/the-startup-using-ai-to-make-hearing-aids-better/",
    "source": "Forbes",
    "category": "health",
    "published": "2026-07-29T16:00:00+00:00"
-  },
-  {
-   "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-   "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-29T10:00:00+00:00"
   },
   {
    "title": "rqm-entanglement added to PyPI",
@@ -259,34 +434,6 @@
    "source": "Nature.com",
    "category": "quantum",
    "published": "2026-07-29T00:00:00+00:00"
-  },
-  {
-   "title": "Scientific computing in the age of agentic AI",
-   "url": "https://openai.com/index/scientific-computing-agentic-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-28T17:00:00+00:00"
-  },
-  {
-   "title": "Powerful Compute So Compact, It\u2019s Clutch \u2014 Build AI Anywhere With NVIDIA Jetson",
-   "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-28T15:00:19+00:00"
-  },
-  {
-   "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-   "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-   "source": "Google DeepMind",
-   "category": "robotics",
-   "published": "2026-07-28T13:21:37+00:00"
-  },
-  {
-   "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-   "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-27T09:00:07+00:00"
   },
   {
    "title": "Europe Hyperscale Data Center Market to Reach USD 139.90 Billion by 2031, Cloud, AI, and Infrastructure Investments Converge - Arizton",
