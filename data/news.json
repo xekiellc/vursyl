@@ -1,26 +1,117 @@
 {
- "updated": "2026-08-03T14:49:28.776390+00:00",
+ "updated": "2026-08-03T19:44:02.797720+00:00",
  "items": [
   {
-   "title": "Persistent Achieves $452.4M Revenue in Q1 FY27 with 16.1% YoY Growth",
-   "url": "https://www.prnewswire.com/news-releases/persistent-achieves-452-4m-revenue-in-q1-fy27-with-16-1-yoy-growth-302840628.html",
-   "source": "PRNewswire",
+   "title": "Orchard: An open framework for scalable agentic AI",
+   "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-08-03T16:00:00+00:00"
+  },
+  {
+   "title": "Palantir debuts 'war' data center in a container, full of Nvidia's B300 AI accelerators and open-weight models",
+   "url": "https://www.techradar.com/pro/palantir-debuts-war-data-center-in-a-container-full-of-nvidias-b300-ai-accelerators-and-open-weight-models",
+   "source": "TechRadar",
    "category": "compute",
-   "published": "2026-08-02T13:30:00+00:00"
+   "published": "2026-08-02T19:30:00+00:00"
   },
   {
-   "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
-   "url": "https://freerepublic.com/focus/f-chat/4390280/posts",
-   "source": "Freerepublic.com",
-   "category": "quantum",
-   "published": "2026-08-02T12:24:51+00:00"
+   "title": "Startup backed by the world's largest battery maker just launched a supercheap mini PC that competes with Nvidia's $5000 AI DGX Spark PC",
+   "url": "https://www.techradar.com/pro/startup-backed-by-the-worlds-largest-battery-maker-just-launched-a-supercheap-mini-pc-that-competes-with-nvidias-usd5000-ai-dgx-spark-pc",
+   "source": "TechRadar",
+   "category": "compute",
+   "published": "2026-08-02T18:05:00+00:00"
   },
   {
-   "title": "Warehouse automation to humanoids: Addverb bets on India, CEO says physical AI race has begun",
-   "url": "https://www.thehindubusinessline.com/info-tech/warehouse-automation-to-humanoids-addverb-bets-on-india-ceo-says-physical-ai-race-has-begun/article71297560.ece",
-   "source": "BusinessLine",
+   "title": "Gemma 4 E2B proves Raspberry Pi-sized LLMs don't have to be terrible anymore",
+   "url": "https://www.xda-developers.com/gemma-4-e2b-proves-raspberry-pi-llms-dont-have-to-be-terrible/",
+   "source": "XDA Developers",
+   "category": "ai",
+   "published": "2026-08-02T18:00:10+00:00"
+  },
+  {
+   "title": "China\u2019s DFSX Offers 2x The Memory Bandwidth Of NVIDIA\u2019s GB200 NVL72 System With a 14nm SuperNode That Skips Microbumps for Vertical Compute-Memory Towers",
+   "url": "https://wccftech.com/chinas-dfsx-offers-2x-the-memory-bandwidth-of-nvidias-gb200-nvl72-system-with-a-14nm-supernode-that-skips-microbumps-for-vertical-compute-memory-towers/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-08-02T17:34:41+00:00"
+  },
+  {
+   "title": "Show HN: Rextio \u2013 Compile Python code natively using Rust with CPython fallbacks",
+   "url": "https://github.com/rextio/rextio",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-08-02T15:58:02+00:00"
+  },
+  {
+   "title": "I'm running AI on my NAS at 5 tokens per second, and it's surprisingly useful",
+   "url": "https://www.xda-developers.com/running-ai-on-nas-5-tokens-per-second/",
+   "source": "XDA Developers",
+   "category": "ai",
+   "published": "2026-08-02T11:42:05+00:00"
+  },
+  {
+   "title": "Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects",
+   "url": "https://cryptobriefing.com/nvidia-ai-gpu-demand-outpaces-supply-12-to-1-boosting-revenue-prospects/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-02T09:11:28+00:00"
+  },
+  {
+   "title": "Indian companies need to shift to preventive, AI-enabled workplace healthcare: CII-MediBuddy Report",
+   "url": "https://www.aninews.in/news/business/indian-companies-need-to-shift-to-preventive-ai-enabled-workplace-healthcare-cii-medibuddy-report20260802132032",
+   "source": "ANI News",
+   "category": "health",
+   "published": "2026-08-02T08:33:19+00:00"
+  },
+  {
+   "title": "China has potential to lead global humanoid robotics: Founder of EngineAI",
+   "url": "https://www.prnewswire.com/news-releases/china-has-potential-to-lead-global-humanoid-robotics-founder-of-engineai-302840623.html",
+   "source": "PRNewswire",
    "category": "robotics",
-   "published": "2026-08-02T11:58:42+00:00"
+   "published": "2026-08-02T07:38:00+00:00"
+  },
+  {
+   "title": "Military Humanoid Robots Are Closer to Reality, California Company Says",
+   "url": "https://military.com/military-humanoid-robots-are-closer-to-reality-california-company-says",
+   "source": "Military.com",
+   "category": "robotics",
+   "published": "2026-08-02T07:01:13+00:00"
+  },
+  {
+   "title": "First impressions count as Chinese buyers open their homes to UBTech\u2019s consumer humanoids",
+   "url": "https://biztoc.com/x/e3384cc44c191738",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-02T06:03:59+00:00"
+  },
+  {
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics",
+   "source": "OpenAI",
+   "category": "breakthroughs",
+   "published": "2026-08-01T00:00:00+00:00"
+  },
+  {
+   "title": "Building abundant intelligence",
+   "url": "https://openai.com/index/building-abundant-intelligence",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-31T15:00:00+00:00"
+  },
+  {
+   "title": "Disrupting a Criminal Scam Operation",
+   "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-31T00:00:00+00:00"
+  },
+  {
+   "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+   "url": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-07-30T21:00:00+00:00"
   },
   {
    "title": "A Brain That Can Swap Bodies: Google DeepMind Aims To Be The 'Android' Of Robotics",
@@ -29,34 +120,6 @@
    "category": "robotics",
    "published": "2026-08-02T11:49:49+00:00",
    "breakthrough": true
-  },
-  {
-   "title": "Google DeepMind unveils Gemini Robotics 2, a universal AI brain that lets robots swap bodies",
-   "url": "https://cryptobriefing.com/google-deepmind-gemini-robotics-universal-brain/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-08-02T11:41:25+00:00"
-  },
-  {
-   "title": "Advancing responsible AI across Europe",
-   "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-31T15:00:00+00:00"
-  },
-  {
-   "title": "Univ\u00e9 builds an AI-ready workforce",
-   "url": "https://openai.com/index/unive",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-31T07:00:00+00:00"
-  },
-  {
-   "title": "Connecting research to policy on Capitol Hill",
-   "url": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-30T20:35:00+00:00"
   },
   {
    "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
