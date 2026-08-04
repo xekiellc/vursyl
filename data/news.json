@@ -1,19 +1,138 @@
 {
- "updated": "2026-08-04T02:54:26.043771+00:00",
+ "updated": "2026-08-04T08:45:31.302043+00:00",
  "items": [
   {
-   "title": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
-   "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
-   "source": "MIT News AI",
+   "title": "Orchard: An open framework for scalable agentic AI",
+   "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+   "source": "Microsoft Research",
    "category": "ai",
-   "published": "2026-08-03T19:50:00+00:00"
+   "published": "2026-08-03T16:00:00+00:00"
   },
   {
-   "title": "How we built a realtime system for responsive voice AI in six months",
-   "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-   "source": "OpenAI",
+   "title": "Research insight: Robotaxis, AI chips and shared platforms accelerate AIDV commercialization",
+   "url": "https://www.digitimes.com/news/a20260803PD216/chips-2026-digitimes-waic-vehicle.html",
+   "source": "Digitimes",
+   "category": "ai",
+   "published": "2026-08-03T08:44:04+00:00"
+  },
+  {
+   "title": "Alibaba unveils its most capable AI model, rivals Moonshot in trillion-parameter race",
+   "url": "https://cryptobriefing.com/alibaba-qwen-ai-model-rivals-moonshot/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-08-03T08:41:20+00:00"
+  },
+  {
+   "title": "To power AI, Khosla and a16z bet this startup can reinvent mining",
+   "url": "https://fortune.com/2026/08/03/power-ai-khosla-a16z-bet-startup-reinvent-mining-mariana-minerals/",
+   "source": "Fortune",
+   "category": "compute",
+   "published": "2026-08-03T08:37:35+00:00"
+  },
+  {
+   "title": "HUMAIN Makes Investment in MOZN and Partners to Co-Build Enterprise AI Solutions Locally and Globally",
+   "url": "https://www.prnewswire.com/news-releases/humain-makes-investment-in-mozn-and-partners-to-co-build-enterprise-ai-solutions-locally-and-globally-302841043.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-08-03T08:36:00+00:00"
+  },
+  {
+   "title": "IonQ closes $1.8bn SkyWater acquisition after US FTC clearance",
+   "url": "https://www.verdict.co.uk/ionq-closes-skywater-acquisition/",
+   "source": "Verdict",
+   "category": "quantum",
+   "published": "2026-08-03T08:28:42+00:00"
+  },
+  {
+   "title": "UK chip startup OLIX lands $312m to scale frontier inference",
+   "url": "https://www.verdict.co.uk/olix-lands-312m/",
+   "source": "Verdict",
+   "category": "compute",
+   "published": "2026-08-03T08:28:16+00:00"
+  },
+  {
+   "title": "Claude Code is revolutionizing digital archaeology. Enterprise better dig it",
+   "url": "https://www.theregister.com/columnists/2026/08/03/claude-code-is-revolutionizing-digital-archaeology-enterprise-better-dig-it/5281676",
+   "source": "Theregister.com",
+   "category": "ai",
+   "published": "2026-08-03T08:27:00+00:00"
+  },
+  {
+   "title": "Boost CEO Says Transaction Data Is B2B Payments\u2019 AI Superpower",
+   "url": "https://biztoc.com/x/d2f6440735d4cb19",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-08-03T08:26:21+00:00"
+  },
+  {
+   "title": "Presentation: Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Missing Layer",
+   "url": "https://www.infoq.com/presentations/agentic-compute/",
+   "source": "InfoQ.com",
+   "category": "ai",
+   "published": "2026-08-03T08:08:00+00:00"
+  },
+  {
+   "title": "Gradium CEO Says Voice AI Must Understand, Not Just Transcribe the Words",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/gradium-ceo-says-voice-ai-must-understand-not-just-transcribe-the-words/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-08-03T08:02:17+00:00"
+  },
+  {
+   "title": "Inversion Semiconductor targets ASML with particle-accelerator X-ray lithography",
+   "url": "https://www.digitimes.com/news/a20260803VL216/asml-euv-accelerator.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-03T07:48:52+00:00"
+  },
+  {
+   "title": "When AI agents start fixing financial systems, trust becomes the real currency",
+   "url": "https://economictimes.indiatimes.com/industry/services/education/when-ai-agents-start-fixing-financial-systems-trust-becomes-the-real-currency/articleshow/132823885.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-08-03T07:36:07+00:00"
+  },
+  {
+   "title": "Olares Brings Personal AI Cloud to IFA 2026 as EU AI Act Takes Effect",
+   "url": "https://www.prnewswire.com/news-releases/olares-brings-personal-ai-cloud-to-ifa-2026-as-eu-ai-act-takes-effect-302840050.html",
+   "source": "PRNewswire",
    "category": "ai",
    "published": "2026-08-03T07:00:00+00:00"
+  },
+  {
+   "title": "Google Ships the First AI Model Suite That Controls a Full Humanoid From Feet to Fingertips",
+   "url": "https://forkast.news/google-ships-the-first-ai-model-suite-that-controls-a-full-humanoid-from-feet-to-fingertips/",
+   "source": "Forkast.news",
+   "category": "robotics",
+   "published": "2026-08-03T06:43:55+00:00"
+  },
+  {
+   "title": "Show HN: MPEdb a drop in replacement for SQLite3 with concurrency support",
+   "url": "https://github.com/punnerud/mpedb",
+   "source": "Github.com",
+   "category": "compute",
+   "published": "2026-08-03T05:55:32+00:00"
+  },
+  {
+   "title": "4 Core Benefits of Predictive Maintenance after Vibration Analysis",
+   "url": "https://www.smartdatacollective.com/core-benefits-of-predictive-maintenance-after-vibration-analysis/",
+   "source": "Smartdatacollective.com",
+   "category": "compute",
+   "published": "2026-08-03T01:00:00+00:00"
+  },
+  {
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics",
+   "source": "OpenAI",
+   "category": "breakthroughs",
+   "published": "2026-08-01T00:00:00+00:00"
+  },
+  {
+   "title": "Building abundant intelligence",
+   "url": "https://openai.com/index/building-abundant-intelligence",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-31T15:00:00+00:00"
   },
   {
    "title": "India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push",
@@ -107,46 +226,11 @@
    "published": "2026-08-03T01:11:13+00:00"
   },
   {
-   "title": "Circles powers telco personalization with OpenAI technology",
-   "url": "https://openai.com/index/circles",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-03T00:00:00+00:00"
-  },
-  {
    "title": "China grabs six of top 10 humanoid robot spots, but US quality is higher: Report",
    "url": "https://biztoc.com/x/c6a838c55b99d362",
    "source": "Biztoc.com",
    "category": "robotics",
    "published": "2026-08-02T12:51:07+00:00"
-  },
-  {
-   "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
-   "url": "https://freerepublic.com/focus/f-chat/4390280/posts",
-   "source": "Freerepublic.com",
-   "category": "quantum",
-   "published": "2026-08-02T12:24:51+00:00"
-  },
-  {
-   "title": "Warehouse automation to humanoids: Addverb bets on India, CEO says physical AI race has begun",
-   "url": "https://www.thehindubusinessline.com/info-tech/warehouse-automation-to-humanoids-addverb-bets-on-india-ceo-says-physical-ai-race-has-begun/article71297560.ece",
-   "source": "BusinessLine",
-   "category": "robotics",
-   "published": "2026-08-02T11:58:42+00:00"
-  },
-  {
-   "title": "Google DeepMind unveils Gemini Robotics 2, a universal AI brain that lets robots swap bodies",
-   "url": "https://cryptobriefing.com/google-deepmind-gemini-robotics-universal-brain/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-08-02T11:41:25+00:00"
-  },
-  {
-   "title": "Advancing responsible AI across Europe",
-   "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-31T15:00:00+00:00"
   },
   {
    "title": "Univ\u00e9 builds an AI-ready workforce",
