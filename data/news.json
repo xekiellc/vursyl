@@ -1,12 +1,159 @@
 {
- "updated": "2026-08-03T19:44:02.797720+00:00",
+ "updated": "2026-08-04T02:54:26.043771+00:00",
  "items": [
   {
-   "title": "Orchard: An open framework for scalable agentic AI",
-   "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
-   "source": "Microsoft Research",
+   "title": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
+   "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+   "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-08-03T16:00:00+00:00"
+   "published": "2026-08-03T19:50:00+00:00"
+  },
+  {
+   "title": "How we built a realtime system for responsive voice AI in six months",
+   "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-03T07:00:00+00:00"
+  },
+  {
+   "title": "India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push",
+   "url": "https://www.digitimes.com/news/a20260803VL207/packaging-osat-manufacturing-plant-investment.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-03T02:49:27+00:00"
+  },
+  {
+   "title": "Alibaba releases flagship AI model with 2.4 trillion parameters, rivaling Anthropic\u2019s Fable",
+   "url": "https://cryptobriefing.com/alibaba-qwen-ai-model-rivals-anthropic-fable/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-08-03T02:44:37+00:00"
+  },
+  {
+   "title": "Alibaba unveils Qwen3.8-Max AI model, rivaling top global competitors",
+   "url": "https://cryptobriefing.com/alibaba-unveils-qwen38-max-ai-model-rivaling-top-global-competitors/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-08-03T02:42:37+00:00"
+  },
+  {
+   "title": "Intel EMIB yields hit target, MediaTek eyes 2028 ASIC ramp",
+   "url": "https://www.digitimes.com/news/a20260803PD210/mediatek-asic-2028-intel-production.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-03T02:38:20+00:00"
+  },
+  {
+   "title": "India expands chip talent pipeline amid surging global chip demand",
+   "url": "https://www.digitimes.com/news/a20260803PR201/government-workforce-training-semicon-design.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-03T02:32:04+00:00"
+  },
+  {
+   "title": "Alibaba\u2019s Qwen unveils 2.4 trillion parameter AI model, open weights coming next week",
+   "url": "https://cryptobriefing.com/qwen-38-max-open-weights-release/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-08-03T02:29:55+00:00"
+  },
+  {
+   "title": "IBM and Sarvam team up on India's sovereign AI push",
+   "url": "https://www.digitimes.com/news/a20260803PR200/ibm-governance-worldwide-security-language.html",
+   "source": "Digitimes",
+   "category": "ai",
+   "published": "2026-08-03T02:26:46+00:00"
+  },
+  {
+   "title": "Pat Gelsinger joins xLight in bid to bring TSMC into US-made lithography project",
+   "url": "https://www.digitimes.com/news/a20260803PD209/pat-gelsinger-euv-equipment-policy-intel-tsmc.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-03T02:19:22+00:00"
+  },
+  {
+   "title": "Starting gun for Central Asia data center race triggered",
+   "url": "https://biztoc.com/x/ded158ec93f54be8",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-08-03T02:09:06+00:00"
+  },
+  {
+   "title": "Show HN: OpenTalking \u2013 Privately deployable real-time AI avatar",
+   "url": "https://github.com/datascale-ai/opentalking",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-08-03T01:50:44+00:00"
+  },
+  {
+   "title": "\u30a8\u30af\u30b5\u30dd\u30ea\u30b7\u30fc\u3001\u500b\u4eba\u30fb\u5c02\u9580\u8077\u5411\u3051 AI \u30ac\u30d0\u30ca\u30f3\u30b9\u30a2\u30d7\u30ea\u300cCovenant Personal Edition\u300d\u3092 Microsoft Store \u3067\u63d0\u4f9b\u958b\u59cb - \u6a5f\u5bc6\u306f\u624b\u5143\u3067\u3001\u307b\u304b\u306f\u30af\u30e9\u30a6\u30c9\u3078",
+   "url": "https://prtimes.jp/main/html/rd/p/000000001.000187868.html",
+   "source": "Prtimes.jp",
+   "category": "ai",
+   "published": "2026-08-03T01:41:44+00:00"
+  },
+  {
+   "title": "ADAS Market to Grow from USD 23.57 billion in 2026 to USD 58.84 billion by 2033, at a CAGR of 14.0% \u2014 MarketsandMarkets\u2122",
+   "url": "https://www.globenewswire.com/news-release/2026/08/03/3337197/0/en/ADAS-Market-to-Grow-from-USD-23-57-billion-in-2026-to-USD-58-84-billion-by-2033-at-a-CAGR-of-14-0-MarketsandMarkets.html",
+   "source": "GlobeNewswire",
+   "category": "robotics",
+   "published": "2026-08-03T01:32:00+00:00"
+  },
+  {
+   "title": "Doosan's SK Siltron acquisition reshapes semiconductor supply chain, accelerates AI-focused portfolio shift",
+   "url": "https://www.digitimes.com/news/a20260803VL201/doosan-sk-siltron-acquisition-wafer-materials.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-03T01:11:13+00:00"
+  },
+  {
+   "title": "Circles powers telco personalization with OpenAI technology",
+   "url": "https://openai.com/index/circles",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-03T00:00:00+00:00"
+  },
+  {
+   "title": "China grabs six of top 10 humanoid robot spots, but US quality is higher: Report",
+   "url": "https://biztoc.com/x/c6a838c55b99d362",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-02T12:51:07+00:00"
+  },
+  {
+   "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
+   "url": "https://freerepublic.com/focus/f-chat/4390280/posts",
+   "source": "Freerepublic.com",
+   "category": "quantum",
+   "published": "2026-08-02T12:24:51+00:00"
+  },
+  {
+   "title": "Warehouse automation to humanoids: Addverb bets on India, CEO says physical AI race has begun",
+   "url": "https://www.thehindubusinessline.com/info-tech/warehouse-automation-to-humanoids-addverb-bets-on-india-ceo-says-physical-ai-race-has-begun/article71297560.ece",
+   "source": "BusinessLine",
+   "category": "robotics",
+   "published": "2026-08-02T11:58:42+00:00"
+  },
+  {
+   "title": "Google DeepMind unveils Gemini Robotics 2, a universal AI brain that lets robots swap bodies",
+   "url": "https://cryptobriefing.com/google-deepmind-gemini-robotics-universal-brain/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-08-02T11:41:25+00:00"
+  },
+  {
+   "title": "Advancing responsible AI across Europe",
+   "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-31T15:00:00+00:00"
+  },
+  {
+   "title": "Univ\u00e9 builds an AI-ready workforce",
+   "url": "https://openai.com/index/unive",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-07-31T07:00:00+00:00"
   },
   {
    "title": "Palantir debuts 'war' data center in a container, full of Nvidia's B300 AI accelerators and open-weight models",
@@ -37,20 +184,6 @@
    "published": "2026-08-02T17:34:41+00:00"
   },
   {
-   "title": "Show HN: Rextio \u2013 Compile Python code natively using Rust with CPython fallbacks",
-   "url": "https://github.com/rextio/rextio",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-08-02T15:58:02+00:00"
-  },
-  {
-   "title": "I'm running AI on my NAS at 5 tokens per second, and it's surprisingly useful",
-   "url": "https://www.xda-developers.com/running-ai-on-nas-5-tokens-per-second/",
-   "source": "XDA Developers",
-   "category": "ai",
-   "published": "2026-08-02T11:42:05+00:00"
-  },
-  {
    "title": "Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects",
    "url": "https://cryptobriefing.com/nvidia-ai-gpu-demand-outpaces-supply-12-to-1-boosting-revenue-prospects/",
    "source": "Crypto Briefing",
@@ -65,41 +198,6 @@
    "published": "2026-08-02T08:33:19+00:00"
   },
   {
-   "title": "China has potential to lead global humanoid robotics: Founder of EngineAI",
-   "url": "https://www.prnewswire.com/news-releases/china-has-potential-to-lead-global-humanoid-robotics-founder-of-engineai-302840623.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-08-02T07:38:00+00:00"
-  },
-  {
-   "title": "Military Humanoid Robots Are Closer to Reality, California Company Says",
-   "url": "https://military.com/military-humanoid-robots-are-closer-to-reality-california-company-says",
-   "source": "Military.com",
-   "category": "robotics",
-   "published": "2026-08-02T07:01:13+00:00"
-  },
-  {
-   "title": "First impressions count as Chinese buyers open their homes to UBTech\u2019s consumer humanoids",
-   "url": "https://biztoc.com/x/e3384cc44c191738",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-08-02T06:03:59+00:00"
-  },
-  {
-   "title": "Ten advances in mathematics and theoretical computer science",
-   "url": "https://openai.com/index/ten-advances-in-mathematics",
-   "source": "OpenAI",
-   "category": "breakthroughs",
-   "published": "2026-08-01T00:00:00+00:00"
-  },
-  {
-   "title": "Building abundant intelligence",
-   "url": "https://openai.com/index/building-abundant-intelligence",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-31T15:00:00+00:00"
-  },
-  {
    "title": "Disrupting a Criminal Scam Operation",
    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
    "source": "OpenAI",
@@ -112,14 +210,6 @@
    "source": "MIT News AI",
    "category": "ai",
    "published": "2026-07-30T21:00:00+00:00"
-  },
-  {
-   "title": "A Brain That Can Swap Bodies: Google DeepMind Aims To Be The 'Android' Of Robotics",
-   "url": "https://biztoc.com/x/d6a72b396273754a",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-08-02T11:49:49+00:00",
-   "breakthrough": true
   },
   {
    "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
