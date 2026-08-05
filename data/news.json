@@ -1,47 +1,152 @@
 {
- "updated": "2026-08-04T19:43:01.820900+00:00",
+ "updated": "2026-08-05T02:51:16.488955+00:00",
  "items": [
   {
-   "title": "Solving the solvent problem",
-   "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
+   "title": "The benefits of medical AI assistance vary based on user expertise",
+   "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
    "source": "MIT News AI",
    "category": "health",
-   "published": "2026-08-04T18:50:00+00:00"
+   "published": "2026-08-04T09:00:00+00:00"
   },
   {
-   "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
-   "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-04T16:00:56+00:00"
-  },
-  {
-   "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-   "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-08-04T15:00:49+00:00"
-  },
-  {
-   "title": "As AI Increases Demands on Memory, Storage Steps Up",
-   "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-04T15:00:47+00:00"
-  },
-  {
-   "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-   "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-   "source": "NVIDIA",
+   "title": "Palantir lifts annual revenue forecast on steady demand for AI-powered data analytics",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/palantir-lifts-annual-revenue-forecast-on-steady-demand-for-ai-powered-data-analytics/articleshow/132844747.cms",
+   "source": "The Times of India",
    "category": "ai",
-   "published": "2026-08-04T13:00:47+00:00"
+   "published": "2026-08-04T02:47:47+00:00"
   },
   {
-   "title": "New ways to learn and teach with ChatGPT Work and Codex",
-   "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+   "title": "Visa to buy Israeli fraud prevention leader BioCatch for $24 billion",
+   "url": "https://www.israelnationalnews.com/news/431194",
+   "source": "Israelnationalnews.com",
+   "category": "ai",
+   "published": "2026-08-04T02:45:31+00:00"
+  },
+  {
+   "title": "ArtArch Merges All Products into Unified Platform, Elevates Positioning to \"AI-Native Creative OS\"",
+   "url": "https://www.globenewswire.com/news-release/2026/08/04/3337998/0/en/ArtArch-Merges-All-Products-into-Unified-Platform-Elevates-Positioning-to-AI-Native-Creative-OS.html",
+   "source": "GlobeNewswire",
+   "category": "ai",
+   "published": "2026-08-04T02:42:00+00:00"
+  },
+  {
+   "title": "Rafay Systems targets the operating layer of the AI infrastructure boom",
+   "url": "https://siliconangle.com/2026/08/03/rafay-ai-infrastructure-operating-layer-cubeconversations/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-08-04T02:12:17+00:00"
+  },
+  {
+   "title": "Interview: Topco Scientific expands to Fukuoka signaling chip regionalization",
+   "url": "https://www.digitimes.com/news/a20260804PD216/topco-demand-kumamoto-plant-materials.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-04T02:07:32+00:00"
+  },
+  {
+   "title": "Gene Solutions Advances Precision Oncology Education in Malaysia with the ''Beyond Actionable'' Academy",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/gene-solutions-advances-precision-oncology-education-in-malaysia-with-the-beyond-actionable-academy/article71303765.ece",
+   "source": "BusinessLine",
+   "category": "health",
+   "published": "2026-08-04T02:00:44+00:00"
+  },
+  {
+   "title": "(PR) Sandisk and SK hynix Advance Global Standardization of High Bandwidth Flash with Release of First OCP Technical Specification",
+   "url": "https://www.techpowerup.com/351335/sandisk-and-sk-hynix-advance-global-standardization-of-high-bandwidth-flash-with-release-of-first-ocp-technical-specification",
+   "source": "Techpowerup.com",
+   "category": "compute",
+   "published": "2026-08-04T01:46:07+00:00"
+  },
+  {
+   "title": "Onsemi expects AI data-center revenue to more than double in 2026 as cyclical recovery takes hold",
+   "url": "https://www.digitimes.com/news/a20260804VL200/onsemi-recovery-revenue-2026-demand.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-04T01:37:07+00:00"
+  },
+  {
+   "title": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at 'FMS 2026'",
+   "url": "https://www.prnewswire.com/news-releases/sk-hynix-unveils-first-hbf-standard-specifications-with-sandisk-presenting-ai-memory-solutions-at-fms-2026-302841792.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-08-04T00:55:00+00:00"
+  },
+  {
+   "title": "The new money backing India's deeptech startups",
+   "url": "https://www.livemint.com/companies/start-ups/india-family-offices-deeptech-startup-funding-11785723703684.html",
+   "source": "Livemint",
+   "category": "ai",
+   "published": "2026-08-04T00:31:06+00:00"
+  },
+  {
+   "title": "A reproducible three-dimensional model of human brain tissue to investigate physiological and disease-associated microglia phenotypes",
+   "url": "https://www.nature.com/articles/s41593-026-02367-0",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-08-04T00:00:00+00:00"
+  },
+  {
+   "title": "Elastic 9.5: Columnar, VectorDB index mode & auto-calibration, and AI-driven alert triage",
+   "url": "https://www.elastic.co/blog/whats-new-elastic-9-5-0",
+   "source": "Elastic.co",
+   "category": "compute",
+   "published": "2026-08-04T00:00:00+00:00"
+  },
+  {
+   "title": "Design and evaluation of a tendon-and-linkage hybrid-driven humanoid dexterous hand",
+   "url": "https://www.nature.com/articles/s41598-026-63917-x.pdf",
+   "source": "Nature.com",
+   "category": "robotics",
+   "published": "2026-08-04T00:00:00+00:00"
+  },
+  {
+   "title": "Unitree sees 1H26 revenue rise over 35% on humanoid robot demand",
+   "url": "https://www.digitimes.com/news/a20260803PD232/robot-revenue-demand-2025-2026.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-08-03T23:53:53+00:00"
+  },
+  {
+   "title": "Transform Care Delivery with Oracle Health Clinical AI Agent",
+   "url": "https://go.oracle.com/LP=153974?src1=%3Aso%3Ach%3Aor%3Adg%3A%3A%3A%3A&SC=%3Aso%3Ach%3Aor%3Adg%3A%3A%3A%3A&pcode=CORP260701P00008",
+   "source": "Oracle.com",
+   "category": "health",
+   "published": "2026-08-03T22:14:52+00:00"
+  },
+  {
+   "title": "CapsoVision\u00ae Announces International Launch of AI Highlights",
+   "url": "https://www.globenewswire.com/news-release/2026/08/03/3337921/0/en/CapsoVision-Announces-International-Launch-of-AI-Highlights.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-08-03T20:30:00+00:00"
+  },
+  {
+   "title": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
+   "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-08-03T19:50:00+00:00"
+  },
+  {
+   "title": "IBM Targets a 200-Logical-Qubit Processor for 2029 Launch",
+   "url": "https://www.geeky-gadgets.com/quantum-computing-2026-update/",
+   "source": "Geeky Gadgets",
+   "category": "quantum",
+   "published": "2026-08-03T11:43:00+00:00"
+  },
+  {
+   "title": "How we built a realtime system for responsive voice AI in six months",
+   "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-08-04T00:00:00+00:00"
+   "published": "2026-08-03T07:00:00+00:00"
+  },
+  {
+   "title": "Circles powers telco personalization with OpenAI technology",
+   "url": "https://openai.com/index/circles",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-03T00:00:00+00:00"
   },
   {
    "title": "Per-chip VRAM temperature monitoring arrives on AMD Navi GPUs with new HWiNFO64 pre-release version",
@@ -93,13 +198,6 @@
    "published": "2026-08-03T18:39:00+00:00"
   },
   {
-   "title": "IBM Quantum Advantage: 70 Logical Qubits, 74-Qubit Floquet Dynamics, and a Trust Framework",
-   "url": "https://www.storagereview.com/news/ibm-quantum-advantage-70-logical-qubits-74-qubit-floquet-dynamics-and-a-trust-framework",
-   "source": "Storagereview.com",
-   "category": "quantum",
-   "published": "2026-08-03T18:10:33+00:00"
-  },
-  {
    "title": "CU Anschutz-Led Trial Finds AI System Improves Oxygen Delivery in Hospital Patients",
    "url": "https://www.prnewswire.com/news-releases/cu-anschutz-led-trial-finds-ai-system-improves-oxygen-delivery-in-hospital-patients-302841428.html",
    "source": "PRNewswire",
@@ -142,24 +240,10 @@
    "published": "2026-08-03T16:19:05+00:00"
   },
   {
-   "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
-   "url": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
-   "source": "Ieee.org",
-   "category": "robotics",
-   "published": "2026-08-03T16:05:39+00:00"
-  },
-  {
    "title": "Human Longevity Makes Clinical-Grade Whole Genome Sequencing Available to All for $599",
    "url": "https://www.prnewswire.com/news-releases/human-longevity-makes-clinical-grade-whole-genome-sequencing-available-to-all-for-599-302840464.html",
    "source": "PRNewswire",
    "category": "health",
-   "published": "2026-08-03T16:00:00+00:00"
-  },
-  {
-   "title": "Orchard: An open framework for scalable agentic AI",
-   "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
-   "source": "Microsoft Research",
-   "category": "ai",
    "published": "2026-08-03T16:00:00+00:00"
   },
   {
@@ -182,13 +266,6 @@
    "source": "Dailymail.com",
    "category": "robotics",
    "published": "2026-08-03T12:04:57+00:00"
-  },
-  {
-   "title": "IonQ closes $1.8bn SkyWater acquisition after US FTC clearance",
-   "url": "https://www.verdict.co.uk/ionq-closes-skywater-acquisition/",
-   "source": "Verdict",
-   "category": "quantum",
-   "published": "2026-08-03T08:28:42+00:00"
   },
   {
    "title": "Google Ships the First AI Model Suite That Controls a Full Humanoid From Feet to Fingertips",
