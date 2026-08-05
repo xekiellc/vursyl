@@ -1,13 +1,61 @@
 {
- "updated": "2026-08-05T08:43:09.479156+00:00",
+ "updated": "2026-08-05T14:20:22.529652+00:00",
  "items": [
   {
-   "title": "Why AI Agents Need More Than One Model",
-   "url": "https://www.youtube.com/watch?v=Np0afRWtdp8",
+   "title": "Building the First Data Centers in Space",
+   "url": "https://www.youtube.com/watch?v=A9JDkiYEhfY",
+   "source": "Y Combinator",
+   "thumbnail": "https://i.ytimg.com/vi/A9JDkiYEhfY/mqdefault.jpg",
+   "category": "compute",
+   "published": "2026-08-05T14:00:08+00:00"
+  },
+  {
+   "title": "The Nuclear Renaissance - Radiant |\u00a0 a16z American Dynamism",
+   "url": "https://www.youtube.com/watch?v=-9Vh7tsgM7Y",
+   "source": "a16z",
+   "thumbnail": "https://i.ytimg.com/vi/-9Vh7tsgM7Y/mqdefault.jpg",
+   "category": "compute",
+   "published": "2026-08-05T11:00:13+00:00"
+  },
+  {
+   "title": "How Agentic AI is Powering Autonomous Networks",
+   "url": "https://www.youtube.com/watch?v=gdL8cZsrZE4",
    "source": "NVIDIA",
-   "thumbnail": "https://i.ytimg.com/vi/Np0afRWtdp8/mqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/gdL8cZsrZE4/mqdefault.jpg",
    "category": "ai",
-   "published": "2026-08-04T19:00:10+00:00"
+   "published": "2026-08-04T23:36:44+00:00"
+  },
+  {
+   "title": "The Real Advantage AI Has Over Human Geniuses - Grant Sanderson",
+   "url": "https://www.youtube.com/watch?v=KjMKzIOhw4Q",
+   "source": "Dwarkesh Patel",
+   "thumbnail": "https://i.ytimg.com/vi/KjMKzIOhw4Q/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-08-04T22:08:20+00:00"
+  },
+  {
+   "title": "How AI Helps Solve Medical Mysteries at Boston Children\u2019s Hospital | OpenAI Forum",
+   "url": "https://www.youtube.com/watch?v=SJJBPwlPpww",
+   "source": "OpenAI",
+   "thumbnail": "https://i.ytimg.com/vi/SJJBPwlPpww/mqdefault.jpg",
+   "category": "health",
+   "published": "2026-08-04T20:29:24+00:00"
+  },
+  {
+   "title": "Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work",
+   "url": "https://www.youtube.com/watch?v=Gp4zrV3-6N8",
+   "source": "Y Combinator",
+   "thumbnail": "https://i.ytimg.com/vi/Gp4zrV3-6N8/mqdefault.jpg",
+   "category": "robotics",
+   "published": "2026-08-03T22:42:52+00:00"
+  },
+  {
+   "title": "Real-Time Neurological Insights: Scaling NeuroDX AI with NVIDIA Inception",
+   "url": "https://www.youtube.com/watch?v=3sDEcfO2cQU",
+   "source": "NVIDIA",
+   "thumbnail": "https://i.ytimg.com/vi/3sDEcfO2cQU/mqdefault.jpg",
+   "category": "health",
+   "published": "2026-08-03T22:01:49+00:00"
   },
   {
    "title": "Meet Birding Pal",
@@ -18,52 +66,12 @@
    "published": "2026-08-04T17:43:45+00:00"
   },
   {
-   "title": "How the White House Plans to 10x Scientific Productivity | Michael Kratsios | EP #276",
-   "url": "https://www.youtube.com/watch?v=iHv-vNM_XtU",
-   "source": "Peter H. Diamandis",
-   "thumbnail": "https://i.ytimg.com/vi/iHv-vNM_XtU/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-08-04T17:28:44+00:00"
-  },
-  {
-   "title": "NVIDIA Alpamayo 2 Super: The Frontier Open Model for Robotaxis and Autonomous Vehicle",
-   "url": "https://www.youtube.com/watch?v=xySgVPLYnsc",
-   "source": "NVIDIA",
-   "thumbnail": "https://i.ytimg.com/vi/xySgVPLYnsc/mqdefault.jpg",
-   "category": "robotics",
-   "published": "2026-08-04T14:50:26+00:00"
-  },
-  {
-   "title": "An Ocular Implant From the Borg",
-   "url": "https://www.youtube.com/watch?v=9w6spKLbU64",
-   "source": "Peter H. Diamandis",
-   "thumbnail": "https://i.ytimg.com/vi/9w6spKLbU64/mqdefault.jpg",
-   "category": "health",
-   "published": "2026-08-04T14:07:33+00:00"
-  },
-  {
    "title": "Quantum Mechanics forComputation | Kevin Sung | QGSS26",
    "url": "https://www.youtube.com/watch?v=-reX5fajpvg",
    "source": "Qiskit",
    "thumbnail": "https://i.ytimg.com/vi/-reX5fajpvg/mqdefault.jpg",
    "category": "quantum",
    "published": "2026-08-04T13:00:14+00:00"
-  },
-  {
-   "title": "$54,000 to $10 Per Kilogram",
-   "url": "https://www.youtube.com/watch?v=W4MHla-jh90",
-   "source": "Peter H. Diamandis",
-   "thumbnail": "https://i.ytimg.com/vi/W4MHla-jh90/mqdefault.jpg",
-   "category": "compute",
-   "published": "2026-08-03T23:03:09+00:00"
-  },
-  {
-   "title": "How I Built a Machine That Feeds Millions | Felix Brooks-church | TED",
-   "url": "https://www.youtube.com/watch?v=-Z-Miko0nrQ",
-   "source": "TED",
-   "thumbnail": "https://i.ytimg.com/vi/-Z-Miko0nrQ/mqdefault.jpg",
-   "category": "robotics",
-   "published": "2026-08-03T15:00:11+00:00"
   },
   {
    "title": "Why Quantum? WhatProblem Are We Solving? | Roland de Putter | QGSS26",
@@ -80,38 +88,6 @@
    "thumbnail": "https://i.ytimg.com/vi/bm1BjOjS7sQ/mqdefault.jpg",
    "category": "ai",
    "published": "2026-08-03T09:47:34+00:00"
-  },
-  {
-   "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-   "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-   "source": "Two Minute Papers",
-   "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-08-02T15:01:10+00:00"
-  },
-  {
-   "title": "The Problem With How LLMs Generate Text - Grant Sanderson",
-   "url": "https://www.youtube.com/watch?v=2j2KbctXMz8",
-   "source": "Dwarkesh Patel",
-   "thumbnail": "https://i.ytimg.com/vi/2j2KbctXMz8/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-08-01T23:12:23+00:00"
-  },
-  {
-   "title": "This is Gemini Robotics 2 \ud83e\udd16",
-   "url": "https://www.youtube.com/watch?v=OEmEfobzodE",
-   "source": "Google DeepMind",
-   "thumbnail": "https://i.ytimg.com/vi/OEmEfobzodE/mqdefault.jpg",
-   "category": "robotics",
-   "published": "2026-07-31T16:10:59+00:00"
-  },
-  {
-   "title": "Decagon\u2019s Playbook for Building Enterprise AI Applications",
-   "url": "https://www.youtube.com/watch?v=cO1f2wOxSH4",
-   "source": "a16z",
-   "thumbnail": "https://i.ytimg.com/vi/cO1f2wOxSH4/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-07-31T14:30:14+00:00"
   },
   {
    "title": "Meet Alpamayo 2 Super",
