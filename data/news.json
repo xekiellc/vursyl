@@ -1,6 +1,322 @@
 {
- "updated": "2026-08-05T19:42:16.173242+00:00",
+ "updated": "2026-08-06T02:54:22.997787+00:00",
  "items": [
+  {
+   "title": "NVIDIA and Partners Build in America, for America",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-05T13:00:47+00:00"
+  },
+  {
+   "title": "nvhive 0.40.0",
+   "url": "https://pypi.org/project/nvhive/0.40.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-05T02:50:11+00:00"
+  },
+  {
+   "title": "trikedb 0.11.1",
+   "url": "https://pypi.org/project/trikedb/0.11.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-05T02:45:09+00:00"
+  },
+  {
+   "title": "andnp-searchkernel 0.18.0",
+   "url": "https://pypi.org/project/andnp-searchkernel/0.18.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-05T02:44:40+00:00"
+  },
+  {
+   "title": "Analysis: AMD and Nvidia take opposite paths to capture next wave of AI infrastructure spending",
+   "url": "https://www.digitimes.com/news/a20260805VL210/amd-nvidia-ai-infrastructure-earnings-revenue.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-05T02:42:13+00:00"
+  },
+  {
+   "title": "jax-solitons 0.1.0",
+   "url": "https://pypi.org/project/jax-solitons/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-05T02:40:23+00:00"
+  },
+  {
+   "title": "project-llm-trainer 0.22.0",
+   "url": "https://pypi.org/project/project-llm-trainer/0.22.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-05T02:35:28+00:00"
+  },
+  {
+   "title": "Vanguard International Semiconductor lifts 2Q26 profit on AI server chip demand",
+   "url": "https://www.digitimes.com/news/a20260805PD206/vis-ai-server-demand-profit-2026.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-05T02:27:46+00:00"
+  },
+  {
+   "title": "andnp-searchkernel 0.17.0",
+   "url": "https://pypi.org/project/andnp-searchkernel/0.17.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-05T02:23:53+00:00"
+  },
+  {
+   "title": "trikedb 0.11.0",
+   "url": "https://pypi.org/project/trikedb/0.11.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-05T02:22:19+00:00"
+  },
+  {
+   "title": "PSMC open to US, Singapore, Malaysia joint ventures as Intel packaging partnership enters mass production",
+   "url": "https://www.digitimes.com/news/a20260804PD244/psmc-taiwan-intel-production-packaging.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-05T02:22:09+00:00"
+  },
+  {
+   "title": "andnp-searchkernel 0.16.0",
+   "url": "https://pypi.org/project/andnp-searchkernel/0.16.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-05T02:20:08+00:00"
+  },
+  {
+   "title": "NVIDIA\u304c\u81ea\u52d5\u904b\u8ee2\u8eca\u7528\u306eAI\u300cAlpamayo 2 Super\u300d\u3092\u7121\u511f\u516c\u958b",
+   "url": "https://news.livedoor.com/article/detail/31990314/",
+   "source": "Livedoor.com",
+   "category": "robotics",
+   "published": "2026-08-05T02:15:00+00:00"
+  },
+  {
+   "title": "redteam-foundry 0.5.0",
+   "url": "https://pypi.org/project/redteam-foundry/0.5.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-05T02:03:00+00:00"
+  },
+  {
+   "title": "terradev-cli 5.7.10",
+   "url": "https://pypi.org/project/terradev-cli/5.7.10/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-05T01:59:18+00:00"
+  },
+  {
+   "title": "Pinterest\u2019s AI Push Pays Off in Record Users and Revenue",
+   "url": "https://biztoc.com/x/d480c7497be11730",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-08-05T01:57:11+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Nvidia bets on Sarvam AI; Sidbi eases fund rules for VCs",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/nvidia-bets-on-sarvam-ai-sidbi-eases-fund-rules-for-vcs/articleshow/132883992.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-08-05T01:52:44+00:00"
+  },
+  {
+   "title": "Appeals Court Overturns Ban on Perplexity AI Shopping Agents on Amazon",
+   "url": "https://www.pymnts.com/amazon/2026/appeals-court-overturns-ban-on-perplexity-ai-shopping-agents-on-amazon/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-08-05T01:43:29+00:00"
+  },
+  {
+   "title": "Liquid AI\u2019s 2.69B Model Cuts Cloud Dependency to Zero for Agentic Workloads",
+   "url": "https://forkast.news/liquid-ais-2-69b-model-cuts-cloud-dependency-to-zero-for-agentic-workloads/",
+   "source": "Forkast.news",
+   "category": "ai",
+   "published": "2026-08-05T01:37:16+00:00"
+  },
+  {
+   "title": "terradev-cli 5.7.9",
+   "url": "https://pypi.org/project/terradev-cli/5.7.9/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-05T00:57:23+00:00"
+  },
+  {
+   "title": "AMD executives say the chip company has a key advantage over Nvidia: being more open",
+   "url": "https://biztoc.com/x/655f18d793f9c251",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-08-05T00:56:47+00:00"
+  },
+  {
+   "title": "FNIP1 variants are associated with favourable metabolism in 1 million humans",
+   "url": "https://www.nature.com/articles/s41586-026-10864-2",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-08-05T00:00:00+00:00"
+  },
+  {
+   "title": "Encapsulation epitaxy of air-stable 2D superconductors for quantum circuits",
+   "url": "https://www.nature.com/articles/s41586-026-10865-1",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-08-05T00:00:00+00:00"
+  },
+  {
+   "title": "An entangling gate for dual-rail erasure qubits",
+   "url": "https://www.nature.com/articles/s41586-026-10822-y",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-08-05T00:00:00+00:00"
+  },
+  {
+   "title": "Conscientia Health Positions Itself as a National Hybrid Care Platform, Integrating AI to Scale Outcomes-Driven Mental Health and Primary Care",
+   "url": "https://www.prnewswire.com/news-releases/conscientia-health-positions-itself-as-a-national-hybrid-care-platform-integrating-ai-to-scale-outcomes-driven-mental-health-and-primary-care-302843087.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-04T23:30:00+00:00"
+  },
+  {
+   "title": "I Gave Claude Code 8 Hours of Health Clinic Transcripts. Here\u2019s What It Did Next.",
+   "url": "https://www.asianefficiency.com/technology/i-gave-claude-code-8-hours/",
+   "source": "Asianefficiency.com",
+   "category": "health",
+   "published": "2026-08-04T23:00:00+00:00"
+  },
+  {
+   "title": "Major Multi-Hospital System Selects 3CLogic to Modernize IT Service Operations with Voice AI for ServiceNow | Biz News Desk",
+   "url": "https://biznewsdesk.com/business/major-multi-hospital-system-selects-3clogic-to-modernize-it-service-operations-with-voice-ai-for-servicenow/",
+   "source": "Biznewsdesk.com",
+   "category": "health",
+   "published": "2026-08-04T21:44:37+00:00"
+  },
+  {
+   "title": "[Latest] Global AI in Medical Imaging Market Size/Share Worth USD 19.4 Billion by 2035 at a 20.9% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+   "url": "https://www.globenewswire.com/news-release/2026/08/04/3338933/0/en/Latest-Global-AI-in-Medical-Imaging-Market-Size-Share-Worth-USD-19-4-Billion-by-2035-at-a-20-9-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentati.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-08-04T21:30:00+00:00"
+  },
+  {
+   "title": "Nord Quantique Announces Participation in Canaccord Genuity\u2019s 46th Annual Growth Conference",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nord-quantique-announces-participation-in-canaccord-genuitys-46th-annual-growth-conference",
+   "source": "Financial Post",
+   "category": "quantum",
+   "published": "2026-08-04T20:16:20+00:00"
+  },
+  {
+   "title": "IQVIA and Medera to Advance Cardiac Gene Therapy and Human-Based Drug Discovery",
+   "url": "https://www.globenewswire.com/news-release/2026/08/04/3338835/0/en/IQVIA-and-Medera-to-Advance-Cardiac-Gene-Therapy-and-Human-Based-Drug-Discovery.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-08-04T20:15:00+00:00"
+  },
+  {
+   "title": "AMD Reports Second Quarter 2026 Financial Results",
+   "url": "https://www.globenewswire.com/news-release/2026/08/04/3338848/0/en/AMD-Reports-Second-Quarter-2026-Financial-Results.html",
+   "source": "GlobeNewswire",
+   "category": "compute",
+   "published": "2026-08-04T20:15:00+00:00"
+  },
+  {
+   "title": "Calvary Health Care previews digital assistant for 20,000 staff and volunteers",
+   "url": "https://www.itnews.com.au/news/calvary-health-care-previews-digital-assistant-for-20000-staff-and-volunteers-627923",
+   "source": "iTnews",
+   "category": "ai",
+   "published": "2026-08-04T20:12:00+00:00"
+  },
+  {
+   "title": "Qualys Announces Second Quarter 2026 Financial Results",
+   "url": "https://www.prnewswire.com/news-releases/qualys-announces-second-quarter-2026-financial-results-302841489.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-08-04T20:05:00+00:00"
+  },
+  {
+   "title": "qprotsim added to PyPI",
+   "url": "https://pypi.org/project/qprotsim/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-08-04T19:46:29+00:00"
+  },
+  {
+   "title": "Amid Powerful Positive Catalysts, Texas Instruments Stock Looks Appealing",
+   "url": "https://biztoc.com/x/e93238966fb62972",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-08-04T19:27:30+00:00"
+  },
+  {
+   "title": "Third-party cyber evaluations involving OpenAI models",
+   "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-04T19:00:00+00:00"
+  },
+  {
+   "title": "Heavy Rare Earth Metals Plant Boosts U.S. Supply Chain Independence",
+   "url": "https://www.forbes.com/sites/davidblackmon/2026/08/04/heavy-rare-earth-metals-plant-boosts-us-supply-chain-independence/",
+   "source": "Forbes",
+   "category": "compute",
+   "published": "2026-08-04T17:20:45+00:00"
+  },
+  {
+   "title": "IQM Quantum Computers Q2 Earnings Call Highlights",
+   "url": "https://www.marketbeat.com/instant-alerts/iqm-quantum-computers-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+   "source": "MarketBeat",
+   "category": "quantum",
+   "published": "2026-08-04T16:04:29+00:00"
+  },
+  {
+   "title": "Horizon Quantum Computing Pte. Q2 Earnings Call Highlights",
+   "url": "https://www.marketbeat.com/instant-alerts/horizon-quantum-computing-pte-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+   "source": "MarketBeat",
+   "category": "quantum",
+   "published": "2026-08-04T15:04:44+00:00"
+  },
+  {
+   "title": "reComputer Mini J501 Edge AI computer features NVIDIA Jetson AGX Orin 64GB/32GB module, two FAKRA camera connectors",
+   "url": "https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/",
+   "source": "CNX Software",
+   "category": "compute",
+   "published": "2026-08-04T13:59:49+00:00"
+  },
+  {
+   "title": "SEALSQ Appoints Daniel Brau as Chief Quantum Officer to Accelerate Commercialization of its SEALQuantum Sovereign Vertical Stack",
+   "url": "https://www.globenewswire.com/news-release/2026/08/04/3338305/0/en/SEALSQ-Appoints-Daniel-Brau-as-Chief-Quantum-Officer-to-Accelerate-Commercialization-of-its-SEALQuantum-Sovereign-Vertical-Stack.html",
+   "source": "GlobeNewswire",
+   "category": "quantum",
+   "published": "2026-08-04T12:30:00+00:00"
+  },
+  {
+   "title": "The benefits of medical AI assistance vary based on user expertise",
+   "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-08-04T09:00:00+00:00"
+  },
+  {
+   "title": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
+   "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-08-03T19:50:00+00:00"
+  },
+  {
+   "title": "How we built a realtime system for responsive voice AI in six months",
+   "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-03T07:00:00+00:00"
+  },
+  {
+   "title": "Circles powers telco personalization with OpenAI technology",
+   "url": "https://openai.com/index/circles",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-03T00:00:00+00:00"
+  },
   {
    "title": "Nvidia doesn\u2019t mess around: A week after open AI industry group formed, it\u2019s already showing progress",
    "url": "https://biztoc.com/x/cd0ec5fa0168eecf",
@@ -65,32 +381,11 @@
    "published": "2026-08-04T19:28:49+00:00"
   },
   {
-   "title": "Lunai Bioworks (Nasdaq: LNAI) Signs Definitive Collaboration Agreement with BrainStorm Therapeutics; Initial Parkinson's Disease Data Readout Targeted for First Half of 2027",
-   "url": "https://www.prnewswire.com/news-releases/lunai-bioworks-nasdaq-lnai-signs-definitive-collaboration-agreement-with-brainstorm-therapeutics-initial-parkinsons-disease-data-readout-targeted-for-first-half-of-2027-302842928.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-04T19:28:00+00:00"
-  },
-  {
    "title": "Google\u2019s August Pixel update is here and ready to squash some bugs",
    "url": "https://www.androidauthority.com/august-google-pixel-update-3694556/",
    "source": "Android Authority",
    "category": "ai",
    "published": "2026-08-04T19:23:36+00:00"
-  },
-  {
-   "title": "HPE brings quantum computing to real-world use cases with HPC and AI",
-   "url": "https://siliconangle.com/2026/08/04/quantum-hybrid-computing-hpeworldquantumday/",
-   "source": "SiliconANGLE News",
-   "category": "quantum",
-   "published": "2026-08-04T19:16:33+00:00"
-  },
-  {
-   "title": "OpenAI president Greg Brockman: We \u2018contort\u2019 ourselves around computers, clicking and typing is a \u2018phase\u2019",
-   "url": "https://fortune.com/2026/08/04/openai-president-greg-brockman-we-contort-ourselves-around-computers-clicking-and-typing-is-a-phase/",
-   "source": "Fortune",
-   "category": "ai",
-   "published": "2026-08-04T19:08:23+00:00"
   },
   {
    "title": "AI Data Center Boom Fuels Record $20.5 Billion Quarter for Caterpillar",
@@ -100,25 +395,11 @@
    "published": "2026-08-04T18:55:18+00:00"
   },
   {
-   "title": "Solving the solvent problem",
-   "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-08-04T18:50:00+00:00"
-  },
-  {
    "title": "SK Hynix And SanDisk Unleash High-Bandwidth Flash To Fix AI Bottlenecks",
    "url": "https://hothardware.com/news/sk-hynix-sandisk-high-bandwidth-flash",
    "source": "Hot Hardware",
    "category": "compute",
    "published": "2026-08-04T18:45:00+00:00"
-  },
-  {
-   "title": "The Leading 10 AI Drug Discovery & Development Platforms",
-   "url": "https://www.smartdatacollective.com/leading-ai-drug-discovery-development-platforms/",
-   "source": "Smartdatacollective.com",
-   "category": "health",
-   "published": "2026-08-04T18:29:03+00:00"
   },
   {
    "title": "$30 an Hour Buys a Robot Housekeeper in San Francisco",
@@ -142,13 +423,6 @@
    "published": "2026-08-04T16:10:39+00:00"
   },
   {
-   "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
-   "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-04T16:00:56+00:00"
-  },
-  {
    "title": "Elon Musk\u2019s Tesla earnings calls are now AI and robotics presentations with a side of cars",
    "url": "https://cryptobriefing.com/tesla-musk-ai-robotics-earnings-pivot/",
    "source": "Crypto Briefing",
@@ -156,68 +430,11 @@
    "published": "2026-08-04T15:31:26+00:00"
   },
   {
-   "title": "Researchers claim a major quantum computing breakthrough by proving the answer was correct",
-   "url": "https://www.techspot.com/news/113346-quantum-computing-breakthrough-tackles-one-field-biggest-problems.html",
-   "source": "TechSpot",
-   "category": "quantum",
-   "published": "2026-08-04T15:26:00+00:00"
-  },
-  {
    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls | TechCrunch",
    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
    "source": "TechCrunch",
    "category": "robotics",
    "published": "2026-08-04T15:22:39+00:00"
-  },
-  {
-   "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-   "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-08-04T15:00:49+00:00"
-  },
-  {
-   "title": "As AI Increases Demands on Memory, Storage Steps Up",
-   "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-04T15:00:47+00:00"
-  },
-  {
-   "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-   "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-04T13:00:47+00:00"
-  },
-  {
-   "title": "Quantum Computing: What IT and Business Leaders Need to Know",
-   "url": "https://blogs.cisco.com/?p=495639",
-   "source": "Cisco.com",
-   "category": "quantum",
-   "published": "2026-08-04T08:00:29+00:00"
-  },
-  {
-   "title": "IQM Quantum Computers Reports First Earnings as Public Company, Reporting First Half and Second Quarter 2026 Results, and Initiates FY 2026 Guidance Supported by Over EUR 102 million Order Backlog",
-   "url": "https://www.globenewswire.com/news-release/2026/08/04/3338027/0/en/IQM-Quantum-Computers-Reports-First-Earnings-as-Public-Company-Reporting-First-Half-and-Second-Quarter-2026-Results-and-Initiates-FY-2026-Guidance-Supported-by-Over-EUR-102-million.html",
-   "source": "GlobeNewswire",
-   "category": "quantum",
-   "published": "2026-08-04T05:37:00+00:00"
-  },
-  {
-   "title": "New ways to learn and teach with ChatGPT Work and Codex",
-   "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-04T00:00:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Orchard: An open framework for scalable agentic AI",
-   "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-08-03T16:00:00+00:00"
   },
   {
    "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
