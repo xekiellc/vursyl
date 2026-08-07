@@ -1,12 +1,279 @@
 {
- "updated": "2026-08-07T07:23:02.475380+00:00",
+ "updated": "2026-08-07T13:13:49.739370+00:00",
  "items": [
   {
-   "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-   "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+   "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+   "url": "https://openai.com/index/hsp-gruppe",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-07T09:00:00+00:00"
+  },
+  {
+   "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+   "source": "Google DeepMind",
+   "category": "breakthroughs",
+   "published": "2026-08-06T15:06:15+00:00"
+  },
+  {
+   "title": "Zayo Teams with NVIDIA to Scale Critical Network Capacity for AI Factories",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/zayo-teams-with-nvidia-to-scale-critical-network-capacity-for-ai-factories",
+   "source": "Financial Post",
+   "category": "compute",
+   "published": "2026-08-06T13:11:31+00:00"
+  },
+  {
+   "title": "European Commission calls for AI money-mobilisation machine worth \u20ac200 billion",
+   "url": "https://cryptobriefing.com/eu-commission-ai-funding-mobilisation/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-08-06T13:11:15+00:00"
+  },
+  {
+   "title": "Samsung debuts three next-generation memory technologies for AI data centers \u2014 zHBM, zNAND-O, and BV-NAND all rely on advanced wafer bonding technologies",
+   "url": "https://www.tomshardware.com/pc-components/dram/samsung-debuts-three-next-generation-memory-technologies-for-ai-data-centers-zhbm-znand-o-and-bv-nand-all-rely-on-advanced-wafer-bonding-technologies",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-08-06T13:11:09+00:00"
+  },
+  {
+   "title": "Mirendil inks $100M Google Cloud deal to scale AI infrastructure",
+   "url": "https://cryptobriefing.com/mirendil-google-cloud-ai-infrastructure-deal/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-06T13:09:07+00:00"
+  },
+  {
+   "title": "Photo and Video Editing in ChatGPT Just Got an Adobe-Size Update",
+   "url": "https://www.cnet.com/tech/services-and-software/adobe-for-chatgpt-updated-plugins-editing-news/",
+   "source": "CNET",
+   "category": "ai",
+   "published": "2026-08-06T13:06:08+00:00"
+  },
+  {
+   "title": "Justin Healthcare AI Introduces AI-Powered Consulting and Automation Solutions for Medical Practices",
+   "url": "https://www.globenewswire.com/news-release/2026/08/06/3340372/0/en/Justin-Healthcare-AI-Introduces-AI-Powered-Consulting-and-Automation-Solutions-for-Medical-Practices.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-08-06T13:05:00+00:00"
+  },
+  {
+   "title": "Vendavo Announces High-Tech Revenue Management & Advances AI Pricing, Rebate Innovations",
+   "url": "https://www.prnewswire.com/news-releases/vendavo-announces-high-tech-revenue-management--advances-ai-pricing-rebate-innovations-302844082.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-08-06T13:05:00+00:00"
+  },
+  {
+   "title": "Supermicro's Seventh Annual Open Storage Summit Brings Together 21 Ecosystem Partners to Share Practical Guidance on Deploying Enterprise AI at Scale",
+   "url": "https://www.prnewswire.com/news-releases/supermicros-seventh-annual-open-storage-summit-brings-together-21-ecosystem-partners-to-share-practical-guidance-on-deploying-enterprise-ai-at-scale-302844553.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-08-06T13:05:00+00:00"
+  },
+  {
+   "title": "European Union launches world\u2019s first comprehensive AI law, and crypto is very much in scope",
+   "url": "https://cryptobriefing.com/eu-ai-act-crypto-compliance-implications/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-08-06T13:04:17+00:00"
+  },
+  {
+   "title": "AMD Adds New GFX1171 GPU Support To Mesa 26.3, Hinting At Future RDNA 4m Graphics",
+   "url": "https://wccftech.com/amd-adds-new-gfx1171-gpu-support-to-mesa-26-3-hinting-at-future-rdna-4m-graphics/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-08-06T13:04:13+00:00"
+  },
+  {
+   "title": "Philips expands open patient monitoring ecosystem to help health systems keep sight of patients beyond the bedside",
+   "url": "https://financialpost.com/globe-newswire/philips-expands-open-patient-monitoring-ecosystem-to-help-health-systems-keep-sight-of-patients-beyond-the-bedside",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-08-06T13:02:18+00:00"
+  },
+  {
+   "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI | TechCrunch",
+   "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+   "source": "TechCrunch",
+   "category": "compute",
+   "published": "2026-08-06T13:02:18+00:00"
+  },
+  {
+   "title": "Vectra AI Achieves FedRAMP High Authorization Through Partnership with Knox Systems, Bringing AI-Native Security to Federal Agencies",
+   "url": "https://www.prnewswire.com/news-releases/vectra-ai-achieves-fedramp-high-authorization-through-partnership-with-knox-systems-bringing-ai-native-security-to-federal-agencies-302844517.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-08-06T13:01:00+00:00"
+  },
+  {
+   "title": "Envoy launches Response to provide threat intelligence and incident management for businesses",
+   "url": "https://siliconangle.com/2026/08/06/envoy-launches-response-provide-threat-intelligence-incident-management-businesses/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-08-06T13:00:57+00:00"
+  },
+  {
+   "title": "Inevitable AI Group raises $6M to derail SaaS incumbents with more agile, AI-native software startups",
+   "url": "https://siliconangle.com/2026/08/06/inevitable-ai-group-raises-6m-take-saas-incumbents-agile-ai-native-software-startups/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-08-06T13:00:51+00:00"
+  },
+  {
+   "title": "DXC partners with Primary on zero-trust security for enterprise AI",
+   "url": "https://siliconangle.com/2026/08/06/dxc-partners-primary-zero-trust-security-enterprise-ai/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-08-06T13:00:40+00:00"
+  },
+  {
+   "title": "Microsoft pours $21B into India\u2019s largest data center as cloud infrastructure race heats up",
+   "url": "https://cryptobriefing.com/microsoft-21b-india-data-center-azure/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-06T13:00:31+00:00"
+  },
+  {
+   "title": "Cloudflare AI Search: give your agents a search engine for your data",
+   "url": "https://blog.cloudflare.com/ai-search-easier/",
+   "source": "Cloudflare.com",
+   "category": "ai",
+   "published": "2026-08-06T13:00:00+00:00"
+  },
+  {
+   "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
+   "url": "https://blog.cloudflare.com/kitesurf/",
+   "source": "Cloudflare.com",
+   "category": "ai",
+   "published": "2026-08-06T13:00:00+00:00"
+  },
+  {
+   "title": "From ranking to recommended: get your site ready to thrive in the age of AI agents",
+   "url": "https://blog.cloudflare.com/aeo/",
+   "source": "Cloudflare.com",
+   "category": "ai",
+   "published": "2026-08-06T13:00:00+00:00"
+  },
+  {
+   "title": "VMware vDefend Advances Multi-Layer Lateral Security, Deployment Automation and Performance for the Frontier AI Era",
+   "url": "http://blogs.vmware.com/security/2026/08/vdefend-ssp-for-frontier-ai-era.html",
+   "source": "Vmware.com",
+   "category": "ai",
+   "published": "2026-08-06T12:57:51+00:00"
+  },
+  {
+   "title": "Pusan National University Introduces ASTRA-Net for Improved Lung Airway Mapping",
+   "url": "https://www.prnewswire.com/news-releases/pusan-national-university-introduces-astra-net-for-improved-lung-airway-mapping-302844459.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-06T12:43:00+00:00"
+  },
+  {
+   "title": "Body Vision Medical Closes New Funding Round to Accelerate Global Expansion of AI-Powered Intraoperative Imaging",
+   "url": "https://www.prnewswire.com/news-releases/body-vision-medical-closes-new-funding-round-to-accelerate-global-expansion-of-ai-powered-intraoperative-imaging-302844448.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-06T12:42:00+00:00"
+  },
+  {
+   "title": "One-wheeled AI security robot could patrol your property",
+   "url": "https://www.foxnews.com/tech/one-wheeled-ai-security-robot-patrol-property",
+   "source": "Fox News",
+   "category": "robotics",
+   "published": "2026-08-06T12:27:35+00:00"
+  },
+  {
+   "title": "Dr. Jitendra Singh Informs Rajya Sabha of Key Milestones in Gaganyaan and India's Human Space Exploration Roadmap",
+   "url": "https://www.globalsecurity.org/space/library/news/2026/space-260806-india-pib01.htm",
+   "source": "Globalsecurity.org",
+   "category": "robotics",
+   "published": "2026-08-06T12:00:00+00:00"
+  },
+  {
+   "title": "Healthcare Chatbots Market Size to Hit USD 11.13 Billion by 2035 Driven by Generative AI and Virtual Healthcare Adoption | SNS Insider",
+   "url": "https://www.globenewswire.com/news-release/2026/08/06/3340170/0/en/Healthcare-Chatbots-Market-Size-to-Hit-USD-11-13-Billion-by-2035-Driven-by-Generative-AI-and-Virtual-Healthcare-Adoption-SNS-Insider.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-08-06T11:44:00+00:00"
+  },
+  {
+   "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
+   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-06T10:00:00+00:00"
+  },
+  {
+   "title": "Unitree's impending IPO draws Meituan and Tencent as investors",
+   "url": "https://www.digitimes.com/news/a20260806PD233/robotics-ipo-meituan-tencent-venture-capital.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-08-06T08:20:00+00:00"
+  },
+  {
+   "title": "Working with the American Psychological Association on youth mental health and AI",
+   "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-06T06:00:00+00:00"
+  },
+  {
+   "title": "From asking to doing: How the world is putting ChatGPT to work",
+   "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-06T00:00:00+00:00"
+  },
+  {
+   "title": "IBM Genesis Mission Award Pairs $50M in Quantum Access With Algorithm-First AI Research",
+   "url": "https://www.storagereview.com/news/ibm-genesis-mission-award-pairs-50m-in-quantum-access-with-algorithm-first-ai-research",
+   "source": "Storagereview.com",
+   "category": "breakthroughs",
+   "published": "2026-08-05T15:52:49+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Solving the solvent problem",
+   "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-08-04T18:50:00+00:00"
+  },
+  {
+   "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+   "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-08-04T16:00:56+00:00"
+  },
+  {
+   "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+   "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
    "source": "NVIDIA",
    "category": "robotics",
-   "published": "2026-08-06T13:00:00+00:00"
+   "published": "2026-08-04T15:00:49+00:00"
+  },
+  {
+   "title": "As AI Increases Demands on Memory, Storage Steps Up",
+   "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-04T15:00:47+00:00"
+  },
+  {
+   "title": "New ways to learn and teach with ChatGPT Work and Codex",
+   "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-04T00:00:00+00:00"
+  },
+  {
+   "title": "Orchard: An open framework for scalable agentic AI",
+   "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-08-03T16:00:00+00:00"
   },
   {
    "title": "TN Agri Budget: Govt bets on AI, Machine Learning to deliver real-time assistance to farmers",
@@ -121,13 +388,6 @@
    "published": "2026-08-05T14:13:00+00:00"
   },
   {
-   "title": "NVIDIA and Partners Build in America, for America",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-05T13:00:47+00:00"
-  },
-  {
    "title": "Molex Introduces MiniMix Hybrid Power and Signal Connectors to Accelerate Humanoid Robotics Mass-Production Scaling",
    "url": "https://www.prnewswire.com/news-releases/molex-introduces-minimix-hybrid-power-and-signal-connectors-to-accelerate-humanoid-robotics-mass-production-scaling-302843651.html",
    "source": "PRNewswire",
@@ -147,13 +407,6 @@
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-08-04T19:00:00+00:00"
-  },
-  {
-   "title": "The benefits of medical AI assistance vary based on user expertise",
-   "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
-   "source": "MIT News AI",
-   "category": "health",
-   "published": "2026-08-04T09:00:00+00:00"
   },
   {
    "title": "Interview: Ayar Labs CEO sees CPO scale-up volumes rising in 2028-2029",
@@ -254,25 +507,11 @@
    "published": "2026-08-05T19:47:09+00:00"
   },
   {
-   "title": "Elon Musk: 'At some point, Starlink will deliver a majority of the world's internet,' but that promise hinges on launching thousands more next-gen satellites and the massive Starship working as promised",
-   "url": "https://www.techradar.com/phones/network-providers/elon-musk-at-some-point-starlink-will-deliver-a-majority-of-the-worlds-internet-but-that-promise-hinges-on-launching-thousands-more-next-gen-satellites-and-the-massive-starship-working-as-promised",
-   "source": "TechRadar",
-   "category": "robotics",
-   "published": "2026-08-05T19:45:00+00:00"
-  },
-  {
    "title": "Elon Musk Projects $1T in SpaceX Revenue After Spending $16B on A.I. in 3 Months",
    "url": "https://observer.com/2026/08/elon-musk-project-spacex-revenue-earnings/",
    "source": "Observer",
    "category": "compute",
    "published": "2026-08-05T18:26:10+00:00"
-  },
-  {
-   "title": "D-Wave tests entanglement on dual-rail qubits in new research, and crypto should be paying attention",
-   "url": "https://cryptobriefing.com/d-wave-dual-rail-qubit-entanglement-crypto/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-08-05T16:52:23+00:00"
   },
   {
    "title": "China\u2019s AI startup boom shifts focus to world models and robotics",
