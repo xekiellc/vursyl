@@ -1,19 +1,201 @@
 {
- "updated": "2026-08-07T13:13:49.739370+00:00",
+ "updated": "2026-08-07T19:03:47.118002+00:00",
  "items": [
   {
-   "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-   "url": "https://openai.com/index/hsp-gruppe",
-   "source": "OpenAI",
+   "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
+   "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
+   "source": "Amazon.com",
    "category": "ai",
-   "published": "2026-08-07T09:00:00+00:00"
+   "published": "2026-08-06T18:57:55+00:00"
   },
   {
-   "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-   "source": "Google DeepMind",
-   "category": "breakthroughs",
-   "published": "2026-08-06T15:06:15+00:00"
+   "title": "Intel Diamond Rapids Xeon 7 CPU Leaks With Massive 240MB L3 Cache",
+   "url": "https://hothardware.com/news/intel-diamond-rapids-xeon-7-cpu-leak-240mb-l3",
+   "source": "Hot Hardware",
+   "category": "compute",
+   "published": "2026-08-06T18:55:00+00:00"
+  },
+  {
+   "title": "vLLM hits 500K GPUs as co-founder Simon Mo makes the case for open models",
+   "url": "https://cryptobriefing.com/vllm-500k-gpus-simon-mo-open-models/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-06T18:44:27+00:00"
+  },
+  {
+   "title": "AI Workloads Drive CPU Demand as AMD Discusses Longer-Term China Deals",
+   "url": "https://biztoc.com/x/b135dd9d2c27ad7c",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-08-06T18:44:17+00:00"
+  },
+  {
+   "title": "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs",
+   "url": "https://gcaptain.com/abs-and-samsung-heavy-industries-advance-50-mw-and-200-mw-floating-data-center-designs/",
+   "source": "gcaptain.com",
+   "category": "compute",
+   "published": "2026-08-06T18:43:34+00:00"
+  },
+  {
+   "title": "Cloudflare expects $665M revenue in Q2 2026 as AI tailwinds push valuation to record highs",
+   "url": "https://cryptobriefing.com/cloudflare-q2-2026-revenue-guidance-ai-stablecoin/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-06T18:36:12+00:00"
+  },
+  {
+   "title": "Hadrian secures $7.87B valuation with $1.37B raise to supercharge defense manufacturing",
+   "url": "https://cryptobriefing.com/hadrian-valuation-defense-manufacturing-expansion/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-06T18:24:53+00:00"
+  },
+  {
+   "title": "Microsoft activates fourth data center region in India as part of $20.5 billion investment",
+   "url": "https://cryptobriefing.com/microsoft-fourth-data-center-india-investment/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-06T18:15:35+00:00"
+  },
+  {
+   "title": "Assembly Health Appoints David Millen as Chief Technology Officer",
+   "url": "https://www.prnewswire.com/news-releases/assembly-health-appoints-david-millen-as-chief-technology-officer-302845293.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-06T18:01:00+00:00"
+  },
+  {
+   "title": "OpenAI teams up with American Psychological Association to explore AI\u2019s role in youth mental health",
+   "url": "https://cryptobriefing.com/openai-apa-ai-youth-mental-health/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-08-06T17:31:43+00:00"
+  },
+  {
+   "title": "Global Regenerative Medicine Market is Projected to Cross the USD 160 Billion Mark by 2034 | DelveInsight",
+   "url": "https://www.globenewswire.com/news-release/2026/08/06/3340604/0/en/Global-Regenerative-Medicine-Market-is-Projected-to-Cross-the-USD-160-Billion-Mark-by-2034-DelveInsight.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-08-06T17:00:00+00:00"
+  },
+  {
+   "title": "Petfolk Winner Of 2026 Pet Innovation Award For \u201cPet Care Innovation of the Year\u201d",
+   "url": "https://www.globenewswire.com/news-release/2026/08/06/3340587/0/en/Petfolk-Winner-Of-2026-Pet-Innovation-Award-For-Pet-Care-Innovation-of-the-Year.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-08-06T16:30:00+00:00"
+  },
+  {
+   "title": "Sharecare launches AskMD nationwide to turn any health question into a personalized plan",
+   "url": "https://www.manilatimes.net/2026/08/06/tmt-newswire/globenewswire/sharecare-launches-askmd-nationwide-to-turn-any-health-question-into-a-personalized-plan/2400211",
+   "source": "The Manila Times",
+   "category": "health",
+   "published": "2026-08-06T16:23:08+00:00"
+  },
+  {
+   "title": "Scaling fine-grained access control for enterprise lakehouse using SageMaker Unified Studio and AWS Lake Formation",
+   "url": "https://aws.amazon.com/blogs/big-data/scaling-fine-grained-access-control-for-enterprise-lakehouse-using-sagemaker-unified-studio-and-aws-lake-formation/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-08-06T16:17:59+00:00"
+  },
+  {
+   "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
+   "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-08-06T16:11:13+00:00"
+  },
+  {
+   "title": "Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation",
+   "url": "https://www.cnbc.com/2026/08/06/chinese-humanoid-robot-maker-unitree-prices-ipo-at-9-billion-valuation.html",
+   "source": "CNBC",
+   "category": "robotics",
+   "published": "2026-08-06T16:04:22+00:00"
+  },
+  {
+   "title": "Riyadh Takes the Global Stage as the World's Biotechnology Leaders Convene for the Riyadh Global Medical Biotechnology Summit 2026",
+   "url": "https://www.globenewswire.com/news-release/2026/08/06/3340534/0/en/Riyadh-Takes-the-Global-Stage-as-the-World-s-Biotechnology-Leaders-Convene-for-the-Riyadh-Global-Medical-Biotechnology-Summit-2026.html",
+   "source": "GlobeNewswire",
+   "category": "health",
+   "published": "2026-08-06T15:59:00+00:00"
+  },
+  {
+   "title": "How Foqus Technologies is tapping the quantum realm to ease \u2018crisis\u2019 in MRI wait times",
+   "url": "https://financialpost.com/technology/foqus-technologies-mri-wait-times-quantum-software",
+   "source": "Financial Post",
+   "category": "quantum",
+   "published": "2026-08-06T15:56:26+00:00"
+  },
+  {
+   "title": "Unitree Robotics seeks $904M in IPO to become first publicly traded humanoid robot maker",
+   "url": "https://cryptobriefing.com/unitree-robotics-ipo-humanoid-robot-maker/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-08-06T14:36:21+00:00"
+  },
+  {
+   "title": "DeepSeek invests $20.8 million in Unitree's Shanghai IPO",
+   "url": "https://biztoc.com/x/e6c9616ba990407c",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-06T14:11:20+00:00"
+  },
+  {
+   "title": "China\u2019s Robots Know Kung Fu and Can Scale Walls. Can They Woo Investors?",
+   "url": "https://biztoc.com/x/55aa0060ab2f8254",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-06T14:08:12+00:00"
+  },
+  {
+   "title": "Vitamin B12 combined with methylene blue alleviates experimental septic shock and is associated with modulation of KCNMB1 and the cGMP-PRKG pathway",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355117",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-08-06T14:00:00+00:00"
+  },
+  {
+   "title": "Asymmetric chromatin accessibility underlies anterior-posterior axis specification in moth fly embryos",
+   "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003896",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-08-06T14:00:00+00:00"
+  },
+  {
+   "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+   "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-08-06T13:00:00+00:00"
+  },
+  {
+   "title": "Realbotix Robot to Appear on Emmy Winning Television Show",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/realbotix-robot-to-appear-on-emmy-winning-television-show",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-08-06T11:38:35+00:00"
+  },
+  {
+   "title": "Neuroligin-3\u2013CSPG4 interaction maintains oligodendrocyte precursor cell progenitor state and promotes glioma proliferation through mechanotransduction",
+   "url": "https://www.nature.com/articles/s41593-026-02397-8",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-08-06T00:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA and Partners Build in America, for America",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-05T13:00:47+00:00"
+  },
+  {
+   "title": "The benefits of medical AI assistance vary based on user expertise",
+   "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-08-04T09:00:00+00:00"
   },
   {
    "title": "Zayo Teams with NVIDIA to Scale Critical Network Capacity for AI Factories",
@@ -177,32 +359,11 @@
    "published": "2026-08-06T12:42:00+00:00"
   },
   {
-   "title": "One-wheeled AI security robot could patrol your property",
-   "url": "https://www.foxnews.com/tech/one-wheeled-ai-security-robot-patrol-property",
-   "source": "Fox News",
-   "category": "robotics",
-   "published": "2026-08-06T12:27:35+00:00"
-  },
-  {
-   "title": "Dr. Jitendra Singh Informs Rajya Sabha of Key Milestones in Gaganyaan and India's Human Space Exploration Roadmap",
-   "url": "https://www.globalsecurity.org/space/library/news/2026/space-260806-india-pib01.htm",
-   "source": "Globalsecurity.org",
-   "category": "robotics",
-   "published": "2026-08-06T12:00:00+00:00"
-  },
-  {
    "title": "Healthcare Chatbots Market Size to Hit USD 11.13 Billion by 2035 Driven by Generative AI and Virtual Healthcare Adoption | SNS Insider",
    "url": "https://www.globenewswire.com/news-release/2026/08/06/3340170/0/en/Healthcare-Chatbots-Market-Size-to-Hit-USD-11-13-Billion-by-2035-Driven-by-Generative-AI-and-Virtual-Healthcare-Adoption-SNS-Insider.html",
    "source": "GlobeNewswire",
    "category": "health",
    "published": "2026-08-06T11:44:00+00:00"
-  },
-  {
-   "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
-   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-06T10:00:00+00:00"
   },
   {
    "title": "Unitree's impending IPO draws Meituan and Tencent as investors",
@@ -212,61 +373,12 @@
    "published": "2026-08-06T08:20:00+00:00"
   },
   {
-   "title": "Working with the American Psychological Association on youth mental health and AI",
-   "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-06T06:00:00+00:00"
-  },
-  {
-   "title": "From asking to doing: How the world is putting ChatGPT to work",
-   "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-06T00:00:00+00:00"
-  },
-  {
    "title": "IBM Genesis Mission Award Pairs $50M in Quantum Access With Algorithm-First AI Research",
    "url": "https://www.storagereview.com/news/ibm-genesis-mission-award-pairs-50m-in-quantum-access-with-algorithm-first-ai-research",
    "source": "Storagereview.com",
    "category": "breakthroughs",
    "published": "2026-08-05T15:52:49+00:00",
    "breakthrough": true
-  },
-  {
-   "title": "Solving the solvent problem",
-   "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
-   "source": "MIT News AI",
-   "category": "health",
-   "published": "2026-08-04T18:50:00+00:00"
-  },
-  {
-   "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
-   "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-04T16:00:56+00:00"
-  },
-  {
-   "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-   "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-08-04T15:00:49+00:00"
-  },
-  {
-   "title": "As AI Increases Demands on Memory, Storage Steps Up",
-   "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-04T15:00:47+00:00"
-  },
-  {
-   "title": "New ways to learn and teach with ChatGPT Work and Codex",
-   "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-04T00:00:00+00:00"
   },
   {
    "title": "Orchard: An open framework for scalable agentic AI",
@@ -533,20 +645,6 @@
    "source": "NVIDIA",
    "category": "ai",
    "published": "2026-08-04T13:00:47+00:00"
-  },
-  {
-   "title": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
-   "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-08-03T19:50:00+00:00"
-  },
-  {
-   "title": "GeForce NOW Shakes Up August With 26 New Games",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-06T13:00:11+00:00"
   },
   {
    "title": "Karnataka to prepare 10-20 year nanotechnology roadmap to drive research and innovation",
