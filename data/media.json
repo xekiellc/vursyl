@@ -1,61 +1,85 @@
 {
- "updated": "2026-08-07T19:03:47.118002+00:00",
+ "updated": "2026-08-08T01:55:24.108611+00:00",
  "items": [
   {
-   "title": "Open models give enterprises transparency and flexibility.",
-   "url": "https://www.youtube.com/watch?v=SZ7rf5waBTY",
-   "source": "NVIDIA",
-   "thumbnail": "https://i.ytimg.com/vi/SZ7rf5waBTY/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-08-07T19:00:31+00:00"
-  },
-  {
-   "title": "8 Predictions for the Era of Continual Learning",
-   "url": "https://www.youtube.com/watch?v=iewm45atodE",
+   "title": "AlphaZero for Mathematics - Grant Sanderson",
+   "url": "https://www.youtube.com/watch?v=AvH0cJV1Cc8",
    "source": "Dwarkesh Patel",
-   "thumbnail": "https://i.ytimg.com/vi/iewm45atodE/mqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/AvH0cJV1Cc8/mqdefault.jpg",
    "category": "ai",
-   "published": "2026-08-07T17:33:15+00:00"
+   "published": "2026-08-07T22:28:23+00:00"
   },
   {
-   "title": "Next-Gen Enterprise AI: Powered by Infosys & NVIDIA",
-   "url": "https://www.youtube.com/watch?v=eV1Z2xQZGvA",
-   "source": "NVIDIA",
-   "thumbnail": "https://i.ytimg.com/vi/eV1Z2xQZGvA/mqdefault.jpg",
-   "category": "compute",
-   "published": "2026-08-07T15:37:58+00:00"
-  },
-  {
-   "title": "Talking to Apollo about Gemini Robotics 2 \ud83e\udd16",
-   "url": "https://www.youtube.com/watch?v=zlveLhFb64M",
-   "source": "Google DeepMind",
-   "thumbnail": "https://i.ytimg.com/vi/zlveLhFb64M/mqdefault.jpg",
-   "category": "robotics",
-   "published": "2026-08-07T14:47:11+00:00"
-  },
-  {
-   "title": "How To Design In The Agent Era",
-   "url": "https://www.youtube.com/watch?v=P06RgnUKX_I",
-   "source": "Y Combinator",
-   "thumbnail": "https://i.ytimg.com/vi/P06RgnUKX_I/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-08-07T14:00:34+00:00"
-  },
-  {
-   "title": "Programming QuantumComputers | Ibrahim Shehzad | QGSS26",
-   "url": "https://www.youtube.com/watch?v=47loAu08F2w",
+   "title": "Entanglement & QuantumEffects | Thaddeus Pellegrini | QGSS26",
+   "url": "https://www.youtube.com/watch?v=4i587vmFyaU",
    "source": "Qiskit",
-   "thumbnail": "https://i.ytimg.com/vi/47loAu08F2w/mqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/4i587vmFyaU/mqdefault.jpg",
    "category": "quantum",
-   "published": "2026-08-06T13:00:01+00:00"
+   "published": "2026-08-07T13:00:07+00:00"
   },
   {
-   "title": "\"He's Dead Serious\": Curing All Disease in a Decade",
-   "url": "https://www.youtube.com/watch?v=WZ8fyUjXuus",
+   "title": "DeepMind Just Changed How AI Sees The World",
+   "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+   "source": "Two Minute Papers",
+   "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-08-07T08:22:00+00:00"
+  },
+  {
+   "title": "\"We Got to Aim for 10x, Not 2x\"",
+   "url": "https://www.youtube.com/watch?v=7obRdsTNEDQ",
    "source": "Peter H. Diamandis",
-   "thumbnail": "https://i.ytimg.com/vi/WZ8fyUjXuus/mqdefault.jpg",
-   "category": "health",
-   "published": "2026-08-06T00:02:34+00:00"
+   "thumbnail": "https://i.ytimg.com/vi/7obRdsTNEDQ/mqdefault.jpg",
+   "category": "breakthroughs",
+   "published": "2026-08-06T16:31:53+00:00"
+  },
+  {
+   "title": "Introducing Agent Plugins",
+   "url": "https://www.youtube.com/watch?v=UaeWJK_vv-Y",
+   "source": "OpenAI",
+   "thumbnail": "https://i.ytimg.com/vi/UaeWJK_vv-Y/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-08-06T16:13:08+00:00"
+  },
+  {
+   "title": "How Open Source Became AI's Backbone | Inferact with a16z",
+   "url": "https://www.youtube.com/watch?v=78-6dUROziQ",
+   "source": "a16z",
+   "thumbnail": "https://i.ytimg.com/vi/78-6dUROziQ/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-08-06T14:57:20+00:00"
+  },
+  {
+   "title": "What is RTX Spark?",
+   "url": "https://www.youtube.com/watch?v=eeoIADqwxpY",
+   "source": "NVIDIA",
+   "thumbnail": "https://i.ytimg.com/vi/eeoIADqwxpY/mqdefault.jpg",
+   "category": "compute",
+   "published": "2026-08-05T18:00:01+00:00"
+  },
+  {
+   "title": "Cheating at Minesweeper with a Quantum Computer",
+   "url": "https://www.youtube.com/watch?v=P3jYpQAdg-s",
+   "source": "Qiskit",
+   "thumbnail": "https://i.ytimg.com/vi/P3jYpQAdg-s/mqdefault.jpg",
+   "category": "quantum",
+   "published": "2026-08-05T16:00:03+00:00"
+  },
+  {
+   "title": "The Future is Metal - Mariana Minerals | a16z American Dynamism",
+   "url": "https://www.youtube.com/watch?v=uFt-tkagUUI",
+   "source": "a16z",
+   "thumbnail": "https://i.ytimg.com/vi/uFt-tkagUUI/mqdefault.jpg",
+   "category": "compute",
+   "published": "2026-08-05T11:01:33+00:00"
+  },
+  {
+   "title": "Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work",
+   "url": "https://www.youtube.com/watch?v=Gp4zrV3-6N8",
+   "source": "Y Combinator",
+   "thumbnail": "https://i.ytimg.com/vi/Gp4zrV3-6N8/mqdefault.jpg",
+   "category": "robotics",
+   "published": "2026-08-03T22:42:52+00:00"
   },
   {
    "title": "You don\u2019t need a special talent to learn a new language #TEDTalks",
@@ -64,62 +88,6 @@
    "thumbnail": "https://i.ytimg.com/vi/wMAtRRCKtbE/mqdefault.jpg",
    "category": "ai",
    "published": "2026-08-05T20:53:33+00:00"
-  },
-  {
-   "title": "The Case For Data Centers In Space",
-   "url": "https://www.youtube.com/watch?v=A9JDkiYEhfY",
-   "source": "Y Combinator",
-   "thumbnail": "https://i.ytimg.com/vi/A9JDkiYEhfY/mqdefault.jpg",
-   "category": "compute",
-   "published": "2026-08-05T14:00:08+00:00"
-  },
-  {
-   "title": "The Ocean Company - Ulysses | a16z American Dynamism",
-   "url": "https://www.youtube.com/watch?v=Iy1W8vOxv5o",
-   "source": "a16z",
-   "thumbnail": "https://i.ytimg.com/vi/Iy1W8vOxv5o/mqdefault.jpg",
-   "category": "compute",
-   "published": "2026-08-05T11:02:29+00:00"
-  },
-  {
-   "title": "The Nuclear Renaissance - Radiant |\u00a0 a16z American Dynamism",
-   "url": "https://www.youtube.com/watch?v=-9Vh7tsgM7Y",
-   "source": "a16z",
-   "thumbnail": "https://i.ytimg.com/vi/-9Vh7tsgM7Y/mqdefault.jpg",
-   "category": "compute",
-   "published": "2026-08-05T11:00:13+00:00"
-  },
-  {
-   "title": "The Real Advantage AI Has Over Human Geniuses - Grant Sanderson",
-   "url": "https://www.youtube.com/watch?v=KjMKzIOhw4Q",
-   "source": "Dwarkesh Patel",
-   "thumbnail": "https://i.ytimg.com/vi/KjMKzIOhw4Q/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-08-04T22:08:20+00:00"
-  },
-  {
-   "title": "How AI Helps Solve Medical Mysteries at Boston Children\u2019s Hospital | OpenAI Forum",
-   "url": "https://www.youtube.com/watch?v=SJJBPwlPpww",
-   "source": "OpenAI",
-   "thumbnail": "https://i.ytimg.com/vi/SJJBPwlPpww/mqdefault.jpg",
-   "category": "health",
-   "published": "2026-08-04T20:29:24+00:00"
-  },
-  {
-   "title": "Quantum Mechanics forComputation | Kevin Sung | QGSS26",
-   "url": "https://www.youtube.com/watch?v=-reX5fajpvg",
-   "source": "Qiskit",
-   "thumbnail": "https://i.ytimg.com/vi/-reX5fajpvg/mqdefault.jpg",
-   "category": "quantum",
-   "published": "2026-08-04T13:00:14+00:00"
-  },
-  {
-   "title": "Why Quantum? What Problem Are We Solving? | Roland de Putter | QGSS26",
-   "url": "https://www.youtube.com/watch?v=yqDYNjwTUSI",
-   "source": "Qiskit",
-   "thumbnail": "https://i.ytimg.com/vi/yqDYNjwTUSI/mqdefault.jpg",
-   "category": "quantum",
-   "published": "2026-08-03T13:00:33+00:00"
   },
   {
    "title": "How Agentic AI is Powering Autonomous Networks",
