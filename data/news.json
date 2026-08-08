@@ -1,19 +1,173 @@
 {
- "updated": "2026-08-08T01:55:24.108611+00:00",
+ "updated": "2026-08-08T07:00:54.479855+00:00",
  "items": [
   {
-   "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-   "url": "https://openai.com/index/hsp-gruppe",
-   "source": "OpenAI",
+   "title": "Director Jack Neo uses AI to create another song for National Day",
+   "url": "https://www.straitstimes.com/life/entertainment/director-jack-neo-uses-ai-to-create-another-song-for-national-day",
+   "source": "The Straits Times",
    "category": "ai",
-   "published": "2026-08-07T09:00:00+00:00"
+   "published": "2026-08-07T06:42:00+00:00"
   },
   {
-   "title": "Vanderbilt Will Build an AI Agent into Medical Records to Cut the Wait for Alzheimer's Infusions",
-   "url": "https://www.medicaldaily.com/vanderbilt-ai-agent-ehr-alzheimers-treatment-delays-476976",
-   "source": "Medical Daily",
+   "title": "Show HN: Linkly \u2013 a language designed for LLMs, compiled through MLIR",
+   "url": "https://github.com/choiyounggi/linkly/releases",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-08-07T06:30:58+00:00"
+  },
+  {
+   "title": "Global Market: China, Hong Kong stocks rise as strong trade data and AI demand lift sentiment",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-rise-as-strong-trade-data-and-ai-demand-lift-sentiment/articleshow/133024693.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-08-07T06:27:54+00:00"
+  },
+  {
+   "title": "KIOXIA, Micron, and Samsung earn Best of Show awards at FMS 2026",
+   "url": "https://www.tweaktown.com/news/113032/kioxia-micron-and-samsung-earn-best-of-show-awards-at-fms-2026/index.html",
+   "source": "TweakTown",
+   "category": "compute",
+   "published": "2026-08-07T06:27:09+00:00"
+  },
+  {
+   "title": "Proxmox Virtual Environment Officially Runs on ARM64, But Your Raspberry Pi Isn't Supported Yet",
+   "url": "https://itsfoss.com/news/proxmox-virtual-environment-arm64-support/",
+   "source": "Itsfoss.com",
+   "category": "compute",
+   "published": "2026-08-07T06:22:08+00:00"
+  },
+  {
+   "title": "OpenAI Targets Late 2026 for Codex Version 3 Cloud Release",
+   "url": "https://www.geeky-gadgets.com/openai-codex-v3-expected-updates/",
+   "source": "Geeky Gadgets",
+   "category": "ai",
+   "published": "2026-08-07T06:15:00+00:00"
+  },
+  {
+   "title": "China extends trade boom as global AI tech demand surges",
+   "url": "https://www.rte.ie/news/business/2026/0807/1586878-chinese-trade-figures/",
+   "source": "RTE",
+   "category": "compute",
+   "published": "2026-08-07T06:10:33+00:00"
+  },
+  {
+   "title": "U Mobile launches EIP Hub to drive 5G-Advanced and AI adoption for Malaysian enterprises",
+   "url": "https://soyacincau.com/2026/08/07/u-mobile-launches-eip-hub-to-drive-5g-advanced-and-ai-adoption-for-malaysian-enterprises/",
+   "source": "SoyaCincau.com",
+   "category": "ai",
+   "published": "2026-08-07T06:03:02+00:00"
+  },
+  {
+   "title": "India, which once couldn't make smallpox vaccine, has now crossed a pharma milestone the world can't ignore",
+   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/independence-day-2026-india-pharma-journey-covaxin-made-in-india-drug-discovery-zaynich-wockhardt-ipa-indian-medicine-vaccine/articleshow/133003617.cms",
+   "source": "The Times of India",
    "category": "health",
-   "published": "2026-08-07T01:50:46+00:00"
+   "published": "2026-08-07T05:44:12+00:00"
+  },
+  {
+   "title": "NVIDIA's RTX Neural Texture Compression now runs on RTX Spark and Windows on Arm",
+   "url": "https://www.tweaktown.com/news/113034/nvidias-rtx-neural-texture-compression-now-runs-on-rtx-spark-and-windows-on-arm/index.html",
+   "source": "TweakTown",
+   "category": "compute",
+   "published": "2026-08-07T05:36:08+00:00"
+  },
+  {
+   "title": "SpaceX to build $16.8 billion chip plant in Texas, create over 3,000 jobs",
+   "url": "https://www.thehindubusinessline.com/info-tech/spacex-to-build-168-billion-chip-plant-in-texas-create-over-3000-jobs/article71316332.ece",
+   "source": "BusinessLine",
+   "category": "compute",
+   "published": "2026-08-07T05:21:16+00:00"
+  },
+  {
+   "title": "Penn awarded collaborative NSF grant to launch AI health institute",
+   "url": "https://www.thedp.com/article/2026/08/penn-nsf-grant-ai-physical-therapy-research-institute",
+   "source": "The Daily Pennsylvanian",
+   "category": "health",
+   "published": "2026-08-07T05:16:19+00:00"
+  },
+  {
+   "title": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO",
+   "url": "https://biztoc.com/x/7ba9b6eb3ac6a131",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-07T02:16:13+00:00"
+  },
+  {
+   "title": "A clinically validated framework for auditing AI chatbot behavior in mental health interactions",
+   "url": "https://www.nature.com/articles/s41591-026-04577-2",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-08-07T00:00:00+00:00"
+  },
+  {
+   "title": "D-Wave Quantum Inc. Q2 2026 Earnings Call Summary",
+   "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-d-wave-quantum-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
+   "source": "Moby.co",
+   "category": "quantum",
+   "published": "2026-08-06T21:50:53+00:00"
+  },
+  {
+   "title": "5 best US-made robots to add to your life: The import ban rewrote the personal robot shortlist",
+   "url": "https://thegadgetflow.com/blog/best-us-made-robots-to-add-to-your-life/",
+   "source": "Gadget Flow",
+   "category": "robotics",
+   "published": "2026-08-06T21:03:01+00:00"
+  },
+  {
+   "title": "FCC chair says robot import restrictions aim to boost US production",
+   "url": "https://www.channelnewsasia.com/business/fcc-chair-says-robot-import-restrictions-aim-boost-us-production-6304291",
+   "source": "CNA",
+   "category": "robotics",
+   "published": "2026-08-06T16:04:39+00:00"
+  },
+  {
+   "title": "Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation",
+   "url": "https://www.cnbc.com/2026/08/06/chinese-humanoid-robot-maker-unitree-prices-ipo-at-9-billion-valuation.html",
+   "source": "CNBC",
+   "category": "robotics",
+   "published": "2026-08-06T16:04:22+00:00"
+  },
+  {
+   "title": "Unitree Robotics seeks $904M in IPO to become first publicly traded humanoid robot maker",
+   "url": "https://cryptobriefing.com/unitree-robotics-ipo-humanoid-robot-maker/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-08-06T14:36:21+00:00"
+  },
+  {
+   "title": "GeForce NOW Shakes Up August With 26 New Games",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-08-06T13:00:11+00:00"
+  },
+  {
+   "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+   "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-08-06T13:00:00+00:00"
+  },
+  {
+   "title": "Chennai-based Qubit founder shares journey after leaving Rs 1 crore US job to launch startup",
+   "url": "https://economictimes.indiatimes.com/news/new-updates/chennai-based-qubit-founder-shares-journey-after-leaving-rs-1-crore-us-job-to-launch-startup/articleshow/133001784.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-08-06T12:49:58+00:00"
+  },
+  {
+   "title": "NVIDIA and Partners Build in America, for America",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-05T13:00:47+00:00"
+  },
+  {
+   "title": "The benefits of medical AI assistance vary based on user expertise",
+   "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-08-04T09:00:00+00:00"
   },
   {
    "title": "Alibaba\u2019s Qwen 3.8-Max enters enterprise market with 2.4 trillion parameters and aggressive pricing",
@@ -23,26 +177,11 @@
    "published": "2026-08-07T01:45:04+00:00"
   },
   {
-   "title": "Mayo Clinic Used AI to Design a Molecule Against a Pancreatic Cancer Protein Long Considered Undruggable",
-   "url": "https://www.medicaldaily.com/mayo-clinic-ai-gipc1-pdz-inhibitor-pancreatic-cancer-476975",
-   "source": "Medical Daily",
-   "category": "health",
-   "published": "2026-08-07T01:40:16+00:00",
-   "breakthrough": true
-  },
-  {
    "title": "Twilio\u2019s stock jumps on solid earnings and revenue beat and strong momentum in voice AI",
    "url": "https://siliconangle.com/2026/08/06/twilios-stock-jumps-solid-earnings-revenue-beat-strong-momentum-voice-ai/",
    "source": "SiliconANGLE News",
    "category": "ai",
    "published": "2026-08-07T01:27:21+00:00"
-  },
-  {
-   "title": "AI sleep model reveals health risks missed by standard apnea scores",
-   "url": "https://www.news-medical.net/news/20260806/AI-sleep-model-reveals-health-risks-missed-by-standard-apnea-scores.aspx",
-   "source": "News-Medical.Net",
-   "category": "health",
-   "published": "2026-08-07T01:11:28+00:00"
   },
   {
    "title": "Optical networking startup Lumilens launches with $900M in funding",
@@ -94,13 +233,6 @@
    "published": "2026-08-06T21:06:24+00:00"
   },
   {
-   "title": "SpaceX to Build Natural Gas Power Plants for Texas Chip Factory",
-   "url": "https://financialpost.com/pmn/business-pmn/spacex-to-build-natural-gas-power-plants-for-texas-chip-factory",
-   "source": "Financial Post",
-   "category": "compute",
-   "published": "2026-08-06T19:37:21+00:00"
-  },
-  {
    "title": "\u2018Pure insanity\u2019\u2014Elon Musk details SpaceX\u2019s plan to turn the moon into its newest manufacturing site",
    "url": "https://fortune.com/2026/08/06/pure-insanityelon-musk-details-spacexs-plan-to-turn-the-moon-into-its-newest-manufacturing-site/",
    "source": "Fortune",
@@ -108,60 +240,11 @@
    "published": "2026-08-06T17:36:35+00:00"
   },
   {
-   "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-   "source": "Google DeepMind",
-   "category": "breakthroughs",
-   "published": "2026-08-06T15:06:15+00:00"
-  },
-  {
-   "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
-   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-06T10:00:00+00:00"
-  },
-  {
-   "title": "Working with the American Psychological Association on youth mental health and AI",
-   "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-   "source": "OpenAI",
-   "category": "health",
-   "published": "2026-08-06T06:00:00+00:00"
-  },
-  {
-   "title": "From asking to doing: How the world is putting ChatGPT to work",
-   "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-06T00:00:00+00:00"
-  },
-  {
    "title": "Solving the solvent problem",
    "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
    "source": "MIT News AI",
    "category": "breakthroughs",
    "published": "2026-08-04T18:50:00+00:00"
-  },
-  {
-   "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
-   "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-04T16:00:56+00:00"
-  },
-  {
-   "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-   "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-08-04T15:00:49+00:00"
-  },
-  {
-   "title": "As AI Increases Demands on Memory, Storage Steps Up",
-   "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-04T15:00:47+00:00"
   },
   {
    "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
@@ -281,13 +364,6 @@
    "source": "Financial Post",
    "category": "quantum",
    "published": "2026-08-06T15:56:26+00:00"
-  },
-  {
-   "title": "Vitamin B12 combined with methylene blue alleviates experimental septic shock and is associated with modulation of KCNMB1 and the cGMP-PRKG pathway",
-   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355117",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-08-06T14:00:00+00:00"
   },
   {
    "title": "Asymmetric chromatin accessibility underlies anterior-posterior axis specification in moth fly embryos",
