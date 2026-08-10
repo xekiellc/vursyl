@@ -1,6 +1,126 @@
 {
- "updated": "2026-08-10T02:07:12.534025+00:00",
+ "updated": "2026-08-10T07:49:40.747229+00:00",
  "items": [
+  {
+   "title": "agenticlens 0.4.0",
+   "url": "https://pypi.org/project/agenticlens/0.4.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-09T07:43:45+00:00"
+  },
+  {
+   "title": "Microsoft paper reveals insights from 13.5M GitHub Copilot sessions",
+   "url": "https://cryptobriefing.com/microsoft-github-copilot-sessions-research/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-08-09T07:43:12+00:00"
+  },
+  {
+   "title": "basilisk-ai 2.0.2",
+   "url": "https://pypi.org/project/basilisk-ai/2.0.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-09T07:40:58+00:00"
+  },
+  {
+   "title": "security-ai-scanner 0.2.0",
+   "url": "https://pypi.org/project/security-ai-scanner/0.2.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-09T07:32:48+00:00"
+  },
+  {
+   "title": "Show HN: Sous.bio \u2013 your sous chef in the lab",
+   "url": "https://sous.bio/",
+   "source": "Sous.bio",
+   "category": "ai",
+   "published": "2026-08-09T07:30:11+00:00"
+  },
+  {
+   "title": "Intel Diamond Rapids \u201cXeon 7\u201d To Reach 256 P-Cores To Match AMD\u2019s EPYC Venice, Yet Trails On Timeline",
+   "url": "https://wccftech.com/intel-diamond-rapids-xeon-7-to-reach-256-p-cores-to-match-amds-epyc-venice/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-08-09T06:40:42+00:00"
+  },
+  {
+   "title": "Humanoids are as much a compute story as a robotics one",
+   "url": "https://biztoc.com/x/52139a52f414e96e",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-09T06:29:36+00:00"
+  },
+  {
+   "title": "Intel Foundry secures Fortinet as its first named corporate client under new CEO",
+   "url": "https://cryptobriefing.com/intel-foundry-fortinet-first-named-client/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-09T06:16:40+00:00"
+  },
+  {
+   "title": "Virtuals Protocol bets on physical AI and robotics with Eastworlds accelerator",
+   "url": "https://cryptobriefing.com/virtuals-protocol-eastworlds-robotics-ai/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-08-09T06:05:50+00:00"
+  },
+  {
+   "title": "A 0.42-nanometer breakthrough could push transistors beyond silicon",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm",
+   "source": "Science Daily",
+   "category": "compute",
+   "published": "2026-08-09T06:05:43+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Intel Nova Lake 16-Core CPU Pushes 154W PL2, While its Integrated 12 Xe3P GPU Alone Eats 40 Watts",
+   "url": "https://wccftech.com/intel-nova-lake-16-core-cpu-pushes-154w-pl2-integrated-12-xe3p-gpu-eats-40-watts/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-08-09T06:00:17+00:00"
+  },
+  {
+   "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
+   "url": "https://github.com/PJHkorea/photonic-mesh-fng-router",
+   "source": "Github.com",
+   "category": "compute",
+   "published": "2026-08-09T05:22:44+00:00"
+  },
+  {
+   "title": "ai-resource-radar added to PyPI",
+   "url": "https://pypi.org/project/ai-resource-radar/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-09T03:47:38+00:00"
+  },
+  {
+   "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia",
+   "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-08T10:24:54+00:00"
+  },
+  {
+   "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+   "url": "https://openai.com/index/hsp-gruppe",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-07T09:00:00+00:00"
+  },
+  {
+   "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-08-06T15:06:15+00:00"
+  },
+  {
+   "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
+   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-06T10:00:00+00:00"
+  },
   {
    "title": "mcp-bastion-litellm 5.0.0",
    "url": "https://pypi.org/project/mcp-bastion-litellm/5.0.0/",
@@ -100,39 +220,11 @@
    "published": "2026-08-08T22:19:55+00:00"
   },
   {
-   "title": "Show HN: Find out how ChatGPT describes your brand, then fix it",
-   "url": "https://pallix.in",
-   "source": "Pallix.in",
-   "category": "ai",
-   "published": "2026-08-08T21:58:33+00:00"
-  },
-  {
-   "title": "ai-infrastructure-suite added to PyPI",
-   "url": "https://pypi.org/project/ai-infrastructure-suite/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-08T17:41:57+00:00"
-  },
-  {
-   "title": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing \u2013 Quarterly Update Report",
-   "url": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html",
-   "source": "Yahoo Entertainment",
-   "category": "quantum",
-   "published": "2026-08-08T16:41:43+00:00"
-  },
-  {
    "title": "Show HN: A Source-Level Review of Sakana AI's Continuous Thought Machine",
    "url": "https://fengrru.me/blog/ctm-theory-review.md",
    "source": "Fengrru.me",
    "category": "ai",
    "published": "2026-08-08T15:48:08+00:00"
-  },
-  {
-   "title": "IonQ Q2 Earnings Call Highlights",
-   "url": "https://www.marketbeat.com/instant-alerts/ionq-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-   "source": "MarketBeat",
-   "category": "quantum",
-   "published": "2026-08-08T14:04:00+00:00"
   },
   {
    "title": "Wall Street Sees a Multitrillion-Dollar Humanoid Robot Market. These 2 Industrial Stocks Sell the Parts",
@@ -149,20 +241,6 @@
    "published": "2026-08-08T13:25:00+00:00"
   },
   {
-   "title": "Humanoid Robots Don\u2019t Fit in Store Aisles, So Robbyant Fixed That",
-   "url": "https://www.yankodesign.com/2026/08/08/humanoid-robots-dont-fit-in-store-aisles-so-robbyant-fixed-that/",
-   "source": "Yanko Design",
-   "category": "robotics",
-   "published": "2026-08-08T13:20:11+00:00"
-  },
-  {
-   "title": "qiskit-stateviz added to PyPI",
-   "url": "https://pypi.org/project/qiskit-stateviz/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-08-08T09:42:01+00:00"
-  },
-  {
    "title": "SpaceX and Tesla to Build Natural Gas Plants and Battery Arrays for $16.8 Billion Texas Chip Factory",
    "url": "https://www.ghacks.net/2026/08/08/spacex-and-tesla-to-build-natural-gas-plants-and-battery-arrays-for-16-8-billion-texas-chip-factory/",
    "source": "Ghacks Technology News",
@@ -175,20 +253,6 @@
    "source": "Biztoc.com",
    "category": "robotics",
    "published": "2026-08-08T03:14:43+00:00"
-  },
-  {
-   "title": "GeForce NOW Shakes Up August With 26 New Games",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-06T13:00:11+00:00"
-  },
-  {
-   "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-   "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
-   "source": "NVIDIA",
-   "category": "breakthroughs",
-   "published": "2026-08-06T13:00:00+00:00"
   },
   {
    "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
@@ -272,8 +336,7 @@
    "url": "https://www.ibtimes.com.au/spacex-tesla-terafab-ai-chip-complex-texas-1873697",
    "source": "Ibtimes.com.au",
    "category": "compute",
-   "published": "2026-08-07T13:30:38+00:00",
-   "breakthrough": true
+   "published": "2026-08-07T13:30:38+00:00"
   },
   {
    "title": "Mitsubishi joins the humanoid robot race \u2014 at a 1,000 unit per month pace",
