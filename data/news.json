@@ -1,33 +1,405 @@
 {
- "updated": "2026-08-11T07:15:11.539929+00:00",
+ "updated": "2026-08-11T13:15:42.329554+00:00",
  "items": [
   {
-   "title": "What building an AI-native finance function taught me",
-   "url": "https://openai.com/index/building-an-ai-native-finance-function",
-   "source": "OpenAI",
+   "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+   "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-08-10T17:00:00+00:00"
+   "published": "2026-08-11T13:00:25+00:00"
   },
   {
-   "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-   "url": "https://openai.com/index/model-ml",
-   "source": "OpenAI",
+   "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+   "source": "NVIDIA",
    "category": "ai",
+   "published": "2026-08-11T13:00:05+00:00"
+  },
+  {
+   "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+   "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-08-10T19:25:00+00:00"
+  },
+  {
+   "title": "xerv-crayon 5.7.13",
+   "url": "https://pypi.org/project/xerv-crayon/5.7.13/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-10T13:14:07+00:00"
+  },
+  {
+   "title": "xerv-crayon 5.7.12",
+   "url": "https://pypi.org/project/xerv-crayon/5.7.12/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-10T13:12:45+00:00"
+  },
+  {
+   "title": "Microsoft in talks with TSMC to produce custom chips",
+   "url": "https://cryptobriefing.com/microsoft-tsmc-custom-chip-talks/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-10T13:11:03+00:00"
+  },
+  {
+   "title": "AI Found an Influenza Target That Survives Viral Mutation",
+   "url": "https://financialpost.com/globe-newswire/ai-found-an-influenza-target-that-survives-viral-mutation",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-08-10T13:10:39+00:00"
+  },
+  {
+   "title": "Microsoft\u2019s AI chip project shows revival signs, plans Maia 300 release",
+   "url": "https://cryptobriefing.com/microsoft-maia-300-ai-chip-revival/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-10T13:10:35+00:00"
+  },
+  {
+   "title": "llm-trees added to PyPI",
+   "url": "https://pypi.org/project/llm-trees/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-10T13:10:29+00:00"
+  },
+  {
+   "title": "llm-trees 0.2.0",
+   "url": "https://pypi.org/project/llm-trees/0.2.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-10T13:10:29+00:00"
+  },
+  {
+   "title": "dompruner added to PyPI",
+   "url": "https://pypi.org/project/dompruner/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-10T13:09:10+00:00"
+  },
+  {
+   "title": "dompruner 0.1.0",
+   "url": "https://pypi.org/project/dompruner/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-10T13:09:10+00:00"
+  },
+  {
+   "title": "Brightfin Appoints Preeti Shukla as Chief Product and AI Officer",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/brightfin-appoints-preeti-shukla-as-chief-product-and-ai-officer",
+   "source": "Financial Post",
+   "category": "ai",
+   "published": "2026-08-10T13:07:57+00:00"
+  },
+  {
+   "title": "saive-client added to PyPI",
+   "url": "https://pypi.org/project/saive-client/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-10T13:05:21+00:00"
+  },
+  {
+   "title": "Acer Swift Go 16 AI (AMD Gorgon Point) Review: A balanced, affordable, big-screen portable",
+   "url": "https://www.tomshardware.com/laptops/acer-swift-go-16-ai-amd-gorgon-point-review",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-08-10T13:05:00+00:00"
+  },
+  {
+   "title": "TSMC Revenue Surges as AI Chip Demand Hold",
+   "url": "https://app.moby.co/home/news/news-tsmc-revenue-surges-as-ai-chip-demand-hold?utm_source=yahoo_finance&amp;utm_medium=rss",
+   "source": "Moby.co",
+   "category": "compute",
+   "published": "2026-08-10T13:04:45+00:00"
+  },
+  {
+   "title": "Why Taiwan Semiconductor (TSM) Could Be a Top AI Infrastructure Winner",
+   "url": "https://biztoc.com/x/b5a4139c71ec521d",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-08-10T13:03:31+00:00"
+  },
+  {
+   "title": "Lancium Supports Governor Abbott's Call for Transparency and Accountability in Texas Data Center Development",
+   "url": "https://www.prnewswire.com/news-releases/lancium-supports-governor-abbotts-call-for-transparency-and-accountability-in-texas-data-center-development-302847121.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-08-10T13:03:00+00:00"
+  },
+  {
+   "title": "UK government announces \u00a3130m investment in automotive tech",
+   "url": "https://www.autocar.co.uk/car-news/technology/uk-government-announces-%C2%A3130m-investment-automotive-tech",
+   "source": "Autocar",
+   "category": "compute",
+   "published": "2026-08-10T13:02:47+00:00"
+  },
+  {
+   "title": "Situational Awareness bets $400M on chip startup Source Foundry",
+   "url": "https://qz.com/situational-awareness-source-foundry-chip-startup-400-million-081026",
+   "source": "Quartz India",
+   "category": "compute",
+   "published": "2026-08-10T13:02:20+00:00"
+  },
+  {
+   "title": "Uttar Pradesh Semiconductor Policy, 2024: Key features, incentives",
+   "url": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-semiconductor-policy-2024-key-features-incentives-126081000780_1.html",
+   "source": "Business Standard",
+   "category": "compute",
+   "published": "2026-08-10T13:00:38+00:00"
+  },
+  {
+   "title": "llm-ot-cost-monitor added to PyPI",
+   "url": "https://pypi.org/project/llm-ot-cost-monitor/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-10T13:00:08+00:00"
+  },
+  {
+   "title": "Tritium Betavoltaic Cells Aim to Support Future Lunar Bases",
+   "url": "https://spectrum.ieee.org/tritium-nuclear-battery",
+   "source": "Ieee.org",
+   "category": "compute",
+   "published": "2026-08-10T13:00:01+00:00"
+  },
+  {
+   "title": "Unveiling a Smarter Future for Dentistry at China Dental Show 2026",
+   "url": "https://www.prnewswire.com/news-releases/unveiling-a-smarter-future-for-dentistry-at-china-dental-show-2026-302847023.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-10T13:00:00+00:00"
+  },
+  {
+   "title": "Hyosung rides the AI wave as Chairman Hyun-Joon Cho's proactive investments yield improved affiliate performance",
+   "url": "https://www.prnewswire.com/news-releases/hyosung-rides-the-ai-wave-as-chairman-hyun-joon-chos-proactive-investments-yield-improved-affiliate-performance-302847058.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-08-10T13:00:00+00:00"
+  },
+  {
+   "title": "Meta launches new AI model as Zuckerberg champions open-weight push",
+   "url": "https://www.business-standard.com/technology/artificial-intelligence/meta-launches-new-ai-model-as-zuckerberg-champions-open-weight-push-126081001450_1.html",
+   "source": "Business Standard",
+   "category": "ai",
+   "published": "2026-08-10T12:56:25+00:00"
+  },
+  {
+   "title": "Intel plans $15 billion stock offering as AI demand accelerates",
+   "url": "https://biztoc.com/x/b53d217165d05e77",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-08-10T12:55:15+00:00"
+  },
+  {
+   "title": "Meta's 'open source' Muse Glimmer model can run on a single computer",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184918830",
+   "source": "Slashdot.org",
+   "category": "ai",
+   "published": "2026-08-10T12:52:58+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Can Johnson & Johnson (JNJ) Challenge Intuitive Surgical (ISRG) After Ottava\u2019s FDA Approval?",
+   "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-challenge-intuitive-124242559.html",
+   "source": "Yahoo Entertainment",
+   "category": "health",
+   "published": "2026-08-10T12:42:42+00:00"
+  },
+  {
+   "title": "LIMPID Selected for Korea's Deep-Tech TIPS Program, Expanding Government-Backed R&D Behind Kinfora to US$6 Million",
+   "url": "https://www.prnewswire.com/news-releases/limpid-selected-for-koreas-deep-tech-tips-program-expanding-government-backed-rd-behind-kinfora-to-us6-million-302846077.html",
+   "source": "PRNewswire",
+   "category": "breakthroughs",
+   "published": "2026-08-10T12:32:00+00:00"
+  },
+  {
+   "title": "GlobalFoundries Selects Redpanda to Unify Real-Time Data and Power AI Agents Across its Global Manufacturing Footprint",
+   "url": "https://www.prnewswire.com/news-releases/globalfoundries-selects-redpanda-to-unify-real-time-data-and-power-ai-agents-across-its-global-manufacturing-footprint-302846473.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-08-10T12:30:00+00:00"
+  },
+  {
+   "title": "Medidata Expands Executive Leadership Team to Scale Operations and Accelerate Growth for Customers",
+   "url": "https://financialpost.com/globe-newswire/medidata-expands-executive-leadership-team-to-scale-operations-and-accelerate-growth-for-customers",
+   "source": "Financial Post",
+   "category": "ai",
+   "published": "2026-08-10T12:04:06+00:00"
+  },
+  {
+   "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips | TechCrunch",
+   "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+   "source": "TechCrunch",
+   "category": "compute",
+   "published": "2026-08-10T12:02:11+00:00"
+  },
+  {
+   "title": "Spear Education and VoiceStack Partner to Strengthen Dental Front Office Performance",
+   "url": "https://www.prnewswire.com/news-releases/spear-education-and-voicestack-partner-to-strengthen-dental-front-office-performance-302846421.html",
+   "source": "PRNewswire",
+   "category": "health",
    "published": "2026-08-10T12:00:00+00:00"
   },
   {
-   "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-   "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-10T10:00:00+00:00"
+   "title": "POMDOCTOR LIMITED Highlights Healthcare Intelligence Flywheel as a Self-Reinforcing Growth Engine",
+   "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-highlights-healthcare-intelligence-flywheel-as-a-self-reinforcing-growth-engine-302846822.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-10T12:00:00+00:00"
   },
   {
-   "title": "Putting frontier cyber models in more trusted hands",
-   "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+   "title": "RoboStore to Advance U.S. Localization of Robotics with Launch of Robo Inc.",
+   "url": "https://www.prnewswire.com/news-releases/robostore-to-advance-us-localization-of-robotics-with-launch-of-robo-inc-302847020.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-08-10T12:00:00+00:00"
+  },
+  {
+   "title": "Unitree Robotics IPO draws over 2,700x oversubscription from Shanghai retail investors",
+   "url": "https://cryptobriefing.com/unitree-robotics-ipo-shanghai-demand/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-08-10T11:54:54+00:00"
+  },
+  {
+   "title": "Preventing Knowledge Debt in AI-Assisted Software Development",
+   "url": "https://www.c-sharpcorner.com/article/preventing-knowledge-debt-in-ai-assisted-software-development/",
+   "source": "C-sharpcorner.com",
+   "category": "ai",
+   "published": "2026-08-10T09:44:36+00:00"
+  },
+  {
+   "title": "Building MCP Load Tests for Stateless Agent Workloads",
+   "url": "https://www.c-sharpcorner.com/article/building-mcp-load-tests-for-stateless-agent-workloads/",
+   "source": "C-sharpcorner.com",
+   "category": "ai",
+   "published": "2026-08-10T09:29:23+00:00"
+  },
+  {
+   "title": "AI for science needs reasoning, not just data",
+   "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+   "source": "MIT Technology Review",
+   "category": "ai",
+   "published": "2026-08-10T09:00:00+00:00"
+  },
+  {
+   "title": "Unitree CEO eyes embodied AI and robot expansion",
+   "url": "https://www.digitimes.com/news/a20260807PD256/robot-ceo-robotics-development-market.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-08-10T07:34:52+00:00"
+  },
+  {
+   "title": "Unitree opens A-share IPO subscription",
+   "url": "https://technode.com/2026/08/10/unitree-opens-a-share-ipo-subscription/",
+   "source": "TechNode",
+   "category": "robotics",
+   "published": "2026-08-10T07:24:24+00:00"
+  },
+  {
+   "title": "Former ByteDance robotics head reportedly joins Xiaomi",
+   "url": "https://technode.com/2026/08/10/former-bytedance-robotics-head-reportedly-joins-xiaomi/",
+   "source": "TechNode",
+   "category": "robotics",
+   "published": "2026-08-10T07:22:38+00:00"
+  },
+  {
+   "title": "Unitree Robotics prepares to list on Shanghai Stock Exchange with $9B valuation",
+   "url": "https://cryptobriefing.com/unitree-robotics-shanghai-stock-exchange-ipo/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-08-10T07:06:19+00:00"
+  },
+  {
+   "title": "Interacting collaborators reveal noninteracting fermions",
+   "url": "https://quantumfrontiers.com/2026/08/09/interacting-collaborators-reveal-noninteracting-fermions/",
+   "source": "Quantumfrontiers.com",
+   "category": "quantum",
+   "published": "2026-08-10T04:34:38+00:00"
+  },
+  {
+   "title": "What is Unitree and why are China\u2019s humanoid robot makers racing to list?",
+   "url": "https://www.thehindubusinessline.com/news/world/what-is-unitree-and-why-are-chinas-humanoid-robot-makers-racing-to-list/article71326862.ece",
+   "source": "BusinessLine",
+   "category": "robotics",
+   "published": "2026-08-10T03:28:03+00:00"
+  },
+  {
+   "title": "What is Unitree and why are China's humanoid robot makers racing to list?",
+   "url": "https://economictimes.indiatimes.com/tech/technology/what-is-unitree-and-why-are-chinas-humanoid-robot-makers-racing-to-list/articleshow/133079109.cms",
+   "source": "The Times of India",
+   "category": "robotics",
+   "published": "2026-08-10T03:09:09+00:00"
+  },
+  {
+   "title": "Explainer-What is Unitree and why are China\u2019s humanoid robot makers racing to list?",
+   "url": "https://biztoc.com/x/a6f05557f3d84ce2",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-10T02:57:05+00:00"
+  },
+  {
+   "title": "APAC's Leading Coil Winding Show - 2026 CWIEME Shanghai Concludes with Record International Growth, Spotlighting Robotics and eVTOL",
+   "url": "https://www.prnewswire.com/news-releases/apacs-leading-coil-winding-show--2026-cwieme-shanghai-concludes-with-record-international-growth-spotlighting-robotics-and-evtol-302846029.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-08-10T00:35:00+00:00"
+  },
+  {
+   "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+   "url": "https://openai.com/index/zapier",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-08-10T10:00:00+00:00"
+   "published": "2026-08-10T00:00:00+00:00"
+  },
+  {
+   "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+   "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-10T00:00:00+00:00"
+  },
+  {
+   "title": "DeepSeek takes Unitree stake to pair AI models with humanoid robots",
+   "url": "https://www.digitimes.com/news/a20260807VL214/deepseek-ipo-shanghai-robotics-robot.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-08-09T23:56:27+00:00"
+  },
+  {
+   "title": "South Korea charges into the humanoid robot race as conglomerates mobilize",
+   "url": "https://www.digitimes.com/news/a20260807PD227/robot-robotics-data-government-market.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-08-09T23:54:40+00:00"
+  },
+  {
+   "title": "qusim 1.1.0",
+   "url": "https://pypi.org/project/qusim/1.1.0/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-08-09T23:51:03+00:00"
+  },
+  {
+   "title": "The world's first diamond-powered portable quantum computer works at room temperature and can even be plugged into a regular wall outlet",
+   "url": "https://www.techradar.com/pro/the-worlds-first-diamond-powered-portable-quantum-computer-works-at-room-temperature-and-can-even-be-plugged-into-a-regular-wall-outlet",
+   "source": "TechRadar",
+   "category": "quantum",
+   "published": "2026-08-09T22:45:00+00:00"
+  },
+  {
+   "title": "qxlint added to PyPI",
+   "url": "https://pypi.org/project/qxlint/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-08-09T21:57:03+00:00"
+  },
+  {
+   "title": "Q&A:\u00a0Is robotics replacing AI as the next investment darling?",
+   "url": "https://www.digitaljournal.com/article/qa-is-robotics-replacing-ai-as-the-next-investment-darling/",
+   "source": "Digital Journal",
+   "category": "robotics",
+   "published": "2026-08-09T19:25:13+00:00"
   },
   {
    "title": "Excel Copilot Adds ChatGPT and Claude Switching for Spreadsheets",
@@ -128,13 +500,6 @@
    "published": "2026-08-10T05:49:05+00:00"
   },
   {
-   "title": "China commands over 97% of global humanoid robot shipments in H1 2026",
-   "url": "https://cryptobriefing.com/china-dominates-humanoid-robot-shipments-2026/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-08-10T05:41:05+00:00"
-  },
-  {
    "title": "KPJ Healthcare Launches First Orthopaedic and Rheumatology Centre of Excellence Under the KPJ Health System",
    "url": "https://en.antaranews.com/news/426301/kpj-healthcare-launches-first-orthopaedic-and-rheumatology-centre-of-excellence-under-the-kpj-health-system",
    "source": "Antaranews.com",
@@ -147,20 +512,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-08-10T04:05:00+00:00"
-  },
-  {
-   "title": "Premium seats are coming to ChatGPT Business",
-   "url": "https://openai.com/index/premium-seats-chatgpt-business",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-10T00:00:00+00:00"
-  },
-  {
-   "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia",
-   "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-08T10:24:54+00:00"
   },
   {
    "title": "AP Memory Strengthens Global Leadership Team with Appointment of Former Qualcomm Vice President Jian Zhang",

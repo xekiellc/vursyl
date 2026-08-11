@@ -1,45 +1,69 @@
 {
- "updated": "2026-08-11T07:15:11.539929+00:00",
+ "updated": "2026-08-11T13:15:42.329554+00:00",
  "items": [
   {
-   "title": "Google\u2019s Jeff Dean Exits, SpaceX Hits $100B in Rev & OpenAI\u2019s Astra Solves Decade-Old Math Problems",
-   "url": "https://www.youtube.com/watch?v=Jku8b2YKuy0",
-   "source": "Peter H. Diamandis",
-   "thumbnail": "https://i.ytimg.com/vi/Jku8b2YKuy0/mqdefault.jpg",
-   "category": "breakthroughs",
-   "published": "2026-08-08T20:18:19+00:00"
+   "title": "GTC SJ 2026: Healthcare Reimagined - Bridging Digital Intelligence and Physical Autonomy",
+   "url": "https://www.youtube.com/watch?v=pmiN5Nj1-K8",
+   "source": "NVIDIA",
+   "thumbnail": "https://i.ytimg.com/vi/pmiN5Nj1-K8/mqdefault.jpg",
+   "category": "health",
+   "published": "2026-08-11T13:00:34+00:00"
   },
   {
-   "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia",
-   "url": "https://www.youtube.com/watch?v=xcTRTotS9-A",
+   "title": "Quantum + HPC: Hybrid Workflows | Vincent Pascuzzi | QGSS26",
+   "url": "https://www.youtube.com/watch?v=d-wlv4hRtYo",
+   "source": "Qiskit",
+   "thumbnail": "https://i.ytimg.com/vi/d-wlv4hRtYo/mqdefault.jpg",
+   "category": "quantum",
+   "published": "2026-08-11T13:00:06+00:00"
+  },
+  {
+   "title": "GTC SJ 2026: Physical AI for Healthcare Robotics - Simulation-First Design & Accelerated Development",
+   "url": "https://www.youtube.com/watch?v=rRkucx0KwcI",
    "source": "NVIDIA",
-   "thumbnail": "https://i.ytimg.com/vi/xcTRTotS9-A/mqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/rRkucx0KwcI/mqdefault.jpg",
+   "category": "robotics",
+   "published": "2026-08-10T21:00:15+00:00"
+  },
+  {
+   "title": "Kavak's Playbook for Rebuilding a Company Around AI",
+   "url": "https://www.youtube.com/watch?v=n34CIw3gk1k",
+   "source": "a16z",
+   "thumbnail": "https://i.ytimg.com/vi/n34CIw3gk1k/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-08-10T14:30:04+00:00"
+  },
+  {
+   "title": "Next-Gen Enterprise AI: Powered by Infosys & NVIDIA",
+   "url": "https://www.youtube.com/watch?v=eV1Z2xQZGvA",
+   "source": "NVIDIA",
+   "thumbnail": "https://i.ytimg.com/vi/eV1Z2xQZGvA/mqdefault.jpg",
    "category": "compute",
-   "published": "2026-08-08T09:44:27+00:00"
+   "published": "2026-08-07T15:37:58+00:00"
   },
   {
-   "title": "AlphaZero for Mathematics - Grant Sanderson",
-   "url": "https://www.youtube.com/watch?v=AvH0cJV1Cc8",
-   "source": "Dwarkesh Patel",
-   "thumbnail": "https://i.ytimg.com/vi/AvH0cJV1Cc8/mqdefault.jpg",
-   "category": "breakthroughs",
-   "published": "2026-08-07T22:28:23+00:00"
+   "title": "Talking to Apollo about Gemini Robotics 2 \ud83e\udd16",
+   "url": "https://www.youtube.com/watch?v=zlveLhFb64M",
+   "source": "Google DeepMind",
+   "thumbnail": "https://i.ytimg.com/vi/zlveLhFb64M/mqdefault.jpg",
+   "category": "robotics",
+   "published": "2026-08-07T14:47:11+00:00"
   },
   {
-   "title": "Open models give enterprises transparency and flexibility.",
-   "url": "https://www.youtube.com/watch?v=SZ7rf5waBTY",
-   "source": "NVIDIA",
-   "thumbnail": "https://i.ytimg.com/vi/SZ7rf5waBTY/mqdefault.jpg",
+   "title": "How To Design In The Agent Era",
+   "url": "https://www.youtube.com/watch?v=P06RgnUKX_I",
+   "source": "Y Combinator",
+   "thumbnail": "https://i.ytimg.com/vi/P06RgnUKX_I/mqdefault.jpg",
    "category": "ai",
-   "published": "2026-08-07T19:00:31+00:00"
+   "published": "2026-08-07T14:00:34+00:00"
   },
   {
-   "title": "DeepMind Just Changed How AI Sees The World",
-   "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
-   "source": "Two Minute Papers",
-   "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-08-07T08:22:00+00:00"
+   "title": "Entanglement & QuantumEffects | Thaddeus Pellegrini | QGSS26",
+   "url": "https://www.youtube.com/watch?v=4i587vmFyaU",
+   "source": "Qiskit",
+   "thumbnail": "https://i.ytimg.com/vi/4i587vmFyaU/mqdefault.jpg",
+   "category": "quantum",
+   "published": "2026-08-07T13:00:07+00:00"
   },
   {
    "title": "How to Schedule a Weekly Metrics Report With ChatGPT Work",
@@ -56,30 +80,6 @@
    "thumbnail": "https://i.ytimg.com/vi/sC9hayyt5aw/mqdefault.jpg",
    "category": "ai",
    "published": "2026-08-06T19:03:16+00:00"
-  },
-  {
-   "title": "\"We Got to Aim for 10x, Not 2x\"",
-   "url": "https://www.youtube.com/watch?v=7obRdsTNEDQ",
-   "source": "Peter H. Diamandis",
-   "thumbnail": "https://i.ytimg.com/vi/7obRdsTNEDQ/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-08-06T16:31:53+00:00"
-  },
-  {
-   "title": "Introducing Agent Plugins",
-   "url": "https://www.youtube.com/watch?v=UaeWJK_vv-Y",
-   "source": "OpenAI",
-   "thumbnail": "https://i.ytimg.com/vi/UaeWJK_vv-Y/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-08-06T16:13:08+00:00"
-  },
-  {
-   "title": "How Open Source Became AI's Backbone | Inferact with a16z",
-   "url": "https://www.youtube.com/watch?v=78-6dUROziQ",
-   "source": "a16z",
-   "thumbnail": "https://i.ytimg.com/vi/78-6dUROziQ/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-08-06T14:57:20+00:00"
   },
   {
    "title": "What made you want to apply for an IBM internship? Ask a quantum intern",
