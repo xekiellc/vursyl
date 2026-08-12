@@ -1,19 +1,237 @@
 {
- "updated": "2026-08-12T07:39:33.567330+00:00",
+ "updated": "2026-08-12T13:19:12.968491+00:00",
  "items": [
   {
-   "title": "Introducing\u202fCARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
-   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
-   "source": "Microsoft Research",
-   "category": "health",
-   "published": "2026-08-11T16:00:00+00:00"
+   "title": "From assistance to execution: How enterprises put AI to work",
+   "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-12T06:00:00+00:00"
   },
   {
-   "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-   "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+   "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+   "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-08-11T15:00:06+00:00"
+   "published": "2026-08-12T00:38:21+00:00"
+  },
+  {
+   "title": "Show HN: Vergilant \u2013 alerts when your LLM API calls fail, stall, or burn money",
+   "url": "https://vergilant.dev",
+   "source": "Vergilant.dev",
+   "category": "ai",
+   "published": "2026-08-11T13:09:52+00:00"
+  },
+  {
+   "title": "Nvidia unveils Nemotron 3.5 Lightning and NeMo Switchyard to slash enterprise AI costs",
+   "url": "https://cryptobriefing.com/nvidia-nemotron-lightning-nemo-switchyard/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-11T13:08:39+00:00"
+  },
+  {
+   "title": "Mercyhealth Selects Vitea to Responsibly Scale AI Across Its System",
+   "url": "https://www.prnewswire.com/news-releases/mercyhealth-selects-vitea-to-responsibly-scale-ai-across-its-system-302846282.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-11T13:07:00+00:00"
+  },
+  {
+   "title": "Show HN: Verity \u2013 Permission-aware memory for AI agents",
+   "url": "https://github.com/RunAlphaLoop/verity",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-08-11T13:06:34+00:00"
+  },
+  {
+   "title": "China Takes 97% of H1 Humanoid Robot Shipments as Supply Chains Drive Global Scale-Up",
+   "url": "https://sputnikglobe.com/20260811/china-takes-97-of-h1-humanoid-robot-shipments-as-supply-chains-drive-global-scale-up-1124562055.html",
+   "source": "Sputnikglobe.com",
+   "category": "robotics",
+   "published": "2026-08-11T13:05:17+00:00"
+  },
+  {
+   "title": "FAU Video Compression Technology Portfolio Acquired by Dolby Laboratories",
+   "url": "https://www.prnewswire.com/news-releases/fau-video-compression-technology-portfolio-acquired-by-dolby-laboratories-302847470.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-08-11T13:05:00+00:00"
+  },
+  {
+   "title": "Omada Health Touts Record Q2 as GLP-1 Demand Fuels Growth Strategy",
+   "url": "https://www.marketbeat.com/instant-alerts/omada-health-touts-record-q2-as-glp-1-demand-fuels-growth-strategy-2026-08-11/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+   "source": "MarketBeat",
+   "category": "health",
+   "published": "2026-08-11T13:04:37+00:00"
+  },
+  {
+   "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
+   "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
+   "source": "Nvidia.com",
+   "category": "ai",
+   "published": "2026-08-11T13:01:56+00:00"
+  },
+  {
+   "title": "Wix launches Symphony, a new standalone multi-agent system built for business operations",
+   "url": "https://siliconangle.com/2026/08/11/wix-launches-symphony-new-standalone-multi-agent-system-built-business-operations/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-08-11T13:00:46+00:00"
+  },
+  {
+   "title": "Exclusive: ZeroDrift applies small language model to prevent AI-generated compliance violations",
+   "url": "https://siliconangle.com/2026/08/11/exclusive-zerodrift-applies-small-language-model-prevent-ai-generated-compliance-violations/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-08-11T13:00:35+00:00"
+  },
+  {
+   "title": "Marengo CIMS Hospital AI monitoring system helps prevent 115 cardiac emergencies",
+   "url": "https://medicaldialogues.in/news/health/hospital-diagnostics/marengo-cims-hospital-ai-monitoring-system-helps-prevent-115-cardiac-emergencies-176946",
+   "source": "Medical Dialogues",
+   "category": "health",
+   "published": "2026-08-11T13:00:35+00:00"
+  },
+  {
+   "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+   "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
+   "source": "Nvidia.com",
+   "category": "ai",
+   "published": "2026-08-11T13:00:27+00:00"
+  },
+  {
+   "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+   "source": "Nvidia.com",
+   "category": "ai",
+   "published": "2026-08-11T13:00:25+00:00"
+  },
+  {
+   "title": "Blumira launches Hearth, an AI command center that spans rival security tools",
+   "url": "https://siliconangle.com/2026/08/11/blumira-launches-hearth-ai-command-center-spans-rival-security-tools/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-08-11T13:00:16+00:00"
+  },
+  {
+   "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+   "source": "Nvidia.com",
+   "category": "ai",
+   "published": "2026-08-11T13:00:05+00:00"
+  },
+  {
+   "title": "Nvidia releases Nemotron 3.5 Lightning and NeMo Switchyard to give enterprise AI capability options",
+   "url": "https://siliconangle.com/2026/08/11/nvidia-releases-nemotron-3-5-lightning-nemo-switchyard-give-enterprise-ai-capability-options/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-08-11T13:00:01+00:00"
+  },
+  {
+   "title": "Nvidia unveils first open-source AI model since CEO Jensen Huang entered the chat",
+   "url": "https://www.cnbc.com/2026/08/11/nvidia-releases-nemotron-3point5-lightning-open-source-ai-model-.html",
+   "source": "CNBC",
+   "category": "ai",
+   "published": "2026-08-11T13:00:01+00:00"
+  },
+  {
+   "title": "Cloud AI Today - Novo Nordisk Partners With AWS For AI-Driven Drug Discovery",
+   "url": "https://biztoc.com/x/9c84d0e5647bf7fd",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-08-11T12:52:08+00:00"
+  },
+  {
+   "title": "Cleveland Clinic launches prescription drone delivery",
+   "url": "https://www.foxnews.com/tech/cleveland-clinic-launches-prescription-drone-delivery",
+   "source": "Fox News",
+   "category": "robotics",
+   "published": "2026-08-11T12:41:13+00:00"
+  },
+  {
+   "title": "The AI dividend in healthcare is real. Now the focus is extending its impact",
+   "url": "https://fortune.com/2026/08/11/ai-dividend-healthcare-extend-impact-philips-index/",
+   "source": "Fortune",
+   "category": "health",
+   "published": "2026-08-11T12:30:00+00:00"
+  },
+  {
+   "title": "IntelliTek Health and Promevo Collaborate to Advance Trusted AI for Healthcare on Google Cloud",
+   "url": "https://www.prnewswire.com/news-releases/intellitek-health-and-promevo-collaborate-to-advance-trusted-ai-for-healthcare-on-google-cloud-302846664.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-11T12:08:00+00:00"
+  },
+  {
+   "title": "Anthropic signs $9.1 billion data center deal with Riot Platforms",
+   "url": "https://qz.com/anthropic-riot-platforms-data-center-deal-9-billion-081126",
+   "source": "Quartz India",
+   "category": "compute",
+   "published": "2026-08-11T11:37:31+00:00"
+  },
+  {
+   "title": "China's Unitree Robotics IPO 5,526 Times Oversubscribed By Retail Investors",
+   "url": "https://biztoc.com/x/dfd77ae64e3b2e7a",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-11T11:03:57+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "IDEXX Expands Catalyst Platform into Cardiac Disease with First and Only Dual-Species Point-of-Care NT-proBNP Test",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/idexx-expands-catalyst-platform-into-cardiac-disease-with-first-and-only-dual-species-point-of-care-nt-probnp-test",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-08-11T11:02:08+00:00"
+  },
+  {
+   "title": "Daybreak models are now available on AWS",
+   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-11T10:00:00+00:00"
+  },
+  {
+   "title": "Samsung reportedly starts making humanoid robots in-house",
+   "url": "https://www.sammobile.com/news/samsung-reportedly-starts-making-humanoid-robots-in-house/",
+   "source": "SamMobile",
+   "category": "robotics",
+   "published": "2026-08-11T07:39:40+00:00"
+  },
+  {
+   "title": "Unitree\u2019s Shanghai IPO 5,526 times subscribed by retail investors",
+   "url": "https://www.straitstimes.com/business/companies-markets/unitrees-shanghai-ipo-5526-times-subscribed-by-retail-investors",
+   "source": "The Straits Times",
+   "category": "robotics",
+   "published": "2026-08-11T01:24:16+00:00"
+  },
+  {
+   "title": "NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup",
+   "url": "https://www.prnewswire.com/news-releases/naver-d2sf-makes-follow-on-investment-in-ndotlight-a-physical-ai-data-startup-302847021.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-08-11T00:00:00+00:00"
+  },
+  {
+   "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+   "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-08-10T19:25:00+00:00"
+  },
+  {
+   "title": "Integrating short-read and long-read single-cell transcriptomics of pig pituitary reveals mechanisms of high-altitude hypoxia adaptation",
+   "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012267",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-08-10T14:00:00+00:00"
+  },
+  {
+   "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+   "url": "https://openai.com/index/model-ml",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-10T12:00:00+00:00"
   },
   {
    "title": "'Start companies while in school': Skyroot CEO Pawan Chandana\u2019s advice to Gen Z & Gen Alpha on taking risks, choosing deep tech and building early",
@@ -149,20 +367,6 @@
    "published": "2026-08-11T05:30:00+00:00"
   },
   {
-   "title": "Chinese Makers Accounted for More Than 97% of Global Humanoid Robot Shipments in H1 2026",
-   "url": "https://technode.com/2026/08/11/chinese-makers-accounted-for-more-than-97-of-global-humanoid-robot-shipments-in-h1-2026/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-08-11T04:48:51+00:00"
-  },
-  {
-   "title": "Beyond mobility: Unitree\u2019s GD01 signals the next phase of China\u2019s robotics battle",
-   "url": "https://technode.com/2026/08/11/beyond-mobility-unitrees-gd01-signals-the-next-phase-of-chinas-robotics-battle/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-08-11T02:44:52+00:00"
-  },
-  {
    "title": "Policy as code: What happens when you layer policy enforcement onto the automation you already have",
    "url": "https://www.redhat.com/en/blog/policy-code-what-happens-when-you-layer-policy-enforcement-automation-you-already-have",
    "source": "Redhat.com",
@@ -170,33 +374,11 @@
    "published": "2026-08-11T00:00:00+00:00"
   },
   {
-   "title": "Skild AI tops robotics funding with $2.2B raised, valued at over $14B",
-   "url": "https://cryptobriefing.com/skild-ai-tops-robotics-funding-2b/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-08-10T17:23:58+00:00"
-  },
-  {
-   "title": "Digit v5: First Humanoid Robot Out Of The Cage?",
-   "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/10/digit-v5-first-humanoid-robot-out-of-the-cage/",
-   "source": "Forbes",
-   "category": "robotics",
-   "published": "2026-08-10T17:23:32+00:00"
-  },
-  {
-   "title": "What building an AI-native finance function taught me",
-   "url": "https://openai.com/index/building-an-ai-native-finance-function",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-10T17:00:00+00:00"
-  },
-  {
    "title": "Dyna Robotics unveils DYNA-2 World-Action Model, demonstrating first true scaling law in robotics powered entirely by human data",
    "url": "https://www.prnewswire.com/news-releases/dyna-robotics-unveils-dyna-2-world-action-model-demonstrating-first-true-scaling-law-in-robotics-powered-entirely-by-human-data-302847114.html",
    "source": "PRNewswire",
    "category": "robotics",
-   "published": "2026-08-10T16:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-08-10T16:00:00+00:00"
   },
   {
    "title": "China Intends To Build Its 2035 Moon Station With Quadruped Robots",
@@ -325,13 +507,6 @@
    "published": "2026-08-11T00:12:26+00:00"
   },
   {
-   "title": "Modeling maternal immune activation in 3D ex vivo human fetal brain cerebroids reveals IL-17A-driven disruption of cortical development",
-   "url": "https://www.nature.com/articles/s41593-026-02400-2",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-08-11T00:00:00+00:00"
-  },
-  {
    "title": "NASA has quietly accumulated more than 150 petabytes of data across decades of missions, and under a new White House initiative launched in November 2025, it\u2019s betting that AI can find discoveries still hiding in archives too vast to examine by hand",
    "url": "https://spacedaily.com/t-nasa-has-quietly-accumulated-more-than-150-petabytes-of-data-across-decades-of-missions-and-under-a-new-white-house-initiative-launched-in-november-2025-its-betting-that-ai-can-find-discoveries-stil/",
    "source": "Space Daily",
@@ -372,20 +547,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-08-10T20:15:00+00:00"
-  },
-  {
-   "title": "100 Kodiak driverless trucks are headed for public roads",
-   "url": "https://www.foxnews.com/tech/100-kodiak-driverless-trucks-headed-public-roads",
-   "source": "Fox News",
-   "category": "robotics",
-   "published": "2026-08-10T20:00:29+00:00"
-  },
-  {
-   "title": "Agrobacterium tumefaciens-mediated transformation and T-DNA insertion characterisation of Didymella tanaceti and Stagonosporopsis tanaceti for infection visualisation in pyrethrum",
-   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355715",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-08-10T14:00:00+00:00"
   },
   {
    "title": "Unitree's Shanghai IPO more than 8,000 times oversubscribed by retail investors",
@@ -540,20 +701,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-08-10T14:16:00+00:00"
-  },
-  {
-   "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-   "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-10T10:00:00+00:00"
-  },
-  {
-   "title": "Putting frontier cyber models in more trusted hands",
-   "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-10T10:00:00+00:00"
   },
   {
    "title": "xerv-crayon 5.7.13",
