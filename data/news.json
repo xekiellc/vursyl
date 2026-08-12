@@ -1,33 +1,230 @@
 {
- "updated": "2026-08-12T02:17:33.100851+00:00",
+ "updated": "2026-08-12T07:39:33.567330+00:00",
  "items": [
   {
-   "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-   "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+   "title": "Introducing\u202fCARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+   "source": "Microsoft Research",
+   "category": "health",
+   "published": "2026-08-11T16:00:00+00:00"
+  },
+  {
+   "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+   "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-08-12T00:38:21+00:00"
+   "published": "2026-08-11T15:00:06+00:00"
   },
   {
-   "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-   "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
-   "source": "NVIDIA",
+   "title": "'Start companies while in school': Skyroot CEO Pawan Chandana\u2019s advice to Gen Z & Gen Alpha on taking risks, choosing deep tech and building early",
+   "url": "https://economictimes.indiatimes.com/news/new-updates/start-companies-while-in-school-skyroot-ceo-pawan-chandanas-advice-to-gen-z-gen-alpha-on-taking-risks-choosing-deep-tech-and-building-early/articleshow/133144782.cms",
+   "source": "The Times of India",
    "category": "ai",
-   "published": "2026-08-11T13:00:25+00:00"
+   "published": "2026-08-11T07:36:49+00:00"
   },
   {
-   "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
-   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-   "source": "NVIDIA",
+   "title": "AI can bring to lending, what UPI did to payments: RBI governor",
+   "url": "https://timesofindia.indiatimes.com/business/india-business/ai-can-bring-to-lending-what-upi-did-to-payments-rbi-governor/articleshow/133146232.cms",
+   "source": "The Times of India",
    "category": "ai",
-   "published": "2026-08-11T13:00:05+00:00"
+   "published": "2026-08-11T07:28:02+00:00"
   },
   {
-   "title": "Daybreak models are now available on AWS",
-   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+   "title": "How AI is transforming frontend engineering for modern web applications",
+   "url": "https://thenextweb.com/news/ai-transforming-frontend-engineering-web",
+   "source": "The Next Web",
+   "category": "ai",
+   "published": "2026-08-11T07:25:24+00:00"
+  },
+  {
+   "title": "Meta Muse Glimmer runs offline on one GPU, but needs 24 GB VRAM",
+   "url": "https://www.notebookcheck.net/Meta-Muse-Glimmer-runs-offline-on-one-GPU-but-needs-24-GB-VRAM.1365512.0.html",
+   "source": "Notebookcheck.net",
+   "category": "compute",
+   "published": "2026-08-11T07:19:00+00:00"
+  },
+  {
+   "title": "Singapore says AI-related demand lifting economy",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/singapore-says-ai-related-demand-lifting-economy/articleshow/133145658.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-08-11T07:15:14+00:00"
+  },
+  {
+   "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+   "url": "https://research.nvidia.com/publication/2026-10_zone-proximal-policy-optimization-teacher-prompts-not-gradients-0",
+   "source": "Nvidia.com",
+   "category": "ai",
+   "published": "2026-08-11T07:15:12+00:00"
+  },
+  {
+   "title": "Building Capability-Based Security for AI Tool Plugins",
+   "url": "https://www.c-sharpcorner.com/article/building-capability-based-security-for-ai-tool-plugins/",
+   "source": "C-sharpcorner.com",
+   "category": "ai",
+   "published": "2026-08-11T07:14:16+00:00"
+  },
+  {
+   "title": "Meta Releases Muse Glimmer, a 30-Billion-Parameter Open-Weight AI Model That Runs on a Single Consumer GPU",
+   "url": "https://www.ghacks.net/2026/08/11/meta-releases-muse-glimmer-a-30-billion-parameter-open-weight-ai-model-that-runs-on-a-single-consumer-gpu/",
+   "source": "Ghacks Technology News",
+   "category": "ai",
+   "published": "2026-08-11T07:11:27+00:00"
+  },
+  {
+   "title": "MCP Multi-Round Requests: Designing Reliable Tool Calls",
+   "url": "https://www.c-sharpcorner.com/article/mcp-multi-round-requests-designing-reliable-tool-calls/",
+   "source": "C-sharpcorner.com",
+   "category": "ai",
+   "published": "2026-08-11T07:06:33+00:00"
+  },
+  {
+   "title": "Only AI alone can help limit AI frauds, says RBI Governor Malhotra",
+   "url": "https://www.business-standard.com/industry/news/rbi-governor-malhotra-only-ai-can-help-limit-ai-frauds-126081100730_1.html",
+   "source": "Business Standard",
+   "category": "ai",
+   "published": "2026-08-11T07:00:47+00:00"
+  },
+  {
+   "title": "Show HN: Langkast \u2013 One workspace for every AI model, agents, and your files",
+   "url": "https://langkast.com",
+   "source": "Langkast.com",
+   "category": "ai",
+   "published": "2026-08-11T06:56:03+00:00"
+  },
+  {
+   "title": "Uniper Targets Data Center Sales in UK, Germany on AI Demand",
+   "url": "https://financialpost.com/pmn/business-pmn/uniper-targets-data-center-sales-in-uk-germany-on-ai-demand",
+   "source": "Financial Post",
+   "category": "compute",
+   "published": "2026-08-11T06:54:17+00:00"
+  },
+  {
+   "title": "Apple Silicon AI Performance: Local Al on Apple Silicon Uses 7X Less RAM",
+   "url": "https://www.geeky-gadgets.com/local-ai-apple-silicon-ram/",
+   "source": "Geeky Gadgets",
+   "category": "compute",
+   "published": "2026-08-11T06:47:00+00:00"
+  },
+  {
+   "title": "Nvidia links with Wall Street firms for $500bn AI financing deal",
+   "url": "https://biztoc.com/x/a033faca56e1d7bf",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-08-11T06:45:49+00:00"
+  },
+  {
+   "title": "Nvidia, finance firms to raise $500bn for AI build-out",
+   "url": "https://www.rte.ie/news/business/2026/0811/1587364-nvidia-finance-funding/",
+   "source": "RTE",
+   "category": "compute",
+   "published": "2026-08-11T06:12:35+00:00"
+  },
+  {
+   "title": "Wall Street Titans Join Nvidia in $500B AI Infrastructure Push",
+   "url": "https://www.newser.com/story/394423/wall-street-titans-join-nvidia-in-500b-ai-infrastructure-push.html",
+   "source": "Newser",
+   "category": "compute",
+   "published": "2026-08-11T06:00:00+00:00"
+  },
+  {
+   "title": "Nvidia taps Wall Street for US$500B AI infrastructure financing network",
+   "url": "https://www.digitimes.com/news/a20260811VL204/nvidia-infrastructure-financing-investment-ceo.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-11T05:55:00+00:00"
+  },
+  {
+   "title": "Nvidia partners with Wall Street giants to mobilize $500B for AI infrastructure",
+   "url": "https://cryptobriefing.com/nvidia-partners-with-wall-street-giants-to-mobilize-500b-for-ai-infrastructure/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-11T05:47:49+00:00"
+  },
+  {
+   "title": "AI will not pilot future spacecraft like a human captain; its practical role is narrower and more important, choosing routes, spotting hazards and keeping missions working when Earth is minutes or hours away",
+   "url": "https://spacedaily.com/t-ai-will-not-pilot-future-spacecraft-like-a-human-captain-its-practical-role-is-narrower-and-more-important-choosing-routes-spotting-hazards-and-keeping-missions-working-when-earth-is-minutes-or-hour/",
+   "source": "Space Daily",
+   "category": "ai",
+   "published": "2026-08-11T05:30:00+00:00"
+  },
+  {
+   "title": "Chinese Makers Accounted for More Than 97% of Global Humanoid Robot Shipments in H1 2026",
+   "url": "https://technode.com/2026/08/11/chinese-makers-accounted-for-more-than-97-of-global-humanoid-robot-shipments-in-h1-2026/",
+   "source": "TechNode",
+   "category": "robotics",
+   "published": "2026-08-11T04:48:51+00:00"
+  },
+  {
+   "title": "Beyond mobility: Unitree\u2019s GD01 signals the next phase of China\u2019s robotics battle",
+   "url": "https://technode.com/2026/08/11/beyond-mobility-unitrees-gd01-signals-the-next-phase-of-chinas-robotics-battle/",
+   "source": "TechNode",
+   "category": "robotics",
+   "published": "2026-08-11T02:44:52+00:00"
+  },
+  {
+   "title": "Policy as code: What happens when you layer policy enforcement onto the automation you already have",
+   "url": "https://www.redhat.com/en/blog/policy-code-what-happens-when-you-layer-policy-enforcement-automation-you-already-have",
+   "source": "Redhat.com",
+   "category": "ai",
+   "published": "2026-08-11T00:00:00+00:00"
+  },
+  {
+   "title": "Skild AI tops robotics funding with $2.2B raised, valued at over $14B",
+   "url": "https://cryptobriefing.com/skild-ai-tops-robotics-funding-2b/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-08-10T17:23:58+00:00"
+  },
+  {
+   "title": "Digit v5: First Humanoid Robot Out Of The Cage?",
+   "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/10/digit-v5-first-humanoid-robot-out-of-the-cage/",
+   "source": "Forbes",
+   "category": "robotics",
+   "published": "2026-08-10T17:23:32+00:00"
+  },
+  {
+   "title": "What building an AI-native finance function taught me",
+   "url": "https://openai.com/index/building-an-ai-native-finance-function",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-08-11T10:00:00+00:00"
+   "published": "2026-08-10T17:00:00+00:00"
+  },
+  {
+   "title": "Dyna Robotics unveils DYNA-2 World-Action Model, demonstrating first true scaling law in robotics powered entirely by human data",
+   "url": "https://www.prnewswire.com/news-releases/dyna-robotics-unveils-dyna-2-world-action-model-demonstrating-first-true-scaling-law-in-robotics-powered-entirely-by-human-data-302847114.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-08-10T16:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "China Intends To Build Its 2035 Moon Station With Quadruped Robots",
+   "url": "https://www.ponoko.com/blog/ponoko/china-intends-to-build-its-2035-moon-station-with-quadruped-robots/",
+   "source": "Ponoko.com",
+   "category": "robotics",
+   "published": "2026-08-10T15:12:48+00:00"
+  },
+  {
+   "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
+   "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-10T14:00:00+00:00"
+  },
+  {
+   "title": "Premium seats are coming to ChatGPT Business",
+   "url": "https://openai.com/index/premium-seats-chatgpt-business",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-10T00:00:00+00:00"
+  },
+  {
+   "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia",
+   "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-08T10:24:54+00:00"
   },
   {
    "title": "Liying posts record July revenue as AI chip recycling demand rises",
@@ -79,25 +276,11 @@
    "published": "2026-08-11T01:38:31+00:00"
   },
   {
-   "title": "Aureka Biotechnologies Raises US$100 Million Series B to Build a Biological World Model for Drug Discovery",
-   "url": "https://www.prnewswire.com/news-releases/aureka-biotechnologies-raises-us100-million-series-b-to-build-a-biological-world-model-for-drug-discovery-302847165.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-11T01:30:00+00:00"
-  },
-  {
    "title": "Asus posts record July revenue on strong AI server demand",
    "url": "https://www.digitimes.com/news/a20260810PD253/asus-ai-server-pc-demand-revenue-2026.html",
    "source": "Digitimes",
    "category": "compute",
    "published": "2026-08-11T01:28:31+00:00"
-  },
-  {
-   "title": "Unitree\u2019s Shanghai IPO 5,526 times subscribed by retail investors",
-   "url": "https://www.straitstimes.com/business/companies-markets/unitrees-shanghai-ipo-5526-times-subscribed-by-retail-investors",
-   "source": "The Straits Times",
-   "category": "robotics",
-   "published": "2026-08-11T01:24:16+00:00"
   },
   {
    "title": "Show HN: Sketchling \u2013 a hand-drawn animation language for coding agents",
@@ -149,19 +332,11 @@
    "published": "2026-08-11T00:00:00+00:00"
   },
   {
-   "title": "NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup",
-   "url": "https://www.prnewswire.com/news-releases/naver-d2sf-makes-follow-on-investment-in-ndotlight-a-physical-ai-data-startup-302847021.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-08-11T00:00:00+00:00"
-  },
-  {
    "title": "NASA has quietly accumulated more than 150 petabytes of data across decades of missions, and under a new White House initiative launched in November 2025, it\u2019s betting that AI can find discoveries still hiding in archives too vast to examine by hand",
    "url": "https://spacedaily.com/t-nasa-has-quietly-accumulated-more-than-150-petabytes-of-data-across-decades-of-missions-and-under-a-new-white-house-initiative-launched-in-november-2025-its-betting-that-ai-can-find-discoveries-stil/",
    "source": "Space Daily",
    "category": "breakthroughs",
-   "published": "2026-08-10T23:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-08-10T23:00:00+00:00"
   },
   {
    "title": "The Robot ETF Actually Exists Now: Tesla, Hyundai, and the Companies Building the Joints",
@@ -192,13 +367,6 @@
    "published": "2026-08-10T20:32:04+00:00"
   },
   {
-   "title": "SpaceX is spending $16.8 billion on a Texas chip fab Musk says will be '50 times the size of the Pentagon'",
-   "url": "https://www.techradar.com/pro/spacex-is-spending-usd16-8-billion-on-a-texas-chip-fab-that-musk-says-will-be-50-times-the-size-of-the-pentagon",
-   "source": "TechRadar",
-   "category": "compute",
-   "published": "2026-08-10T20:20:00+00:00"
-  },
-  {
    "title": "Kyndryl announces agreement to purchase Healthcare IT Leaders, LLC, to accelerate AI-led modernization",
    "url": "https://www.prnewswire.com/news-releases/kyndryl-announces-agreement-to-purchase-healthcare-it-leaders-llc-to-accelerate-ai-led-modernization-302847448.html",
    "source": "PRNewswire",
@@ -213,32 +381,11 @@
    "published": "2026-08-10T20:00:29+00:00"
   },
   {
-   "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
-   "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-08-10T19:25:00+00:00"
-  },
-  {
    "title": "Agrobacterium tumefaciens-mediated transformation and T-DNA insertion characterisation of Didymella tanaceti and Stagonosporopsis tanaceti for infection visualisation in pyrethrum",
    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355715",
    "source": "Plos.org",
    "category": "health",
    "published": "2026-08-10T14:00:00+00:00"
-  },
-  {
-   "title": "RoboStore to Advance U.S. Localization of Robotics with Launch of Robo Inc.",
-   "url": "https://www.prnewswire.com/news-releases/robostore-to-advance-us-localization-of-robotics-with-launch-of-robo-inc-302847020.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-08-10T12:00:00+00:00"
-  },
-  {
-   "title": "Unitree Robotics IPO draws over 2,700x oversubscription from Shanghai retail investors",
-   "url": "https://cryptobriefing.com/unitree-robotics-ipo-shanghai-demand/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-08-10T11:54:54+00:00"
   },
   {
    "title": "Unitree's Shanghai IPO more than 8,000 times oversubscribed by retail investors",
