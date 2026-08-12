@@ -1,19 +1,251 @@
 {
- "updated": "2026-08-11T19:08:07.186903+00:00",
+ "updated": "2026-08-12T02:17:33.100851+00:00",
  "items": [
   {
-   "title": "Introducing\u202fCARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
-   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
-   "source": "Microsoft Research",
-   "category": "health",
-   "published": "2026-08-11T16:00:00+00:00"
-  },
-  {
-   "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-   "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+   "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+   "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-08-11T15:00:06+00:00"
+   "published": "2026-08-12T00:38:21+00:00"
+  },
+  {
+   "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-08-11T13:00:25+00:00"
+  },
+  {
+   "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-08-11T13:00:05+00:00"
+  },
+  {
+   "title": "Daybreak models are now available on AWS",
+   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-11T10:00:00+00:00"
+  },
+  {
+   "title": "Liying posts record July revenue as AI chip recycling demand rises",
+   "url": "https://www.digitimes.com/news/a20260810PD244/revenue-demand-recycling-ai-chip-manufacturing.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-11T02:12:47+00:00"
+  },
+  {
+   "title": "Nvidia gets $500bn from major banks for AI build out - BBC",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184923948",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-08-11T02:12:30+00:00"
+  },
+  {
+   "title": "Andhra Pradesh emerges as AI leader in GST tax administration, says GST Council",
+   "url": "https://www.thehindubusinessline.com/news/national/andhra-pradesh-emerges-as-ai-leader-in-gst-tax-administration-says-gst-council/article71330856.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-08-11T01:54:18+00:00"
+  },
+  {
+   "title": "Trusval posts record profit on semiconductor fab and memory project demand",
+   "url": "https://www.digitimes.com/news/a20260811PD200/trusval-profit-demand-fab-revenue.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-11T01:52:56+00:00"
+  },
+  {
+   "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout/articleshow/133140190.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-08-11T01:45:28+00:00"
+  },
+  {
+   "title": "Nvidia taps Wall Street for a half-trillion dollars to fuel global AI infrastructure buildout",
+   "url": "https://siliconangle.com/2026/08/10/nvidia-taps-wall-street-half-trillion-dollars-fuel-global-ai-infrastructure-buildout/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-08-11T01:42:31+00:00"
+  },
+  {
+   "title": "Meta\u2019s new local model forces enterprises to recalculate AI costs and ROI",
+   "url": "https://www.computerworld.com/article/4207598/metas-new-local-model-forces-enterprises-to-recalculate-ai-costs-and-roi.html",
+   "source": "Computerworld",
+   "category": "ai",
+   "published": "2026-08-11T01:38:31+00:00"
+  },
+  {
+   "title": "Aureka Biotechnologies Raises US$100 Million Series B to Build a Biological World Model for Drug Discovery",
+   "url": "https://www.prnewswire.com/news-releases/aureka-biotechnologies-raises-us100-million-series-b-to-build-a-biological-world-model-for-drug-discovery-302847165.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-11T01:30:00+00:00"
+  },
+  {
+   "title": "Asus posts record July revenue on strong AI server demand",
+   "url": "https://www.digitimes.com/news/a20260810PD253/asus-ai-server-pc-demand-revenue-2026.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-11T01:28:31+00:00"
+  },
+  {
+   "title": "Unitree\u2019s Shanghai IPO 5,526 times subscribed by retail investors",
+   "url": "https://www.straitstimes.com/business/companies-markets/unitrees-shanghai-ipo-5526-times-subscribed-by-retail-investors",
+   "source": "The Straits Times",
+   "category": "robotics",
+   "published": "2026-08-11T01:24:16+00:00"
+  },
+  {
+   "title": "Show HN: Sketchling \u2013 a hand-drawn animation language for coding agents",
+   "url": "https://github.com/AnayGarodia/sketchling",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-08-11T01:18:16+00:00"
+  },
+  {
+   "title": "Secure Claude Enterprise with Cisco AI Defense",
+   "url": "https://blogs.cisco.com/ai/secure-claude-enterprise-with-cisco-ai-defense",
+   "source": "Cisco.com",
+   "category": "ai",
+   "published": "2026-08-11T01:06:16+00:00"
+  },
+  {
+   "title": "Alibaba Cloud is using AI to help it use less AI",
+   "url": "https://www.theregister.com/ai-and-ml/2026/08/11/alibaba-cloud-is-using-ai-to-help-it-use-less-ai/5285815",
+   "source": "Theregister.com",
+   "category": "ai",
+   "published": "2026-08-11T00:48:00+00:00"
+  },
+  {
+   "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout - Reuters",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184923516",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-08-11T00:32:46+00:00"
+  },
+  {
+   "title": "Anthropic secures $9B deal with Riot for AI computing power",
+   "url": "https://cryptobriefing.com/anthropic-secures-9b-deal-with-riot-for-ai-computing-power/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-11T00:23:39+00:00"
+  },
+  {
+   "title": "Nvidia secures over $500B in funding commitments from six major financial groups for AI infrastructure",
+   "url": "https://cryptobriefing.com/nvidia-500b-ai-infrastructure-funding/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-11T00:12:26+00:00"
+  },
+  {
+   "title": "Modeling maternal immune activation in 3D ex vivo human fetal brain cerebroids reveals IL-17A-driven disruption of cortical development",
+   "url": "https://www.nature.com/articles/s41593-026-02400-2",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-08-11T00:00:00+00:00"
+  },
+  {
+   "title": "NAVER D2SF Makes Follow-On Investment in NdotLight, a Physical AI Data Startup",
+   "url": "https://www.prnewswire.com/news-releases/naver-d2sf-makes-follow-on-investment-in-ndotlight-a-physical-ai-data-startup-302847021.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-08-11T00:00:00+00:00"
+  },
+  {
+   "title": "NASA has quietly accumulated more than 150 petabytes of data across decades of missions, and under a new White House initiative launched in November 2025, it\u2019s betting that AI can find discoveries still hiding in archives too vast to examine by hand",
+   "url": "https://spacedaily.com/t-nasa-has-quietly-accumulated-more-than-150-petabytes-of-data-across-decades-of-missions-and-under-a-new-white-house-initiative-launched-in-november-2025-its-betting-that-ai-can-find-discoveries-stil/",
+   "source": "Space Daily",
+   "category": "breakthroughs",
+   "published": "2026-08-10T23:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "The Robot ETF Actually Exists Now: Tesla, Hyundai, and the Companies Building the Joints",
+   "url": "https://biztoc.com/x/5beddf04efef8efa",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-10T21:38:33+00:00"
+  },
+  {
+   "title": "I asked Gemini if my chicken salad was still good: it saved itself and my stomach",
+   "url": "https://www.techradar.com/ai-platforms-assistants/gemini/i-asked-gemini-if-my-chicken-salad-was-still-good-it-saved-itself-and-my-stomach",
+   "source": "TechRadar",
+   "category": "ai",
+   "published": "2026-08-10T21:30:00+00:00"
+  },
+  {
+   "title": "Insurers Move AI Upstream Into the Care Decision",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/insurers-move-ai-upstream-into-the-care-decision/",
+   "source": "pymnts.com",
+   "category": "health",
+   "published": "2026-08-10T21:02:41+00:00"
+  },
+  {
+   "title": "Sixteen AI-designed viruses offer a new route against drug-resistant bacteria - Phys.org",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184921846",
+   "source": "Slashdot.org",
+   "category": "health",
+   "published": "2026-08-10T20:32:04+00:00"
+  },
+  {
+   "title": "SpaceX is spending $16.8 billion on a Texas chip fab Musk says will be '50 times the size of the Pentagon'",
+   "url": "https://www.techradar.com/pro/spacex-is-spending-usd16-8-billion-on-a-texas-chip-fab-that-musk-says-will-be-50-times-the-size-of-the-pentagon",
+   "source": "TechRadar",
+   "category": "compute",
+   "published": "2026-08-10T20:20:00+00:00"
+  },
+  {
+   "title": "Kyndryl announces agreement to purchase Healthcare IT Leaders, LLC, to accelerate AI-led modernization",
+   "url": "https://www.prnewswire.com/news-releases/kyndryl-announces-agreement-to-purchase-healthcare-it-leaders-llc-to-accelerate-ai-led-modernization-302847448.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-10T20:15:00+00:00"
+  },
+  {
+   "title": "100 Kodiak driverless trucks are headed for public roads",
+   "url": "https://www.foxnews.com/tech/100-kodiak-driverless-trucks-headed-public-roads",
+   "source": "Fox News",
+   "category": "robotics",
+   "published": "2026-08-10T20:00:29+00:00"
+  },
+  {
+   "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+   "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-08-10T19:25:00+00:00"
+  },
+  {
+   "title": "Agrobacterium tumefaciens-mediated transformation and T-DNA insertion characterisation of Didymella tanaceti and Stagonosporopsis tanaceti for infection visualisation in pyrethrum",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355715",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-08-10T14:00:00+00:00"
+  },
+  {
+   "title": "RoboStore to Advance U.S. Localization of Robotics with Launch of Robo Inc.",
+   "url": "https://www.prnewswire.com/news-releases/robostore-to-advance-us-localization-of-robotics-with-launch-of-robo-inc-302847020.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-08-10T12:00:00+00:00"
+  },
+  {
+   "title": "Unitree Robotics IPO draws over 2,700x oversubscription from Shanghai retail investors",
+   "url": "https://cryptobriefing.com/unitree-robotics-ipo-shanghai-demand/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-08-10T11:54:54+00:00"
+  },
+  {
+   "title": "Unitree's Shanghai IPO more than 8,000 times oversubscribed by retail investors",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/unitrees-shanghai-ipo-more-8-112909363.html",
+   "source": "Yahoo Entertainment",
+   "category": "robotics",
+   "published": "2026-08-10T11:29:09+00:00"
   },
   {
    "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
@@ -114,27 +346,6 @@
    "published": "2026-08-10T18:30:49+00:00"
   },
   {
-   "title": "Humanoid Robotics Are Blurring The Line Between Humans And Machines",
-   "url": "https://www.forbes.com/sites/chuckbrooks/2026/08/10/humanoid-robotics-are-blurring-the-line-between-humans-and-machines/",
-   "source": "Forbes",
-   "category": "robotics",
-   "published": "2026-08-10T18:29:04+00:00"
-  },
-  {
-   "title": "Skild AI tops robotics funding with $2.2B raised, valued at over $14B",
-   "url": "https://cryptobriefing.com/skild-ai-tops-robotics-funding-2b/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-08-10T17:23:58+00:00"
-  },
-  {
-   "title": "Digit v5: First Humanoid Robot Out Of The Cage?",
-   "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/10/digit-v5-first-humanoid-robot-out-of-the-cage/",
-   "source": "Forbes",
-   "category": "robotics",
-   "published": "2026-08-10T17:23:32+00:00"
-  },
-  {
    "title": "AbbVie\u2019s (ABBV) Botox Just Got A Step Closer To A Fifth Use",
    "url": "https://finance.yahoo.com/healthcare/articles/abbvie-abbv-botox-just-got-165940206.html",
    "source": "Yahoo Entertainment",
@@ -156,25 +367,11 @@
    "published": "2026-08-10T16:20:22+00:00"
   },
   {
-   "title": "Dyna Robotics unveils DYNA-2 World-Action Model, demonstrating first true scaling law in robotics powered entirely by human data",
-   "url": "https://www.prnewswire.com/news-releases/dyna-robotics-unveils-dyna-2-world-action-model-demonstrating-first-true-scaling-law-in-robotics-powered-entirely-by-human-data-302847114.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-08-10T16:00:00+00:00"
-  },
-  {
    "title": "Metabio Advances Global Preventive Healthcare with Integrated AI-Powered Bioresonance Ecosystem",
    "url": "https://www.globenewswire.com/news-release/2026/08/10/3342013/0/en/metabio-advances-global-preventive-healthcare-with-integrated-ai-powered-bioresonance-ecosystem.html",
    "source": "GlobeNewswire",
    "category": "health",
    "published": "2026-08-10T15:31:00+00:00"
-  },
-  {
-   "title": "China Intends To Build Its 2035 Moon Station With Quadruped Robots",
-   "url": "https://www.ponoko.com/blog/ponoko/china-intends-to-build-its-2035-moon-station-with-quadruped-robots/",
-   "source": "Ponoko.com",
-   "category": "robotics",
-   "published": "2026-08-10T15:12:48+00:00"
   },
   {
    "title": "Why business leaders need to take quantum seriously",
@@ -198,13 +395,6 @@
    "published": "2026-08-10T14:16:00+00:00"
   },
   {
-   "title": "Integrating short-read and long-read single-cell transcriptomics of pig pituitary reveals mechanisms of high-altitude hypoxia adaptation",
-   "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012267",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-08-10T14:00:00+00:00"
-  },
-  {
    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
    "source": "OpenAI",
@@ -217,13 +407,6 @@
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-08-10T10:00:00+00:00"
-  },
-  {
-   "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia",
-   "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-08T10:24:54+00:00"
   },
   {
    "title": "xerv-crayon 5.7.13",
@@ -398,8 +581,7 @@
    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184918830",
    "source": "Slashdot.org",
    "category": "ai",
-   "published": "2026-08-10T12:52:58+00:00",
-   "breakthrough": true
+   "published": "2026-08-10T12:52:58+00:00"
   },
   {
    "title": "Can Johnson & Johnson (JNJ) Challenge Intuitive Surgical (ISRG) After Ottava\u2019s FDA Approval?",
