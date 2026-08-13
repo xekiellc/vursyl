@@ -1,12 +1,146 @@
 {
- "updated": "2026-08-13T13:21:36.815888+00:00",
+ "updated": "2026-08-13T19:07:59.932573+00:00",
  "items": [
   {
-   "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
-   "source": "NVIDIA",
+   "title": "Introducing Gemini 3.7 Flash",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+   "source": "Google DeepMind",
    "category": "ai",
-   "published": "2026-08-13T13:00:33+00:00"
+   "published": "2026-08-13T17:04:18+00:00"
+  },
+  {
+   "title": "The builder\u2019s guide to GPT\u20115.6",
+   "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-13T11:00:00+00:00"
+  },
+  {
+   "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+   "url": "https://openai.com/index/previewing-ultrafast",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-13T10:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+   "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-13T09:00:00+00:00"
+  },
+  {
+   "title": "Saturn Cloud Integrates NVIDIA DSX OS Into Its AI Token Factory Platform",
+   "url": "https://www.prnewswire.com/news-releases/saturn-cloud-integrates-nvidia-dsx-os-into-its-ai-token-factory-platform-302850047.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-08-12T18:56:00+00:00"
+  },
+  {
+   "title": "Gemini App Hits 1 Billion Users Faster Than Any Other Google Product",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/gemini-app-hits-1-billion-users-faster-than-any-other-google-product/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-08-12T18:53:00+00:00"
+  },
+  {
+   "title": "The No-Regrets AI Investment Agenda",
+   "url": "https://www.forrester.com/blogs/the-no-regrets-ai-investment-agenda/",
+   "source": "Forrester.com",
+   "category": "ai",
+   "published": "2026-08-12T18:47:05+00:00"
+  },
+  {
+   "title": "Liqid Pools 30 AMD MI350P GPUs in One Server: 4.3TB of HBM3E and 69 PFLOPS for AI Inference",
+   "url": "https://www.storagereview.com/news/liqid-pools-30-amd-mi350p-gpus-in-one-server-4-3tb-of-hbm3e-and-69-pflops-for-ai-inference",
+   "source": "Storagereview.com",
+   "category": "compute",
+   "published": "2026-08-12T18:40:29+00:00"
+  },
+  {
+   "title": "Alibaba\u2019s Qwen3.8 model goes live on Nvidia\u2019s GB300, hits 4,000 tokens per second",
+   "url": "https://cryptobriefing.com/alibaba-qwen3-nvidia-gb300-performance/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-12T18:35:40+00:00"
+  },
+  {
+   "title": "Cleveland Clinic Tied Vendor Payments to Onboarding Waves in 4-Month AI Scribe Rollout",
+   "url": "https://healthsystemcio.com/2026/08/12/ai-scribe-deployment-vendor-milestones/",
+   "source": "Healthsystemcio.com",
+   "category": "health",
+   "published": "2026-08-12T18:27:20+00:00"
+  },
+  {
+   "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
+   "url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-08-12T18:23:13+00:00"
+  },
+  {
+   "title": "Google Pixel Watch 5 Adds Smarter Gemini Help, Stronger Health Tracking, and Better GPS",
+   "url": "https://androidguys.com/featured/google-pixel-watch-5-adds-smarter-gemini-help-stronger-health-tracking-and-better-gps/",
+   "source": "AndroidGuys",
+   "category": "ai",
+   "published": "2026-08-12T17:32:51+00:00"
+  },
+  {
+   "title": "Again acquires Geno to advance biomanufacturing at scale with AI design",
+   "url": "https://siliconangle.com/2026/08/12/acquires-geno-advance-biomanufacturing-scale-ai-design/",
+   "source": "SiliconANGLE News",
+   "category": "health",
+   "published": "2026-08-12T16:15:22+00:00"
+  },
+  {
+   "title": "Show HN: Dynobox \u2013 A test runner for AI agent skills and workflows",
+   "url": "https://github.com/dynobox/dynobox",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-08-12T16:14:42+00:00"
+  },
+  {
+   "title": "DeepAdapter: a generalisable algorithm integrating self-supervised learning and unsupervised domain adaptation for robust retinopathy of prematurity screening",
+   "url": "http://bjo.bmj.com/content/early/2026/08/12/bjo-2025-328559",
+   "source": "The BMJ",
+   "category": "health",
+   "published": "2026-08-12T16:00:16+00:00"
+  },
+  {
+   "title": "Insta360 wants its latest 360 action camera to be your \u201ccameraman of the future\u201d",
+   "url": "https://www.popsci.com/gear/insta360-wants-the-x6-360-action-camera-to-be-your-cameraman-of-the-future-product-news/",
+   "source": "Popular Science",
+   "category": "robotics",
+   "published": "2026-08-12T16:00:00+00:00"
+  },
+  {
+   "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
+   "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-08-12T16:00:00+00:00"
+  },
+  {
+   "title": "Introducing the AI context engine for your entire codebase",
+   "url": "https://www.atlassian.com/blog/development/code-context",
+   "source": "Atlassian.com",
+   "category": "ai",
+   "published": "2026-08-12T15:57:21+00:00"
+  },
+  {
+   "title": "Putting sign language AI into users\u2019 hands",
+   "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-08-12T14:01:59+00:00"
+  },
+  {
+   "title": "Introducing\u202fCARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+   "source": "Microsoft Research",
+   "category": "health",
+   "published": "2026-08-11T16:00:00+00:00"
   },
   {
    "title": "NVIDIA RTX PRO 6000 \"Blackwell\" 96 GB GPU Now Costs $16,000",
@@ -128,13 +262,6 @@
    "published": "2026-08-12T12:17:00+00:00"
   },
   {
-   "title": "Pudu Robotics Launches PUDU ET1, an AI-Native Compact Scrubber-Dryer Robot for Small Commercial Spaces",
-   "url": "https://www.prnewswire.com/news-releases/pudu-robotics-launches-pudu-et1-an-ai-native-compact-scrubber-dryer-robot-for-small-commercial-spaces-302849679.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-08-12T12:03:00+00:00"
-  },
-  {
    "title": "Japan and Mexico Patent Offices Both Grant Acurx Pharmaceuticals New Patents for DNA Polymerase IIIC Inhibitor Antibiotics",
    "url": "https://www.prnewswire.com/news-releases/japan-and-mexico-patent-offices-both-grant-acurx-pharmaceuticals-new-patents-for-dna-polymerase-iiic-inhibitor-antibiotics-302849336.html",
    "source": "PRNewswire",
@@ -149,13 +276,6 @@
    "published": "2026-08-12T11:47:00+00:00"
   },
   {
-   "title": "Honor Has Radically Reinvented the Phone for the Robot Age. I Played With It and It\u2019s Wild",
-   "url": "https://www.cnet.com/tech/mobile/honor-robot-phone-launch-gimbal-camera-china/",
-   "source": "CNET",
-   "category": "robotics",
-   "published": "2026-08-12T11:31:33+00:00"
-  },
-  {
    "title": "New Tufts CSDD Analysis Finds AI Agents Can Deliver Up to $21 Million in Net Financial Value Per Drug Development Program and Up to 82x ROI",
    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/new-tufts-csdd-analysis-finds-ai-agents-can-deliver-up-to-21-million-in-net-financial-value-per-drug-development-program-and-up-to-82x-roi",
    "source": "Financial Post",
@@ -163,82 +283,11 @@
    "published": "2026-08-12T11:06:02+00:00"
   },
   {
-   "title": "Oracle is putting a Quantinuum quantum computer inside its own data centre",
-   "url": "https://thenextweb.com/news/oracle-quantinuum-helios-quantum-cloud",
-   "source": "The Next Web",
-   "category": "quantum",
-   "published": "2026-08-12T10:03:52+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "From assistance to execution: How enterprises put AI to work",
-   "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-12T06:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-   "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-12T00:38:21+00:00"
-  },
-  {
-   "title": "How RingCentral builds AI-native work from engineering to ops",
-   "url": "https://openai.com/index/ringcentral",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-12T00:00:00+00:00"
-  },
-  {
-   "title": "Taiwan's 20-qubit superconducting quantum computer wins 2026 Future Tech Award",
-   "url": "https://www.digitimes.com/news/a20260811PD224/academia-sinica-taiwan-2026-quantum-computer-technology.html",
-   "source": "Digitimes",
-   "category": "quantum",
-   "published": "2026-08-11T23:59:50+00:00"
-  },
-  {
-   "title": "Quantinuum advances hybrid quantum computing with Helios launch and global partnerships",
-   "url": "https://cryptobriefing.com/quantinuum-helios-hybrid-quantum-computing/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-08-11T20:10:41+00:00"
-  },
-  {
-   "title": "Quantinuum and Oracle Partner to Accelerate Hybrid Quantum Compute Adoption on Oracle Cloud Infrastructure",
-   "url": "https://www.prnewswire.com/news-releases/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cloud-infrastructure-302848857.html",
-   "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-08-11T20:01:00+00:00"
-  },
-  {
    "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
    "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
    "source": "NVIDIA",
    "category": "ai",
    "published": "2026-08-11T13:00:25+00:00"
-  },
-  {
-   "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
-   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-11T13:00:05+00:00"
-  },
-  {
-   "title": "Daybreak models are now available on AWS",
-   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-11T10:00:00+00:00"
-  },
-  {
-   "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
-   "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-08-10T19:25:00+00:00"
   },
   {
    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
