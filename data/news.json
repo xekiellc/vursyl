@@ -1,33 +1,181 @@
 {
- "updated": "2026-08-14T07:39:06.782819+00:00",
+ "updated": "2026-08-14T13:16:00.047860+00:00",
  "items": [
   {
-   "title": "Introducing Gemini 3.7 Flash",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-13T17:04:18+00:00"
+   "title": "Broadcom locks in multi-year AI chip deals with OpenAI, Google, and Meta",
+   "url": "https://cryptobriefing.com/broadcom-ai-chip-deals-openai-google-meta/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-13T13:13:42+00:00"
   },
   {
-   "title": "The builder\u2019s guide to GPT\u20115.6",
-   "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-   "source": "OpenAI",
+   "title": "qx-llms 0.7.0",
+   "url": "https://pypi.org/project/qx-llms/0.7.0/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-08-13T11:00:00+00:00"
+   "published": "2026-08-13T13:12:26+00:00"
   },
   {
-   "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-   "url": "https://openai.com/index/previewing-ultrafast",
-   "source": "OpenAI",
+   "title": "DeepSeek releases official V4 Pro model as it steps up expansion",
+   "url": "https://biztoc.com/x/06e09e246578eda3",
+   "source": "Biztoc.com",
    "category": "ai",
+   "published": "2026-08-13T13:10:39+00:00"
+  },
+  {
+   "title": "Rhein Laser Unveils CELIORA\u00ae, a New Generation of Intelligent Red Light Therapy Beds",
+   "url": "https://www.prnewswire.com/news-releases/rhein-laser-unveils-celiora-a-new-generation-of-intelligent-red-light-therapy-beds-302850460.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-13T13:10:00+00:00"
+  },
+  {
+   "title": "CosmoLex Launches AI Intake, a Breakthrough Feature That Automates Client Onboarding for Law Firms From First Click to First Consultation",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cosmolex-launches-ai-intake-a-breakthrough-feature-that-automates-client-onboarding-for-law-firms-from-first-click-to-first-consultation",
+   "source": "Financial Post",
+   "category": "ai",
+   "published": "2026-08-13T13:04:08+00:00"
+  },
+  {
+   "title": "L&T bags \u2018mega\u2019 AI infra order from Together AI",
+   "url": "https://timesofindia.indiatimes.com/city/bengaluru/lt-bags-mega-ai-infra-order-from-together-ai/articleshow/133213414.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-08-13T13:04:02+00:00"
+  },
+  {
+   "title": "distil-llm 1.46.0",
+   "url": "https://pypi.org/project/distil-llm/1.46.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-13T13:03:33+00:00"
+  },
+  {
+   "title": "econagents 0.2.11",
+   "url": "https://pypi.org/project/econagents/0.2.11/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-13T13:03:18+00:00"
+  },
+  {
+   "title": "Writer launches major agentic AI improvements with Palmyra X6 flagship model",
+   "url": "https://siliconangle.com/2026/08/13/writer-launches-major-agentic-ai-improvements-palmyra-x6-flagship-model/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-08-13T13:00:51+00:00"
+  },
+  {
+   "title": "DARPA funds advancements in quantum networking",
+   "url": "https://www.nextgov.com/emerging-tech/2026/08/darpa-funds-advancements-quantum-networking/415372/",
+   "source": "Nextgov",
+   "category": "quantum",
+   "published": "2026-08-13T13:00:00+00:00"
+  },
+  {
+   "title": "SK Hynix invests $720B to build South Korea\u2019s largest memory factory network",
+   "url": "https://cryptobriefing.com/sk-hynix-720b-memory-factory-investment/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-13T12:57:06+00:00"
+  },
+  {
+   "title": "AI hardware finds new ground in Kochi through SFO Technologies and Smart IOPs",
+   "url": "https://economictimes.indiatimes.com/tech/technology/ai-hardware-finds-new-ground-in-kochi-through-sfo-technologies-and-smart-iops/articleshow/133212689.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-08-13T12:56:55+00:00"
+  },
+  {
+   "title": "Genedata Launches AI Agent That Accelerates Biomarker Discovery, Demonstrated in Alzheimer's Disease Research",
+   "url": "https://www.prnewswire.com/news-releases/genedata-launches-ai-agent-that-accelerates-biomarker-discovery-demonstrated-in-alzheimers-disease-research-302848587.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-13T12:30:00+00:00"
+  },
+  {
+   "title": "Healthcare Triangle Reports 322% Increase in Gross Profit and 158% Increase in Revenue for Q2 2026",
+   "url": "https://www.prnewswire.com/news-releases/healthcare-triangle-reports-322-increase-in-gross-profit-and-158-increase-in-revenue-for-q2-2026-302850835.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-13T12:15:00+00:00"
+  },
+  {
+   "title": "Doctor Octopus Is Becoming Real: The Rise of Soft Embodied Intelligence",
+   "url": "https://www.prnewswire.com/news-releases/doctor-octopus-is-becoming-real-the-rise-of-soft-embodied-intelligence-302850847.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-08-13T12:10:00+00:00"
+  },
+  {
+   "title": "SamaCare Named 2026 Prix Galien USA Finalist for Best Digital Health Solution",
+   "url": "https://www.prnewswire.com/news-releases/samacare-named-2026-prix-galien-usa-finalist-for-best-digital-health-solution-302850433.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-13T11:05:00+00:00"
+  },
+  {
+   "title": "Reducing MTTR: A Practical Guide to Correlating Incidents with AIOps",
+   "url": "https://devops.com/reducing-mttr-a-practical-guide-to-correlating-incidents-with-aiops/",
+   "source": "DevOps.com",
+   "category": "ai",
+   "published": "2026-08-13T10:55:35+00:00"
+  },
+  {
+   "title": "Cedar Launches Agentic Platform to Help Providers Collect from Healthcare's Fastest-Growing Payer: Patients",
+   "url": "https://www.prnewswire.com/news-releases/cedar-launches-agentic-platform-to-help-providers-collect-from-healthcares-fastest-growing-payer-patients-302850225.html",
+   "source": "PRNewswire",
+   "category": "health",
    "published": "2026-08-13T10:00:00+00:00"
   },
   {
-   "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-   "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+   "title": "AgiBot overtakes Unitree as China expands its lead in humanoid robots",
+   "url": "https://www.digitimes.com/news/a20260812PD207/shipments-robot-2026-market-data.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-08-13T00:06:59+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
+   "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-08-12T16:00:00+00:00"
+  },
+  {
+   "title": "From assistance to execution: How enterprises put AI to work",
+   "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-08-13T09:00:00+00:00"
+   "published": "2026-08-12T06:00:00+00:00"
+  },
+  {
+   "title": "How RingCentral builds AI-native work from engineering to ops",
+   "url": "https://openai.com/index/ringcentral",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-12T00:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-08-11T13:00:05+00:00"
+  },
+  {
+   "title": "Daybreak models are now available on AWS",
+   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-11T10:00:00+00:00"
+  },
+  {
+   "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+   "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+   "source": "MIT News AI",
+   "category": "breakthroughs",
+   "published": "2026-08-10T19:25:00+00:00"
   },
   {
    "title": "Lenovo profits soar past expectations on AI computers, servers and services",
@@ -139,8 +287,7 @@
    "url": "https://economictimes.indiatimes.com/news/india/lt-secures-mega-order-to-build-indias-largest-nvidia-b300-ai-factory/articleshow/133202427.cms",
    "source": "The Times of India",
    "category": "compute",
-   "published": "2026-08-13T06:36:08+00:00",
-   "breakthrough": true
+   "published": "2026-08-13T06:36:08+00:00"
   },
   {
    "title": "Sivers Semiconductors Announces $3.4M Program With SemiNex for Next-Generation InP Light Sources Used to Power AI Data Centers",
@@ -185,13 +332,6 @@
    "published": "2026-08-13T04:20:11+00:00"
   },
   {
-   "title": "Oracle Cloud Infrastructure gets hybrid quantum capabilities",
-   "url": "https://www.computerweekly.com/news/366649217/Oracle-Cloud-Infrastructure-gets-hybrid-quantum-capabilities",
-   "source": "ComputerWeekly.com",
-   "category": "quantum",
-   "published": "2026-08-13T04:03:00+00:00"
-  },
-  {
    "title": "Inside Intel: how America\u2019s chip champion came back from the brink",
    "url": "https://www.irishtimes.com/business/2026/08/13/inside-intel-how-americas-chip-champion-came-back-from-the-brink/",
    "source": "The Irish Times",
@@ -204,20 +344,6 @@
    "source": "Crypto Briefing",
    "category": "robotics",
    "published": "2026-08-13T00:09:50+00:00"
-  },
-  {
-   "title": "AI Data Center Demand to TRIPLE by 2030 | GXO CEO on Logistics Impact",
-   "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-demand-triple-193933095.html",
-   "source": "Yahoo Entertainment",
-   "category": "compute",
-   "published": "2026-08-12T19:39:33+00:00"
-  },
-  {
-   "title": "Putting sign language AI into users\u2019 hands",
-   "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-12T14:01:59+00:00"
   },
   {
    "title": "NVIDIA CEO Tops Glassdoor\u2019s 2026 List of Best CEOs",
@@ -246,13 +372,6 @@
    "source": "NVIDIA",
    "category": "compute",
    "published": "2026-08-12T00:38:21+00:00"
-  },
-  {
-   "title": "Introducing\u202fCARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
-   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
-   "source": "Microsoft Research",
-   "category": "health",
-   "published": "2026-08-11T16:00:00+00:00"
   },
   {
    "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
