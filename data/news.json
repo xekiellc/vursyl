@@ -1,12 +1,202 @@
 {
- "updated": "2026-08-14T19:00:36.858897+00:00",
+ "updated": "2026-08-15T01:27:17.973235+00:00",
  "items": [
   {
-   "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent",
-   "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+   "title": "Quanta Computer and Quantinuum Partner to Build an Industrial Foundation for Large-Scale Quantum Computing",
+   "url": "https://www.prnewswire.com/news-releases/quanta-computer-and-quantinuum-partner-to-build-an-industrial-foundation-for-large-scale-quantum-computing-302851560.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-08-14T01:22:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Figure\u2019s Blockchain Marketplace Tops $1 Billion Weekly Loan Applications After Record Q2",
+   "url": "https://www.pymnts.com/earnings/2026/figures-blockchain-marketplace-tops-1-billion-weekly-loan-applications-after-record-q2/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-08-14T01:18:08+00:00"
+  },
+  {
+   "title": "Designer Enzyme Strips Decades of \u2018Rust\u2019 From Aging Human Tissue",
+   "url": "https://singularityhub.com/2026/08/13/designer-enzyme-strips-decades-of-rust-from-aging-human-tissue/#article",
+   "source": "Singularity Hub",
+   "category": "health",
+   "published": "2026-08-14T01:05:26+00:00"
+  },
+  {
+   "title": "Running Qwen3-Coder 30B on a Rented GPU with NVIDIA Brev",
+   "url": "https://dev.classmethod.jp/articles/open-weight-ai-model-qwen-nvidia-brev/",
+   "source": "Classmethod.jp",
+   "category": "ai",
+   "published": "2026-08-14T00:57:50+00:00"
+  },
+  {
+   "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - Reuters",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184965005",
+   "source": "Slashdot.org",
+   "category": "ai",
+   "published": "2026-08-14T00:52:46+00:00"
+  },
+  {
+   "title": "BGMI-maker Krafton eyes AI over gaming as investments touch $900 million in India",
+   "url": "https://www.livemint.com/companies/krafton-india-bgmi-krafton-investments-indian-startups-venture-capital-ai-consumer-internet-vc-funds-11786540250124.html",
+   "source": "Livemint",
+   "category": "ai",
+   "published": "2026-08-14T00:33:55+00:00"
+  },
+  {
+   "title": "Xenco Medical introduces XenVision at SIGGRAPH 2026",
+   "url": "https://www.digitaljournal.com/article/xenco-medical-introduces-xenvision-at-siggraph-2026/",
+   "source": "Digital Journal",
+   "category": "health",
+   "published": "2026-08-14T00:30:22+00:00"
+  },
+  {
+   "title": "For decades, weather \u2060prediction \u2060has relied on numerical models running on supercomputers, now AI can produce forecasts in a fraction of the time. Will it be accurate? Here's what experts are saying",
+   "url": "https://economictimes.indiatimes.com/news/international/us/for-decades-weather-prediction-has-relied-on-numerical-models-running-on-supercomputers-now-ai-can-produce-forecasts-in-a-fraction-of-the-time-will-it-be-accurate-heres-what-experts-are-saying/articleshow/133226713.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-08-14T00:24:10+00:00"
+  },
+  {
+   "title": "From pixels to patterns: the AI revolution in stem cell-derived models",
+   "url": "https://www.nature.com/articles/s41592-026-03202-x",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-08-14T00:00:00+00:00"
+  },
+  {
+   "title": "Aligning protein-generative models to experimental fitness with ProteinDPO",
+   "url": "https://www.nature.com/articles/s41592-026-03137-3",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-08-14T00:00:00+00:00"
+  },
+  {
+   "title": "An AI-Health infrastructure for the Nordic region: technical foundations, data assets, and a roadmap for deployment",
+   "url": "https://www.nature.com/articles/s41591-026-04575-4",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-08-14T00:00:00+00:00"
+  },
+  {
+   "title": "Bioresorbable and optically readable triboelectric implants enabled by nanoscale iridophosphors",
+   "url": "https://www.nature.com/articles/s41565-026-02256-4",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-08-14T00:00:00+00:00"
+  },
+  {
+   "title": "Histological aging signatures for monitoring tissue-specific aging and disease",
+   "url": "https://www.nature.com/articles/s41591-026-04566-5",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-08-14T00:00:00+00:00"
+  },
+  {
+   "title": "Musk hints at FEL light source for Terafab; ASML eyes FEL-EUV push",
+   "url": "https://www.digitimes.com/news/a20260813PD245/elon-musk-wafer-manufacturing-asml-investment.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-13T23:37:20+00:00"
+  },
+  {
+   "title": "Coherent beats fourth-quarter revenue estimates as AI demand lifts data center sales",
+   "url": "https://www.digitimes.com/news/a20260813PD238/coherent-revenue-data-center-demand-2026.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-13T23:37:03+00:00"
+  },
+  {
+   "title": "Qisda unit expands robot computing platform into Europe and U.S. supply chains",
+   "url": "https://www.digitimes.com/news/a20260813PD233/qisda-robot-industrial-europe-automation.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-08-13T23:32:35+00:00"
+  },
+  {
+   "title": "Startup Spotlight: ScopeSys gives drugmakers a closer look inside genomic medicines",
+   "url": "https://www.geekwire.com/2026/startup-spotlight-scopesys-gives-drugmakers-a-closer-look-inside-genomic-medicines/",
+   "source": "GeekWire",
+   "category": "health",
+   "published": "2026-08-13T22:42:56+00:00"
+  },
+  {
+   "title": "Pixel Watch 5 Will Call Emergency Services if It Detects a Breathing Emergency",
+   "url": "https://www.cnet.com/health/medical/pixel-watch-5-will-call-emergency-services-if-it-detects-a-breathing-emergency/",
+   "source": "CNET",
+   "category": "health",
+   "published": "2026-08-13T21:51:03+00:00"
+  },
+  {
+   "title": "Cityblock Health Expands Humana Partnership to Serve 20,000 North Carolina Medicare Advantage Members",
+   "url": "https://hitconsultant.net/2026/08/13/cityblock-health-humana-partnership-north-carolina-medicare-advantage/",
+   "source": "HIT Consultant",
+   "category": "health",
+   "published": "2026-08-13T21:15:13+00:00"
+  },
+  {
+   "title": "Quantinuum\u2019s Cloud Deal With Oracle Sends Clear Message on Hybrid AI",
+   "url": "https://www.barchart.com/story/news/3835401/quantinuums-cloud-deal-with-oracle-sends-clear-message-on-hybrid-ai",
+   "source": "Barchart.com",
+   "category": "quantum",
+   "published": "2026-08-13T17:27:24+00:00"
+  },
+  {
+   "title": "DARPA funds advancements in quantum networking",
+   "url": "https://www.nextgov.com/emerging-tech/2026/08/darpa-funds-advancements-quantum-networking/415372/",
+   "source": "Nextgov",
+   "category": "quantum",
+   "published": "2026-08-13T13:00:00+00:00"
+  },
+  {
+   "title": "Doctor Octopus Is Becoming Real: The Rise of Soft Embodied Intelligence",
+   "url": "https://www.prnewswire.com/news-releases/doctor-octopus-is-becoming-real-the-rise-of-soft-embodied-intelligence-302850847.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-08-13T12:10:00+00:00"
+  },
+  {
+   "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
+   "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-08-12T16:00:00+00:00"
+  },
+  {
+   "title": "From assistance to execution: How enterprises put AI to work",
+   "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-12T06:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+   "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-12T00:38:21+00:00"
+  },
+  {
+   "title": "How RingCentral builds AI-native work from engineering to ops",
+   "url": "https://openai.com/index/ringcentral",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-12T00:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
    "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-08-14T17:13:05+00:00"
+   "published": "2026-08-11T13:00:05+00:00"
+  },
+  {
+   "title": "Daybreak models are now available on AWS",
+   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-11T10:00:00+00:00"
   },
   {
    "title": "AskProf Pushes Learning-Focused AI for Students",
@@ -121,13 +311,6 @@
    "published": "2026-08-13T17:10:24+00:00"
   },
   {
-   "title": "Introducing Gemini 3.7 Flash",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-13T17:04:18+00:00"
-  },
-  {
    "title": "AGent Energy Closes Series Seed to Unlock 200+ GW of Behind-the-Meter Generation Across Commercial, Industrial, and Institutional Sectors",
    "url": "https://www.prnewswire.com/news-releases/agent-energy-closes-series-seed-to-unlock-200-gw-of-behind-the-meter-generation-across-commercial-industrial-and-institutional-sectors-302851086.html",
    "source": "PRNewswire",
@@ -142,68 +325,11 @@
    "published": "2026-08-13T15:35:53+00:00"
   },
   {
-   "title": "WiMi Hologram Cloud Inc. Unveils H-QNN Technology for Efficient Binary MNIST Image Classification",
-   "url": "https://www.prnewswire.com/news-releases/wimi-hologram-cloud-inc-unveils-h-qnn-technology-for-efficient-binary-mnist-image-classification-302850953.html",
-   "source": "PRNewswire",
-   "category": "breakthroughs",
-   "published": "2026-08-13T14:30:00+00:00"
-  },
-  {
-   "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-13T13:00:33+00:00"
-  },
-  {
-   "title": "The builder\u2019s guide to GPT\u20115.6",
-   "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-13T11:00:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-   "url": "https://openai.com/index/previewing-ultrafast",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-13T10:00:00+00:00"
-  },
-  {
-   "title": "Oracle Cloud Infrastructure gets hybrid quantum capabilities",
-   "url": "https://www.computerweekly.com/news/366649217/Oracle-Cloud-Infrastructure-gets-hybrid-quantum-capabilities",
-   "source": "ComputerWeekly.com",
-   "category": "quantum",
-   "published": "2026-08-13T04:03:00+00:00"
-  },
-  {
    "title": "AI Data Center Demand to TRIPLE by 2030 | GXO CEO on Logistics Impact",
    "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-demand-triple-193933095.html",
    "source": "Yahoo Entertainment",
    "category": "compute",
    "published": "2026-08-12T19:39:33+00:00"
-  },
-  {
-   "title": "Putting sign language AI into users\u2019 hands",
-   "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-12T14:01:59+00:00"
-  },
-  {
-   "title": "Introducing\u202fCARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
-   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
-   "source": "Microsoft Research",
-   "category": "health",
-   "published": "2026-08-11T16:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-   "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-11T13:00:25+00:00"
   },
   {
    "title": "Broadcom locks in multi-year AI chip deals with OpenAI, Google, and Meta",
@@ -505,13 +631,6 @@
    "source": "Crypto Briefing",
    "category": "breakthroughs",
    "published": "2026-08-12T12:31:18+00:00"
-  },
-  {
-   "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-   "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-11T15:00:06+00:00"
   },
   {
    "title": "Visual Bank\u306eQlean Dataset\u3001\u56fd\u7523\u57fa\u76e4\u30e2\u30c7\u30eb\u306e\u7d99\u7d9a\u6027\u3092\u62c5\u4fdd\u3059\u308b\u5b89\u5168\u6027\u9818\u57df\u306e\u53d6\u308a\u7d44\u307f\u3001\u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240\u3068VLM\u5b89\u5168\u6027\u8a55\u4fa1\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8\u300cmsts-japanese\u300d\u306b\u753b\u50cf\u30c7\u30fc\u30bf\u3092\u63d0\u4f9b",
