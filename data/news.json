@@ -1,13 +1,173 @@
 {
- "updated": "2026-08-15T01:27:17.973235+00:00",
+ "updated": "2026-08-15T06:45:02.962001+00:00",
  "items": [
   {
-   "title": "Quanta Computer and Quantinuum Partner to Build an Industrial Foundation for Large-Scale Quantum Computing",
-   "url": "https://www.prnewswire.com/news-releases/quanta-computer-and-quantinuum-partner-to-build-an-industrial-foundation-for-large-scale-quantum-computing-302851560.html",
+   "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent",
+   "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-08-14T17:13:05+00:00"
+  },
+  {
+   "title": "Anthropic Adds Invisible Watermarks to Claude AI for EU AI Act",
+   "url": "https://www.geeky-gadgets.com/claude-ai-invisible-watermarks/",
+   "source": "Geeky Gadgets",
+   "category": "ai",
+   "published": "2026-08-14T06:43:00+00:00"
+  },
+  {
+   "title": "WhatsApp tests Scam Alert feature to flag fraud without reading your chats",
+   "url": "https://www.business-standard.com/technology/tech-news/whatsapp-tests-scam-alert-feature-to-flag-fraud-without-reading-your-chats-126081400825_1.html",
+   "source": "Business Standard",
+   "category": "ai",
+   "published": "2026-08-14T06:34:50+00:00"
+  },
+  {
+   "title": "LG to Unveil Its Next-Gen Humanoid Robot, Built on NVIDIA Isaac GR00T",
+   "url": "https://www.prnewswire.com/news-releases/lg-to-unveil-its-next-gen-humanoid-robot-built-on-nvidia-isaac-gr00t-302851652.html",
    "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-08-14T01:22:00+00:00",
-   "breakthrough": true
+   "category": "robotics",
+   "published": "2026-08-14T06:19:00+00:00"
+  },
+  {
+   "title": "Alibaba Cloud cuts AI data center build time to 100 days, triples global modular capacity",
+   "url": "https://www.digitimes.com/news/a20260814VL207/alibaba-cloud-data-capacity-infrastructure.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-14T06:15:40+00:00"
+  },
+  {
+   "title": "Chinese humanoid robot maker Unitree powers up for stellar Shanghai debut",
+   "url": "https://biztoc.com/x/c393b4a962498e0d",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-14T06:14:40+00:00"
+  },
+  {
+   "title": "Google\u2019s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut - VentureBeat",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184968401",
+   "source": "Slashdot.org",
+   "category": "ai",
+   "published": "2026-08-14T06:12:35+00:00"
+  },
+  {
+   "title": "Apple trained its own AI model for China, and handed the brain to Alibaba",
+   "url": "https://thenextweb.com/news/apple-china-ai-model-alibaba-qwen",
+   "source": "The Next Web",
+   "category": "ai",
+   "published": "2026-08-14T06:08:53+00:00"
+  },
+  {
+   "title": "OpenAI\u2019s new Ultrafast mode runs GPT-5.6 Sol 14 times faster, on Cerebras chips",
+   "url": "https://thenextweb.com/news/openais-new-ultrafast-mode-runs-gpt-5-6-sol-14-times-faster-on-cerebras-chips",
+   "source": "The Next Web",
+   "category": "compute",
+   "published": "2026-08-14T06:03:08+00:00"
+  },
+  {
+   "title": "This Bengaluru startup is training dogs and AI to sniff out cancer early",
+   "url": "https://thenextweb.com/news/dognosis-cancer-sniffing-dogs-ai",
+   "source": "The Next Web",
+   "category": "health",
+   "published": "2026-08-14T05:56:00+00:00"
+  },
+  {
+   "title": "HCLTech, NetApp expand partnership to deliver hybrid cloud storage-as-a-service for enterprise AI",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-netapp-expand-partnership-to-deliver-hybrid-cloud-storage-as-a-service-for-enterprise-ai/articleshow/133230235.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-08-14T05:47:30+00:00"
+  },
+  {
+   "title": "Chinese analog chipmaker Novosense returns to profit on AI server, auto demand",
+   "url": "https://www.digitimes.com/news/a20260814VL220/demand-profit-revenue-loss-2026.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-14T05:33:07+00:00"
+  },
+  {
+   "title": "LG and Nvidia to launch humanoid robot in 2027",
+   "url": "https://biztoc.com/x/965fba63a5cb2045",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-14T03:54:48+00:00"
+  },
+  {
+   "title": "Bengaluru-based startup leans on cancer-sniffing dogs and AI for early detection",
+   "url": "https://economictimes.indiatimes.com/tech/startups/bengaluru-based-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection/articleshow/133228334.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-08-14T03:41:25+00:00"
+  },
+  {
+   "title": "Bengaluru startup bets on cancer-sniffing dogs and AI for early detection",
+   "url": "https://www.business-standard.com/industry/news/bengaluru-startup-bets-on-cancer-sniffing-dogs-and-ai-for-early-detection-126081400098_1.html",
+   "source": "Business Standard",
+   "category": "health",
+   "published": "2026-08-14T03:10:32+00:00"
+  },
+  {
+   "title": "Introducing Gemini 3.7 Flash",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-08-13T17:04:18+00:00"
+  },
+  {
+   "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-13T13:00:33+00:00"
+  },
+  {
+   "title": "The builder\u2019s guide to GPT\u20115.6",
+   "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-13T11:00:00+00:00"
+  },
+  {
+   "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+   "url": "https://openai.com/index/previewing-ultrafast",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-13T10:00:00+00:00"
+  },
+  {
+   "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+   "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-13T09:00:00+00:00"
+  },
+  {
+   "title": "Putting sign language AI into users\u2019 hands",
+   "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-08-12T14:01:59+00:00"
+  },
+  {
+   "title": "Introducing\u202fCARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+   "source": "Microsoft Research",
+   "category": "health",
+   "published": "2026-08-11T16:00:00+00:00"
+  },
+  {
+   "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+   "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-11T15:00:06+00:00"
+  },
+  {
+   "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-08-11T13:00:25+00:00"
   },
   {
    "title": "Figure\u2019s Blockchain Marketplace Tops $1 Billion Weekly Loan Applications After Record Q2",
@@ -15,13 +175,6 @@
    "source": "pymnts.com",
    "category": "ai",
    "published": "2026-08-14T01:18:08+00:00"
-  },
-  {
-   "title": "Designer Enzyme Strips Decades of \u2018Rust\u2019 From Aging Human Tissue",
-   "url": "https://singularityhub.com/2026/08/13/designer-enzyme-strips-decades-of-rust-from-aging-human-tissue/#article",
-   "source": "Singularity Hub",
-   "category": "health",
-   "published": "2026-08-14T01:05:26+00:00"
   },
   {
    "title": "Running Qwen3-Coder 30B on a Rented GPU with NVIDIA Brev",
@@ -59,34 +212,6 @@
    "published": "2026-08-14T00:24:10+00:00"
   },
   {
-   "title": "From pixels to patterns: the AI revolution in stem cell-derived models",
-   "url": "https://www.nature.com/articles/s41592-026-03202-x",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-08-14T00:00:00+00:00"
-  },
-  {
-   "title": "Aligning protein-generative models to experimental fitness with ProteinDPO",
-   "url": "https://www.nature.com/articles/s41592-026-03137-3",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-08-14T00:00:00+00:00"
-  },
-  {
-   "title": "An AI-Health infrastructure for the Nordic region: technical foundations, data assets, and a roadmap for deployment",
-   "url": "https://www.nature.com/articles/s41591-026-04575-4",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-08-14T00:00:00+00:00"
-  },
-  {
-   "title": "Bioresorbable and optically readable triboelectric implants enabled by nanoscale iridophosphors",
-   "url": "https://www.nature.com/articles/s41565-026-02256-4",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-08-14T00:00:00+00:00"
-  },
-  {
    "title": "Histological aging signatures for monitoring tissue-specific aging and disease",
    "url": "https://www.nature.com/articles/s41591-026-04566-5",
    "source": "Nature.com",
@@ -106,13 +231,6 @@
    "source": "Digitimes",
    "category": "compute",
    "published": "2026-08-13T23:37:03+00:00"
-  },
-  {
-   "title": "Qisda unit expands robot computing platform into Europe and U.S. supply chains",
-   "url": "https://www.digitimes.com/news/a20260813PD233/qisda-robot-industrial-europe-automation.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-08-13T23:32:35+00:00"
   },
   {
    "title": "Startup Spotlight: ScopeSys gives drugmakers a closer look inside genomic medicines",
@@ -141,62 +259,6 @@
    "source": "Barchart.com",
    "category": "quantum",
    "published": "2026-08-13T17:27:24+00:00"
-  },
-  {
-   "title": "DARPA funds advancements in quantum networking",
-   "url": "https://www.nextgov.com/emerging-tech/2026/08/darpa-funds-advancements-quantum-networking/415372/",
-   "source": "Nextgov",
-   "category": "quantum",
-   "published": "2026-08-13T13:00:00+00:00"
-  },
-  {
-   "title": "Doctor Octopus Is Becoming Real: The Rise of Soft Embodied Intelligence",
-   "url": "https://www.prnewswire.com/news-releases/doctor-octopus-is-becoming-real-the-rise-of-soft-embodied-intelligence-302850847.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-08-13T12:10:00+00:00"
-  },
-  {
-   "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
-   "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-08-12T16:00:00+00:00"
-  },
-  {
-   "title": "From assistance to execution: How enterprises put AI to work",
-   "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-12T06:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-   "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-12T00:38:21+00:00"
-  },
-  {
-   "title": "How RingCentral builds AI-native work from engineering to ops",
-   "url": "https://openai.com/index/ringcentral",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-12T00:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
-   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-11T13:00:05+00:00"
-  },
-  {
-   "title": "Daybreak models are now available on AWS",
-   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-11T10:00:00+00:00"
   },
   {
    "title": "AskProf Pushes Learning-Focused AI for Students",
@@ -610,13 +672,6 @@
    "source": "Crypto Briefing",
    "category": "robotics",
    "published": "2026-08-13T00:09:50+00:00"
-  },
-  {
-   "title": "NVIDIA CEO Tops Glassdoor\u2019s 2026 List of Best CEOs",
-   "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-12T14:00:00+00:00"
   },
   {
    "title": "South Korea targets a 2030 Moon landing in a seven-part technology plan",
