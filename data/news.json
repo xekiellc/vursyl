@@ -1,6 +1,77 @@
 {
- "updated": "2026-08-16T06:47:05.474149+00:00",
+ "updated": "2026-08-16T12:47:42.694600+00:00",
  "items": [
+  {
+   "title": "In 2024, University of Illinois researchers showed electricity could recover gold from e-waste with fewer chemicals. 2 years later, a redesigned molecule removes the remaining chemical step, making metal recovery cleaner and simpler",
+   "url": "https://economictimes.indiatimes.com/news/international/us/in-2024-university-of-illinois-researchers-showed-electricity-could-recover-gold-from-e-waste-with-fewer-chemicals-2-years-later-a-redesigned-molecule-removes-the-remaining-chemical-step-making-metal-recovery-cleaner-and-simpler/articleshow/133261995.cms",
+   "source": "The Times of India",
+   "category": "breakthroughs",
+   "published": "2026-08-15T12:34:45+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+   "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+   "source": "CNBC",
+   "category": "robotics",
+   "published": "2026-08-15T12:00:01+00:00"
+  },
+  {
+   "title": "This Week in Science: AI Agents Come to an Agreement, Gemstones on Mars, And More!",
+   "url": "https://www.sciencealert.com/this-week-in-science-ai-agents-come-to-an-agreement-gemstones-on-mars-and-more",
+   "source": "ScienceAlert",
+   "category": "ai",
+   "published": "2026-08-15T12:00:00+00:00"
+  },
+  {
+   "title": "I've used NotebookLM for almost everything, but students are still who I'd recommend it to most",
+   "url": "https://www.xda-developers.com/used-notebooklm-for-almost-everything-students-are-still-who-id-recommend-it-to-most/",
+   "source": "XDA Developers",
+   "category": "ai",
+   "published": "2026-08-15T11:30:10+00:00"
+  },
+  {
+   "title": "Aizen Enters into Collaboration with San Diego Biopharma to Advance Oral Biologics",
+   "url": "https://www.prnewswire.com/news-releases/aizen-enters-into-collaboration-with-san-diego-biopharma-to-advance-oral-biologics-302848775.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-15T11:20:00+00:00"
+  },
+  {
+   "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+   "url": "https://sankalp.bearblog.dev/autoresearch/",
+   "source": "Bearblog.dev",
+   "category": "compute",
+   "published": "2026-08-15T11:00:02+00:00"
+  },
+  {
+   "title": "Eli Lilly\u2019s Weight-Loss Pill Just Got Its First Foothold in Europe",
+   "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-weight-loss-pill-103007818.html",
+   "source": "Yahoo Entertainment",
+   "category": "health",
+   "published": "2026-08-15T10:30:07+00:00"
+  },
+  {
+   "title": "Vinod Khosla Says AI Is Creating a \u2018Hyperabundance\u2019 of New Drugs, but Testing Is Still \u201818th-Century\u2019",
+   "url": "https://finance.yahoo.com/healthcare/articles/vinod-khosla-says-ai-creating-033044548.html",
+   "source": "Yahoo Entertainment",
+   "category": "health",
+   "published": "2026-08-15T03:30:44+00:00"
+  },
+  {
+   "title": "LG joins forces with Nvidia to build AI-powered robots and hardware for self-driving cars",
+   "url": "https://www.gsmarena.com/lg_joins_forces_with_nvidia_to_build_aipowered_robots_and_hardware_for_selfdriving_cars-news-74180.php",
+   "source": "GSMArena.com",
+   "category": "robotics",
+   "published": "2026-08-14T18:42:02+00:00"
+  },
+  {
+   "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
+   "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-08-12T16:00:00+00:00"
+  },
   {
    "title": "llmwiki-harness added to PyPI",
    "url": "https://pypi.org/project/llmwiki-harness/",
@@ -93,20 +164,6 @@
    "published": "2026-08-15T05:25:03+00:00"
   },
   {
-   "title": "Karnataka CM DK Shivakumar announces AI education from Class 6, India's first public AI university in Bengaluru",
-   "url": "https://economictimes.indiatimes.com/news/india/karnataka-cm-dk-shivakumar-announces-ai-education-from-class-6-indias-first-public-ai-university-in-bengaluru/articleshow/133256533.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-08-15T05:23:06+00:00"
-  },
-  {
-   "title": "1 crore youth to learn AI, free coaching for exams: PM Modi's Independence Day promise",
-   "url": "https://timesofindia.indiatimes.com/city/delhi/1-crore-youth-to-learn-ai-free-coaching-for-exams-pm-modis-independence-day-promise/articleshow/133255905.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-08-15T04:45:28+00:00"
-  },
-  {
    "title": "India may get 5-8 more semiconductor plants in 7-8 years, says PM Modi",
    "url": "https://www.business-standard.com/india-news/modi-independence-day-semiconductor-plants-ai-skilling-red-fort-speech-126081500228_1.html",
    "source": "Business Standard",
@@ -142,39 +199,11 @@
    "published": "2026-08-15T02:30:09+00:00"
   },
   {
-   "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent",
-   "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-14T17:13:05+00:00"
-  },
-  {
    "title": "Video Friday: Lift Happens",
    "url": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
    "source": "Ieee.org",
    "category": "robotics",
    "published": "2026-08-14T17:00:01+00:00"
-  },
-  {
-   "title": "NVIDIA & LG Bring Next-Gen Humanoids To Life To Advance The Physical AI Realm While Also Building Vera Rubin Factories",
-   "url": "https://wccftech.com/nvidia-lg-bring-next-gen-humanoids-to-life-to-advance-the-physical-ai-realm/",
-   "source": "Wccftech",
-   "category": "robotics",
-   "published": "2026-08-14T13:40:18+00:00"
-  },
-  {
-   "title": "LG Teams With NVIDIA For AI Factory Transformation And GR00T Humanoid",
-   "url": "https://hothardware.com/news/lg-teams-nvidia-ai-factory-transformation-gr00t-humanoid",
-   "source": "Hot Hardware",
-   "category": "robotics",
-   "published": "2026-08-14T13:13:00+00:00"
-  },
-  {
-   "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
-   "url": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
-   "source": "Science Daily",
-   "category": "quantum",
-   "published": "2026-08-14T12:56:01+00:00"
   },
   {
    "title": "qanimate added to PyPI",
@@ -189,48 +218,6 @@
    "source": "The Times of India",
    "category": "robotics",
    "published": "2026-08-14T11:27:17+00:00"
-  },
-  {
-   "title": "Introducing Gemini 3.7 Flash",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-13T17:04:18+00:00"
-  },
-  {
-   "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-13T13:00:33+00:00"
-  },
-  {
-   "title": "The builder\u2019s guide to GPT\u20115.6",
-   "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-13T11:00:00+00:00"
-  },
-  {
-   "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-   "url": "https://openai.com/index/previewing-ultrafast",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-13T10:00:00+00:00"
-  },
-  {
-   "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-   "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-13T09:00:00+00:00"
-  },
-  {
-   "title": "Putting sign language AI into users\u2019 hands",
-   "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-12T14:01:59+00:00"
   },
   {
    "title": "Chipmaking equipment supplier Lam Research to spend $3B+ on new labs",
@@ -307,8 +294,7 @@
    "url": "https://spacedaily.com/t-nasa-hpsc-processor-500-times-faster-spaceflight-ai/",
    "source": "Space Daily",
    "category": "compute",
-   "published": "2026-08-14T18:30:00+00:00",
-   "breakthrough": true
+   "published": "2026-08-14T18:30:00+00:00"
   },
   {
    "title": "Anthropic publishes second Risk Report under Responsible Scaling Policy",
