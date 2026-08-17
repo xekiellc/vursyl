@@ -1,13 +1,139 @@
 {
- "updated": "2026-08-17T12:52:36.636711+00:00",
+ "updated": "2026-08-17T18:45:39.679855+00:00",
  "items": [
+  {
+   "title": "Securing the Infrastructure of Intelligence",
+   "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-17T12:34:51+00:00"
+  },
+  {
+   "title": "OpenAI joins PORTS-Pike project",
+   "url": "https://openai.com/index/openai-joins-ports-pike-project",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-17T05:00:00+00:00"
+  },
+  {
+   "title": "yantrikdb-hermes-plugin 0.17.0",
+   "url": "https://pypi.org/project/yantrikdb-hermes-plugin/0.17.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-16T18:42:27+00:00"
+  },
+  {
+   "title": "agora-framework added to PyPI",
+   "url": "https://pypi.org/project/agora-framework/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-16T18:21:38+00:00"
+  },
+  {
+   "title": "llmtrim 0.13.2",
+   "url": "https://pypi.org/project/llmtrim/0.13.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-16T18:15:03+00:00"
+  },
+  {
+   "title": "agent-strace 0.89.0",
+   "url": "https://pypi.org/project/agent-strace/0.89.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-16T18:14:39+00:00"
+  },
+  {
+   "title": "ctxkernel added to PyPI",
+   "url": "https://pypi.org/project/ctxkernel/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-16T18:01:54+00:00"
+  },
+  {
+   "title": "llm-ffw 0.4.0",
+   "url": "https://pypi.org/project/llm-ffw/0.4.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-16T17:48:58+00:00"
+  },
+  {
+   "title": "agent-strace 0.87.0",
+   "url": "https://pypi.org/project/agent-strace/0.87.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-16T17:45:22+00:00"
+  },
+  {
+   "title": "sqz 1.6.1",
+   "url": "https://pypi.org/project/sqz/1.6.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-16T17:36:58+00:00"
+  },
+  {
+   "title": "Nvidia H100 GPU rental costs surge 50% in six months as AI demand outpaces supply",
+   "url": "https://cryptobriefing.com/nvidia-h100-gpu-rental-costs-surge/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-16T17:36:18+00:00"
+  },
+  {
+   "title": "Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality",
+   "url": "https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality",
+   "source": "Fox News",
+   "category": "robotics",
+   "published": "2026-08-16T16:06:54+00:00"
+  },
+  {
+   "title": "Business English News 62 \u2013 Quantum Computing",
+   "url": "https://www.businessenglishpod.com/2026/08/16/business-english-news-62-quantum-computing/",
+   "source": "Businessenglishpod.com",
+   "category": "quantum",
+   "published": "2026-08-16T16:02:57+00:00"
+  },
+  {
+   "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn\u2019t Dumb Anymore",
+   "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
+   "source": "Decrypt",
+   "category": "ai",
+   "published": "2026-08-16T16:00:05+00:00"
+  },
+  {
+   "title": "17-year-old Pennsylvania student Connor Hill wins $250,000 after computer algorithm solves decades-old geometry puzzle, identifying exactly 146 rare 3D shapes",
+   "url": "https://economictimes.indiatimes.com/news/international/global-trends/17-year-old-pennsylvania-student-connor-hill-wins-250000-after-computer-algorithm-solves-decades-old-geometry-puzzle-identifying-exactly-146-rare-3d-shapes/articleshow/133277464.cms",
+   "source": "The Times of India",
+   "category": "breakthroughs",
+   "published": "2026-08-16T14:46:26+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "UK researchers are growing miniature human tissue from NHS patient cells to improve drug testing",
+   "url": "https://www.techspot.com/news/113497-uk-researchers-building-miniature-human-organs-nhs-patient.html",
+   "source": "TechSpot",
+   "category": "health",
+   "published": "2026-08-16T13:31:00+00:00"
+  },
+  {
+   "title": "biomedical-ai-skills 0.4.0",
+   "url": "https://pypi.org/project/biomedical-ai-skills/0.4.0/",
+   "source": "Pypi.org",
+   "category": "health",
+   "published": "2026-08-16T09:50:42+00:00"
+  },
+  {
+   "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent",
+   "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-08-14T17:13:05+00:00"
+  },
   {
    "title": "Google reportedly taps AMD to design next-generation TPU \u2014 hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning",
    "source": "Tom's Hardware UK",
    "category": "compute",
-   "published": "2026-08-16T12:40:00+00:00",
-   "breakthrough": true
+   "published": "2026-08-16T12:40:00+00:00"
   },
   {
    "title": "How an $8 ESP32 S3 Microcontroller Runs a 28.9M Parameter Local LLM",
@@ -22,13 +148,6 @@
    "source": "Crypto Briefing",
    "category": "compute",
    "published": "2026-08-16T10:33:14+00:00"
-  },
-  {
-   "title": "\u2018Groundbreaking technology often enters the market at a premium before scaling\u2019: Touch-sensitive e-skin could soon be commonplace in robotics",
-   "url": "https://www.techradar.com/pro/groundbreaking-technology-often-enters-the-market-at-a-premium-before-scaling-touch-sensitive-e-skin-could-soon-be-commonplace-in-robotics",
-   "source": "TechRadar",
-   "category": "robotics",
-   "published": "2026-08-16T09:00:00+00:00"
   },
   {
    "title": "vectorai-sdk added to PyPI",
