@@ -1,6 +1,35 @@
 {
- "updated": "2026-08-17T07:03:47.310223+00:00",
+ "updated": "2026-08-17T12:52:36.636711+00:00",
  "items": [
+  {
+   "title": "Google reportedly taps AMD to design next-generation TPU \u2014 hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-08-16T12:40:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "How an $8 ESP32 S3 Microcontroller Runs a 28.9M Parameter Local LLM",
+   "url": "https://www.geeky-gadgets.com/run-llm-esp32-microcontroller/",
+   "source": "Geeky Gadgets",
+   "category": "ai",
+   "published": "2026-08-16T12:00:00+00:00"
+  },
+  {
+   "title": "Riot Platforms signs $9B AI compute deal with Anthropic, shifts from Bitcoin mining",
+   "url": "https://cryptobriefing.com/riot-platforms-signs-9b-ai-compute-deal-with-anthropic-shifts-from-bitcoin/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-16T10:33:14+00:00"
+  },
+  {
+   "title": "\u2018Groundbreaking technology often enters the market at a premium before scaling\u2019: Touch-sensitive e-skin could soon be commonplace in robotics",
+   "url": "https://www.techradar.com/pro/groundbreaking-technology-often-enters-the-market-at-a-premium-before-scaling-touch-sensitive-e-skin-could-soon-be-commonplace-in-robotics",
+   "source": "TechRadar",
+   "category": "robotics",
+   "published": "2026-08-16T09:00:00+00:00"
+  },
   {
    "title": "vectorai-sdk added to PyPI",
    "url": "https://pypi.org/project/vectorai-sdk/",
@@ -93,13 +122,6 @@
    "published": "2026-08-16T03:45:20+00:00"
   },
   {
-   "title": "AI could cut doctors' paperwork burden as global health worker shortage looms: Report",
-   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/ai-could-cut-doctors-paperwork-burden-as-global-health-worker-shortage-looms-report/articleshow/133269081.cms",
-   "source": "The Times of India",
-   "category": "health",
-   "published": "2026-08-16T02:48:14+00:00"
-  },
-  {
    "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data centre deal",
    "url": "https://www.business-standard.com/technology/tech-news/nvidia-eyes-investing-3-billion-in-sb-energy-under-openai-data-centre-deal-126081600049_1.html",
    "source": "Business Standard",
@@ -133,48 +155,6 @@
    "source": "The Times of India",
    "category": "health",
    "published": "2026-08-15T18:26:03+00:00"
-  },
-  {
-   "title": "LG\u2019s humanoid robot arrives in 2027, running Nvidia\u2019s Isaac GR00T",
-   "url": "https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-08-15T17:28:39+00:00"
-  },
-  {
-   "title": "qiskit-qubit-mapping-toolkit added to PyPI",
-   "url": "https://pypi.org/project/qiskit-qubit-mapping-toolkit/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-08-15T13:07:22+00:00"
-  },
-  {
-   "title": "qiskit-qubit-mapping-toolkit 0.1.0",
-   "url": "https://pypi.org/project/qiskit-qubit-mapping-toolkit/0.1.0/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-08-15T13:07:22+00:00"
-  },
-  {
-   "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent",
-   "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-14T17:13:05+00:00"
-  },
-  {
-   "title": "Introducing Gemini 3.7 Flash",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-13T17:04:18+00:00"
-  },
-  {
-   "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-13T13:00:33+00:00"
   },
   {
    "title": "The builder\u2019s guide to GPT\u20115.6",
@@ -223,8 +203,7 @@
    "url": "https://fortune.com/2026/08/15/alibaba-qwen-open-ai-models-3-billion-downloads-meta-google/",
    "source": "Fortune",
    "category": "ai",
-   "published": "2026-08-15T22:39:46+00:00",
-   "breakthrough": true
+   "published": "2026-08-15T22:39:46+00:00"
   },
   {
    "title": "AI reshapes semiconductor testing as KYEC pushes four-way model",
