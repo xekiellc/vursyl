@@ -1,19 +1,160 @@
 {
- "updated": "2026-08-17T18:45:39.679855+00:00",
+ "updated": "2026-08-18T01:26:15.667963+00:00",
  "items": [
   {
-   "title": "Securing the Infrastructure of Intelligence",
-   "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-17T12:34:51+00:00"
-  },
-  {
-   "title": "OpenAI joins PORTS-Pike project",
-   "url": "https://openai.com/index/openai-joins-ports-pike-project",
+   "title": "The Defender\u2019s Window",
+   "url": "https://openai.com/index/the-defenders-window",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-08-17T05:00:00+00:00"
+   "published": "2026-08-17T05:30:00+00:00"
+  },
+  {
+   "title": "New policy ideas for the Intelligence Age",
+   "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-17T03:15:00+00:00"
+  },
+  {
+   "title": "flexllm 0.15.2",
+   "url": "https://pypi.org/project/flexllm/0.15.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-17T01:22:11+00:00"
+  },
+  {
+   "title": "Oi Studios launches Me. health app for GP summaries",
+   "url": "https://futurefive.com.au/story/oi-studios-launches-me-health-app-for-gp-summaries",
+   "source": "Futurefive.com.au",
+   "category": "health",
+   "published": "2026-08-17T01:11:46+00:00"
+  },
+  {
+   "title": "Singapore's non-oil exports expand 24.2% in July as AI demand remains strong",
+   "url": "https://www.channelnewsasia.com/singapore/nodx-july-exports-strong-ai-demand-6322881",
+   "source": "CNA",
+   "category": "compute",
+   "published": "2026-08-17T01:07:27+00:00"
+  },
+  {
+   "title": "Prolly: A content-addressed ordered map built on prolly trees",
+   "url": "https://github.com/crabbuild/prolly",
+   "source": "Github.com",
+   "category": "compute",
+   "published": "2026-08-17T01:00:45+00:00"
+  },
+  {
+   "title": "Tencent Details Progress Toward Carbon Neutrality Goals and Outlines AI-Era Priorities",
+   "url": "https://www.prnewswire.com/news-releases/tencent-details-progress-toward-carbon-neutrality-goals-and-outlines-ai-era-priorities-302852291.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-08-17T01:00:00+00:00"
+  },
+  {
+   "title": "Modi pledges more chip plants, mass AI training, and an export push in Independence Day address",
+   "url": "https://www.digitimes.com/news/a20260817VL200/training-manufacturing-policy.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-17T00:53:21+00:00"
+  },
+  {
+   "title": "LG, Nvidia deepen ties on humanoid robots, AI factories, and vehicles",
+   "url": "https://www.digitimes.com/news/a20260817PR200/lg-nvidia-robot-data-manufacturing.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-08-17T00:52:23+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Chinese AI company Zhipu claims its new model is a better bug-finder than Anthropic, OpenAI",
+   "url": "https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203",
+   "source": "Theregister.com",
+   "category": "ai",
+   "published": "2026-08-17T00:51:21+00:00"
+  },
+  {
+   "title": "Yotta targets $1.5 billion raise in FY27, including India IPO",
+   "url": "https://www.livemint.com/companies/news/yotta-targets-1-5-billion-raise-in-fy27-including-india-ipo-11786845613375.html",
+   "source": "Livemint",
+   "category": "compute",
+   "published": "2026-08-17T00:30:44+00:00"
+  },
+  {
+   "title": "gosce-llm-orchestration-jwt-agent 0.1.0",
+   "url": "https://pypi.org/project/gosce-llm-orchestration-jwt-agent/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-17T00:09:37+00:00"
+  },
+  {
+   "title": "Linux Kernel 7.2 Has Been Officially Released with Many New Features",
+   "url": "https://linux.slashdot.org/story/26/08/16/2349224/linux-kernel-72-has-been-officially-released-with-many-new-features",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-08-17T00:03:00+00:00"
+  },
+  {
+   "title": "Author Correction: Electrostatic regulation of solvation chemistry enables ampere-hour-scale high-energy lithium metal batteries",
+   "url": "https://www.nature.com/articles/s41565-026-02277-z",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-08-17T00:00:00+00:00"
+  },
+  {
+   "title": "India roundup: India's electronics push gains momentum as water, China ties and chip incentives collide",
+   "url": "https://www.digitimes.com/news/a20260814VL218/electronics-incentives-water-data-center-business.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-16T23:54:01+00:00"
+  },
+  {
+   "title": "AI vision sensing demand heats up for Novatek, PixArt, Elan, Realtek",
+   "url": "https://www.digitimes.com/news/a20260814PD233/ic-design-demand-elan-novatek-pixart-realtek.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-16T23:53:07+00:00"
+  },
+  {
+   "title": "FSC plans MLPC trial production by end-2026 in passive component push",
+   "url": "https://www.digitimes.com/news/a20260814PD228/passive-production-component-high-end-2026.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-16T23:52:28+00:00"
+  },
+  {
+   "title": "Fu Chun Shin lifts second quarter margins on stronger electronics demand",
+   "url": "https://www.digitimes.com/news/a20260814PD222/demand-electronics-investment-equipment-smart-manufacturing.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-16T23:51:22+00:00"
+  },
+  {
+   "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+   "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+   "source": "Simonwillison.net",
+   "category": "ai",
+   "published": "2026-08-16T23:45:09+00:00"
+  },
+  {
+   "title": "Linux Kernel 7.2 Has Been Officially Released",
+   "url": "https://slashdot.org/submission/17349912/linux-kernel-72-has-been-officially-released",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-08-16T23:13:01+00:00"
+  },
+  {
+   "title": "Scientists Wiggled a Fish's Earbones With Light \u2013 And Changed Its Heartbeat",
+   "url": "https://www.sciencealert.com/scientists-wiggled-a-fishs-earbones-with-light-and-changed-its-heartbeat",
+   "source": "ScienceAlert",
+   "category": "health",
+   "published": "2026-08-16T20:00:00+00:00"
+  },
+  {
+   "title": "\u2018Groundbreaking technology often enters the market at a premium before scaling\u2019: Touch-sensitive e-skin could soon be commonplace in robotics",
+   "url": "https://www.techradar.com/pro/groundbreaking-technology-often-enters-the-market-at-a-premium-before-scaling-touch-sensitive-e-skin-could-soon-be-commonplace-in-robotics",
+   "source": "TechRadar",
+   "category": "robotics",
+   "published": "2026-08-16T09:00:00+00:00"
   },
   {
    "title": "yantrikdb-hermes-plugin 0.17.0",
@@ -104,8 +245,7 @@
    "url": "https://economictimes.indiatimes.com/news/international/global-trends/17-year-old-pennsylvania-student-connor-hill-wins-250000-after-computer-algorithm-solves-decades-old-geometry-puzzle-identifying-exactly-146-rare-3d-shapes/articleshow/133277464.cms",
    "source": "The Times of India",
    "category": "breakthroughs",
-   "published": "2026-08-16T14:46:26+00:00",
-   "breakthrough": true
+   "published": "2026-08-16T14:46:26+00:00"
   },
   {
    "title": "UK researchers are growing miniature human tissue from NHS patient cells to improve drug testing",
@@ -120,13 +260,6 @@
    "source": "Pypi.org",
    "category": "health",
    "published": "2026-08-16T09:50:42+00:00"
-  },
-  {
-   "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent",
-   "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-14T17:13:05+00:00"
   },
   {
    "title": "Google reportedly taps AMD to design next-generation TPU \u2014 hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
