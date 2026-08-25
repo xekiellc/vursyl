@@ -1,19 +1,271 @@
 {
- "updated": "2026-08-25T01:28:25.167036+00:00",
+ "updated": "2026-08-25T06:55:41.323801+00:00",
  "items": [
+  {
+   "title": "Generating scenarios for extreme events, without extreme data",
+   "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-08-24T18:00:00+00:00"
+  },
+  {
+   "title": "How XPUs Meet a World-Class AI Factory",
+   "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-24T15:00:54+00:00"
+  },
+  {
+   "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+   "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-08-24T15:00:41+00:00"
+  },
+  {
+   "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+   "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-24T15:00:19+00:00"
+  },
+  {
+   "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
+   "url": "https://openai.com/index/gpt-5-6-in-kiro",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-24T12:00:00+00:00"
+  },
+  {
+   "title": "llmvalidate 1.0.0",
+   "url": "https://pypi.org/project/llmvalidate/1.0.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-24T06:51:58+00:00"
+  },
+  {
+   "title": "Robots Set New Records at World Humanoid Robot Games",
+   "url": "https://biztoc.com/x/10c91e661c72b2c9",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-24T06:39:16+00:00"
+  },
+  {
+   "title": "vv-llm 0.5.0",
+   "url": "https://pypi.org/project/vv-llm/0.5.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-24T06:38:45+00:00"
+  },
+  {
+   "title": "ORZEYFUL (oveporexton) Approved in Japan as the First and Only Medicine to Treat the Underlying Cause of Narcolepsy Type 1",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/orzeyful-oveporexton-approved-in-japan-as-the-first-and-only-medicine-to-treat-the-underlying-cause-of-narcolepsy-type-1",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-08-24T06:36:44+00:00"
+  },
+  {
+   "title": "UAE weighs investment in 500 MW AI data center plan in Japan",
+   "url": "https://www.digitimes.com/news/a20260824PD225/data-center-uae-investment-offshore-wind.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-24T06:35:00+00:00"
+  },
+  {
+   "title": "aimd-tool 0.23.0",
+   "url": "https://pypi.org/project/aimd-tool/0.23.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-24T06:33:13+00:00"
+  },
+  {
+   "title": "Fadu showcases AI data center ambitions at OCP Korea Tech Day - The Korea Times",
+   "url": "https://www.koreatimes.co.kr/business/companies/20260824/fadu-showcases-ai-data-center-ambitions-at-ocp-korea-tech-day",
+   "source": "\ucf54\ub9ac\uc544\ud0c0\uc784\uc2a4",
+   "category": "compute",
+   "published": "2026-08-24T06:30:55+00:00"
+  },
+  {
+   "title": "Chinese humanoid robots beat Usain Bolt\u2019s 100m record and human high-jump record: Are humans losing?",
+   "url": "https://timesofindia.indiatimes.com/science/chinese-humanoid-robots-just-beat-usain-bolts-100m-record-and-the-human-high-jump-record-are-humans-already-losing-to-machines/articleshow/133451720.cms",
+   "source": "The Times of India",
+   "category": "robotics",
+   "published": "2026-08-24T06:30:00+00:00"
+  },
+  {
+   "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
+   "url": "https://github.com/thiagotigaz/ocr-it",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-08-24T06:25:31+00:00"
+  },
+  {
+   "title": "gosce-authenticated-mcp-agent 0.1.0",
+   "url": "https://pypi.org/project/gosce-authenticated-mcp-agent/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-24T06:17:03+00:00"
+  },
+  {
+   "title": "gosce-ai-getvda-anthropic-google-auth-oauthlib-mc-aed9d5 added to PyPI",
+   "url": "https://pypi.org/project/gosce-ai-getvda-anthropic-google-auth-oauthlib-mc-aed9d5/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-24T06:16:35+00:00"
+  },
+  {
+   "title": "gosce-ai-getvda-anthropic-google-auth-oauthlib-mc-aed9d5 0.1.0",
+   "url": "https://pypi.org/project/gosce-ai-getvda-anthropic-google-auth-oauthlib-mc-aed9d5/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-24T06:16:35+00:00"
+  },
+  {
+   "title": "hadal-worker 0.2.4",
+   "url": "https://pypi.org/project/hadal-worker/0.2.4/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-24T06:14:36+00:00"
+  },
+  {
+   "title": "project-llm-trainer 0.23.1",
+   "url": "https://pypi.org/project/project-llm-trainer/0.23.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-24T06:09:12+00:00"
+  },
+  {
+   "title": "India's semiconductor market seen reaching $155 billion by 2031: Report",
+   "url": "https://www.thehindubusinessline.com/info-tech/indias-semiconductor-market-seen-reaching-155-billion-by-2031-report/article71383324.ece",
+   "source": "BusinessLine",
+   "category": "compute",
+   "published": "2026-08-24T06:06:50+00:00"
+  },
+  {
+   "title": "LLM Tool Failures: Only 3 Root Causes \u2013 Value, Condition, Intent",
+   "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-08-24T06:00:50+00:00"
+  },
+  {
+   "title": "Chinese Chip Maker YMTC Seeks $4.9 Billion IPO",
+   "url": "https://biztoc.com/x/f6e12f379868efec",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-08-24T05:59:48+00:00"
+  },
+  {
+   "title": "Largan Precision and TSMC partner to chase AI opportunities in co-packaged optics",
+   "url": "https://cryptobriefing.com/largan-tsmc-cpo-ai-partnership/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-08-24T05:54:06+00:00"
+  },
+  {
+   "title": "Skanska to build datacenter near Prague, Czechia, for CZK 2.1 billion, about SEK 930M",
+   "url": "https://www.prnewswire.com/news-releases/skanska-to-build-datacenter-near-prague-czechia-for-czk-2-1-billion-about-sek-930m-302858068.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-08-24T05:48:00+00:00"
+  },
+  {
+   "title": "Audio8/Audio8-TTS-Preview-0.1b \u00b7 Hugging Face",
+   "url": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.1b",
+   "source": "Huggingface.co",
+   "category": "ai",
+   "published": "2026-08-24T05:47:01+00:00"
+  },
+  {
+   "title": "In Photos: Humanoid robots sprint, play soccer and set records at Beijing games",
+   "url": "https://m.economictimes.com/tech/artificial-intelligence/humanoid-robots-sprint-play-soccer-and-set-records-at-beijing-games/china-humanoid-robot-games/slideshow/133452935.cms",
+   "source": "Economictimes.com",
+   "category": "robotics",
+   "published": "2026-08-24T05:46:26+00:00"
+  },
+  {
+   "title": "Taiwan semiconductor materials hit golden opportunity",
+   "url": "https://www.digitimes.com/news/a20260824PD219/taiwan-supply-chain-materials-semi-taiwan-demand.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-08-24T05:45:00+00:00"
+  },
+  {
+   "title": "ENGINEAI says general-purpose humanoid robot costs have fallen below RMB100,000",
+   "url": "https://technode.com/2026/08/24/engineai-says-general-purpose-humanoid-robot-costs-have-fallen-below-rmb100000/",
+   "source": "TechNode",
+   "category": "robotics",
+   "published": "2026-08-24T05:42:06+00:00"
+  },
+  {
+   "title": "Samsung Confirms HBM4E Memory Running at 16 Gbps Per Pin",
+   "url": "https://www.techpowerup.com/351859/samsung-confirms-hbm4e-memory-running-at-16-gbps-per-pin",
+   "source": "Techpowerup.com",
+   "category": "compute",
+   "published": "2026-08-24T05:30:00+00:00"
+  },
+  {
+   "title": "At 13, this UAE student built an AI education platform that won gold and an open-source tool for AI developers",
+   "url": "https://timesofindia.indiatimes.com/education/news/at-13-this-uae-student-built-an-ai-education-platform-that-won-gold-and-an-open-source-tool-for-ai-developers/articleshow/133450254.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-08-24T03:34:19+00:00"
+  },
+  {
+   "title": "WRC 2026 spotlights five robotics trends as robots go to work",
+   "url": "https://www.digitimes.com/news/a20260824PD207/2026-robotics-robot-data-beijing.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-08-24T03:06:18+00:00"
+  },
+  {
+   "title": "AIMX Singapore 2026 Accelerates AI Deployment Through Catalysing Industry Innovation and Advancing Global Collaborations",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/aimx-singapore-2026-accelerates-ai-deployment-through-catalysing-industry-innovation-and-advancing-global-collaborations/article71383077.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-08-24T03:00:32+00:00"
+  },
+  {
+   "title": "Video: Humanoid robot rides 660-pound capacity robot horse in Beijing demonstration",
+   "url": "https://biztoc.com/x/5abc759aa0d8cfbd",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-24T01:41:01+00:00"
+  },
+  {
+   "title": "Novo Nordisk Expands Its AI Push With AWS, But Can It Accelerate Drug Discovery?",
+   "url": "https://biztoc.com/x/281886aef7321d40",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-08-24T00:09:37+00:00"
+  },
+  {
+   "title": "Humanoids break records at Beijing Robot Games...",
+   "url": "https://tech.yahoo.com/general/articles/humanoids-break-records-beijing-robot-114337140.html",
+   "source": "Yahoo Entertainment",
+   "category": "robotics",
+   "published": "2026-08-23T23:46:40+00:00"
+  },
+  {
+   "title": "responsible-ai-toolbox",
+   "url": "https://kitploit.com/en/tools/github/microsoft/responsible-ai-toolbox/",
+   "source": "Kitploit.com",
+   "category": "ai",
+   "published": "2026-08-23T23:10:47+00:00"
+  },
+  {
+   "title": "Chinese humanoid robot beats Bolt\u2019s time",
+   "url": "https://biztoc.com/x/397ba5e1dd4812f2",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-23T22:52:43+00:00"
+  },
   {
    "title": "Private Equity Groups Begin Placing AI Experts in Portfolio Companies",
    "url": "https://biztoc.com/x/9b2126d154b63f2d",
    "source": "Biztoc.com",
    "category": "ai",
    "published": "2026-08-24T01:10:39+00:00"
-  },
-  {
-   "title": "Antengene Announces 2026 Interim Results: Achieves First\u2011Ever Profitability and Accelerates Value Creation Through Innovative R&D",
-   "url": "https://www.prnewswire.com/news-releases/antengene-announces-2026-interim-results-achieves-firstever-profitability-and-accelerates-value-creation-through-innovative-rd-302857795.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-24T01:00:00+00:00"
   },
   {
    "title": "Alibaba plans HKD80 billion share placement to fund AI expansion",
@@ -35,20 +287,6 @@
    "source": "Next Big Future",
    "category": "ai",
    "published": "2026-08-24T00:14:10+00:00"
-  },
-  {
-   "title": "DREAMS illuminates spatial DNA and RNA modification landscapes",
-   "url": "https://www.nature.com/articles/s41556-026-02038-z",
-   "source": "Nature.com",
-   "category": "breakthroughs",
-   "published": "2026-08-24T00:00:00+00:00"
-  },
-  {
-   "title": "Enhanced classification and identification of bacterial and viral microorganisms by integration of MALDI-TOF mass spectrometry with artificial intelligence",
-   "url": "https://www.nature.com/articles/s41598-026-54426-y",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-08-24T00:00:00+00:00"
   },
   {
    "title": "The US is now home to 15 of the world's 20 biggest AI data centers \u2014 with one state housing 12 on its own",
@@ -79,46 +317,11 @@
    "published": "2026-08-23T23:40:11+00:00"
   },
   {
-   "title": "Xiaomi unveils second-generation humanoid robot at Beijing conference",
-   "url": "https://www.digitimes.com/news/a20260821PD231/xiaomi-robot-beijing-2026-production.html?chid=10",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-08-23T23:39:47+00:00"
-  },
-  {
-   "title": "Agentic AI opens new era for humanoid robots, shipments to jump fourfold by 2030",
-   "url": "https://www.digitimes.com/news/a20260821PD226/shipments-2030-hardware-market-digitimes.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-08-23T23:38:39+00:00"
-  },
-  {
-   "title": "Galbot's fast rise marks new wave in China's humanoid robot race",
-   "url": "https://www.digitimes.com/news/a20260821PD225/humanoid-robot-2026.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-08-23T23:38:13+00:00"
-  },
-  {
-   "title": "Radiology AI Slashes Imaging Turnaround by 91% in Major Health System Deployment",
-   "url": "https://healthaicentral.com/news/radiology-ai-slashes-imaging-turnaround-by-91-in-major-health-system-deployment",
-   "source": "Healthaicentral.com",
-   "category": "health",
-   "published": "2026-08-23T21:53:22+00:00"
-  },
-  {
    "title": "Galbot Robots complete 100 consecutive rallies against a tennis champion",
    "url": "https://thenextweb.com/news/galbot-autonomous-tennis-robot-100-rallies-claim",
    "source": "The Next Web",
    "category": "robotics",
    "published": "2026-08-23T20:08:09+00:00"
-  },
-  {
-   "title": "Scientists Observe Quantum Heat Waves at Room Temperature For The First Time",
-   "url": "https://www.sciencealert.com/scientists-observe-quantum-heat-waves-at-room-temperature-for-the-first-time",
-   "source": "ScienceAlert",
-   "category": "quantum",
-   "published": "2026-08-23T20:00:00+00:00"
   },
   {
    "title": "Robot boxing, football and sprinting at World Humanoid Games",
@@ -162,13 +365,6 @@
    "source": "Slashdot.org",
    "category": "robotics",
    "published": "2026-08-23T18:53:32+00:00"
-  },
-  {
-   "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-   "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-21T11:59:48+00:00"
   },
   {
    "title": "Samsung Leverages Advanced Logic Processes To Advance HBM As It Works On Its Next-Gen zHBM DRAM That 3D Stacks Memory On Compute",
@@ -34805,202 +35001,6 @@
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-06-10T15:00:00+00:00"
-  },
-  {
-   "title": "Leaf Raises $13M Series B to bring AI to Agribusiness",
-   "url": "https://www.prnewswire.com/news-releases/leaf-raises-13m-series-b-to-bring-ai-to-agribusiness-302795837.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-06-10T15:00:00+00:00"
-  },
-  {
-   "title": "Vallige Introduces Val -- a Smart Companion to Support Families Living with Dementia",
-   "url": "https://www.prnewswire.com/news-releases/vallige-introduces-val--a-smart-companion-to-support-families-living-with-dementia-302796882.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-10T14:37:00+00:00"
-  },
-  {
-   "title": "Show HN: A curated collection of simple datasets for machine learning",
-   "url": "https://github.com/pplonski/datasets-for-start",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-06-10T14:10:41+00:00"
-  },
-  {
-   "title": "Show HN: OpenYabby, voice-controlled multi-agent orchestrator for Claude Code",
-   "url": "https://github.com/OpenYabby/OpenYabby",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-06-09T20:08:06+00:00"
-  },
-  {
-   "title": "What Codex unlocks for Notion",
-   "url": "https://openai.com/index/notion",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-09T10:00:00+00:00"
-  },
-  {
-   "title": "From Gov.gr to CRM: Greece steps up digital state overhaul",
-   "url": "https://www.naftemporiki.gr/english/2122203/from-gov-gr-to-crm-greece-steps-up-digital-state-overhaul/",
-   "source": "Naftemporiki.gr",
-   "category": "ai",
-   "published": "2026-06-10T10:43:47+00:00"
-  },
-  {
-   "title": "Subtle Medical Receives FDA Clearance for SubtleHD\u2122(CT), Expanding AI-Powered Image Enhancement into CT Imaging",
-   "url": "https://www.prnewswire.com/news-releases/subtle-medical-receives-fda-clearance-for-subtlehdct-expanding-ai-powered-image-enhancement-into-ct-imaging-302796076.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-10T10:40:00+00:00"
-  },
-  {
-   "title": "New backing for open-source AI builders, data centre design challenge and robotics partnership",
-   "url": "https://www.gov.uk/government/news/new-backing-for-open-source-ai-builders-data-centre-design-challenge-and-robotics-partnership",
-   "source": "Www.gov.uk",
-   "category": "robotics",
-   "published": "2026-06-10T10:35:06+00:00"
-  },
-  {
-   "title": "Scotiabank accelerates AI use to boost productivity and better manage risks",
-   "url": "https://financialpost.com/fp-finance/banking/scotiabank-accelerates-ai-use-boost-productivity-manage-risks",
-   "source": "Financial Post",
-   "category": "ai",
-   "published": "2026-06-10T10:30:57+00:00"
-  },
-  {
-   "title": "Beyond representational alignment with brain-guided language models for robust reasoning",
-   "url": "https://arxiv.org/abs/2606.11893",
-   "source": "Arxiv.org",
-   "category": "ai",
-   "published": "2026-06-10T10:22:49+00:00"
-  },
-  {
-   "title": "Logitech\u2019s Mobi Fold is a foldable travel mouse with an AI model to stop accidental clicks",
-   "url": "https://thenextweb.com/news/logitech-mobi-fold-foldable-travel-mouse/",
-   "source": "The Next Web",
-   "category": "ai",
-   "published": "2026-06-10T10:19:54+00:00"
-  },
-  {
-   "title": "New tools will help employers maximise AI productivity gains",
-   "url": "https://www.gov.uk/government/news/new-tools-will-help-employers-maximise-ai-productivity-gains",
-   "source": "Www.gov.uk",
-   "category": "ai",
-   "published": "2026-06-10T10:04:06+00:00"
-  },
-  {
-   "title": "01Health raises \u00a311.2M to turn its dental-AI platform into infrastructure for specialist care",
-   "url": "https://thenextweb.com/news/01health-raises-11-2m-to-turn-its-dental-ai-platform-into-infrastructure-for-specialist-care/",
-   "source": "The Next Web",
-   "category": "health",
-   "published": "2026-06-10T10:03:54+00:00"
-  },
-  {
-   "title": "DeepHealth Launches Reporting Pro, Bringing AI Automation to Radiology Reporting",
-   "url": "https://www.globenewswire.com/news-release/2026/06/10/3309521/10985/en/DeepHealth-Launches-Reporting-Pro-Bringing-AI-Automation-to-Radiology-Reporting.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-06-10T10:00:00+00:00"
-  },
-  {
-   "title": "Uncovr raises $7M for AI that writes the operative report before the surgeon leaves the room",
-   "url": "https://thenextweb.com/news/uncovr-7m-seed-surgical-ai-index-ventures/",
-   "source": "The Next Web",
-   "category": "health",
-   "published": "2026-06-10T09:53:57+00:00"
-  },
-  {
-   "title": "Samsung takes major stake in US biosciences company to expand health footprint",
-   "url": "https://www.sammobile.com/news/samsung-takes-major-stake-in-us-biosciences-company-to-expand-health-footprint/",
-   "source": "SamMobile",
-   "category": "health",
-   "published": "2026-06-10T08:39:47+00:00"
-  },
-  {
-   "title": "Xpeng CEO He Xiaopeng takes personal control of robotics unit, targets IRON robot mass production by year-end",
-   "url": "https://cryptobriefing.com/xpeng-iron-humanoid-robots-mass-production/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-06-10T08:11:46+00:00"
-  },
-  {
-   "title": "Haut.AI Collaborates with OLAY on Virtual Companion Technology to Power Clinically Modeled Skincare Simulations",
-   "url": "https://www.prnewswire.com/news-releases/hautai-collaborates-with-olay-on-virtual-companion-technology-to-power-clinically-modeled-skincare-simulations-302796078.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-10T07:00:00+00:00"
-  },
-  {
-   "title": "Tether expands robotics push with lead role in NEURA's $1B-plus funding round",
-   "url": "https://cointelegraph.com/news/tether-backs-neura-robotics-in-up-to-14b-round-for-autonomous-payments",
-   "source": "Cointelegraph",
-   "category": "robotics",
-   "published": "2026-06-10T07:00:00+00:00"
-  },
-  {
-   "title": "Xpeng boss to head robot unit with humanoid mass production imminent",
-   "url": "https://www.straitstimes.com/business/xpeng-boss-to-head-robot-unit-with-humanoid-mass-production-imminent",
-   "source": "The Straits Times",
-   "category": "robotics",
-   "published": "2026-06-10T06:25:00+00:00"
-  },
-  {
-   "title": "Ambani-backed robot start-up seeks $100 million to take on China",
-   "url": "https://www.bloomberg.com/news/articles/2026-06-10/ambani-backed-robot-startup-seeks-100-million-to-take-on-china",
-   "source": "Bloomberg",
-   "category": "robotics",
-   "published": "2026-06-10T04:45:48+00:00"
-  },
-  {
-   "title": "DapuStor Strengthens AI Infrastructure Ecosystem Collaboration at Computex 2026",
-   "url": "https://www.prnewswire.co.uk/news-releases/dapustor-strengthens-ai-infrastructure-ecosystem-collaboration-at-computex-2026-302796177.html",
-   "source": "PR Newswire UK",
-   "category": "compute",
-   "published": "2026-06-10T04:10:00+00:00"
-  },
-  {
-   "title": "Harbour BioMed Announces NMPA Acceptance of IND Application for HBM7004 for the Treatment of Advanced Solid Tumors",
-   "url": "https://www.prnewswire.com/news-releases/harbour-biomed-announces-nmpa-acceptance-of-ind-application-for-hbm7004-for-the-treatment-of-advanced-solid-tumors-302796175.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-10T04:06:00+00:00"
-  },
-  {
-   "title": "The latest entrant to China\u2019s companionship economy: AI Toys",
-   "url": "https://www.channelnewsasia.com/east-asia/china-emotional-economy-artificial-intelligence-companion-toys-fuzozo-6172926",
-   "source": "CNA",
-   "category": "ai",
-   "published": "2026-06-10T04:02:56+00:00"
-  },
-  {
-   "title": "Reliance Industries and Meta join hands to develop AI-enabled data centre in Gujarat",
-   "url": "https://www.thehindubusinessline.com/companies/reliance-industries-and-meta-join-hands-to-develop-ai-enabled-data-centre-in-gujarat/article71083378.ece",
-   "source": "BusinessLine",
-   "category": "compute",
-   "published": "2026-06-10T03:50:37+00:00"
-  },
-  {
-   "title": "OpenCV 5 release \u2013 New DNN engine with enhanced ONNX and LLM/VLM support, Intel, Arm, and RISC-V hardware optimizations",
-   "url": "https://www.cnx-software.com/2026/06/10/opencv-5-release-new-dnn-engine-with-enhanced-onnx-and-llm-vlm-support-intel-arm-and-risc-v-hardware-optimizations/",
-   "source": "CNX Software",
-   "category": "ai",
-   "published": "2026-06-10T03:31:50+00:00"
-  },
-  {
-   "title": "Meta partners with Reliance to launch first AI-enabled data center in India",
-   "url": "https://www.livemint.com/companies/news/meta-partners-with-reliance-to-launch-first-ai-enabled-data-center-in-india-11781060755065.html",
-   "source": "Livemint",
-   "category": "compute",
-   "published": "2026-06-10T03:30:53+00:00"
-  },
-  {
-   "title": "147th airhacks tv: Local LLMs, LightMetal, ZSmith Agents, AI Rails, Saving Tokens",
-   "url": "https://adambien.blog/roller/abien/entry/147th_airhacks_tv_local_llms_lightmetal_zsmith_agents_ai_rails_saving_tokens",
-   "source": "Adambien.blog",
-   "category": "ai",
-   "published": "2026-06-10T03:13:33+00:00"
   }
  ]
 }
