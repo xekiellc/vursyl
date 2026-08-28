@@ -1,55 +1,258 @@
 {
- "updated": "2026-08-27T22:03:08.812745+00:00",
+ "updated": "2026-08-28T10:41:41.738679+00:00",
  "items": [
   {
-   "title": "Looking beyond natural sequences",
-   "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
-   "source": "MIT News AI",
+   "title": "Supporting Thailand\u2019s next generation of AI startups",
+   "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-08-27T19:20:00+00:00"
+   "published": "2026-08-28T02:00:00+00:00"
   },
   {
-   "title": "Gemini Omni 1.1 Flash lets you build with more control",
-   "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-27T16:11:32+00:00"
+   "title": "ProFound Therapeutics Receives Investment to Tackle Preeclampsia and Eclampsia",
+   "url": "https://www.prnewswire.com/news-releases/profound-therapeutics-receives-investment-to-tackle-preeclampsia-and-eclampsia-302861112.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-27T10:30:00+00:00"
   },
   {
-   "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-27T13:00:33+00:00"
+   "title": "London surgeons remove brain tumour in first AI-assisted operation of its kind",
+   "url": "https://thenextweb.com/news/uclh-ai-assisted-pituitary-tumour-surgery",
+   "source": "The Next Web",
+   "category": "health",
+   "published": "2026-08-27T10:26:26+00:00"
   },
   {
-   "title": "Delivering Vera: NVIDIA\u2019s First CPU Built for Agents Is Shipping Now",
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-   "source": "NVIDIA",
+   "title": "langchain-youtube added to PyPI",
+   "url": "https://pypi.org/project/langchain-youtube/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-27T10:25:10+00:00"
+  },
+  {
+   "title": "llm-infer 0.6.1",
+   "url": "https://pypi.org/project/llm-infer/0.6.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-27T10:21:09+00:00"
+  },
+  {
+   "title": "LG ELECTRONICS INTRODUCES AN AWARD-WINNING AI TV EXPERIENCE AT IFA 2026",
+   "url": "https://www.prnewswire.com/news-releases/lg-electronics-introduces-an-award-winning-ai-tv-experience-at-ifa-2026-302861711.html",
+   "source": "PRNewswire",
    "category": "compute",
-   "published": "2026-08-27T13:00:17+00:00",
+   "published": "2026-08-27T10:21:00+00:00"
+  },
+  {
+   "title": "context-audit added to PyPI",
+   "url": "https://pypi.org/project/context-audit/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-27T10:17:19+00:00"
+  },
+  {
+   "title": "context-audit 0.1.0",
+   "url": "https://pypi.org/project/context-audit/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-27T10:17:19+00:00"
+  },
+  {
+   "title": "Hugging Face debuts $399 Microduck waddling robot",
+   "url": "https://cryptobriefing.com/hugging-face-microduck-399-waddling-robot/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-08-27T10:15:57+00:00"
+  },
+  {
+   "title": "ccc-contextcompiler 0.1.0",
+   "url": "https://pypi.org/project/ccc-contextcompiler/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-27T10:13:49+00:00"
+  },
+  {
+   "title": "ccc-contextcompiler added to PyPI",
+   "url": "https://pypi.org/project/ccc-contextcompiler/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-27T10:13:45+00:00"
+  },
+  {
+   "title": "74% of Shoppers Use AI for Discovery\u2013NIQ Showcases What That Means for the Consumer Purchase Journey in New Report",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/74-of-shoppers-use-ai-for-discovery-niq-showcases-what-that-means-for-the-consumer-purchase-journey-in-new-report",
+   "source": "Financial Post",
+   "category": "ai",
+   "published": "2026-08-27T10:07:08+00:00"
+  },
+  {
+   "title": "Ant International Joins Hong Kong Regulators\u2019 GenA.I. Sandbox++ to Advance Bank Liquidity Management with AI",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ant-international-joins-hong-kong-regulators-gena-i-sandbox-to-advance-bank-liquidity-management-with-ai",
+   "source": "Financial Post",
+   "category": "ai",
+   "published": "2026-08-27T10:06:47+00:00",
    "breakthrough": true
   },
   {
-   "title": "Piloting the world's first double-blind AI evaluations",
-   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-   "source": "Google DeepMind",
+   "title": "vllm-sbw added to PyPI",
+   "url": "https://pypi.org/project/vllm-sbw/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-08-27T12:59:16+00:00"
+   "published": "2026-08-27T10:06:25+00:00"
   },
   {
-   "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-   "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-   "source": "OpenAI",
+   "title": "reme-auto-fin added to PyPI",
+   "url": "https://pypi.org/project/reme-auto-fin/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-08-27T09:00:00+00:00"
+   "published": "2026-08-27T10:06:09+00:00"
   },
   {
-   "title": "Expanding OpenAI\u2019s presence in Brazil",
-   "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-   "source": "OpenAI",
+   "title": "sbw 1.0.0",
+   "url": "https://pypi.org/project/sbw/1.0.0/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-08-27T03:00:00+00:00"
+   "published": "2026-08-27T10:02:52+00:00"
+  },
+  {
+   "title": "sbw added to PyPI",
+   "url": "https://pypi.org/project/sbw/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-27T10:02:47+00:00"
+  },
+  {
+   "title": "SK Telecom Launches AI Data Center Infrastructure Company 'SK Horizon' and Secures Investments from KKR and IMM",
+   "url": "https://www.prnewswire.com/news-releases/sk-telecom-launches-ai-data-center-infrastructure-company-sk-horizon-and-secures-investments-from-kkr-and-imm-302861694.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-08-27T10:01:00+00:00"
+  },
+  {
+   "title": "AIMX Singapore 2026 Accelerates AI Deployment Through Catalysing Industry Innovation",
+   "url": "https://en.antaranews.com/news/428731/aimx-singapore-2026-accelerates-ai-deployment-through-catalysing-industry-innovation",
+   "source": "Antaranews.com",
+   "category": "ai",
+   "published": "2026-08-27T09:41:26+00:00"
+  },
+  {
+   "title": "continuum-agent added to PyPI",
+   "url": "https://pypi.org/project/continuum-agent/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-27T09:10:05+00:00"
+  },
+  {
+   "title": "Huawei plans for more AI pharma tie-ups, says healthcare president",
+   "url": "https://biztoc.com/x/d62368b11256c2e7",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-08-27T08:45:28+00:00"
+  },
+  {
+   "title": "Cari-Anne Quinn: Turning possibility into progress \u2013 health innovation in Wales",
+   "url": "https://www.gov.uk/government/news/cari-anne-quinn-turning-possibility-into-progress-health-innovation-in-wales",
+   "source": "Www.gov.uk",
+   "category": "health",
+   "published": "2026-08-27T08:35:09+00:00"
+  },
+  {
+   "title": "AdvancedMD Uses AI to Cut Physician Pajama Time and Recover Revenue",
+   "url": "https://www.pymnts.com/healthcare/2026/advancedmd-uses-ai-to-cut-physician-pajama-time-and-recover-revenue/",
+   "source": "pymnts.com",
+   "category": "health",
+   "published": "2026-08-27T08:03:28+00:00"
+  },
+  {
+   "title": "The 8 Humanoid Robots of 2026, What the Dogs Knew First And What We Need to Know",
+   "url": "https://thegadgetflow.com/blog/humanoids-in-2026-the-dogs-knew/",
+   "source": "Gadget Flow",
+   "category": "robotics",
+   "published": "2026-08-27T08:00:05+00:00"
+  },
+  {
+   "title": "Motion lands $2M to expand humanoid robot deployments across Europe",
+   "url": "https://biztoc.com/x/a1ce816aba3a9a43",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-27T06:58:17+00:00"
+  },
+  {
+   "title": "MindMaze Therapeutics Reports 2026 Half-Year Results and Corporate Update",
+   "url": "https://www.prnewswire.com/news-releases/mindmaze-therapeutics-reports-2026-half-year-results-and-corporate-update-302861385.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-08-27T05:32:00+00:00"
+  },
+  {
+   "title": "Pudu Robotics Launches PUDU MP2000, an AI-Native Pallet Handling Robot",
+   "url": "https://en.antaranews.com/news/428649/pudu-robotics-launches-pudu-mp2000-an-ai-native-pallet-handling-robot",
+   "source": "Antaranews.com",
+   "category": "robotics",
+   "published": "2026-08-27T04:02:40+00:00"
+  },
+  {
+   "title": "Top 25 Countries Ranked By Advanced Robot Production Capability",
+   "url": "https://biztoc.com/x/4d3f31c0e72d745a",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-27T03:42:03+00:00"
+  },
+  {
+   "title": "A robot sprinter shatters a 100-meter record again as sparks fly at China\u2019s robot competition",
+   "url": "https://abcnews.com/Technology/wireStory/robot-sprinter-shatters-100-meter-record-sparks-fly-135981007",
+   "source": "Abcnews.com",
+   "category": "robotics",
+   "published": "2026-08-27T02:19:26+00:00"
+  },
+  {
+   "title": "\u2018Robot Olympics\u2019 reveal humanoids' rapid progress \u2014 but hurdles remain",
+   "url": "https://www.nature.com/articles/d41586-026-02713-z",
+   "source": "Nature.com",
+   "category": "robotics",
+   "published": "2026-08-27T00:00:00+00:00"
+  },
+  {
+   "title": "Research Insight: US humanoid supply chains pivot away from China as Taiwan moves from parts to actuator modules",
+   "url": "https://www.digitimes.com/news/a20260826PD225/taiwan-robot-supply-chain-manufacturing-capacity.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-08-26T23:59:58+00:00"
+  },
+  {
+   "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+   "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-26T21:05:30+00:00"
+  },
+  {
+   "title": "Ethereum developers propose measures to secure ETH staking against quantum threats",
+   "url": "https://cryptobriefing.com/ethereum-eip-8394-quantum-resistant-staking/",
+   "source": "Crypto Briefing",
+   "category": "quantum",
+   "published": "2026-08-26T15:46:49+00:00"
+  },
+  {
+   "title": "In Hilbert Space, All Things Are Quantumly Possible",
+   "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+   "source": "Quanta Magazine",
+   "category": "quantum",
+   "published": "2026-08-26T14:30:35+00:00"
+  },
+  {
+   "title": "AI helps design new materials that work in the real world",
+   "url": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-08-26T09:00:00+00:00"
+  },
+  {
+   "title": "The full stack behind abundant intelligence",
+   "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+   "source": "OpenAI",
+   "category": "breakthroughs",
+   "published": "2026-08-25T07:05:00+00:00"
   },
   {
    "title": "Delaware Governor Signs First-of-its-Kind Bill to Power Data Centers with Clean Energy",
@@ -57,13 +260,6 @@
    "source": "CleanTechnica",
    "category": "compute",
    "published": "2026-08-26T22:01:11+00:00"
-  },
-  {
-   "title": "Quote of the day by PsiQuantum CEO Jeremy O\u2019Brien: 'If you think the goal is to get to the top of the Empire State Building, you build longer ladders' \u2014 a challenge to incremental hardware progress in quantum computing",
-   "url": "https://www.techradar.com/pro/quote-of-the-day-by-psiquantum-ceo-jeremy-obrien-if-you-think-the-goal-is-to-get-to-the-top-of-the-empire-state-building-you-build-longer-ladders-a-challenge-to-incremental-hardware-progress-in-quantum-computing",
-   "source": "TechRadar",
-   "category": "quantum",
-   "published": "2026-08-26T22:00:00+00:00"
   },
   {
    "title": "Perplexity and Nvidia launch Portable Computer, a local AI agent for Nvidia GPUs",
@@ -199,13 +395,6 @@
    "published": "2026-08-26T18:00:16+00:00"
   },
   {
-   "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-   "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-26T17:01:00+00:00"
-  },
-  {
    "title": "OrisDX Opens Early Access Program for Oro Lesion: The First Non-Invasive Salivary DNA Test for Oral Cancer Detection",
    "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-fe4b0f03aa260a3a4613c92b6243cc1d",
    "source": "Associated Press",
@@ -269,60 +458,11 @@
    "published": "2026-08-26T15:12:54+00:00"
   },
   {
-   "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-   "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-26T10:00:00+00:00"
-  },
-  {
-   "title": "Learning never stops: How AI makes learning continuous",
-   "url": "https://openai.com/index/learning-never-stops",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-26T10:00:00+00:00"
-  },
-  {
-   "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-   "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-25T15:30:48+00:00"
-  },
-  {
    "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
    "url": "https://openai.com/index/jalapeno-first-results",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-08-25T07:00:00+00:00"
-  },
-  {
-   "title": "Generating scenarios for extreme events, without extreme data",
-   "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-08-24T18:00:00+00:00"
-  },
-  {
-   "title": "How XPUs Meet a World-Class AI Factory",
-   "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-24T15:00:54+00:00"
-  },
-  {
-   "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-   "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-24T15:00:41+00:00"
-  },
-  {
-   "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-   "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-24T15:00:19+00:00"
   },
   {
    "title": "Moonshot AI in talks with Microsoft, Amazon, Google over K3 revenue sharing",
@@ -484,13 +624,6 @@
    "source": "Studyarena.com",
    "category": "ai",
    "published": "2026-08-26T03:23:50+00:00"
-  },
-  {
-   "title": "How loveholidays is making everyone a builder with Codex",
-   "url": "https://openai.com/index/loveholidays",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-26T00:00:00+00:00"
   },
   {
    "title": "IBM reveals plans for 'quantum fridges' \u2014 its next-gen cooling hardware, which could be the key to quantum computers finally reaching their potential",
@@ -34868,139 +35001,6 @@
    "source": "Slashdot.org",
    "category": "ai",
    "published": "2026-06-12T23:00:00+00:00"
-  },
-  {
-   "title": "llm-trust-guard 0.10.4",
-   "url": "https://pypi.org/project/llm-trust-guard/0.10.4/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T04:38:01+00:00"
-  },
-  {
-   "title": "laiwenai 0.0.9",
-   "url": "https://pypi.org/project/laiwenai/0.0.9/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T04:33:46+00:00"
-  },
-  {
-   "title": "youtube-factory-pipeline added to PyPI",
-   "url": "https://pypi.org/project/youtube-factory-pipeline/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T04:32:05+00:00"
-  },
-  {
-   "title": "strands-for-cosmos added to PyPI",
-   "url": "https://pypi.org/project/strands-for-cosmos/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T04:22:49+00:00"
-  },
-  {
-   "title": "strands-for-cosmos 0.6.0",
-   "url": "https://pypi.org/project/strands-for-cosmos/0.6.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T04:22:49+00:00"
-  },
-  {
-   "title": "clarity-pi 0.54.13",
-   "url": "https://pypi.org/project/clarity-pi/0.54.13/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T04:21:51+00:00"
-  },
-  {
-   "title": "strands-cosmos 0.6.0",
-   "url": "https://pypi.org/project/strands-cosmos/0.6.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T04:19:15+00:00"
-  },
-  {
-   "title": "There is a New X11 Server, Written in Rust, With the Help of AI",
-   "url": "https://itsfoss.com/news/yserver/",
-   "source": "Itsfoss.com",
-   "category": "compute",
-   "published": "2026-06-13T04:12:02+00:00"
-  },
-  {
-   "title": "eamicointegrations added to PyPI",
-   "url": "https://pypi.org/project/eamicointegrations/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T04:06:34+00:00"
-  },
-  {
-   "title": "llm-empiriolabs 0.1.0",
-   "url": "https://pypi.org/project/llm-empiriolabs/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T04:03:20+00:00"
-  },
-  {
-   "title": "llm-empiriolabs added to PyPI",
-   "url": "https://pypi.org/project/llm-empiriolabs/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T04:03:15+00:00"
-  },
-  {
-   "title": "How to Install AMD ROCm on Ubuntu 26.04 for AI & Deep Learning",
-   "url": "https://www.tecmint.com/install-amd-rocm-ubuntu-26-04/",
-   "source": "Tecmint.com",
-   "category": "compute",
-   "published": "2026-06-13T04:00:40+00:00"
-  },
-  {
-   "title": "nonebot-plugin-astra-bot 0.3.2",
-   "url": "https://pypi.org/project/nonebot-plugin-astra-bot/0.3.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T03:56:29+00:00"
-  },
-  {
-   "title": "llmpu 0.0.3",
-   "url": "https://pypi.org/project/llmpu/0.0.3/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T03:54:13+00:00"
-  },
-  {
-   "title": "How the Open Knowledge Format can improve data sharing | Google Cloud Blog",
-   "url": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing",
-   "source": "Google News",
-   "category": "ai",
-   "published": "2026-06-13T03:49:07+00:00"
-  },
-  {
-   "title": "llmpu 0.0.2",
-   "url": "https://pypi.org/project/llmpu/0.0.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T03:45:42+00:00"
-  },
-  {
-   "title": "dacli added to PyPI",
-   "url": "https://pypi.org/project/dacli/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T03:43:31+00:00"
-  },
-  {
-   "title": "WebMCP Standard Proposal for Agentic Web Actuation Now Available in Chrome (Origin Trials)",
-   "url": "https://www.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome/",
-   "source": "InfoQ.com",
-   "category": "ai",
-   "published": "2026-06-13T03:32:00+00:00"
-  },
-  {
-   "title": "chitta-bridge 0.24.2",
-   "url": "https://pypi.org/project/chitta-bridge/0.24.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-13T03:21:57+00:00"
   }
  ]
 }
