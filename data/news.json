@@ -1,6 +1,91 @@
 {
- "updated": "2026-08-30T04:40:16.454464+00:00",
+ "updated": "2026-08-30T11:36:32.664335+00:00",
  "items": [
+  {
+   "title": "Three South Indian medtech startups win HealthSprint 2026",
+   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/three-south-indian-medtech-startups-win-healthsprint-2026/articleshow/133610275.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-08-29T11:03:59+00:00"
+  },
+  {
+   "title": "Who is Sandhya Devanathan? Former Meta India head joins OpenAI as Asia-Pacific Leader",
+   "url": "https://www.livemint.com/companies/people/who-is-sandhya-devanathan-former-meta-india-head-joins-openai-as-asia-pacific-leader-11787998126249.html",
+   "source": "Livemint",
+   "category": "ai",
+   "published": "2026-08-29T11:01:34+00:00"
+  },
+  {
+   "title": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71404353.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-08-29T11:00:58+00:00"
+  },
+  {
+   "title": "Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models",
+   "url": "https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/",
+   "source": "InfoQ.com",
+   "category": "ai",
+   "published": "2026-08-29T11:00:00+00:00"
+  },
+  {
+   "title": "Startup bags $7M to build drone-interceptor-in-a-backpack systems",
+   "url": "https://biztoc.com/x/df28e8a41c4eae14",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-08-29T10:34:18+00:00"
+  },
+  {
+   "title": "FDA seeks public input on regulating generative AI medical devices as healthcare enters a new era",
+   "url": "https://www.digitaljournal.com/article/fda-seeks-public-input-on-regulating-generative-ai-medical-devices-as-healthcare-enters-a-new-era/",
+   "source": "Digital Journal",
+   "category": "health",
+   "published": "2026-08-29T09:51:57+00:00"
+  },
+  {
+   "title": "A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers",
+   "url": "https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8#article",
+   "source": "Business Insider",
+   "category": "robotics",
+   "published": "2026-08-29T09:01:01+00:00"
+  },
+  {
+   "title": "Show HN: Kith \u2013 AI clinical notes for therapists from ambient session audio",
+   "url": "https://www.kith.space",
+   "source": "Kith.space",
+   "category": "health",
+   "published": "2026-08-29T08:16:03+00:00"
+  },
+  {
+   "title": "Meta Tests Robots to Handle Data Center Work",
+   "url": "https://decrypt.co/376843/meta-tests-robots-data-center",
+   "source": "Decrypt",
+   "category": "robotics",
+   "published": "2026-08-28T20:19:44+00:00"
+  },
+  {
+   "title": "Chinese Companies Are Unleashing AI-Powered Robo-Chefs",
+   "url": "https://futurism.com/robots-and-machines/chinese-companies-ai-robot-cooking-beijing",
+   "source": "Futurism",
+   "category": "robotics",
+   "published": "2026-08-28T19:12:17+00:00"
+  },
+  {
+   "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+   "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-27T09:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+   "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-26T21:05:30+00:00",
+   "breakthrough": true
+  },
   {
    "title": "Andreessen Horowitz raises $1.1 billion for AI infrastructure fund",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund/articleshow/133603547.cms",
@@ -23,25 +108,11 @@
    "published": "2026-08-29T03:44:49+00:00"
   },
   {
-   "title": "A 60-Pound Humanoid Robot Removed a Pig's Gallbladder While a Surgeon Worked the Controls",
-   "url": "https://www.medicaldaily.com/humanoid-robot-gallbladder-surgery-pigs-ucsd-477940",
-   "source": "Medical Daily",
-   "category": "robotics",
-   "published": "2026-08-29T03:20:05+00:00"
-  },
-  {
    "title": "IndiGo Ventures backs sovereign AI firm Sarvam in ongoing Series B funding round",
    "url": "https://economictimes.indiatimes.com/tech/funding/indigo-ventures-backs-sovereign-ai-firm-sarvam-in-ongoing-series-b-funding-round/articleshow/133602926.cms",
    "source": "The Times of India",
    "category": "ai",
    "published": "2026-08-29T03:07:14+00:00"
-  },
-  {
-   "title": "7 Things AI Can Now Do for Your One-Person Business it Couldn\u2019t 2 Weeks Ago (No Staff, No Code)",
-   "url": "https://www.entrepreneur.com/business-news/tech/7-things-ai-can-now-do-for-your-one-person-business-it-couldnt-2-weeks-ago-no-staff-no-code",
-   "source": "Entrepreneur",
-   "category": "ai",
-   "published": "2026-08-29T02:00:00+00:00"
   },
   {
    "title": "A quantum-inspired framework for real-time trust estimation in human\u2013AI interaction: a pilot study",
@@ -58,28 +129,6 @@
    "published": "2026-08-28T23:27:39+00:00"
   },
   {
-   "title": "China's dexterous-hand makers take center stage as three technology paths vie for humanoid robotics",
-   "url": "https://www.digitimes.com/news/a20260828PD206/robot-robotics-technology-data-2026.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-08-28T22:40:15+00:00"
-  },
-  {
-   "title": "Research Insight: Humanoid robots near mass production as suppliers face precision, ramp-up test",
-   "url": "https://www.digitimes.com/news/a20260826PD223/production-robot-development-component-manufacturing.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-08-28T22:39:35+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Inside Agility's bet on factory-first humanoids",
-   "url": "https://biztoc.com/x/3e8b4b158bf53f0d",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-08-28T21:10:17+00:00"
-  },
-  {
    "title": "Bots on the ground: China leads humanoid race",
    "url": "https://biztoc.com/x/b0d297ee4f36e7d9",
    "source": "Biztoc.com",
@@ -94,13 +143,6 @@
    "published": "2026-08-28T09:00:00+00:00"
   },
   {
-   "title": "Supporting Thailand\u2019s next generation of AI startups",
-   "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-28T02:00:00+00:00"
-  },
-  {
    "title": "Looking beyond natural sequences",
    "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
    "source": "MIT News AI",
@@ -108,39 +150,11 @@
    "published": "2026-08-27T19:20:00+00:00"
   },
   {
-   "title": "Gemini Omni 1.1 Flash lets you build with more control",
-   "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-27T16:11:32+00:00"
-  },
-  {
    "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
    "source": "NVIDIA",
    "category": "compute",
    "published": "2026-08-27T13:00:33+00:00"
-  },
-  {
-   "title": "Delivering Vera: NVIDIA\u2019s First CPU Built for Agents Is Shipping Now",
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-27T13:00:17+00:00"
-  },
-  {
-   "title": "Piloting the world's first double-blind AI evaluations",
-   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-27T12:59:16+00:00"
-  },
-  {
-   "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-   "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-26T17:01:00+00:00"
   },
   {
    "title": "Neocloud Lambda secures $1B in debt to buy more chips | TechCrunch",
@@ -34987,20 +35001,6 @@
    "source": "GlobeNewswire",
    "category": "compute",
    "published": "2026-06-15T11:00:00+00:00"
-  },
-  {
-   "title": "vv-llm 0.3.102",
-   "url": "https://pypi.org/project/vv-llm/0.3.102/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-15T10:45:10+00:00"
-  },
-  {
-   "title": "Castellum Joint Venture Wins Position on $250 Million U.S. Navy Logistics IT Multiple Award Contract",
-   "url": "https://www.globenewswire.com/news-release/2026/06/15/3311641/0/en/Castellum-Joint-Venture-Wins-Position-on-250-Million-U-S-Navy-Logistics-IT-Multiple-Award-Contract.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-06-15T10:45:00+00:00"
   }
  ]
 }
