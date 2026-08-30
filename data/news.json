@@ -1,6 +1,62 @@
 {
- "updated": "2026-08-30T16:23:31.734650+00:00",
+ "updated": "2026-08-30T20:49:24.372090+00:00",
  "items": [
+  {
+   "title": "Apple Was Always 1 Step Behind in AI. In Chipmaking, It\u2019s Now 1 Step Ahead.",
+   "url": "https://www.barchart.com/story/news/4340050/apple-was-always-1-step-behind-in-ai-in-chipmaking-its-now-1-step-ahead",
+   "source": "Barchart.com",
+   "category": "compute",
+   "published": "2026-08-29T20:30:02+00:00"
+  },
+  {
+   "title": "Show HN: Documentation.ai.md \u2013 a docs standard for AI agents, not humans",
+   "url": "https://github.com/iwasoftcom/ai-docs-standard",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-08-29T20:22:29+00:00"
+  },
+  {
+   "title": "Richardson Electronics Sees Fiscal 2027 Growth as Semiconductor, Energy Demand Rises",
+   "url": "https://biztoc.com/x/369ea381f6941933",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-08-29T20:12:03+00:00"
+  },
+  {
+   "title": "Show HN: Moe-Direct \u2013 MoE Models far larger than your RAM, on a consumer desktop",
+   "url": "https://github.com/tmxkzm1925-max/MoE-Direct",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-08-29T19:06:50+00:00"
+  },
+  {
+   "title": "Doctors Just Used AI to Perform Brain Surgery",
+   "url": "https://futurism.com/health-medicine/doctors-just-used-ai-to-perform-brain-surgery",
+   "source": "Futurism",
+   "category": "health",
+   "published": "2026-08-29T17:02:00+00:00"
+  },
+  {
+   "title": "A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers",
+   "url": "https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8#article",
+   "source": "Business Insider",
+   "category": "robotics",
+   "published": "2026-08-29T09:01:01+00:00"
+  },
+  {
+   "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+   "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-27T09:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+   "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-08-26T21:05:30+00:00"
+  },
   {
    "title": "Anthropic raises Claude weekly limits by 25% starting September 14",
    "url": "https://cryptobriefing.com/anthropic-claude-weekly-limits-increase/",
@@ -44,13 +100,6 @@
    "published": "2026-08-29T15:57:19+00:00"
   },
   {
-   "title": "Genrobotics signs MoU with Territorial Army for defence, disaster-response robotics",
-   "url": "https://www.thehindubusinessline.com/info-tech/genrobotics-signs-mou-with-territorial-army-for-defence-disaster-response-robotics/article71405490.ece",
-   "source": "BusinessLine",
-   "category": "robotics",
-   "published": "2026-08-29T15:41:45+00:00"
-  },
-  {
    "title": "datex-studio-cli 0.5.4",
    "url": "https://pypi.org/project/datex-studio-cli/0.5.4/",
    "source": "Pypi.org",
@@ -87,34 +136,6 @@
    "breakthrough": true
   },
   {
-   "title": "Genrobotics signs MoU with Territorial Army for robotics research, training",
-   "url": "https://www.business-standard.com/external-affairs-defence-security/news/genrobotics-signs-mou-with-territorial-army-for-robotics-research-training-126082900767_1.html",
-   "source": "Business Standard",
-   "category": "robotics",
-   "published": "2026-08-29T14:43:53+00:00"
-  },
-  {
-   "title": "IonQ shifts to vertical integration with SkyWater Technology acquisition",
-   "url": "https://cryptobriefing.com/ionq-skywater-technology-acquisition/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-08-29T14:37:02+00:00"
-  },
-  {
-   "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-   "url": "https://shukla.io/quantum-oracle-engineering/",
-   "source": "Shukla.io",
-   "category": "quantum",
-   "published": "2026-08-29T13:42:22+00:00"
-  },
-  {
-   "title": "Globus Medical Acquires Higgs Boson Health To Add AI-Driven Surgical Intelligence Across Patient Care",
-   "url": "https://pulse2.com/globus-medical-acquires-higgs-boson-health-to-add-ai-driven-surgical-intelligence-across-patient-care/",
-   "source": "Pulse 2.0",
-   "category": "health",
-   "published": "2026-08-29T13:21:10+00:00"
-  },
-  {
    "title": "Largest Autism Protein Interaction Map Reveals Shared Pathways That Could Guide Future Treatments",
    "url": "https://www.ibtimes.com.au/autism-protein-map-future-treatments-1874736",
    "source": "Ibtimes.com.au",
@@ -129,13 +150,6 @@
    "published": "2026-08-29T12:00:00+00:00"
   },
   {
-   "title": "A 60-Pound Humanoid Robot Removed a Pig's Gallbladder While a Surgeon Worked the Controls",
-   "url": "https://www.medicaldaily.com/humanoid-robot-gallbladder-surgery-pigs-ucsd-477940",
-   "source": "Medical Daily",
-   "category": "robotics",
-   "published": "2026-08-29T03:20:05+00:00"
-  },
-  {
    "title": "q-ai-governance added to PyPI",
    "url": "https://pypi.org/project/q-ai-governance/",
    "source": "Pypi.org",
@@ -143,67 +157,11 @@
    "published": "2026-08-29T00:18:19+00:00"
   },
   {
-   "title": "China's dexterous-hand makers take center stage as three technology paths vie for humanoid robotics",
-   "url": "https://www.digitimes.com/news/a20260828PD206/robot-robotics-technology-data-2026.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-08-28T22:40:15+00:00"
-  },
-  {
-   "title": "Research Insight: Humanoid robots near mass production as suppliers face precision, ramp-up test",
-   "url": "https://www.digitimes.com/news/a20260826PD223/production-robot-development-component-manufacturing.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-08-28T22:39:35+00:00"
-  },
-  {
-   "title": "Inside Agility's bet on factory-first humanoids",
-   "url": "https://biztoc.com/x/3e8b4b158bf53f0d",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-08-28T21:10:17+00:00"
-  },
-  {
    "title": "China\u2019s robots race ahead",
    "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
    "source": "The Verge",
    "category": "robotics",
    "published": "2026-08-28T17:20:08+00:00"
-  },
-  {
-   "title": "Supporting Thailand\u2019s next generation of AI startups",
-   "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-28T02:00:00+00:00"
-  },
-  {
-   "title": "Gemini Omni 1.1 Flash lets you build with more control",
-   "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-27T16:11:32+00:00"
-  },
-  {
-   "title": "Delivering Vera: NVIDIA\u2019s First CPU Built for Agents Is Shipping Now",
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-08-27T13:00:17+00:00"
-  },
-  {
-   "title": "Piloting the world's first double-blind AI evaluations",
-   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-08-27T12:59:16+00:00"
-  },
-  {
-   "title": "Expanding OpenAI\u2019s presence in Brazil",
-   "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-27T03:00:00+00:00"
   },
   {
    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
