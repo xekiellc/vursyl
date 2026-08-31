@@ -36,6 +36,7 @@
   --line:#1C2840;--line-hi:#2C4470;
   --text:#F2F6FF;--text-dim:#8FA3C8;--text-faint:#5A6C8F;
   --mint:#64E0B8;--violet:#A78BFA;--sky:#60A5FA;--pink:#F0A4C0;--amber:#F5C078;--leaf:#A3D977;
+  --orange:#F97316;
   --aurora:linear-gradient(110deg,#A78BFA 0%,#60A5FA 35%,#64E0B8 70%,#A3D977 100%);
   --font-d:'Unbounded',sans-serif;--font-b:'Outfit',sans-serif;--font-m:'JetBrains Mono',monospace;
 }
@@ -65,6 +66,7 @@ header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rg
 .nav-links a.rc{color:var(--mint);font-weight:500}
 .nav-links a.arc{color:var(--amber)}
 .nav-links a.vox{color:var(--violet);font-weight:500}
+.nav-links a.oo{color:var(--orange);font-weight:500}
 .kbd-hint{font-family:var(--font-m);font-size:.7rem;color:var(--text-faint);border:1px solid var(--line);border-radius:6px;padding:4px 9px;cursor:pointer;transition:border-color .2s,color .2s}
 .kbd-hint:hover{border-color:var(--line-hi);color:var(--text-dim)}
 .menu-btn{display:none;background:none;border:none;color:var(--text);font-size:1.5rem;cursor:pointer}
@@ -145,6 +147,11 @@ header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rg
 .voices-strip h2{font-family:var(--font-d);font-weight:600;font-size:clamp(1.05rem,2.6vw,1.45rem);margin-top:12px;line-height:1.4}
 .voices-strip p{color:var(--text-dim);margin-top:10px;max-width:560px;line-height:1.65;font-size:.95rem}
 
+.oo-strip{border:1px solid rgba(249,115,22,.3);border-radius:18px;background:linear-gradient(160deg,rgba(249,115,22,.06),var(--bg2));padding:34px;margin:0 0 24px;display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap}
+.oo-strip .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--orange);text-transform:uppercase}
+.oo-strip h2{font-family:var(--font-d);font-weight:600;font-size:clamp(1.05rem,2.6vw,1.45rem);margin-top:12px;line-height:1.4}
+.oo-strip p{color:var(--text-dim);margin-top:10px;max-width:560px;line-height:1.65;font-size:.95rem}
+
 .rc-strip{border:1px solid var(--line);border-radius:18px;background:var(--bg2);padding:34px;margin:0 0 70px;display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap}
 .rc-strip .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--mint);text-transform:uppercase}
 .rc-strip h2{font-family:var(--font-d);font-weight:600;font-size:clamp(1.05rem,2.6vw,1.45rem);margin-top:12px;line-height:1.4}
@@ -156,6 +163,8 @@ header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rg
 .btn-amber:hover{box-shadow:0 14px 36px -12px rgba(245,192,120,.45)}
 .btn-violet{background:linear-gradient(110deg,#A78BFA,#7C6FD4);animation:none;color:#0D0A1F}
 .btn-violet:hover{box-shadow:0 14px 36px -12px rgba(167,139,250,.45)}
+.btn-orange{background:linear-gradient(110deg,#F97316,#EA580C);animation:none;color:#fff}
+.btn-orange:hover{box-shadow:0 14px 36px -12px rgba(249,115,22,.45)}
 
 footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;position:relative;z-index:1}
 .f-in{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;align-items:center}
@@ -183,7 +192,7 @@ footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;pos
   .nav-links.open{display:flex}
   .menu-btn{display:block}
   .kbd-hint{display:none}
-  .rc-strip,.arc-strip,.voices-strip{flex-direction:column;align-items:flex-start}
+  .rc-strip,.arc-strip,.voices-strip,.oo-strip{flex-direction:column;align-items:flex-start}
 }
 </style>
 </head>
@@ -208,6 +217,7 @@ footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;pos
       <a href="#feed" data-cat="compute">Compute &amp; Data</a>
       <a href="#watch">Watch &amp; Listen</a>
       <a href="/voices/" class="vox">Voices</a>
+      <a href="/optimus-optimist.html" class="oo">Optimus Optimist</a>
       <a href="/archive.html" class="arc">Archive</a>
       <a href="/reality-check.html" class="rc">Reality Check</a>
       <span class="kbd-hint" id="kbdHint">⌘K</span>
@@ -263,6 +273,15 @@ footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;pos
       <p>44 researcher, founder, and thinker profiles — from Karpathy and Hassabis to Topol, Doudna, and Musk. Each profile tracks archive mentions, positions, and why they matter.</p>
     </div>
     <a class="btn btn-violet" href="/voices/">Meet the voices →</a>
+  </section>
+
+  <section class="oo-strip">
+    <div>
+      <div class="k">Optimus Optimist</div>
+      <h2>The humanoid revolution is already here.</h2>
+      <p>Every breakthrough in humanoid robotics and physical AI — tracked daily. Optimus, Figure, Atlas, Unitree, Agility and the full field. Not demos. What's actually happening on factory floors right now.</p>
+    </div>
+    <a class="btn btn-orange" href="/optimus-optimist.html">Enter Optimus Optimist →</a>
   </section>
 
   <section class="rc-strip">
@@ -431,8 +450,9 @@ function palFill(q){
   const rc=("reality check".includes(q)||q==="")?`<div class="pal-item" data-go="url:/reality-check.html"><span>Reality Check</span><span class="t">Section</span></div>`:"";
   const arc=("archive".includes(q)||q==="")?`<div class="pal-item" data-go="url:/archive.html"><span>Archive</span><span class="t">Section</span></div>`:"";
   const vox=("voices thought leaders".includes(q)||q==="")?`<div class="pal-item" data-go="url:/voices/"><span>Voices — Thought Leaders</span><span class="t">Section</span></div>`:"";
+  const oo=("optimus optimist robot humanoid".includes(q)||q==="")?`<div class="pal-item" data-go="url:/optimus-optimist.html"><span>Optimus Optimist</span><span class="t">Section</span></div>`:"";
   const wl=("watch listen".includes(q)||q==="")?`<div class="pal-item" data-go="url:#watch"><span>Watch &amp; Listen</span><span class="t">Section</span></div>`:"";
-  palList.innerHTML=cats.join("")+rc+arc+vox+wl+vids.join("")+arts.join("")||`<div class="pal-item">No matches</div>`;
+  palList.innerHTML=cats.join("")+rc+arc+vox+oo+wl+vids.join("")+arts.join("")||`<div class="pal-item">No matches</div>`;
 }
 palIn.addEventListener("input",()=>palFill(palIn.value));
 palList.addEventListener("click",e=>{
