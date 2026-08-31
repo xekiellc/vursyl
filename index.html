@@ -260,7 +260,7 @@ footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;pos
     <div>
       <div class="k">Thought Leaders</div>
       <h2>The voices of the frontier.</h2>
-      <p>40 researcher, founder, and thinker profiles — from Karpathy and Hassabis to Topol, Doudna, and Musk. Each profile tracks archive mentions, positions, and why they matter.</p>
+      <p>44 researcher, founder, and thinker profiles — from Karpathy and Hassabis to Topol, Doudna, and Musk. Each profile tracks archive mentions, positions, and why they matter.</p>
     </div>
     <a class="btn btn-violet" href="/voices/">Meet the voices →</a>
   </section>
@@ -357,7 +357,7 @@ function ago(iso){const m=Math.floor((Date.now()-new Date(iso))/60000);
 
 function render(){
   const items=DATA.items.filter(i=>CATS[i.category]);
-  const pool=items;
+  const pool=items.slice().sort((a,b)=>new Date(b.published)-new Date(a.published));
   const hero=pool.find(i=>i.breakthrough)||pool[0];
   const rest=pool.filter(i=>i!==hero).filter(i=>activeCat==="all"||i.category===activeCat).slice(0,30);
   const botd=document.getElementById("botd");
@@ -378,7 +378,7 @@ function render(){
 
 function renderMedia(){
   const wl=document.getElementById("watch");
-  const items=(MEDIA.items||[]).slice(0,12);
+  const items=(MEDIA.items||[]).slice().sort((a,b)=>new Date(b.published)-new Date(a.published)).slice(0,12);
   if(!items.length){wl.classList.remove("show");return;}
   wl.classList.add("show");
   document.getElementById("wlGrid").innerHTML=items.map(v=>`
@@ -400,7 +400,7 @@ function reveal(){
 }
 
 function ticker(){
-  const items=DATA.items.slice(0,10).map(i=>`<span class="itm">${esc(i.title)}</span><span class="sep">//</span>`).join("");
+  const items=DATA.items.slice().sort((a,b)=>new Date(b.published)-new Date(a.published)).slice(0,10).map(i=>`<span class="itm">${esc(i.title)}</span><span class="sep">//</span>`).join("");
   const half=`<span class="sig">&nbsp;SIGNAL&nbsp;</span><span class="sep">//</span>${items}`;
   document.getElementById("tickerTrack").innerHTML=half+half;
 }
