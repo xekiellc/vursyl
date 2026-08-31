@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Optimus Optimist — VURSYL</title>
+<meta name="description" content="The humanoid robot revolution, tracked daily. Optimus, Figure, Atlas, Unitree and the full field of physical AI — breakthroughs only, zero doom.">
+<link rel="canonical" href="https://vursyl.com/optimus-optimist.html">
+<meta property="og:title" content="Optimus Optimist — VURSYL">
+<meta property="og:description" content="The humanoid robot revolution, tracked daily. Every breakthrough in physical AI and embodied intelligence.">
+<meta property="og:url" content="https://vursyl.com/optimus-optimist.html">
+<meta property="og:image" content="https://vursyl.com/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://vursyl.com/og-image.png">
+<meta name="twitter:title" content="Optimus Optimist — VURSYL">
+<meta name="twitter:description" content="The humanoid robot revolution, tracked daily. Every breakthrough in physical AI and embodied intelligence.">
+<meta name="theme-color" content="#070B14">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WLXN8N61GF"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js',new Date());
+  gtag('config','G-WLXN8N61GF');
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Outfit:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --bg:#070B14;--bg2:#0B1220;--card:#0E1626;--card-hi:#13203A;
+  --line:#1C2840;--line-hi:#2C4470;
+  --text:#F2F6FF;--text-dim:#8FA3C8;--text-faint:#5A6C8F;
+  --mint:#64E0B8;--violet:#A78BFA;--sky:#60A5FA;--pink:#F0A4C0;--amber:#F5C078;--leaf:#A3D977;
+  --orange:#F97316;--orange-dim:rgba(249,115,22,.15);--orange-glow:rgba(249,115,22,.35);
+  --aurora:linear-gradient(110deg,#F97316 0%,#F5C078 35%,#A78BFA 70%,#60A5FA 100%);
+  --font-d:'Unbounded',sans-serif;--font-b:'Outfit',sans-serif;--font-m:'JetBrains Mono',monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:var(--font-b);font-weight:300;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+::selection{background:var(--orange);color:var(--bg)}
+
+#field{position:fixed;inset:0;z-index:0;pointer-events:none}
+.wrap{position:relative;z-index:1;max-width:1200px;margin:0 auto;padding:0 24px}
+
+header{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rgba(7,11,20,.78);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:64px;max-width:1200px;margin:0 auto;padding:0 24px}
+.logo{font-family:var(--font-d);font-weight:800;font-size:1.05rem;letter-spacing:.22em}
+.logo span{background:linear-gradient(110deg,#A78BFA,#60A5FA,#64E0B8,#A3D977);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
+.nav-links{display:flex;gap:20px;align-items:center}
+.nav-links a{font-size:.82rem;font-weight:400;color:var(--text-dim);letter-spacing:.04em;transition:color .2s}
+.nav-links a:hover{color:var(--text)}
+.nav-links a.rc{color:var(--mint);font-weight:500}
+.nav-links a.arc{color:var(--amber)}
+.nav-links a.vox{color:var(--violet);font-weight:500}
+.nav-links a.oo{color:var(--orange);font-weight:500}
+.menu-btn{display:none;background:none;border:none;color:var(--text);font-size:1.5rem;cursor:pointer}
+@keyframes auroraShift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+
+/* HERO */
+.page-hero{padding:72px 0 52px;position:relative}
+.page-hero .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--orange);text-transform:uppercase;margin-bottom:16px}
+.page-hero h1{font-family:var(--font-d);font-weight:800;font-size:clamp(2rem,6vw,3.8rem);letter-spacing:.1em;line-height:1.1;margin-bottom:18px}
+.page-hero h1 em{font-style:normal;background:var(--aurora);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:auroraShift 8s linear infinite}
+.page-hero p{color:var(--text-dim);font-size:1.05rem;line-height:1.7;max-width:640px}
+.page-hero .mandate{margin-top:22px;background:var(--card);border:1px solid var(--line);border-left:3px solid var(--orange);border-radius:0 12px 12px 0;padding:16px 22px;font-family:var(--font-m);font-size:.82rem;color:var(--orange);line-height:1.6;letter-spacing:.02em}
+
+/* LIVE BADGE */
+.live-badge{display:inline-flex;align-items:center;gap:8px;font-family:var(--font-m);font-size:.68rem;letter-spacing:.2em;text-transform:uppercase;color:var(--orange);border:1px solid rgba(249,115,22,.3);border-radius:999px;padding:5px 14px;margin-bottom:28px}
+.live-dot{width:7px;height:7px;border-radius:50%;background:var(--orange);animation:pulse 2s ease infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+
+/* MILESTONE TRACKER */
+.milestone-section{margin:0 0 48px}
+.ms-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;flex-wrap:wrap;gap:12px}
+.ms-head .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--orange);text-transform:uppercase}
+.ms-head h2{font-family:var(--font-d);font-weight:600;font-size:clamp(1.1rem,2.6vw,1.5rem);margin-top:8px}
+.ms-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+.ms-card{border:1px solid var(--line);border-radius:14px;background:var(--card);padding:20px 22px;position:relative;overflow:hidden;transition:border-color .2s,box-shadow .2s}
+.ms-card:hover{border-color:var(--orange);box-shadow:0 12px 36px -16px var(--orange-glow)}
+.ms-card::before{content:"";position:absolute;top:0;left:0;right:0;height:2px;background:var(--orange);opacity:.6}
+.ms-card .icon{font-size:1.6rem;margin-bottom:10px}
+.ms-card .n{font-family:var(--font-d);font-weight:700;font-size:1.6rem;color:var(--orange);line-height:1}
+.ms-card .l{font-size:.8rem;color:var(--text-dim);margin-top:6px;line-height:1.4}
+.ms-card .sub{font-family:var(--font-m);font-size:.65rem;color:var(--text-faint);letter-spacing:.12em;text-transform:uppercase;margin-top:8px}
+
+/* COMPANY GRID */
+.companies-section{margin:0 0 48px}
+.co-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:12px}
+.co-card{border:1px solid var(--line);border-radius:12px;background:var(--card);padding:16px 18px;transition:border-color .2s}
+.co-card:hover{border-color:var(--orange)}
+.co-card .co-name{font-family:var(--font-d);font-weight:600;font-size:.88rem;color:var(--text);margin-bottom:6px}
+.co-card .co-bot{font-size:.8rem;color:var(--orange);margin-bottom:4px}
+.co-card .co-stat{font-size:.76rem;color:var(--text-dim)}
+
+/* FEED */
+.feed-section{padding-bottom:80px}
+.feed-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;flex-wrap:wrap;gap:12px}
+.feed-head .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--orange);text-transform:uppercase}
+.feed-head h2{font-family:var(--font-d);font-weight:600;font-size:clamp(1.1rem,2.6vw,1.5rem);margin-top:8px}
+
+.botd{margin:0 0 20px;border:1px solid rgba(249,115,22,.4);border-radius:18px;background:linear-gradient(160deg,rgba(249,115,22,.08),var(--card));padding:30px 34px;position:relative;overflow:hidden;opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s ease}
+.botd.vis{opacity:1;transform:none}
+.botd::before{content:"";position:absolute;inset:0 0 auto 0;height:3px;background:var(--aurora);background-size:300% 100%;animation:auroraShift 8s linear infinite}
+.botd .k{font-family:var(--font-m);font-size:.72rem;letter-spacing:.3em;color:var(--orange);text-transform:uppercase}
+.botd h2{font-family:var(--font-d);font-weight:600;font-size:clamp(1.15rem,3vw,1.7rem);line-height:1.35;margin:14px 0 12px}
+.botd h2 a:hover{text-decoration:underline;text-decoration-color:var(--orange);text-underline-offset:6px}
+.botd .meta{font-size:.84rem;color:var(--text-dim)}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:16px}
+.card{border:1px solid var(--line);border-radius:14px;background:var(--card);padding:20px 22px;display:flex;flex-direction:column;gap:12px;position:relative;overflow:hidden;opacity:0;transform:translateY(22px);transition:opacity .6s ease,transform .6s ease,border-color .25s,box-shadow .25s}
+.card.vis{opacity:1;transform:none}
+.card::before{content:"";position:absolute;top:0;left:0;right:0;height:2px;background:var(--orange);opacity:0;transition:opacity .25s}
+.card:hover{border-color:rgba(249,115,22,.4);box-shadow:0 14px 40px -18px var(--orange-glow)}
+.card:hover::before{opacity:1}
+.card .src{font-family:var(--font-m);font-size:.66rem;letter-spacing:.22em;text-transform:uppercase;color:var(--orange)}
+.card h3{font-weight:500;font-size:1.02rem;line-height:1.45;flex:1}
+.card h3 a:hover{text-decoration:underline;text-underline-offset:5px}
+.card .meta{font-size:.78rem;color:var(--text-faint);display:flex;justify-content:space-between;gap:10px}
+
+.empty{padding:60px 0;text-align:center;font-family:var(--font-m);font-size:.78rem;color:var(--text-faint);letter-spacing:.15em;text-transform:uppercase}
+
+footer{border-top:1px solid var(--line);background:var(--bg2);padding:44px 0;position:relative;z-index:1}
+.f-in{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;align-items:center}
+.f-in .fl{font-family:var(--font-d);font-weight:800;letter-spacing:.2em;font-size:.95rem}
+.f-in p{color:var(--text-faint);font-size:.82rem;line-height:1.7}
+.f-in a{color:var(--text-dim)}
+.f-in a:hover{color:var(--orange)}
+
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
+  .botd,.card{opacity:1;transform:none}
+}
+@media(max-width:820px){
+  .nav-links{display:none;position:absolute;top:64px;left:0;right:0;background:var(--bg2);border-bottom:1px solid var(--line);flex-direction:column;padding:18px 24px;gap:18px;align-items:flex-start}
+  .nav-links.open{display:flex}
+  .menu-btn{display:block}
+  .ms-grid{grid-template-columns:repeat(2,1fr)}
+  .botd{padding:22px 20px}
+}
+</style>
+</head>
+<body>
+
+<canvas id="field" aria-hidden="true"></canvas>
+
+<header>
+  <nav class="nav">
+    <a class="logo" href="/"><span>VURSYL</span></a>
+    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    <div class="nav-links" id="navLinks">
+      <a href="/#feed">Feed</a>
+      <a href="/archive.html" class="arc">Archive</a>
+      <a href="/voices/" class="vox">Voices</a>
+      <a href="/reality-check.html" class="rc">Reality Check</a>
+      <a href="/optimus-optimist.html" class="oo">Optimus Optimist</a>
+      <a href="/about.html">About</a>
+    </div>
+  </nav>
+</header>
+
+<div class="wrap">
+  <div class="page-hero">
+    <div class="k">Optimus Optimist</div>
+    <h1>The humanoid revolution<br>is <em>already here.</em></h1>
+    <p>Every breakthrough in humanoid robotics and physical AI — tracked daily. Optimus, Figure, Atlas, Unitree, Agility, 1X, Apptronik and the full field. Not demos. Not predictions. What's actually happening on factory floors, warehouses, and labs right now.</p>
+    <div class="mandate">VURSYL EDITORIAL STANDARD — Optimus Optimist covers only positive, documented advances in humanoid and physical AI. No doom. No "robots will take jobs" takes. Only what they're actually building and deploying.</div>
+  </div>
+
+  <div class="live-badge"><span class="live-dot"></span>Updated 4× daily from the Vursyl pipeline</div>
+
+  <!-- MILESTONE TRACKER -->
+  <section class="milestone-section">
+    <div class="ms-head">
+      <div>
+        <div class="k">Milestone tracker</div>
+        <h2>The humanoid progress timeline</h2>
+      </div>
+    </div>
+    <div class="ms-grid">
+      <div class="ms-card">
+        <div class="icon">🏭</div>
+        <div class="n">7+</div>
+        <div class="l">Companies with humanoids in real production environments</div>
+        <div class="sub">As of Aug 2026</div>
+      </div>
+      <div class="ms-card">
+        <div class="icon">🤖</div>
+        <div class="n">100K+</div>
+        <div class="l">Humanoid units projected to ship in 2026</div>
+        <div class="sub">Goldman Sachs estimate</div>
+      </div>
+      <div class="ms-card">
+        <div class="icon">⚡</div>
+        <div class="n">$1.4B</div>
+        <div class="l">Neura Robotics raised — largest humanoid funding round</div>
+        <div class="sub">June 2026</div>
+      </div>
+      <div class="ms-card">
+        <div class="icon">🚀</div>
+        <div class="n">$38B</div>
+        <div class="l">Projected humanoid robot market size by 2035</div>
+        <div class="sub">Goldman Sachs</div>
+      </div>
+      <div class="ms-card">
+        <div class="icon">🧠</div>
+        <div class="n">2024</div>
+        <div class="l">First autonomous humanoid factory shift — Figure at BMW</div>
+        <div class="sub">Milestone achieved</div>
+      </div>
+      <div class="ms-card">
+        <div class="icon">🌍</div>
+        <div class="n">15+</div>
+        <div class="l">Countries with active humanoid robot deployment programs</div>
+        <div class="sub">As of Aug 2026</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- COMPANY TRACKER -->
+  <section class="companies-section">
+    <div class="ms-head">
+      <div>
+        <div class="k">Who's building</div>
+        <h2>The humanoid field</h2>
+      </div>
+    </div>
+    <div class="co-grid">
+      <div class="co-card">
+        <div class="co-name">Tesla Optimus</div>
+        <div class="co-bot">General purpose humanoid</div>
+        <div class="co-stat">In production at Gigafactories</div>
+      </div>
+      <div class="co-card">
+        <div class="co-name">Figure AI</div>
+        <div class="co-bot">Figure 02 humanoid</div>
+        <div class="co-stat">BMW factory deployment</div>
+      </div>
+      <div class="co-card">
+        <div class="co-name">Boston Dynamics</div>
+        <div class="co-bot">Atlas humanoid</div>
+        <div class="co-stat">Commercial programs active</div>
+      </div>
+      <div class="co-card">
+        <div class="co-name">Unitree Robotics</div>
+        <div class="co-bot">G1 & H1 humanoids</div>
+        <div class="co-stat">Mass market, lowest cost</div>
+      </div>
+      <div class="co-card">
+        <div class="co-name">Agility Robotics</div>
+        <div class="co-bot">Digit humanoid</div>
+        <div class="co-stat">Amazon warehouse ops</div>
+      </div>
+      <div class="co-card">
+        <div class="co-name">Neura Robotics</div>
+        <div class="co-bot">4NE-1 humanoid</div>
+        <div class="co-stat">$1.4B raised Jun 2026</div>
+      </div>
+      <div class="co-card">
+        <div class="co-name">1X Technologies</div>
+        <div class="co-bot">NEO humanoid</div>
+        <div class="co-stat">OpenAI-backed</div>
+      </div>
+      <div class="co-card">
+        <div class="co-name">Apptronik</div>
+        <div class="co-bot">Apollo humanoid</div>
+        <div class="co-stat">NASA + GXO partnerships</div>
+      </div>
+      <div class="co-card">
+        <div class="co-name">Fourier Intelligence</div>
+        <div class="co-bot">GR-2 humanoid</div>
+        <div class="co-stat">Healthcare + industrial</div>
+      </div>
+      <div class="co-card">
+        <div class="co-name">UBTECH</div>
+        <div class="co-bot">Walker S humanoid</div>
+        <div class="co-stat">BYD factory deployment</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- LIVE FEED -->
+  <section class="feed-section">
+    <div class="feed-head">
+      <div>
+        <div class="k">Live feed</div>
+        <h2>Latest humanoid &amp; physical AI breakthroughs</h2>
+      </div>
+    </div>
+    <article class="botd" id="botd"></article>
+    <div class="grid" id="grid"></div>
+  </section>
+</div>
+
+<footer>
+  <div class="f-in">
+    <div>
+      <div class="fl">VURSYL</div>
+      <p style="margin-top:8px">The universal hub for positive AI, quantum &amp; emerging technology news.</p>
+    </div>
+    <p>© 2026 Vursyl · <a href="mailto:info@vursyl.com">info@vursyl.com</a> · One feed. Universal knowledge.</p>
+  </div>
+</footer>
+
+<script>
+const ROBOT_KEYWORDS=[
+  "humanoid","optimus","figure ai","figure robot","atlas","boston dynamics",
+  "unitree","agility robotics","digit robot","neura robotics","1x technologies",
+  "apptronik","apollo robot","fourier intelligence","ubtech","walker robot",
+  "physical ai","embodied ai","embodied intelligence","robot worker","robot factory",
+  "robot warehouse","robot arm","robotic","robotics","robot","andromorphic",
+  "bipedal","quadruped","spot robot","manipulation","dexterous","autonomous robot",
+  "robot deployment","robot shift","robot task"
+];
+
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function ago(iso){const m=Math.floor((Date.now()-new Date(iso))/60000);
+  if(m<60)return m+"m ago";if(m<1440)return Math.floor(m/60)+"h ago";return Math.floor(m/1440)+"d ago";}
+
+function isRobot(item){
+  const text=(item.title+" "+(item.category||"")).toLowerCase();
+  return ROBOT_KEYWORDS.some(k=>text.includes(k))||item.category==="robotics";
+}
+
+function render(items){
+  const pool=items.filter(isRobot).slice().sort((a,b)=>new Date(b.published)-new Date(a.published));
+  const hero=pool[0];
+  const rest=pool.slice(1,31);
+  const botd=document.getElementById("botd");
+
+  if(hero){
+    botd.style.display="";
+    botd.innerHTML=`<div class="k">Latest breakthrough</div>
+      <h2><a href="${esc(hero.url)}" target="_blank" rel="noopener">${esc(hero.title)}</a></h2>
+      <div class="meta">${esc(hero.source)} · ${ago(hero.published)}</div>`;
+    setTimeout(()=>botd.classList.add("vis"),50);
+  } else {
+    botd.style.display="none";
+  }
+
+  if(rest.length){
+    document.getElementById("grid").innerHTML=rest.map((i,idx)=>`
+      <article class="card" style="transition-delay:${Math.min(idx*45,360)}ms">
+        <div class="src">${esc(i.source)}</div>
+        <h3><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+        <div class="meta"><span>${esc(i.category||"robotics")}</span><span>${ago(i.published)}</span></div>
+      </article>`).join("");
+  } else {
+    document.getElementById("grid").innerHTML=`<div class="empty">Pipeline updating — check back shortly</div>`;
+  }
+  reveal();
+}
+
+function reveal(){
+  const io=new IntersectionObserver(es=>es.forEach(e=>{
+    if(e.isIntersecting){e.target.classList.add("vis");io.unobserve(e.target);}
+  }),{threshold:.06});
+  document.querySelectorAll(".card:not(.vis)").forEach(el=>io.observe(el));
+}
+
+document.getElementById("menuBtn").addEventListener("click",()=>
+  document.getElementById("navLinks").classList.toggle("open"));
+
+/* CONSTELLATION */
+(function(){
+  const cv=document.getElementById("field"),ctx=cv.getContext("2d");
+  const reduced=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if(reduced)return;
+  let W,H,nodes=[],mx=.5,my=.5;
+  const COLORS=["#F97316","#F5C078","#A78BFA"];
+  function size(){
+    W=cv.width=innerWidth;H=cv.height=innerHeight;
+    const n=Math.min(55,Math.floor(W*H/26000));
+    nodes=Array.from({length:n},()=>({x:Math.random()*W,y:Math.random()*H,
+      vx:(Math.random()-.5)*.18,vy:(Math.random()-.5)*.18,
+      r:Math.random()*1.5+.6,c:COLORS[Math.floor(Math.random()*3)]}));
+  }
+  function draw(){
+    ctx.clearRect(0,0,W,H);
+    const px=(mx-.5)*16,py=(my-.5)*16;
+    for(const n of nodes){n.x+=n.vx;n.y+=n.vy;if(n.x<0||n.x>W)n.vx*=-1;if(n.y<0||n.y>H)n.vy*=-1;}
+    ctx.lineWidth=1;
+    for(let i=0;i<nodes.length;i++)for(let j=i+1;j<nodes.length;j++){
+      const a=nodes[i],b=nodes[j],d=(a.x-b.x)**2+(a.y-b.y)**2;
+      if(d<130*130){ctx.strokeStyle=`rgba(249,115,22,${(1-d/16900)*.18})`;ctx.beginPath();ctx.moveTo(a.x+px,a.y+py);ctx.lineTo(b.x+px,b.y+py);ctx.stroke();}
+    }
+    for(const n of nodes){ctx.fillStyle=n.c;ctx.globalAlpha=.65;ctx.beginPath();ctx.arc(n.x+px,n.y+py,n.r,0,7);ctx.fill();ctx.globalAlpha=1;}
+    requestAnimationFrame(draw);
+  }
+  size();draw();
+  addEventListener("resize",size);
+  addEventListener("mousemove",e=>{mx=e.clientX/W;my=e.clientY/H;});
+})();
+
+fetch("/data/news.json",{cache:"no-store"})
+  .then(r=>r.ok?r.json():null)
+  .then(d=>{if(d?.items?.length)render(d.items);})
+  .catch(()=>{});
+</script>
+</body>
+</html>
