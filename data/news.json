@@ -1,19 +1,237 @@
 {
- "updated": "2026-09-01T04:24:47.394072+00:00",
+ "updated": "2026-09-01T11:24:02.264626+00:00",
  "items": [
   {
-   "title": "Ila Kumar: Innovating with communities",
-   "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
+   "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
+   "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
    "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-09-01T04:00:00+00:00"
+   "category": "quantum",
+   "published": "2026-08-31T19:30:00+00:00"
   },
   {
-   "title": "Polimill builds Japan's next-generation public AI infrastructure",
-   "url": "https://openai.com/index/polimill",
+   "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+   "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+   "source": "Microsoft Research",
+   "category": "health",
+   "published": "2026-08-31T16:00:00+00:00"
+  },
+  {
+   "title": "AI and Employment: So Far, So Good",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
+   "source": "Marginalrevolution.com",
+   "category": "ai",
+   "published": "2026-08-31T11:20:30+00:00"
+  },
+  {
+   "title": "Agent Memory as a File Format",
+   "url": "https://calpaterson.com/memoryfields.html",
+   "source": "Calpaterson.com",
+   "category": "ai",
+   "published": "2026-08-31T11:17:25+00:00"
+  },
+  {
+   "title": "AMD, Cisco and HUMAIN Expand Saudi Arabia\u2019s AI Infrastructure as AMD Instinct Systems Go Live",
+   "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/amd-cisco-and-humain-expand-saudi-arabia-ai-infrastructure.html",
+   "source": "Cisco.com",
+   "category": "compute",
+   "published": "2026-08-31T11:15:00+00:00"
+  },
+  {
+   "title": "SLB to expand data center business with $3.4 billion deal for Kelvion",
+   "url": "https://economictimes.indiatimes.com/tech/technology/slb-to-expand-data-center-business-with-3-4-billion-deal-for-kelvion/articleshow/133651051.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-08-31T11:10:56+00:00"
+  },
+  {
+   "title": "Elon Musk says SpaceX will build its own gas turbine parts to meet surging AI power demand",
+   "url": "https://www.businessinsider.com/elon-musk-spacex-build-gas-turbine-parts-meet-ai-demand-2026-8",
+   "source": "Business Insider",
+   "category": "compute",
+   "published": "2026-08-31T11:10:19+00:00"
+  },
+  {
+   "title": "UX in 2027 may be less about interfaces and more about behavior",
+   "url": "https://uxdesign.cc/ux-in-2027-may-be-less-about-interfaces-and-more-about-behavior-23e55b1daf07",
+   "source": "Uxdesign.cc",
+   "category": "ai",
+   "published": "2026-08-31T11:09:53+00:00"
+  },
+  {
+   "title": "AIG Hospitals to invest Rs 2,000 crore in Visakhapatnam for 1,000-bed campus",
+   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/aig-hospitals-to-invest-rs-2000-crore-in-visakhapatnam-for-1000-bed-campus/articleshow/133650885.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-08-31T11:05:59+00:00"
+  },
+  {
+   "title": "U.S. Air Force Awards Contract to Perceptronics and Pacific Defense for AI/ML-Enabled Airborne RF Situational Awareness",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/u-s-air-force-awards-contract-to-perceptronics-and-pacific-defense-for-ai-ml-enabled-airborne-rf-situational-awareness",
+   "source": "Financial Post",
+   "category": "ai",
+   "published": "2026-08-31T11:05:42+00:00"
+  },
+  {
+   "title": "AIG Hospitals plans to invest \u20b92,000 crore in 1,000-bed Vizag project",
+   "url": "https://www.business-standard.com/companies/news/aig-hospitals-plans-to-invest-2-000-crore-in-1-000-bed-vizag-project-126083100798_1.html",
+   "source": "Business Standard",
+   "category": "health",
+   "published": "2026-08-31T11:04:36+00:00"
+  },
+  {
+   "title": "AIG Hospitals to invest \u20b92,000 cr in greenfield multispeciality hospital in Visakhapatnam",
+   "url": "https://www.thehindubusinessline.com/news/aig-hospitals-to-invest-2000-cr-in-greenfield-multispeciality-hospital-in-visakhapatnam/article71410414.ece",
+   "source": "BusinessLine",
+   "category": "health",
+   "published": "2026-08-31T11:01:55+00:00"
+  },
+  {
+   "title": "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX",
+   "url": "https://www.infoq.com/podcasts/evolving-desktop-agentic-ux/",
+   "source": "InfoQ.com",
+   "category": "ai",
+   "published": "2026-08-31T11:00:00+00:00"
+  },
+  {
+   "title": "Presentation: Running AI at the Edge: Running Real Workloads Directly in the Browser",
+   "url": "https://www.infoq.com/presentations/local-ai-browser-inference-privacy/",
+   "source": "InfoQ.com",
+   "category": "ai",
+   "published": "2026-08-31T11:00:00+00:00"
+  },
+  {
+   "title": "llm-extractinator 0.7.0",
+   "url": "https://pypi.org/project/llm-extractinator/0.7.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-08-31T10:57:07+00:00"
+  },
+  {
+   "title": "Rezolve AI Expands Enterprise Footprint Through Tech Mahindra Alliance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/rezolve-ai-expands-enterprise-footprint-105651603.html",
+   "source": "Yahoo Entertainment",
+   "category": "ai",
+   "published": "2026-08-31T10:56:51+00:00"
+  },
+  {
+   "title": "Robot guide Olly stumbles on some directions, gets others right in first MRT trial",
+   "url": "https://www.channelnewsasia.com/singapore/robot-olly-little-india-mrt-station-6351896",
+   "source": "CNA",
+   "category": "robotics",
+   "published": "2026-08-31T10:56:48+00:00"
+  },
+  {
+   "title": "SLB to Acquire Kelvion, Expanding its Role Across Data Center Infrastructure",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/slb-to-acquire-kelvion-expanding-its-role-across-data-center-infrastructure",
+   "source": "Financial Post",
+   "category": "compute",
+   "published": "2026-08-31T10:55:11+00:00"
+  },
+  {
+   "title": "NVIDIA DLSS 5 Fixes Shadows Kingdom Come: Deliverance 2 Couldn\u2019t Render, as Daniel V\u00e1vra Says Characters Finally Look As Intended",
+   "url": "https://wccftech.com/nvidia-dlss-5-fixes-shadows-kingdom-come-deliverance-2-look-as-intended/",
+   "source": "Wccftech",
+   "category": "ai",
+   "published": "2026-08-31T10:52:13+00:00"
+  },
+  {
+   "title": "How a venomous desert lizard helped Dr John Eng make a discovery that changed the treatment of type 2 diabetes",
+   "url": "https://timesofindia.indiatimes.com/education/news/how-a-venomous-desert-lizard-helped-dr-john-eng-make-a-discovery-that-changed-the-treatment-of-type-2-diabetes/articleshow/133649972.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-08-31T10:33:05+00:00"
+  },
+  {
+   "title": "AIG Hospitals lays foundation for 1,000-bed multi-speciality healthcare campus in Vizag",
+   "url": "https://newsmeter.in/science-health/aig-hospitals-lays-foundation-for-1000-bed-multi-speciality-healthcare-campus-in-vizag-774598",
+   "source": "Newsmeter.in",
+   "category": "health",
+   "published": "2026-08-31T10:06:23+00:00"
+  },
+  {
+   "title": "Mahajan Imaging, Neuberg Diagnostics join hands to scale pathology, genomics in North India",
+   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/mahajan-imaging-and-neuberg-diagnostics-strategic-joint-venture-to-transform-pathology-and-genomics-services-in-north-india/articleshow/133648890.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-08-31T09:53:01+00:00"
+  },
+  {
+   "title": "Anthropic expands into health care to boost investor confidence",
+   "url": "https://cryptobriefing.com/anthropic-healthcare-expansion-investor-confidence/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-08-31T09:37:22+00:00"
+  },
+  {
+   "title": "GXO CEO: Better robot hands, not Olympic-level humanoids, are what businesses really need",
+   "url": "https://fortune.com/2026/08/31/gxo-humanoid-robots-warehouse-logistics-patrick-kelleher/",
+   "source": "Fortune",
+   "category": "robotics",
+   "published": "2026-08-31T09:35:34+00:00"
+  },
+  {
+   "title": "Show HN: Highlander \u2013 realtime MiniMax FastH3 with audio at $0.02 per second",
+   "url": "https://www.highlander.sh/",
+   "source": "Highlander.sh",
+   "category": "ai",
+   "published": "2026-08-31T09:29:02+00:00"
+  },
+  {
+   "title": "XYRA Announces First Patient Dosed in Europe in the Phase 2/3 HARBOR-AF Study of Budiodarone in Paroxysmal and Persistent Atrial Fibrillation",
+   "url": "https://financialpost.com/globe-newswire/xyra-announces-first-patient-dosed-in-europe-in-the-phase-2-3-harbor-af-study-of-budiodarone-in-paroxysmal-and-persistent-atrial-fibrillation",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-08-31T08:03:57+00:00"
+  },
+  {
+   "title": "VTT Info: S-Transistors raises \u20ac2.6 million pre-seed round to introduce a unique superconducting transistor platform for scalable orchestration of quantum computers",
+   "url": "https://www.prnewswire.com/news-releases/vtt-info-s-transistors-raises-2-6-million-pre-seed-round-to-introduce-a-unique-superconducting-transistor-platform-for-scalable-orchestration-of-quantum-computers-302864775.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-08-31T07:43:00+00:00"
+  },
+  {
+   "title": "Personal Health Pathways helps women take earlier preventive health action",
+   "url": "https://www.fanews.co.za/article/healthcare/6/general/1124/personal-health-pathways-helps-women-take-earlier-preventive-health-action/44599",
+   "source": "Fanews.co.za",
+   "category": "health",
+   "published": "2026-08-31T07:23:03+00:00"
+  },
+  {
+   "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
+   "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-08-31T07:00:00+00:00"
+  },
+  {
+   "title": "A milestone in expanding access to AI",
+   "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-08-31T04:00:00+00:00"
+  },
+  {
+   "title": "China\u2019s Robot Olympics Keep Getting Wilder",
+   "url": "https://www.cnet.com/videos/chinas-robot-olympics-keep-getting-wilder-2/",
+   "source": "CNET",
+   "category": "robotics",
+   "published": "2026-08-30T15:10:20+00:00"
+  },
+  {
+   "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+   "source": "Science Daily",
+   "category": "breakthroughs",
+   "published": "2026-08-30T14:08:13+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Low(er)-Cost Humanoid Robot Leverages DIY Actuators",
+   "url": "https://hackaday.com/2026/08/30/lower-cost-humanoid-robot-leverages-diy-actuators/",
+   "source": "Hackaday",
+   "category": "robotics",
+   "published": "2026-08-30T14:00:41+00:00"
   },
   {
    "title": "SIBIONICS Showcases GS3 in Melbourne, Advancing More Efficient, AI-Powered Glucose Monitoring",
@@ -51,13 +269,6 @@
    "published": "2026-08-31T04:06:26+00:00"
   },
   {
-   "title": "How an MIT research project became a global programming language",
-   "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
-   "source": "Mit.edu",
-   "category": "breakthroughs",
-   "published": "2026-08-31T04:00:00+00:00"
-  },
-  {
    "title": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment",
    "url": "https://www.facultyfocus.com/articles/educational-assessment/artificial-intelligence-as-a-pedagogical-tool-in-higher-education-enhancing-reflection-and-formative-assessment/",
    "source": "Facultyfocus.com",
@@ -77,13 +288,6 @@
    "source": "Crypto Briefing",
    "category": "compute",
    "published": "2026-08-31T03:44:18+00:00"
-  },
-  {
-   "title": "Asus launches physical AI business group, shifting from EMS to humanoid robots",
-   "url": "https://www.digitimes.com/news/a20260830PD201/asus-ai-ems-business-electronics-manufacturing.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-08-31T03:30:28+00:00"
   },
   {
    "title": "John Ternus to lead Apple into the age of AI",
@@ -34797,209 +35001,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-06-16T16:17:00+00:00"
-  },
-  {
-   "title": "Alibaba unveils AI models for robots as China\u2019s focus shifts to agents",
-   "url": "https://thenextweb.com/news/alibaba-ai-models-for-robots-as-chinas-focus-shifts-to-agents/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-06-16T07:21:20+00:00"
-  },
-  {
-   "title": "Hewlett Packard Enterprise partners with 8 quantum firms to build hybrid HPC, AI, and quantum platform",
-   "url": "https://cryptobriefing.com/hpe-quantum-scaling-alliance-hybrid-platform/",
-   "source": "Crypto Briefing",
-   "category": "breakthroughs",
-   "published": "2026-06-15T20:40:52+00:00"
-  },
-  {
-   "title": "Show HN: Agent Harness Lab \u2013 compare agent frameworks with swappable tools",
-   "url": "https://github.com/graphlit/agent-harness-lab",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-06-16T15:44:56+00:00"
-  },
-  {
-   "title": "BytePlus Hosts Closed-Door AI Roundtable to Open APOS 2026",
-   "url": "https://variety.com/2026/tv/news/byteplus-ai-roundtable-apos-2026-1236782732/",
-   "source": "Variety",
-   "category": "ai",
-   "published": "2026-06-16T15:44:10+00:00"
-  },
-  {
-   "title": "China\u2019s National Medical Imaging AI Contest Extends Innovation Invitation to ASEAN",
-   "url": "https://financialpost.com/globe-newswire/chinas-national-medical-imaging-ai-contest-extends-innovation-invitation-to-asean",
-   "source": "Financial Post",
-   "category": "ai",
-   "published": "2026-06-16T15:40:34+00:00"
-  },
-  {
-   "title": "SoftBank Offers OpenAI Cybersecurity Tech to Defend Japan\u2019s Critical Infrastructure",
-   "url": "https://www.pymnts.com/cybersecurity/2026/softbank-offers-openai-cybersecurity-tech-to-defend-japans-critical-infrastructure/",
-   "source": "pymnts.com",
-   "category": "ai",
-   "published": "2026-06-16T15:40:08+00:00"
-  },
-  {
-   "title": "China's National Medical Imaging AI Contest Extends Innovation Invitation to ASEAN",
-   "url": "https://www.globenewswire.com/news-release/2026/06/16/3312842/0/en/China-s-National-Medical-Imaging-AI-Contest-Extends-Innovation-Invitation-to-ASEAN.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-06-16T15:40:00+00:00"
-  },
-  {
-   "title": "UMD to Launch 2 Bachelor's Degrees Exploring Technical, Human Dimensions of AI",
-   "url": "https://www.prnewswire.com/news-releases/umd-to-launch-2-bachelors-degrees-exploring-technical-human-dimensions-of-ai-302801977.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-06-16T15:39:00+00:00"
-  },
-  {
-   "title": "CyCognito pushes AI pentesting beyond vulnerability scans as enterprise attack surfaces evolve",
-   "url": "https://thenextweb.com/news/cycognito-ai-pentesting-enterprise-attack-surfaces/",
-   "source": "The Next Web",
-   "category": "ai",
-   "published": "2026-06-16T15:36:59+00:00"
-  },
-  {
-   "title": "Japan wants to send 30,000 young scientists abroad for AI, quantum research",
-   "url": "https://asia.nikkei.com/business/education/japan-wants-to-send-30-000-young-scientists-abroad-for-ai-quantum-research",
-   "source": "Nikkei.com",
-   "category": "breakthroughs",
-   "published": "2026-06-16T15:29:59+00:00"
-  },
-  {
-   "title": "UBC MOSAIC and LifeLabs Unlock New Ways to Manage and Predict Heart Health",
-   "url": "https://financialpost.com/globe-newswire/ubc-mosaic-and-lifelabs-unlock-new-ways-to-manage-and-predict-heart-health",
-   "source": "Financial Post",
-   "category": "health",
-   "published": "2026-06-16T15:25:19+00:00"
-  },
-  {
-   "title": "How to optimize for the agentic web: a guide for marketers",
-   "url": "https://www.semrush.com/blog/how-to-optimize-for-the-agentic-web/",
-   "source": "Semrush.com",
-   "category": "ai",
-   "published": "2026-06-16T15:04:00+00:00"
-  },
-  {
-   "title": "Sciene AI Companion: building an autonomous Customer Success platform on Databricks",
-   "url": "https://www.databricks.com/blog/sciene-ai-companion-building-autonomous-customer-success-platform-databricks",
-   "source": "Databricks.com",
-   "category": "ai",
-   "published": "2026-06-16T14:29:06+00:00"
-  },
-  {
-   "title": "IDBS and Alchemi partner to accelerate biopharma regulatory filings with compliant AI agents",
-   "url": "https://www.prnewswire.com/news-releases/idbs-and-alchemi-partner-to-accelerate-biopharma-regulatory-filings-with-compliant-ai-agents-302801591.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-16T14:13:00+00:00"
-  },
-  {
-   "title": "QC Healthcare Launches as a Healthcare Innovation Holding Company Focused on Telehealth, Clinical Research, Pharmacy Services, Artificial Intelligence, Healthcare Analytics, and Population Health",
-   "url": "https://www.prnewswire.com/news-releases/qc-healthcare-launches-as-a-healthcare-innovation-holding-company-focused-on-telehealth-clinical-research-pharmacy-services-artificial-intelligence-healthcare-analytics-and-population-health-302800863.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-16T14:12:00+00:00"
-  },
-  {
-   "title": "Humanoid robot becomes the first of its kind to climb 20,000 feet up a volcano",
-   "url": "https://www.tweaktown.com/news/112201/humanoid-robot-becomes-the-first-of-its-kind-to-climb-20000-feet-up-a-volcano/index.html",
-   "source": "TweakTown",
-   "category": "robotics",
-   "published": "2026-06-15T16:29:06+00:00"
-  },
-  {
-   "title": "LTX Launches Agentic AI in BondGPT, Turning AI Insights into Trading Action",
-   "url": "https://www.prnewswire.com/news-releases/ltx-launches-agentic-ai-in-bondgpt-turning-ai-insights-into-trading-action-302801555.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-06-16T11:05:00+00:00"
-  },
-  {
-   "title": "'Google will pay for 100% of the power it uses': Google pledges $1.5 billion to expanding Alabama data center and paying for its energy cost",
-   "url": "https://www.techradar.com/pro/google-will-pay-for-100-percent-of-the-power-it-uses-google-pledges-usd1-5-billion-to-expanding-alabama-data-center-and-paying-for-its-energy-cost",
-   "source": "TechRadar",
-   "category": "compute",
-   "published": "2026-06-16T11:05:00+00:00"
-  },
-  {
-   "title": "$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor",
-   "url": "https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/",
-   "source": "CNX Software",
-   "category": "compute",
-   "published": "2026-06-16T11:04:56+00:00"
-  },
-  {
-   "title": "D-Wave Quantum (QBTS) Inspires Confidence With Latest Gate-Model Roadmap",
-   "url": "https://finance.yahoo.com/technology/articles/d-wave-quantum-qbts-inspires-110247130.html",
-   "source": "Yahoo Entertainment",
-   "category": "quantum",
-   "published": "2026-06-16T11:02:47+00:00"
-  },
-  {
-   "title": "SoftBank launches cybersecurity product based on OpenAI models",
-   "url": "https://www.thehindubusinessline.com/info-tech/softbank-launches-cybersecurity-product-based-on-openai-models/article71108600.ece",
-   "source": "BusinessLine",
-   "category": "ai",
-   "published": "2026-06-16T11:01:33+00:00"
-  },
-  {
-   "title": "[CFP] Third KG-NeSy Workshop on Knowledge Graphs and Neurosymbolic AI (ISWC 2026)",
-   "url": "https://lists.w3.org/Archives/Public/semantic-web/2026Jun/0018.html",
-   "source": "W3.org",
-   "category": "ai",
-   "published": "2026-06-16T11:01:11+00:00"
-  },
-  {
-   "title": "SD Government announces Federal Aviation Administration STC approval for Gogo Galileo HDX installation on the Pilatus PC-12",
-   "url": "https://www.globenewswire.com/news-release/2026/06/16/3312398/0/en/SD-Government-announces-Federal-Aviation-Administration-STC-approval-for-Gogo-Galileo-HDX-installation-on-the-Pilatus-PC-12.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-06-16T11:00:00+00:00"
-  },
-  {
-   "title": "AMD and Rackspace Technology Sign Definitive Agreement for Phased Deployment of 30 MW of AMD AI Compute",
-   "url": "https://www.globenewswire.com/news-release/2026/06/16/3312408/0/en/AMD-and-Rackspace-Technology-Sign-Definitive-Agreement-for-Phased-Deployment-of-30-MW-of-AMD-AI-Compute.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-06-16T11:00:00+00:00"
-  },
-  {
-   "title": "Tom\u2122 Symptom-Checking Capability Launched by Lumeris to Support High-Risk Patients Between Primary Care Visits",
-   "url": "https://www.prnewswire.com/news-releases/tom-symptom-checking-capability-launched-by-lumeris-to-support-high-risk-patients-between-primary-care-visits-302800972.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-16T11:00:00+00:00"
-  },
-  {
-   "title": "BOARDWALKTECH ANNOUNCES EXPANDED ADOPTION OF AI-ENHANCED VELOCITY PLATFORM BY EXISTING CUSTOMERS",
-   "url": "https://www.prnewswire.com/news-releases/boardwalktech-announces-expanded-adoption-of-ai-enhanced-velocity-platform-by-existing-customers-302801324.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-06-16T11:00:00+00:00"
-  },
-  {
-   "title": "TSMC says panel packaging won't replace CoWoS anytime soon for the largest future AI processors \u2014 wafer-level tech can scale to 58 massive dies in one package",
-   "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package",
-   "source": "Tom's Hardware UK",
-   "category": "compute",
-   "published": "2026-06-16T11:00:00+00:00"
-  },
-  {
-   "title": "matrixai-core added to PyPI",
-   "url": "https://pypi.org/project/matrixai-core/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-16T10:58:34+00:00"
-  },
-  {
-   "title": "llmcalibre added to PyPI",
-   "url": "https://pypi.org/project/llmcalibre/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-16T10:54:47+00:00"
   }
  ]
 }
