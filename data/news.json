@@ -1,26 +1,188 @@
 {
- "updated": "2026-09-03T20:46:33.903002+00:00",
+ "updated": "2026-09-04T03:48:28.809468+00:00",
  "items": [
   {
-   "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-   "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-09-03T15:02:08+00:00"
+  },
+  {
+   "title": "\u2018NBA 2K27\u2019 With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-09-03T16:00:59+00:00"
+   "published": "2026-09-03T13:00:35+00:00"
   },
   {
-   "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-   "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-03T13:15:00+00:00"
-  },
-  {
-   "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-   "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+   "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+   "url": "https://openai.com/index/playco-game-prototyping-with-astra",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-09-03T12:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA to Acquire Hugging Face",
+   "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+   "source": "NVIDIA",
+   "category": "breakthroughs",
+   "published": "2026-09-03T11:56:49+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Show HN: Indicate: Transliterate Indic Languages with PyTorch and LLMs",
+   "url": "https://github.com/in-rolls/indicate",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-09-03T03:22:09+00:00"
+  },
+  {
+   "title": "US government backs OpenAI in New York Times copyright case",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-government-backs-openai-in-new-york-times-copyright-case/articleshow/133724096.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-09-03T03:13:00+00:00"
+  },
+  {
+   "title": "Solomon leverages AI vision and optical tech to tap semiconductor inspection market",
+   "url": "https://www.digitimes.com/news/a20260902PD246/solomon-3d-vision-wafer-inspection-semicon-taiwan.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-09-03T02:57:13+00:00"
+  },
+  {
+   "title": "Tesla Robotaxi Fleet Hits 420 Texas Registered Vehicles",
+   "url": "https://www.nextbigfuture.com/2026/09/tesla-robotaxi-fleet-hits-420-texas-registered-vehicles.html",
+   "source": "Next Big Future",
+   "category": "robotics",
+   "published": "2026-09-03T02:57:10+00:00"
+  },
+  {
+   "title": "Meta Muse is a Competitive AI Model",
+   "url": "https://www.nextbigfuture.com/2026/09/meta-muse-is-a-competitive-ai-model.html",
+   "source": "Next Big Future",
+   "category": "ai",
+   "published": "2026-09-03T02:54:34+00:00"
+  },
+  {
+   "title": "TSMC doubles down on equipment purchase as AI demand is outpacing semiconductor supply chain planning",
+   "url": "https://www.digitimes.com/news/a20260903PD217/tsmc-equipment-demand-supply-chain-taiwan.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-09-03T02:50:15+00:00"
+  },
+  {
+   "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-raises-ai-chip-forecast-as-big-tech-keeps-writing-bigger-checks/articleshow/133723691.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-09-03T02:49:46+00:00"
+  },
+  {
+   "title": "Apple, Xiaomi and Nvidia chase terabyte-class bandwidth for AI chips",
+   "url": "https://www.digitimes.com/news/a20260903PD223/memory-chips-bandwidth-xiaomi-apple-nvidia.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-09-03T02:11:38+00:00"
+  },
+  {
+   "title": "\u30b1\u30a4\u30c7\u30f3\u30b9\u306ePCIe 6.0\u30a2\u30fc\u30ad\u30c6\u30af\u30c1\u30e3\u5411\u3051\u30b5\u30d6\u30b7\u30b9\u30c6\u30e0 PCI Express\u30b3\u30f3\u30d7\u30e9\u30a4\u30a2\u30f3\u30b9\u8a66\u9a13\u3092\u521d\u56de\u8a55\u4fa1\u3067\u30af\u30ea\u30a2",
+   "url": "https://prtimes.jp/main/html/rd/p/000000032.000157775.html",
+   "source": "Prtimes.jp",
+   "category": "compute",
+   "published": "2026-09-03T02:00:00+00:00"
+  },
+  {
+   "title": "China packaging specialist SJSemi reaches 3.3-reticle 2.5D scale for AI, HBM integration",
+   "url": "https://www.digitimes.com/news/a20260903PD214/packaging-hbm-chips-silicon-hpc.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-09-03T01:54:34+00:00"
+  },
+  {
+   "title": "Insilico Medicine Included in the HKEX Tech 100 Index, Drawing Attention to Opportunities in AI Value Chain",
+   "url": "https://www.prnewswire.com/news-releases/insilico-medicine-included-in-the-hkex-tech-100-index-drawing-attention-to-opportunities-in-ai-value-chain-302867744.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-09-03T00:30:00+00:00"
+  },
+  {
+   "title": "Scalable, generalizable and uncertainty-aware integration of spatial multiomics across diverse modalities and platforms with SCIGMA",
+   "url": "https://www.nature.com/articles/s41588-026-02706-8",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-09-03T00:00:00+00:00"
+  },
+  {
+   "title": "cudaq-ibm-anton added to PyPI",
+   "url": "https://pypi.org/project/cudaq-ibm-anton/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-09-02T22:27:16+00:00"
+  },
+  {
+   "title": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals\u00a0 | TechCrunch",
+   "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+   "source": "TechCrunch",
+   "category": "ai",
+   "published": "2026-09-02T22:24:09+00:00"
+  },
+  {
+   "title": "Codoxo Named a Winner in 2026 Fierce AI Innovation Awards",
+   "url": "https://www.prnewswire.com/news-releases/codoxo-named-a-winner-in-2026-fierce-ai-innovation-awards-302868120.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-09-02T21:05:00+00:00"
+  },
+  {
+   "title": "Ivonescimab Meets Overall Survival Key Secondary Endpoint in Interim Analysis of Phase III HARMONi-2 Study, Demonstrating Statistically Significant and Clinically Meaningful Benefit Versus Pembrolizumab in First-Line PD-L1-Positive NSCLC",
+   "url": "https://www.prnewswire.com/news-releases/ivonescimab-meets-overall-survival-key-secondary-endpoint-in-interim-analysis-of-phase-iii-harmoni-2-study-demonstrating-statistically-significant-and-clinically-meaningful-benefit-versus-pembrolizumab-in-first-line-pd-l1-positiv-302867930.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-09-02T21:00:00+00:00"
+  },
+  {
+   "title": "NEURA Robotics Physical AI is heading to IFA 2026, and I have one demo request for the 4NE1",
+   "url": "https://thegadgetflow.com/blog/neura-robotics-physical-ai-is-heading-to-ifa-2026-and-i-have-one-demo-request-for-the-4ne1/",
+   "source": "Gadget Flow",
+   "category": "robotics",
+   "published": "2026-09-02T20:54:54+00:00"
+  },
+  {
+   "title": "System helps humans predict when self-driving cars will make mistakes",
+   "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-09-02T15:00:00+00:00"
+  },
+  {
+   "title": "US Calls for Relaxed Approach to AI Regulation at G20 Gathering",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/us-calls-for-relaxed-approach-to-ai-regulation-at-g20-gathering/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-09-02T12:45:20+00:00"
+  },
+  {
+   "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+   "url": "https://openai.com/index/atv-big-air-tour",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-02T12:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+   "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-01T21:19:20+00:00"
+  },
+  {
+   "title": "Path to Astra: critical capabilities and frontier safeguards",
+   "url": "https://openai.com/index/path-to-astra",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-01T13:00:00+00:00"
   },
   {
    "title": "Safety overview: GPT-6 Astra",
@@ -28,13 +190,6 @@
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-09-03T00:00:00+00:00"
-  },
-  {
-   "title": "Insilico Medicine releases frontier AI models for drug discovery",
-   "url": "https://www.news-medical.net/news/20260902/Insilico-Medicine-releases-frontier-AI-models-for-drug-discovery.aspx",
-   "source": "News-Medical.Net",
-   "category": "ai",
-   "published": "2026-09-02T20:42:00+00:00"
   },
   {
    "title": "AI infrastructure investment projected to top $31T by 2050",
@@ -79,13 +234,6 @@
    "published": "2026-09-02T20:25:48+00:00"
   },
   {
-   "title": "From MIT to IBM, expediting AI and quantum deployment",
-   "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
-   "source": "Mit.edu",
-   "category": "breakthroughs",
-   "published": "2026-09-02T20:25:00+00:00"
-  },
-  {
    "title": "NSF launches a new AI research operations center",
    "url": "https://www.nextgov.com/artificial-intelligence/2026/09/nsf-launches-new-ai-research-operations-center/415786/",
    "source": "Nextgov",
@@ -121,27 +269,6 @@
    "published": "2026-09-02T17:12:08+00:00"
   },
   {
-   "title": "TIME AI 100 spotlights China's new AI guard, from Moonshot, Z.ai to AgiBot, Manus",
-   "url": "https://www.digitimes.com/news/a20260902PD212/2026-z.ai-ceo-technology.html",
-   "source": "Digitimes",
-   "category": "ai",
-   "published": "2026-09-02T16:36:00+00:00"
-  },
-  {
-   "title": "Proactive cyber defense for governments and enterprises",
-   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-09-02T16:24:24+00:00"
-  },
-  {
-   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-09-02T16:18:31+00:00"
-  },
-  {
    "title": "Elon Musk Tells G20 Leaders AI Could Add $30 Trillion Yearly To Global Economy, Warns Of Power Crisis",
    "url": "https://www.ibtimes.com.au/elon-musk-ai-30-trillion-economy-power-shortage-1874877",
    "source": "Ibtimes.com.au",
@@ -154,41 +281,6 @@
    "source": "The Times of India",
    "category": "robotics",
    "published": "2026-09-02T12:14:51+00:00"
-  },
-  {
-   "title": "Introducing agentic video understanding with Gemini",
-   "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-09-01T17:08:51+00:00"
-  },
-  {
-   "title": "How AI-native companies turn workflows into operating capability",
-   "url": "https://openai.com/index/ai-native-company-workflows",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-01T17:00:00+00:00"
-  },
-  {
-   "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-   "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-   "source": "OpenAI",
-   "category": "health",
-   "published": "2026-09-01T12:00:00+00:00"
-  },
-  {
-   "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
-   "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
-   "source": "MIT News AI",
-   "category": "quantum",
-   "published": "2026-08-31T19:30:00+00:00"
-  },
-  {
-   "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
-   "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
-   "source": "Microsoft Research",
-   "category": "health",
-   "published": "2026-08-31T16:00:00+00:00"
   },
   {
    "title": "Wonderful more than doubles its valuation to $5B in under 6 months | TechCrunch",
@@ -34909,97 +35001,6 @@
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-06-19T12:47:00+00:00"
-  },
-  {
-   "title": "The Download: AI bottleneck debates, and BCI trials take off",
-   "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-   "source": "MIT Technology Review",
-   "category": "ai",
-   "published": "2026-06-19T12:10:00+00:00"
-  },
-  {
-   "title": "Two AIs just matched or beat doctors on diagnosis. The catch: none of the patients were real.",
-   "url": "https://thenextweb.com/news/ai-mira-amie-matches-beats-doctors-nature-study/",
-   "source": "The Next Web",
-   "category": "health",
-   "published": "2026-06-19T12:02:19+00:00"
-  },
-  {
-   "title": "New University of Phoenix research outlines human-centered AI framework for online student success",
-   "url": "https://www.prnewswire.com/news-releases/new-university-of-phoenix-research-outlines-human-centered-ai-framework-for-online-student-success-302804842.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-06-19T12:00:00+00:00"
-  },
-  {
-   "title": "A Signal of Future Alzheimer's May Be Hidden in Your Eyes",
-   "url": "https://www.sciencealert.com/photos-of-your-retina-can-reveal-alzheimers-risk-years-before-diagnosis",
-   "source": "ScienceAlert",
-   "category": "health",
-   "published": "2026-06-19T11:01:00+00:00"
-  },
-  {
-   "title": "Building a robotics research setup that lives next to my desk",
-   "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-   "source": "Dfdxlabs.com",
-   "category": "robotics",
-   "published": "2026-06-18T14:51:53+00:00"
-  },
-  {
-   "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-   "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-16T16:30:27+00:00"
-  },
-  {
-   "title": "Securing the future of AI agents",
-   "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-06-16T15:46:31+00:00"
-  },
-  {
-   "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
-   "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-16T15:00:36+00:00"
-  },
-  {
-   "title": "JioStar launches GenAI Media Studio to produce AI-driven premium content in India",
-   "url": "https://economictimes.indiatimes.com/industry/media/entertainment/jiostar-launches-jams-genai-media-studio-to-produce-ai-driven-premium-content-in-india/articleshow/131854712.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-06-19T09:24:10+00:00"
-  },
-  {
-   "title": "Higgsfield launches enterprise marketing agents built on NVIDIA, claiming 78 per cent of Fortune 500 as clients",
-   "url": "https://thenextweb.com/news/higgsfield-supercomputer-enterprise-marketing-nvidia/",
-   "source": "The Next Web",
-   "category": "ai",
-   "published": "2026-06-19T09:21:43+00:00"
-  },
-  {
-   "title": "Harvey CEO says the company's AI usage jumped from 1 trillion tokens a month to 12 trillion",
-   "url": "https://www.businessinsider.com/harvey-ceo-ai-token-usage-2026-6#article",
-   "source": "Business Insider",
-   "category": "ai",
-   "published": "2026-06-19T09:15:02+00:00"
-  },
-  {
-   "title": "Reliance seeks to build India's sovereign AI backbone; unveils Jio call agent and AI home platform",
-   "url": "https://economictimes.indiatimes.com/industry/telecom/reliance-to-build-indias-ai-backbone-launch-ai-agent-that-joins-phone-calls/articleshow/131854040.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-06-19T09:11:19+00:00"
-  },
-  {
-   "title": "\u2018Alter-Ego\u2019: An Italian hospital\u2019s little robot carer",
-   "url": "https://www.digitaljournal.com/article/alter-ego-an-italian-hospitals-little-robot-carer/",
-   "source": "Digital Journal",
-   "category": "robotics",
-   "published": "2026-06-19T09:10:11+00:00"
   }
  ]
 }
