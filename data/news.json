@@ -1,12 +1,117 @@
 {
- "updated": "2026-09-05T20:09:04.997900+00:00",
+ "updated": "2026-09-06T03:50:42.322355+00:00",
  "items": [
   {
-   "title": "FDA grants accelerated approval to camizestrant with a CDK4/6 inhibitor for ESR1-Mutated HR-positive, HER2-negative locally advanced or metastatic breast cancer",
-   "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-camizestrant-cdk46-inhibitor-esr1-mutated-hr-positive-her2-negative",
-   "source": "FDA.gov",
+   "title": "AMD Creates a Threadripper Desktop PC for AI Models",
+   "url": "https://me.pcmag.com/en/processors/37969/amd-creates-a-threadripper-desktop-pc-for-ai-models",
+   "source": "PCMag.com",
+   "category": "compute",
+   "published": "2026-09-05T03:49:19+00:00"
+  },
+  {
+   "title": "Nvidia: DLSS 5 Is Coming to RTX 4000 GPUs, Too",
+   "url": "https://me.pcmag.com/en/pc-games/37968/nvidia-dlss-5-is-coming-to-rtx-4000-gpus-too",
+   "source": "PCMag.com",
+   "category": "compute",
+   "published": "2026-09-05T03:48:00+00:00"
+  },
+  {
+   "title": "I Tested Nvidia's DLSS 5 in NBA 2K27. AI Slop It Is Not",
+   "url": "https://me.pcmag.com/en/graphics-cards/37967/i-tested-nvidias-dlss-5-in-nba-2k27-ai-slop-it-is-not",
+   "source": "PCMag.com",
+   "category": "ai",
+   "published": "2026-09-05T03:45:25+00:00"
+  },
+  {
+   "title": "GPT-6 Astra Is Here: What You Need to Know About ChatGPT's New Model",
+   "url": "https://me.pcmag.com/en/ai/37964/gpt-6-astra-is-here-what-you-need-to-know-about-chatgpts-new-model",
+   "source": "PCMag.com",
+   "category": "ai",
+   "published": "2026-09-05T03:39:38+00:00"
+  },
+  {
+   "title": "Meet Claude: ABC\u2019s new regional cadet journalist",
+   "url": "https://independentaustralia.net/business/business-display/meet-claude-abcs-new-regional-cadet-journalist,21521",
+   "source": "Independent Australia",
+   "category": "ai",
+   "published": "2026-09-05T02:07:36+00:00"
+  },
+  {
+   "title": "CrowdStrike Falcon Guardian Makes the Endpoint the Enforcement Layer for AI Agents",
+   "url": "https://forkast.news/crowdstrike-falcon-guardian-makes-the-endpoint-the-enforcement-layer-for-ai-agents/",
+   "source": "Forkast.news",
+   "category": "ai",
+   "published": "2026-09-05T00:32:34+00:00"
+  },
+  {
+   "title": "Interview: Agility Robotics CTO discusses the future of collaborative humanoid robotics",
+   "url": "https://www.digitimes.com/news/a20260831VL209/robotics-robot-commercial.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-09-04T23:55:22+00:00"
+  },
+  {
+   "title": "Withings\u2019 \u2018Thermometer of the Future\u2019 Is Getting an AI Analysis Upgrade",
+   "url": "https://www.cnet.com/health/medical/withings-thermometer-of-the-future-getting-ai-analysis-upgrade/",
+   "source": "CNET",
    "category": "health",
-   "published": "2026-09-04T20:06:21+00:00"
+   "published": "2026-09-04T20:38:40+00:00"
+  },
+  {
+   "title": "AGIBOT A3 Humanoid Robot",
+   "url": "https://thegadgetflow.com/product/agibot-a3-humanoid-robot/",
+   "source": "Gadget Flow",
+   "category": "robotics",
+   "published": "2026-09-04T14:41:02+00:00"
+  },
+  {
+   "title": "AGIBOT X2 Humanoid Robot",
+   "url": "https://thegadgetflow.com/product/agibot-x2-humanoid-robot/",
+   "source": "Gadget Flow",
+   "category": "robotics",
+   "published": "2026-09-04T13:21:18+00:00"
+  },
+  {
+   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-09-03T15:02:08+00:00"
+  },
+  {
+   "title": "\u2018NBA 2K27\u2019 With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-03T13:00:35+00:00"
+  },
+  {
+   "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+   "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-03T12:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA to Acquire Hugging Face",
+   "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+   "source": "NVIDIA",
+   "category": "breakthroughs",
+   "published": "2026-09-03T11:56:49+00:00"
+  },
+  {
+   "title": "GPT-6 Astra: A new generation of intelligence",
+   "url": "https://openai.com/index/gpt-6-astra",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-03T11:00:00+00:00"
+  },
+  {
+   "title": "System helps humans predict when self-driving cars will make mistakes",
+   "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-09-02T15:00:00+00:00"
   },
   {
    "title": "Anthropic\u2019s Claude formalizes Fermat\u2019s Last Theorem in 11 days",
@@ -38,53 +143,11 @@
    "published": "2026-09-04T19:21:20+00:00"
   },
   {
-   "title": "I Watched a Floor Washing Robot Mothership Deploy a Roomba Using a Mechnical Arm",
-   "url": "https://www.cnet.com/home/kitchen-and-household/i-watched-a-floor-washing-robot-mothership-deploy-a-roomba-using-a-mechnical-arm/",
-   "source": "CNET",
-   "category": "robotics",
-   "published": "2026-09-04T17:30:20+00:00"
-  },
-  {
-   "title": "PrimeBOT Q1 Personal Humanoid Robot",
-   "url": "https://thegadgetflow.com/product/primebot-q1-humanoid-robot/",
-   "source": "Gadget Flow",
-   "category": "robotics",
-   "published": "2026-09-04T17:23:03+00:00"
-  },
-  {
    "title": "MMRO Earns URAC Artificial Intelligence in Health Care Accreditation",
    "url": "https://www.prnewswire.com/news-releases/mmro-earns-urac-artificial-intelligence-in-health-care-accreditation-302870285.html",
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-09-04T17:05:00+00:00"
-  },
-  {
-   "title": "Video Friday: Digit Redecorates",
-   "url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
-   "source": "Ieee.org",
-   "category": "robotics",
-   "published": "2026-09-04T16:00:05+00:00"
-  },
-  {
-   "title": "Figure AI launches Index app to source data for humanoid robots",
-   "url": "https://cryptobriefing.com/figure-ai-index-app-humanoid-robots/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-09-04T15:47:39+00:00"
-  },
-  {
-   "title": "Novo Nordisk Foundation to build $62M quantum chip plant in Copenhagen",
-   "url": "https://thenextweb.com/news/quantum-foundry-copenhagen-novo-nordisk-foundation",
-   "source": "The Next Web",
-   "category": "quantum",
-   "published": "2026-09-04T10:01:31+00:00"
-  },
-  {
-   "title": "Axis Robotics Open-Sources One of the Largest Franka Arm Simulation Datasets for Physical AI",
-   "url": "https://zycrypto.com/axis-robotics-open-sources-one-of-the-largest-franka-arm-simulation-datasets-for-physical-ai/",
-   "source": "ZyCrypto",
-   "category": "robotics",
-   "published": "2026-09-04T08:11:47+00:00"
   },
   {
    "title": "OlloBot Debuts OlloNi SS1 at IFA Berlin 2026, Showcasing a New Vision for AI Companionship",
@@ -99,48 +162,6 @@
    "source": "PRNewswire",
    "category": "robotics",
    "published": "2026-09-04T07:00:00+00:00"
-  },
-  {
-   "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-   "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-09-03T16:00:59+00:00"
-  },
-  {
-   "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-   "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-03T13:15:00+00:00"
-  },
-  {
-   "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-   "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-03T12:00:00+00:00"
-  },
-  {
-   "title": "From MIT to IBM, expediting AI and quantum deployment",
-   "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-09-02T20:25:00+00:00"
-  },
-  {
-   "title": "Proactive cyber defense for governments and enterprises",
-   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-09-02T16:24:24+00:00"
-  },
-  {
-   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-09-02T16:18:31+00:00"
   },
   {
    "title": "Experian expands into AI agents with ServiceNow partnership",
@@ -34980,27 +35001,6 @@
    "source": "Biztoc.com",
    "category": "ai",
    "published": "2026-06-22T19:51:13+00:00"
-  },
-  {
-   "title": "MoonPay Acquires AI Accounting Agent Maker Entendre",
-   "url": "https://biztoc.com/x/d8bfca64a8116882",
-   "source": "Biztoc.com",
-   "category": "ai",
-   "published": "2026-06-22T19:51:02+00:00"
-  },
-  {
-   "title": "Show HN: A local rig to test if AI social simulation predicts reality",
-   "url": "https://github.com/zzvimercm-git/mirofish-calibration",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-06-22T19:45:43+00:00"
-  },
-  {
-   "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
-   "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
-   "source": "NVIDIA",
-   "category": "breakthroughs",
-   "published": "2026-06-22T13:00:13+00:00"
   }
  ]
 }
