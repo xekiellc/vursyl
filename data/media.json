@@ -1,6 +1,46 @@
 {
- "updated": "2026-09-07T21:21:28.883990+00:00",
+ "updated": "2026-09-08T03:53:20.672317+00:00",
  "items": [
+  {
+   "title": "Drones Could Give Us Total Weather Control",
+   "url": "https://www.youtube.com/watch?v=pGfZS8KlOhI",
+   "source": "Peter H. Diamandis",
+   "thumbnail": "https://i.ytimg.com/vi/pGfZS8KlOhI/mqdefault.jpg",
+   "category": "robotics",
+   "published": "2026-09-07T21:31:17+00:00"
+  },
+  {
+   "title": "This new way of treating depression starts with rewiring the brain #TEDTalks",
+   "url": "https://www.youtube.com/watch?v=Cfma1_w5U4Q",
+   "source": "TED",
+   "thumbnail": "https://i.ytimg.com/vi/Cfma1_w5U4Q/mqdefault.jpg",
+   "category": "health",
+   "published": "2026-09-06T19:00:11+00:00"
+  },
+  {
+   "title": "Introducing GPT-6 Astra for developers",
+   "url": "https://www.youtube.com/watch?v=bOC3DisEOfg",
+   "source": "OpenAI",
+   "thumbnail": "https://i.ytimg.com/vi/bOC3DisEOfg/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-04T20:22:31+00:00"
+  },
+  {
+   "title": "AI Could Be Far More Cooperative Than Humans Ever Could - Ajeya Cotra",
+   "url": "https://www.youtube.com/watch?v=XWdMujl4QLs",
+   "source": "Dwarkesh Patel",
+   "thumbnail": "https://i.ytimg.com/vi/XWdMujl4QLs/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-03T19:19:12+00:00"
+  },
+  {
+   "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+   "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+   "source": "Two Minute Papers",
+   "thumbnail": "https://i.ytimg.com/vi/B3LXEW4Pc-w/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-03T08:23:37+00:00"
+  },
   {
    "title": "Nobody can hold the number one spot for a full week anymore",
    "url": "https://www.youtube.com/watch?v=zOb32VYvgo4",
@@ -8,14 +48,6 @@
    "thumbnail": "https://i.ytimg.com/vi/zOb32VYvgo4/mqdefault.jpg",
    "category": "breakthroughs",
    "published": "2026-09-07T19:07:03+00:00"
-  },
-  {
-   "title": "China's Solar Boom Just Exploded 800%",
-   "url": "https://www.youtube.com/watch?v=SuIkvU4r6FM",
-   "source": "Peter H. Diamandis",
-   "thumbnail": "https://i.ytimg.com/vi/SuIkvU4r6FM/mqdefault.jpg",
-   "category": "compute",
-   "published": "2026-09-07T18:31:40+00:00"
   },
   {
    "title": "GPT-6 Astra with Tom Krcha",
@@ -26,68 +58,12 @@
    "published": "2026-09-07T17:15:32+00:00"
   },
   {
-   "title": "Why The Harness Matters More Than The Model | YC Paper Club",
-   "url": "https://www.youtube.com/watch?v=n9xKblqyQ28",
-   "source": "Y Combinator",
-   "thumbnail": "https://i.ytimg.com/vi/n9xKblqyQ28/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-09-07T14:00:03+00:00"
-  },
-  {
-   "title": "GPT-6 Astra cracked a DEF CON puzzle",
-   "url": "https://www.youtube.com/watch?v=J2nV3d_A1f0",
-   "source": "OpenAI",
-   "thumbnail": "https://i.ytimg.com/vi/J2nV3d_A1f0/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-09-06T20:44:02+00:00"
-  },
-  {
    "title": "GPT-6 Astra with Ben Davis",
    "url": "https://www.youtube.com/watch?v=B-jjnydci50",
    "source": "OpenAI",
    "thumbnail": "https://i.ytimg.com/vi/B-jjnydci50/mqdefault.jpg",
    "category": "ai",
    "published": "2026-09-05T00:11:56+00:00"
-  },
-  {
-   "title": "Why Fei-Fei Li Is Betting on Spatial Intelligence",
-   "url": "https://www.youtube.com/watch?v=qn1QDDBnTA0",
-   "source": "a16z",
-   "thumbnail": "https://i.ytimg.com/vi/qn1QDDBnTA0/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-09-04T14:30:28+00:00"
-  },
-  {
-   "title": "Open Models Change The Economics of AI",
-   "url": "https://www.youtube.com/watch?v=rY0wnfFHYbs",
-   "source": "Y Combinator",
-   "thumbnail": "https://i.ytimg.com/vi/rY0wnfFHYbs/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-09-04T14:00:10+00:00"
-  },
-  {
-   "title": "How Quantum Computers Actually Work",
-   "url": "https://www.youtube.com/watch?v=jJpEB-6hRZk",
-   "source": "Qiskit",
-   "thumbnail": "https://i.ytimg.com/vi/jJpEB-6hRZk/mqdefault.jpg",
-   "category": "quantum",
-   "published": "2026-09-04T13:30:05+00:00"
-  },
-  {
-   "title": "WeatherNext 3: More accurate, timely, and local weather forecasts",
-   "url": "https://www.youtube.com/watch?v=_6jZlnRsXXQ",
-   "source": "Google DeepMind",
-   "thumbnail": "https://i.ytimg.com/vi/_6jZlnRsXXQ/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-09-03T14:58:32+00:00"
-  },
-  {
-   "title": "Why AI Agents Could Finally Reinvent the Credit Card",
-   "url": "https://www.youtube.com/watch?v=J3pegsM5drk",
-   "source": "a16z",
-   "thumbnail": "https://i.ytimg.com/vi/J3pegsM5drk/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-09-03T14:30:27+00:00"
   },
   {
    "title": "The Industrialization of Intelligence",
