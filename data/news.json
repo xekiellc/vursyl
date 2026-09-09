@@ -1,19 +1,286 @@
 {
- "updated": "2026-09-09T11:01:10.995915+00:00",
+ "updated": "2026-09-09T16:16:51.063144+00:00",
  "items": [
   {
-   "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-   "url": "https://openai.com/index/codex-quantum-computing-experiments",
-   "source": "OpenAI",
-   "category": "breakthroughs",
-   "published": "2026-09-08T17:00:00+00:00"
+   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+   "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-09T16:00:42+00:00"
   },
   {
-   "title": "Introducing ChatGPT Images 2.5",
-   "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+   "title": "How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock",
+   "url": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-09-08T16:15:23+00:00"
+  },
+  {
+   "title": "How DiDi built intelligent contact center QA with Amazon Bedrock",
+   "url": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-09-08T16:11:11+00:00"
+  },
+  {
+   "title": "MAHE joins US-India TRUST Fellowship as Indian host institution",
+   "url": "https://www.thehindubusinessline.com/news/education/mahe-joins-us-india-trust-fellowship-as-indian-host-institution/article71442313.ece",
+   "source": "BusinessLine",
+   "category": "breakthroughs",
+   "published": "2026-09-08T16:10:59+00:00"
+  },
+  {
+   "title": "DaVinci Resolve Gets AI Assistant Integration and Other New Features With Latest 21.1 Update",
+   "url": "https://nofilmschool.com/davinci-resolve-update-21-1",
+   "source": "Nofilmschool.com",
+   "category": "ai",
+   "published": "2026-09-08T16:10:05+00:00"
+  },
+  {
+   "title": "St\u00e4ubli delivers integrated connection solutions that accelerate qualification and improve uptime",
+   "url": "https://www.prnewswire.com/news-releases/staubli-delivers-integrated-connection-solutions-that-accelerate-qualification-and-improve-uptime-302872443.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-09-08T16:10:00+00:00"
+  },
+  {
+   "title": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/qualcomm-strikes-ai-chip-deal-with-amazon-offers-right-to-buy-about-4-billion-in-stock/articleshow/133932526.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-09-08T16:09:37+00:00"
+  },
+  {
+   "title": "Laundry, backflips and panda suits: Humanoid robots take over IFA 2026",
+   "url": "https://biztoc.com/x/be86ef025b8f8908",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-09-08T16:05:14+00:00"
+  },
+  {
+   "title": "(PR) QNAP Unveils TVS-hx77AX Enterprise Hybrid ZFS NAS Series With AMD Ryzen 7000",
+   "url": "https://www.techpowerup.com/352475/qnap-unveils-tvs-hx77ax-enterprise-hybrid-zfs-nas-series-with-amd-ryzen-7000",
+   "source": "Techpowerup.com",
+   "category": "compute",
+   "published": "2026-09-08T16:04:56+00:00"
+  },
+  {
+   "title": "Show HN: Training RL model to race in TrackMania",
+   "url": "https://antonkasyanov.substack.com/p/teaching-an-ai-to-drive-trackmania",
+   "source": "Substack.com",
+   "category": "ai",
+   "published": "2026-09-08T16:04:53+00:00"
+  },
+  {
+   "title": "Show HN: DeepMem\u00b7hybrid-retrieval memory for AI Agents \u2013 Vector+BM25+Time-Decay",
+   "url": "https://github.com/deepmemteam/deepmem",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-09-08T16:04:24+00:00"
+  },
+  {
+   "title": "HCLTech launches \u20b9185 crore advanced semiconductor lab in Bengaluru",
+   "url": "https://www.business-standard.com/companies/news/hcltech-launches-185-crore-advanced-semiconductor-lab-in-bengaluru-126090801582_1.html",
+   "source": "Business Standard",
+   "category": "compute",
+   "published": "2026-09-08T16:04:10+00:00"
+  },
+  {
+   "title": "TikTok expands data center capacity in Finland to support AI growth",
+   "url": "https://cryptobriefing.com/tiktok-finland-data-center-expansion/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-09-08T16:03:06+00:00"
+  },
+  {
+   "title": "FedEx Conference: AI, Data and Network 2.0 Drive Cost Cuts and Supply-Chain Growth",
+   "url": "https://www.marketbeat.com/instant-alerts/event-fedex-conference-ai-data-and-network-20-drive-cost-cuts-and-supply-chain-growth-2026-09-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+   "source": "MarketBeat",
+   "category": "ai",
+   "published": "2026-09-08T16:02:01+00:00"
+  },
+  {
+   "title": "Qualcomm CFO says Amazon deal will boost revenue growth in 2027-28",
+   "url": "https://cryptobriefing.com/qualcomm-amazon-deal-revenue-growth/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-09-08T16:01:50+00:00"
+  },
+  {
+   "title": "From RAG to Agentic AI: Building the Next Generation of Intelligent Enterprise Systems",
+   "url": "https://www.kdnuggets.com/from-rag-to-agentic-ai-building-the-next-generation-of-intelligent-enterprise-systems",
+   "source": "Kdnuggets.com",
+   "category": "ai",
+   "published": "2026-09-08T16:00:12+00:00"
+  },
+  {
+   "title": "Arkestro Named a Sample Vendor in 2026 Gartner\u00ae Hype Cycle\u2122 for Multienterprise Solutions",
+   "url": "https://www.prnewswire.com/news-releases/arkestro-named-a-sample-vendor-in-2026-gartner-hype-cycle-for-multienterprise-solutions-302869713.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-09-08T16:00:00+00:00"
+  },
+  {
+   "title": "What Actually Makes AI Infrastructure Agents More Reliable (It's Not More Agents)",
+   "url": "https://dzone.com/articles/multi-agent-infrastructure-observability",
+   "source": "Dzone.com",
+   "category": "ai",
+   "published": "2026-09-08T16:00:00+00:00"
+  },
+  {
+   "title": "Best tech at IFA 2026, from a smart \u2018skylight\u2019 to the hearing aids that stole the show",
+   "url": "https://nypost.com/2026/09/08/tech/best-of-ifa-2026-gadgets/",
+   "source": "New York Post",
+   "category": "breakthroughs",
+   "published": "2026-09-08T15:48:00+00:00"
+  },
+  {
+   "title": "AI-Designed Drug Might Slow Biological Aging",
+   "url": "https://www.newser.com/story/396040/ai-designed-drug-might-slow-biological-aging.html",
+   "source": "Newser",
+   "category": "health",
+   "published": "2026-09-08T15:01:00+00:00"
+  },
+  {
+   "title": "Trust AI Just Made Your X-Ray Fight the Insurance Company.",
+   "url": "https://www.prnewswire.com/news-releases/trust-ai-just-made-your-x-ray-fight-the-insurance-company-302870903.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-09-08T14:55:00+00:00"
+  },
+  {
+   "title": "Show HN: Edge-AI device that analyzes my cannabis grow, nothing leaves the LAN",
+   "url": "https://croplock.com/blog/",
+   "source": "Croplock.com",
+   "category": "ai",
+   "published": "2026-09-08T14:53:13+00:00"
+  },
+  {
+   "title": "Insilico\u2019s Co-CEO Has Big Hopes That Its AI-Discovered Fibrosis Drug Can Reverse Aging Too",
+   "url": "https://freerepublic.com/focus/f-chat/4394691/posts",
+   "source": "Freerepublic.com",
+   "category": "health",
+   "published": "2026-09-08T14:47:27+00:00"
+  },
+  {
+   "title": "XPeng Beats Tesla With This Humanoid Robot Milestone",
+   "url": "https://biztoc.com/x/c34123ecb299c91b",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-09-08T14:19:19+00:00"
+  },
+  {
+   "title": "ERS 2026: AI lung imaging shows utility in detecting pulmonary fibrosis candidate\u2019s efficacy",
+   "url": "https://biztoc.com/x/70f677308cd929fe",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-09-08T14:07:01+00:00"
+  },
+  {
+   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+   "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+   "source": "Google DeepMind",
+   "category": "breakthroughs",
+   "published": "2026-09-08T14:00:15+00:00"
+  },
+  {
+   "title": "D-Wave, Rigetti, Quantinuum land $100M each in CHIPS Act funding",
+   "url": "https://qz.com/d-wave-rigetti-quantinuum-chips-act-equity-stakes-300-million-090826",
+   "source": "Quartz India",
+   "category": "quantum",
+   "published": "2026-09-08T13:42:55+00:00"
+  },
+  {
+   "title": "XPeng starts IRON humanoid robot production as Tesla Optimus stalls",
+   "url": "https://biztoc.com/x/a23ee7562c14611c",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-09-08T13:34:30+00:00"
+  },
+  {
+   "title": "WiMi Develops Variational Quantum Algorithm-Driven Multi-Dimensional Data Pooling Optimization Technology",
+   "url": "https://www.prnewswire.com/news-releases/wimi-develops-variational-quantum-algorithm-driven-multi-dimensional-data-pooling-optimization-technology-302872310.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-09-08T13:30:00+00:00"
+  },
+  {
+   "title": "The Work Now Within Reach",
+   "url": "https://openai.com/index/the-work-now-within-reach",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-09-08T11:30:00+00:00"
+   "published": "2026-09-08T13:00:00+00:00"
+  },
+  {
+   "title": "AI will help find cure for cancer \u2018within our lifetimes\u2019, says Arm Holdings chief",
+   "url": "https://biztoc.com/x/a5e3a2c22249e53e",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-09-08T12:04:13+00:00"
+  },
+  {
+   "title": "Humanoid robots can sprint and box \u2013 but the real test is doing the laundry",
+   "url": "https://theconversation.com/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry-290684",
+   "source": "The Conversation Africa",
+   "category": "robotics",
+   "published": "2026-09-08T11:59:03+00:00"
+  },
+  {
+   "title": "Quantinuum Finalizes $100 Million CHIPS R&D Award with U.S. Department of Commerce to Advance Trapped-Ion Quantum Computer Manufacturing in the US",
+   "url": "https://www.prnewswire.com/news-releases/quantinuum-finalizes-100-million-chips-rd-award-with-us-department-of-commerce-to-advance-trapped-ion-quantum-computer-manufacturing-in-the-us-302871702.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-09-08T11:30:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "The Boston Dynamics spinout building robots you\u2019ll actually want to hug",
+   "url": "https://fortune.com/2026/09/08/boston-dynamics-spinout-building-robots-youll-actually-want-to-hug/",
+   "source": "Fortune",
+   "category": "robotics",
+   "published": "2026-09-08T11:28:49+00:00"
+  },
+  {
+   "title": "Department of Commerce Announces Finalization of CHIPS R&D Award with D-Wave",
+   "url": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-d-wave",
+   "source": "Nist.gov",
+   "category": "quantum",
+   "published": "2026-09-08T11:25:49+00:00"
+  },
+  {
+   "title": "Funding grants for new research into AI and teen development",
+   "url": "https://openai.com/index/teen-development-research-grants",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-08T09:00:00+00:00"
+  },
+  {
+   "title": "Arm's CEO says AI could cure cancer, but data centers are creating a bottleneck",
+   "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9#article",
+   "source": "Business Insider",
+   "category": "health",
+   "published": "2026-09-08T06:47:18+00:00"
+  },
+  {
+   "title": "Would you let a humanoid robot clean your home for \u20ac26 an hour?",
+   "url": "https://biztoc.com/x/f721f6d25d7bf4eb",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-09-08T03:46:58+00:00"
+  },
+  {
+   "title": "A cascaded random access quantum memory",
+   "url": "https://www.nature.com/articles/s41567-026-03418-w",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-09-08T00:00:00+00:00"
+  },
+  {
+   "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+   "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-08T00:00:00+00:00"
   },
   {
    "title": "Guidance: AI Risk Management Toolkit",
@@ -49,13 +316,6 @@
    "source": "Business Standard",
    "category": "health",
    "published": "2026-09-08T10:44:55+00:00"
-  },
-  {
-   "title": "Former DeepMind researcher Danijar Hafner launches stealth startup building AI agents for real-world adaptability",
-   "url": "https://cryptobriefing.com/danijar-hafner-ai-agents-startup/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-09-08T10:43:11+00:00"
   },
   {
    "title": "Introducing AI-as-a-Service",
@@ -121,13 +381,6 @@
    "published": "2026-09-08T10:00:00+00:00"
   },
   {
-   "title": "China\u2019s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs",
-   "url": "https://technode.com/2026/09/08/chinas-humanoid-robot-boom-part-ii-startups-move-from-robot-shows-to-real-jobs/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-09-08T09:23:27+00:00"
-  },
-  {
    "title": "NIT Rourkela Workshop Explores AI, Robotics for Smarter Healthcare",
    "url": "https://businessnewsthisweek.com/business/nit-rourkela-workshop-explores-ai-robotics-for-smarter-healthcare/",
    "source": "Businessnewsthisweek.com",
@@ -135,25 +388,11 @@
    "published": "2026-09-08T08:38:44+00:00"
   },
   {
-   "title": "LG's robot actuator push turns appliance know-how into a physical AI supply-chain bet",
-   "url": "https://www.digitimes.com/news/a20260907VL219/robot-lg-commercial-cost-robotics.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-09-08T08:30:26+00:00"
-  },
-  {
    "title": "At 10, she lost her grandmother to breast cancer; at 17, Dubai teen Saiyette Aima built an AI platform and took cancer awareness to India",
    "url": "https://timesofindia.indiatimes.com/world/middle-east/at-10-she-lost-her-grandmother-to-cancer-at-17-dubai-teen-saiyette-aima-built-an-ai-platform-and-took-cancer-awareness-to-india/articleshow/133914170.cms",
    "source": "The Times of India",
    "category": "health",
    "published": "2026-09-08T08:13:26+00:00"
-  },
-  {
-   "title": "Fujitsu develops diamond-spin quantum computer prototype",
-   "url": "https://www.prnewswire.co.uk/news-releases/fujitsu-develops-diamond-spin-quantum-computer-prototype-302872003.html",
-   "source": "PR Newswire UK",
-   "category": "quantum",
-   "published": "2026-09-08T07:26:00+00:00"
   },
   {
    "title": "AI in healthcare: Remote monitoring next growth frontier, says report",
@@ -168,34 +407,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-09-08T05:57:00+00:00"
-  },
-  {
-   "title": "Xpeng activates a production line for its humanoid robot",
-   "url": "https://technode.com/2026/09/08/xpeng-humanoid-robot-production-line/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-09-08T05:26:34+00:00"
-  },
-  {
-   "title": "EcoPro targets humanoid robotics market with new battery materials",
-   "url": "https://cryptobriefing.com/ecopro-humanoid-robotics-battery-materials/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-09-08T05:13:37+00:00"
-  },
-  {
-   "title": "XPENG IRON Autonomously Walks Off Production Line",
-   "url": "https://cleantechnica.com/2026/09/08/xpeng-iron-autonomously-walks-off-production-line/",
-   "source": "CleanTechnica",
-   "category": "robotics",
-   "published": "2026-09-08T05:11:57+00:00"
-  },
-  {
-   "title": "1Password increases engineering productivity 21% with Codex",
-   "url": "https://openai.com/index/1password",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-08T00:00:00+00:00"
   },
   {
    "title": "AMD unveils \u2018personal super computer\u2019 for new era of computing",
@@ -420,13 +631,6 @@
    "source": "Crypto Briefing",
    "category": "robotics",
    "published": "2026-09-07T05:45:10+00:00"
-  },
-  {
-   "title": "Supporting independent journalism in Ukraine",
-   "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-07T00:00:00+00:00"
   },
   {
    "title": "Show HN: LLM Council: survival-of-the-fittest multi-modal deliberation",
@@ -34797,209 +35001,6 @@
    "source": "Biztoc.com",
    "category": "compute",
    "published": "2026-06-24T19:33:15+00:00"
-  },
-  {
-   "title": "HM Queen Maxima of the Netherlands Visits SalarySe & HCG to Showcase India's UPI and AI-Led Financial Health Innovation",
-   "url": "https://www.milwaukeesun.com/news/279145346/hm-queen-maxima-of-the-netherlands-visits-salaryse-hcg-to-showcase-india-upi-and-ai-led-financial-health-innovation",
-   "source": "Milwaukeesun.com",
-   "category": "ai",
-   "published": "2026-06-24T19:26:12+00:00"
-  },
-  {
-   "title": "Qualcomm secures Meta as customer for new AI data center processor",
-   "url": "https://cryptobriefing.com/qualcomm-meta-dragonfly-ai-chip/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-06-24T19:23:10+00:00"
-  },
-  {
-   "title": "Digital Health Tools Are Reshaping Healthcare in the United States",
-   "url": "https://nyulangone.org/news/digital-health-tools-are-reshaping-healthcare-united-states",
-   "source": "Nyulangone.org",
-   "category": "health",
-   "published": "2026-06-24T19:16:00+00:00"
-  },
-  {
-   "title": "Canada puts $100M behind national health data network",
-   "url": "https://www.digitaljournal.com/article/canada-puts-100m-behind-national-health-data-network/",
-   "source": "Digital Journal",
-   "category": "health",
-   "published": "2026-06-24T19:11:00+00:00"
-  },
-  {
-   "title": "Build a healthcare appointment agent with Amazon Nova 2 Sonic",
-   "url": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/",
-   "source": "Amazon.com",
-   "category": "health",
-   "published": "2026-06-24T18:20:27+00:00"
-  },
-  {
-   "title": "Tissium raises \u20ac60M to take its sutureless nerve glue to the US",
-   "url": "https://thenextweb.com/news/tissium-60m-sutureless-nerve-repair-fda/",
-   "source": "The Next Web",
-   "category": "health",
-   "published": "2026-06-24T18:12:31+00:00"
-  },
-  {
-   "title": "Meghalaya Bags SKOCH for Breast Cancer Push",
-   "url": "https://southasiaviews.com/featured/meghalaya-bags-skoch-for-breast-cancer-push/",
-   "source": "Southasiaviews.com",
-   "category": "health",
-   "published": "2026-06-24T18:01:50+00:00"
-  },
-  {
-   "title": "AI in Healthcare Market to Reach USD 505.6 Billion by 2033, Driven by Rapid Adoption of AI-Powered Clinical Solutions and Digital Healthcare Transformation",
-   "url": "https://www.prnewswire.com/news-releases/ai-in-healthcare-market-to-reach-usd-505-6-billion-by-2033--driven-by-rapid-adoption-of-ai-powered-clinical-solutions-and-digital-healthcare-transformation-302808110.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-24T17:39:00+00:00"
-  },
-  {
-   "title": "Children's Hospital of Philadelphia Researchers Develop AI-Driven Tool to Aid in Selecting Genetic Tests for Diagnosis of Rare Diseases",
-   "url": "https://www.prnewswire.com/news-releases/childrens-hospital-of-philadelphia-researchers-develop-ai-driven-tool-to-aid-in-selecting-genetic-tests-for-diagnosis-of-rare-diseases-302809640.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-24T17:37:00+00:00"
-  },
-  {
-   "title": "Therap Services Enhances Human Services Documentation with Advanced AI Analysis Tools",
-   "url": "https://www.prnewswire.com/news-releases/therap-services-enhances-human-services-documentation-with-advanced-ai-analysis-tools-302809493.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-24T17:00:00+00:00"
-  },
-  {
-   "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-   "url": "https://biztoc.com/x/59513feb3e2a36fb",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-06-24T16:57:51+00:00"
-  },
-  {
-   "title": "Mistral OCR 4 targets the enterprise back office",
-   "url": "https://thenextweb.com/news/mistral-ocr-4-document-ai-self-hosted/",
-   "source": "The Next Web",
-   "category": "ai",
-   "published": "2026-06-24T16:50:18+00:00"
-  },
-  {
-   "title": "Agility Robotics heads to Wall Street in a $2.5 billion bet on staffing warehouses with humanoids",
-   "url": "https://economictimes.indiatimes.com/tech/technology/agility-robotics-heads-to-wall-street-in-a-2-5-billion-bet-on-staffing-warehouses-with-humanoids/articleshow/131973157.cms",
-   "source": "The Times of India",
-   "category": "robotics",
-   "published": "2026-06-24T16:46:01+00:00"
-  },
-  {
-   "title": "Advantech MIC-735 Brings Functional Safety to Physical AI Systems",
-   "url": "https://www.prnewswire.com/news-releases/advantech-mic-735-brings-functional-safety-to-physical-ai-systems-302808871.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-06-24T14:05:00+00:00"
-  },
-  {
-   "title": "Apple\u2019s suppliers are racing to Hong Kong to fund their robot pivot",
-   "url": "https://thenextweb.com/news/apple-suppliers-luxshare-lingyi-hong-kong-listings/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-06-24T13:57:08+00:00"
-  },
-  {
-   "title": "Apple supplier Lingyi iTech raises $1.06 billion in Hong Kong IPO",
-   "url": "https://macdailynews.com/2026/06/24/apple-supplier-lingyi-itech-raises-1-06-billion-in-hong-kong-ipo/",
-   "source": "Macdailynews.com",
-   "category": "robotics",
-   "published": "2026-06-24T13:16:08+00:00"
-  },
-  {
-   "title": "AI for social media just got a new standard: Here\u2019s what we built",
-   "url": "https://blog.hootsuite.com/ai-for-social-media/",
-   "source": "Hootsuite.com",
-   "category": "ai",
-   "published": "2026-06-24T14:39:00+00:00"
-  },
-  {
-   "title": "IBM handed two major wins within 24 hours",
-   "url": "https://www.thestreet.com/technology/two-separate-wins-landed-on-ibm-within-the-same-24-hours",
-   "source": "TheStreet",
-   "category": "ai",
-   "published": "2026-06-24T14:37:00+00:00"
-  },
-  {
-   "title": "OpenAI reveals its first AI processor: Jalape\u00f1o",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-   "source": "The Verge",
-   "category": "compute",
-   "published": "2026-06-24T14:36:47+00:00"
-  },
-  {
-   "title": "SOFTwarfare Launches on Google Cloud Marketplace, Expands Public Sector Reach With Carahsoft",
-   "url": "https://www.globenewswire.com/news-release/2026/06/24/3317013/0/en/SOFTwarfare-Launches-on-Google-Cloud-Marketplace-Expands-Public-Sector-Reach-With-Carahsoft.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-06-24T14:30:00+00:00"
-  },
-  {
-   "title": "Tech Exactly Expands AI Capabilities with Voice AI Integration Service for Customer-Facing Operations",
-   "url": "https://www.globenewswire.com/news-release/2026/06/24/3317010/0/en/Tech-Exactly-Expands-AI-Capabilities-with-Voice-AI-Integration-Service-for-Customer-Facing-Operations.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-06-24T14:30:00+00:00"
-  },
-  {
-   "title": "Majors Management and ResultStack Launch Strategic Partnership to Bring AI to Convenience Retail and Fuel Distribution",
-   "url": "https://www.prnewswire.com/news-releases/majors-management-and-resultstack-launch-strategic-partnership-to-bring-ai-to-convenience-retail-and-fuel-distribution-302809333.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-06-24T14:30:00+00:00"
-  },
-  {
-   "title": "HPE Discover 2026: Lessons in optimizing AI economics",
-   "url": "https://www.techtarget.com/searchitoperations/opinion/HPE-Discover-2026-Lessons-in-optimizing-AI-economics",
-   "source": "Techtarget.com",
-   "category": "ai",
-   "published": "2026-06-24T14:29:00+00:00"
-  },
-  {
-   "title": "LataMed AI Advances Wellness Market Expansion Strategy Through Strategic Agreement With Focus Fitness",
-   "url": "https://apnews.com/press-release/newmediawire/press-release-3443be36bf93ef8ab7a62c5053831570",
-   "source": "Associated Press",
-   "category": "ai",
-   "published": "2026-06-24T14:26:29+00:00"
-  },
-  {
-   "title": "New Report - Voice AI in Specialty Patient Access: How Specialty Leaders Should Evaluate Solutions, Avoid Pitfalls, and Select the Right Partner",
-   "url": "https://apnews.com/press-release/pr-newswire/press-release-e9bb4cdc23db938ab4c91d6ed964938b",
-   "source": "Associated Press",
-   "category": "health",
-   "published": "2026-06-24T14:25:12+00:00"
-  },
-  {
-   "title": "Cadence captures $100M to expand RPM platform, AI agents",
-   "url": "https://www.techtarget.com/virtualhealthcare/news/366645010/Cadence-captures-100M-to-expand-RPM-platform-AI-agents",
-   "source": "Techtarget.com",
-   "category": "ai",
-   "published": "2026-06-24T14:25:00+00:00"
-  },
-  {
-   "title": "Nevada selects SAS to help reduce SNAP error rates with AI",
-   "url": "https://www.prnewswire.com/news-releases/nevada-selects-sas-to-help-reduce-snap-error-rates-with-ai-302809413.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-06-24T14:23:00+00:00"
-  },
-  {
-   "title": "JustAI Raises $17M Series A To Expand AI Marketing Tools",
-   "url": "https://ascendants.in/funding-feed/justai-raises-17m-series-a/",
-   "source": "Ascendants.in",
-   "category": "ai",
-   "published": "2026-06-24T14:22:59+00:00"
-  },
-  {
-   "title": "Agility Robotics goes public with Churchill Capital SPAC merger",
-   "url": "https://biztoc.com/x/74c4b428db269c36",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-06-24T14:13:15+00:00"
   }
  ]
 }
