@@ -1,40 +1,306 @@
 {
- "updated": "2026-09-10T16:07:44.071884+00:00",
+ "updated": "2026-09-10T20:40:06.726254+00:00",
  "items": [
   {
-   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-   "source": "OpenAI",
-   "category": "health",
-   "published": "2026-09-10T16:00:00+00:00"
-  },
-  {
-   "title": "Now everyone can put data to work",
-   "url": "https://openai.com/index/put-data-to-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-10T15:00:00+00:00"
-  },
-  {
-   "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-   "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
    "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-09-10T13:00:21+00:00"
+   "category": "robotics",
+   "published": "2026-09-10T16:30:35+00:00"
   },
   {
-   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-   "url": "https://openai.com/index/expanding-ai-access-us-government",
+   "title": "Physical AI Takes the Wheel: How the World\u2019s Robotaxi Leaders Are Building With NVIDIA Technologies",
+   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-09-10T16:00:04+00:00"
+  },
+  {
+   "title": "Introducing ChatGPT for Financial Services",
+   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-09-10T07:00:00+00:00"
   },
   {
-   "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
-   "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
-   "source": "MIT News AI",
+   "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-09-09T20:40:00+00:00"
+   "published": "2026-09-10T00:00:00+00:00"
+  },
+  {
+   "title": "Introducing the Agents API",
+   "url": "https://openai.com/index/introducing-the-agents-api",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-10T00:00:00+00:00"
+  },
+  {
+   "title": "Everything Apple just announced at its fall 2026 event: The folding iPhone Duo, iPhone 18, Apple Watch Series 12, and new AirPods",
+   "url": "https://www.popsci.com/gear/apple-event-announcements-fall-2026-iphone-duo-apple-watch-12-iphone-18/",
+   "source": "Popular Science",
+   "category": "ai",
+   "published": "2026-09-09T20:38:25+00:00"
+  },
+  {
+   "title": "Meet the AI Answering Every Batteries Plus Call",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/meet-the-ai-answering-every-batteries-plus-call/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-09-09T20:35:10+00:00"
+  },
+  {
+   "title": "Google Commits \u20ac13B to Finland AI Infrastructure, Securing Its First Non-US Nuclear Deal",
+   "url": "https://forkast.news/google-commits-e13b-to-finland-ai-infrastructure-securing-its-first-non-us-nuclear-deal/",
+   "source": "Forkast.news",
+   "category": "compute",
+   "published": "2026-09-09T20:34:11+00:00"
+  },
+  {
+   "title": "Apple confirms Siri AI launches in English this month, will add five languages in October",
+   "url": "https://9to5mac.com/2026/09/09/apple-confirms-siri-ai-launches-in-english-this-month-will-add-five-languages-in-october/",
+   "source": "9to5Mac",
+   "category": "ai",
+   "published": "2026-09-09T20:33:42+00:00"
+  },
+  {
+   "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
+   "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-09-09T20:31:11+00:00"
+  },
+  {
+   "title": "The US Air Force is pushing AI across its training system and telling leaders to break down resistance",
+   "url": "https://www.businessinsider.com/air-force-is-pushing-ai-into-its-training-pipelines-2026-9#article",
+   "source": "Business Insider",
+   "category": "ai",
+   "published": "2026-09-09T20:25:55+00:00"
+  },
+  {
+   "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
+   "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-09-09T20:24:19+00:00"
+  },
+  {
+   "title": "Three Visions of the Agent Home: Convenience, Control, or Cost?",
+   "url": "https://forkast.news/three-visions-of-the-agent-home-convenience-control-or-cost/",
+   "source": "Forkast.news",
+   "category": "ai",
+   "published": "2026-09-09T20:24:19+00:00"
+  },
+  {
+   "title": "Everything Apple Announced at Its Sept. 9 Event: iPhone 18 Pro, Duo, AirPods, More",
+   "url": "https://uk.pcmag.com/migrated-99802-smartwatches/167157/everything-apple-announced-sept-9-event-iphone-18-pro-duo-airpods-watch",
+   "source": "PCMag.com",
+   "category": "ai",
+   "published": "2026-09-09T20:21:28+00:00"
+  },
+  {
+   "title": "(PR) System76 Introduces Thelio Mira AI Workstation",
+   "url": "https://www.techpowerup.com/352530/system76-introduces-thelio-mira-ai-workstation",
+   "source": "Techpowerup.com",
+   "category": "compute",
+   "published": "2026-09-09T20:20:47+00:00"
+  },
+  {
+   "title": "11 Apple September 2026 event highlights, and the folding iPhone I\u2019ve waited years for",
+   "url": "https://thegadgetflow.com/blog/apple-september-2026-event-highlights/",
+   "source": "Gadget Flow",
+   "category": "ai",
+   "published": "2026-09-09T20:20:08+00:00"
+  },
+  {
+   "title": "Samsung to help fortify OpenAI's semiconductor supply chain",
+   "url": "https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374",
+   "source": "Theregister.com",
+   "category": "compute",
+   "published": "2026-09-09T20:18:35+00:00"
+  },
+  {
+   "title": "Apple's iPhone 18 Pro Boasts Big Camera Upgrade, and Price Increase",
+   "url": "https://uk.pcmag.com/mobile-phones/167192/iphone-18-pro-boasts-big-camera-upgrade-price-increase-apple-event",
+   "source": "PCMag.com",
+   "category": "ai",
+   "published": "2026-09-09T20:16:05+00:00"
+  },
+  {
+   "title": "iPhone 18 Pro and Pro Max put AI, battery, and camera at the center of Apple\u2019s next flagship push",
+   "url": "https://the-gadgeteer.com/2026/09/09/iphone-18-pro-and-pro-max-put-ai-battery-and-camera-at-the-center-of-apples-next-flagship-push/",
+   "source": "The Gadgeteer",
+   "category": "ai",
+   "published": "2026-09-09T20:13:29+00:00"
+  },
+  {
+   "title": "iPhone 18 Pro vs iPhone 17 Pro: 5 key differences between Apple's newest and previous best smartphones",
+   "url": "https://www.techradar.com/phones/iphone/iphone-18-pro-vs-iphone-17-pro-5-key-differences-between-apples-best-smartphones",
+   "source": "TechRadar",
+   "category": "ai",
+   "published": "2026-09-09T20:13:20+00:00"
+  },
+  {
+   "title": "New Apple Watch Series 12 delivers all-new Health Sensing System",
+   "url": "https://macdailynews.com/2026/09/09/new-apple-watch-series-12-delivers-all-new-health-sensing-system/",
+   "source": "Macdailynews.com",
+   "category": "health",
+   "published": "2026-09-09T20:10:45+00:00"
+  },
+  {
+   "title": "Apple announces foldable iPhone alongside the new 18 Pro, Watch and AirPods",
+   "url": "https://siliconangle.com/2026/09/09/apple-announces-foldable-iphone-alongside-the-new-18-pro-watch-and-airpods/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-09-09T20:05:20+00:00"
+  },
+  {
+   "title": "Apple Introduces Its Most Expensive and Innovative iPhone Yet, the $1,999 Foldable iPhone Duo",
+   "url": "https://www.entrepreneur.com/business-news/apple-introduces-the-1999-foldable-iphone-duo-airpods-apple-watch",
+   "source": "Entrepreneur",
+   "category": "ai",
+   "published": "2026-09-09T20:05:19+00:00"
+  },
+  {
+   "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+   "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+   "source": "TechCrunch",
+   "category": "ai",
+   "published": "2026-09-09T20:03:43+00:00"
+  },
+  {
+   "title": "ICYMI: What landed for AI builders in August 2026",
+   "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-09-09T20:01:03+00:00"
+  },
+  {
+   "title": "Apple Watch Series 12 is the upgrade long-term users have been waiting for",
+   "url": "https://www.cultofmac.com/news/apple-watch-series-12-ultra-4-biggest-upgrade-in-years",
+   "source": "Cult of Mac",
+   "category": "health",
+   "published": "2026-09-09T19:52:39+00:00"
+  },
+  {
+   "title": "Apple iPhone 18 Pro & Apple iPhone Duo preorders: everything you need to know, including start times, deals, and pricing",
+   "url": "https://www.techradar.com/phones/iphone/apple-iphone-18-pro-and-apple-iphone-duo-preorders-everything-you-need-to-know-including-start-times-deals-and-pricing",
+   "source": "TechRadar",
+   "category": "ai",
+   "published": "2026-09-09T19:51:27+00:00"
+  },
+  {
+   "title": "Apple Announces iPhone 18 Pro, Pro Max, Apple Watch Series 12 And Ultra 4 Alongside New AirPods 5",
+   "url": "https://www.redmondpie.com/apple-announces-iphone-18-pro-pro-max-apple-watch-series-12-and-ultra-4-alongside-new-airpods-5/",
+   "source": "redmondpie.com",
+   "category": "ai",
+   "published": "2026-09-09T19:47:57+00:00"
+  },
+  {
+   "title": "Apple unveils rugged, powerful Apple Watch Ultra 4",
+   "url": "https://macdailynews.com/2026/09/09/apple-unveils-rugged-powerful-apple-watch-ultra-4/",
+   "source": "Macdailynews.com",
+   "category": "ai",
+   "published": "2026-09-09T19:39:06+00:00"
+  },
+  {
+   "title": "Journal of Spine Surgery Publishes Peer-Reviewed On-Point Surgical Augmented Reality Accuracy Data: Pedicle Screw Placement Error 2-5\u00d7 Smaller Than Reported for Major Navigation and Robotic Systems",
+   "url": "https://www.prnewswire.com/news-releases/journal-of-spine-surgery-publishes-peer-reviewed-on-point-surgical-augmented-reality-accuracy-data-pedicle-screw-placement-error-25O-smaller-than-reported-for-major-navigation-and-robotic-systems-302874223.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-09-09T19:02:00+00:00"
+  },
+  {
+   "title": "Apple Watch Series 12, AirPods 5 Unveiled: AI, Health Tracking And ANC Take Centre Stage",
+   "url": "https://aiunderstanding.org/news/apple-watch-series-12-airpods-5-unveiled-ai-health-tracking-and-anc-take-centre-st",
+   "source": "Aiunderstanding.org",
+   "category": "health",
+   "published": "2026-09-09T18:53:28+00:00"
+  },
+  {
+   "title": "Behold The All-New Apple Watch Series 12 And Apple Watch Ultra 4: A New \u2018Health Age\u2019 Metric, Readiness Scoring, And Tons Of Features At The Same Price",
+   "url": "https://wccftech.com/behold-the-all-new-apple-watch-series-12-and-apple-watch-ultra-4-a-new-health-age-metric-readiness-scoring-and-tons-of-features-at-the-same-price/",
+   "source": "Wccftech",
+   "category": "health",
+   "published": "2026-09-09T18:30:31+00:00"
+  },
+  {
+   "title": "Apple iPhone Duo launch event: the 5 biggest announcements",
+   "url": "https://www.theverge.com/tech/991965/apple-iphone-duo-launch-event-biggest-announcements",
+   "source": "The Verge",
+   "category": "ai",
+   "published": "2026-09-09T18:29:49+00:00"
+  },
+  {
+   "title": "Apple\u2019s new watches listen, summarise and chime while they do it",
+   "url": "https://thenextweb.com/news/apple-watch-series-12-ultra-4-airpods-5-audio-intelligence",
+   "source": "The Next Web",
+   "category": "ai",
+   "published": "2026-09-09T18:18:24+00:00"
+  },
+  {
+   "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
+   "url": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
+   "source": "Decrypt",
+   "category": "quantum",
+   "published": "2026-09-09T16:46:05+00:00"
+  },
+  {
+   "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+   "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+   "source": "Sebastianraschka.com",
+   "category": "ai",
+   "published": "2026-09-09T14:37:47+00:00"
+  },
+  {
+   "title": "This AI Companion Robot Could Be a \u2018Band-Aid\u2019 for the Caregiver Crisis, Experts Say \u2014 But Is It Safe?",
+   "url": "https://www.today.com/health/aging/ai-robot-elliq-replace-human-caregivers-rcna596780",
+   "source": "TODAY",
+   "category": "robotics",
+   "published": "2026-09-09T14:36:56+00:00"
+  },
+  {
+   "title": "Dozens of Humanoid Robots Gather for a Protest, Marching and Waving Signs",
+   "url": "https://futurism.com/robots-and-machines/humanoid-robots-protest-poland-ai-regulation",
+   "source": "Futurism",
+   "category": "robotics",
+   "published": "2026-09-09T13:03:15+00:00"
+  },
+  {
+   "title": "Panasonic Energy develops solid-state battery that can operate at 150 degrees Celsius",
+   "url": "https://www.channelnewsasia.com/business/panasonic-energy-develops-solid-state-battery-can-operate-150-degrees-celsius-6372861",
+   "source": "CNA",
+   "category": "compute",
+   "published": "2026-09-09T10:42:16+00:00"
+  },
+  {
+   "title": "IonQ unveils Superion roadmap and SkyWater-powered growth strategy at Investor Day",
+   "url": "https://cryptobriefing.com/ionq-superion-roadmap-skywater-growth-strategy/",
+   "source": "Crypto Briefing",
+   "category": "quantum",
+   "published": "2026-09-09T10:17:21+00:00"
+  },
+  {
+   "title": "XPeng puts humanoid robot production line into operation as first IRON robot walks off autonomously",
+   "url": "https://technode.com/2026/09/09/xpeng-puts-humanoid-robot-production-line-into-operation-as-first-iron-robot-walks-off-autonomously/",
+   "source": "TechNode",
+   "category": "robotics",
+   "published": "2026-09-09T09:19:58+00:00"
+  },
+  {
+   "title": "Muso Action\u3001\u7d4c\u6e08\u7523\u696d\u7701\u304a\u3088\u3073NEDO\u304c\u5b9f\u65bd\u3059\u308b\u56fd\u5bb6\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300cGENIAC\u300d\u306e\u63a1\u629e\u4e8b\u696d\u8005\u306b\u6c7a\u5b9a",
+   "url": "https://prtimes.jp/main/html/rd/p/000000007.000170391.html",
+   "source": "Prtimes.jp",
+   "category": "robotics",
+   "published": "2026-09-09T07:40:59+00:00"
+  },
+  {
+   "title": "How Excelland Robotics Puts Robots to Work",
+   "url": "https://technode.com/2026/09/09/excelland-robotics-puts-robots-to-work/",
+   "source": "TechNode",
+   "category": "robotics",
+   "published": "2026-09-09T06:11:46+00:00"
   },
   {
    "title": "Paul Christiano joins OpenAI Foundation Board",
@@ -49,13 +315,6 @@
    "source": "Tom's Hardware UK",
    "category": "compute",
    "published": "2026-09-09T16:03:05+00:00"
-  },
-  {
-   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-   "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
-   "source": "Nvidia.com",
-   "category": "compute",
-   "published": "2026-09-09T16:00:42+00:00"
   },
   {
    "title": "DIMAAG and Toshiba Collaborate on SCiB\u2122 - Based Energy Storage for the ZettaWatt\u2122 Power Platform for AI Data Centers",
@@ -114,13 +373,6 @@
    "published": "2026-09-09T15:05:13+00:00"
   },
   {
-   "title": "Text to AI Lab | AI Model, Animation, Skybox, Sound & Speech Generator by Satisvizion",
-   "url": "https://assetstore.unity.com/packages/tools/generative-ai/text-to-ai-lab-ai-model-animation-skybox-sound-speech-generator-392610",
-   "source": "Unity.com",
-   "category": "ai",
-   "published": "2026-09-09T15:04:12+00:00"
-  },
-  {
    "title": "CEPI funds Pune\u2019s Immunoscript for \u201cfreezer-free\u201d RNA vaccine",
    "url": "https://www.thehindubusinessline.com/companies/cepi-funds-punes-immunoscript-for-freezer-free-rna-vaccine/article71447984.ece",
    "source": "BusinessLine",
@@ -133,13 +385,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-09-09T15:02:00+00:00"
-  },
-  {
-   "title": "Whole exome sequencing and cluster analysis reveal that EPB41L4A mutation may trigger tooth agenesis",
-   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357667",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-09-09T14:00:00+00:00"
   },
   {
    "title": "Application of machine learning in predicting of MB2 canal in permanent maxillary first and second molars: A CBCT study",
@@ -156,82 +401,11 @@
    "published": "2026-09-09T13:54:03+00:00"
   },
   {
-   "title": "Onix Expands Its Trusted AI Platform With $5 Million USD Pre-Seed Round",
-   "url": "https://www.prnewswire.com/news-releases/onix-expands-its-trusted-ai-platform-with-5-million-usd-pre-seed-round-302873369.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-09-09T13:04:00+00:00"
-  },
-  {
-   "title": "Quantum Computing Firms Score $100M Each From US",
-   "url": "https://www.newser.com/story/396128/quantum-computing-firms-score-100m-each-from-us.html",
-   "source": "Newser",
-   "category": "quantum",
-   "published": "2026-09-09T13:00:00+00:00"
-  },
-  {
-   "title": "BEEP CLOSES SERIES B TO ACCELERATE COMMERCIAL DEPLOYMENT OF AUTONOMOUS MOBILITY NETWORKS",
-   "url": "https://www.prnewswire.com/news-releases/beep-closes-series-b-to-accelerate-commercial-deployment-of-autonomous-mobility-networks-302873054.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-09-09T12:30:00+00:00"
-  },
-  {
-   "title": "This startup raised $10 million to bring AI to old factories",
-   "url": "https://www.businessinsider.com/this-startup-raised-10-million-to-bring-ai-old-factories-2026-9#article",
-   "source": "Business Insider",
-   "category": "ai",
-   "published": "2026-09-09T12:01:01+00:00"
-  },
-  {
-   "title": "Robotics roadmaps from around the world spotlight of the month: United States of America",
-   "url": "https://robohub.org/robotics-roadmaps-from-around-the-world-spotlight-of-the-month-united-states-of-america/",
-   "source": "Robohub.org",
-   "category": "robotics",
-   "published": "2026-09-09T11:25:43+00:00"
-  },
-  {
-   "title": "GPT-6 Astra: The next generation in intelligence for work",
-   "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-09T11:00:00+00:00"
-  },
-  {
-   "title": "IonQ Investor Day Unveils Superion Roadmap, SkyWater-Powered Growth Strategy",
-   "url": "https://biztoc.com/x/2a30a6bf3323abbe",
-   "source": "Biztoc.com",
-   "category": "quantum",
-   "published": "2026-09-09T10:13:28+00:00"
-  },
-  {
-   "title": "How GPT\u20115.6 Sol helps run quantum computing experiments",
-   "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-   "source": "Openai.com",
-   "category": "breakthroughs",
-   "published": "2026-09-09T07:22:46+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "IonQ launches Superion 256, a quantum computer built for volume production",
-   "url": "https://siliconangle.com/2026/09/08/ionq-launches-superion-256-a-quantum-computer-built-for-volume-production/",
-   "source": "SiliconANGLE News",
-   "category": "quantum",
-   "published": "2026-09-08T23:13:56+00:00"
-  },
-  {
    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
    "url": "https://openai.com/index/codex-quantum-computing-experiments",
    "source": "OpenAI",
    "category": "breakthroughs",
    "published": "2026-09-08T17:00:00+00:00"
-  },
-  {
-   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-   "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-   "source": "Google DeepMind",
-   "category": "breakthroughs",
-   "published": "2026-09-08T14:00:15+00:00"
   },
   {
    "title": "BounceBack AI Launches to Turn Email Bounces into Revenue Opportunities",
@@ -34826,181 +35000,6 @@
    "source": "Digitimes",
    "category": "compute",
    "published": "2026-06-26T02:59:36+00:00"
-  },
-  {
-   "title": "Academia Sinica targets quantum chip manufacturing scale with Taiwan's semiconductor tool base",
-   "url": "https://www.digitimes.com/news/a20260625PD237/academia-sinica-taiwan-quantum-manufacturing-hardware.html",
-   "source": "Digitimes",
-   "category": "quantum",
-   "published": "2026-06-26T02:46:48+00:00"
-  },
-  {
-   "title": "Agility Robotics eyes Nasdaq listing, boosting Ability Enterprise's 2H26 outlook",
-   "url": "https://www.digitimes.com/news/a20260624PD243/robotics-nasdaq-ability-enterprise-robot-startup.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-06-26T00:58:18+00:00"
-  },
-  {
-   "title": "Near-perfect genome sequencing in medical genetics",
-   "url": "https://www.nature.com/articles/s41588-026-02645-4",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-06-26T00:00:00+00:00"
-  },
-  {
-   "title": "Spectroscopic discrimination of bacterial species of variable pathogenicity through explainable machine learning",
-   "url": "https://pubs.rsc.org/en/content/articlelanding/2026/nr/d6nr00689b",
-   "source": "Royal Society of Chemistry",
-   "category": "ai",
-   "published": "2026-06-25T23:00:00+00:00"
-  },
-  {
-   "title": "Domyn plans to launch open-source frontier AI model within a year",
-   "url": "https://cryptobriefing.com/domyn-open-source-frontier-ai-model/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-06-25T20:07:21+00:00"
-  },
-  {
-   "title": "\u2018Project 42\u2019 brings live robots, AI workflows to real estate agents",
-   "url": "https://www.inman.com/2026/06/25/project-42-ai-real-estate-event-niagara-falls/",
-   "source": "Inman",
-   "category": "robotics",
-   "published": "2026-06-25T20:02:06+00:00"
-  },
-  {
-   "title": "Companies Could Soon Staff \u2018Stubbornly Local\u2019 Jobs With Workers 4,000 Miles Away",
-   "url": "https://singularityhub.com/2026/06/25/companies-could-soon-staff-stubbornly-local-jobs-with-workers-4000-miles-away/#article",
-   "source": "Singularity Hub",
-   "category": "ai",
-   "published": "2026-06-25T16:02:56+00:00"
-  },
-  {
-   "title": "University of Maryland Expands Landmark Research Program to Address Society's Most Pressing Challenges",
-   "url": "https://www.prnewswire.com/news-releases/university-of-maryland-expands-landmark-research-program-to-address-societys-most-pressing-challenges-302811205.html",
-   "source": "PRNewswire",
-   "category": "breakthroughs",
-   "published": "2026-06-25T19:55:00+00:00"
-  },
-  {
-   "title": "US invests $250M in I-Pulse for semiconductor and pulsed-power development under CHIPS Act",
-   "url": "https://cryptobriefing.com/us-invests-250m-ipulse-semiconductor-chips-act/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-06-25T19:52:29+00:00"
-  },
-  {
-   "title": "Linux Foundation Launches Akrites To Coordinate AI-Driven Open Source Security",
-   "url": "https://slashdot.org/submission/17348496/linux-foundation-launches-akrites-to-coordinate-ai-driven-open-source-security",
-   "source": "Slashdot.org",
-   "category": "ai",
-   "published": "2026-06-25T19:51:22+00:00"
-  },
-  {
-   "title": "Chinese open source AI models are closing the gap with US rivals, and the market implications are significant",
-   "url": "https://cryptobriefing.com/chinese-open-source-ai-models-us-capabilities/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-06-25T19:49:20+00:00"
-  },
-  {
-   "title": "IBM\u2019s 0.7nm Nanostack Packs Nearly 100 Billion Transistors, Pushes Logic Below 1nm",
-   "url": "https://www.storagereview.com/news/ibms-0-7nm-nanostack-packs-nearly-100-billion-transistors-pushes-logic-below-1nm",
-   "source": "Storagereview.com",
-   "category": "compute",
-   "published": "2026-06-25T19:47:51+00:00"
-  },
-  {
-   "title": "BlackBerry Dials Into Physical AI as Revenues Jump 26%",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/blackberry-dials-into-physical-ai-as-revenues-jump-26/",
-   "source": "pymnts.com",
-   "category": "compute",
-   "published": "2026-06-25T19:46:28+00:00"
-  },
-  {
-   "title": "ocrcontext added to PyPI",
-   "url": "https://pypi.org/project/ocrcontext/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-25T19:46:04+00:00"
-  },
-  {
-   "title": "Apple Reportedly Skipping M6 Mac Chips to Fast-Track M7",
-   "url": "https://www.iphoneincanada.ca/2026/06/25/apple-reportedly-skipping-m6-mac-chips-to-fast-track-m7/",
-   "source": "iPhone in Canada",
-   "category": "compute",
-   "published": "2026-06-25T19:43:01+00:00"
-  },
-  {
-   "title": "M6 MacBook Pro Expected This Year With Apple's First 2nm Chip",
-   "url": "https://www.macrumors.com/2026/06/25/m6-macbook-pro-2026/",
-   "source": "MacRumors",
-   "category": "compute",
-   "published": "2026-06-25T19:42:04+00:00"
-  },
-  {
-   "title": "GPUArmor: A Hardware-Software Co-design for Efficient and Scalable Memory Safety on GPUs",
-   "url": "https://research.nvidia.com/publication/2026-05_gpuarmor-hardware-software-co-design-efficient-and-scalable-memory-safety-gpus",
-   "source": "Nvidia.com",
-   "category": "compute",
-   "published": "2026-06-25T19:40:54+00:00"
-  },
-  {
-   "title": "Show HN: OnBuzz \u2013 an open-source workspace for AI agent teams",
-   "url": "https://github.com/Loxia-ai/onbuzz-community",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-06-25T19:37:48+00:00"
-  },
-  {
-   "title": "Cosmos Health Advances International Patent Application for Its Proprietary Hydrogel Weight Management Platform Across the U.S., Europe, Australia, and Canada",
-   "url": "https://www.globenewswire.com/news-release/2026/06/25/3317905/0/en/Cosmos-Health-Advances-International-Patent-Application-for-Its-Proprietary-Hydrogel-Weight-Management-Platform-Across-the-U-S-Europe-Australia-and-Canada.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-06-25T19:31:00+00:00"
-  },
-  {
-   "title": "OASIS: Object-Aware Page Management for Multi-GPU Systems",
-   "url": "https://research.nvidia.com/publication/2025-02_oasis-object-aware-page-management-multi-gpu-systems",
-   "source": "Nvidia.com",
-   "category": "compute",
-   "published": "2026-06-25T19:28:28+00:00"
-  },
-  {
-   "title": "betterdb-agent-memory added to PyPI",
-   "url": "https://pypi.org/project/betterdb-agent-memory/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-25T19:24:39+00:00"
-  },
-  {
-   "title": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats",
-   "url": "https://www.prnewswire.com/news-releases/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats-302811165.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-06-25T19:24:00+00:00"
-  },
-  {
-   "title": "US gives India assurance on access to AI technologies",
-   "url": "https://economictimes.indiatimes.com/news/india/us-gives-india-assurance-on-access-to-ai-technologies/articleshow/132002678.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-06-25T19:23:18+00:00"
-  },
-  {
-   "title": "Adobe to Acquire Topaz Labs to Boost AI Video & Image Tools",
-   "url": "https://www.cmswire.com/digital-experience/adobe-to-acquire-topaz-labs-to-boost-ai-video-image-tools/",
-   "source": "CMSWire",
-   "category": "compute",
-   "published": "2026-06-25T19:21:21+00:00"
-  },
-  {
-   "title": "Green Agriculture Chain Section at the 4th CISCE: AI-Driven Innovation Across Global Agri-Food Supply Chains",
-   "url": "https://www.prnewswire.com/news-releases/green-agriculture-chain-section-at-the-4th-cisce-ai-driven-innovation-across-global-agri-food-supply-chains-302811148.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-06-25T19:10:00+00:00"
   }
  ]
 }
