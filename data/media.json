@@ -1,29 +1,101 @@
 {
- "updated": "2026-09-11T10:56:40.108274+00:00",
+ "updated": "2026-09-11T16:11:29.392091+00:00",
  "items": [
   {
-   "title": "GPT-6 Astra built a font playground",
-   "url": "https://www.youtube.com/watch?v=0NUm552iB3U",
+   "title": "GPT-6 Astra handles the editing busywork",
+   "url": "https://www.youtube.com/watch?v=4bGb2OjU5tA",
    "source": "OpenAI",
-   "thumbnail": "https://i.ytimg.com/vi/0NUm552iB3U/mqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/4bGb2OjU5tA/mqdefault.jpg",
    "category": "ai",
-   "published": "2026-09-11T04:08:16+00:00"
+   "published": "2026-09-11T15:00:24+00:00"
   },
   {
-   "title": "Introducing the Agents API",
-   "url": "https://www.youtube.com/watch?v=2YHa1vhnmK0",
-   "source": "OpenAI",
-   "thumbnail": "https://i.ytimg.com/vi/2YHa1vhnmK0/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-09-10T19:26:05+00:00"
-  },
-  {
-   "title": "Editing Faster in Adobe Premiere with NVIDIA RTX Spark",
-   "url": "https://www.youtube.com/watch?v=V0Hx37EqcMI",
+   "title": "NVIDIA Bionemo Inference Runtime",
+   "url": "https://www.youtube.com/watch?v=pHQcVJrHveA",
    "source": "NVIDIA",
-   "thumbnail": "https://i.ytimg.com/vi/V0Hx37EqcMI/mqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/pHQcVJrHveA/mqdefault.jpg",
+   "category": "health",
+   "published": "2026-09-10T21:10:09+00:00"
+  },
+  {
+   "title": "Two blind brothers using ChatGPT to navigate life and run their nonprofit",
+   "url": "https://www.youtube.com/watch?v=qg_54P-oPgI",
+   "source": "OpenAI",
+   "thumbnail": "https://i.ytimg.com/vi/qg_54P-oPgI/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-10T16:00:27+00:00"
+  },
+  {
+   "title": "Every Data Center Founder Is Becoming A Billionaire",
+   "url": "https://www.youtube.com/watch?v=x-Nes4CyhIY",
+   "source": "Peter H. Diamandis",
+   "thumbnail": "https://i.ytimg.com/vi/x-Nes4CyhIY/mqdefault.jpg",
    "category": "compute",
-   "published": "2026-09-08T19:30:36+00:00"
+   "published": "2026-09-10T12:31:31+00:00"
+  },
+  {
+   "title": "Jensen Makes $1 Billion A Day",
+   "url": "https://www.youtube.com/watch?v=wSKwGyABz_k",
+   "source": "Peter H. Diamandis",
+   "thumbnail": "https://i.ytimg.com/vi/wSKwGyABz_k/mqdefault.jpg",
+   "category": "compute",
+   "published": "2026-09-09T22:02:18+00:00"
+  },
+  {
+   "title": "Can AI help us better predict the weather?",
+   "url": "https://www.youtube.com/watch?v=O_EWbnkjXdk",
+   "source": "Google DeepMind",
+   "thumbnail": "https://i.ytimg.com/vi/O_EWbnkjXdk/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-09T16:10:39+00:00"
+  },
+  {
+   "title": "Inside the Race to Measure Frontier Intelligence",
+   "url": "https://www.youtube.com/watch?v=WO9c9qxDxzU",
+   "source": "a16z",
+   "thumbnail": "https://i.ytimg.com/vi/WO9c9qxDxzU/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-09T14:30:03+00:00"
+  },
+  {
+   "title": "NVIDIA GTC Europe: Advancing AI Together",
+   "url": "https://www.youtube.com/watch?v=a6qM4YHSKRQ",
+   "source": "NVIDIA",
+   "thumbnail": "https://i.ytimg.com/vi/a6qM4YHSKRQ/mqdefault.jpg",
+   "category": "compute",
+   "published": "2026-09-09T13:14:11+00:00"
+  },
+  {
+   "title": "Inside OpenAI\u2019s Breakthroughs in Mathematical Reasoning",
+   "url": "https://www.youtube.com/watch?v=1JvyLGd2Sfs",
+   "source": "a16z",
+   "thumbnail": "https://i.ytimg.com/vi/1JvyLGd2Sfs/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-08T14:30:11+00:00"
+  },
+  {
+   "title": "AlphaGenome Atlas: Using AI to find disease causing variants \ud83e\uddec",
+   "url": "https://www.youtube.com/watch?v=ya04CpsRJH0",
+   "source": "Google DeepMind",
+   "thumbnail": "https://i.ytimg.com/vi/ya04CpsRJH0/mqdefault.jpg",
+   "category": "health",
+   "published": "2026-09-08T14:02:28+00:00"
+  },
+  {
+   "title": "AlphaGenome Atlas: Understanding the human genome",
+   "url": "https://www.youtube.com/watch?v=U0aToL5C-bQ",
+   "source": "Google DeepMind",
+   "thumbnail": "https://i.ytimg.com/vi/U0aToL5C-bQ/mqdefault.jpg",
+   "category": "health",
+   "published": "2026-09-08T13:58:27+00:00"
+  },
+  {
+   "title": "Your First Real Quantum Physics Experiment",
+   "url": "https://www.youtube.com/watch?v=v0wr_ZT3VYU",
+   "source": "Qiskit",
+   "thumbnail": "https://i.ytimg.com/vi/v0wr_ZT3VYU/mqdefault.jpg",
+   "category": "quantum",
+   "published": "2026-09-08T13:30:17+00:00"
   },
   {
    "title": "Introducing Early Access: An Invite only program for the Enterprise",
@@ -32,14 +104,6 @@
    "thumbnail": "https://i.ytimg.com/vi/2JiUeYzcRKE/mqdefault.jpg",
    "category": "ai",
    "published": "2026-09-08T16:13:54+00:00"
-  },
-  {
-   "title": "Building Europe's AI Stack \u2014 Inside the Barcelona Supercomputing Center",
-   "url": "https://www.youtube.com/watch?v=4GY-x4WAafc",
-   "source": "NVIDIA",
-   "thumbnail": "https://i.ytimg.com/vi/4GY-x4WAafc/mqdefault.jpg",
-   "category": "compute",
-   "published": "2026-09-08T10:40:51+00:00"
   },
   {
    "title": "Discovering new antibiotics with ChatGPT",
