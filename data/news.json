@@ -1,40 +1,257 @@
 {
- "updated": "2026-09-10T20:40:06.726254+00:00",
+ "updated": "2026-09-11T03:53:55.870615+00:00",
  "items": [
   {
-   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-09-10T16:30:35+00:00"
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-10T16:00:00+00:00"
   },
   {
-   "title": "Physical AI Takes the Wheel: How the World\u2019s Robotaxi Leaders Are Building With NVIDIA Technologies",
-   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-09-10T16:00:04+00:00"
+   "title": "Now everyone can put data to work",
+   "url": "https://openai.com/index/put-data-to-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-10T15:00:00+00:00"
   },
   {
-   "title": "Introducing ChatGPT for Financial Services",
-   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+   "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+   "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-09-10T13:00:21+00:00"
+  },
+  {
+   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+   "url": "https://openai.com/index/expanding-ai-access-us-government",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-09-10T07:00:00+00:00"
   },
   {
-   "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-   "source": "OpenAI",
+   "title": "Nvidia plans major expansion of data centre capacity in Australia to meet AI demand",
+   "url": "https://biztoc.com/x/36f81f7cecf0b906",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-09-10T03:46:28+00:00"
+  },
+  {
+   "title": "UIDAI launches Aadhaar face authentication software for banks, fintechs",
+   "url": "https://www.business-standard.com/industry/banking/uidai-launches-aadhaar-face-authentication-software-for-banks-fintechs-126091000142_1.html",
+   "source": "Business Standard",
    "category": "ai",
+   "published": "2026-09-10T03:40:41+00:00"
+  },
+  {
+   "title": "Indian-origin couple gifts $20 millon to American university for focus on AI, advanced analytics",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-origin-couple-gifts-20-millon-to-american-university-for-focus-on-ai-advanced-analytics/articleshow/133992473.cms",
+   "source": "The Times of India",
+   "category": "breakthroughs",
+   "published": "2026-09-10T03:28:35+00:00"
+  },
+  {
+   "title": "Up to 192 GB RAM and 192 GB VRAM: System76 launches Thelio Mira AI workstation",
+   "url": "https://www.notebookcheck.net/Up-to-192-GB-RAM-and-192-GB-VRAM-System76-launches-Thelio-Mira-AI-workstation.1395568.0.html",
+   "source": "Notebookcheck.net",
+   "category": "compute",
+   "published": "2026-09-10T03:28:00+00:00"
+  },
+  {
+   "title": "Certinia launches new System of Action as the foundation of autonomous service operations",
+   "url": "https://siliconangle.com/2026/09/09/certinia-launches-new-system-of-action-as-the-foundation-of-autonomous-service-operations/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-09-10T03:01:44+00:00"
+  },
+  {
+   "title": "ZTE Global Summit & User Congress 2026 Opens in Kuala Lumpur, Advancing from Connectivity to Digital Value Creation",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/zte-global-summit-user-congress-2026-opens-in-kuala-lumpur-advancing-from-connectivity-to-digital-value-creation/article71450054.ece",
+   "source": "BusinessLine",
+   "category": "compute",
+   "published": "2026-09-10T03:00:39+00:00"
+  },
+  {
+   "title": "Wipro unveils AI-focused CISO Command Center with CrowdStrike",
+   "url": "https://www.business-standard.com/markets/capital-market-news/wipro-unveils-ai-focused-ciso-command-center-with-crowdstrike-126091000111_1.html",
+   "source": "Business Standard",
+   "category": "ai",
+   "published": "2026-09-10T02:46:01+00:00"
+  },
+  {
+   "title": "The Apple Watch Gets Its Siri AI Upgrade",
+   "url": "https://slashdot.org/submission/17350634/the-apple-watch-gets-its-siri-ai-upgrade",
+   "source": "Slashdot.org",
+   "category": "ai",
+   "published": "2026-09-10T02:41:12+00:00"
+  },
+  {
+   "title": "Newsom Signs AI Industry-Approved AI Regulation Bills Into Law in California",
+   "url": "https://gizmodo.com/newsom-signs-ai-industry-approved-ai-regulation-bills-into-law-in-california-2000809702",
+   "source": "Gizmodo.com",
+   "category": "ai",
+   "published": "2026-09-10T02:34:20+00:00"
+  },
+  {
+   "title": "An AI-Designed Drug Just Moved Six Different Aging Clocks At Once",
+   "url": "https://biztoc.com/x/dd631abe87df1b9f",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-09-10T02:14:49+00:00"
+  },
+  {
+   "title": "Training a 3.8B LLM to 0.384 CORE for $998 \u2013 Hugo Vergnes",
+   "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+   "source": "Github.io",
+   "category": "ai",
+   "published": "2026-09-10T02:04:11+00:00"
+  },
+  {
+   "title": "Qualcomm\u2019s $60 billion deal reveals what comes after smartphones",
+   "url": "https://biztoc.com/x/99a723fead09c438",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-09-10T02:00:51+00:00"
+  },
+  {
+   "title": "Exclusive-After outrunning Bolt, China's robot champion races towards real-world work",
+   "url": "https://biztoc.com/x/44249cd2d5b5bb1b",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-09-10T00:46:30+00:00"
+  },
+  {
+   "title": "Insilico Medicine Doses First Patient in GENESIS-IPF-3, the World's First Phase III Trial of a Generative AI-Driven Innovative Drug",
+   "url": "https://www.prnewswire.com/news-releases/insilico-medicine-doses-first-patient-in-genesis-ipf-3-the-worlds-first-phase-iii-trial-of-a-generative-ai-driven-innovative-drug-302873749.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-09-10T00:30:00+00:00"
+  },
+  {
+   "title": "Initial lessons from real-world implementation of an AI-agent eye clinic in China",
+   "url": "https://www.nature.com/articles/s41591-026-04631-z",
+   "source": "Nature.com",
+   "category": "health",
    "published": "2026-09-10T00:00:00+00:00"
   },
   {
-   "title": "Introducing the Agents API",
-   "url": "https://openai.com/index/introducing-the-agents-api",
+   "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia\u2019s Data Center Ecosystem",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-09-10T00:00:00+00:00"
+  },
+  {
+   "title": "Integrating artificial intelligence and quantum chemistry for sustainable pharmaceutical retrosynthesis",
+   "url": "https://www.nature.com/articles/s41598-026-71121-0.pdf",
+   "source": "Nature.com",
+   "category": "breakthroughs",
+   "published": "2026-09-10T00:00:00+00:00"
+  },
+  {
+   "title": "Independent Commission led by NHS doctors sets out blueprint to accelerate safe AI adoption in healthcare",
+   "url": "https://www.gov.uk/government/news/independent-commission-led-by-nhs-doctors-sets-out-blueprint-to-accelerate-safe-ai-adoption-in-healthcare",
+   "source": "Www.gov.uk",
+   "category": "health",
+   "published": "2026-09-09T23:11:41+00:00"
+  },
+  {
+   "title": "Research: National Commission into the Regulation of AI in Healthcare: Recommendations for a future regulatory framework",
+   "url": "https://www.gov.uk/government/publications/national-commission-into-the-regulation-of-ai-in-healthcare-recommendations-for-a-future-regulatory-framework",
+   "source": "Www.gov.uk",
+   "category": "health",
+   "published": "2026-09-09T23:01:26+00:00"
+  },
+  {
+   "title": "World's First Robot Sports League Launched in Riyadh, Plans to Hit 8 Cities Worldwide",
+   "url": "https://www.prnewswire.com/news-releases/worlds-first-robot-sports-league-launched-in-riyadh-plans-to-hit-8-cities-worldwide-302874350.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-09-09T21:24:00+00:00"
+  },
+  {
+   "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+   "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-09-09T20:40:00+00:00"
+  },
+  {
+   "title": "Factoring RSA 260",
+   "url": "https://cognition.com/blog/factoring-rsa-260",
+   "source": "Cognition.com",
+   "category": "quantum",
+   "published": "2026-09-09T20:16:08+00:00"
+  },
+  {
+   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+   "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-09T16:00:42+00:00"
+  },
+  {
+   "title": "Text to AI Lab | AI Model, Animation, Skybox, Sound & Speech Generator by Satisvizion",
+   "url": "https://assetstore.unity.com/packages/tools/generative-ai/text-to-ai-lab-ai-model-animation-skybox-sound-speech-generator-392610",
+   "source": "Unity.com",
+   "category": "ai",
+   "published": "2026-09-09T15:04:12+00:00"
+  },
+  {
+   "title": "Onix Expands Its Trusted AI Platform With $5 Million USD Pre-Seed Round",
+   "url": "https://www.prnewswire.com/news-releases/onix-expands-its-trusted-ai-platform-with-5-million-usd-pre-seed-round-302873369.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-09-09T13:04:00+00:00"
+  },
+  {
+   "title": "Quantum Computing Firms Score $100M Each From US",
+   "url": "https://www.newser.com/story/396128/quantum-computing-firms-score-100m-each-from-us.html",
+   "source": "Newser",
+   "category": "quantum",
+   "published": "2026-09-09T13:00:00+00:00"
+  },
+  {
+   "title": "BEEP CLOSES SERIES B TO ACCELERATE COMMERCIAL DEPLOYMENT OF AUTONOMOUS MOBILITY NETWORKS",
+   "url": "https://www.prnewswire.com/news-releases/beep-closes-series-b-to-accelerate-commercial-deployment-of-autonomous-mobility-networks-302873054.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-09-09T12:30:00+00:00"
+  },
+  {
+   "title": "This startup raised $10 million to bring AI to old factories",
+   "url": "https://www.businessinsider.com/this-startup-raised-10-million-to-bring-ai-old-factories-2026-9#article",
+   "source": "Business Insider",
+   "category": "ai",
+   "published": "2026-09-09T12:01:01+00:00"
+  },
+  {
+   "title": "Robotics roadmaps from around the world spotlight of the month: United States of America",
+   "url": "https://robohub.org/robotics-roadmaps-from-around-the-world-spotlight-of-the-month-united-states-of-america/",
+   "source": "Robohub.org",
+   "category": "robotics",
+   "published": "2026-09-09T11:25:43+00:00"
+  },
+  {
+   "title": "GPT-6 Astra: The next generation in intelligence for work",
+   "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-09-10T00:00:00+00:00"
+   "published": "2026-09-09T11:00:00+00:00"
+  },
+  {
+   "title": "IonQ Investor Day Unveils Superion Roadmap, SkyWater-Powered Growth Strategy",
+   "url": "https://biztoc.com/x/2a30a6bf3323abbe",
+   "source": "Biztoc.com",
+   "category": "quantum",
+   "published": "2026-09-09T10:13:28+00:00"
+  },
+  {
+   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+   "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+   "source": "Google DeepMind",
+   "category": "breakthroughs",
+   "published": "2026-09-08T14:00:15+00:00"
   },
   {
    "title": "Everything Apple just announced at its fall 2026 event: The folding iPhone Duo, iPhone 18, Apple Watch Series 12, and new AirPods",
@@ -240,13 +457,6 @@
    "published": "2026-09-09T18:18:24+00:00"
   },
   {
-   "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
-   "url": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
-   "source": "Decrypt",
-   "category": "quantum",
-   "published": "2026-09-09T16:46:05+00:00"
-  },
-  {
    "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
    "source": "Sebastianraschka.com",
@@ -266,41 +476,6 @@
    "source": "Futurism",
    "category": "robotics",
    "published": "2026-09-09T13:03:15+00:00"
-  },
-  {
-   "title": "Panasonic Energy develops solid-state battery that can operate at 150 degrees Celsius",
-   "url": "https://www.channelnewsasia.com/business/panasonic-energy-develops-solid-state-battery-can-operate-150-degrees-celsius-6372861",
-   "source": "CNA",
-   "category": "compute",
-   "published": "2026-09-09T10:42:16+00:00"
-  },
-  {
-   "title": "IonQ unveils Superion roadmap and SkyWater-powered growth strategy at Investor Day",
-   "url": "https://cryptobriefing.com/ionq-superion-roadmap-skywater-growth-strategy/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-09-09T10:17:21+00:00"
-  },
-  {
-   "title": "XPeng puts humanoid robot production line into operation as first IRON robot walks off autonomously",
-   "url": "https://technode.com/2026/09/09/xpeng-puts-humanoid-robot-production-line-into-operation-as-first-iron-robot-walks-off-autonomously/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-09-09T09:19:58+00:00"
-  },
-  {
-   "title": "Muso Action\u3001\u7d4c\u6e08\u7523\u696d\u7701\u304a\u3088\u3073NEDO\u304c\u5b9f\u65bd\u3059\u308b\u56fd\u5bb6\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300cGENIAC\u300d\u306e\u63a1\u629e\u4e8b\u696d\u8005\u306b\u6c7a\u5b9a",
-   "url": "https://prtimes.jp/main/html/rd/p/000000007.000170391.html",
-   "source": "Prtimes.jp",
-   "category": "robotics",
-   "published": "2026-09-09T07:40:59+00:00"
-  },
-  {
-   "title": "How Excelland Robotics Puts Robots to Work",
-   "url": "https://technode.com/2026/09/09/excelland-robotics-puts-robots-to-work/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-09-09T06:11:46+00:00"
   },
   {
    "title": "Paul Christiano joins OpenAI Foundation Board",
@@ -34825,181 +35000,6 @@
    "source": "Ibtimes.com.au",
    "category": "quantum",
    "published": "2026-06-25T14:15:00+00:00"
-  },
-  {
-   "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-   "url": "https://openai.com/index/gpt-5-immunology-mystery",
-   "source": "OpenAI",
-   "category": "health",
-   "published": "2026-06-23T17:00:00+00:00"
-  },
-  {
-   "title": "Microsoft integrates Entra and Purview to secure AI agents and data",
-   "url": "https://4sysops.com/archives/microsoft-integrates-entra-and-purview-to-secure-ai-agents-and-data/",
-   "source": "4sysops.com",
-   "category": "ai",
-   "published": "2026-06-26T08:39:33+00:00"
-  },
-  {
-   "title": "Onsemi announces $7bn all-stock agreement to buy Synaptics",
-   "url": "https://biztoc.com/x/bf4738082a564bf0",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-06-26T08:39:28+00:00"
-  },
-  {
-   "title": "Greece to send astronaut to the international space station \u2013 Mitsotakis meets with instructor",
-   "url": "https://en.protothema.gr/2026/06/26/greece-to-send-astronaut-to-the-international-space-station-mitsotakis-meets-with-instructor/",
-   "source": "Protothema.gr",
-   "category": "robotics",
-   "published": "2026-06-26T08:25:41+00:00"
-  },
-  {
-   "title": "Unveil \u201cJalape\u00f1o\u201d AI Accelerator for Enhanced LLM Inference",
-   "url": "https://biztoc.com/x/7b247f29fef4c262",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-06-26T08:24:40+00:00"
-  },
-  {
-   "title": "Airwallex hits $11 billion valuation with $320 million raise as fintech pushes into finance run by AI agents",
-   "url": "https://biztoc.com/x/e60e30e4d7a7a18e",
-   "source": "Biztoc.com",
-   "category": "ai",
-   "published": "2026-06-26T08:23:06+00:00"
-  },
-  {
-   "title": "Lilly launches \"The Memory Radio Station\" across Europe, inviting the public to visually reconstruct fading memories through GenAI",
-   "url": "https://www.prnewswire.com/news-releases/lilly-launches-the-memory-radio-station-across-europe-inviting-the-public-to-visually-reconstruct-fading-memories-through-genai-302811677.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-26T08:23:00+00:00"
-  },
-  {
-   "title": "Strategy Of Employing AI Mental Health Chatbots As School Psych Counselors For Teens",
-   "url": "https://www.forbes.com/sites/lanceeliot/2026/06/26/strategy-of-employing-ai-mental-health-chatbots-as-school-psych-counselors-for-teens/",
-   "source": "Forbes",
-   "category": "health",
-   "published": "2026-06-26T07:15:00+00:00"
-  },
-  {
-   "title": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-   "url": "https://github.com/calesthio/OpenMontage",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-06-26T05:47:01+00:00"
-  },
-  {
-   "title": "Amid Amazon's Robot Surge, Proteus Charts a New Path Forward",
-   "url": "https://www.cnet.com/tech/amid-amazons-robot-surge-proteus-charts-a-new-path-forward/",
-   "source": "CNET",
-   "category": "robotics",
-   "published": "2026-06-25T18:45:22+00:00"
-  },
-  {
-   "title": "NVIDIA Powers Over 400 of the World\u2019s 500 Fastest Supercomputers",
-   "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-06-23T09:00:38+00:00"
-  },
-  {
-   "title": "imbalanced-losses 0.4.2",
-   "url": "https://pypi.org/project/imbalanced-losses/0.4.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-26T03:44:31+00:00"
-  },
-  {
-   "title": "harness-im-bridge added to PyPI",
-   "url": "https://pypi.org/project/harness-im-bridge/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-26T03:43:09+00:00"
-  },
-  {
-   "title": "pyprior added to PyPI",
-   "url": "https://pypi.org/project/pyprior/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-26T03:42:37+00:00"
-  },
-  {
-   "title": "spark-connect-cli 0.2.0",
-   "url": "https://pypi.org/project/spark-connect-cli/",
-   "source": "Pypi.org",
-   "category": "compute",
-   "published": "2026-06-26T03:40:42+00:00"
-  },
-  {
-   "title": "redhare 0.4.1rc0",
-   "url": "https://pypi.org/project/redhare/0.4.1rc0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-26T03:36:35+00:00"
-  },
-  {
-   "title": "agenttoolguard added to PyPI",
-   "url": "https://pypi.org/project/agenttoolguard/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-26T03:35:47+00:00"
-  },
-  {
-   "title": "agenttoolguard 0.1.0",
-   "url": "https://pypi.org/project/agenttoolguard/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-26T03:35:47+00:00"
-  },
-  {
-   "title": "35 nations, including India, sign statement on AI opportunity at Pax Silica Summit in US",
-   "url": "https://www.thehindubusinessline.com/info-tech/35-nations-including-india-sign-statement-on-ai-opportunity-at-pax-silica-summit-in-us/article71149138.ece",
-   "source": "BusinessLine",
-   "category": "ai",
-   "published": "2026-06-26T03:30:22+00:00"
-  },
-  {
-   "title": "arize-phoenix-client 2.10.0",
-   "url": "https://pypi.org/project/arize-phoenix-client/2.10.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-26T03:23:21+00:00"
-  },
-  {
-   "title": "India-US hold roundtable to deepen AI, chips, critical minerals cooperation",
-   "url": "https://economictimes.indiatimes.com/tech/technology/india-us-hold-roundtable-to-deepen-ai-chips-critical-minerals-cooperation/articleshow/132006415.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-06-26T03:21:07+00:00"
-  },
-  {
-   "title": "ai-cli-commander added to PyPI",
-   "url": "https://pypi.org/project/ai-cli-commander/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-26T03:16:22+00:00"
-  },
-  {
-   "title": "llmcapa 0.2.6",
-   "url": "https://pypi.org/project/llmcapa/0.2.6/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-26T03:15:07+00:00"
-  },
-  {
-   "title": "Firefly AIBOX-9075 Edge AI box features 200 TOPS Qualcomm IQ-9075 SoC, 36GB LPDDR5, industrial I/Os",
-   "url": "https://www.cnx-software.com/2026/06/26/firefly-aibox-9075-edge-ai-box-features-qualcomm-iq-9075-soc-with-200-tops-npu-36gb-lpddr5/",
-   "source": "CNX Software",
-   "category": "compute",
-   "published": "2026-06-26T03:08:01+00:00"
-  },
-  {
-   "title": "SK Hynix races to open Yongin triple-deck fab in 2027",
-   "url": "https://www.digitimes.com/news/a20260626PD210/sk-hynix-water-fab-cleanroom-2027.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-06-26T02:59:36+00:00"
   }
  ]
 }
