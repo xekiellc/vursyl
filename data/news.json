@@ -1,12 +1,202 @@
 {
- "updated": "2026-09-11T20:45:00.441715+00:00",
+ "updated": "2026-09-12T03:56:30.615573+00:00",
  "items": [
   {
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+   "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
+   "url": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-09-11T13:45:00+00:00"
+  },
+  {
+   "title": "10 Best AI Tools for WordPress",
+   "url": "https://graphicdesignjunction.com/2026/09/10-best-ai-tools-for-wordpress/",
+   "source": "Graphicdesignjunction.com",
+   "category": "ai",
+   "published": "2026-09-11T03:54:46+00:00"
+  },
+  {
+   "title": "Edvenswa Enterprises signs MoU with Armour1X LLP, Hyderabad",
+   "url": "https://www.business-standard.com/markets/capital-market-news/edvenswa-enterprises-signs-mou-with-armour1x-llp-hyderabad-126091100152_1.html",
+   "source": "Business Standard",
+   "category": "ai",
+   "published": "2026-09-11T03:46:18+00:00"
+  },
+  {
+   "title": "OpenAI\u304c\u97f3\u58f0\u4f1a\u8a71AI\u300cGPT-Live-1\u300d\u306eAPI\u3092\u30ea\u30ea\u30fc\u30b9",
+   "url": "https://news.livedoor.com/article/detail/32298465/",
+   "source": "Livedoor.com",
+   "category": "ai",
+   "published": "2026-09-11T03:21:00+00:00"
+  },
+  {
+   "title": "Oracle tops estimates as AI demand tempers cash-burn fears",
+   "url": "https://economictimes.indiatimes.com/tech/technology/oracle-tops-estimates-as-ai-demand-tempers-cash-burn-fears/articleshow/134042384.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-09-11T03:03:03+00:00"
+  },
+  {
+   "title": "Konoe Intelligence\u3001\u6a5f\u68b0\u8ad6\u7684\u89e3\u91c8\u53ef\u80fd\u6027\u3092\u7528\u3044\u305fLLM\u306e\u30ac\u30fc\u30c9\u30ec\u30fc\u30eb\u5b9f\u88c5\u306b\u3064\u3044\u3066\u7279\u8a31\u3092\u53d6\u5f97",
+   "url": "https://prtimes.jp/main/html/rd/p/000000019.000160129.html",
+   "source": "Prtimes.jp",
+   "category": "ai",
+   "published": "2026-09-11T02:40:42+00:00"
+  },
+  {
+   "title": "Ayar Labs bags $150M in additional Series E funding to help make bigger AI chip clusters",
+   "url": "https://siliconangle.com/2026/09/10/ayar-labs-bags-150m-in-additional-series-e-funding-to-help-make-bigger-ai-chip-clusters/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-09-11T02:36:41+00:00"
+  },
+  {
+   "title": "Researchers eye AI revolution in natural disaster forecasts",
+   "url": "https://www.digitaljournal.com/article/researchers-eye-ai-revolution-in-natural-disaster-forecasts/",
+   "source": "Digital Journal",
+   "category": "ai",
+   "published": "2026-09-11T02:35:10+00:00"
+  },
+  {
+   "title": "Undervolted NVIDIA RTX 4090 Gets Identical DLSS 5 Frame Rates with 47 W Lower Power Draw",
+   "url": "https://www.techpowerup.com/352578/undervolted-nvidia-rtx-4090-gets-identical-dlss-5-frame-rates-with-47-w-lower-power-draw",
+   "source": "Techpowerup.com",
+   "category": "compute",
+   "published": "2026-09-11T02:21:21+00:00"
+  },
+  {
+   "title": "Jensen Huang bets Nvidia's next leg of growth on turning AI compute into an investable asset",
+   "url": "https://www.digitimes.com/news/a20260911VL203/jensen-huang-nvidia-goldman-sachs-growth-silicon.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-09-11T02:16:18+00:00"
+  },
+  {
+   "title": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
+   "url": "https://biztoc.com/x/66d8da88814125de",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-09-11T02:06:40+00:00"
+  },
+  {
+   "title": "MDR on UPI coming soon; India's new class of robot workers",
+   "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/mdr-on-upi-coming-soon-indias-new-class-of-robot-workers/articleshow/134040033.cms",
+   "source": "The Times of India",
+   "category": "robotics",
+   "published": "2026-09-11T02:03:05+00:00"
+  },
+  {
+   "title": "Extreme Networks\u2019 Agent ONE Coworker moves AI networking from dashboards to answers",
+   "url": "https://siliconangle.com/2026/09/10/extreme-networks-agent-one-coworker-moves-ai-networking-from-dashboards-to-answers/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-09-11T01:58:50+00:00"
+  },
+  {
+   "title": "Nvidia's US$13 billion Hugging Face deal bets physical AI can start at US$400, not US$40,000",
+   "url": "https://www.digitimes.com/news/a20260910VL221/robotics-nvidia-software-cost-robot.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-09-11T01:58:08+00:00"
+  },
+  {
+   "title": "Chinese Nvidia challenger Enflame jumps 188% in Shanghai market debut",
+   "url": "https://biztoc.com/x/0c6bbc10e18268f0",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-09-11T01:51:28+00:00"
+  },
+  {
+   "title": "Jensen Huang Predicts New AI Models Will Drive Massive Cybersecurity Demand",
+   "url": "https://biztoc.com/x/f9ad61731ff09a96",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-09-11T01:36:30+00:00"
+  },
+  {
+   "title": "Digital quantum simulations of scattering in quantum field theories using W states",
+   "url": "https://www.nature.com/articles/s41567-026-03436-8",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-09-11T00:00:00+00:00"
+  },
+  {
+   "title": "A global digital navigator of human health for precision medicine",
+   "url": "https://www.nature.com/articles/s41591-026-04621-1",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-09-11T00:00:00+00:00"
+  },
+  {
+   "title": "Enigmata Emerges from Stealth with $6.5 Million to Let AI Learn Without Exposing Sensitive Data",
+   "url": "https://www.prnewswire.com/news-releases/enigmata-emerges-from-stealth-with-6-5-million-to-let-ai-learn-without-exposing-sensitive-data-302875807.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-09-10T22:18:00+00:00"
+  },
+  {
+   "title": "NIH seeks to engage patients as it scales use of AI with Bio Genesis Mission",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/nih-seeks-engage-patients-it-scales-use-ai-bio-genesis-mission/415923/",
+   "source": "Nextgov",
+   "category": "health",
+   "published": "2026-09-10T21:42:00+00:00"
+  },
+  {
+   "title": "Skild AI hit $100M in run-rate revenue selling robots a brain that learns from one video",
+   "url": "https://thenextweb.com/news/skild-ai-100m-run-rate-eu-rules",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-09-10T16:06:17+00:00"
+  },
+  {
+   "title": "Now everyone can put data to work",
+   "url": "https://openai.com/index/put-data-to-work",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-09-11T10:00:00+00:00"
+   "published": "2026-09-10T15:00:00+00:00"
+  },
+  {
+   "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+   "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-09-10T13:00:21+00:00"
+  },
+  {
+   "title": "China\u2019s Humanoid Robot Boom, Part III: When is the ChatGPT moment for humanoid robots?",
+   "url": "https://technode.com/2026/09/10/chinas-humanoid-robot-boom-part-iii-when-is-the-chatgpt-moment-for-humanoid-robots/",
+   "source": "TechNode",
+   "category": "robotics",
+   "published": "2026-09-10T08:21:16+00:00"
+  },
+  {
+   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+   "url": "https://openai.com/index/expanding-ai-access-us-government",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-10T07:00:00+00:00"
+  },
+  {
+   "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+   "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-09-09T20:40:00+00:00"
+  },
+  {
+   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+   "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-09T16:00:42+00:00"
+  },
+  {
+   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+   "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+   "source": "Google DeepMind",
+   "category": "breakthroughs",
+   "published": "2026-09-08T14:00:15+00:00",
+   "breakthrough": true
   },
   {
    "title": "Backblaze B2 and WEKA NeuralMesh Validated as a Two-Tier AI Storage Pipeline, With Snap-to-Object Checkpoints in B2",
@@ -70,55 +260,6 @@
    "source": "Storagereview.com",
    "category": "compute",
    "published": "2026-09-10T20:07:37+00:00"
-  },
-  {
-   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-09-10T16:30:35+00:00"
-  },
-  {
-   "title": "Physical AI Takes the Wheel: How the World\u2019s Robotaxi Leaders Are Building With NVIDIA Technologies",
-   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-09-10T16:00:04+00:00"
-  },
-  {
-   "title": "LUMI AI Factory Selects IQM\u2019s Staged Path to Europe\u2019s First Superconducting Quantum Computer With Logical Qubits",
-   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/lumi-ai-factory-selects-iqms-staged-path-to-europes-first-superconducting-quantum-computer-with-logical-qubits",
-   "source": "Financial Post",
-   "category": "quantum",
-   "published": "2026-09-10T07:11:51+00:00"
-  },
-  {
-   "title": "Introducing ChatGPT for Financial Services",
-   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-10T07:00:00+00:00"
-  },
-  {
-   "title": "Taiwan chipmakers target humanoid robots beyond the 'brain,' focusing on vision, motor control",
-   "url": "https://www.digitimes.com/news/a20260910PD220/chipmakers-ic-design-arm-robotics-market.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-09-10T04:22:56+00:00"
-  },
-  {
-   "title": "Beyond the stage, can XPeng's EV playbook scale humanoid robots?",
-   "url": "https://www.digitimes.com/news/a20260909VL227/robotics-manufacturing-xpeng-production-robot.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-09-10T04:14:54+00:00"
-  },
-  {
-   "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-10T00:00:00+00:00"
   },
   {
    "title": "Introducing the Agents API",
@@ -34860,146 +35001,6 @@
    "source": "Crypto Briefing",
    "category": "ai",
    "published": "2026-06-27T14:21:32+00:00"
-  },
-  {
-   "title": "The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back",
-   "url": "https://biztoc.com/x/9f64db86fda78923",
-   "source": "Biztoc.com",
-   "category": "health",
-   "published": "2026-06-27T14:08:31+00:00"
-  },
-  {
-   "title": "humanoid-crud added to PyPI",
-   "url": "https://pypi.org/project/humanoid-crud/",
-   "source": "Pypi.org",
-   "category": "robotics",
-   "published": "2026-06-27T10:31:40+00:00"
-  },
-  {
-   "title": "humanoid-crud 0.1.0",
-   "url": "https://pypi.org/project/humanoid-crud/0.1.0/",
-   "source": "Pypi.org",
-   "category": "robotics",
-   "published": "2026-06-27T10:31:40+00:00"
-  },
-  {
-   "title": "humanoid-login added to PyPI",
-   "url": "https://pypi.org/project/humanoid-login/",
-   "source": "Pypi.org",
-   "category": "robotics",
-   "published": "2026-06-27T06:24:02+00:00"
-  },
-  {
-   "title": "Improving the speed and energy-efficiency of AI agents",
-   "url": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-06-25T04:00:00+00:00"
-  },
-  {
-   "title": "Launches BioNeMo Agent Toolkit to Accelerate AI-Driven Scientific Discovery in Life Sciences",
-   "url": "https://biztoc.com/x/6d77c6775c57e87f",
-   "source": "Biztoc.com",
-   "category": "health",
-   "published": "2026-06-27T13:09:34+00:00"
-  },
-  {
-   "title": "Nvidia invests in Generate Biomedicines, targeting $1.8T market with AI-driven drug discovery",
-   "url": "https://cryptobriefing.com/nvidia-invests-generate-biomedicines-ai-drug-discovery/",
-   "source": "Crypto Briefing",
-   "category": "health",
-   "published": "2026-06-27T11:39:02+00:00"
-  },
-  {
-   "title": "Aarogya Setu 2.0 to drug registry: Govt to launch various digital healthcare initiatives on June 29",
-   "url": "https://www.thehindubusinessline.com/news/aarogya-setu-20-to-drug-registry-govt-to-launch-various-digital-healthcare-initiatives-on-june-29/article71154033.ece",
-   "source": "BusinessLine",
-   "category": "health",
-   "published": "2026-06-27T11:31:38+00:00"
-  },
-  {
-   "title": "NASA tests AI medic for astronauts too far from Earth to call a doctor",
-   "url": "https://biztoc.com/x/1b50e376134bfd7b",
-   "source": "Biztoc.com",
-   "category": "health",
-   "published": "2026-06-27T10:50:51+00:00"
-  },
-  {
-   "title": "Galaxy Watch Health Data Is Shaping Samsung\u2019s Future Clinical Research",
-   "url": "https://www.successful-blog.com/1/galaxy-watch-health-data/",
-   "source": "Successful-blog.com",
-   "category": "health",
-   "published": "2026-06-27T10:43:59+00:00"
-  },
-  {
-   "title": "India's digital health ecosystem set for a boost with new initiatives",
-   "url": "https://newsable.asianetnews.com/india/indias-digital-health-ecosystem-set-for-a-boost-with-new-initiatives-articleshow-mwworgx",
-   "source": "Asianetnews.com",
-   "category": "health",
-   "published": "2026-06-27T08:55:13+00:00"
-  },
-  {
-   "title": "Digital Health Tools Are Transforming Patient Care Models",
-   "url": "https://www.worldpharmatoday.com/it-data-management/digital-health-tools-are-transforming-patient-care-models/",
-   "source": "Worldpharmatoday.com",
-   "category": "health",
-   "published": "2026-06-27T08:16:01+00:00"
-  },
-  {
-   "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia) | TechCrunch",
-   "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-   "source": "TechCrunch",
-   "category": "compute",
-   "published": "2026-06-26T17:43:22+00:00"
-  },
-  {
-   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
-   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
-   "source": "Microsoft Research",
-   "category": "health",
-   "published": "2026-06-24T14:00:14+00:00"
-  },
-  {
-   "title": "OpenAI GPT 5.6 system card: model blocks end-to-end attacks",
-   "url": "https://4sysops.com/archives/openai-gpt-5-6-system-card-model-blocks-end-to-end-attacks/",
-   "source": "4sysops.com",
-   "category": "ai",
-   "published": "2026-06-27T08:47:48+00:00"
-  },
-  {
-   "title": "US approves Anthropic\u2019s Mythos AI release to trusted organizations",
-   "url": "https://cryptobriefing.com/anthropic-mythos-ai-approval-trusted-organizations/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-06-27T08:19:43+00:00"
-  },
-  {
-   "title": "IIT Bombay, New York University announce collaboration in engineering education, research",
-   "url": "https://economictimes.indiatimes.com/industry/services/education/iit-bombay-new-york-university-announce-collaboration-in-engineering-education-research/articleshow/132028189.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-06-27T03:47:09+00:00"
-  },
-  {
-   "title": "FAA Announces AI Models To Fix Its Safety And Congestion Issues",
-   "url": "https://www.jalopnik.com/2201952/faa-to-use-palantir-owned-ai-models-to-fix-safety-and-congestion-issues/",
-   "source": "Jalopnik",
-   "category": "ai",
-   "published": "2026-06-27T03:25:00+00:00"
-  },
-  {
-   "title": "SpaceX set to join Nasdaq 100, paving way for wave of passive buying",
-   "url": "https://economictimes.indiatimes.com/tech/technology/spacex-set-to-join-nasdaq-100-paving-way-for-wave-of-passive-buying/articleshow/132028066.cms",
-   "source": "The Times of India",
-   "category": "robotics",
-   "published": "2026-06-27T03:22:22+00:00"
-  },
-  {
-   "title": "NVIDIA\u2019s New AI Servers Run on Hotub Coolant and Don\u2019t Need Evaporators",
-   "url": "https://hackaday.com/2026/06/26/nvidias-new-ai-servers-run-on-hotub-coolant-and-dont-need-evaporators/",
-   "source": "Hackaday",
-   "category": "compute",
-   "published": "2026-06-27T02:00:36+00:00"
   }
  ]
 }
