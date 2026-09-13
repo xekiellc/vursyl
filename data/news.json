@@ -1,12 +1,132 @@
 {
- "updated": "2026-09-13T11:26:27.730737+00:00",
+ "updated": "2026-09-13T15:55:17.316215+00:00",
  "items": [
   {
-   "title": "How AI can help with early schizophrenia diagnosis",
-   "url": "https://knowablemagazine.org/content/article/mind/2026/how-ai-can-listen-for-signs-of-schizophrenia",
-   "source": "Knowablemagazine.org",
+   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+   "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-14T00:00:00+00:00"
+  },
+  {
+   "title": "Dell Technologies: AI Orders Surge as Storage Growth Builds and Supply Tightens",
+   "url": "https://biztoc.com/x/60794dd34361b90b",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-09-12T15:30:12+00:00"
+  },
+  {
+   "title": "Anthropic Says It Blocked AI Misuse That Could Create Biological Weapons",
+   "url": "https://www.pbs.org/newshour/nation/anthropic-says-it-blocked-misuse-of-its-ai-that-could-have-supported-biological-weapons",
+   "source": "PBS",
+   "category": "ai",
+   "published": "2026-09-12T15:21:15+00:00"
+  },
+  {
+   "title": "Tiny sound waves could help solve a major quantum computing problem",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
+   "source": "Science Daily",
+   "category": "quantum",
+   "published": "2026-09-12T14:08:20+00:00"
+  },
+  {
+   "title": "NXP Semiconductors Eyes Physical AI Leadership, Sees Data Center Growth Surge",
+   "url": "https://www.marketbeat.com/instant-alerts/event-nxp-semiconductors-eyes-physical-ai-leadership-sees-data-center-growth-surge-2026-09-12/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+   "source": "MarketBeat",
+   "category": "compute",
+   "published": "2026-09-12T13:02:00+00:00"
+  },
+  {
+   "title": "AI-Designed Drug Makes Patients' Blood Look Biologically Younger, Study Shows",
+   "url": "https://www.sciencealert.com/ai-designed-drug-makes-patients-blood-look-biologically-younger-study-shows",
+   "source": "ScienceAlert",
    "category": "health",
-   "published": "2026-09-12T11:00:00+00:00"
+   "published": "2026-09-12T12:00:00+00:00"
+  },
+  {
+   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+   "url": "https://biztoc.com/x/4946febc5e6442b5",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-09-11T23:10:20+00:00"
+  },
+  {
+   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data | TechCrunch",
+   "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+   "source": "TechCrunch",
+   "category": "robotics",
+   "published": "2026-09-11T22:58:17+00:00"
+  },
+  {
+   "title": "Robotics meets ultrafast lasers: Could a new generation of tools transform manufacturing?",
+   "url": "https://www.digitaljournal.com/article/robotics-meets-ultrafast-lasers-could-a-new-generation-of-tools-transform-manufacturing/",
+   "source": "Digital Journal",
+   "category": "robotics",
+   "published": "2026-09-11T21:02:40+00:00"
+  },
+  {
+   "title": "Pudu Robotics\u2019 PUDU D7 just picked up an IFA Innovation Award\u2013Here\u2019s why we\u2019re paying attention",
+   "url": "https://thegadgetflow.com/blog/pudu-robotics-pudu-d7-ifa-2026-review/",
+   "source": "Gadget Flow",
+   "category": "robotics",
+   "published": "2026-09-11T20:34:08+00:00"
+  },
+  {
+   "title": "A 1,000x computing speed boost could make quantum machines more reliable by tackling one of their biggest problems; here\u2019s how",
+   "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-1000x-computing-speed-boost-could-make-quantum-machines-more-reliable-by-tackling-one-of-their-biggest-problems-heres-how/articleshow/134077240.cms",
+   "source": "The Times of India",
+   "category": "quantum",
+   "published": "2026-09-11T16:06:47+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Cognition helps Devin test its own work with GPT\u20116 Astra",
+   "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-11T16:00:00+00:00"
+  },
+  {
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-11T10:00:00+00:00"
+  },
+  {
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-10T16:00:00+00:00"
+  },
+  {
+   "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+   "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-09-10T13:00:21+00:00"
+  },
+  {
+   "title": "Introducing ChatGPT for Financial Services",
+   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-10T07:00:00+00:00"
+  },
+  {
+   "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-10T00:00:00+00:00"
+  },
+  {
+   "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+   "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-09-09T20:40:00+00:00"
   },
   {
    "title": "Apple's A20 Pro shatters Geekbench 7 single-core record \u2014 2nm chip beats desktop Intel Core i9 and AMD Ryzen 9 by up to 32%",
@@ -37,60 +157,11 @@
    "published": "2026-09-12T10:00:00+00:00"
   },
   {
-   "title": "IBM Quantum System Two Heads to Switzerland: 120-Qubit Nighthawk r2 at CSCS by End of 2026",
-   "url": "https://www.storagereview.com/news/ibm-quantum-system-two-heads-to-switzerland-120-qubit-nighthawk-r2-at-cscs-by-end-of-2026",
-   "source": "Storagereview.com",
-   "category": "quantum",
-   "published": "2026-09-11T16:25:47+00:00"
-  },
-  {
    "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
    "url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
    "source": "Ieee.org",
    "category": "robotics",
    "published": "2026-09-11T15:30:04+00:00"
-  },
-  {
-   "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
-   "url": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-09-11T13:45:00+00:00"
-  },
-  {
-   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-09-10T16:30:35+00:00"
-  },
-  {
-   "title": "Physical AI Takes the Wheel: How the World\u2019s Robotaxi Leaders Are Building With NVIDIA Technologies",
-   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-09-10T16:00:04+00:00"
-  },
-  {
-   "title": "Now everyone can put data to work",
-   "url": "https://openai.com/index/put-data-to-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-10T15:00:00+00:00"
-  },
-  {
-   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-   "url": "https://openai.com/index/expanding-ai-access-us-government",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-10T07:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-   "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-09-09T16:00:42+00:00"
   },
   {
    "title": "A 1998 Data Center Company that Found its Own AI Niche",
@@ -34930,69 +35001,6 @@
    "source": "Biztoc.com",
    "category": "compute",
    "published": "2026-06-28T19:03:48+00:00"
-  },
-  {
-   "title": "BofA is Bullish on Applied Materials, Inc. (AMAT)",
-   "url": "https://biztoc.com/x/103f63f441d0fb12",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-06-28T19:03:44+00:00"
-  },
-  {
-   "title": "Barclays Maintained an \u201cOverweight\u201d rating on Lam Research Corporation (LRCX)",
-   "url": "https://biztoc.com/x/cff453e840f5e80b",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-06-28T19:03:43+00:00"
-  },
-  {
-   "title": "martino-summarize added to PyPI",
-   "url": "https://pypi.org/project/martino-summarize/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:03:42+00:00"
-  },
-  {
-   "title": "Is NVIDIA Corporation (NVDA) One of the Best Semiconductor Stocks to Buy According to Billionaires?",
-   "url": "https://biztoc.com/x/3400bba90ef32a15",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-06-28T19:03:32+00:00"
-  },
-  {
-   "title": "Taiwan Semiconductor Manufacturing Company (TSM)\u2019s Monthly Sales Rise",
-   "url": "https://biztoc.com/x/61fa90127cd75752",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-06-28T19:03:22+00:00"
-  },
-  {
-   "title": "Delivering healthcare AI success with sound foundations and a systemic approach",
-   "url": "https://www.itnews.com.au/feature/delivering-healthcare-ai-success-with-sound-foundations-and-a-systemic-approach-626724",
-   "source": "iTnews",
-   "category": "health",
-   "published": "2026-06-28T18:00:00+00:00"
-  },
-  {
-   "title": "I used Claude Code to get a second opinion on my MRI",
-   "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-   "source": "Antoine.fi",
-   "category": "health",
-   "published": "2026-06-28T16:35:19+00:00"
-  },
-  {
-   "title": "Researchers built an AI therapist that reads your smartwatch and earbuds to detect distress before you ask for help",
-   "url": "https://thenextweb.com/news/ubimytherapist-ai-smartwatch-mental-health-proactive/",
-   "source": "The Next Web",
-   "category": "health",
-   "published": "2026-06-28T16:19:04+00:00"
-  },
-  {
-   "title": "World\u2019s First AGI \u2018Smart City\u2019 Clinical Trial Opens Waiting List This Monday (Veterans First for America)",
-   "url": "https://www.globenewswire.com/news-release/2026/06/28/3318607/0/en/World-s-First-AGI-Smart-City-Clinical-Trial-Opens-Waiting-List-This-Monday-Veterans-First-for-America.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-06-28T16:11:00+00:00"
   }
  ]
 }
