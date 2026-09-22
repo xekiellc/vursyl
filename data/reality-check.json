@@ -1,6 +1,101 @@
 {
- "updated": "2026-09-22T11:16:12.723936+00:00",
+ "updated": "2026-09-22T16:38:13.975414+00:00",
  "entries": [
+  {
+   "claim": "AI is so dangerous that the UN says traditional safety measures are completely falling apart and we need emergency action now",
+   "verdict": "Misleading",
+   "verdict_summary": "The UN panel flagged governance gaps, not evidence of AI catastrophe \u2014 the actual report calls for proactive frameworks, not panic.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The UN's AI advisory panel did release a substantive report warning that existing regulatory and safety institutions were designed for slower-moving technologies and may not be adequate for AI's pace of development. That concern is legitimate. AI systems are being deployed at scale in high-stakes domains \u2014 healthcare, defense, finance \u2014 faster than independent audit infrastructure has matured. When a UN body says safeguards can't wait for certainty, they are correct that waiting for perfect information before acting is itself a policy choice with real costs.",
+   "what_data_shows": "The UN report explicitly does not claim AI is causing catastrophic harm today. It recommends establishing an international scientific panel on AI (modeled on the IPCC), a standards exchange, and a capacity-building fund \u2014 institutional infrastructure, not crisis response. The EU AI Act, already enacted, classifies and regulates high-risk AI systems across biometrics, critical infrastructure, and employment. The US Executive Order on AI (October 2023) mandated safety evaluations for frontier models above 10^26 FLOPs. Over 30 countries now have formal national AI strategies with safety components. The governance machinery is being built \u2014 it is not absent.",
+   "bigger_picture": "Framing proactive institutional design as evidence that AI is 'unraveling' safety inverts the story. The fact that the UN, EU, and major governments are acting before a catastrophe \u2014 rather than after \u2014 is precisely what responsible technology governance looks like. The headlines that treat forward-looking policy recommendations as proof of present danger are doing readers a disservice. The actual trajectory is one of accelerating governance investment alongside accelerating capability \u2014 not a race between reckless AI and a helpless world.",
+   "data_points": [
+    {
+     "n": "30+",
+     "l": "countries with formal national AI safety strategies as of 2024"
+    },
+    {
+     "n": "10^26 FLOPs",
+     "l": "US threshold triggering mandatory safety reporting for frontier AI models under Biden's 2023 Executive Order"
+    },
+    {
+     "n": "7 categories",
+     "l": "of high-risk AI application regulated under the EU AI Act, already enacted into law"
+    }
+   ],
+   "tags": [
+    "safety",
+    "regulation",
+    "AI governance"
+   ],
+   "generated": "2026-09-22T16:38:13.967811+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI killed 123 children in a US military strike \u2014 proof that autonomous AI weapons are making lethal decisions without human oversight",
+   "verdict": "Misleading",
+   "verdict_summary": "Pentagon investigators blamed over-reliance on Palantir's intelligence-analysis software by human commanders, not autonomous AI weapons making kill decisions.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The strike that killed over 100 civilians, including children, in a military operation is a genuine and devastating tragedy that demands accountability. Pentagon investigators did find that Palantir's AI-assisted targeting and intelligence tools were used in the decision chain, and that personnel placed excessive confidence in software outputs without sufficient independent verification. That is a real and documented failure mode \u2014 automation bias, where humans defer too readily to algorithmic outputs, is well-established in human factors research and is a serious concern in high-stakes environments.",
+   "what_data_shows": "Critically, Palantir's software is an intelligence analysis and data-fusion platform \u2014 it surfaces patterns and targets for human review, it does not autonomously authorize or execute strikes. The Department of Defense's own Directive 3000.09, updated in 2023, requires that lethal force decisions retain 'appropriate levels of human judgment.' The failure identified was human commanders over-trusting software outputs, a command accountability failure, not evidence of autonomous AI weapons firing without oversight. Automation bias has been documented in aviation, medicine, and finance \u2014 this is a training and process failure, not a fundamental indictment of AI-assisted analysis tools.",
+   "bigger_picture": "Conflating AI-assisted intelligence analysis with autonomous lethal AI systems is a category error that distorts both the accountability question and the policy response. The lesson from this tragedy is that human operators need better training to critically evaluate algorithmic outputs \u2014 not that AI analysis tools are inherently lethal. Removing AI from intelligence analysis would not make military decisions safer; it would make them slower and more dependent on individual analyst bias. The right response is stronger human-oversight protocols, clearer command accountability, and better automation-bias training \u2014 all of which are addressable.",
+   "data_points": [
+    {
+     "n": "DoD Directive 3000.09",
+     "l": "US policy requiring human judgment in lethal force decisions, updated 2023"
+    },
+    {
+     "n": "70%+",
+     "l": "of medical diagnostic errors in one Johns Hopkins study linked to automation bias \u2014 showing this is a cross-domain human factors problem, not unique to AI"
+    },
+    {
+     "n": "0",
+     "l": "fully autonomous lethal weapons systems authorized for deployment under current US DoD policy"
+    }
+   ],
+   "tags": [
+    "safety",
+    "military AI",
+    "automation bias",
+    "accountability"
+   ],
+   "generated": "2026-09-22T16:38:13.967811+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Data centers are facing a massive $68 billion opposition wave \u2014 communities are waking up and rejecting AI infrastructure everywhere",
+   "verdict": "Misleading",
+   "verdict_summary": "Localized opposition to specific projects reflects legitimate siting disputes, not a broad public rejection of data center investment, which continues to accelerate globally.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "Opposition to specific data center projects is real and often grounded in legitimate local concerns: water consumption in drought-stressed regions, grid strain in areas with aging infrastructure, noise from cooling systems, and the pace of zoning changes in rural communities. A $68 billion figure for projects hitting roadblocks sounds alarming, and some projects have genuinely been delayed or canceled. Republican voters in non-traditional tech states \u2014 at 47% opposition per The Next Web's cited polling \u2014 reflect genuine unease about the physical footprint of AI buildout in communities that weren't consulted.",
+   "what_data_shows": "Global data center investment hit approximately $340 billion in 2024 according to JLL and CBRE market reports, with the US accounting for over 40% of global capacity. Projects hitting 'roadblocks' represent a fraction of total committed capital. Microsoft alone announced $80 billion in data center investment for fiscal 2025. Amazon, Google, and Meta have each committed tens of billions in multi-year infrastructure programs. The IEA's 2024 Electricity report projects data center electricity demand doubling by 2026 globally \u2014 driven by investment that is actively flowing, not stalling. Individual project delays are normal in large infrastructure development and do not indicate systemic rejection.",
+   "bigger_picture": "The $68 billion figure reframes normal infrastructure friction as a social movement, which the data does not support. Large capital projects \u2014 power plants, transmission lines, semiconductor fabs \u2014 routinely face local opposition and permitting delays; that is how democratic infrastructure siting works. The story that communities are 'waking up to reject AI' misses that hundreds of billions in data center projects are advancing in parallel. The actual policy challenge is smarter siting, community benefit agreements, and grid modernization \u2014 not whether AI infrastructure gets built, but how it gets built well.",
+   "data_points": [
+    {
+     "n": "$340B",
+     "l": "global data center investment in 2024, per JLL and CBRE \u2014 the largest single-year total on record"
+    },
+    {
+     "n": "$80B",
+     "l": "Microsoft's data center capital commitment for fiscal year 2025 alone"
+    },
+    {
+     "n": "2x",
+     "l": "projected growth in global data center electricity demand by 2026, per the IEA 2024 Electricity report"
+    }
+   ],
+   "tags": [
+    "energy",
+    "infrastructure",
+    "data centers",
+    "investment"
+   ],
+   "generated": "2026-09-22T16:38:13.967811+00:00",
+   "auto": true
+  },
   {
    "claim": "AI killed 123 Iranian children \u2014 the Pentagon is admitting AI can't be trusted in military operations",
    "verdict": "Misleading",

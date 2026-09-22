@@ -1,32 +1,124 @@
 {
- "updated": "2026-09-22T11:16:12.723936+00:00",
+ "updated": "2026-09-22T16:38:13.975414+00:00",
  "items": [
   {
-   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+   "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+   "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
    "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-09-22T12:00:41+00:00"
+  },
+  {
+   "title": "Data Center in Denmark Uses Its Wasted Heat To Help Warm 11,000 Local Homes",
+   "url": "https://mymodernmet.com/danish-data-centre-heats-homes/",
+   "source": "My Modern Met",
    "category": "compute",
-   "published": "2026-09-21T18:00:07+00:00"
+   "published": "2026-09-21T16:35:41+00:00"
   },
   {
-   "title": "From Enablement to Execution, Egypt\u2019s AI Ecosystem Reaches Production Scale",
-   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+   "title": "Run Positron on Amazon SageMaker AI for data science workflows",
+   "url": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-09-21T16:34:21+00:00"
+  },
+  {
+   "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+   "url": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-09-21T16:27:34+00:00"
+  },
+  {
+   "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+   "url": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/",
+   "source": "Amazon.com",
+   "category": "health",
+   "published": "2026-09-21T16:24:40+00:00"
+  },
+  {
+   "title": "Show HN: Fusion-runtime \u2013 self-hosted voice agents, STT+LLM+TTS in one process",
+   "url": "https://github.com/SamarthUrs18/fusion-runtime",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-09-21T16:19:54+00:00"
+  },
+  {
+   "title": "AMD briefly tops $1 trillion market cap as AI push fuels record rally, shares up 9%",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/amd-briefly-tops-1-trillion-market-cap-as-ai-push-fuels-record-rally-shares-up-9/articleshow/134393413.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-09-21T16:19:08+00:00"
+  },
+  {
+   "title": "Meta\u2019s Muse Agent Sparks \u2018Claude Code\u2019 Moment For CPUs, As 40:1 CPU-To-GPU Ratio Poised To Reshape Intel, AMD, And Arm\u2019s Fortunes",
+   "url": "https://wccftech.com/metas-muse-agent-sparks-claude-code-moment-for-cpus-as-401-cpu-to-gpu-ratio-poised-to-reshape-intel-amd-and-arms-fortunes/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-09-21T16:11:53+00:00"
+  },
+  {
+   "title": "FCT Introduces Liquid Leak Detection Flex Assembly for AI and High-Performance Computing Systems",
+   "url": "https://www.prnewswire.com/news-releases/fct-introduces-liquid-leak-detection-flex-assembly-for-ai-and-high-performance-computing-systems-302884945.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-09-21T16:03:00+00:00"
+  },
+  {
+   "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+   "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+   "source": "Nvidia.com",
+   "category": "robotics",
+   "published": "2026-09-21T16:00:46+00:00"
+  },
+  {
+   "title": "Grok 4.7",
+   "url": "https://x.ai/news/grok-4-7",
+   "source": "X.ai",
+   "category": "ai",
+   "published": "2026-09-21T15:50:15+00:00"
+  },
+  {
+   "title": "Angle Health Raises $600 Million at a $2.7 Billion Valuation to Continue Expanding Affordable Healthcare Access for Small Businesses",
+   "url": "https://techrseries.com/employee-engagement/angle-health-raises-600-million-at-a-2-7-billion-valuation-to-continue-expanding-affordable-healthcare-access-for-small-businesses/",
+   "source": "Techrseries.com",
+   "category": "health",
+   "published": "2026-09-21T15:45:06+00:00"
+  },
+  {
+   "title": "Anthropic sets up biology lab as it ramps AI drug program",
+   "url": "https://roanoke.com/news/nation-world/science/article_eb72dc18-6cd2-507a-854b-9a7eb79ed645.html",
+   "source": "Roanoke Times",
+   "category": "ai",
+   "published": "2026-09-21T15:30:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "AI Security Is an Engineering Problem \u2014 How to Solve It at Every Layer of the Agent Stack",
+   "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
    "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-09-21T16:00:10+00:00"
+   "published": "2026-09-21T14:51:34+00:00"
   },
   {
-   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
-   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
-   "source": "Microsoft Research",
-   "category": "breakthroughs",
-   "published": "2026-09-21T15:30:19+00:00"
+   "title": "Regeneration programs buffer genetic defects in animal development",
+   "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004011",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-09-21T14:00:00+00:00"
   },
   {
-   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-   "source": "OpenAI",
-   "category": "ai",
+   "title": "Samsung poaches Stanford AI scholar to push into robots and wearables",
+   "url": "https://www.intomobile.com/2026/09/21/samsung-poaches-stanford-ai-scholar-to-push-into-robots-and-wearables/",
+   "source": "Intomobile.com",
+   "category": "robotics",
+   "published": "2026-09-21T12:17:00+00:00"
+  },
+  {
+   "title": "Pudu Robotics Showcases PUDU GT Series and Intelligent Grounds Care Solutions at GaLaBau 2026",
+   "url": "https://www.prnewswire.com/news-releases/pudu-robotics-showcases-pudu-gt-series-and-intelligent-grounds-care-solutions-at-galabau-2026-302884653.html",
+   "source": "PRNewswire",
+   "category": "robotics",
    "published": "2026-09-21T12:00:00+00:00"
   },
   {
@@ -128,24 +220,10 @@
    "published": "2026-09-21T10:55:18+00:00"
   },
   {
-   "title": "Samsung hires Stanford AI scholar to lead its AI development in North America",
-   "url": "https://www.sammobile.com/news/samsung-hires-stanford-ai-scholar-lead-ai-development-north-america/",
-   "source": "SamMobile",
-   "category": "ai",
-   "published": "2026-09-21T10:54:42+00:00"
-  },
-  {
-   "title": "5 Companies Using NVIDIA AI for Clean Energy",
-   "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-09-21T10:00:35+00:00"
-  },
-  {
-   "title": "Building standards for the next phase of AI",
-   "url": "https://openai.com/index/building-standards-next-phase-ai",
-   "source": "OpenAI",
-   "category": "ai",
+   "title": "Real-time pseudoentropy and modular-Hamiltonian correlations",
+   "url": "https://link.aps.org/doi/10.1103/mmyj-pp8f",
+   "source": "Aps.org",
+   "category": "quantum",
    "published": "2026-09-21T10:00:00+00:00"
   },
   {
@@ -174,15 +252,7 @@
    "url": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
    "source": "Mit.edu",
    "category": "health",
-   "published": "2026-09-21T09:00:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Expanding OpenAI Academy with new learning paths",
-   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-21T07:00:00+00:00"
+   "published": "2026-09-21T09:00:00+00:00"
   },
   {
    "title": "Dongfeng\u2019s Xiaodong humanoid robot is scheduled to enter a factory in October",
@@ -309,13 +379,6 @@
    "source": "Gadget Flow",
    "category": "robotics",
    "published": "2026-09-21T00:00:35+00:00"
-  },
-  {
-   "title": "How V7 gives AI agents institutional memory",
-   "url": "https://openai.com/index/v7",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-21T00:00:00+00:00"
   },
   {
    "title": "Interpreting human genetic variation at atomic resolution",
@@ -34938,69 +35001,6 @@
    "source": "The Next Web",
    "category": "ai",
    "published": "2026-06-29T13:36:59+00:00"
-  },
-  {
-   "title": "Attunio Health Unveils Infrastructure for Measurable Mental Healthcare",
-   "url": "https://www.prnewswire.com/news-releases/attunio-health-unveils-infrastructure-for-measurable-mental-healthcare-302813241.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-29T13:33:00+00:00"
-  },
-  {
-   "title": "Redesign Health Partners With Sky Impact Capital as It Enters India to Back Next-Generation Healthcare AI Companies",
-   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/redesign-health-partners-with-sky-impact-capital-as-it-enters-india-to-back-next-generation-healthcare-ai-companies/article71160922.ece",
-   "source": "BusinessLine",
-   "category": "health",
-   "published": "2026-06-29T13:28:35+00:00"
-  },
-  {
-   "title": "SandboxAQ to Bring Large Quantitative Models to Google Cloud's Marketplace",
-   "url": "https://www.prnewswire.com/news-releases/sandboxaq-to-bring-large-quantitative-models-to-google-clouds-marketplace-302812643.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-06-29T13:00:00+00:00"
-  },
-  {
-   "title": "Artelo Biosciences Presents Clinical and Biomarker Data Supportive of the Development of ART26.12 and Follow-On FABP5 Inhibitors at ICRS 2026",
-   "url": "https://www.globenewswire.com/news-release/2026/06/29/3318967/0/en/Artelo-Biosciences-Presents-Clinical-and-Biomarker-Data-Supportive-of-the-Development-of-ART26-12-and-Follow-On-FABP5-Inhibitors-at-ICRS-2026.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-06-29T12:45:00+00:00"
-  },
-  {
-   "title": "Samsung is investing $1.72 trillion to prepare infrastructure for the AI era",
-   "url": "https://www.sammobile.com/news/samsung-investing-usd-1-72-trillion-prepare-infrastructure-ai-era/",
-   "source": "SamMobile",
-   "category": "compute",
-   "published": "2026-06-29T12:44:32+00:00"
-  },
-  {
-   "title": "Oncotelic Announces Peer-Reviewed Validation of Deciparticle\u2122 Platform Supporting Clinical Development of Sapu003",
-   "url": "https://www.globenewswire.com/news-release/2026/06/29/3318946/0/en/Oncotelic-Announces-Peer-Reviewed-Validation-of-Deciparticle-Platform-Supporting-Clinical-Development-of-Sapu003.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-06-29T12:30:00+00:00"
-  },
-  {
-   "title": "XPENG unveils autonomous driving AI roadmap and World Model vision at CVPR 2026",
-   "url": "https://cryptobriefing.com/xpeng-autonomous-driving-ai-roadmap-cvpr-2026/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-06-29T12:05:37+00:00"
-  },
-  {
-   "title": "South Korea AI investment: $880bn for chips and robots",
-   "url": "https://thenextweb.com/news/south-korea-ai-investment-880bn-chips-data-centres/",
-   "source": "The Next Web",
-   "category": "compute",
-   "published": "2026-06-29T11:42:39+00:00"
-  },
-  {
-   "title": "Global Digital Economy Conference 2026 to Present a \"Digital Feast\"",
-   "url": "https://www.globenewswire.com/news-release/2026/06/29/3318857/0/en/Global-Digital-Economy-Conference-2026-to-Present-a-Digital-Feast.html",
-   "source": "GlobeNewswire",
-   "category": "breakthroughs",
-   "published": "2026-06-29T11:17:00+00:00"
   }
  ]
 }
