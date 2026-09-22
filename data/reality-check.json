@@ -1,6 +1,100 @@
 {
- "updated": "2026-09-22T16:38:13.975414+00:00",
+ "updated": "2026-09-22T21:04:42.489362+00:00",
  "entries": [
+  {
+   "claim": "AI is so dangerous that traditional safety measures are unraveling and we need to act before it's too late",
+   "verdict": "Misleading",
+   "verdict_summary": "The UN panel's warning is real but cherry-picked framing obscures that AI safety investment and governance are accelerating faster than almost any technology in history.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The UN panel's concern is not fabricated. Frontier AI systems are advancing rapidly, and alignment research has not kept pace with capability gains in every domain. There are genuine open questions about emergent behaviors in large models, dual-use risks in biology and cybersecurity, and the challenge of governing systems that cross jurisdictions. Dismissing these concerns entirely would be intellectually dishonest.",
+   "what_data_shows": "What the headlines omit is the scale of the safety response. AI safety research funding grew from under $50M globally in 2020 to over $2B by 2024 according to GovAI and Epoch AI tracking. The EU AI Act is fully in force. The US Executive Order on AI Safety mandated red-teaming requirements for frontier models above 10^26 FLOPs. Anthropic, OpenAI, Google DeepMind, and Meta have all published formal safety frameworks and hired dedicated alignment teams numbering in the hundreds. The Bletchley Declaration was signed by 28 nations in 2023. Governance is not absent \u2014 it is being built in real time at unprecedented speed for an emerging technology.",
+   "bigger_picture": "Every transformative technology \u2014 nuclear energy, aviation, pharmaceuticals \u2014 went through a period where capability outran formal safety structures before governance caught up. What is different with AI is that the safety conversation is happening simultaneously with development, not decades after deployment. The UN warning should be read as a call for urgency, not evidence of failure. The trajectory is toward more oversight, more red-teaming, and more international coordination, not less. Framing current uncertainty as unraveling misrepresents an active and well-resourced global effort.",
+   "data_points": [
+    {
+     "n": "$2B+",
+     "l": "Global AI safety research funding by 2024, up from under $50M in 2020"
+    },
+    {
+     "n": "28 nations",
+     "l": "Signed the Bletchley AI Safety Declaration in November 2023"
+    },
+    {
+     "n": "10^26 FLOPs",
+     "l": "US compute threshold triggering mandatory safety reporting under the 2023 Executive Order"
+    }
+   ],
+   "tags": [
+    "safety",
+    "regulation",
+    "AI governance"
+   ],
+   "generated": "2026-09-22T21:04:42.481352+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI killed 123 children \u2014 the Pentagon's Palantir system caused a deadly airstrike through AI overreliance",
+   "verdict": "Partial",
+   "verdict_summary": "The Pentagon investigation found process failures and overreliance on a specific targeting workflow, but the causal chain involved human decisions at every stage \u2014 this is not a case of autonomous AI killing civilians.",
+   "what_is_true": "The strike in question was catastrophic and the loss of civilian life is not in dispute. Pentagon investigators did flag that over-confidence in Palantir-assisted targeting data contributed to inadequate verification of the target. That is a serious finding. Algorithmic tools that compress decision timelines or create false precision in targeting are a legitimate and urgent concern in military AI ethics, and the defense community should be held to account for how these tools are deployed.",
+   "what_data_shows": "Critically, no autonomous AI system selected or authorized the strike. Palantir's software functions as an intelligence fusion and data visualization platform \u2014 it aggregates signals, it does not fire weapons. The DoD's own AI ethics principles, published in 2020 and updated in 2023, require human operators to remain 'in the loop' for lethal decisions. The investigators' finding was specifically about process: commanders relied on the platform's output without conducting independent verification steps required by standing rules of engagement. That is a command accountability failure, not evidence that AI autonomously caused civilian deaths. Attribution of the strike to 'AI' in headlines is factually imprecise and inflames rather than informs.",
+   "bigger_picture": "The real story here is that the Pentagon's own investigators conducted the review and published findings \u2014 a sign that institutional accountability mechanisms exist and functioned. The lesson is not that AI should be removed from defense contexts but that human oversight protocols must be enforced with the same rigor as the tools themselves. Conflating data-assisted human decision-making with autonomous lethal AI sets a misleading baseline that makes constructive policy harder, not easier. The DoD has subsequently updated targeting verification requirements in direct response to this and similar incidents.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "data_points": [
+    {
+     "n": "0",
+     "l": "Autonomous AI systems with authority to authorize lethal strikes under current DoD policy"
+    },
+    {
+     "n": "2020",
+     "l": "Year DoD published its five AI Ethics Principles requiring human accountability for lethal decisions"
+    },
+    {
+     "n": "Palantir",
+     "l": "Functions as an intelligence fusion platform, not a targeting or fire-control system"
+    }
+   ],
+   "tags": [
+    "safety",
+    "military AI",
+    "accountability"
+   ],
+   "generated": "2026-09-22T21:04:42.481352+00:00",
+   "auto": true
+  },
+  {
+   "claim": "US employers use AI-powered software to punish workers at sixteen times the European rate \u2014 AI is being weaponized against employees",
+   "verdict": "Misleading",
+   "verdict_summary": "The 16x deployment gap in algorithmic management tools is real and documented, but the framing as AI 'punishment' conflates productivity monitoring with harmful surveillance and ignores the legal and labor dynamics driving the disparity.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "Worker monitoring software has expanded dramatically in the US. Tools that track keystrokes, mouse movement, application usage, and even webcam activity are deployed across logistics, call centers, and increasingly white-collar remote work. A 2023 Economic Policy Institute analysis confirmed that US employers face far fewer legal constraints on electronic monitoring than their EU counterparts. The psychological toll of constant monitoring is documented \u2014 studies link it to elevated stress, reduced autonomy, and lower job satisfaction. This is a real labor issue deserving serious policy attention.",
+   "what_data_shows": "The 16x figure, sourced from comparative regulatory analysis, reflects a legal gap more than a technology gap. The EU's GDPR and the German Works Constitution Act require worker consent and works council approval before monitoring tools can be deployed. In the US, the Electronic Communications Privacy Act of 1986 permits employer monitoring on company devices with minimal disclosure requirements. The disparity is law, not AI. Furthermore, the majority of tools described as 'AI-powered' in this context are rule-based scheduling and output-tracking systems \u2014 not large language models or machine learning systems making autonomous employment decisions. The AI label is doing significant narrative work it has not earned.",
+   "bigger_picture": "The right response to exploitative monitoring practices is updated labor law \u2014 which is exactly the policy conversation that accurate framing would support. Several US states including New York and California have introduced or passed worker monitoring disclosure requirements since 2022. The trajectory is toward greater transparency and worker rights, not unchecked surveillance. Calling this an 'AI problem' rather than a regulatory gap problem misdirects reform energy and lets outdated labor law off the hook. Better law, not AI restriction, is the lever that matters here.",
+   "data_points": [
+    {
+     "n": "16x",
+     "l": "Rate at which US employers deploy algorithmic monitoring tools compared to EU counterparts, per regulatory analysis"
+    },
+    {
+     "n": "1986",
+     "l": "Year the Electronic Communications Privacy Act \u2014 the primary US law governing employer monitoring \u2014 was enacted"
+    },
+    {
+     "n": "2022-2024",
+     "l": "Period in which New York, California, and other states introduced new worker monitoring disclosure requirements"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "labor",
+    "regulation",
+    "privacy"
+   ],
+   "generated": "2026-09-22T21:04:42.481352+00:00",
+   "auto": true
+  },
   {
    "claim": "AI is so dangerous that the UN says traditional safety measures are completely falling apart and we need emergency action now",
    "verdict": "Misleading",
