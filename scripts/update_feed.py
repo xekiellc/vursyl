@@ -2,8 +2,8 @@
 """
 VURSYL feed pipeline
 Generates:
-  data/news.json         — positive news archive (append-only)
-  data/media.json        — video/podcast archive (append-only)
+  data/news.json         — positive news archive (append-only, newest first)
+  data/media.json        — video/podcast archive (append-only, newest first)
   data/reality-check.json — auto-generated Reality Check entries
 
 Env vars required:
@@ -183,7 +183,6 @@ def collect_newsapi():
   return items
 
 def collect_rc_candidates():
-  """Collect potentially doom-framed headlines for Reality Check processing."""
   items = []
   frm = (datetime.now(timezone.utc)-timedelta(hours=72)).strftime("%Y-%m-%dT%H:%M:%S")
   for q in RC_QUERIES:
@@ -375,7 +374,6 @@ def generate_reality_checks(candidates):
     return []
 
 def merge_rc(existing, new_entries):
-  """Keep newest MAX_RC_ITEMS, dedupe by claim text."""
   seen = set()
   merged = []
   for e in new_entries + existing:
@@ -439,6 +437,10 @@ def main():
   all_rc    = merge_rc(existing_rc, new_rc)
 
   stamp = datetime.now(timezone.utc).isoformat()
+
+  # Sort newest first before writing — permanent fix
+  all_news.sort(key=lambda x:x.get("published",""),reverse=True)
+  all_media.sort(key=lambda x:x.get("published",""),reverse=True)
 
   with open(OUT_NEWS,"w") as f:
     json.dump({"updated":stamp,"items":all_news},f,indent=1)
