@@ -1,6 +1,231 @@
 {
- "updated": "2026-09-22T00:15:10.834241+00:00",
+ "updated": "2026-09-22T00:29:39.426378+00:00",
  "items": [
+  {
+   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-09-21T18:00:07+00:00"
+  },
+  {
+   "title": "From Enablement to Execution, Egypt\u2019s AI Ecosystem Reaches Production Scale",
+   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-21T16:00:10+00:00"
+  },
+  {
+   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+   "source": "Microsoft Research",
+   "category": "breakthroughs",
+   "published": "2026-09-21T15:30:19+00:00"
+  },
+  {
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-21T12:00:00+00:00"
+  },
+  {
+   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-21T12:00:00+00:00"
+  },
+  {
+   "title": "5 Companies Using NVIDIA AI for Clean Energy",
+   "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-21T10:00:35+00:00"
+  },
+  {
+   "title": "Building standards for the next phase of AI",
+   "url": "https://openai.com/index/building-standards-next-phase-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-21T10:00:00+00:00"
+  },
+  {
+   "title": "Expanding OpenAI Academy with new learning paths",
+   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-21T07:00:00+00:00"
+  },
+  {
+   "title": "Analog Devices (ADI) Bets $1.35 Billion on Chips that Let Machines Think for Themselves",
+   "url": "https://wordupnews.com/business/analog-devices-adi-bets-1-35-billion-on-chips-that-let-machines-think-for-themselves/",
+   "source": "Wordupnews.com",
+   "category": "compute",
+   "published": "2026-09-21T00:26:42+00:00"
+  },
+  {
+   "title": "Show HN: Lain, a structural code graph and agent coordinator for coding agents",
+   "url": "https://github.com/spuentesp/lain",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-09-21T00:15:55+00:00"
+  },
+  {
+   "title": "OCC Opens Three Bank Doors to Stablecoins and AI Agents",
+   "url": "https://www.pymnts.com/legal/bank-regulation/2026/occ-opens-three-bank-doors-to-stablecoins-and-ai-agents/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-09-21T00:15:24+00:00"
+  },
+  {
+   "title": "India\u2019s defence push draws former govt scientists, repeat founders into startups",
+   "url": "https://www.livemint.com/companies/news/indias-defence-push-draws-former-govt-scientists-repeat-founders-into-startups-11789693190248.html",
+   "source": "Livemint",
+   "category": "ai",
+   "published": "2026-09-21T00:01:12+00:00"
+  },
+  {
+   "title": "Digit 5 Humanoid Robot",
+   "url": "https://thegadgetflow.com/?p=746419",
+   "source": "Gadget Flow",
+   "category": "robotics",
+   "published": "2026-09-21T00:00:35+00:00"
+  },
+  {
+   "title": "Improvement of personalized recommendation service level of intelligent libraries based on artificial intelligence and big data mining technology",
+   "url": "https://www.nature.com/articles/s41598-026-72513-y.pdf",
+   "source": "Nature.com",
+   "category": "ai",
+   "published": "2026-09-21T00:00:00+00:00"
+  },
+  {
+   "title": "AI co-scientists are revolutionizing how research is done",
+   "url": "https://www.nature.com/articles/d41586-026-02931-5",
+   "source": "Nature.com",
+   "category": "ai",
+   "published": "2026-09-21T00:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "How V7 gives AI agents institutional memory",
+   "url": "https://openai.com/index/v7",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-21T00:00:00+00:00"
+  },
+  {
+   "title": "inference-artifact-lab added to PyPI",
+   "url": "https://pypi.org/project/inference-artifact-lab/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-20T23:56:13+00:00"
+  },
+  {
+   "title": "AMAX expands liquid-cooled data center in push beyond hardware",
+   "url": "https://www.digitimes.com/news/a20260918PD209/amax-data-center-hardware-infrastructure-demand.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-09-20T23:45:09+00:00"
+  },
+  {
+   "title": "ACES targets AI compute and power with cable ramp-up",
+   "url": "https://www.digitimes.com/news/a20260918PD221/transmission-cables-demand-2026-asic.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-09-20T23:43:11+00:00"
+  },
+  {
+   "title": "Tyntek optical communications MPD ramps quarterly, 2027 capacity triples",
+   "url": "https://www.digitimes.com/news/a20260918PD223/tyntek-communications-capacity-2027-demand.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-09-20T23:42:45+00:00"
+  },
+  {
+   "title": "India roundup: Semicon India 2026 puts commercial production and supplier investment in focus",
+   "url": "https://www.digitimes.com/news/a20260918VL211/semicon-2026-production-commercial-investment.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-09-20T23:39:38+00:00"
+  },
+  {
+   "title": "Quote of the day by Figure AI founder and CEO Brett Adcock: 'We're building a new species here' \u2014 an audacious vision to replace manual labor with humanoid AI",
+   "url": "https://www.techradar.com/pro/quote-of-the-day-by-figure-ai-founder-and-ceo-brett-adcock-were-building-a-new-species-here-an-audacious-vision-to-replace-manual-labor-with-humanoid-ai",
+   "source": "TechRadar",
+   "category": "robotics",
+   "published": "2026-09-20T22:00:00+00:00"
+  },
+  {
+   "title": "Anglicare Victoria secures its AI adoption",
+   "url": "https://www.itnews.com.au/news/anglicare-victoria-secures-its-ai-adoption-629020",
+   "source": "iTnews",
+   "category": "ai",
+   "published": "2026-09-20T20:12:00+00:00"
+  },
+  {
+   "title": "Dynamic model routing will follow the path blazed by software-defined wide-area networks",
+   "url": "https://siliconangle.com/2026/09/20/dynamic-model-routing-will-follow-the-path-blazed-by-software-defined-wide-area-networks/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-09-20T19:32:18+00:00"
+  },
+  {
+   "title": "academic-document-checker added to PyPI",
+   "url": "https://pypi.org/project/academic-document-checker/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-20T17:14:43+00:00"
+  },
+  {
+   "title": "h1news-mcp added to PyPI",
+   "url": "https://pypi.org/project/h1news-mcp/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-20T16:43:35+00:00"
+  },
+  {
+   "title": "Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close",
+   "url": "https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close",
+   "source": "Futurism",
+   "category": "robotics",
+   "published": "2026-09-20T15:01:00+00:00"
+  },
+  {
+   "title": "Humanoid robots fight in cage match in Shanghai",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai",
+   "source": "Al Jazeera English",
+   "category": "robotics",
+   "published": "2026-09-20T14:12:28+00:00"
+  },
+  {
+   "title": "rqm-entanglement 0.2.2",
+   "url": "https://pypi.org/project/rqm-entanglement/0.2.2/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-09-20T14:06:13+00:00"
+  },
+  {
+   "title": "Japan's first robot ambulance works the 9-1-1 lines for humanoids",
+   "url": "https://newatlas.com/ai-humanoids/japan-gmo-humanoid-ambulance-robots/",
+   "source": "New Atlas",
+   "category": "robotics",
+   "published": "2026-09-20T08:03:00+00:00"
+  },
+  {
+   "title": "Meet the gig workers helping train robots to do our dishes",
+   "url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
+   "source": "ABC News (AU)",
+   "category": "robotics",
+   "published": "2026-09-20T01:41:00+00:00"
+  },
+  {
+   "title": "Tesla Engineers Audit Chinese Suppliers As Optimus Commercialization Nears",
+   "url": "https://biztoc.com/x/0e587c21012f3c43",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-09-20T00:34:06+00:00"
+  },
   {
    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -279,8 +504,7 @@
    "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-1000x-computing-speed-boost-could-make-quantum-machines-more-reliable-by-tackling-one-of-their-biggest-problems-heres-how/articleshow/134077240.cms",
    "source": "The Times of India",
    "category": "quantum",
-   "published": "2026-09-11T16:06:47+00:00",
-   "breakthrough": true
+   "published": "2026-09-11T16:06:47+00:00"
   },
   {
    "title": "Cognition helps Devin test its own work with GPT\u20116 Astra",
@@ -34777,230 +35001,6 @@
    "source": "Softpedia.com",
    "category": "compute",
    "published": "2026-06-29T02:53:01+00:00"
-  },
-  {
-   "title": "Intel Arc Graphics Driver 32.0.101.5730 for Windows 10 version 21H2 64-bit",
-   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-5730-for-Windows-10-version-21H2-64-bit.shtml",
-   "source": "Softpedia.com",
-   "category": "compute",
-   "published": "2026-06-29T02:43:02+00:00"
-  },
-  {
-   "title": "South Korean president to unveil massive AI and chip investment drive",
-   "url": "https://economictimes.indiatimes.com/tech/technology/south-korean-president-to-unveil-massive-ai-and-chip-investment-drive/articleshow/132061338.cms",
-   "source": "The Times of India",
-   "category": "breakthroughs",
-   "published": "2026-06-29T02:31:55+00:00"
-  },
-  {
-   "title": "Intel Arc Graphics Driver 32.0.101.5730 for Windows 10 64-bit",
-   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-5730-for-Windows-10-64-bit.shtml",
-   "source": "Softpedia.com",
-   "category": "compute",
-   "published": "2026-06-29T02:30:01+00:00"
-  },
-  {
-   "title": "A Doctor At Home: The Rise Of Ambient Home Health Monitoring",
-   "url": "https://www.forbes.com/sites/saibala/2026/06/28/a-doctor-at-home-the-rise-of-ambient-home-health-monitoring/",
-   "source": "Forbes",
-   "category": "health",
-   "published": "2026-06-29T02:29:54+00:00"
-  },
-  {
-   "title": "Intel Arc Graphics Driver 32.0.101.5730 for Windows 10 Vibranium 64-bit",
-   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-5730-for-Windows-10-Vibranium-64-bit.shtml",
-   "source": "Softpedia.com",
-   "category": "compute",
-   "published": "2026-06-29T02:16:01+00:00"
-  },
-  {
-   "title": "South Korea to unveil massive AI and chip investment drive",
-   "url": "https://www.channelnewsasia.com/east-asia/south-korea-ai-chip-investment-6217126",
-   "source": "CNA",
-   "category": "breakthroughs",
-   "published": "2026-06-29T02:13:00+00:00"
-  },
-  {
-   "title": "Harbour BioMed Appoints Dr. Lloyd Klickstein as Scientific Advisor for Immunology",
-   "url": "https://www.prnewswire.com/news-releases/harbour-biomed-appoints-dr-lloyd-klickstein-as-scientific-advisor-for-immunology-302812792.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-29T01:27:00+00:00"
-  },
-  {
-   "title": "$5 Billion Startup Puts Humanoid Robots to Work",
-   "url": "https://biztoc.com/x/5f52387caa1698de",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-06-29T00:08:06+00:00"
-  },
-  {
-   "title": "WIRobotics Begins Building a Physical AI Development Ecosystem: The First Technology Release Features the ALLEX Simulation Model",
-   "url": "https://www.prnewswire.com/news-releases/wirobotics-begins-building-a-physical-ai-development-ecosystem-the-first-technology-release-features-the-allex-simulation-model-302812541.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-06-29T00:00:00+00:00"
-  },
-  {
-   "title": "Distributed AI inference: What telecom service provider leaders should know",
-   "url": "https://www.redhat.com/en/blog/distributed-ai-inference-what-telecom-service-provider-leaders-should-know",
-   "source": "Redhat.com",
-   "category": "ai",
-   "published": "2026-06-29T00:00:00+00:00"
-  },
-  {
-   "title": "trialmatchai added to PyPI",
-   "url": "https://pypi.org/project/trialmatchai/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T22:25:49+00:00"
-  },
-  {
-   "title": "trialmatchai 0.2.0",
-   "url": "https://pypi.org/project/trialmatchai/0.2.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T22:25:49+00:00"
-  },
-  {
-   "title": "The Cells In Your Body Fade With Age, But There May Be a Way to Reverse It",
-   "url": "https://www.sciencealert.com/the-cells-in-your-body-fade-with-age-but-there-may-be-a-way-to-reverse-it",
-   "source": "ScienceAlert",
-   "category": "health",
-   "published": "2026-06-28T20:00:23+00:00"
-  },
-  {
-   "title": "DexCom, Inc. (DXCM) Further Advances Vision of Glucose Biosensing for All",
-   "url": "https://finance.yahoo.com/healthcare/articles/dexcom-inc-dxcm-further-advances-195820163.html",
-   "source": "Yahoo Entertainment",
-   "category": "health",
-   "published": "2026-06-28T19:58:20+00:00"
-  },
-  {
-   "title": "flyteplugins-codegen 2.5.7b1",
-   "url": "https://pypi.org/project/flyteplugins-codegen/2.5.7b1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:49:57+00:00"
-  },
-  {
-   "title": "compactpy 1.0.1",
-   "url": "https://pypi.org/project/compactpy/1.0.1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:46:53+00:00"
-  },
-  {
-   "title": "quizforge 0.1.0",
-   "url": "https://pypi.org/project/quizforge/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:45:42+00:00"
-  },
-  {
-   "title": "devtime-ei added to PyPI",
-   "url": "https://pypi.org/project/devtime-ei/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:45:39+00:00"
-  },
-  {
-   "title": "quizforge added to PyPI",
-   "url": "https://pypi.org/project/quizforge/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:45:37+00:00"
-  },
-  {
-   "title": "synthonbench added to PyPI",
-   "url": "https://pypi.org/project/synthonbench/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:37:14+00:00"
-  },
-  {
-   "title": "pystatistics 4.2.3",
-   "url": "https://pypi.org/project/pystatistics/4.2.3/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:35:40+00:00"
-  },
-  {
-   "title": "agentgrade added to PyPI",
-   "url": "https://pypi.org/project/agentgrade/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:33:27+00:00"
-  },
-  {
-   "title": "Beauty&Longevity CHOICE Awards 2027 Open for Entries, Putting Science-Led Beauty & Longevity Innovation in the Spotlight",
-   "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-ccf972c6918586dcc73b35d7ce63d1be",
-   "source": "Associated Press",
-   "category": "health",
-   "published": "2026-06-28T19:32:00+00:00"
-  },
-  {
-   "title": "proviz-elekto 0.10.8",
-   "url": "https://pypi.org/project/proviz-elekto/0.10.8/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:30:38+00:00"
-  },
-  {
-   "title": "Micron becomes one of the most profitable companies in the US",
-   "url": "https://cryptobriefing.com/micron-most-profitable-company-us/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-06-28T19:27:25+00:00"
-  },
-  {
-   "title": "tokenpak 1.10.0",
-   "url": "https://pypi.org/project/tokenpak/1.10.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:09:41+00:00"
-  },
-  {
-   "title": "proviz-elekto 0.10.7",
-   "url": "https://pypi.org/project/proviz-elekto/0.10.7/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:08:57+00:00"
-  },
-  {
-   "title": "opencomplai-ai added to PyPI",
-   "url": "https://pypi.org/project/opencomplai-ai/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:06:24+00:00"
-  },
-  {
-   "title": "opencomplai-core added to PyPI",
-   "url": "https://pypi.org/project/opencomplai-core/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-06-28T19:06:14+00:00"
-  },
-  {
-   "title": "How simulation tech can ready robots for the real world",
-   "url": "https://www.thehindubusinessline.com/business-tech/how-simulation-tech-can-ready-robots-for-the-real-world/article71158843.ece",
-   "source": "BusinessLine",
-   "category": "robotics",
-   "published": "2026-06-28T17:31:21+00:00"
-  },
-  {
-   "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-   "url": "https://openai.com/index/hp-frontier-partnership",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-28T17:00:00+00:00"
-  },
-  {
-   "title": "Previewing GPT-5.6 Sol: a next-generation model",
-   "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-06-26T10:00:00+00:00"
   }
  ]
 }
