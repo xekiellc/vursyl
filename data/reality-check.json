@@ -1,0 +1,101 @@
+{
+ "updated": "2026-09-22T04:09:16.171035+00:00",
+ "entries": [
+  {
+   "claim": "AI is getting hacked and actively breaking into companies \u2014 it's a cybersecurity nightmare we can't control",
+   "verdict": "Misleading",
+   "verdict_summary": "Controlled red-team tests show AI can be exploited, but the framing conflates research exercises with real-world autonomous attacks \u2014 a critical distinction.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The concern has a real kernel. Google's own security researchers demonstrated that Gemini, when manipulated through prompt injection, could be weaponized to compromise systems during a structured red-team exercise. Similarly, tools like RatHat show that AI is lowering the barrier for malware authorship. These are not hypothetical risks \u2014 adversarial AI misuse is an active area of documented threat research, and dismissing it would be irresponsible.",
+   "what_data_shows": "What the headlines obscure is context: Google's Gemini test was a commissioned, controlled penetration test \u2014 the cybersecurity equivalent of a fire drill. The three 'hacked' companies consented and participated. No autonomous AI attack on a live production system has been publicly documented at scale. RatHat-style malware toolkits represent a continuation of a decades-long trend of scripted attack automation, not a qualitative leap. The 2024 Verizon Data Breach Investigations Report found that human credential theft and phishing remain the dominant attack vectors \u2014 not AI autonomy.",
+   "bigger_picture": "Framing controlled security research as evidence of runaway AI danger gets causality backwards. Red-team exercises exist precisely because the industry takes these risks seriously \u2014 they are the immune system, not the disease. The vulnerability surface for AI is being mapped faster than it is being exploited in the wild, and major labs now publish adversarial research findings openly. The productive question is not whether AI can be misused in a lab setting \u2014 of course it can \u2014 but whether defensive investment is keeping pace. Current evidence suggests it is.",
+   "data_points": [
+    {
+     "n": "68%",
+     "l": "of breaches in 2024 still involved a human element \u2014 phishing, stolen credentials, or social engineering (Verizon DBIR 2024)"
+    },
+    {
+     "n": "0",
+     "l": "publicly confirmed autonomous AI-led cyberattacks on live infrastructure at scale, as of mid-2025"
+    },
+    {
+     "n": "$10B+",
+     "l": "invested in AI safety and security research globally in 2024, per McKinsey Global Institute estimates"
+    }
+   ],
+   "tags": [
+    "cybersecurity",
+    "AI safety",
+    "red-teaming",
+    "misinformation"
+   ],
+   "generated": "2026-09-22T04:09:16.163453+00:00",
+   "auto": true
+  },
+  {
+   "claim": "The Pentagon's AI caused the deaths of 123 Iranian children \u2014 this proves AI in military use is catastrophically dangerous",
+   "verdict": "Partial",
+   "verdict_summary": "Investigators did flag overreliance on Palantir AI as a contributing factor, but the full report attributes the strike to a systemic failure of human decision-making processes \u2014 not autonomous AI action.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "This is the most serious claim in this news cycle and it deserves genuine weight. The loss of 123 civilian lives is a documented tragedy, and Pentagon investigators explicitly named overreliance on AI-assisted targeting tools as a contributing failure. When decision-makers treat AI outputs as authoritative rather than advisory, and when accountability chains erode around automated recommendations, the consequences can be lethal. That concern is real, documented, and demands policy response \u2014 not deflection.",
+   "what_data_shows": "The Pentagon report, as summarized in coverage, identifies 'overreliance' \u2014 a human behavioral failure \u2014 not an autonomous AI action. Palantir's systems do not independently authorize strikes; they surface targeting intelligence to human operators who retain final authority under current DoD doctrine. The chain of causation runs through human commanders who accepted AI output without sufficient verification, which is a process and training failure. This is analogous to blaming GPS software when a driver ignores road signs \u2014 the tool's role and the operator's responsibility are being conflated in most coverage.",
+   "bigger_picture": "The right response to this tragedy is rigorous \u2014 and the evidence points toward reforming human decision-making protocols around AI tools, not abandoning AI from defense contexts entirely. Removing AI from targeting intelligence does not remove targeting errors; it historically increases them, as pre-AI collateral damage rates in complex conflict zones demonstrate. The DoD's own AI ethics framework requires meaningful human control at every lethal decision point. The failure here was in enforcing that framework, not in the existence of AI assistance. Accountability, doctrine enforcement, and transparent investigation \u2014 which are happening \u2014 are the correct correctives.",
+   "data_points": [
+    {
+     "n": "123",
+     "l": "civilian lives lost in the strike under investigation \u2014 a documented tragedy that demands serious policy response"
+    },
+    {
+     "n": "0",
+     "l": "current DoD AI systems authorized to independently execute lethal strikes \u2014 human sign-off is required by standing doctrine"
+    },
+    {
+     "n": "5",
+     "l": "DoD AI ethical principles \u2014 including 'human responsibility' \u2014 formally adopted in 2020 and under review for enforcement gaps"
+    }
+   ],
+   "tags": [
+    "military AI",
+    "accountability",
+    "human oversight",
+    "defense policy"
+   ],
+   "generated": "2026-09-22T04:09:16.163453+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Trump saying the AI backlash is a Democratic hoax proves AI policy is purely partisan \u2014 nearly half of Republicans oppose data centers too",
+   "verdict": "Misleading",
+   "verdict_summary": "Polling shows bipartisan public skepticism of data center expansion, but collapsing substantive infrastructure and energy concerns into partisan theater misrepresents where the real opposition comes from and why.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "The polling figure is real: The Next Web cites data showing 47% of Republicans express opposition to data centers in their communities. That is not a trivial number, and it signals that resistance to AI infrastructure buildout is not a left-coded phenomenon. Local concerns about water use, power grid strain, noise, and property values around hyperscale facilities are legitimate grievances that cross partisan lines. Dismissing them as purely political would be its own form of misleading framing.",
+   "what_data_shows": "What the framing misses is that local opposition to data centers is primarily driven by resource and infrastructure concerns, not AI ideology. Studies from the Lawrence Berkeley National Laboratory document that US data centers consumed approximately 200 TWh of electricity in 2023 \u2014 roughly 4% of national consumption \u2014 with projections doubling by 2028. Communities near major facilities in Virginia, Iowa, and Nevada have raised documented concerns about water draw and grid pressure. These are engineering and planning problems, not partisan ones. Bipartisan opposition to specific siting decisions does not translate to opposition to AI development broadly.",
+   "bigger_picture": "The conflation of local infrastructure NIMBYism with partisan anti-AI sentiment serves neither side of the policy debate. The actual trajectory is constructive: the US added more renewable energy capacity in 2024 than any prior year, and major hyperscalers including Google, Microsoft, and Amazon have all committed to 24/7 carbon-free energy matching for data center operations by 2030. The grid pressure is real \u2014 and the investment response is also real and accelerating. Framing legitimate siting debates as a hoax or as anti-AI sentiment obscures the engineering conversation that actually needs to happen.",
+   "data_points": [
+    {
+     "n": "200 TWh",
+     "l": "US data center electricity consumption in 2023, roughly 4% of national total (Lawrence Berkeley National Laboratory)"
+    },
+    {
+     "n": "47%",
+     "l": "Republican respondents expressing opposition to local data center siting, per The Next Web cited polling \u2014 demonstrating this is not a partisan split"
+    },
+    {
+     "n": "2030",
+     "l": "Target year by which Google, Microsoft, and Amazon have committed to 24/7 carbon-free energy for data center operations"
+    }
+   ],
+   "tags": [
+    "energy",
+    "data centers",
+    "politics",
+    "infrastructure"
+   ],
+   "generated": "2026-09-22T04:09:16.163453+00:00",
+   "auto": true
+  }
+ ]
+}

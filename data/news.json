@@ -1,61 +1,110 @@
 {
- "updated": "2026-09-22T00:29:39.426378+00:00",
+ "updated": "2026-09-22T04:09:16.171035+00:00",
  "items": [
   {
-   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+   "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+   "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
    "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-09-21T16:00:46+00:00"
+  },
+  {
+   "title": "AI Security Is an Engineering Problem \u2014 How to Solve It at Every Layer of the Agent Stack",
+   "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-21T14:51:34+00:00"
+  },
+  {
+   "title": "Uravation\u3001\u30af\u30e9\u30a6\u30c9AI\u304c\u4f7f\u3048\u306a\u3044\u4f01\u696d\u5411\u3051\u300c\u30ed\u30fc\u30ab\u30ebLLM\u5c0e\u5165\u652f\u63f4\u300d\u30b5\u30fc\u30d3\u30b9\u3092\u63d0\u4f9b\u958b\u59cb",
+   "url": "https://prtimes.jp/main/html/rd/p/000000171.000137731.html",
+   "source": "Prtimes.jp",
+   "category": "ai",
+   "published": "2026-09-21T04:07:08+00:00"
+  },
+  {
+   "title": "iPronics and Barcelona Supercomputing Center Partner to Advance Programmable Optical Networking for AI Infrastructure",
+   "url": "https://financialpost.com/globe-newswire/ipronics-and-barcelona-supercomputing-center-partner-to-advance-programmable-optical-networking-for-ai-infrastructure",
+   "source": "Financial Post",
    "category": "compute",
-   "published": "2026-09-21T18:00:07+00:00"
+   "published": "2026-09-21T04:02:01+00:00"
   },
   {
-   "title": "From Enablement to Execution, Egypt\u2019s AI Ecosystem Reaches Production Scale",
-   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-   "source": "NVIDIA",
+   "title": "Show HN: Mahabharata Characters \u2013 307 figures with gunas and decision primitives",
+   "url": "https://huggingface.co/datasets/gnumanth/mahabharata-characters",
+   "source": "Huggingface.co",
    "category": "ai",
-   "published": "2026-09-21T16:00:10+00:00"
+   "published": "2026-09-21T04:01:08+00:00"
   },
   {
-   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
-   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
-   "source": "Microsoft Research",
-   "category": "breakthroughs",
-   "published": "2026-09-21T15:30:19+00:00"
-  },
-  {
-   "title": "Advisory Group on Mathematics and Artificial Intelligence",
-   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-   "source": "OpenAI",
+   "title": "x402-agent-tools added to PyPI",
+   "url": "https://pypi.org/project/x402-agent-tools/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-09-21T12:00:00+00:00"
+   "published": "2026-09-21T03:55:09+00:00"
   },
   {
-   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-   "source": "OpenAI",
+   "title": "Show HN: Less Prompts, More Guardrails",
+   "url": "https://yasyf.com/writing/less-prompts-more-guardrails/",
+   "source": "Yasyf.com",
    "category": "ai",
-   "published": "2026-09-21T12:00:00+00:00"
+   "published": "2026-09-21T03:54:44+00:00"
   },
   {
-   "title": "5 Companies Using NVIDIA AI for Clean Energy",
-   "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-09-21T10:00:35+00:00"
+   "title": "ASML enters India: What does its Tata partnership mean for country\u2019s semiconductor ambitions?",
+   "url": "https://www.livemint.com/companies/news/asml-enters-india-what-does-its-tata-partnership-mean-for-country-s-semiconductor-ambitions-11789960666419.html",
+   "source": "Livemint",
+   "category": "compute",
+   "published": "2026-09-21T03:53:23+00:00"
   },
   {
-   "title": "Building standards for the next phase of AI",
-   "url": "https://openai.com/index/building-standards-next-phase-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-21T10:00:00+00:00"
+   "title": "BlackRock\u2019s Egon Vavrek: AI hardware to drive emerging markets",
+   "url": "https://cryptobriefing.com/blackrock-ai-hardware-emerging-markets/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-09-21T03:53:21+00:00"
   },
   {
-   "title": "Expanding OpenAI Academy with new learning paths",
-   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-   "source": "OpenAI",
+   "title": "Premier Energies commissions 7GW solar cell manufacturing facility at Naidupeta, Andhra Pradesh",
+   "url": "https://www.business-standard.com/markets/capital-market-news/premier-energies-commissions-7gw-solar-cell-manufacturing-facility-at-naidupeta-andhra-pradesh-126092100111_1.html",
+   "source": "Business Standard",
+   "category": "compute",
+   "published": "2026-09-21T03:46:02+00:00"
+  },
+  {
+   "title": "Microsoft's Nadella to join OpenAI, Nvidia CEOs at Trump's dinner for Xi",
+   "url": "https://www.business-standard.com/world-news/microsoft-s-nadella-to-join-openai-nvidia-ceos-at-trump-s-dinner-for-xi-126092100077_1.html",
+   "source": "Business Standard",
    "category": "ai",
-   "published": "2026-09-21T07:00:00+00:00"
+   "published": "2026-09-21T02:54:05+00:00"
+  },
+  {
+   "title": "Australia bets on AI to more than double its economy over four decades",
+   "url": "https://cryptobriefing.com/australia-ai-economic-growth-40-years/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-09-21T02:44:38+00:00"
+  },
+  {
+   "title": "Modal, Fireworks, and Baseten gain cost advantage with Nvidia and AMD chips for Kimi K3",
+   "url": "https://cryptobriefing.com/modal-fireworks-baseten-kimi-k3-cost-advantage/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-09-21T02:37:07+00:00"
+  },
+  {
+   "title": "JPMorgan projects Tesla robotaxi revenue to reach $320B by 2035",
+   "url": "https://cryptobriefing.com/jpmorgan-tesla-robotaxi-revenue-320b-2035/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-09-21T01:49:06+00:00"
+  },
+  {
+   "title": "Engineered Probiotic Wipes Out 43% of Colorectal Tumors in Mice",
+   "url": "https://www.sciencealert.com/engineered-probiotic-wipes-out-43-of-colorectal-tumors-in-mice",
+   "source": "ScienceAlert",
+   "category": "health",
+   "published": "2026-09-21T01:06:05+00:00"
   },
   {
    "title": "Analog Devices (ADI) Bets $1.35 Billion on Chips that Let Machines Think for Themselves",
@@ -63,13 +112,6 @@
    "source": "Wordupnews.com",
    "category": "compute",
    "published": "2026-09-21T00:26:42+00:00"
-  },
-  {
-   "title": "Show HN: Lain, a structural code graph and agent coordinator for coding agents",
-   "url": "https://github.com/spuentesp/lain",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-09-21T00:15:55+00:00"
   },
   {
    "title": "OCC Opens Three Bank Doors to Stablecoins and AI Agents",
@@ -86,31 +128,16 @@
    "published": "2026-09-21T00:01:12+00:00"
   },
   {
-   "title": "Digit 5 Humanoid Robot",
-   "url": "https://thegadgetflow.com/?p=746419",
-   "source": "Gadget Flow",
-   "category": "robotics",
-   "published": "2026-09-21T00:00:35+00:00"
+   "title": "Interpreting human genetic variation at atomic resolution",
+   "url": "https://www.nature.com/articles/s41588-026-02763-z",
+   "source": "Nature.com",
+   "category": "breakthroughs",
+   "published": "2026-09-21T00:00:00+00:00"
   },
   {
    "title": "Improvement of personalized recommendation service level of intelligent libraries based on artificial intelligence and big data mining technology",
    "url": "https://www.nature.com/articles/s41598-026-72513-y.pdf",
    "source": "Nature.com",
-   "category": "ai",
-   "published": "2026-09-21T00:00:00+00:00"
-  },
-  {
-   "title": "AI co-scientists are revolutionizing how research is done",
-   "url": "https://www.nature.com/articles/d41586-026-02931-5",
-   "source": "Nature.com",
-   "category": "ai",
-   "published": "2026-09-21T00:00:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "How V7 gives AI agents institutional memory",
-   "url": "https://openai.com/index/v7",
-   "source": "OpenAI",
    "category": "ai",
    "published": "2026-09-21T00:00:00+00:00"
   },
@@ -150,20 +177,6 @@
    "published": "2026-09-20T23:39:38+00:00"
   },
   {
-   "title": "Quote of the day by Figure AI founder and CEO Brett Adcock: 'We're building a new species here' \u2014 an audacious vision to replace manual labor with humanoid AI",
-   "url": "https://www.techradar.com/pro/quote-of-the-day-by-figure-ai-founder-and-ceo-brett-adcock-were-building-a-new-species-here-an-audacious-vision-to-replace-manual-labor-with-humanoid-ai",
-   "source": "TechRadar",
-   "category": "robotics",
-   "published": "2026-09-20T22:00:00+00:00"
-  },
-  {
-   "title": "Anglicare Victoria secures its AI adoption",
-   "url": "https://www.itnews.com.au/news/anglicare-victoria-secures-its-ai-adoption-629020",
-   "source": "iTnews",
-   "category": "ai",
-   "published": "2026-09-20T20:12:00+00:00"
-  },
-  {
    "title": "Dynamic model routing will follow the path blazed by software-defined wide-area networks",
    "url": "https://siliconangle.com/2026/09/20/dynamic-model-routing-will-follow-the-path-blazed-by-software-defined-wide-area-networks/",
    "source": "SiliconANGLE News",
@@ -185,6 +198,13 @@
    "published": "2026-09-20T16:43:35+00:00"
   },
   {
+   "title": "Elon Musk Predicts Starlink Satellites Could Rewrite the Rules of Global Connectivity",
+   "url": "https://247wallst.com/investing/2026/09/20/elon-musk-predicts-starlink-satellites-could-rewrite-the-rules-of-global-connectivity/",
+   "source": "24/7 Wall St.",
+   "category": "compute",
+   "published": "2026-09-20T15:59:11+00:00"
+  },
+  {
    "title": "Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close",
    "url": "https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close",
    "source": "Futurism",
@@ -192,25 +212,11 @@
    "published": "2026-09-20T15:01:00+00:00"
   },
   {
-   "title": "Humanoid robots fight in cage match in Shanghai",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai",
-   "source": "Al Jazeera English",
-   "category": "robotics",
-   "published": "2026-09-20T14:12:28+00:00"
-  },
-  {
    "title": "rqm-entanglement 0.2.2",
    "url": "https://pypi.org/project/rqm-entanglement/0.2.2/",
    "source": "Pypi.org",
    "category": "quantum",
    "published": "2026-09-20T14:06:13+00:00"
-  },
-  {
-   "title": "Japan's first robot ambulance works the 9-1-1 lines for humanoids",
-   "url": "https://newatlas.com/ai-humanoids/japan-gmo-humanoid-ambulance-robots/",
-   "source": "New Atlas",
-   "category": "robotics",
-   "published": "2026-09-20T08:03:00+00:00"
   },
   {
    "title": "Meet the gig workers helping train robots to do our dishes",
@@ -34994,13 +35000,6 @@
    "source": "Crypto Briefing",
    "category": "breakthroughs",
    "published": "2026-06-29T02:55:39+00:00"
-  },
-  {
-   "title": "Intel Arc Graphics Driver 32.0.101.5730 for Windows 10 S 64-bit",
-   "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-5730-for-Windows-10-S-64-bit.shtml",
-   "source": "Softpedia.com",
-   "category": "compute",
-   "published": "2026-06-29T02:53:01+00:00"
   }
  ]
 }
