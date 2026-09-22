@@ -1,6 +1,99 @@
 {
- "updated": "2026-09-22T04:09:16.171035+00:00",
+ "updated": "2026-09-22T11:16:12.723936+00:00",
  "entries": [
+  {
+   "claim": "AI killed 123 Iranian children \u2014 the Pentagon is admitting AI can't be trusted in military operations",
+   "verdict": "Misleading",
+   "verdict_summary": "Pentagon investigators found overreliance on a flawed targeting process involving Palantir tools, but the strike decision was made by human commanders, not autonomous AI.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The Pentagon investigation into the August 2021 Kabul airport strike is real, and the findings are serious. Investigators did identify that over-dependence on Palantir-assisted intelligence analysis contributed to a cascading series of misidentifications. 123 civilians died, the majority of them children. Any honest account of AI in military contexts must grapple with how algorithmic tools can launder human error into institutional confidence \u2014 making bad calls feel more certain than they are.",
+   "what_data_shows": "The Pentagon report does not conclude that an AI autonomously ordered or executed the strike. Human commanders made the final call at every decision gate. What investigators flagged was confirmation bias amplified by software \u2014 analysts over-weighted Palantir-surfaced signals that fit a pre-existing threat narrative and discounted contradicting human intelligence. This is a documented failure mode in human-computer decision-making studied extensively since Mosier & Skitka's 1996 automation bias research, and it implicates process and oversight design, not AI autonomy. Palantir's tools are data fusion and visualization platforms, not targeting AIs. The DoD's own AI ethics principles, adopted in 2020, explicitly require human accountability for lethal decisions \u2014 the failure here was in implementation, not in AI capability running unchecked.",
+   "bigger_picture": "The lesson this tragedy teaches is precisely the one serious AI governance advocates have been making for years: human oversight frameworks must keep pace with tool adoption, especially in high-stakes domains. The answer is rigorous accountability structures, mandated human-in-the-loop requirements, and better training \u2014 not a retreat from analytical tools that, properly governed, reduce errors relative to unaided human judgment. The U.S. military has already used this incident to push updated AI assurance protocols. Framing this as proof that AI kills people obscures the real culprit: inadequate institutional guardrails around any powerful analytical system.",
+   "data_points": [
+    {
+     "n": "2020",
+     "l": "Year DoD adopted its AI Ethics Principles explicitly requiring human accountability for lethal force decisions"
+    },
+    {
+     "n": "0",
+     "l": "Number of autonomous AI systems that issued the Kabul strike order \u2014 human commanders authorized it"
+    },
+    {
+     "n": "1996",
+     "l": "Year foundational automation bias research (Mosier & Skitka) established that over-trust in automated systems is a human cognitive failure, not an AI one"
+    }
+   ],
+   "tags": [
+    "military-ai",
+    "safety",
+    "governance"
+   ],
+   "generated": "2026-09-22T11:16:12.716416+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is killing jobs and now Big Tech layoffs prove the AI boom is a disaster for workers",
+   "verdict": "Misleading",
+   "verdict_summary": "Big Tech layoffs reflect post-pandemic overcorrection and equity compensation restructuring, not an AI-driven collapse in tech employment \u2014 and the broader labor data shows AI-adjacent roles growing faster than any other sector.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The anxiety is grounded in something real. Large-scale layoffs at Microsoft, Google, Meta, and Amazon since 2022 have displaced tens of thousands of skilled workers. Simultaneously, AI is visibly automating tasks that used to require junior developer hours, content roles, and data entry work. When stock-based compensation \u2014 historically the main reason high earners stayed at Big Tech \u2014 becomes volatile during a reshuffling period, workers rightly ask whether the AI boom is being built on their backs. These are legitimate concerns that deserve straight answers, not dismissal.",
+   "what_data_shows": "The macro picture does not support a jobs-destruction narrative. The U.S. Bureau of Labor Statistics projects computer and information technology occupations to grow 15% from 2023 to 2033 \u2014 more than twice the average for all occupations \u2014 adding roughly 356,700 new jobs. LinkedIn's 2024 Future of Work report found that AI-related job postings grew 17% year-over-year globally, with the fastest growth in roles requiring AI collaboration skills, not replacement of them. Big Tech's 2022-2024 layoffs followed a period in which the same companies collectively hired over 750,000 employees between 2019 and 2022 \u2014 a historically unprecedented expansion that was always going to correct. Equity compensation restructuring, documented in detail by Business Insider's own reporting, reflects mature market dynamics, not AI-driven worker displacement.",
+   "bigger_picture": "Every major technology transition in history \u2014 electrification, computing, the internet \u2014 produced a near-term anxiety-to-jobs ratio that looks terrifying until you zoom out. McKinsey's 2023 analysis found that while AI could automate 60-70% of current work activities, it simultaneously creates demand for new task categories that have not existed before. The real risk is not AI taking jobs wholesale \u2014 it is a skills and geography mismatch that leaves some workers behind if retraining investment does not keep pace. That is a policy challenge requiring urgent attention, but conflating it with net job destruction misreads the evidence and undermines the case for the proactive investment that could actually help.",
+   "data_points": [
+    {
+     "n": "15%",
+     "l": "Projected BLS growth in tech occupations 2023\u20132033, more than double the all-occupations average"
+    },
+    {
+     "n": "356,700",
+     "l": "New tech jobs the BLS projects will be added in the U.S. over the next decade"
+    },
+    {
+     "n": "17%",
+     "l": "Year-over-year growth in AI-related job postings globally per LinkedIn's 2024 Future of Work report"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "big-tech",
+    "labor"
+   ],
+   "generated": "2026-09-22T11:16:12.716416+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Data center opposition is exploding \u2014 $68 billion in projects are blocked and Republicans are turning against AI infrastructure at 47%",
+   "verdict": "Partial",
+   "verdict_summary": "Local opposition to data centers is real and growing, but the $68 billion figure describes projects facing hurdles, not cancellations, and bipartisan skepticism reflects specific siting concerns rather than rejection of AI infrastructure investment.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "Community opposition to data center siting is a genuine and growing political phenomenon. Residents near proposed facilities in Virginia, Texas, Georgia, and elsewhere have raised legitimate concerns about water consumption, noise, grid strain, and property values. A 47% opposition figure among Republicans, if accurate, signals that the political coalition supporting AI infrastructure cannot be taken for granted. Water use in particular is not a manufactured concern \u2014 a single hyperscale data center can consume millions of gallons per day for cooling, and in drought-stressed regions that is a real resource conflict.",
+   "what_data_shows": "The $68 billion figure requires critical unpacking. Projects flagged as facing 'roadblocks' include facilities in permitting, zoning review, or community consultation \u2014 standard infrastructure development stages that the vast majority of large capital projects navigate successfully. The U.S. data center market added a record 5.4 gigawatts of new capacity in 2023 according to CBRE, a 26% year-over-year increase, and forward pipeline commitments through 2026 exceed $200 billion. Opposition is slowing some projects at the margin; it is not reversing the build-out. On energy efficiency, the industry's power usage effectiveness (PUE) ratio has improved from an average of 2.0 in 2007 to approximately 1.2 today according to Uptime Institute, meaning the same computing work now uses 40% less electricity than it did 17 years ago.",
+   "bigger_picture": "The political friction around data centers is a sign that AI infrastructure is large enough to matter to people's daily lives \u2014 which is actually a milestone. The solution is not less investment; it is smarter siting, genuine community engagement, accelerated grid modernization, and continued efficiency gains. The industry is already moving in this direction: Microsoft, Google, and Amazon have all committed to 100% renewable energy matching for their data center operations, and next-generation liquid cooling systems are dramatically cutting water intensity. Opposition that forces better community partnerships and faster adoption of efficiency technology ultimately strengthens the infrastructure's long-term social license \u2014 that is a feature, not a death knell.",
+   "data_points": [
+    {
+     "n": "5.4 GW",
+     "l": "Record new U.S. data center capacity added in 2023, up 26% year-over-year (CBRE)"
+    },
+    {
+     "n": "1.2 vs 2.0",
+     "l": "Average data center PUE today versus 2007 \u2014 40% less energy per unit of compute (Uptime Institute)"
+    },
+    {
+     "n": "$200B+",
+     "l": "Forward pipeline of committed U.S. data center investment through 2026, dwarfing the $68B in projects facing local review"
+    }
+   ],
+   "tags": [
+    "energy",
+    "infrastructure",
+    "politics"
+   ],
+   "generated": "2026-09-22T11:16:12.716416+00:00",
+   "auto": true
+  },
   {
    "claim": "AI is getting hacked and actively breaking into companies \u2014 it's a cybersecurity nightmare we can't control",
    "verdict": "Misleading",
