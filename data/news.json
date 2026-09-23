@@ -1,12 +1,54 @@
 {
- "updated": "2026-09-23T11:08:45.421299+00:00",
+ "updated": "2026-09-23T16:30:17.525424+00:00",
  "items": [
   {
-   "title": "Better prompt caching for GPT-6",
-   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+   "title": "Offloaded inference for real-world physical AI robotics",
+   "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+   "source": "Microsoft Research",
+   "category": "robotics",
+   "published": "2026-09-23T16:01:36+00:00"
+  },
+  {
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-09-23T16:00:57+00:00"
+  },
+  {
+   "title": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-09-22T21:00:00+00:00"
+   "published": "2026-09-23T16:00:00+00:00"
+  },
+  {
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-09-23T15:25:14+00:00"
+  },
+  {
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T13:00:00+00:00"
+  },
+  {
+   "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+   "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-23T02:30:22+00:00"
+  },
+  {
+   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T00:00:00+00:00"
   },
   {
    "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
@@ -16,12 +58,130 @@
    "published": "2026-09-22T19:00:00+00:00"
   },
   {
-   "title": "Introducing GPT-6 Sol and Luna",
-   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+   "title": "Claude Opus 5.5",
+   "url": "https://www.anthropic.com/claude-opus-5-5",
+   "source": "Anthropic.com",
+   "category": "ai",
+   "published": "2026-09-22T16:27:30+00:00"
+  },
+  {
+   "title": "Show HN: Ego-jev \u2013 0.4s typed decisions for browser agents",
+   "url": "https://github.com/ZephyrDeng/ego-jev",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-09-22T16:25:31+00:00"
+  },
+  {
+   "title": "C&D Technologies Wins Stratus Award for AI Data Center Infrastructure",
+   "url": "https://www.prnewswire.com/news-releases/cd-technologies-wins-stratus-award-for-ai-data-center-infrastructure-302886454.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-09-22T16:22:00+00:00"
+  },
+  {
+   "title": "Dama Health Earns the NurseApproved Seal for Dama Assist, Its AI-Powered Clinical Platform for Hormone Health and Menopause Care",
+   "url": "https://www.prnewswire.com/news-releases/dama-health-earns-the-nurseapproved-seal-for-dama-assist-its-ai-powered-clinical-platform-for-hormone-health-and-menopause-care-302886448.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-09-22T16:20:00+00:00"
+  },
+  {
+   "title": "Using Artificial Intelligence To Create Images and Animation",
+   "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/26204193/6324603098473958986",
+   "source": "Blogger.com",
+   "category": "ai",
+   "published": "2026-09-22T16:16:05+00:00"
+  },
+  {
+   "title": "EXCLUSIVE: Small AI Model Matches GPT-4.1 at Forecasting as Olas Founding Member Says Frontier Models Face \u2018Increasing Economic Pressure\u2019",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61927022/small-ai-model-gpt-4-1-forecasting-olas?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
+   "source": "Benzinga",
+   "category": "ai",
+   "published": "2026-09-22T16:12:56+00:00"
+  },
+  {
+   "title": "Google to Fund Power-Capacity Increases at Two Georgia Nuclear Plants",
+   "url": "https://www.insurancejournal.com/news/southeast/2026/09/22/886435.htm",
+   "source": "Insurance Journal",
+   "category": "compute",
+   "published": "2026-09-22T16:05:09+00:00"
+  },
+  {
+   "title": "Alibaba Brags That Its Next-Gen Zhenwu V900 AI Chip Offers More On-Package Memory Than NVIDIA H200, Outlines Plans To Deploy 20 GW Of Compute, And Teases 4-10 trillion parameters For Upcoming Qwen Models",
+   "url": "https://wccftech.com/alibaba-brags-that-its-next-gen-zhenwu-v900-ai-chip-offers-more-on-package-memory-than-nvidia-h200-outlines-plans-to-deploy-20-gw-of-compute-and-teases-4-10-trillion-parameters-for-upcoming-qwen-mod/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-09-22T16:00:48+00:00"
+  },
+  {
+   "title": "European neocloud Verda raises $189M to build the AI infrastructure of tomorrow",
+   "url": "https://siliconangle.com/2026/09/22/european-neocloud-verda-raises-189m-to-build-the-ai-infrastructure-of-tomorrow/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-09-22T16:00:30+00:00"
+  },
+  {
+   "title": "MediaTek Unveils Next-Gen Silicon: Dimensity CX C10 Max & 9600 Pro",
+   "url": "https://androidguys.com/news/mediatek-unveils-next-gen-silicon-dimensity-cx-c10-max-9600-pro/",
+   "source": "AndroidGuys",
+   "category": "compute",
+   "published": "2026-09-22T16:00:00+00:00"
+  },
+  {
+   "title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
+   "url": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-09-22T15:30:34+00:00"
+  },
+  {
+   "title": "E Tech Group Expands U.S. Collaborative Robotics Portfolio with Rainbow Robotics",
+   "url": "https://www.prnewswire.com/news-releases/e-tech-group-expands-us-collaborative-robotics-portfolio-with-rainbow-robotics-302884303.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-09-22T15:24:00+00:00"
+  },
+  {
+   "title": "Heidi raises $340M to enhance AI tools for healthcare",
+   "url": "https://cryptobriefing.com/heidi-raises-340m-ai-healthcare/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-09-22T14:58:44+00:00"
+  },
+  {
+   "title": "For the first time, scientists watch sound jump between quantum states",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
+   "source": "Science Daily",
+   "category": "quantum",
+   "published": "2026-09-22T13:17:20+00:00"
+  },
+  {
+   "title": "XPENG's Iron humanoid robot walked out immediately after being assembled",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185739140",
+   "source": "Slashdot.org",
+   "category": "robotics",
+   "published": "2026-09-22T12:12:20+00:00"
+  },
+  {
+   "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+   "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+   "source": "Nvidia.com",
+   "category": "robotics",
+   "published": "2026-09-22T12:00:41+00:00"
+  },
+  {
+   "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
+   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-09-22T18:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-09-22T12:00:00+00:00"
+  },
+  {
+   "title": "YYForce Unveils 2030 Vision to Build an Integrated Human, AI and Robotics Workforce Ecosystem",
+   "url": "https://www.prnewswire.com/news-releases/yyforce-unveils-2030-vision-to-build-an-integrated-human-ai-and-robotics-workforce-ecosystem-302885540.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-09-22T11:37:00+00:00"
   },
   {
    "title": "CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future",
@@ -43,13 +203,6 @@
    "source": "Financial Post",
    "category": "compute",
    "published": "2026-09-22T11:00:33+00:00"
-  },
-  {
-   "title": "Cognex to Acquire RealSense, Expanding Machine Vision Leadership into High-Growth Robotic Perception Market",
-   "url": "https://www.prnewswire.com/news-releases/cognex-to-acquire-realsense-expanding-machine-vision-leadership-into-high-growth-robotic-perception-market-302885738.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-09-22T11:00:00+00:00"
   },
   {
    "title": "Echola Systems Unveils 800G/1.6T Dual LC Switches for AI Network Testing",
@@ -101,20 +254,6 @@
    "published": "2026-09-22T10:08:50+00:00"
   },
   {
-   "title": "Dynamical decoupling pulses beyond the rotating-wave approximation for quantum sensing applications",
-   "url": "https://link.aps.org/doi/10.1103/s97j-g1vl",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-09-22T10:00:00+00:00"
-  },
-  {
-   "title": "Overcoming Stark-shift constraints in phase-controlled Rydberg two-qubit gates",
-   "url": "https://link.aps.org/doi/10.1103/qn5y-77d4",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-09-22T10:00:00+00:00"
-  },
-  {
    "title": "From quantum dimers to the $\u03c0$-flux toric code via deconfined multicriticality",
    "url": "https://link.aps.org/doi/10.1103/1bht-9h21",
    "source": "Aps.org",
@@ -141,13 +280,6 @@
    "source": "The Next Web",
    "category": "health",
    "published": "2026-09-22T09:12:38+00:00"
-  },
-  {
-   "title": "Aeonsemi Unveils Praxium\u2122 Multi-Gigabit Ethernet PHYs for Physical AI",
-   "url": "https://www.prnewswire.com/news-releases/aeonsemi-unveils-praxium-multi-gigabit-ethernet-phys-for-physical-ai-302885523.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-09-22T09:04:00+00:00"
   },
   {
    "title": "Unitree targets humanoid robots' next bottleneck with 22-DoF Dex5-S hand",
@@ -253,6 +385,13 @@
    "source": "Science Daily",
    "category": "health",
    "published": "2026-09-22T01:49:32+00:00"
+  },
+  {
+   "title": "NanoTS: a deep learning tool for accurate SNP calling in nanopore long-read transcriptome data",
+   "url": "https://www.nature.com/articles/s41592-026-03225-4",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-09-22T00:00:00+00:00"
   },
   {
    "title": "Trastuzumab plus nivolumab with gemcitabine and cisplatin as first-line therapy for HER2-positive unresectable biliary tract cancer: a phase 1b/2 trial",
@@ -374,13 +513,6 @@
    "published": "2026-09-21T20:08:00+00:00"
   },
   {
-   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-09-21T18:00:07+00:00"
-  },
-  {
    "title": "PCI Adds AI to B Pharm curriculum",
    "url": "https://timesofindia.indiatimes.com/city/allahabad/pci-adds-ai-to-b-pharm-curriculum/articleshow/134395740.cms",
    "source": "The Times of India",
@@ -458,13 +590,6 @@
    "published": "2026-09-21T16:00:46+00:00"
   },
   {
-   "title": "From Enablement to Execution, Egypt\u2019s AI Ecosystem Reaches Production Scale",
-   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-09-21T16:00:10+00:00"
-  },
-  {
    "title": "Grok 4.7",
    "url": "https://x.ai/news/grok-4-7",
    "source": "X.ai",
@@ -477,13 +602,6 @@
    "source": "Techrseries.com",
    "category": "health",
    "published": "2026-09-21T15:45:06+00:00"
-  },
-  {
-   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
-   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
-   "source": "Microsoft Research",
-   "category": "health",
-   "published": "2026-09-21T15:30:19+00:00"
   },
   {
    "title": "Anthropic sets up biology lab as it ramps AI drug program",
@@ -505,13 +623,6 @@
    "source": "Intomobile.com",
    "category": "robotics",
    "published": "2026-09-21T12:17:00+00:00"
-  },
-  {
-   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-21T12:00:00+00:00"
   },
   {
    "title": "Pudu Robotics Showcases PUDU GT Series and Intelligent Grounds Care Solutions at GaLaBau 2026",
@@ -624,13 +735,6 @@
    "source": "Oreilly.com",
    "category": "ai",
    "published": "2026-09-21T10:55:18+00:00"
-  },
-  {
-   "title": "5 Companies Using NVIDIA AI for Clean Energy",
-   "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-09-21T10:00:35+00:00"
   },
   {
    "title": "Building standards for the next phase of AI",
@@ -34896,111 +35000,6 @@
    "source": "Crypto Briefing",
    "category": "ai",
    "published": "2026-06-30T14:22:17+00:00"
-  },
-  {
-   "title": "Samsung and KDDI Successfully Complete AI-Powered Network Optimization Trial on Commercial 5G Standalone Network in Japan",
-   "url": "https://news.samsung.com/global/samsung-and-kddi-successfully-complete-ai-powered-network-optimization-trial-on-commercial-5g-standalone-network-in-japan",
-   "source": "Samsung.com",
-   "category": "compute",
-   "published": "2026-06-30T14:21:49+00:00"
-  },
-  {
-   "title": "Realistic Grips for Game Creator 2 by Auxilium",
-   "url": "https://assetstore.unity.com/packages/tools/utilities/realistic-grips-for-game-creator-2-380340",
-   "source": "Unity.com",
-   "category": "ai",
-   "published": "2026-06-30T14:20:14+00:00"
-  },
-  {
-   "title": "GMKtec EVO-T2 review: An impressive AI mini PC that goes some way to addressing the imbalance between the best Intel can offer over AMD",
-   "url": "https://www.techradar.com/computing/gmktec-evo-t2-mini-pc-review",
-   "source": "TechRadar",
-   "category": "compute",
-   "published": "2026-06-30T14:20:00+00:00"
-  },
-  {
-   "title": "TKROBOTS Introduces AI Quant Trading Bot to Make Automated Crypto Trading Easier for Everyday Users",
-   "url": "https://www.globenewswire.com/news-release/2026/06/30/3319882/0/en/TKROBOTS-Introduces-AI-Quant-Trading-Bot-to-Make-Automated-Crypto-Trading-Easier-for-Everyday-Users.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-06-30T14:20:00+00:00"
-  },
-  {
-   "title": "Ecommerce AI SEO: How to optimize online stores for LLMs",
-   "url": "https://www.semrush.com/blog/ecommerce-ai-seo/",
-   "source": "Semrush.com",
-   "category": "ai",
-   "published": "2026-06-30T14:18:00+00:00"
-  },
-  {
-   "title": "Tsingke Biotech Hosts Shanghai Salon on Oligonucleotide Drugs, Spotlighting Next-Gen RNA Therapeutics",
-   "url": "https://www.prnewswire.com/news-releases/tsingke-biotech-hosts-shanghai-salon-on-oligonucleotide-drugs-spotlighting-next-gen-rna-therapeutics-302811515.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-30T14:17:00+00:00"
-  },
-  {
-   "title": "Q&A: Generate Biomedicines CTO talks AI advancements",
-   "url": "https://www.techtarget.com/searchenterpriseai/feature/QA-Generate-Biomedicines-CTO-talks-AI-advancements",
-   "source": "Techtarget.com",
-   "category": "health",
-   "published": "2026-06-30T14:03:00+00:00"
-  },
-  {
-   "title": "Omen AI Raises $31M Series A to Bring Continuous Fluid Intelligence to the Machines Powering the AI Economy",
-   "url": "https://www.prnewswire.com/news-releases/omen-ai-raises-31m-series-a-to-bring-continuous-fluid-intelligence-to-the-machines-powering-the-ai-economy-302814262.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-06-30T14:00:00+00:00"
-  },
-  {
-   "title": "AI-driven molecular diversification and ligand-based optimization of macitentan derivatives targeting VEGFR1 and endothelin signaling pathways",
-   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352451",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-06-30T14:00:00+00:00"
-  },
-  {
-   "title": "AI Is Transforming Drug Discovery. Here Is the Next Trillion-Dollar Biotech Opportunity",
-   "url": "https://biztoc.com/x/e33d4e0991bbe457",
-   "source": "Biztoc.com",
-   "category": "health",
-   "published": "2026-06-30T13:46:53+00:00"
-  },
-  {
-   "title": "Healthcare Staffing Just Evolved: Human-Led Support, Amplified by AI",
-   "url": "https://www.prnewswire.com/news-releases/healthcare-staffing-just-evolved-human-led-support-amplified-by-ai-302805173.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-06-30T13:34:00+00:00"
-  },
-  {
-   "title": "Midjourney\u2019s Whole Body Ultrasound System: A Radiologist\u2019s Thoughts",
-   "url": "https://www.forbes.com/sites/paulhsieh/2026/06/30/midjourneys-whole-body-ultrasound-system-a-radiologists-thoughts/",
-   "source": "Forbes",
-   "category": "health",
-   "published": "2026-06-30T13:32:34+00:00"
-  },
-  {
-   "title": "Mint Signed MoU with Ascendze Pte. Ltd. to Advance Strategic Expansion in Singapore\u2019s Semiconductor and Robotics Sector",
-   "url": "https://www.globenewswire.com/news-release/2026/06/30/3319666/0/en/Mint-Signed-MoU-with-Ascendze-Pte-Ltd-to-Advance-Strategic-Expansion-in-Singapore-s-Semiconductor-and-Robotics-Sector.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-06-30T12:30:00+00:00"
-  },
-  {
-   "title": "This $5.5 billion robotics startup built a school for humanoids",
-   "url": "https://biztoc.com/x/a61188c51bbfc611",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-06-30T12:15:26+00:00"
-  },
-  {
-   "title": "Apptronik launches robot training hub, unveils Apollo 2 humanoid robot",
-   "url": "https://www.channelnewsasia.com/business/apptronik-launches-robot-training-hub-unveils-apollo-2-humanoid-robot-6221641",
-   "source": "CNA",
-   "category": "robotics",
-   "published": "2026-06-30T12:01:44+00:00"
   }
  ]
 }
