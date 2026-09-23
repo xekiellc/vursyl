@@ -1,6 +1,99 @@
 {
- "updated": "2026-09-23T16:30:17.525424+00:00",
+ "updated": "2026-09-23T21:19:19.425254+00:00",
  "entries": [
+  {
+   "claim": "AI safety measures are 'unraveling' and we're losing control \u2014 the UN itself says we can't keep up",
+   "verdict": "Misleading",
+   "verdict_summary": "The UN panel is urging proactive governance, not declaring AI ungovernable \u2014 framing urgency as collapse misreads the report entirely.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The concern has a real foundation. The UN High-Level Advisory Body on AI did release findings in 2024 warning that existing regulatory frameworks were not keeping pace with capability jumps in frontier models. Rapid model releases \u2014 including Anthropic shipping a new model just ten days after its own CEO called for a slowdown \u2014 create a genuine optics problem. The gap between deployment speed and governance readiness is not manufactured panic; it is a documented structural challenge that serious researchers and policymakers acknowledge.",
+   "what_data_shows": "The UN panel's actual recommendation is not that safety is collapsing but that governments must act now rather than wait for scientific certainty \u2014 a precautionary, forward-leaning posture, not a declaration of crisis. The report explicitly calls for international AI governance infrastructure, including a proposed International Panel on AI similar to the IPCC. Meanwhile, the EU AI Act entered into force in August 2024, the US Executive Order on AI (October 2023) mandated safety evaluations for frontier models, and the UK's AI Safety Institute has conducted pre-deployment evaluations of major models. More than 30 countries have now established national AI safety bodies or strategies. The safety ecosystem is expanding faster than headlines suggest.",
+   "bigger_picture": "The framing of 'unraveling' safety measures is a category error. Safety measures are not a static wall being eroded \u2014 they are an evolving, multi-layered system being built in real time alongside the technology. What the UN report actually represents is the international community taking AI risk seriously enough to coordinate globally, which is precisely what responsible AI development requires. The fact that urgency is being communicated at the UN level is evidence that governance is scaling up, not evidence that it has failed.",
+   "data_points": [
+    {
+     "n": "30+",
+     "l": "countries with national AI safety strategies or dedicated bodies as of 2024"
+    },
+    {
+     "n": "August 2024",
+     "l": "EU AI Act entered into force, the world's first comprehensive AI legal framework"
+    },
+    {
+     "n": "10 days",
+     "l": "gap between Anthropic CEO's slowdown call and next model release, illustrating the governance-deployment tension the UN is addressing"
+    }
+   ],
+   "tags": [
+    "safety",
+    "regulation",
+    "AI governance"
+   ],
+   "generated": "2026-09-23T21:19:19.417500+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Data center construction is being stopped in its tracks \u2014 $68 billion in projects are hitting roadblocks and the AI boom is stalling",
+   "verdict": "Misleading",
+   "verdict_summary": "Local opposition has delayed specific projects, but $68 billion in roadblocked projects represents a fraction of a global buildout that hit record investment levels in 2024.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "Community opposition to data centers is real and growing. Residents near proposed facilities in Virginia, Texas, Arizona, and elsewhere have raised legitimate concerns about water consumption, noise, strain on local power grids, and property impacts. Some projects have faced zoning rejections, permitting delays, or utility connection queues stretching years. Water usage is a particularly valid flashpoint \u2014 Amazon's own opacity on Colorado River consumption, as reported by The Verge, reflects an industry-wide transparency gap that fuels distrust and deserves scrutiny.",
+   "what_data_shows": "The $68 billion figure in delayed or opposed projects sounds alarming until it is placed against total investment scale. Global data center capital expenditure reached approximately $400 billion in 2024 according to Dell'Oro Group estimates, with hyperscalers \u2014 Amazon, Microsoft, Google, and Meta \u2014 individually committing between $50 billion and $80 billion each in annual infrastructure spend. The US alone is projected to require 35 gigawatts of new data center capacity by 2030 according to McKinsey. Delayed projects are being rerouted, not canceled \u2014 states like Wyoming, Indiana, and Georgia are actively competing for investment with streamlined permitting. The pipeline has not stalled; it has diversified.",
+   "bigger_picture": "Opposition to data centers is accelerating a genuinely positive outcome: geographic diversification away from power-constrained, water-stressed clusters in Northern Virginia and Phoenix toward regions with renewable energy surpluses and lower community density. It is also pressuring operators toward better transparency on water and energy metrics \u2014 pressure that will ultimately make the buildout more sustainable. Framing local friction as a systemic stall mistakes a routing adjustment for a roadblock.",
+   "data_points": [
+    {
+     "n": "~$400B",
+     "l": "estimated global data center capex in 2024, dwarfing the $68B in delayed US projects"
+    },
+    {
+     "n": "35 GW",
+     "l": "additional US data center capacity needed by 2030, per McKinsey \u2014 demand pressure that overrides local opposition at the macro level"
+    },
+    {
+     "n": "4",
+     "l": "major hyperscalers each committing $50B\u2013$80B annually to infrastructure, ensuring buildout continues regardless of specific site delays"
+    }
+   ],
+   "tags": [
+    "energy",
+    "data centers",
+    "infrastructure"
+   ],
+   "generated": "2026-09-23T21:19:19.417500+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Meta's AI had a massive zero-day exploit \u2014 AI agents are fundamentally insecure and can be hijacked by attackers",
+   "verdict": "Partial",
+   "verdict_summary": "The Muse vulnerability was real and serious, but Meta patched it rapidly \u2014 and the incident demonstrates that standard security practices are catching and closing AI-specific attack surfaces.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The vulnerability in Meta's Muse AI agent was not trivial. A zero-day exploit that allows attackers to control an AI agent's actions represents a genuinely new attack surface that did not exist in pre-AI software stacks. AI agents, which can execute multi-step tasks, browse the web, call APIs, and interface with other systems, create lateral movement opportunities that traditional software vulnerabilities do not. Concerns about AI agent security are not fearmongering \u2014 they reflect a legitimate frontier in cybersecurity that researchers have been warning about since agentic AI deployment accelerated in 2023 and 2024.",
+   "what_data_shows": "Meta identified and patched the Muse exploit after responsible disclosure \u2014 the standard security lifecycle functioning as designed. The AI security research community has been actively cataloguing agent-specific attack classes: prompt injection, tool misuse, memory poisoning, and agent hijacking are all documented in peer-reviewed work from Stanford, CMU, and Google DeepMind published in 2023 and 2024. Critically, major AI labs have responded by expanding bug bounty programs to cover agentic systems \u2014 OpenAI, Google, and Anthropic all expanded their security researcher programs in 2024. The vulnerability class is known, named, and actively defended against.",
+   "bigger_picture": "Every major computing paradigm shift \u2014 from web applications to mobile to cloud \u2014 introduced new vulnerability classes that security research then systematized and mitigated. AI agents are following the same arc, but arguably faster, because the security community began studying agentic attack surfaces before widespread deployment rather than after. A patched zero-day in a rapidly evolving system is evidence that the security feedback loop is working, not evidence that AI agents are ungovernable. The story here is responsible disclosure doing its job.",
+   "data_points": [
+    {
+     "n": "2024",
+     "l": "year OpenAI, Google, and Anthropic all expanded bug bounty programs to explicitly cover agentic AI systems"
+    },
+    {
+     "n": "Prompt injection, tool misuse, agent hijacking",
+     "l": "three documented AI-specific attack classes now formally catalogued in peer-reviewed security literature"
+    },
+    {
+     "n": "Responsible disclosure",
+     "l": "the Muse exploit was patched through standard coordinated disclosure \u2014 the same process that has secured web and cloud infrastructure for two decades"
+    }
+   ],
+   "tags": [
+    "safety",
+    "privacy",
+    "AI security"
+   ],
+   "generated": "2026-09-23T21:19:19.417500+00:00",
+   "auto": true
+  },
   {
    "claim": "AI safety measures are 'unraveling' and the technology is becoming too dangerous to control",
    "verdict": "Misleading",
