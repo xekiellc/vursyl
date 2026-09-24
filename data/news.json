@@ -1,6 +1,13 @@
 {
- "updated": "2026-09-24T16:50:41.819691+00:00",
+ "updated": "2026-09-24T21:21:01.922835+00:00",
  "items": [
+  {
+   "title": "Estimating suicide risk from text",
+   "url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-09-24T21:00:00+00:00"
+  },
   {
    "title": "Introducing Gemini 3.8 Live with Live Avatar",
    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
@@ -9,11 +16,158 @@
    "published": "2026-09-24T16:20:39+00:00"
   },
   {
-   "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-   "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-   "source": "NVIDIA",
-   "category": "breakthroughs",
-   "published": "2026-09-24T14:00:50+00:00"
+   "title": "tai42-kit 7.0.0",
+   "url": "https://pypi.org/project/tai42-kit/7.0.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-23T21:19:34+00:00"
+  },
+  {
+   "title": "Booking Holdings: Building a Long-Term Competitive Advantage",
+   "url": "https://skift.com/2026/09/23/booking-holdings-building-a-long-term-competitive-advantage/",
+   "source": "Skift",
+   "category": "ai",
+   "published": "2026-09-23T21:10:21+00:00"
+  },
+  {
+   "title": "NVIDIA Unleashes The Next Chapter of Neural Rendering & Path Tracing With RTX Kit SDK While RTX Mega Geometry 2.0 SDK Gives Devs the Ability To Stream Insane Levels of Detail",
+   "url": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-09-23T21:05:17+00:00"
+  },
+  {
+   "title": "AI drug discovery startup Basecamp Research raises $140M",
+   "url": "https://siliconangle.com/2026/09/23/ai-drug-discovery-startup-basecamp-research-raises-140m/",
+   "source": "SiliconANGLE News",
+   "category": "health",
+   "published": "2026-09-23T20:42:05+00:00"
+  },
+  {
+   "title": "USD.AI Announces $128.9M GPU Financing Facility, Its Largest to Date",
+   "url": "https://www.prnewswire.com/news-releases/usdai-announces-128-9m-gpu-financing-facility-its-largest-to-date-302888224.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-09-23T20:37:00+00:00"
+  },
+  {
+   "title": "Show HN: Lifeboat, 2-6x more concurrent agent sessions per GPU, no quantization",
+   "url": "https://github.com/IterateAI/lifeboat-releases",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-09-23T20:32:43+00:00"
+  },
+  {
+   "title": "Microsoft Refreshes its Entry-Level Surface Pro and Surface Laptop with Snapdragon X2 Plus Chips",
+   "url": "https://www.thurrott.com/hardware/341977/microsoft-refreshes-its-entry-level-surface-pro-and-surface-laptop-with-snapdragon-x2-plus-chips",
+   "source": "Thurrott.com",
+   "category": "compute",
+   "published": "2026-09-23T20:32:23+00:00"
+  },
+  {
+   "title": "Microsoft Brings Snapdragon X2 to Smallest Surface Pro and Laptop Lines",
+   "url": "https://www.cnet.com/tech/computing/microsoft-brings-snapdragon-x2-to-smallest-surface-pro-and-laptop-lines/",
+   "source": "CNET",
+   "category": "compute",
+   "published": "2026-09-23T20:31:49+00:00"
+  },
+  {
+   "title": "Quantum computer chip crams more info into less volume \u2013 by vibrating",
+   "url": "https://newatlas.com/science/quantum-computing/quantum-computer-chip-vibrating/",
+   "source": "New Atlas",
+   "category": "quantum",
+   "published": "2026-09-23T20:30:00+00:00"
+  },
+  {
+   "title": "Microsoft unveils refreshed Surface Pro 12-inch and Surface Laptop 13-inch with Snapdragon X2 and brighter screens",
+   "url": "https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look",
+   "source": "Windows Central",
+   "category": "compute",
+   "published": "2026-09-23T20:30:00+00:00"
+  },
+  {
+   "title": "Microsoft brings Snapdragon X2 Plus to 13-inch Surface Laptop, 12-inch Surface Pro",
+   "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-09-23T20:30:00+00:00"
+  },
+  {
+   "title": "Anthropic Says Its AI Helped Discover a Possible New Gene-Editing Tool",
+   "url": "https://www.theinformation.com/briefings/anthropic-says-ai-helped-discover-possible-new-gene-editing-tool",
+   "source": "The Information",
+   "category": "health",
+   "published": "2026-09-23T20:23:28+00:00"
+  },
+  {
+   "title": "Wayve\u2019s AI will reach Mercedes cars within two years, Kendall says",
+   "url": "https://thenextweb.com/news/wayve-alex-kendall-mercedes-humanoid-robots-humanx",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-09-23T20:21:34+00:00"
+  },
+  {
+   "title": "Cadence Locks In TSMC A14 Tool Certification, Cutting Design Iterations By 2.5X As It Races Toward Agentic AI Chips",
+   "url": "https://wccftech.com/cadence-locks-in-tsmc-a14-tool-certification-cutting-design-iterations-by-2-5x/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-09-23T20:20:22+00:00"
+  },
+  {
+   "title": "Anthropic says Claude AI helped discover novel enzyme system",
+   "url": "https://www.channelnewsasia.com/business/anthropic-says-claude-ai-helped-discover-novel-enzyme-system-6406316",
+   "source": "CNA",
+   "category": "health",
+   "published": "2026-09-23T20:12:00+00:00"
+  },
+  {
+   "title": "Enveda secures $311M to advance nature-derived AI drugs into trials",
+   "url": "https://cryptobriefing.com/enveda-311m-ai-drug-discovery/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-09-23T19:41:32+00:00"
+  },
+  {
+   "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+   "url": "https://biztoc.com/x/0c811773b1be6ca2",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-09-23T19:36:26+00:00"
+  },
+  {
+   "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials | TechCrunch",
+   "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+   "source": "TechCrunch",
+   "category": "health",
+   "published": "2026-09-23T19:32:29+00:00"
+  },
+  {
+   "title": "Band together: Qualcomm founds 'Personal AI Health Alliance' with Global Health Connector and more",
+   "url": "https://www.androidcentral.com/phones/qualcomm/band-together-qualcomm-founds-personal-ai-health-alliance-with-global-health-connector-and-more",
+   "source": "Android Central",
+   "category": "health",
+   "published": "2026-09-23T19:30:00+00:00"
+  },
+  {
+   "title": "Agentic conversational video intelligence built on AWS",
+   "url": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-09-23T18:21:54+00:00"
+  },
+  {
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+   "source": "Anthropic.com",
+   "category": "health",
+   "published": "2026-09-23T18:06:47+00:00"
+  },
+  {
+   "title": "Anthropic\u2019s AI Claude discovers new enzyme system akin to CRISPR",
+   "url": "https://cryptobriefing.com/anthropic-claude-discovers-crispr-like-enzyme/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-09-23T18:04:55+00:00"
   },
   {
    "title": "Renishaw reports record results amid AI chip demand surge",
@@ -86,13 +240,6 @@
    "published": "2026-09-23T16:13:10+00:00"
   },
   {
-   "title": "Light Origins Launches Light-O1: Cross-Embodiment Transfer Improves as Human-Action Pretraining Scales",
-   "url": "https://www.prnewswire.com/news-releases/light-origins-launches-light-o1-cross-embodiment-transfer-improves-as-human-action-pretraining-scales-302887959.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-09-23T16:10:00+00:00"
-  },
-  {
    "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
    "url": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
    "source": "Nvidia.com",
@@ -114,39 +261,11 @@
    "published": "2026-09-23T16:04:00+00:00"
   },
   {
-   "title": "Offloaded inference for real-world physical AI robotics",
-   "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
-   "source": "Microsoft Research",
-   "category": "robotics",
-   "published": "2026-09-23T16:01:36+00:00"
-  },
-  {
    "title": "Speediance Maps Its Next Chapter: From a Smart Home Gym to an AI-Powered Fitness Company",
    "url": "https://www.prnewswire.com/news-releases/speediance-maps-its-next-chapter-from-a-smart-home-gym-to-an-ai-powered-fitness-company-302887393.html",
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-09-23T16:00:00+00:00"
-  },
-  {
-   "title": "Robot.com and Grubhub Expand Autonomous Delivery to 10 New Campuses",
-   "url": "https://www.prnewswire.com/news-releases/robotcom-and-grubhub-expand-autonomous-delivery-to-10-new-campuses-302886798.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-09-23T16:00:00+00:00"
-  },
-  {
-   "title": "Two years of OpenAI Academy",
-   "url": "https://openai.com/index/two-years-of-openai-academy",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-23T16:00:00+00:00"
-  },
-  {
-   "title": "MIT welcomes David Siegel SM \u201986, PhD \u201991 as its next Innovation Fellow",
-   "url": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-09-23T15:30:00+00:00"
   },
   {
    "title": "Gemini 3.8 text-to-speech says hello",
@@ -156,47 +275,32 @@
    "published": "2026-09-23T15:25:14+00:00"
   },
   {
-   "title": "Watch a robot dog run a marathon faster than the average human",
-   "url": "https://www.scientificamerican.com/article/watch-a-robot-dog-run-a-marathon-faster-than-the-average-human/",
-   "source": "Scientific American",
-   "category": "robotics",
-   "published": "2026-09-23T15:00:00+00:00"
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T13:00:00+00:00"
   },
   {
-   "title": "XPENG Holds Its First Robotics Supply Chain Partner Conference",
-   "url": "https://www.prnewswire.com/news-releases/xpeng-holds-its-first-robotics-supply-chain-partner-conference-302887834.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-09-23T14:22:00+00:00"
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T12:00:00+00:00"
   },
   {
-   "title": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
-   "url": "https://247wallst.com/investing/2026/09/23/ionq-surges-11-as-nvidia-research-center-deal-follows-error-decoder-breakthrough-d-wave-climbs-5-rigetti-rises-4/",
-   "source": "24/7 Wall St.",
-   "category": "quantum",
-   "published": "2026-09-23T13:19:45+00:00"
+   "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T12:00:00+00:00"
   },
   {
-   "title": "Xynova Dexterous Hands: Programmable Dexterity for the Physical World",
-   "url": "https://www.prnewswire.com/news-releases/xynova-dexterous-hands-programmable-dexterity-for-the-physical-world-302887525.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-09-23T13:09:00+00:00"
-  },
-  {
-   "title": "IonQ to install first on-premise quantum system at Nvidia\u2019s research center in 2027",
-   "url": "https://cryptobriefing.com/ionq-quantum-system-nvidia-research-center-2027/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-09-23T12:51:20+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Show HN: Quant \u2013 A High-Performance Quantum OS Kernel and Simulator in Rust",
-   "url": "https://github.com/strahinjastojanovic826-code/quant",
-   "source": "Github.com",
-   "category": "quantum",
-   "published": "2026-09-23T12:29:33+00:00"
+   "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+   "url": "https://openai.com/index/ringg",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T12:00:00+00:00"
   },
   {
    "title": "Qualcomm reportedly in talks to acquire PickNik Robotics for edge AI expansion",
@@ -295,6 +399,13 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-09-23T10:30:00+00:00"
+  },
+  {
+   "title": "Introducing MentalHealthBench",
+   "url": "https://openai.com/index/introducing-mentalhealthbench",
+   "source": "OpenAI",
+   "category": "health",
+   "published": "2026-09-23T10:00:00+00:00"
   },
   {
    "title": "Episil says AI demand marks structural shift in semiconductor epitaxy",
@@ -486,13 +597,6 @@
    "published": "2026-09-23T02:44:51+00:00"
   },
   {
-   "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-   "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
-   "source": "Nvidia.com",
-   "category": "ai",
-   "published": "2026-09-23T02:30:22+00:00"
-  },
-  {
    "title": "experts4bit-qlora 0.37.0",
    "url": "https://pypi.org/project/experts4bit-qlora/0.37.0/",
    "source": "Pypi.org",
@@ -512,13 +616,6 @@
    "source": "Frontiersin.org",
    "category": "health",
    "published": "2026-09-23T02:06:59+00:00"
-  },
-  {
-   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-   "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-23T02:00:00+00:00"
   },
   {
    "title": "Astra agent performs zero-shot robot control with 95% success rate in real-world tests",
@@ -745,6 +842,13 @@
    "published": "2026-09-22T19:20:43+00:00"
   },
   {
+   "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
+   "url": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-09-22T19:00:00+00:00"
+  },
+  {
    "title": "XtalPi AI Enables Seven-Month PCC Nomination for Viva-Thera's MPER-Targeting HIV-1 Program",
    "url": "https://www.prnewswire.com/news-releases/xtalpi-ai-enables-seven-month-pcc-nomination-for-viva-theras-mper-targeting-hiv-1-program-302886550.html",
    "source": "PRNewswire",
@@ -841,13 +945,6 @@
    "source": "Crypto Briefing",
    "category": "health",
    "published": "2026-09-22T14:58:44+00:00"
-  },
-  {
-   "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-   "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-09-22T12:00:41+00:00"
   },
   {
    "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
@@ -1179,6 +1276,13 @@
    "published": "2026-09-21T20:08:00+00:00"
   },
   {
+   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-09-21T18:00:07+00:00"
+  },
+  {
    "title": "PCI Adds AI to B Pharm curriculum",
    "url": "https://timesofindia.indiatimes.com/city/allahabad/pci-adds-ai-to-b-pharm-curriculum/articleshow/134395740.cms",
    "source": "The Times of India",
@@ -1249,6 +1353,20 @@
    "published": "2026-09-21T16:03:00+00:00"
   },
   {
+   "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+   "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-09-21T16:00:46+00:00"
+  },
+  {
+   "title": "From Enablement to Execution, Egypt\u2019s AI Ecosystem Reaches Production Scale",
+   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-21T16:00:10+00:00"
+  },
+  {
    "title": "Grok 4.7",
    "url": "https://x.ai/news/grok-4-7",
    "source": "X.ai",
@@ -1261,6 +1379,13 @@
    "source": "Techrseries.com",
    "category": "health",
    "published": "2026-09-21T15:45:06+00:00"
+  },
+  {
+   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+   "source": "Microsoft Research",
+   "category": "health",
+   "published": "2026-09-21T15:30:19+00:00"
   },
   {
    "title": "Anthropic sets up biology lab as it ramps AI drug program",
@@ -34875,132 +35000,6 @@
    "source": "Music Ally",
    "category": "ai",
    "published": "2026-07-02T09:15:34+00:00"
-  },
-  {
-   "title": "India, Japan sign AI, energy cooperation pacts",
-   "url": "https://biztoc.com/x/de27144a952caf6e",
-   "source": "Biztoc.com",
-   "category": "ai",
-   "published": "2026-07-02T09:14:43+00:00"
-  },
-  {
-   "title": "Show HN: Dart_agent_core \u2013 Run AI agents in Flutter apps with lifecycle hooks",
-   "url": "https://github.com/memex-lab/dart_agent_core",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-02T09:14:29+00:00"
-  },
-  {
-   "title": "Yidu Tech Achieves Its First Full-Year Profit: FY2026 Net Profit Reaches RMB 78.8 Million, with Positive Operating Cash Flow in the Second Half",
-   "url": "https://www.prnewswire.com/news-releases/yidu-tech-achieves-its-first-full-year-profit-fy2026-net-profit-reaches-rmb-78-8-million-with-positive-operating-cash-flow-in-the-second-half-302816791.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-02T09:14:00+00:00"
-  },
-  {
-   "title": "Global X-ray Non-Destructive Testing Equipment Market to Reach USD 7.6 Billion by 2033, Driven by EV and Battery Manufacturing Boom",
-   "url": "https://www.globenewswire.com/news-release/2026/07/02/3321161/28124/en/Global-X-ray-Non-Destructive-Testing-Equipment-Market-to-Reach-USD-7-6-Billion-by-2033-Driven-by-EV-and-Battery-Manufacturing-Boom.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-02T09:14:00+00:00"
-  },
-  {
-   "title": "Japan Green Data Center Market Set to Surge with 29.4% CAGR; Reaching USD 9.90 Billion by 2030",
-   "url": "https://www.globenewswire.com/news-release/2026/07/02/3321160/28124/en/Japan-Green-Data-Center-Market-Set-to-Surge-with-29-4-CAGR-Reaching-USD-9-90-Billion-by-2030.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-02T09:13:00+00:00"
-  },
-  {
-   "title": "Hyperscale and Colocation Data Centers Propel Europe Towards a Sustainable Digital Future",
-   "url": "https://www.globenewswire.com/news-release/2026/07/02/3321159/28124/en/Hyperscale-and-Colocation-Data-Centers-Propel-Europe-Towards-a-Sustainable-Digital-Future.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-02T09:12:00+00:00"
-  },
-  {
-   "title": "APAC Green Data Center Market Poised for 33% CAGR by 2030: Digitalization and Sustainability Drive Growth",
-   "url": "https://www.globenewswire.com/news-release/2026/07/02/3321158/28124/en/APAC-Green-Data-Center-Market-Poised-for-33-CAGR-by-2030-Digitalization-and-Sustainability-Drive-Growth.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-02T09:11:00+00:00"
-  },
-  {
-   "title": "IBM to set up one of India's first quantum computers in Amaravati by September 2026",
-   "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/ibm-to-set-up-one-of-indias-first-quantum-computers-in-amaravati-by-september-2026/articleshow/132134273.cms",
-   "source": "The Times of India",
-   "category": "quantum",
-   "published": "2026-07-02T09:08:04+00:00"
-  },
-  {
-   "title": "India's hidden semiconductor advantage: What's next in the chip journey?",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-hidden-semiconductor-advantage-whats-next-in-the-chip-journey/articleshow/132134290.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-02T09:04:29+00:00"
-  },
-  {
-   "title": "How home healthcare providers are using AI to avoid compliance gaps",
-   "url": "https://www.techtarget.com/healthtechanalytics/feature/How-home-healthcare-providers-are-using-AI-to-avoid-compliance-gaps",
-   "source": "Techtarget.com",
-   "category": "health",
-   "published": "2026-07-02T09:00:00+00:00"
-  },
-  {
-   "title": "SoftBank plans to offer AI-tailored cloud services in U.S. from next fiscal year",
-   "url": "https://biztoc.com/x/0d884d36e9f5e999",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-02T08:43:57+00:00"
-  },
-  {
-   "title": "Show HN: I trained a 1B LLM from scratch for $315 and open-sourced weights+data",
-   "url": "https://huggingface.co/AIIT-Threshold/Tessera-1B",
-   "source": "Huggingface.co",
-   "category": "ai",
-   "published": "2026-07-02T08:42:53+00:00"
-  },
-  {
-   "title": "XPeng Inc. (XPEV) Boss to Head the Robot Unit with Humanoid Mass Production Imminent",
-   "url": "https://finance.yahoo.com/technology/ai/articles/xpeng-inc-xpev-boss-head-063754430.html",
-   "source": "Yahoo Entertainment",
-   "category": "robotics",
-   "published": "2026-07-02T06:37:54+00:00"
-  },
-  {
-   "title": "UCLA Researchers Develop 3D-Printed Zinc Battery With Higher Energy Storage",
-   "url": "https://www.naturalnews.com/2026-07-02-researchers-3d-zinc-battery-higher-energy-storage.html",
-   "source": "Naturalnews.com",
-   "category": "health",
-   "published": "2026-07-02T06:00:00+00:00"
-  },
-  {
-   "title": "Alibaba's Ant Group backs Zeroth Robotics in latest AI venture",
-   "url": "https://seekingalpha.com/news/4609516-alibabas-ant-group-backs-zeroth-robotics-in-latest-ai-venture",
-   "source": "Seeking Alpha",
-   "category": "robotics",
-   "published": "2026-07-02T04:52:42+00:00"
-  },
-  {
-   "title": "Takeda and Insilico strike AI-led drug discovery deal worth up to $600m",
-   "url": "https://biztoc.com/x/0cfde86c40019472",
-   "source": "Biztoc.com",
-   "category": "health",
-   "published": "2026-07-02T03:39:09+00:00"
-  },
-  {
-   "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
-   "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-07-02T03:34:48+00:00"
-  },
-  {
-   "title": "Socionext to develop TSMC A14 chiplet for AI data center SoCs",
-   "url": "https://www.digitimes.com/news/a20260702VL207/socionext-ai-data-center-soc-tsmc.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-02T03:24:00+00:00"
   }
  ]
 }
