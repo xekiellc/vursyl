@@ -1,26 +1,12 @@
 {
- "updated": "2026-09-24T04:01:02.718555+00:00",
+ "updated": "2026-09-24T11:25:40.538371+00:00",
  "items": [
-  {
-   "title": "Offloaded inference for real-world physical AI robotics",
-   "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
-   "source": "Microsoft Research",
-   "category": "robotics",
-   "published": "2026-09-23T16:01:36+00:00"
-  },
   {
    "title": "Advancing Private AI Compute with secure, server-side memory",
    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
    "source": "Google DeepMind",
    "category": "ai",
    "published": "2026-09-23T16:00:57+00:00"
-  },
-  {
-   "title": "Two years of OpenAI Academy",
-   "url": "https://openai.com/index/two-years-of-openai-academy",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-23T16:00:00+00:00"
   },
   {
    "title": "MIT welcomes David Siegel SM \u201986, PhD \u201991 as its next Innovation Fellow",
@@ -30,18 +16,123 @@
    "published": "2026-09-23T15:30:00+00:00"
   },
   {
-   "title": "Gemini 3.8 text-to-speech says hello",
-   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-09-23T15:25:14+00:00"
-  },
-  {
-   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-09-23T13:00:00+00:00"
+   "published": "2026-09-23T12:00:00+00:00"
+  },
+  {
+   "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T12:00:00+00:00"
+  },
+  {
+   "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+   "url": "https://openai.com/index/ringg",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T12:00:00+00:00"
+  },
+  {
+   "title": "Signia Introduces MaX, Powered by Acoustic Intelligence\u2122: World\u2019s First AI Hearing Aid Platform with 4 DNNs",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/signia-introduces-max-powered-by-acoustic-intelligence-worlds-first-ai-hearing-aid-platform-with-4-dnns",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-09-23T11:14:49+00:00"
+  },
+  {
+   "title": "Eight Sleep Introduces Pod 6: The Smallest, Most Powerful Pod Yet. Now Starting at $1,999.",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/eight-sleep-introduces-pod-6-the-smallest-most-powerful-pod-yet-now-starting-at-1999",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-09-23T11:13:52+00:00"
+  },
+  {
+   "title": "Chicago startup Go.AI raises $85M, plans to expand downtown headquarters",
+   "url": "https://biztoc.com/x/8e707a829d76124d",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-09-23T11:05:13+00:00"
+  },
+  {
+   "title": "Detecting spam and auto-replies with Jev and the Laravel AI SDK",
+   "url": "https://freek.dev/3194-detecting-spam-and-auto-replies-with-jev-and-the-laravel-ai-sdk",
+   "source": "Freek.dev",
+   "category": "ai",
+   "published": "2026-09-23T11:00:00+00:00"
+  },
+  {
+   "title": "Presentation: APIs for Agents: Rethinking API Programs in the MCP Era",
+   "url": "https://www.infoq.com/presentations/mcp-calm-api-architecture/",
+   "source": "InfoQ.com",
+   "category": "ai",
+   "published": "2026-09-23T11:00:00+00:00"
+  },
+  {
+   "title": "Abbott And Berry Street Partner To Expand Personalized Nutrition Support For Consumers Seeking Better Metabolic Health",
+   "url": "https://www.prnewswire.com/news-releases/abbott-and-berry-street-partner-to-expand-personalized-nutrition-support-for-consumers-seeking-better-metabolic-health-302886962.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-09-23T11:00:00+00:00"
+  },
+  {
+   "title": "Sharon AI Collaborates with VAST Data on the Launch of DataEnclave, Bringing Leading AI Models to Customer Controlled Infrastructure",
+   "url": "https://www.prnewswire.com/news-releases/sharon-ai-collaborates-with-vast-data-on-the-launch-of-dataenclave-bringing-leading-ai-models-to-customer-controlled-infrastructure-302887453.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-09-23T11:00:00+00:00"
+  },
+  {
+   "title": "A Startup Wants to Power Data Centers With \u2018Supercritical\u2019 Carbon Dioxide",
+   "url": "https://www.wired.com/story/startup-power-data-centers-supercritical-co2/",
+   "source": "Wired",
+   "category": "compute",
+   "published": "2026-09-23T11:00:00+00:00"
+  },
+  {
+   "title": "FICER Brings High-Performance Fiber Optic Solutions to Futurecom 2026, Optimizing Networks for Borderless Innovation.",
+   "url": "https://www.prnewswire.com/news-releases/ficer-brings-high-performance-fiber-optic-solutions-to-futurecom-2026-optimizing-networks-for-borderless-innovation-302869790.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-09-23T11:00:00+00:00"
+  },
+  {
+   "title": "From Advice to Action: How Ping An Good Doctor Is Bringing Healthcare AI into the Real World",
+   "url": "https://www.prnewswire.com/news-releases/from-advice-to-action-how-ping-an-good-doctor-is-bringing-healthcare-ai-into-the-real-world-302887567.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-09-23T10:58:00+00:00"
+  },
+  {
+   "title": "\u2018AI isn\u2019t about replacing people\u2019: Findability Sciences CEO Anand Mahurkar on enterprise AI",
+   "url": "https://economictimes.indiatimes.com/magazines/panache/ai-isnt-about-replacing-people-findability-sciences-ceo-anand-mahurkar-on-enterprise-ai/articleshow/134432901.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-09-23T10:54:22+00:00"
+  },
+  {
+   "title": "Anthropic and OpenEvidence Team to Expand Reach of Medical AI",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openevidence-team-to-expand-reach-of-medical-ai/",
+   "source": "pymnts.com",
+   "category": "health",
+   "published": "2026-09-23T10:46:29+00:00"
+  },
+  {
+   "title": "Flagship Pioneering Awarded First-Of-Its-Kind Contract by Department of War to Advance Next-Generation Medical Countermeasure Technologies Against Evolving Biological Threats",
+   "url": "https://www.prnewswire.com/news-releases/flagship-pioneering-awarded-first-of-its-kind-contract-by-department-of-war-to-advance-next-generation-medical-countermeasure-technologies-against-evolving-biological-threats-302886903.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-09-23T10:30:00+00:00"
+  },
+  {
+   "title": "Introducing MentalHealthBench",
+   "url": "https://openai.com/index/introducing-mentalhealthbench",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T10:00:00+00:00"
   },
   {
    "title": "Episil says AI demand marks structural shift in semiconductor epitaxy",
@@ -233,13 +324,6 @@
    "published": "2026-09-23T02:44:51+00:00"
   },
   {
-   "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-   "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
-   "source": "Nvidia.com",
-   "category": "ai",
-   "published": "2026-09-23T02:30:22+00:00"
-  },
-  {
    "title": "experts4bit-qlora 0.37.0",
    "url": "https://pypi.org/project/experts4bit-qlora/0.37.0/",
    "source": "Pypi.org",
@@ -261,32 +345,11 @@
    "published": "2026-09-23T02:06:59+00:00"
   },
   {
-   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-   "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-23T02:00:00+00:00"
-  },
-  {
-   "title": "Astra agent performs zero-shot robot control with 95% success rate in real-world tests",
-   "url": "https://cryptobriefing.com/astra-agent-controls-humanoid-robot/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-09-23T01:40:22+00:00"
-  },
-  {
    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
    "url": "https://openai.com/index/airbnb-gpt-6-astra",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-09-23T01:00:00+00:00"
-  },
-  {
-   "title": "String-breaking dynamics in a quantum simulator",
-   "url": "https://www.nature.com/articles/s41567-026-03422-0",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-09-23T00:00:00+00:00"
   },
   {
    "title": "Practical lessons in the global scaling of clinical AI: from one hospital to over a million patients screened",
@@ -436,6 +499,14 @@
    "published": "2026-09-22T20:34:44+00:00"
   },
   {
+   "title": "IonQ runs first real-time quantum error correction decoder on a single commodity CPU",
+   "url": "https://cryptobriefing.com/ionq-quantum-error-correction-decoder-cpu/",
+   "source": "Crypto Briefing",
+   "category": "quantum",
+   "published": "2026-09-22T20:07:47+00:00",
+   "breakthrough": true
+  },
+  {
    "title": "Jaguar Health Gets FDA Fee Waivers for 2 Drugs",
    "url": "https://www.stocktitan.net/news/JAGX/jaguar-health-receives-fee-waivers-from-41gfblyoyz7g.html",
    "source": "Stocktitan.net",
@@ -462,6 +533,13 @@
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-09-22T19:53:00+00:00"
+  },
+  {
+   "title": "MES Inc. Urges Robotics OEMs to Lock In Manufacturing Strategy Before Design Freeze as Global Robot Demand Hits Record Levels",
+   "url": "https://www.prnewswire.com/news-releases/mes-inc-urges-robotics-oems-to-lock-in-manufacturing-strategy-before-design-freeze-as-global-robot-demand-hits-record-levels-302886673.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-09-22T19:31:00+00:00"
   },
   {
    "title": "Sentry AI Brings Flexible, AI-Powered Remote Guarding to Multifamily Communities and HOAs",
@@ -497,13 +575,6 @@
    "source": "MIT News AI",
    "category": "health",
    "published": "2026-09-22T19:00:00+00:00"
-  },
-  {
-   "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185741178",
-   "source": "Slashdot.org",
-   "category": "robotics",
-   "published": "2026-09-22T17:52:35+00:00"
   },
   {
    "title": "XtalPi AI Enables Seven-Month PCC Nomination for Viva-Thera's MPER-Targeting HIV-1 Program",
@@ -597,32 +668,11 @@
    "published": "2026-09-22T15:30:34+00:00"
   },
   {
-   "title": "E Tech Group Expands U.S. Collaborative Robotics Portfolio with Rainbow Robotics",
-   "url": "https://www.prnewswire.com/news-releases/e-tech-group-expands-us-collaborative-robotics-portfolio-with-rainbow-robotics-302884303.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-09-22T15:24:00+00:00"
-  },
-  {
    "title": "Heidi raises $340M to enhance AI tools for healthcare",
    "url": "https://cryptobriefing.com/heidi-raises-340m-ai-healthcare/",
    "source": "Crypto Briefing",
    "category": "health",
    "published": "2026-09-22T14:58:44+00:00"
-  },
-  {
-   "title": "For the first time, scientists watch sound jump between quantum states",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
-   "source": "Science Daily",
-   "category": "quantum",
-   "published": "2026-09-22T13:17:20+00:00"
-  },
-  {
-   "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-   "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-09-22T12:00:41+00:00"
   },
   {
    "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
@@ -954,6 +1004,13 @@
    "published": "2026-09-21T20:08:00+00:00"
   },
   {
+   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-09-21T18:00:07+00:00"
+  },
+  {
    "title": "PCI Adds AI to B Pharm curriculum",
    "url": "https://timesofindia.indiatimes.com/city/allahabad/pci-adds-ai-to-b-pharm-curriculum/articleshow/134395740.cms",
    "source": "The Times of India",
@@ -1031,6 +1088,13 @@
    "published": "2026-09-21T16:00:46+00:00"
   },
   {
+   "title": "From Enablement to Execution, Egypt\u2019s AI Ecosystem Reaches Production Scale",
+   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-21T16:00:10+00:00"
+  },
+  {
    "title": "Grok 4.7",
    "url": "https://x.ai/news/grok-4-7",
    "source": "X.ai",
@@ -1043,6 +1107,13 @@
    "source": "Techrseries.com",
    "category": "health",
    "published": "2026-09-21T15:45:06+00:00"
+  },
+  {
+   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+   "source": "Microsoft Research",
+   "category": "breakthroughs",
+   "published": "2026-09-21T15:30:19+00:00"
   },
   {
    "title": "Anthropic sets up biology lab as it ramps AI drug program",
@@ -1176,6 +1247,13 @@
    "source": "Oreilly.com",
    "category": "ai",
    "published": "2026-09-21T10:55:18+00:00"
+  },
+  {
+   "title": "5 Companies Using NVIDIA AI for Clean Energy",
+   "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-21T10:00:35+00:00"
   },
   {
    "title": "Building standards for the next phase of AI",
@@ -34923,83 +35001,6 @@
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-07-01T17:10:00+00:00"
-  },
-  {
-   "title": "A missing kitten rode under a car hood. AI brought her home",
-   "url": "https://www.foxnews.com/tech/missing-kitten-rode-under-car-hood-ai-brought-her-home",
-   "source": "Fox News",
-   "category": "ai",
-   "published": "2026-07-01T16:54:25+00:00"
-  },
-  {
-   "title": "Chinese firm sells hyper-real, \u2018always loyal\u2019 humanoid robots",
-   "url": "https://www.digitaljournal.com/article/chinese-firm-sells-hyper-real-always-loyal-humanoid-robots/",
-   "source": "Digital Journal",
-   "category": "robotics",
-   "published": "2026-07-01T16:03:38+00:00"
-  },
-  {
-   "title": "Physical AI Market Set to Surpass $430 Billion by 2030, Driven by Nine Key Vertical Sectors",
-   "url": "https://www.globenewswire.com/news-release/2026/07/01/3320809/28124/en/Physical-AI-Market-Set-to-Surpass-430-Billion-by-2030-Driven-by-Nine-Key-Vertical-Sectors.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-01T14:39:00+00:00"
-  },
-  {
-   "title": "SBI unveils a suite of AI-powered digital journeys for retail and business banking customers",
-   "url": "https://www.thehindubusinessline.com/money-and-banking/sbi-unveils-a-suite-of-ai-powered-digital-journeys-for-retail-and-business-banking-customers/article71170132.ece",
-   "source": "BusinessLine",
-   "category": "ai",
-   "published": "2026-07-01T14:10:11+00:00"
-  },
-  {
-   "title": "Startup Oxmiq raises $35 million to build chip architecture to lower cost of AI",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/startup-oxmiq-raises-35-million-to-build-chip-architecture-to-lower-cost-of-ai/articleshow/132117037.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-01T14:06:47+00:00"
-  },
-  {
-   "title": "Ex-Intel exec Raja Koduri's OXMIQ raises $35 million to build licensable AI chip architecture",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/oxmiq-raises-35-million-to-license-ai-chip-designs-as-sovereign-ai-demand-grows/articleshow/132117037.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-01T14:06:47+00:00"
-  },
-  {
-   "title": "(PHOTO) Elon Musk Tours Optimus Production Line in Fremont as Tesla Advances Humanoid Robot Development",
-   "url": "https://www.ibtimes.com.au/tesla-optimus-robot-progress-1871658",
-   "source": "Ibtimes.com.au",
-   "category": "robotics",
-   "published": "2026-07-01T14:05:34+00:00"
-  },
-  {
-   "title": "Fable 5 Is Back After Anthropic Irons Out Security Concerns With US Government",
-   "url": "https://uk.pcmag.com/ai/165958/fable-5-is-back-after-anthropic-irons-out-security-concerns-with-us-government",
-   "source": "PCMag.com",
-   "category": "ai",
-   "published": "2026-07-01T14:04:27+00:00"
-  },
-  {
-   "title": "Claude Sonnet 5 is here, and the 'most agentic Sonnet model yet' shows that the AI war is shifting from chat to agents",
-   "url": "https://www.techradar.com/ai-platforms-assistants/claude/claude-sonnet-5-is-here-and-the-most-agentic-sonnet-model-yet-shows-that-the-ai-war-is-shifting-from-chat-to-agents",
-   "source": "TechRadar",
-   "category": "ai",
-   "published": "2026-07-01T14:03:09+00:00"
-  },
-  {
-   "title": "Experity Acquires Exdion Healthcare to Accelerate AI-Driven Revenue Cycle Management Automation for On-Demand Care",
-   "url": "https://www.prnewswire.com/news-releases/experity-acquires-exdion-healthcare-to-accelerate-ai-driven-revenue-cycle-management-automation-for-on-demand-care-302815075.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-01T14:00:00+00:00"
-  },
-  {
-   "title": "Q/C Technologies Relocates Headquarters to San Francisco in Proximity to World-Class Engineering Experts for Photonic Computing and Optical AI Inference Initiative",
-   "url": "https://www.globenewswire.com/news-release/2026/07/01/3320730/0/en/Q-C-Technologies-Relocates-Headquarters-to-San-Francisco-in-Proximity-to-World-Class-Engineering-Experts-for-Photonic-Computing-and-Optical-AI-Inference-Initiative.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-01T13:44:00+00:00"
   }
  ]
 }
