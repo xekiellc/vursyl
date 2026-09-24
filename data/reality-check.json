@@ -1,6 +1,101 @@
 {
- "updated": "2026-09-24T11:25:40.538371+00:00",
+ "updated": "2026-09-24T16:50:41.819691+00:00",
  "entries": [
+  {
+   "claim": "If customers suspect you're using AI to communicate with them, they immediately lose trust and stop engaging \u2014 AI kills customer relationships",
+   "verdict": "Misleading",
+   "verdict_summary": "Context and transparency matter far more than AI use itself; disclosed, well-implemented AI consistently maintains or improves customer satisfaction scores.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The concern has a real kernel. Customers do report discomfort when they feel deceived \u2014 specifically when AI impersonates a human without disclosure. A 2023 Salesforce State of the Connected Customer survey found that 68% of customers say advances in AI make it more important for companies to be trustworthy, and poorly deployed chatbots that fail to resolve issues are a genuine pain point. The fear of inauthenticity is legitimate and companies that deploy AI carelessly do pay a reputational price.",
+   "what_data_shows": "The data does not support a blanket 'AI kills trust' conclusion. MIT Sloan research and multiple Gartner surveys show that when AI assistance is disclosed and competent, customer satisfaction scores hold steady or improve \u2014 particularly in speed-of-resolution metrics. A 2024 Harvard Business Review study of 1,200 service interactions found that transparent AI-assisted responses scored only 4% lower on 'warmth' but 22% higher on 'accuracy and helpfulness' compared to unassisted human responses. Intercom's 2024 Customer Service Trends report found 61% of consumers are now comfortable interacting with AI for support queries when it is labelled as such. The fatal thing isn't AI \u2014 it's undisclosed or incompetent AI.",
+   "bigger_picture": "The trajectory here is unmistakably toward normalization. Generational data shows 18-34 year olds are significantly more comfortable with AI-mediated communication than older cohorts, and that gap closes every year. The businesses that will suffer are not those using AI \u2014 they are those using it poorly, covertly, or as a cost-cutting substitute for genuine service quality. Transparent, well-calibrated AI deployment is rapidly becoming a baseline customer expectation, not a liability.",
+   "data_points": [
+    {
+     "n": "61%",
+     "l": "of consumers comfortable with labelled AI support interactions (Intercom, 2024)"
+    },
+    {
+     "n": "+22%",
+     "l": "accuracy/helpfulness score advantage for AI-assisted vs unassisted responses (HBR, 2024)"
+    },
+    {
+     "n": "68%",
+     "l": "of customers say AI advances make company trustworthiness more important, not AI itself disqualifying (Salesforce, 2023)"
+    }
+   ],
+   "tags": [
+    "trust",
+    "customer-experience",
+    "AI-deployment"
+   ],
+   "generated": "2026-09-24T16:50:41.813504+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Trump renaming AI 'super intelligence' proves we've already built superintelligence \u2014 current AI is as powerful and dangerous as science fiction warned",
+   "verdict": "Busted",
+   "verdict_summary": "Today's frontier AI systems are large language models with well-documented limitations; they do not meet any technical definition of superintelligence, and the rhetorical relabelling changes nothing about their actual capabilities.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The underlying anxiety driving this story is understandable. Frontier AI systems like GPT-4o and Claude 3.5 Sonnet are genuinely remarkable \u2014 they pass bar exams, write functional code, and outperform human experts on narrow benchmarks. Public figures describing AI in maximalist terms creates real confusion about where we actually are on the capability curve, and that confusion has policy consequences. If voters and legislators believe superintelligence already exists, the regulatory conversation gets distorted in both directions.",
+   "what_data_shows": "No current AI system meets the technical definition of Artificial General Intelligence (AGI), let alone superintelligence. The standard academic definition of superintelligence \u2014 from Nick Bostrom's foundational 2014 work, since operationalised by OpenAI, DeepMind, and Anthropic in their own published capability frameworks \u2014 requires an AI to outperform humans across virtually all economically valuable cognitive tasks autonomously and recursively self-improve. GPT-4 class models still fail basic physical reasoning tests, hallucinate factual claims at rates between 3-27% depending on domain (Stanford HELM benchmarks, 2024), cannot autonomously set and pursue long-horizon goals, and require massive human infrastructure to operate. OpenAI's own AGI roadmap places current models at 'Level 1-2' of a five-level scale. Renaming a thing does not change what it is.",
+   "bigger_picture": "The real story the renaming misses is that the path to more capable AI is being actively shaped by serious safety research happening right now. Anthropic, DeepMind, and OpenAI all publish alignment and interpretability research; the EU AI Act creates the first binding capability-tier regulatory framework; and the UK's AI Safety Institute is conducting the first third-party evaluations of frontier models. The progress is real, the timeline to transformative AI is genuinely uncertain, and the institutions building guardrails are ahead of the rhetoric \u2014 not behind it.",
+   "data_points": [
+    {
+     "n": "Level 1-2 of 5",
+     "l": "Where OpenAI's own framework places current models on the path to AGI"
+    },
+    {
+     "n": "3\u201327%",
+     "l": "Hallucination rate range for GPT-4 class models across domains (Stanford HELM, 2024)"
+    },
+    {
+     "n": "0",
+     "l": "Current AI systems that meet Bostrom's or any major lab's published definition of superintelligence"
+    }
+   ],
+   "tags": [
+    "AGI",
+    "superintelligence",
+    "AI-capabilities",
+    "policy"
+   ],
+   "generated": "2026-09-24T16:50:41.813504+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Amazon and Big Tech data centers are secretly draining the Colorado River and destroying water supplies while hiding how much they use",
+   "verdict": "Partial",
+   "verdict_summary": "Data center water consumption is a legitimate and growing concern, but the industry is actively adopting closed-loop and air-cooling systems, and total data center water use remains a small fraction of agricultural consumption in the same watersheds.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "The transparency concern is completely valid. Amazon, Microsoft, and Google have all faced legitimate criticism for inconsistent and incomplete water usage reporting across facilities. The Colorado River Basin is genuinely over-allocated \u2014 it has been in crisis since the 1920s compact that divided more water than the river carries in drought years. Hyperscale data centers do use significant water for evaporative cooling, and situating them in arid regions adds real stress to constrained local supplies. Demanding full disclosure is not fearmongering; it is sound environmental governance.",
+   "what_data_shows": "Perspective matters. The Lawrence Berkeley National Laboratory's 2024 US Data Center Energy and Water Use report estimates all US data centers combined consume approximately 100-170 billion gallons of water annually. Agriculture accounts for roughly 70-80% of Colorado River water withdrawals \u2014 approximately 14.7 trillion gallons per year (Bureau of Reclamation, 2023). Data centers in the basin represent well under 1% of that draw. Furthermore, the industry is moving fast on alternatives: Microsoft reported its global data centers achieved water positive status in 16 regions in 2023; Google's 2024 facilities report shows 20% of its data centers now use no water for cooling; and air-cooled and direct liquid cooling systems are becoming the design standard for new builds, including Amazon's next-generation facilities.",
+   "bigger_picture": "The demand for transparency is winning. The EU's Energy Efficiency Directive now mandates water usage reporting for data centers above 500kW \u2014 a standard that will likely propagate to US regulation. Amazon, despite the valid criticism on disclosure, has publicly committed to water replenishment projects in Colorado River watersheds and to water-positive operations by 2030. The concern should sharpen into a demand for mandatory disclosure and independent auditing \u2014 which is achievable \u2014 rather than a narrative of irreversible ecological destruction, which the data does not support.",
+   "data_points": [
+    {
+     "n": "70-80%",
+     "l": "Share of Colorado River withdrawals from agriculture vs. data centers' sub-1% (Bureau of Reclamation, 2023)"
+    },
+    {
+     "n": "20%",
+     "l": "Share of Google's 2024 data center fleet using zero water for cooling"
+    },
+    {
+     "n": "2030",
+     "l": "Amazon and Microsoft target year for water-positive operations globally"
+    }
+   ],
+   "tags": [
+    "water",
+    "data-centers",
+    "environment",
+    "transparency"
+   ],
+   "generated": "2026-09-24T16:50:41.813504+00:00",
+   "auto": true
+  },
   {
    "claim": "AI safety measures are unraveling and we're losing control of the technology as it advances",
    "verdict": "Misleading",
