@@ -1,12 +1,187 @@
 {
- "updated": "2026-09-25T04:15:42.223033+00:00",
+ "updated": "2026-09-25T11:31:58.867954+00:00",
  "items": [
   {
-   "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-   "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-   "source": "NVIDIA",
+   "title": "Estimating suicide risk from text",
+   "url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+   "source": "MIT News AI",
    "category": "health",
-   "published": "2026-09-24T14:00:50+00:00"
+   "published": "2026-09-24T21:00:00+00:00"
+  },
+  {
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-09-24T16:20:39+00:00"
+  },
+  {
+   "title": "Gemma 4 runs fine on my laptop, but putting it on my NAS is what changed how I use it",
+   "url": "https://www.xda-developers.com/gemma-4-runs-fine-on-my-laptop-but-putting-it-on-my-nas-is-what-changed-how-i-use-it/",
+   "source": "XDA Developers",
+   "category": "ai",
+   "published": "2026-09-24T11:30:19+00:00"
+  },
+  {
+   "title": "WiCi One unveils wireless Wi-Fi 7 eGPU with built-in 4TB SSD for local AI",
+   "url": "https://www.tomshardware.com/pc-components/gpus/wici-one-unveils-wireless-wi-fi-7-egpu-with-built-in-4tb-ssd-for-local-ai-usd1-999-box-leverages-wifi-7-to-present-a-remote-card-as-local",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-09-24T11:25:00+00:00"
+  },
+  {
+   "title": "steerable-agent-runtime 0.6.40",
+   "url": "https://pypi.org/project/steerable-agent-runtime/0.6.40/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-24T11:23:17+00:00"
+  },
+  {
+   "title": "flowproof 0.23.15",
+   "url": "https://pypi.org/project/flowproof/0.23.15/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-24T11:22:49+00:00"
+  },
+  {
+   "title": "qsim-sdk 0.12.0",
+   "url": "https://pypi.org/project/qsim-sdk/0.12.0/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-09-24T11:18:55+00:00"
+  },
+  {
+   "title": "entail-ai 1.0.0",
+   "url": "https://pypi.org/project/entail-ai/1.0.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-24T11:16:48+00:00"
+  },
+  {
+   "title": "samtale added to PyPI",
+   "url": "https://pypi.org/project/samtale/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-24T11:13:14+00:00"
+  },
+  {
+   "title": "Oracle Health Launches AI Revenue Cycle Capabilities",
+   "url": "https://www.hhmglobal.com/industry-updates/press-releases/oracle-health-unveils-ai-powered-revenue-cycle-management-capabilities-to-strengthen-healthcare-financial-performance",
+   "source": "Hhmglobal.com",
+   "category": "health",
+   "published": "2026-09-24T11:11:14+00:00"
+  },
+  {
+   "title": "Meta Muse Is Not a Consumer AI Story. It Is a Supply Chain Architecture Story",
+   "url": "https://logisticsviewpoints.com/2026/09/24/meta-muse-is-not-a-consumer-ai-story-it-is-a-supply-chain-architecture-story/",
+   "source": "Logisticsviewpoints.com",
+   "category": "ai",
+   "published": "2026-09-24T11:09:53+00:00"
+  },
+  {
+   "title": "healthcare-mcp added to PyPI",
+   "url": "https://pypi.org/project/healthcare-mcp/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-24T11:06:35+00:00"
+  },
+  {
+   "title": "SoftBank raises $11.1B through massive bond sale to fund OpenAI investment",
+   "url": "https://cryptobriefing.com/softbank-raises-11b-ai-semiconductor-bond-sale/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-09-24T11:05:46+00:00"
+  },
+  {
+   "title": "New Veeva Study Builder Agent to Configure Clinical Studies in as Little as One Day",
+   "url": "https://www.prnewswire.com/news-releases/new-veeva-study-builder-agent-to-configure-clinical-studies-in-as-little-as-one-day-302888436.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-09-24T11:03:00+00:00"
+  },
+  {
+   "title": "RAG  Jev: How I Built Hyper-relevant Multilingual Search in my App",
+   "url": "https://www.natashatherobot.com/p/rag-jev-multilingual-search",
+   "source": "Natashatherobot.com",
+   "category": "ai",
+   "published": "2026-09-24T11:02:54+00:00"
+  },
+  {
+   "title": "IIT Delhi develops India's first indigenously designed micro Graphics Processing Unit",
+   "url": "https://economictimes.indiatimes.com/news/science/iit-delhi-develops-indias-first-indigenously-designed-micro-graphics-processing-unit/articleshow/134459768.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-09-24T11:02:20+00:00"
+  },
+  {
+   "title": "arjuna-ocr added to PyPI",
+   "url": "https://pypi.org/project/arjuna-ocr/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-24T10:50:13+00:00"
+  },
+  {
+   "title": "paperextract added to PyPI",
+   "url": "https://pypi.org/project/paperextract/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-24T10:48:10+00:00"
+  },
+  {
+   "title": "Amberstone Biosciences and Henlius Enter into Collaboration and License Agreement for Conditionally Activated T-Cell Engagers for Solid Tumors",
+   "url": "https://www.prnewswire.com/news-releases/amberstone-biosciences-and-henlius-enter-into-collaboration-and-license-agreement-for-conditionally-activated-t-cell-engagers-for-solid-tumors-302888136.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-09-24T10:33:00+00:00"
+  },
+  {
+   "title": "'Frankie vs Terminator' fight sees influencer battle robot in the ring",
+   "url": "https://www.unexplained-mysteries.com/news/400162/frankie-vs-terminator-fight-sees-influencer-battle-robot-in-the-ring",
+   "source": "Unexplained-mysteries.com",
+   "category": "robotics",
+   "published": "2026-09-24T10:19:04+00:00"
+  },
+  {
+   "title": "When Bob orbits Alice: Entanglement harvesting in circular motion",
+   "url": "https://link.aps.org/doi/10.1103/w3w4-l72g",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-09-24T10:00:00+00:00"
+  },
+  {
+   "title": "Experimental signatures of a $\\stackrel{^}{Z}\\stackrel{^}{X}$ beam-splitter interaction between Kerr-cat and transmon qubits",
+   "url": "https://link.aps.org/doi/10.1103/sbsz-l4g5",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-09-24T10:00:00+00:00"
+  },
+  {
+   "title": "Meta Brings FDA-Cleared Hearing Enhancement To Its Smart Glasses - Engadget",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185850292",
+   "source": "Slashdot.org",
+   "category": "health",
+   "published": "2026-09-24T09:52:16+00:00"
+  },
+  {
+   "title": "A $499 checkup gave me a peek at the future of AI-powered health care",
+   "url": "https://fortune.com/2026/09/24/ai-powered-health-care-neko-health/",
+   "source": "Fortune",
+   "category": "health",
+   "published": "2026-09-24T09:30:25+00:00"
+  },
+  {
+   "title": "Anthropic Builds Biology Lab to Test What Claude Can Do in the Real World",
+   "url": "https://dzone.com/articles/news-anthropic-claude-biology-lab",
+   "source": "Dzone.com",
+   "category": "ai",
+   "published": "2026-09-24T09:22:41+00:00"
+  },
+  {
+   "title": "UniX AI expands globally as Unitree Robotics prepares for IPO",
+   "url": "https://cryptobriefing.com/unix-ai-global-expansion-ipo/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-09-24T07:35:58+00:00"
   },
   {
    "title": "Anthropic touts AI-led biology discovery",
@@ -206,6 +381,13 @@
    "published": "2026-09-23T20:31:49+00:00"
   },
   {
+   "title": "Quantum computer chip crams more info into less volume \u2013 by vibrating",
+   "url": "https://newatlas.com/science/quantum-computing/quantum-computer-chip-vibrating/",
+   "source": "New Atlas",
+   "category": "quantum",
+   "published": "2026-09-23T20:30:00+00:00"
+  },
+  {
    "title": "Microsoft unveils refreshed Surface Pro 12-inch and Surface Laptop 13-inch with Snapdragon X2 and brighter screens",
    "url": "https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look",
    "source": "Windows Central",
@@ -225,6 +407,13 @@
    "source": "The Information",
    "category": "health",
    "published": "2026-09-23T20:23:28+00:00"
+  },
+  {
+   "title": "Wayve\u2019s AI will reach Mercedes cars within two years, Kendall says",
+   "url": "https://thenextweb.com/news/wayve-alex-kendall-mercedes-humanoid-robots-humanx",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-09-23T20:21:34+00:00"
   },
   {
    "title": "Cadence Locks In TSMC A14 Tool Certification, Cutting Design Iterations By 2.5X As It Races Toward Agentic AI Chips",
@@ -360,13 +549,6 @@
    "published": "2026-09-23T16:13:10+00:00"
   },
   {
-   "title": "Light Origins Launches Light-O1: Cross-Embodiment Transfer Improves as Human-Action Pretraining Scales",
-   "url": "https://www.prnewswire.com/news-releases/light-origins-launches-light-o1-cross-embodiment-transfer-improves-as-human-action-pretraining-scales-302887959.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-09-23T16:10:00+00:00"
-  },
-  {
    "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
    "url": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
    "source": "Nvidia.com",
@@ -388,24 +570,10 @@
    "published": "2026-09-23T16:04:00+00:00"
   },
   {
-   "title": "Offloaded inference for real-world physical AI robotics",
-   "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
-   "source": "Microsoft Research",
-   "category": "robotics",
-   "published": "2026-09-23T16:01:36+00:00"
-  },
-  {
-   "title": "Advancing Private AI Compute with secure, server-side memory",
-   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-   "source": "Google DeepMind",
+   "title": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-09-23T16:00:57+00:00"
-  },
-  {
-   "title": "Robot.com and Grubhub Expand Autonomous Delivery to 10 New Campuses",
-   "url": "https://www.prnewswire.com/news-releases/robotcom-and-grubhub-expand-autonomous-delivery-to-10-new-campuses-302886798.html",
-   "source": "PRNewswire",
-   "category": "robotics",
    "published": "2026-09-23T16:00:00+00:00"
   },
   {
@@ -416,18 +584,25 @@
    "published": "2026-09-23T16:00:00+00:00"
   },
   {
-   "title": "Watch a robot dog run a marathon faster than the average human",
-   "url": "https://www.scientificamerican.com/article/watch-a-robot-dog-run-a-marathon-faster-than-the-average-human/",
-   "source": "Scientific American",
-   "category": "robotics",
-   "published": "2026-09-23T15:00:00+00:00"
+   "title": "MIT welcomes David Siegel SM \u201986, PhD \u201991 as its next Innovation Fellow",
+   "url": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-09-23T15:30:00+00:00"
   },
   {
-   "title": "XPENG Holds Its First Robotics Supply Chain Partner Conference",
-   "url": "https://www.prnewswire.com/news-releases/xpeng-holds-its-first-robotics-supply-chain-partner-conference-302887834.html",
-   "source": "PRNewswire",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-09-23T15:25:14+00:00"
+  },
+  {
+   "title": "Greek PM high-fives Tesla robot in video wrapping up California tech tour",
+   "url": "https://en.protothema.gr/2026/09/23/greek-pm-high-fives-tesla-robot-in-video-wrapping-up-california-tech-tour/",
+   "source": "Protothema.gr",
    "category": "robotics",
-   "published": "2026-09-23T14:22:00+00:00"
+   "published": "2026-09-23T13:20:20+00:00"
   },
   {
    "title": "Xynova Dexterous Hands: Programmable Dexterity for the Physical World",
@@ -437,25 +612,25 @@
    "published": "2026-09-23T13:09:00+00:00"
   },
   {
-   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-09-23T13:00:00+00:00"
+   "published": "2026-09-23T12:00:00+00:00"
   },
   {
-   "title": "IonQ to install first on-premise quantum system at Nvidia\u2019s research center in 2027",
-   "url": "https://cryptobriefing.com/ionq-quantum-system-nvidia-research-center-2027/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-09-23T12:51:20+00:00"
+   "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T12:00:00+00:00"
   },
   {
-   "title": "Show HN: Quant \u2013 A High-Performance Quantum OS Kernel and Simulator in Rust",
-   "url": "https://github.com/strahinjastojanovic826-code/quant",
-   "source": "Github.com",
-   "category": "quantum",
-   "published": "2026-09-23T12:29:33+00:00"
+   "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+   "url": "https://openai.com/index/ringg",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T12:00:00+00:00"
   },
   {
    "title": "Qualcomm reportedly in talks to acquire PickNik Robotics for edge AI expansion",
@@ -554,6 +729,13 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-09-23T10:30:00+00:00"
+  },
+  {
+   "title": "Introducing MentalHealthBench",
+   "url": "https://openai.com/index/introducing-mentalhealthbench",
+   "source": "OpenAI",
+   "category": "health",
+   "published": "2026-09-23T10:00:00+00:00"
   },
   {
    "title": "Episil says AI demand marks structural shift in semiconductor epitaxy",
@@ -745,6 +927,13 @@
    "published": "2026-09-23T02:44:51+00:00"
   },
   {
+   "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+   "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-09-23T02:30:22+00:00"
+  },
+  {
    "title": "experts4bit-qlora 0.37.0",
    "url": "https://pypi.org/project/experts4bit-qlora/0.37.0/",
    "source": "Pypi.org",
@@ -764,6 +953,13 @@
    "source": "Frontiersin.org",
    "category": "health",
    "published": "2026-09-23T02:06:59+00:00"
+  },
+  {
+   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+   "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-23T02:00:00+00:00"
   },
   {
    "title": "Astra agent performs zero-shot robot control with 95% success rate in real-world tests",
@@ -990,6 +1186,13 @@
    "published": "2026-09-22T19:20:43+00:00"
   },
   {
+   "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
+   "url": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-09-22T19:00:00+00:00"
+  },
+  {
    "title": "XtalPi AI Enables Seven-Month PCC Nomination for Viva-Thera's MPER-Targeting HIV-1 Program",
    "url": "https://www.prnewswire.com/news-releases/xtalpi-ai-enables-seven-month-pcc-nomination-for-viva-theras-mper-targeting-hiv-1-program-302886550.html",
    "source": "PRNewswire",
@@ -1086,13 +1289,6 @@
    "source": "Crypto Briefing",
    "category": "health",
    "published": "2026-09-22T14:58:44+00:00"
-  },
-  {
-   "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-   "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-09-22T12:00:41+00:00"
   },
   {
    "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
@@ -1424,6 +1620,13 @@
    "published": "2026-09-21T20:08:00+00:00"
   },
   {
+   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-09-21T18:00:07+00:00"
+  },
+  {
    "title": "PCI Adds AI to B Pharm curriculum",
    "url": "https://timesofindia.indiatimes.com/city/allahabad/pci-adds-ai-to-b-pharm-curriculum/articleshow/134395740.cms",
    "source": "The Times of India",
@@ -1494,6 +1697,20 @@
    "published": "2026-09-21T16:03:00+00:00"
   },
   {
+   "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+   "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-09-21T16:00:46+00:00"
+  },
+  {
+   "title": "From Enablement to Execution, Egypt\u2019s AI Ecosystem Reaches Production Scale",
+   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-21T16:00:10+00:00"
+  },
+  {
    "title": "Grok 4.7",
    "url": "https://x.ai/news/grok-4-7",
    "source": "X.ai",
@@ -1506,6 +1723,13 @@
    "source": "Techrseries.com",
    "category": "health",
    "published": "2026-09-21T15:45:06+00:00"
+  },
+  {
+   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-09-21T15:30:19+00:00"
   },
   {
    "title": "Anthropic sets up biology lab as it ramps AI drug program",
@@ -34777,230 +35001,6 @@
    "source": "Digitimes",
    "category": "compute",
    "published": "2026-07-03T02:24:04+00:00"
-  },
-  {
-   "title": "AI data center startup Crusoe in talks to raise $3 billion funding: report",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/crusoe-in-talks-to-raise-3-billion-funding-report/articleshow/132150786.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-03T02:09:05+00:00"
-  },
-  {
-   "title": "Infineon opens Dresden chip plant ahead of schedule, boosting global supply capacity",
-   "url": "https://www.digitimes.com/news/a20260703PR200/infineon-germany-plant-capacity-data.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-03T02:04:34+00:00"
-  },
-  {
-   "title": "Samsung eyes marquee AI win as Anthropic explores custom chip beyond Nvidia",
-   "url": "https://www.digitimes.com/news/a20260703VL201/anthropic-samsung-ai-chip-tsmc-openai.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-03T01:54:33+00:00"
-  },
-  {
-   "title": "Boston Dynamics\u2019 New Atlas Humanoid Robot: \u2018Order Of Magnitude\u2019 Simpler",
-   "url": "https://www.forbes.com/sites/johnkoetsier/2026/07/02/boston-dynamics-new-atlas-humanoid-robot-order-of-magnitude-simpler/",
-   "source": "Forbes",
-   "category": "robotics",
-   "published": "2026-07-02T22:42:29+00:00"
-  },
-  {
-   "title": "News of the day: Powering up data centres, claiming work expenses, quantum computing, humanoid robots, Alberta independence and more",
-   "url": "https://financialpost.com/uncategorized/news-of-the-day-powering-up-data-centres-claiming-work-expenses-quantum-computing-humanoid-robots-alberta-independence-and-more",
-   "source": "Financial Post",
-   "category": "robotics",
-   "published": "2026-07-02T21:31:21+00:00"
-  },
-  {
-   "title": "Major investment in new precision health initiative in Western Sweden to accelerate the healthcare of the future",
-   "url": "https://www.chalmers.se/en/en/current/news/soh-major-investment-in-new-precision-health-initiative-in-western-sweden/",
-   "source": "Chalmers.se",
-   "category": "health",
-   "published": "2026-07-02T20:14:22+00:00"
-  },
-  {
-   "title": "llm-coding-agent added to PyPI",
-   "url": "https://pypi.org/project/llm-coding-agent/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-02T19:34:25+00:00"
-  },
-  {
-   "title": "Google expands its AI image generation lineup with Nano Banana 2 Lite and Gemini Omni Flash for video",
-   "url": "https://www.tweaktown.com/news/112439/google-expands-its-ai-image-generation-lineup-with-nano-banana-2-lite-and-gemini-omni-flash-for-video/index.html",
-   "source": "TweakTown",
-   "category": "ai",
-   "published": "2026-07-02T19:30:06+00:00"
-  },
-  {
-   "title": "Is Tasmania ready for the AI data centre boom?",
-   "url": "https://www.abc.net.au/news/2026-07-03/firmus-ai-data-centres-is-tasmania-ready/106869862",
-   "source": "ABC News (AU)",
-   "category": "compute",
-   "published": "2026-07-02T19:23:37+00:00"
-  },
-  {
-   "title": "AMPERA MARKS MAJOR NUCLEAR MILESTONE",
-   "url": "https://www.prnewswire.com/news-releases/ampera-marks-major-nuclear-milestone-863473352.html",
-   "source": "PRNewswire",
-   "category": "breakthroughs",
-   "published": "2026-07-02T19:23:00+00:00"
-  },
-  {
-   "title": "Asus ProArt PZ14 review: This surprisingly powerful tablet PC transformed my creative workflow",
-   "url": "https://www.techradar.com/pro/asus-proart-pz14-review",
-   "source": "TechRadar",
-   "category": "ai",
-   "published": "2026-07-02T19:20:00+00:00"
-  },
-  {
-   "title": "Claude-real-video \uff0d any LLM can watch a video",
-   "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-02T19:10:12+00:00"
-  },
-  {
-   "title": "agentx-kit 0.11.2",
-   "url": "https://pypi.org/project/agentx-kit/0.11.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-02T19:09:44+00:00"
-  },
-  {
-   "title": "Practical LLM Evaluation for Production Systems",
-   "url": "https://www.wowebook.org/practical-llm-evaluation-for-production-systems/",
-   "source": "Wowebook.org",
-   "category": "ai",
-   "published": "2026-07-02T19:07:24+00:00"
-  },
-  {
-   "title": "Meta Eyes Cloud Business for AI Capacity",
-   "url": "https://biztoc.com/x/9021cc552b531b44",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-02T18:57:03+00:00"
-  },
-  {
-   "title": "Anthropic enters preliminary talks with Samsung to develop custom AI chips",
-   "url": "https://4sysops.com/archives/anthropic-enters-preliminary-talks-with-samsung-to-develop-custom-ai-chips/",
-   "source": "4sysops.com",
-   "category": "compute",
-   "published": "2026-07-02T18:46:32+00:00"
-  },
-  {
-   "title": "La Rioja\u2019s Public Health Department Relaunches LOLA After Increasing Adult Vaccination Coverage by 30% \u2014 TUCUVI",
-   "url": "https://www.tucuvi.com/blog/la-rioja-reactiva-lola-tras-aumentar-un-30-la-vacunacion-de-adultos-con-ia-clinica-por-voz",
-   "source": "Tucuvi.com",
-   "category": "health",
-   "published": "2026-07-02T18:19:39+00:00"
-  },
-  {
-   "title": "Waking Up Sweating? This AI Mattress Cover Can Help You Beat Heat Waves and Night Sweats",
-   "url": "https://www.cnet.com/health/sleep/waking-up-sweating-ai-mattress-cover-can-cool-you-down/",
-   "source": "CNET",
-   "category": "health",
-   "published": "2026-07-02T17:53:14+00:00"
-  },
-  {
-   "title": "Show HN: HealthChain \u2013 Python SDK to connect AI models to live EHR systems",
-   "url": "https://github.com/healthchainai/HealthChain",
-   "source": "Github.com",
-   "category": "health",
-   "published": "2026-07-02T17:18:58+00:00"
-  },
-  {
-   "title": "How generative AI and physics can help design new antibiotics",
-   "url": "https://theconversation.com/how-generative-ai-and-physics-can-help-design-new-antibiotics-285051",
-   "source": "The Conversation Africa",
-   "category": "health",
-   "published": "2026-07-02T16:56:34+00:00"
-  },
-  {
-   "title": "Humanoid Robots Are Fashion\u2019s Future Clients. Hansae Is Getting Ready to Dress\u00a0Them.",
-   "url": "http://wwd.com/sourcing-journal/industry-news/hansae-wear-the-future-robot-apparel-1239050469/",
-   "source": "WWD",
-   "category": "robotics",
-   "published": "2026-07-02T16:38:09+00:00"
-  },
-  {
-   "title": "Dutch launch humanoid robot centre to 'kickstart' race with China",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dutch-launch-humanoid-robot-centre-to-kickstart-race-with-china/articleshow/132141879.cms",
-   "source": "The Times of India",
-   "category": "robotics",
-   "published": "2026-07-02T16:11:51+00:00"
-  },
-  {
-   "title": "Meet Brain: The AI system behind Azure reliability",
-   "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-   "source": "Microsoft.com",
-   "category": "compute",
-   "published": "2026-07-02T16:00:00+00:00"
-  },
-  {
-   "title": ".NET 11 and AI: What's New for Enterprise Developers in 2026",
-   "url": "https://www.c-sharpcorner.com/article/net-11-and-ai-whats-new-for-enterprise-developers-in-2026/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-07-02T15:59:54+00:00"
-  },
-  {
-   "title": "Ontario startup\u2019s humanoid robots aim to replace \u2018backbreaking\u2019 and dangerous work",
-   "url": "https://financialpost.com/technology/ontario-startups-humanoid-robots-backbreaking-work",
-   "source": "Financial Post",
-   "category": "robotics",
-   "published": "2026-07-02T15:56:41+00:00"
-  },
-  {
-   "title": "Reflections from ICRA 2026",
-   "url": "https://robohub.org/reflections-from-icra-2026/",
-   "source": "Robohub.org",
-   "category": "robotics",
-   "published": "2026-07-02T15:20:41+00:00"
-  },
-  {
-   "title": "Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development",
-   "url": "https://www.cnx-software.com/2026/07/02/titan-mini-smaller-renesas-ra8p1-based-edge-ai-board-for-rt-thread-rtos-development/",
-   "source": "CNX Software",
-   "category": "compute",
-   "published": "2026-07-02T14:18:08+00:00"
-  },
-  {
-   "title": "Explosive Growth in Edge AI Market: From $21.84 Billion in 2025 to $81.71 Billion by 2030",
-   "url": "https://www.globenewswire.com/news-release/2026/07/02/3321399/28124/en/Explosive-Growth-in-Edge-AI-Market-From-21-84-Billion-in-2025-to-81-71-Billion-by-2030.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-02T14:15:00+00:00"
-  },
-  {
-   "title": "Data Center Certification Market worth $3.05 billion by 2032 - Exclusive Report by MarketsandMarkets\u2122",
-   "url": "https://www.prnewswire.com/news-releases/data-center-certification-market-worth-3-05-billion-by-2032---exclusive-report-by-marketsandmarkets-302816726.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-07-02T14:15:00+00:00"
-  },
-  {
-   "title": "Infineon opens the world's largest fab for power semiconductors and analog/mixed-signal technologies in Dresden",
-   "url": "https://www.prnewswire.com/news-releases/infineon-opens-the-worlds-largest-fab-for-power-semiconductors-and-analogmixed-signal-technologies-in-dresden-302816962.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-07-02T14:13:00+00:00"
-  },
-  {
-   "title": "Shilo bets AI can deliver the 1:1 coaching brokers never get to",
-   "url": "https://www.inman.com/2026/07/02/shilo-ai-real-estate-coach/",
-   "source": "Inman",
-   "category": "ai",
-   "published": "2026-07-02T14:12:48+00:00"
-  },
-  {
-   "title": "Tesla delivered 480,126 vehicles in Q2, far exceeding the 406,000 Wall Street expected",
-   "url": "https://thenextweb.com/news/tesla-q2-2026-deliveries-beat-480000/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-07-02T14:12:07+00:00"
   }
  ]
 }

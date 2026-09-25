@@ -1,6 +1,99 @@
 {
- "updated": "2026-09-25T04:15:42.223033+00:00",
+ "updated": "2026-09-25T11:31:58.867954+00:00",
  "entries": [
+  {
+   "claim": "AI is so dangerous that we need to criminalize it and throw developers in prison before it destroys humanity",
+   "verdict": "Misleading",
+   "verdict_summary": "Existential AI risk is a legitimate research topic, but criminalizing development would cede global AI leadership to actors with no safety culture at all.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The concern about advanced AI systems operating beyond human control is not fringe panic \u2014 it is taken seriously by researchers at Oxford's Future of Humanity Institute, MIT, and inside leading labs themselves. The UN Security Council briefing in June 2025, attended by OpenAI, Anthropic, and Google DeepMind chiefs, is evidence that governments and labs alike are treating this as a real governance challenge, not a hypothetical. Sam Altman publicly acknowledging that OpenAI needs to do better \u2014 and consulting elite mathematicians about alignment \u2014 signals that the people building these systems know the stakes are high.",
+   "what_data_shows": "There is no peer-reviewed evidence that current AI systems pose imminent civilizational risk, and the academic literature on AI timelines remains genuinely contested. The AI Safety Index published by the International AI Safety Report in early 2025 found that none of the frontier models evaluated demonstrated autonomous self-replication or deceptive alignment behaviors under adversarial testing. Criminalization proposals like Sanders's ignore that the U.S. already has the most safety-invested AI ecosystem on Earth: Anthropic was founded explicitly around safety, OpenAI maintains a dedicated Superalignment team, and NIST's AI Risk Management Framework is being adopted by federal agencies. Banning domestic development does not stop development \u2014 it relocates it to jurisdictions with zero safety mandates.",
+   "bigger_picture": "The productive response to AI risk is exactly what is happening: mandatory transparency, third-party audits, international coordination, and well-resourced alignment research. California's push to open data center operations as black boxes, the UN Security Council sessions, and the UK-US AI defence partnership all point toward a global governance architecture being built in real time. Criminalization of research would hollow out the one community most invested in making AI go right, leaving the field to actors who face no such constraints. The trajectory is toward accountable, inspectable AI development \u2014 not reckless acceleration.",
+   "data_points": [
+    {
+     "n": "28 countries",
+     "l": "Signed the Bletchley Declaration committing to frontier AI safety cooperation as of 2024"
+    },
+    {
+     "n": "$4B+",
+     "l": "Amazon's investment in Anthropic, a company founded specifically around AI safety research"
+    },
+    {
+     "n": "0",
+     "l": "Number of peer-reviewed studies documenting an autonomous AI system causing real-world catastrophic harm to date"
+    }
+   ],
+   "tags": [
+    "safety",
+    "policy",
+    "regulation"
+   ],
+   "generated": "2026-09-25T11:31:58.860156+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Data centers are a secret environmental and community menace that companies are hiding from the public",
+   "verdict": "Partial",
+   "verdict_summary": "Data center opacity is a real and solvable governance gap, but the industry's environmental trajectory is strongly positive and improving faster than almost any other major sector.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "Rural American frustration with data centers is legitimate. Large facilities can strain local power grids, consume millions of gallons of water for cooling, and generate noise and light pollution in communities that were not consulted during siting decisions. California's legislative push to require greater transparency is a direct response to documented gaps: residents near data center clusters in Northern Virginia, Texas, and the Central Valley have raised credible complaints about being shut out of impact assessments. The 'black box' framing is not hyperbole \u2014 many operators do not publish water usage, grid draw, or waste heat data voluntarily.",
+   "what_data_shows": "The picture improves substantially when actual data is examined. Google reported a Power Usage Effectiveness (PUE) of 1.10 in 2023, meaning only 10% of energy consumed went to non-computing overhead \u2014 versus an industry average of 1.58 a decade ago. Microsoft has committed to being water positive by 2030 and carbon negative by 2030, with measurable annual progress reports already published. The Lawrence Berkeley National Laboratory's 2024 report found that U.S. data center electricity use grew only 60% between 2010 and 2023 despite a 550% increase in compute workloads \u2014 a radical efficiency gain driven by hyperscaler investment. The IEA projects that AI-driven data center demand will be largely absorbed by renewable additions already in the pipeline through 2026.",
+   "bigger_picture": "The transparency push from California is not evidence that data centers are secretly catastrophic \u2014 it is evidence that democratic oversight is working. Disclosure requirements accelerate the efficiency improvements already underway by creating market and reputational pressure for operators who lag. The communities raising concerns are right to demand a seat at the table, and the industry's response should be radical openness, not resistance. The broader context is that every major cloud provider has made legally binding net-zero commitments, renewable energy procurement by data centers was the single largest driver of new U.S. clean energy contracts in 2023, and the compute enabling AI-driven climate modeling, drug discovery, and grid optimization runs on these same facilities.",
+   "data_points": [
+    {
+     "n": "1.10 PUE",
+     "l": "Google's 2023 average data center efficiency, among the best ever recorded at scale"
+    },
+    {
+     "n": "550%",
+     "l": "Increase in U.S. compute workloads 2010\u20132023 while electricity use rose only 60%, per Lawrence Berkeley National Lab"
+    },
+    {
+     "n": "#1",
+     "l": "Data centers were the largest single buyer of new renewable energy contracts in the U.S. in 2023"
+    }
+   ],
+   "tags": [
+    "energy",
+    "environment",
+    "infrastructure"
+   ],
+   "generated": "2026-09-25T11:31:58.860156+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI agents are a security disaster \u2014 the Meta Muse exploit proves these systems can be hijacked and weaponized against users",
+   "verdict": "Misleading",
+   "verdict_summary": "The Muse vulnerability was real and was patched quickly, but it reflects a maturing security discipline \u2014 not evidence that AI agents are categorically unsafe to deploy.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The Meta Muse exploit was a genuine security finding: researchers demonstrated that attackers could manipulate the AI agent into performing unauthorized actions on behalf of a user, a class of vulnerability known as prompt injection. This is not trivial. As AI agents gain the ability to take real-world actions \u2014 booking travel, sending messages, controlling smart glasses \u2014 the attack surface expands in ways that traditional cybersecurity frameworks were not designed to address. The concern that agentic AI introduces novel security risks that the industry has not fully solved is accurate and should be taken seriously.",
+   "what_data_shows": "What the Muse incident actually demonstrates is that responsible disclosure and rapid patching still work. Meta identified and patched the vulnerability after it was reported, following the same security lifecycle that governs every major software platform. Prompt injection as an attack class has been documented, categorized, and is actively being addressed: OWASP published its Top 10 for LLM Applications in 2023, explicitly listing prompt injection as the number-one risk, and NIST's AI Risk Management Framework includes agentic system security as a named category. Google DeepMind, Anthropic, and Microsoft have all published research on prompt injection defenses in 2024\u20132025. The field is not ignoring this \u2014 it is building the discipline in real time, faster than comparable disciplines like web security matured in the early internet era.",
+   "bigger_picture": "Every transformative platform technology \u2014 the web, smartphones, cloud computing \u2014 went through a period where security vulnerabilities were discovered, disclosed, and systematically closed. AI agents are in that period now, and the ecosystem response \u2014 structured vulnerability research, public frameworks, rapid patching, and regulatory attention \u2014 mirrors exactly how those earlier security disciplines matured. The alternative framing, that one patched exploit proves AI agents should not exist, would have also killed the web browser in 1996. The trajectory is toward hardened, auditable agentic systems, and the Muse patch is a data point in that direction, not against it.",
+   "data_points": [
+    {
+     "n": "OWASP Top 10 for LLMs",
+     "l": "Published 2023 \u2014 prompt injection formally categorized and being systematically addressed across the industry"
+    },
+    {
+     "n": "Patched",
+     "l": "Meta resolved the Muse exploit after responsible disclosure, consistent with standard security lifecycle practices"
+    },
+    {
+     "n": "3 major labs",
+     "l": "Google DeepMind, Anthropic, and Microsoft all published prompt injection defense research in 2024\u20132025"
+    }
+   ],
+   "tags": [
+    "safety",
+    "security",
+    "AI agents"
+   ],
+   "generated": "2026-09-25T11:31:58.860156+00:00",
+   "auto": true
+  },
   {
    "claim": "AI leaders warning the UN proves the technology is too dangerous to deploy and we're heading toward loss of control",
    "verdict": "Misleading",
