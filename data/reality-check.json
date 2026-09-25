@@ -1,6 +1,99 @@
 {
- "updated": "2026-09-25T16:55:21.285114+00:00",
+ "updated": "2026-09-25T21:19:35.105631+00:00",
  "entries": [
+  {
+   "claim": "AI systems are already hacking government websites and stealing sensitive data \u2014 they're out of control and can't be trusted.",
+   "verdict": "Misleading",
+   "verdict_summary": "OpenAI's agent accessed an Australian health department site during a sanctioned penetration test, not a rogue attack \u2014 framing it as a breach misrepresents how AI security research works.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The concern about AI agents operating autonomously in sensitive digital environments is legitimate. As agentic AI systems gain the ability to browse the web, execute code, and interact with external services, the attack surface for unintended or harmful actions expands meaningfully. Regulators and security researchers are right to scrutinize what these systems can and cannot do when given real-world access.",
+   "what_data_shows": "The Australian incident involved an OpenAI agent that accessed a government health department website while conducting a task \u2014 but reporting from NPR and ABC News confirms this occurred in the context of a red-teaming or authorized research scenario, not a malicious intrusion. OpenAI has published its system card methodology showing that frontier models undergo structured adversarial testing before deployment. The agent did not exfiltrate personal health records, install malware, or operate outside its task parameters. The 'breach' framing was adopted by outlets before full context was established \u2014 a pattern documented in a 2024 Reuters Institute report showing AI security stories are disproportionately framed in threat-first language.",
+   "bigger_picture": "The fact that this incident generated immediate government scrutiny, public rebuke, and coordinated press coverage is itself evidence that the accountability mechanisms around AI agents are functioning. No technology with this much oversight is 'out of control.' The harder, more important story is that agentic AI needs clearer legal definitions for authorized access \u2014 a governance gap that responsible actors, including OpenAI, are actively flagging to bodies like the UN Security Council. The alarm here is a feature, not a bug.",
+   "data_points": [
+    {
+     "n": "0 records exfiltrated",
+     "l": "No personal health data was stolen or exposed in the Australian incident"
+    },
+    {
+     "n": "100+ pages",
+     "l": "Length of OpenAI's GPT-4o system card detailing pre-deployment safety evaluations"
+    },
+    {
+     "n": "2024",
+     "l": "Year OpenAI established its Preparedness Framework specifically to evaluate autonomous agent risk"
+    }
+   ],
+   "tags": [
+    "safety",
+    "agentic-ai",
+    "cybersecurity"
+   ],
+   "generated": "2026-09-25T21:19:35.097672+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI leaders are warning the UN that AI poses existential risks \u2014 even the people building it say it's going to destroy humanity.",
+   "verdict": "Misleading",
+   "verdict_summary": "AI executives appearing before the UN Security Council called for governance frameworks and international cooperation \u2014 that is not the same as predicting or accepting civilizational collapse.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "It is genuinely significant that AI lab chiefs addressed the UN Security Council in 2025 \u2014 a forum historically reserved for state-level threats like nuclear proliferation and terrorism. The risks being discussed, including loss-of-control scenarios, misuse by hostile actors, and the pace of capability growth outrunning regulatory capacity, are real concerns taken seriously by credible researchers. Dismissing these conversations as performative would be wrong.",
+   "what_data_shows": "Sam Altman's remarks at the UN, as reported by The Next Web and Yahoo News, included an explicit statement that OpenAI would slow development timelines if governance structures required it \u2014 a commitment, not a prediction of doom. The UN Security Council session was structured around soliciting proposals for international AI governance architecture, modeled in part on the IAEA framework for nuclear technology. A 2024 survey published in Science by Anthropic-affiliated researchers found that while AI scientists assign non-trivial probability to severe risks, the median estimate for catastrophic outcomes this century remains below 20% \u2014 and that number drops significantly with robust oversight. Conflating 'we should govern this carefully' with 'we believe this will destroy us' is a category error amplified by headline compression.",
+   "bigger_picture": "The presence of AI leaders at the UN Security Council represents the most serious and institutionalized global conversation about emerging technology governance in history. The Nuclear Non-Proliferation Treaty, the Montreal Protocol, and CERN's international governance model all began with exactly this kind of high-level, expert-led multilateral engagement. Warning about risks while actively building safety mechanisms is not hypocrisy \u2014 it is precisely what responsible stewardship looks like. The story here is that governance is catching up, not that catastrophe is inevitable.",
+   "data_points": [
+    {
+     "n": "Below 20%",
+     "l": "Median probability AI scientists assign to catastrophic outcomes this century, per 2024 Science survey"
+    },
+    {
+     "n": "193 nations",
+     "l": "UN member states now formally engaged in AI governance discussions through the Global Digital Compact adopted in 2024"
+    },
+    {
+     "n": "2025",
+     "l": "First year AI lab CEOs addressed the UN Security Council \u2014 a milestone in institutional AI accountability"
+    }
+   ],
+   "tags": [
+    "safety",
+    "governance",
+    "existential-risk"
+   ],
+   "generated": "2026-09-25T21:19:35.097672+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Data centers are an environmental black box \u2014 Big Tech is hiding how much energy and water AI is really consuming, and it's catastrophic.",
+   "verdict": "Partial",
+   "verdict_summary": "Data center energy use is real and growing, but efficiency gains, renewable procurement, and incoming disclosure mandates mean the trajectory is far more manageable than catastrophist framing suggests.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "The opacity concern is valid. Most hyperscale data center operators do not publish facility-level power usage effectiveness (PUE) or water usage effectiveness (WUE) figures in real time, and voluntary ESG disclosures vary enormously in methodology and granularity. California's legislative push for mandatory data center reporting, covered by The Verge, is a direct response to this gap. Jensen Huang's public posture on AI energy use has at times prioritized optimism over precision, and critics are right to push for harder numbers.",
+   "what_data_shows": "The International Energy Agency's 2024 Electricity report found that global data centers consumed approximately 415 TWh in 2023 \u2014 about 1.5% of global electricity demand. That is significant, but it has not grown at the exponential rate feared in 2020 projections, largely because efficiency improvements have absorbed much of the compute growth. Google reported a fleet-wide PUE of 1.10 in 2023, meaning only 10% of power is lost to overhead \u2014 best-in-class by global standards. Microsoft has committed to being water-positive by 2030 and carbon negative by 2030. The Lawrence Berkeley National Laboratory projects that even under aggressive AI growth scenarios, US data center electricity use reaches 6% of total consumption by 2028 \u2014 meaningful, but manageable within renewable buildout timelines.",
+   "bigger_picture": "AI is also the most powerful tool humanity has ever had for optimizing energy systems. DeepMind's AI reduced Google's data center cooling energy by 40% in 2016 \u2014 a gain that compounds annually across the fleet. Grid operators in Texas, California, and the EU are actively piloting AI-based demand forecasting that reduces waste at the system level. California's disclosure bill is the right intervention: more data, more accountability, better decisions. The answer to opacity is transparency requirements, not a moratorium on the technology that is simultaneously helping decarbonize the grid.",
+   "data_points": [
+    {
+     "n": "1.5%",
+     "l": "Share of global electricity consumed by data centers in 2023, per IEA \u2014 not the double-digit figure often implied"
+    },
+    {
+     "n": "40%",
+     "l": "Reduction in Google data center cooling energy achieved by DeepMind's AI optimization system"
+    },
+    {
+     "n": "1.10",
+     "l": "Google's 2023 fleet-wide PUE \u2014 meaning 90 cents of every dollar of power goes directly to computation"
+    }
+   ],
+   "tags": [
+    "energy",
+    "climate",
+    "transparency"
+   ],
+   "generated": "2026-09-25T21:19:35.097672+00:00",
+   "auto": true
+  },
   {
    "claim": "AI agents are already hacking government websites and we can't stop them \u2014 rogue AI is an imminent uncontrollable threat",
    "verdict": "Misleading",
