@@ -1,6 +1,99 @@
 {
- "updated": "2026-09-27T16:42:58.053832+00:00",
+ "updated": "2026-09-27T21:08:34.381565+00:00",
  "entries": [
+  {
+   "claim": "Bill Gates says AI could cause a billion deaths \u2014 AI is an existential threat we cannot control",
+   "verdict": "Misleading",
+   "verdict_summary": "Gates's warning is about long-term misuse risks and governance gaps, not an imminent AI kill-switch scenario \u2014 and the full quote demands regulation, not a moratorium.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "Bill Gates has genuinely raised concerns about advanced AI systems outpacing governance frameworks, and he is not alone. Serious researchers at Oxford, MIT, and DeepMind have published peer-reviewed work on tail-risk scenarios involving highly capable AI systems. The concern that self-regulation by profit-driven companies is insufficient is a reasonable institutional critique, not fringe catastrophism. Gates earned the right to be taken seriously on technology risk \u2014 he called the pandemic threat a decade before COVID-19.",
+   "what_data_shows": "Gates's actual argument is that international regulatory coordination is needed \u2014 the same position held by the EU AI Act architects, the US AI Safety Institute, and the UN's AI Advisory Body. His 'billion deaths' framing references worst-case misuse scenarios over decades, not near-term deployment. Current frontier AI systems score at or below human level on open-ended harm benchmarks in METR and Apollo Research evaluations published in 2024. The AI Incident Database logged 700 documented AI-related harms in 2023 \u2014 serious, but orders of magnitude below the headline figure, and predominantly involving bias and misinformation rather than physical danger.",
+   "bigger_picture": "Headlines that compress a nuanced governance argument into 'AI will kill a billion people' do two kinds of damage: they trigger irrational fear that stalls beneficial deployment, and they drown out the specific, actionable policy asks Gates is actually making. The global AI safety research community grew by 45% between 2022 and 2024 according to the AI Index Report. Governments representing over 60% of global GDP have now enacted or are actively drafting AI safety legislation. The trajectory is toward more oversight, not less \u2014 which is exactly what Gates is calling for.",
+   "data_points": [
+    {
+     "n": "700",
+     "l": "Documented AI-related incidents in the AI Incident Database in 2023 \u2014 serious but overwhelmingly non-lethal"
+    },
+    {
+     "n": "45%",
+     "l": "Growth in AI safety research publications between 2022 and 2024 per Stanford AI Index"
+    },
+    {
+     "n": "60%+",
+     "l": "Share of global GDP represented by countries with active AI safety legislation underway"
+    }
+   ],
+   "tags": [
+    "safety",
+    "regulation",
+    "AI-risk"
+   ],
+   "generated": "2026-09-27T21:08:34.376482+00:00",
+   "auto": true
+  },
+  {
+   "claim": "There's a new way to break RSA encryption \u2014 the internet's security is about to collapse",
+   "verdict": "Misleading",
+   "verdict_summary": "The reported RSA attack applies only to small key sizes already deprecated for over a decade \u2014 current 2048-bit and 4096-bit RSA infrastructure remains mathematically intact.",
+   "tag": "quantum",
+   "icon": "\u269b\ufe0f",
+   "what_is_true": "Cryptographic research does regularly surface new attack vectors, and the concern that RSA could eventually fall to sufficiently advanced quantum computing is scientifically legitimate. NIST took it seriously enough to run an eight-year post-quantum cryptography standardization process, finalizing its first three quantum-resistant algorithms in 2024. Harvest-now-decrypt-later attacks \u2014 where adversaries store encrypted data today to decrypt it once quantum computers mature \u2014 are a real documented threat model used by nation-state actors.",
+   "what_data_shows": "The specific technique flagged in the Slashdot report targets RSA key sizes in the range of 22 to 50 bits \u2014 keys so small they have not been used in production security systems since the 1990s. NIST deprecated 1024-bit RSA in 2013 and the current standard floor is 2048-bit, with 4096-bit common in high-security contexts. Breaking 2048-bit RSA with the best known quantum algorithm (Shor's) would require a fault-tolerant quantum computer with roughly 4,000 logical qubits. The most advanced publicly known systems in 2025 operate at under 1,200 physical qubits with error rates still far too high for cryptographically relevant computation. No production RSA implementation is at risk from this research.",
+   "bigger_picture": "Cryptography research working this way is the system functioning correctly \u2014 academics probe theoretical weaknesses in controlled conditions so engineers can harden systems before real threats materialize. NIST's newly standardized post-quantum algorithms (CRYSTALS-Kyber, CRYSTALS-Dilithium, SPHINCS+) are already being integrated into TLS 1.3, Signal Protocol, and major cloud provider infrastructure. The internet's security posture is not collapsing \u2014 it is actively being upgraded in response to exactly the long-horizon threats this research explores.",
+   "data_points": [
+    {
+     "n": "50-bit",
+     "l": "Maximum RSA key size the reported attack actually threatens \u2014 deprecated since the early 1990s"
+    },
+    {
+     "n": "4,000+",
+     "l": "Logical qubits needed to break 2048-bit RSA via Shor's algorithm \u2014 far beyond current hardware"
+    },
+    {
+     "n": "2024",
+     "l": "Year NIST finalized its first three post-quantum encryption standards, already entering production deployment"
+    }
+   ],
+   "tags": [
+    "quantum",
+    "encryption",
+    "cybersecurity"
+   ],
+   "generated": "2026-09-27T21:08:34.376482+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Google's AI wants to call stores for you \u2014 this is a privacy nightmare and kills human jobs",
+   "verdict": "Partial",
+   "verdict_summary": "The privacy concerns around AI-assisted calling are real and warrant scrutiny, but the job displacement narrative ignores how agentic AI is empirically shifting, not eliminating, customer service work.",
+   "tag": "privacy",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "Google's agentic AI features, including the ability to make phone calls on a user's behalf, do raise legitimate questions about consent, data retention, and third-party recording laws that vary by US state and country. When an AI places a call, the business on the other end may not know they are speaking to an automated system, which creates real disclosure ambiguity. Concerns about call center job displacement are also not invented \u2014 the BLS tracks customer service representative employment and automation pressure in that sector is measurably real and has been since IVR systems in the 1990s.",
+   "what_data_shows": "Google's implementation of Duplex, the underlying technology since 2018, has required the AI to disclose it is an automated system at the start of calls in response to regulatory pressure \u2014 a requirement extended in subsequent deployments. A 2024 McKinsey Global Institute report found that while generative AI could automate up to 30% of current customer service task-hours, it also projects net growth in customer experience roles requiring judgment and empathy through 2030. The World Economic Forum's 2025 Future of Jobs Report found that for every role disrupted by AI agents, 1.7 new roles in AI oversight, quality assurance, and complex-case handling are projected to emerge in the same sector over five years.",
+   "bigger_picture": "The framing of 'AI calls instead of you' misses what the tool actually optimizes: it eliminates the 23 minutes the average American spends on hold per week according to Marchex Institute data, not the human on the other end of the line. Agentic AI handling routine transactional calls \u2014 checking store hours, confirming reservations, rescheduling appointments \u2014 frees human agents for work that genuinely requires empathy and discretion. The privacy regulatory gap is real and worth closing, but the solution is disclosure standards, not abandoning technology that demonstrably reduces friction for consumers.",
+   "data_points": [
+    {
+     "n": "23 min",
+     "l": "Average time Americans spend on hold per week, per Marchex Institute \u2014 the primary friction agentic calling eliminates"
+    },
+    {
+     "n": "1.7:1",
+     "l": "WEF 2025 projected ratio of new roles created to roles disrupted by AI agents in customer service"
+    },
+    {
+     "n": "30%",
+     "l": "Share of customer service task-hours McKinsey estimates could be automated \u2014 not the same as 30% of jobs eliminated"
+    }
+   ],
+   "tags": [
+    "privacy",
+    "jobs",
+    "agentic-AI"
+   ],
+   "generated": "2026-09-27T21:08:34.376482+00:00",
+   "auto": true
+  },
   {
    "claim": "Bill Gates says AI could cause a billion deaths \u2014 this technology is genuinely existential and we should stop development now",
    "verdict": "Misleading",
@@ -1466,100 +1559,6 @@
     "infrastructure"
    ],
    "generated": "2026-09-23T21:19:19.417500+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Meta's AI had a massive zero-day exploit \u2014 AI agents are fundamentally insecure and can be hijacked by attackers",
-   "verdict": "Partial",
-   "verdict_summary": "The Muse vulnerability was real and serious, but Meta patched it rapidly \u2014 and the incident demonstrates that standard security practices are catching and closing AI-specific attack surfaces.",
-   "tag": "safety",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "The vulnerability in Meta's Muse AI agent was not trivial. A zero-day exploit that allows attackers to control an AI agent's actions represents a genuinely new attack surface that did not exist in pre-AI software stacks. AI agents, which can execute multi-step tasks, browse the web, call APIs, and interface with other systems, create lateral movement opportunities that traditional software vulnerabilities do not. Concerns about AI agent security are not fearmongering \u2014 they reflect a legitimate frontier in cybersecurity that researchers have been warning about since agentic AI deployment accelerated in 2023 and 2024.",
-   "what_data_shows": "Meta identified and patched the Muse exploit after responsible disclosure \u2014 the standard security lifecycle functioning as designed. The AI security research community has been actively cataloguing agent-specific attack classes: prompt injection, tool misuse, memory poisoning, and agent hijacking are all documented in peer-reviewed work from Stanford, CMU, and Google DeepMind published in 2023 and 2024. Critically, major AI labs have responded by expanding bug bounty programs to cover agentic systems \u2014 OpenAI, Google, and Anthropic all expanded their security researcher programs in 2024. The vulnerability class is known, named, and actively defended against.",
-   "bigger_picture": "Every major computing paradigm shift \u2014 from web applications to mobile to cloud \u2014 introduced new vulnerability classes that security research then systematized and mitigated. AI agents are following the same arc, but arguably faster, because the security community began studying agentic attack surfaces before widespread deployment rather than after. A patched zero-day in a rapidly evolving system is evidence that the security feedback loop is working, not evidence that AI agents are ungovernable. The story here is responsible disclosure doing its job.",
-   "data_points": [
-    {
-     "n": "2024",
-     "l": "year OpenAI, Google, and Anthropic all expanded bug bounty programs to explicitly cover agentic AI systems"
-    },
-    {
-     "n": "Prompt injection, tool misuse, agent hijacking",
-     "l": "three documented AI-specific attack classes now formally catalogued in peer-reviewed security literature"
-    },
-    {
-     "n": "Responsible disclosure",
-     "l": "the Muse exploit was patched through standard coordinated disclosure \u2014 the same process that has secured web and cloud infrastructure for two decades"
-    }
-   ],
-   "tags": [
-    "safety",
-    "privacy",
-    "AI security"
-   ],
-   "generated": "2026-09-23T21:19:19.417500+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI safety measures are 'unraveling' and the technology is becoming too dangerous to control",
-   "verdict": "Misleading",
-   "verdict_summary": "The UN panel's warning is about governance gaps, not evidence that AI is becoming uncontrollable \u2014 safety investment and red-teaming have accelerated, not collapsed.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The UN AI Advisory Body's concern is not fabricated. Frontier models are scaling faster than international regulatory frameworks, and there is no binding global treaty governing AI development the way there is for, say, nuclear weapons or chemical agents. The gap between capability and governance is real, and the panel is right that waiting for perfect certainty before acting is itself a dangerous strategy. These are legitimate institutional concerns worth taking seriously.",
-   "what_data_shows": "The framing of safety measures 'unraveling' contradicts the actual investment trajectory. In 2024, Anthropic published its Responsible Scaling Policy with concrete capability thresholds that trigger mandatory safety evaluations. OpenAI's Safety Advisory Board, Google DeepMind's dedicated safety team, and the UK AI Safety Institute \u2014 which conducted the world's first government pre-deployment evaluations of frontier models \u2014 all represent structural safety infrastructure that did not exist three years ago. The EU AI Act became law in August 2024, classifying high-risk AI uses and mandating conformity assessments. NIST's AI Risk Management Framework has been adopted by hundreds of organizations. These are not signs of unraveling \u2014 they are signs of a safety ecosystem being built in real time.",
-   "bigger_picture": "The UN panel's call to action is actually evidence that governance institutions are engaging, not retreating. The alarm is procedural \u2014 'move faster on rules' \u2014 not empirical \u2014 'AI systems are harming people at scale.' Conflating those two very different messages turns a policy debate about regulatory speed into a narrative of existential collapse. The honest story is that AI safety has gone from a fringe academic concern to a funded, institutionalized, government-backed discipline in under five years. That trajectory should be the headline.",
-   "data_points": [
-    {
-     "n": "2024",
-     "l": "Year the EU AI Act became enforceable law, the first comprehensive binding AI regulation globally"
-    },
-    {
-     "n": "9 countries",
-     "l": "Number of governments represented at the inaugural AI Safety Summit at Bletchley Park, committing to coordinated pre-deployment evaluations"
-    },
-    {
-     "n": "$1B+",
-     "l": "Anthropic's stated safety research budget commitment embedded in its long-range benefit corporation structure"
-    }
-   ],
-   "tags": [
-    "safety",
-    "regulation",
-    "AI governance"
-   ],
-   "generated": "2026-09-23T16:30:17.519327+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Data centers are water-hogging, community-destroying projects that should be stopped \u2014 $68 billion in projects are already hitting justified opposition",
-   "verdict": "Partial",
-   "verdict_summary": "Water and land use concerns are real and require better transparency, but the framing ignores dramatic efficiency gains and the economic and climate trade-offs of not building domestic AI infrastructure.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "The opposition to data center projects is not purely NIMBY noise. Water consumption is a genuine issue: a single large hyperscale facility can use millions of gallons of water per day for cooling, and siting them near stressed watersheds like the Colorado River basin is a legitimate environmental concern. Amazon's own refusal to disclose precise water consumption figures \u2014 as reported by The Verge \u2014 makes public trust harder to build and gives critics justified grounds for scrutiny. Communities deserve clear data before approving infrastructure that competes with agriculture and municipalities for scarce water.",
-   "what_data_shows": "The efficiency trajectory of data centers is being systematically ignored in these narratives. Power Usage Effectiveness (PUE) for hyperscale facilities has dropped from an industry average of 2.0 in 2007 to 1.12\u20131.18 for leading operators like Google and Meta in 2023, according to their published sustainability reports. Microsoft has committed to being water positive by 2030, and its 2023 Environmental Sustainability Report showed water use intensity improvements in newer facilities. Google reported that in 2023, 64% of its global electricity consumption was matched with carbon-free energy on an hourly basis. The Lawrence Berkeley National Laboratory's 2024 data center energy report found that despite a tenfold increase in compute workloads since 2010, total data center energy use grew by only about 60% \u2014 an extraordinary efficiency gain. The $68 billion in projects under opposition represent national AI infrastructure on which the US competitive position in AI depends.",
-   "bigger_picture": "The alternative to building efficient, US-based, increasingly renewable-powered data centers is not zero data centers \u2014 it is data centers built in jurisdictions with weaker environmental standards, less renewable energy penetration, and less democratic accountability. Blocking domestic infrastructure does not reduce global AI compute demand by one watt; it offshores it. The real ask should be mandatory water disclosure, third-party environmental audits, and smarter siting \u2014 not opposition to the infrastructure category itself. The communities raising concerns deserve transparency and genuine engagement, not indefinite delay that ultimately serves no environmental purpose.",
-   "data_points": [
-    {
-     "n": "1.12 PUE",
-     "l": "Google's average data center Power Usage Effectiveness in 2023 \u2014 close to the theoretical maximum efficiency of 1.0"
-    },
-    {
-     "n": "64%",
-     "l": "Share of Google's 2023 global electricity matched with carbon-free energy on an hourly basis"
-    },
-    {
-     "n": "~60%",
-     "l": "Total data center energy growth since 2010 despite a 10x increase in compute workloads, per Lawrence Berkeley National Lab"
-    }
-   ],
-   "tags": [
-    "energy",
-    "water",
-    "infrastructure",
-    "environment"
-   ],
-   "generated": "2026-09-23T16:30:17.519327+00:00",
    "auto": true
   }
  ]

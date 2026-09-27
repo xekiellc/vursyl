@@ -1,6 +1,35 @@
 {
- "updated": "2026-09-27T16:42:58.053832+00:00",
+ "updated": "2026-09-27T21:08:34.381565+00:00",
  "items": [
+  {
+   "title": "China, US agree to AI dialogue, $42b in tariff cuts during state visit",
+   "url": "https://www.abc.net.au/news/2026-09-27/president-donald-trump-xi-jinping-washington-summit-tariffs-ai/107200436",
+   "source": "ABC News (AU)",
+   "category": "ai",
+   "published": "2026-09-26T20:33:49+00:00"
+  },
+  {
+   "title": "China, U.S. agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
+   "url": "https://www.cbc.ca/news/world/china-united-states-tariff-cuts-9.7359852",
+   "source": "CBC News",
+   "category": "ai",
+   "published": "2026-09-26T20:09:51+00:00"
+  },
+  {
+   "title": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
+   "url": "https://www.channelnewsasia.com/world/china-us-ai-tariff-cuts-xi-6413066",
+   "source": "CNA",
+   "category": "ai",
+   "published": "2026-09-26T19:45:07+00:00"
+  },
+  {
+   "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+   "url": "https://tml.stanford.edu/homebody/",
+   "source": "Stanford.edu",
+   "category": "robotics",
+   "published": "2026-09-26T18:42:10+00:00",
+   "breakthrough": true
+  },
   {
    "title": "Big Tech can cut methane \u2026 cheaply!",
    "url": "https://www.wnd.com/2026/09/big-tech-can-cut-methane-cheaply/",
@@ -226,26 +255,11 @@
    "published": "2026-09-25T21:45:00+00:00"
   },
   {
-   "title": "Nvidia positions itself as key partner in quantum computing with NVQLink",
-   "url": "https://cryptobriefing.com/nvidia-nvqlink-quantum-computing-partner/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-09-25T21:42:51+00:00"
-  },
-  {
    "title": "Global Knee Replacement Market to Reach USD 17.81 Bn. by 2034, Driven by Rising Osteoarthritis Prevalence, Rapid Adoption of Robotic-Assisted Surgery, and Advancements in Smart Implant Technologies Says Maximize Market Research",
    "url": "https://www.prnewswire.co.uk/news-releases/global-knee-replacement-market-to-reach-usd-17-81-bn-by-2034--driven-by-rising-osteoarthritis-prevalence-rapid-adoption-of-robotic-assisted-surgery-and-advancements-in-smart-implant-technologies-says-maximize-market-research-302890221.html",
    "source": "PR Newswire UK",
    "category": "health",
    "published": "2026-09-25T21:30:00+00:00"
-  },
-  {
-   "title": "Roadmap platform launched to help enterprises turn quantum computing into business value",
-   "url": "https://www.digitaljournal.com/article/roadmap-platform-launched-to-help-enterprises-turn-quantum-computing-into-business-value/",
-   "source": "Digital Journal",
-   "category": "quantum",
-   "published": "2026-09-25T21:28:41+00:00",
-   "breakthrough": true
   },
   {
    "title": "Anthropic\u2019s Claude solves nine-loop amplitude challenge in theoretical physics",
@@ -302,13 +316,6 @@
    "source": "Huggingface.co",
    "category": "ai",
    "published": "2026-09-25T19:25:29+00:00"
-  },
-  {
-   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-   "url": "https://openai.com/index/proaction",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-25T19:00:00+00:00"
   },
   {
    "title": "Jarrard Expands AI Capabilities, Adds Talent to Meet Demand",
@@ -822,13 +829,6 @@
    "published": "2026-09-24T16:31:44+00:00"
   },
   {
-   "title": "Introducing Gemini 3.8 Live with Live Avatar",
-   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-09-24T16:20:39+00:00"
-  },
-  {
    "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
    "url": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
    "source": "Amazon.com",
@@ -897,6 +897,20 @@
    "source": "PRNewswire",
    "category": "robotics",
    "published": "2026-09-24T14:03:00+00:00"
+  },
+  {
+   "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+   "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-09-24T14:00:50+00:00"
+  },
+  {
+   "title": "Contain the Chaos: \u2018CONTROL Resonant\u2019 Launches on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-09-24T13:00:36+00:00"
   },
   {
    "title": "Gemma 4 runs fine on my laptop, but putting it on my NAS is what changed how I use it",
@@ -34987,20 +35001,6 @@
    "source": "Crypto Briefing",
    "category": "compute",
    "published": "2026-07-06T03:48:20+00:00"
-  },
-  {
-   "title": "S. Korea's Lee urges fast-track for chip, AI projects",
-   "url": "https://biztoc.com/x/5671cbcbce5ae91f",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-06T03:39:06+00:00"
-  },
-  {
-   "title": "LandMark Optoelectronics posts record revenue in June, expands for post-2028 growth",
-   "url": "https://www.digitimes.com/news/a20260705PD200/revenue-lmoc-2026-growth-demand.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-06T03:30:00+00:00"
   }
  ]
 }
