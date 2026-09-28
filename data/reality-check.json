@@ -1,6 +1,99 @@
 {
- "updated": "2026-09-28T04:38:22.107314+00:00",
+ "updated": "2026-09-28T13:23:17.786706+00:00",
  "entries": [
+  {
+   "claim": "Bill Gates says AI is powerful enough to cause a billion deaths \u2014 AI is an existential threat we can't control",
+   "verdict": "Misleading",
+   "verdict_summary": "Gates raised a conditional warning about bioweapons misuse, not a prediction \u2014 and his full statement calls for governance, not a ban.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "Bill Gates did warn that AI is 'powerful enough to drive events that cause a billion deaths,' and that self-regulation is insufficient. That concern deserves to be taken seriously. AI-assisted synthesis of dangerous pathogens is a real biosecurity challenge that researchers at Johns Hopkins, the Nuclear Threat Initiative, and the biosecurity community have flagged as a legitimate near-term risk requiring policy intervention. Gates is not a crank \u2014 he funds global health infrastructure and his concern reflects a real gap in governance.",
+   "what_data_shows": "Gates' warning was conditional and policy-directed, not a prediction of inevitable doom. His full argument is that robust international oversight \u2014 not a halt to AI development \u2014 is the answer. Meanwhile, the same AI capabilities Gates references are already being used to accelerate pandemic preparedness: Google DeepMind's AlphaFold has modeled over 200 million protein structures, directly enabling defensive drug discovery. The CDC and NIH are actively deploying AI for pathogen surveillance. The RAND Corporation's 2024 biosecurity review found that AI's defensive applications in biology currently outpace its offensive ones. Framing Gates' conditional warning as a blanket death prediction strips it of its actual policy argument.",
+   "bigger_picture": "The trajectory here is one of governance catching up to capability, not civilization sleepwalking into catastrophe. The EU AI Act, the US Executive Order on AI Safety, and the Bletchley Park AI Safety Summit represent the first generation of international coordination on exactly the risks Gates describes. The concern is real \u2014 but the narrative that AI is careening toward a billion deaths ignores that the same technology is being embedded in early-warning systems, vaccine design pipelines, and biosurveillance networks that could prevent the next pandemic. Warning and progress are not mutually exclusive.",
+   "data_points": [
+    {
+     "n": "200M+",
+     "l": "Protein structures modeled by AlphaFold, accelerating defensive drug discovery"
+    },
+    {
+     "n": "2024",
+     "l": "Year RAND found AI defensive bio-applications outpace offensive ones"
+    },
+    {
+     "n": "3 major frameworks",
+     "l": "EU AI Act, US AI EO, and Bletchley Summit now address exactly the risks Gates flagged"
+    }
+   ],
+   "tags": [
+    "ai-safety",
+    "biosecurity",
+    "governance"
+   ],
+   "generated": "2026-09-28T13:23:17.780470+00:00",
+   "auto": true
+  },
+  {
+   "claim": "There's a new way to break RSA encryption \u2014 the internet's security is about to collapse",
+   "verdict": "Misleading",
+   "verdict_summary": "The reported RSA attack applies only to small key sizes already retired from use, and poses no threat to modern encryption standards.",
+   "tag": "quantum",
+   "icon": "\u269b\ufe0f",
+   "what_is_true": "The concern about RSA encryption being broken is not absurd on its face. Cryptographers have long warned that sufficiently powerful quantum computers running Shor's algorithm could theoretically factor the large primes underpinning RSA. NIST has spent years developing post-quantum cryptographic standards precisely because this threat is real on a long enough timeline. Any headline suggesting a new mathematical or computational attack on RSA deserves scrutiny rather than dismissal.",
+   "what_data_shows": "The Slashdot-circulated claim refers to research demonstrating RSA factorization on small, toy-scale key lengths \u2014 in the range of 22 to 50 bits \u2014 using quantum or hybrid classical-quantum methods. Modern RSA implementations use 2048-bit or 4096-bit keys. The computational gap between breaking a 50-bit key and a 2048-bit key is not linear \u2014 it is astronomically larger, requiring error-corrected quantum hardware that does not exist and will not exist at scale for at minimum a decade by consensus estimates from IBM, Google Quantum AI, and NIST. NIST finalized its first post-quantum encryption standards in August 2024, meaning the migration path is already defined and underway.",
+   "bigger_picture": "The internet's cryptographic security is not about to collapse \u2014 it is actively being upgraded. NIST's post-quantum standards (FIPS 203, 204, and 205) are already being integrated into TLS protocols, government systems, and enterprise infrastructure. The real story is not panic \u2014 it is one of the most proactive cryptographic transitions in history, happening years before any practical threat materializes. Headlines that conflate laboratory demonstrations on tiny key sizes with operational breaks of real-world encryption do a disservice to the genuine and well-managed work happening in this space.",
+   "data_points": [
+    {
+     "n": "2048-bit",
+     "l": "Minimum RSA key size in modern use \u2014 vastly beyond any demonstrated attack"
+    },
+    {
+     "n": "August 2024",
+     "l": "NIST finalized first post-quantum encryption standards, migration already underway"
+    },
+    {
+     "n": "10+ years",
+     "l": "Consensus timeline from IBM, Google, and NIST before fault-tolerant quantum poses real RSA risk"
+    }
+   ],
+   "tags": [
+    "quantum",
+    "encryption",
+    "cybersecurity"
+   ],
+   "generated": "2026-09-28T13:23:17.780470+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Data centers are causing a climate catastrophe and nobody is doing anything about it",
+   "verdict": "Partial",
+   "verdict_summary": "Data center energy use is growing fast and the concern is legitimate, but the industry leads all sectors in renewable procurement and efficiency gains.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "The Wired piece is right that the data center backlash has not fully become a climate reckoning, and that deserves acknowledgment. Global data center electricity consumption is projected to double by 2030, with AI workloads driving a disproportionate share of that growth. The IEA's 2024 report confirmed data centers consumed roughly 400 TWh globally in 2022 and that figure is rising. Communities near large facilities have raised legitimate concerns about water usage, grid strain, and local emissions from backup diesel generators. These are not imaginary problems.",
+   "what_data_shows": "The data center industry is, by measurable metrics, the largest voluntary purchaser of renewable energy on earth. According to BloombergNEF, tech companies signed over 46 GW of corporate renewable energy deals in 2023 alone \u2014 Google, Microsoft, Meta, and Amazon accounting for the majority. Google has operated at 100% renewable energy matching since 2017 and is targeting 24/7 carbon-free energy by 2030. Microsoft has committed to being carbon negative by 2030. Power Usage Effectiveness (PUE) ratios for hyperscale data centers now average 1.2, compared to an industry average of 1.58 a decade ago \u2014 meaning far more compute per unit of energy. The Lawrence Berkeley National Laboratory found that despite a tenfold increase in compute workloads between 2010 and 2020, data center energy use grew only 6% due to efficiency gains.",
+   "bigger_picture": "The Wired framing misses the dynamic: this is an industry that has consistently decoupled energy consumption growth from compute growth through engineering, and that is now driving the largest private renewable energy build-out in history. The challenge ahead is real \u2014 AI inference workloads are genuinely more energy intensive and growth projections are steep. But the solution space is active and funded: Microsoft is investing in nuclear (three Mile Island restart), Google is partnering on geothermal, and Amazon Web Services is the world's largest corporate renewable buyer. The climate story here is complicated, not catastrophic.",
+   "data_points": [
+    {
+     "n": "46 GW",
+     "l": "Corporate renewable energy deals signed by tech firms in 2023 alone (BloombergNEF)"
+    },
+    {
+     "n": "6%",
+     "l": "Data center energy growth from 2010\u20132020 despite a 10x increase in compute workloads (LBNL)"
+    },
+    {
+     "n": "1.2 PUE",
+     "l": "Average power efficiency of hyperscale data centers today, vs. 1.58 a decade ago"
+    }
+   ],
+   "tags": [
+    "energy",
+    "climate",
+    "data-centers"
+   ],
+   "generated": "2026-09-28T13:23:17.780470+00:00",
+   "auto": true
+  },
   {
    "claim": "Bill Gates says AI is powerful enough to cause a billion deaths \u2014 AI is an existential threat we cannot control",
    "verdict": "Misleading",
@@ -29,38 +122,6 @@
     "existential risk",
     "governance",
     "misinformation"
-   ],
-   "generated": "2026-09-28T04:38:22.100713+00:00",
-   "auto": true
-  },
-  {
-   "claim": "There's a new way to break RSA encryption \u2014 the internet's security is about to collapse",
-   "verdict": "Misleading",
-   "verdict_summary": "The reported RSA attack applies only to small key sizes already retired from production use, and poses zero immediate threat to modern 2048-bit or 4096-bit RSA infrastructure.",
-   "tag": "quantum",
-   "icon": "\u269b\ufe0f",
-   "what_is_true": "RSA encryption is not invincible, and the long-term threat from quantum computing to public-key cryptography is real and actively studied. NIST has been running its Post-Quantum Cryptography standardization project since 2016 precisely because Shor's algorithm \u2014 when run on a sufficiently large fault-tolerant quantum computer \u2014 can factor the integers that underpin RSA. Harvest-now-decrypt-later attacks, where adversaries store encrypted traffic today to decrypt it once quantum hardware matures, are a documented concern for long-shelf-life secrets. Security professionals are right to take this seriously.",
-   "what_data_shows": "The specific attack circulating in Slashdot coverage targets RSA key sizes in the range of 22 to 50 bits \u2014 keys that no production system has used since the 1990s. Breaking 2048-bit RSA, the current minimum standard mandated by NIST and used across TLS, SSH, and certificate infrastructure, would require a fault-tolerant quantum computer with millions of physical qubits. IBM's 2024 roadmap puts error-corrected systems capable of that at a minimum of a decade away, and Google's Willow chip \u2014 celebrated in December 2024 \u2014 operates at 105 qubits, orders of magnitude short of the threshold. NIST finalized three post-quantum cryptographic standards in August 2024 (ML-KEM, ML-DSA, SLH-DSA), and major cloud providers including AWS, Google Cloud, and Cloudflare have already begun hybrid deployment.",
-   "bigger_picture": "The pattern here is consistent: a cryptography paper demonstrates a technique on toy-scale parameters, headlines strip the caveats, and readers conclude the internet is broken. It is not. The cryptography community spotted the quantum threat early, began standardizing replacements a decade in advance, and is actively migrating infrastructure. This is exactly how resilient systems are supposed to work. The real story is not 'RSA is broken' \u2014 it is 'the field is executing a historically orderly cryptographic transition that most users will never notice.'",
-   "data_points": [
-    {
-     "n": "3 standards finalized",
-     "l": "NIST completed post-quantum cryptography standards in August 2024, ahead of any viable quantum threat"
-    },
-    {
-     "n": "~4 million physical qubits",
-     "l": "Estimated requirement to break 2048-bit RSA with Shor's algorithm, per peer-reviewed estimates \u2014 current record is 105"
-    },
-    {
-     "n": "2016",
-     "l": "Year NIST launched its post-quantum standardization process, demonstrating the field's proactive posture"
-    }
-   ],
-   "tags": [
-    "encryption",
-    "quantum computing",
-    "cybersecurity",
-    "fear-based reporting"
    ],
    "generated": "2026-09-28T04:38:22.100713+00:00",
    "auto": true
@@ -1494,72 +1555,6 @@
     "regulation",
     "UN",
     "AI governance"
-   ],
-   "generated": "2026-09-24T04:01:02.710738+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Amazon is consuming massive amounts of water for its data centers and hiding it from the public while pretending to help the environment",
-   "verdict": "Partial",
-   "verdict_summary": "Amazon's water use opacity is a real and documented problem, but data center water consumption industry-wide is declining per unit of compute as efficiency technology improves \u2014 and Amazon has made verifiable commitments with measurable interim results.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "The transparency criticism is fair. Amazon has not published facility-level water consumption data in the way that, for example, Google has \u2014 which makes independent verification of its Colorado River conservation claims genuinely difficult. The Colorado River basin is in a documented multi-decade drought, and large industrial water users in that region face legitimate public scrutiny. Data centers use water primarily for evaporative cooling, and as AI workloads intensify, thermal loads \u2014 and therefore cooling demands \u2014 rise. Skepticism about corporate environmental claims without auditable data is not fearmongering; it's appropriate accountability journalism.",
-   "what_data_shows": "Google's 2023 Environmental Report disclosed 5.6 billion gallons of water consumed globally, and Microsoft published a water use intensity metric of 0.49 liters per kilowatt-hour for 2023 \u2014 both setting industry disclosure benchmarks that Amazon has not matched at the same granularity. However, Amazon's AWS has committed to water positive operations by 2030, meaning it will return more water to communities than it consumes. AWS already uses closed-loop cooling in several facilities that eliminates evaporative loss entirely. The broader trend in hyperscale data centers shows water usage effectiveness (WUE) improving from an industry average of 1.8 L/kWh in 2018 toward sub-0.5 L/kWh in next-generation facilities, driven by AI-optimized cooling architectures.",
-   "bigger_picture": "The real story is not that tech companies are secretly destroying water supplies \u2014 it's that disclosure standards for data center environmental metrics are uneven and need to be mandatory, not voluntary. The solution is regulatory standardization of reporting, which is already being pushed by the EU's Energy Efficiency Directive and proposed SEC climate disclosure rules in the US. When that transparency exists, companies that are genuinely improving \u2014 and most hyperscalers are improving on a per-compute basis \u2014 can be distinguished from those that are not. Framing this as concealed harm rather than an accountability gap misses the lever that would actually fix it.",
-   "data_points": [
-    {
-     "n": "5.6B gallons",
-     "l": "Google's total disclosed water consumption in 2023, setting the transparency benchmark Amazon has not matched"
-    },
-    {
-     "n": "2030",
-     "l": "Amazon's stated target year for AWS to achieve water-positive operations globally"
-    },
-    {
-     "n": "0.49 L/kWh",
-     "l": "Microsoft's 2023 water use intensity \u2014 next-gen facilities are approaching sub-0.5, down from an industry average of 1.8 in 2018"
-    }
-   ],
-   "tags": [
-    "energy",
-    "water",
-    "data centers",
-    "Amazon",
-    "environment"
-   ],
-   "generated": "2026-09-24T04:01:02.710738+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Trump calling AI 'super intelligence' proves AI hype has completely overtaken reality and safety warnings should be ignored",
-   "verdict": "Misleading",
-   "verdict_summary": "Trump's rhetorical overclaim is easy to mock but is being used to dismiss substantive AI safety discourse \u2014 the actual state of AI capability and the seriousness of governance efforts are independent of any politician's speech.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "Trump's UN speech conflating current large language models with 'super intelligence' is technically inaccurate. Artificial General Intelligence \u2014 systems that match or exceed human cognitive performance across all domains \u2014 does not exist today, and leading AI researchers place AGI timelines anywhere from a decade to never. When political figures overclaim AI capability for rhetorical purposes, it does create real harm: it inflates public expectations, distorts policy debates, and ironically makes it easier to dismiss legitimate safety concerns as equally unserious hype. The internet's mockery of the speech reflects a reasonable reaction to that distortion.",
-   "what_data_shows": "Current frontier models including GPT-4o, Claude 3.5, and Gemini 1.5 Pro demonstrate remarkable performance on narrow benchmarks \u2014 GPT-4 scored in the 90th percentile on the Uniform Bar Exam and 88th percentile on LSAT \u2014 but consistently fail on tasks requiring genuine causal reasoning, robust out-of-distribution generalization, and autonomous long-horizon planning without human scaffolding. A 2024 ARC Prize evaluation showed frontier models solving only 55.5% of novel reasoning tasks designed to resist memorization \u2014 far below human performance of 85%. The term 'superintelligence' has a specific technical definition (Bostrom, 2014) meaning intellect that vastly exceeds human cognitive performance in all domains; no deployed system meets this definition by any credible measure.",
-   "bigger_picture": "The danger of the mockery cycle \u2014 viral posts laughing at Trump's 'superintelligence' claim \u2014 is that it creates the impression that all serious AI safety concern is equally overblown. It is not. The UN panel, the EU AI Act, the Bletchley signatories, and mainstream AI safety researchers are not claiming superintelligence exists today; they are arguing that governance infrastructure must be built before capability thresholds that matter are crossed. Conflating a politician's rhetorical inflation with the actual safety research agenda lets real accountability slip. The right response to overclaim is precision, not dismissal of the entire domain.",
-   "data_points": [
-    {
-     "n": "55.5%",
-     "l": "Frontier model score on ARC Prize 2024 novel reasoning benchmark, versus 85% human baseline"
-    },
-    {
-     "n": "90th percentile",
-     "l": "GPT-4's Uniform Bar Exam score \u2014 impressive narrow performance that does not constitute general intelligence"
-    },
-    {
-     "n": "0",
-     "l": "Number of deployed AI systems that meet Nick Bostrom's formal 2014 definition of superintelligence by any peer-reviewed measure"
-    }
-   ],
-   "tags": [
-    "safety",
-    "AI hype",
-    "politics",
-    "superintelligence",
-    "governance"
    ],
    "generated": "2026-09-24T04:01:02.710738+00:00",
    "auto": true
