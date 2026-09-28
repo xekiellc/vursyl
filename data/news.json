@@ -1,6 +1,49 @@
 {
- "updated": "2026-09-27T21:08:34.381565+00:00",
+ "updated": "2026-09-28T04:38:22.107314+00:00",
  "items": [
+  {
+   "title": "Google turns 28: How a search engine started by two Stanford students grew into Gmail, YouTube, Android and Gemini AI",
+   "url": "https://timesofindia.indiatimes.com/education/news/google-turns-28-how-a-search-engine-started-by-two-stanford-students-grew-into-gmail-youtube-android-and-gemini-ai/articleshow/134514639.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-09-27T04:33:25+00:00"
+  },
+  {
+   "title": "ESP32-S3 powers EWatch smartwatch with open drivers and DIY options",
+   "url": "https://linuxgizmos.com/esp32-s3-powers-ewatch-smartwatch-with-open-drivers-and-diy-options/",
+   "source": "Linuxgizmos.com",
+   "category": "compute",
+   "published": "2026-09-27T04:24:35+00:00"
+  },
+  {
+   "title": "Nvidia's push for personal AI computers points to a broader shift toward on-premise compute",
+   "url": "https://www.digitimes.com/news/a20260924PD208/nvidia-data.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-09-27T04:22:55+00:00"
+  },
+  {
+   "title": "He failed Python once while working at ONGC; how Kaushal Prajapati earned an IIT Madras degree and switched to AI-ML",
+   "url": "https://timesofindia.indiatimes.com/education/news/he-failed-python-once-while-working-at-ongc-how-kaushal-prajapati-earned-an-iit-madras-degree-and-switched-to-ai-ml/articleshow/134514186.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-09-27T03:09:33+00:00"
+  },
+  {
+   "title": "Google is launching its AI chips into space \u2014 Project Suncatcher MVP sports four TPUs and will be delivered by a SpaceX rocket",
+   "url": "https://www.techradar.com/pro/google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-will-be-delivered-by-a-spacex-rocket",
+   "source": "TechRadar",
+   "category": "breakthroughs",
+   "published": "2026-09-27T00:05:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Woolly mammoth to be resurrected with the help of AI: scientists",
+   "url": "https://nypost.com/2026/09/26/science/ai-enlisted-as-woolly-mammoth-revival-timeline-slips-to-2030s/",
+   "source": "New York Post",
+   "category": "breakthroughs",
+   "published": "2026-09-26T21:48:30+00:00"
+  },
   {
    "title": "China, US agree to AI dialogue, $42b in tariff cuts during state visit",
    "url": "https://www.abc.net.au/news/2026-09-27/president-donald-trump-xi-jinping-washington-summit-tariffs-ai/107200436",
@@ -21,14 +64,6 @@
    "source": "CNA",
    "category": "ai",
    "published": "2026-09-26T19:45:07+00:00"
-  },
-  {
-   "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-   "url": "https://tml.stanford.edu/homebody/",
-   "source": "Stanford.edu",
-   "category": "robotics",
-   "published": "2026-09-26T18:42:10+00:00",
-   "breakthrough": true
   },
   {
    "title": "Big Tech can cut methane \u2026 cheaply!",
@@ -316,6 +351,13 @@
    "source": "Huggingface.co",
    "category": "ai",
    "published": "2026-09-25T19:25:29+00:00"
+  },
+  {
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "url": "https://openai.com/index/proaction",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-25T19:00:00+00:00"
   },
   {
    "title": "Jarrard Expands AI Capabilities, Adds Talent to Meet Demand",
@@ -829,6 +871,13 @@
    "published": "2026-09-24T16:31:44+00:00"
   },
   {
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-09-24T16:20:39+00:00"
+  },
+  {
    "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
    "url": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
    "source": "Amazon.com",
@@ -897,13 +946,6 @@
    "source": "PRNewswire",
    "category": "robotics",
    "published": "2026-09-24T14:03:00+00:00"
-  },
-  {
-   "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-   "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-09-24T14:00:50+00:00"
   },
   {
    "title": "Contain the Chaos: \u2018CONTROL Resonant\u2019 Launches on GeForce NOW",
@@ -34959,48 +35001,6 @@
    "source": "TechRadar",
    "category": "robotics",
    "published": "2026-07-06T07:58:46+00:00"
-  },
-  {
-   "title": "Anthropic is launching its own drug discovery programs for rare diseases using Claude superintelligence",
-   "url": "https://www.naturalnews.com/2026-07-06-anthropic-launching-drug-discovery-programs-rare-diseases.html",
-   "source": "Naturalnews.com",
-   "category": "health",
-   "published": "2026-07-06T06:00:00+00:00"
-  },
-  {
-   "title": "Can AI really create the right drug formula? What scientists have already achieved may surprise you",
-   "url": "https://www.indiatimes.com/trending/can-ai-really-create-the-right-drug-formula-what-scientists-have-already-achieved-may-surprise-you/articleshow/132195029.html",
-   "source": "The Times of India",
-   "category": "health",
-   "published": "2026-07-06T05:55:35+00:00"
-  },
-  {
-   "title": "Inside the World's First AGI Smart Health Cities: QAIAx AI City Hall Project (Veterans First for America)",
-   "url": "https://www.globenewswire.com/news-release/2026/07/06/3322138/0/en/Inside-the-World-s-First-AGI-Smart-Health-Cities-QAIAx-AI-City-Hall-Project-Veterans-First-for-America.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-06T05:01:00+00:00"
-  },
-  {
-   "title": "China advanced packaging maker SJ Semiconductor starts US$1.5bn 3DIC project for AI chips",
-   "url": "https://www.digitimes.com/news/a20260703VL212/packaging-chips-shanghai-manufacturing-data-center.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-06T03:49:58+00:00"
-  },
-  {
-   "title": "AI creating new consumer demands, biz opportunities beyond productivity gains: Bosch Global Software Technologies CEO",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-creating-new-consumer-demands-biz-opportunities-beyond-productivity-gains-bosch-global-software-technologies-ceo/articleshow/132206799.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-07-06T03:49:38+00:00"
-  },
-  {
-   "title": "Nvidia CEO explains AI\u2019s need for 1,000x more compute power",
-   "url": "https://cryptobriefing.com/nvidia-ceo-ai-1000x-compute-power/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-07-06T03:48:20+00:00"
   }
  ]
 }

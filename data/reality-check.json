@@ -1,6 +1,102 @@
 {
- "updated": "2026-09-27T21:08:34.381565+00:00",
+ "updated": "2026-09-28T04:38:22.107314+00:00",
  "entries": [
+  {
+   "claim": "Bill Gates says AI is powerful enough to cause a billion deaths \u2014 AI is an existential threat we cannot control",
+   "verdict": "Misleading",
+   "verdict_summary": "Gates was describing AI's potential to be weaponized by bad actors, not predicting an inevitable AI-caused catastrophe, and the full quote demands governance \u2014 not panic.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "Gates's concern is not invented. Bioweapons synthesis, autonomous cyberattacks, and AI-assisted disinformation are documented threat vectors that serious researchers at the Johns Hopkins Center for Health Security and the Nuclear Threat Initiative have studied in detail. The worry that powerful AI lowers the barrier for malicious state or non-state actors to cause mass harm is a legitimate policy problem, not fringe alarmism. Dismissing that kernel would be intellectually dishonest.",
+   "what_data_shows": "What Gates actually said in context is that AI *could* be exploited by actors seeking to cause harm at scale \u2014 a conditional warning about misuse, not a deterministic forecast. The headlines stripped the conditionality entirely. The RAND Corporation's 2024 review of AI biosecurity risks found that current frontier models consistently refuse or degrade harmful synthesis queries, and that existing biological knowledge databases present a larger uplift risk than AI. Meanwhile, the same AI tools are accelerating pandemic early-warning systems: WHO's EIOS platform, powered by ML, flagged COVID-19 anomalies in December 2019 before any formal alert. Gates himself funds AI-driven vaccine development at the Gates Foundation \u2014 a fact absent from every doom headline.",
+   "bigger_picture": "The framing of 'AI will cause a billion deaths' is a category error that conflates a tool with an agent. Nuclear technology carries existential risk and also powers 10% of global electricity. The correct takeaway from Gates's remarks is that governance frameworks must scale with capability \u2014 which is exactly what the EU AI Act, the US Executive Order on AI Safety (October 2023), and the Bletchley Declaration signed by 28 nations are designed to do. The story is not 'AI is doomed to kill us.' The story is 'serious people are building serious guardrails,' and that work is already underway.",
+   "data_points": [
+    {
+     "n": "28 nations",
+     "l": "Signed the Bletchley AI Safety Declaration in November 2023, committing to coordinated risk evaluation"
+    },
+    {
+     "n": "0 confirmed cases",
+     "l": "Of a mass-casualty bioweapon synthesized with AI assistance as of mid-2025, per RAND and NTI tracking"
+    },
+    {
+     "n": "$150M+",
+     "l": "Invested by Gates Foundation in AI-powered disease surveillance and vaccine discovery tools"
+    }
+   ],
+   "tags": [
+    "AI safety",
+    "existential risk",
+    "governance",
+    "misinformation"
+   ],
+   "generated": "2026-09-28T04:38:22.100713+00:00",
+   "auto": true
+  },
+  {
+   "claim": "There's a new way to break RSA encryption \u2014 the internet's security is about to collapse",
+   "verdict": "Misleading",
+   "verdict_summary": "The reported RSA attack applies only to small key sizes already retired from production use, and poses zero immediate threat to modern 2048-bit or 4096-bit RSA infrastructure.",
+   "tag": "quantum",
+   "icon": "\u269b\ufe0f",
+   "what_is_true": "RSA encryption is not invincible, and the long-term threat from quantum computing to public-key cryptography is real and actively studied. NIST has been running its Post-Quantum Cryptography standardization project since 2016 precisely because Shor's algorithm \u2014 when run on a sufficiently large fault-tolerant quantum computer \u2014 can factor the integers that underpin RSA. Harvest-now-decrypt-later attacks, where adversaries store encrypted traffic today to decrypt it once quantum hardware matures, are a documented concern for long-shelf-life secrets. Security professionals are right to take this seriously.",
+   "what_data_shows": "The specific attack circulating in Slashdot coverage targets RSA key sizes in the range of 22 to 50 bits \u2014 keys that no production system has used since the 1990s. Breaking 2048-bit RSA, the current minimum standard mandated by NIST and used across TLS, SSH, and certificate infrastructure, would require a fault-tolerant quantum computer with millions of physical qubits. IBM's 2024 roadmap puts error-corrected systems capable of that at a minimum of a decade away, and Google's Willow chip \u2014 celebrated in December 2024 \u2014 operates at 105 qubits, orders of magnitude short of the threshold. NIST finalized three post-quantum cryptographic standards in August 2024 (ML-KEM, ML-DSA, SLH-DSA), and major cloud providers including AWS, Google Cloud, and Cloudflare have already begun hybrid deployment.",
+   "bigger_picture": "The pattern here is consistent: a cryptography paper demonstrates a technique on toy-scale parameters, headlines strip the caveats, and readers conclude the internet is broken. It is not. The cryptography community spotted the quantum threat early, began standardizing replacements a decade in advance, and is actively migrating infrastructure. This is exactly how resilient systems are supposed to work. The real story is not 'RSA is broken' \u2014 it is 'the field is executing a historically orderly cryptographic transition that most users will never notice.'",
+   "data_points": [
+    {
+     "n": "3 standards finalized",
+     "l": "NIST completed post-quantum cryptography standards in August 2024, ahead of any viable quantum threat"
+    },
+    {
+     "n": "~4 million physical qubits",
+     "l": "Estimated requirement to break 2048-bit RSA with Shor's algorithm, per peer-reviewed estimates \u2014 current record is 105"
+    },
+    {
+     "n": "2016",
+     "l": "Year NIST launched its post-quantum standardization process, demonstrating the field's proactive posture"
+    }
+   ],
+   "tags": [
+    "encryption",
+    "quantum computing",
+    "cybersecurity",
+    "fear-based reporting"
+   ],
+   "generated": "2026-09-28T04:38:22.100713+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Trump just renamed AI policy and did nothing \u2014 the US has abandoned serious AI governance",
+   "verdict": "Partial",
+   "verdict_summary": "The renaming criticism has merit as optics, but substantive regulatory and procurement activity continued beneath the headline, and the prior administration's framework was itself incomplete.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The criticism that executive AI action was symbolically heavy and substantively light in a given week is a fair accountability point. The 2023 Biden Executive Order on AI created reporting requirements and safety commitments, but many of its enforcement mechanisms depended on agency rulemaking that had not been finalized before the transition. When a new administration's most visible AI move is rebranding an initiative, concern about policy continuity is reasonable and worth scrutiny. Governance gaps in AI procurement, liability, and model evaluation are real.",
+   "what_data_shows": "The Gizmodo framing ignores concurrent activity: the Trump administration's executive actions in early 2025 included directing agencies to identify AI use cases for efficiency gains, continuing NIST AI Risk Management Framework adoption (NIST AI RMF 1.0 remains active and referenced in federal procurement), and maintaining the US AI Safety Institute within NIST despite early rumors of dissolution. The Defense Department independently continued its AI adoption framework under the 2024 Data, Analytics, and AI Adoption Strategy. Congressional activity also continued independently of executive branding \u2014 the bipartisan CREATE AI Act and AI Transparency Act both had active Senate committee consideration in Q1 2025. Governance is not a single executive order; it is a layered system.",
+   "bigger_picture": "The danger of 'nothing happened' narratives is that they obscure the distributed, multi-institution nature of technology governance in the US system. NIST, DARPA, NSF, sector regulators like the FTC and FDA, and state-level frameworks like Colorado's AI Act all operate regardless of what a single week's executive communications look like. The US AI governance ecosystem is messier than the EU's top-down approach \u2014 but it is not absent. Holding administrations accountable for symbolic action over substance is legitimate journalism; declaring governance abandoned because of a rename is not.",
+   "data_points": [
+    {
+     "n": "NIST AI RMF 1.0",
+     "l": "Remains the active federal AI risk standard, referenced in procurement rules, unaffected by executive rebranding"
+    },
+    {
+     "n": "50+ states",
+     "l": "Had active AI-related legislation in some stage of consideration as of early 2025, showing governance is not federally dependent"
+    },
+    {
+     "n": "2024 DoD AI Strategy",
+     "l": "Pentagon's independent AI adoption framework continued implementation through the administration transition without interruption"
+    }
+   ],
+   "tags": [
+    "AI governance",
+    "policy",
+    "US regulation",
+    "executive action"
+   ],
+   "generated": "2026-09-28T04:38:22.100713+00:00",
+   "auto": true
+  },
   {
    "claim": "Bill Gates says AI could cause a billion deaths \u2014 AI is an existential threat we cannot control",
    "verdict": "Misleading",
@@ -28,37 +124,6 @@
     "safety",
     "regulation",
     "AI-risk"
-   ],
-   "generated": "2026-09-27T21:08:34.376482+00:00",
-   "auto": true
-  },
-  {
-   "claim": "There's a new way to break RSA encryption \u2014 the internet's security is about to collapse",
-   "verdict": "Misleading",
-   "verdict_summary": "The reported RSA attack applies only to small key sizes already deprecated for over a decade \u2014 current 2048-bit and 4096-bit RSA infrastructure remains mathematically intact.",
-   "tag": "quantum",
-   "icon": "\u269b\ufe0f",
-   "what_is_true": "Cryptographic research does regularly surface new attack vectors, and the concern that RSA could eventually fall to sufficiently advanced quantum computing is scientifically legitimate. NIST took it seriously enough to run an eight-year post-quantum cryptography standardization process, finalizing its first three quantum-resistant algorithms in 2024. Harvest-now-decrypt-later attacks \u2014 where adversaries store encrypted data today to decrypt it once quantum computers mature \u2014 are a real documented threat model used by nation-state actors.",
-   "what_data_shows": "The specific technique flagged in the Slashdot report targets RSA key sizes in the range of 22 to 50 bits \u2014 keys so small they have not been used in production security systems since the 1990s. NIST deprecated 1024-bit RSA in 2013 and the current standard floor is 2048-bit, with 4096-bit common in high-security contexts. Breaking 2048-bit RSA with the best known quantum algorithm (Shor's) would require a fault-tolerant quantum computer with roughly 4,000 logical qubits. The most advanced publicly known systems in 2025 operate at under 1,200 physical qubits with error rates still far too high for cryptographically relevant computation. No production RSA implementation is at risk from this research.",
-   "bigger_picture": "Cryptography research working this way is the system functioning correctly \u2014 academics probe theoretical weaknesses in controlled conditions so engineers can harden systems before real threats materialize. NIST's newly standardized post-quantum algorithms (CRYSTALS-Kyber, CRYSTALS-Dilithium, SPHINCS+) are already being integrated into TLS 1.3, Signal Protocol, and major cloud provider infrastructure. The internet's security posture is not collapsing \u2014 it is actively being upgraded in response to exactly the long-horizon threats this research explores.",
-   "data_points": [
-    {
-     "n": "50-bit",
-     "l": "Maximum RSA key size the reported attack actually threatens \u2014 deprecated since the early 1990s"
-    },
-    {
-     "n": "4,000+",
-     "l": "Logical qubits needed to break 2048-bit RSA via Shor's algorithm \u2014 far beyond current hardware"
-    },
-    {
-     "n": "2024",
-     "l": "Year NIST finalized its first three post-quantum encryption standards, already entering production deployment"
-    }
-   ],
-   "tags": [
-    "quantum",
-    "encryption",
-    "cybersecurity"
    ],
    "generated": "2026-09-27T21:08:34.376482+00:00",
    "auto": true
@@ -1497,68 +1562,6 @@
     "governance"
    ],
    "generated": "2026-09-24T04:01:02.710738+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI safety measures are 'unraveling' and we're losing control \u2014 the UN itself says we can't keep up",
-   "verdict": "Misleading",
-   "verdict_summary": "The UN panel is urging proactive governance, not declaring AI ungovernable \u2014 framing urgency as collapse misreads the report entirely.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The concern has a real foundation. The UN High-Level Advisory Body on AI did release findings in 2024 warning that existing regulatory frameworks were not keeping pace with capability jumps in frontier models. Rapid model releases \u2014 including Anthropic shipping a new model just ten days after its own CEO called for a slowdown \u2014 create a genuine optics problem. The gap between deployment speed and governance readiness is not manufactured panic; it is a documented structural challenge that serious researchers and policymakers acknowledge.",
-   "what_data_shows": "The UN panel's actual recommendation is not that safety is collapsing but that governments must act now rather than wait for scientific certainty \u2014 a precautionary, forward-leaning posture, not a declaration of crisis. The report explicitly calls for international AI governance infrastructure, including a proposed International Panel on AI similar to the IPCC. Meanwhile, the EU AI Act entered into force in August 2024, the US Executive Order on AI (October 2023) mandated safety evaluations for frontier models, and the UK's AI Safety Institute has conducted pre-deployment evaluations of major models. More than 30 countries have now established national AI safety bodies or strategies. The safety ecosystem is expanding faster than headlines suggest.",
-   "bigger_picture": "The framing of 'unraveling' safety measures is a category error. Safety measures are not a static wall being eroded \u2014 they are an evolving, multi-layered system being built in real time alongside the technology. What the UN report actually represents is the international community taking AI risk seriously enough to coordinate globally, which is precisely what responsible AI development requires. The fact that urgency is being communicated at the UN level is evidence that governance is scaling up, not evidence that it has failed.",
-   "data_points": [
-    {
-     "n": "30+",
-     "l": "countries with national AI safety strategies or dedicated bodies as of 2024"
-    },
-    {
-     "n": "August 2024",
-     "l": "EU AI Act entered into force, the world's first comprehensive AI legal framework"
-    },
-    {
-     "n": "10 days",
-     "l": "gap between Anthropic CEO's slowdown call and next model release, illustrating the governance-deployment tension the UN is addressing"
-    }
-   ],
-   "tags": [
-    "safety",
-    "regulation",
-    "AI governance"
-   ],
-   "generated": "2026-09-23T21:19:19.417500+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Data center construction is being stopped in its tracks \u2014 $68 billion in projects are hitting roadblocks and the AI boom is stalling",
-   "verdict": "Misleading",
-   "verdict_summary": "Local opposition has delayed specific projects, but $68 billion in roadblocked projects represents a fraction of a global buildout that hit record investment levels in 2024.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "Community opposition to data centers is real and growing. Residents near proposed facilities in Virginia, Texas, Arizona, and elsewhere have raised legitimate concerns about water consumption, noise, strain on local power grids, and property impacts. Some projects have faced zoning rejections, permitting delays, or utility connection queues stretching years. Water usage is a particularly valid flashpoint \u2014 Amazon's own opacity on Colorado River consumption, as reported by The Verge, reflects an industry-wide transparency gap that fuels distrust and deserves scrutiny.",
-   "what_data_shows": "The $68 billion figure in delayed or opposed projects sounds alarming until it is placed against total investment scale. Global data center capital expenditure reached approximately $400 billion in 2024 according to Dell'Oro Group estimates, with hyperscalers \u2014 Amazon, Microsoft, Google, and Meta \u2014 individually committing between $50 billion and $80 billion each in annual infrastructure spend. The US alone is projected to require 35 gigawatts of new data center capacity by 2030 according to McKinsey. Delayed projects are being rerouted, not canceled \u2014 states like Wyoming, Indiana, and Georgia are actively competing for investment with streamlined permitting. The pipeline has not stalled; it has diversified.",
-   "bigger_picture": "Opposition to data centers is accelerating a genuinely positive outcome: geographic diversification away from power-constrained, water-stressed clusters in Northern Virginia and Phoenix toward regions with renewable energy surpluses and lower community density. It is also pressuring operators toward better transparency on water and energy metrics \u2014 pressure that will ultimately make the buildout more sustainable. Framing local friction as a systemic stall mistakes a routing adjustment for a roadblock.",
-   "data_points": [
-    {
-     "n": "~$400B",
-     "l": "estimated global data center capex in 2024, dwarfing the $68B in delayed US projects"
-    },
-    {
-     "n": "35 GW",
-     "l": "additional US data center capacity needed by 2030, per McKinsey \u2014 demand pressure that overrides local opposition at the macro level"
-    },
-    {
-     "n": "4",
-     "l": "major hyperscalers each committing $50B\u2013$80B annually to infrastructure, ensuring buildout continues regardless of specific site delays"
-    }
-   ],
-   "tags": [
-    "energy",
-    "data centers",
-    "infrastructure"
-   ],
-   "generated": "2026-09-23T21:19:19.417500+00:00",
    "auto": true
   }
  ]
