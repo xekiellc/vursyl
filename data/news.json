@@ -1,30 +1,108 @@
 {
- "updated": "2026-09-28T23:05:25.526197+00:00",
+ "updated": "2026-09-29T05:05:44.806248+00:00",
  "items": [
   {
-   "title": "One year in: How Microsoft Research Asia \u2013 Singapore is advancing research, partnership and talent for real-world impact",
-   "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-09-28T21:00:00+00:00"
+   "title": "New formulation helps RNA vaccines withstand high temperatures",
+   "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-09-28T09:00:00+00:00"
   },
   {
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "source": "OpenAI",
+   "title": "Huawei Releases an AIFW Technical White Paper to Facilitate Firewall Upgrade",
+   "url": "https://en.antaranews.com/news/433177/huawei-releases-an-aifw-technical-white-paper-to-facilitate-firewall-upgrade",
+   "source": "Antaranews.com",
+   "category": "compute",
+   "published": "2026-09-28T05:03:53+00:00"
+  },
+  {
+   "title": "Arcadis deepens Autodesk collaboration to accelerate AI and data-led delivery for clients",
+   "url": "https://www.prnewswire.com/news-releases/arcadis-deepens-autodesk-collaboration-to-accelerate-ai-and-data-led-delivery-for-clients-302890861.html",
+   "source": "PRNewswire",
    "category": "ai",
-   "published": "2026-09-28T07:00:00+00:00"
+   "published": "2026-09-28T05:00:00+00:00"
+  },
+  {
+   "title": "HUAWEI CONNECT 2026 | Huawei Upgrades Stellar AI Fabric Solution to Build Efficient AI Computing Production Networks",
+   "url": "https://en.antaranews.com/news/433176/huawei-connect-2026-huawei-upgrades-stellar-ai-fabric-solution-to-build-efficient-ai-computing-production-networks",
+   "source": "Antaranews.com",
+   "category": "compute",
+   "published": "2026-09-28T04:58:55+00:00"
+  },
+  {
+   "title": "chem-llm 0.1.0",
+   "url": "https://pypi.org/project/chem-llm/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-28T04:43:29+00:00"
+  },
+  {
+   "title": "chem-llm added to PyPI",
+   "url": "https://pypi.org/project/chem-llm/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-09-28T04:43:29+00:00"
+  },
+  {
+   "title": "Nabla Bio expects human trials of AI-designed antibody drugs within two years",
+   "url": "https://cryptobriefing.com/nabla-bio-ai-antibody-human-trials/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-09-28T04:22:49+00:00"
+  },
+  {
+   "title": "TakeMe2Space to launch orbital computing satellite on SpaceX rocket",
+   "url": "https://economictimes.indiatimes.com/tech/technology/takeme2space-to-launch-orbital-computing-satellite-on-spacex-rocket/articleshow/134531034.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-09-28T03:48:38+00:00"
+  },
+  {
+   "title": "TakeMe2Space to launch India\u2019s first orbital computing satellite on SpaceX rocket",
+   "url": "https://cryptobriefing.com/takeme2space-india-orbital-computing-satellite-spacex/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-09-28T03:44:12+00:00"
+  },
+  {
+   "title": "TakeMe2Space to fly India's first orbital data centre on Falcon 9 in 2028",
+   "url": "https://www.business-standard.com/technology/tech-news/takeme2space-to-fly-india-s-first-orbital-data-centre-on-falcon-9-in-2028-126092700618_1.html",
+   "source": "Business Standard",
+   "category": "compute",
+   "published": "2026-09-28T03:35:20+00:00"
+  },
+  {
+   "title": "Huawei Digital Power Showcases Multi-Scenario Solutions Featuring Grid Forming and AI at IDEE 2026",
+   "url": "https://en.antaranews.com/news/433140/huawei-digital-power-showcases-multi-scenario-solutions-featuring-grid-forming-and-ai-at-idee-2026",
+   "source": "Antaranews.com",
+   "category": "compute",
+   "published": "2026-09-28T02:56:22+00:00"
+  },
+  {
+   "title": "Akeso Announces First Patient Enrolled in Global Phase III Trial of Cadonilimab Versus Nivolumab in First-Line Gastric Cancer",
+   "url": "https://www.prnewswire.com/news-releases/akeso-announces-first-patient-enrolled-in-global-phase-iii-trial-of-cadonilimab-versus-nivolumab-in-first-line-gastric-cancer-302891043.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-09-28T02:05:00+00:00"
+  },
+  {
+   "title": "Accelerated discovery of thermostable mRNA\u2013lipid nanoparticle vaccines using data-efficient AI",
+   "url": "https://www.nature.com/articles/s41587-026-03331-w",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-09-28T00:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "AI-guided optimization for thermostable mRNA vaccines",
+   "url": "https://www.nature.com/articles/s41587-026-03330-x",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-09-28T00:00:00+00:00"
   },
   {
    "title": "Are you a Codex Original?",
    "url": "https://openai.com/form/codex-originals",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-28T00:00:00+00:00"
-  },
-  {
-   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-   "url": "https://openai.com/index/basis-tax-workbook-with-astra",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-09-28T00:00:00+00:00"
@@ -184,13 +262,6 @@
    "published": "2026-09-27T21:26:28+00:00"
   },
   {
-   "title": "AI Could Give AbbVie (ABBV) a New Route to Long-Term Pipeline Growth",
-   "url": "https://biztoc.com/x/26683a0322dfbf91",
-   "source": "Biztoc.com",
-   "category": "health",
-   "published": "2026-09-27T21:01:35+00:00"
-  },
-  {
    "title": "hessboost added to PyPI",
    "url": "https://pypi.org/project/hessboost/",
    "source": "Pypi.org",
@@ -261,13 +332,6 @@
    "published": "2026-09-27T17:28:46+00:00"
   },
   {
-   "title": "Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
-   "url": "https://biztoc.com/x/442d079d299a5927",
-   "source": "Biztoc.com",
-   "category": "ai",
-   "published": "2026-09-27T17:01:43+00:00"
-  },
-  {
    "title": "Connect Event Shows Companion Similar to Tamagotchi by Meta",
    "url": "https://www.ilounge.com/news/connect-event-shows-companion-similar-to-tamagotchi-by-meta",
    "source": "iLounge",
@@ -279,8 +343,7 @@
    "url": "https://biztoc.com/x/eb4f857df48a6b25",
    "source": "Biztoc.com",
    "category": "health",
-   "published": "2026-09-27T15:31:41+00:00",
-   "breakthrough": true
+   "published": "2026-09-27T15:31:41+00:00"
   },
   {
    "title": "Scientists Download Frontier AI Model Into Self-Driving Car Let It Loose",
@@ -332,18 +395,18 @@
    "published": "2026-09-27T10:00:00+00:00"
   },
   {
-   "title": "bpy-vrm-format added to PyPI",
-   "url": "https://pypi.org/project/bpy-vrm-format/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-09-27T08:28:31+00:00"
-  },
-  {
    "title": "Healthcare Insurance Companies Are Leveraging AI For Novel Use-Cases",
    "url": "https://biztoc.com/x/945c4acc4e671046",
    "source": "Biztoc.com",
    "category": "health",
    "published": "2026-09-27T06:13:14+00:00"
+  },
+  {
+   "title": "GitHub - SkyeShark/eidoverse-video: Video-production toolkit for AI agents: Deno + WebGPU + three.js/TSL render engine with VRM character locomotion, simulations, effects, and a full audio pipeline \u2014 real-time GPU rendering with minimal CPU \u00b7 GitHub",
+   "url": "https://github.com/SkyeShark/eidoverse-video",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-09-27T05:47:01+00:00"
   },
   {
    "title": "Google turns 28: How a search engine started by two Stanford students grew into Gmail, YouTube, Android and Gemini AI",
@@ -708,13 +771,6 @@
    "source": "Huggingface.co",
    "category": "ai",
    "published": "2026-09-25T19:25:29+00:00"
-  },
-  {
-   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-   "url": "https://openai.com/index/proaction",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-09-25T19:00:00+00:00"
   },
   {
    "title": "Jarrard Expands AI Capabilities, Adds Talent to Meet Demand",
@@ -34945,62 +35001,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-07-07T02:55:52+00:00"
-  },
-  {
-   "title": "dai-bench 0.2.0.post0",
-   "url": "https://pypi.org/project/dai-bench/0.2.0.post0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-07T02:55:52+00:00"
-  },
-  {
-   "title": "3tears-agent-tools 0.14.0",
-   "url": "https://pypi.org/project/3tears-agent-tools/0.14.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-07T02:55:51+00:00"
-  },
-  {
-   "title": "3tears-agent-tools added to PyPI",
-   "url": "https://pypi.org/project/3tears-agent-tools/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-07T02:55:51+00:00"
-  },
-  {
-   "title": "openinvest 0.22.1",
-   "url": "https://pypi.org/project/openinvest/0.22.1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-07T02:54:21+00:00"
-  },
-  {
-   "title": "automud 0.3.0",
-   "url": "https://pypi.org/project/automud/0.3.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-07T02:54:14+00:00"
-  },
-  {
-   "title": "When AIs Talk To Each Other",
-   "url": "https://www.neatorama.com/2026/07/06/When-AIs-Talk-To-Each-Other/",
-   "source": "Neatorama.com",
-   "category": "ai",
-   "published": "2026-07-07T02:53:48+00:00"
-  },
-  {
-   "title": "kuant 0.5.1",
-   "url": "https://pypi.org/project/kuant/0.5.1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-07T02:52:26+00:00"
-  },
-  {
-   "title": "hypha 0.21.106",
-   "url": "https://pypi.org/project/hypha/0.21.106/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-07T02:52:01+00:00"
   }
  ]
 }
