@@ -1,13 +1,29 @@
 {
- "updated": "2026-09-29T05:05:44.806248+00:00",
+ "updated": "2026-09-29T12:28:26.446349+00:00",
  "items": [
   {
-   "title": "A 70-Year-Old Prediction, Coming True",
-   "url": "https://www.youtube.com/watch?v=F-1F_QBxnq8",
-   "source": "Peter H. Diamandis",
-   "thumbnail": "https://i.ytimg.com/vi/F-1F_QBxnq8/mqdefault.jpg",
-   "category": "breakthroughs",
-   "published": "2026-09-29T00:02:35+00:00"
+   "title": "The Defender's Window at enterprise scale with Standard Chartered",
+   "url": "https://www.youtube.com/watch?v=a75xDflRooI",
+   "source": "OpenAI",
+   "thumbnail": "https://i.ytimg.com/vi/a75xDflRooI/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-29T10:01:43+00:00"
+  },
+  {
+   "title": "Building the partner ecosystem with Sophos",
+   "url": "https://www.youtube.com/watch?v=zoohZ1BiHs0",
+   "source": "OpenAI",
+   "thumbnail": "https://i.ytimg.com/vi/zoohZ1BiHs0/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-29T10:00:28+00:00"
+  },
+  {
+   "title": "Robotic factories that build robots",
+   "url": "https://www.youtube.com/watch?v=aNWKngrCrw4",
+   "source": "Y Combinator",
+   "thumbnail": "https://i.ytimg.com/vi/aNWKngrCrw4/mqdefault.jpg",
+   "category": "robotics",
+   "published": "2026-09-28T20:56:45+00:00"
   },
   {
    "title": "We Gave Away $2,000,000 To 5 AI Builders | MOONSHOTS Live",
@@ -24,6 +40,22 @@
    "thumbnail": "https://i.ytimg.com/vi/_8pHsq0YoNE/mqdefault.jpg",
    "category": "breakthroughs",
    "published": "2026-09-28T20:02:07+00:00"
+  },
+  {
+   "title": "GPT-6 Astra in practice: Turning ideas into projects",
+   "url": "https://www.youtube.com/watch?v=6wNqpZdHE_s",
+   "source": "OpenAI",
+   "thumbnail": "https://i.ytimg.com/vi/6wNqpZdHE_s/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-28T18:05:42+00:00"
+  },
+  {
+   "title": "How Jev Turns AI Into Software That Gets Things Done",
+   "url": "https://www.youtube.com/watch?v=Ut3LOjKNJaE",
+   "source": "a16z",
+   "thumbnail": "https://i.ytimg.com/vi/Ut3LOjKNJaE/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-28T14:30:07+00:00"
   },
   {
    "title": "Martine Rothblatt's response to people who are scared of AI: name the fear, and it disappears.",
@@ -50,20 +82,28 @@
    "published": "2026-09-27T02:32:16+00:00"
   },
   {
+   "title": "The Next Chapter of AI Is Inside Our Software",
+   "url": "https://www.youtube.com/watch?v=TLJNJDf2XGo",
+   "source": "a16z",
+   "thumbnail": "https://i.ytimg.com/vi/TLJNJDf2XGo/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-09-26T14:30:10+00:00"
+  },
+  {
+   "title": "Robot-Use Agents: Why General-Purpose Models May Win in Robotics",
+   "url": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
+   "source": "Y Combinator",
+   "thumbnail": "https://i.ytimg.com/vi/Jv5B5CEaPJI/mqdefault.jpg",
+   "category": "robotics",
+   "published": "2026-09-26T14:00:37+00:00"
+  },
+  {
    "title": "Vlad's AI Coding Agents Are Costing Him Sleep",
    "url": "https://www.youtube.com/watch?v=_LX3SqRj4bU",
    "source": "Peter H. Diamandis",
    "thumbnail": "https://i.ytimg.com/vi/_LX3SqRj4bU/mqdefault.jpg",
    "category": "ai",
    "published": "2026-09-25T20:03:01+00:00"
-  },
-  {
-   "title": "Rocket cargo delivery anywhere on Earth in minutes",
-   "url": "https://www.youtube.com/watch?v=j7Ee8hMme3c",
-   "source": "Y Combinator",
-   "thumbnail": "https://i.ytimg.com/vi/j7Ee8hMme3c/mqdefault.jpg",
-   "category": "robotics",
-   "published": "2026-09-25T18:36:54+00:00"
   },
   {
    "title": "How to Spot Exceptional Talent Before Everyone Else",
@@ -74,14 +114,6 @@
    "published": "2026-09-25T14:00:23+00:00"
   },
   {
-   "title": "Autonomous construction on Earth and beyond",
-   "url": "https://www.youtube.com/watch?v=iGY7httJjQA",
-   "source": "Y Combinator",
-   "thumbnail": "https://i.ytimg.com/vi/iGY7httJjQA/mqdefault.jpg",
-   "category": "robotics",
-   "published": "2026-09-24T21:00:29+00:00"
-  },
-  {
    "title": "DB2's Kimi K3 Story: How China Cracked The Math Nobody Tried",
    "url": "https://www.youtube.com/watch?v=hvBH0vdb27g",
    "source": "Peter H. Diamandis",
@@ -90,12 +122,12 @@
    "published": "2026-09-24T20:03:51+00:00"
   },
   {
-   "title": "10 Years of NVIDIA DGX",
-   "url": "https://www.youtube.com/watch?v=AIH_9dOpAmU",
+   "title": "10 Years of NVIDIA DGX: From One System to AI Factories",
+   "url": "https://www.youtube.com/watch?v=xAgq8ByWK0M",
    "source": "NVIDIA",
-   "thumbnail": "https://i.ytimg.com/vi/AIH_9dOpAmU/mqdefault.jpg",
+   "thumbnail": "https://i.ytimg.com/vi/xAgq8ByWK0M/mqdefault.jpg",
    "category": "compute",
-   "published": "2026-09-24T17:49:58+00:00"
+   "published": "2026-09-24T16:00:27+00:00"
   },
   {
    "title": "How to Make AI Companies Pay Your Energy Bill | Ari Matusiak | TED",
