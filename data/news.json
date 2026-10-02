@@ -1,19 +1,132 @@
 {
- "updated": "2026-10-02T12:12:09.538575+00:00",
+ "updated": "2026-10-02T22:00:23.716004+00:00",
  "items": [
   {
-   "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
-   "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+   "title": "Computational tools for society\u2019s most complex challenges",
+   "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
    "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-10-01T22:00:00+00:00"
+   "published": "2026-10-02T19:30:00+00:00"
   },
   {
-   "title": "How Albertsons Companies is reimagining retail from the inside out",
-   "url": "https://openai.com/index/albertsons-reimagining-retail",
+   "title": "A model guide for the GPT-6 family",
+   "url": "https://openai.com/index/practical-guide-building-gpt-6",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-01T16:00:00+00:00"
+   "published": "2026-10-02T16:15:00+00:00"
+  },
+  {
+   "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+   "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-02T13:00:39+00:00"
+  },
+  {
+   "title": "Chatham scales its capital markets expertise with OpenAI",
+   "url": "https://openai.com/index/chatham-financial",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-02T00:00:00+00:00"
+  },
+  {
+   "title": "How NVIDIA GPUs Help Accelerate OpenAI\u2019s GPT-6 Astra Ultrafast",
+   "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-01T23:44:13+00:00"
+  },
+  {
+   "title": "Cloudflare releases Clef and Clef-flash decision models on Workers AI",
+   "url": "https://cryptobriefing.com/cloudflare-clef-decision-models-workers-ai/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-10-01T21:56:51+00:00"
+  },
+  {
+   "title": "Delta Electronics teams up with Nvidia on Level 4 autonomous driving systems",
+   "url": "https://cryptobriefing.com/delta-electronics-nvidia-level-4-autonomous-driving/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-10-01T21:45:42+00:00"
+  },
+  {
+   "title": "Epoch AI data shows ChatGPT users are chatting more often, and at greater length",
+   "url": "https://cryptobriefing.com/epoch-ai-chatgpt-usage-data-5000-users/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-10-01T21:38:27+00:00"
+  },
+  {
+   "title": "Google\u2019s AI Chips Blast Off Today",
+   "url": "https://biztoc.com/x/8d1af26086392d00",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-10-01T21:34:01+00:00"
+  },
+  {
+   "title": "Show HN: Graphene \u2013 Data analysis toolkit for your coding agent",
+   "url": "https://github.com/graphene-data/graphene",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-01T21:29:52+00:00"
+  },
+  {
+   "title": "ChatGPT Is Now Ready to Dress You With Virtual\u00a0Try-on",
+   "url": "http://wwd.com/business-news/technology/chatgpt-virtual-try-on-fashion-shopping-1239302870/",
+   "source": "WWD",
+   "category": "ai",
+   "published": "2026-10-01T21:19:47+00:00"
+  },
+  {
+   "title": "AMD's 256-core monster EPYC CPU is its most expensive processor ever launched \u2014 600W 'Venice' 9996 has 1 GB cache, supports PCIe 6.0 and MRDIMM, both cutting-edge enterprise-only tech that probably won't come to consumers until after 2030",
+   "url": "https://www.techradar.com/pro/amds-256-core-monster-epyc-cpu-is-its-most-expensive-processor-ever-launched-600w-venice-9996-has-1-gb-cache-supports-pcie-6-0-and-mrdimm-both-cutting-edge-enterprise-only-tech-that-probably-wont-come-to-consumers-until-after-2030",
+   "source": "TechRadar",
+   "category": "compute",
+   "published": "2026-10-01T21:15:00+00:00"
+  },
+  {
+   "title": "Wearable AI anticipates prolonged sitting in women with chronic pelvic pain",
+   "url": "https://www.digitaljournal.com/article/wearable-ai-anticipates-prolonged-sitting-in-women-with-chronic-pelvic-pain/",
+   "source": "Digital Journal",
+   "category": "health",
+   "published": "2026-10-01T21:07:35+00:00"
+  },
+  {
+   "title": "Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
+   "url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
+   "source": "TechRadar",
+   "category": "health",
+   "published": "2026-10-01T20:00:00+00:00"
+  },
+  {
+   "title": "Harvard physicist\u2019s BootLoops toolkit puts AI to work across the sciences",
+   "url": "https://cryptobriefing.com/bootloops-toolkit-ai-scientific-research/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-10-01T19:02:18+00:00"
+  },
+  {
+   "title": "Atlas Robot\u2019s New Hand May Outperform Human-Like Designs",
+   "url": "https://spectrum.ieee.org/robust-robot-hand",
+   "source": "Ieee.org",
+   "category": "robotics",
+   "published": "2026-10-01T14:40:12+00:00"
+  },
+  {
+   "title": "GENISOM AI Showcases Embodied Intelligence and Debuts World's First Industry-Grade Educational Quadruped at IROS 2026",
+   "url": "https://www.prnewswire.com/news-releases/genisom-ai-showcases-embodied-intelligence-and-debuts-worlds-first-industry-grade-educational-quadruped-at-iros-2026-302896049.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-01T13:30:00+00:00"
+  },
+  {
+   "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+   "source": "Science Daily",
+   "category": "quantum",
+   "published": "2026-10-01T13:17:13+00:00",
+   "breakthrough": true
   },
   {
    "title": "Fall Into 25 New Games on GeForce NOW This October",
@@ -28,6 +141,13 @@
    "source": "NVIDIA",
    "category": "compute",
    "published": "2026-10-01T13:00:49+00:00"
+  },
+  {
+   "title": "Show HN: Open-source voice mode and talking avatar for React, in the browser",
+   "url": "https://github.com/927tanmay/react-ai-voice-avatar",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-01T12:59:31+00:00"
   },
   {
    "title": "Get Tech Certified 2026: build your technology and digital skills for free",
@@ -114,33 +234,11 @@
    "published": "2026-10-01T11:38:47+00:00"
   },
   {
-   "title": "D-Wave opens quantum computing gate-model simulator beta program",
-   "url": "https://siliconangle.com/2026/10/01/d-wave-opens-quantum-computing-gate-model-simulator-beta-program/",
-   "source": "SiliconANGLE News",
-   "category": "quantum",
-   "published": "2026-10-01T11:00:41+00:00"
-  },
-  {
-   "title": "Agility and FORT Robotics Announce Strategic Partnership to Advance Humanoid Robot Safety",
-   "url": "https://www.prnewswire.com/news-releases/agility-and-fort-robotics-announce-strategic-partnership-to-advance-humanoid-robot-safety-302895323.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-10-01T11:00:00+00:00"
-  },
-  {
-   "title": "XPENG to Launch Its Next-Gen AI Flagship G9L SUV and Showcase Its Physical AI Lineup at the 2026 Paris Motor Show",
-   "url": "https://www.prnewswire.com/news-releases/xpeng-to-launch-its-next-gen-ai-flagship-g9l-suv-and-showcase-its-physical-ai-lineup-at-the-2026-paris-motor-show-302895835.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-10-01T10:14:00+00:00"
-  },
-  {
    "title": "Quantum teleportation with partially entangled joint measurements induced by coherent errors",
    "url": "https://link.aps.org/doi/10.1103/py1h-hmn9",
    "source": "Aps.org",
    "category": "quantum",
-   "published": "2026-10-01T10:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-10-01T10:00:00+00:00"
   },
   {
    "title": "Analysis: China's AI data center buildout vaults to No. 2 as Big Tech capex races toward US$100 billion",
@@ -204,13 +302,6 @@
    "source": "BBC News",
    "category": "health",
    "published": "2026-10-01T00:52:34+00:00"
-  },
-  {
-   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-   "url": "https://openai.com/index/the-den-family-social",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-01T00:00:00+00:00"
   },
   {
    "title": "A human-induced pluripotent stem cell-derived spheroid model to investigate myelin injury and repair",
@@ -283,6 +374,13 @@
    "published": "2026-09-30T18:42:14+00:00"
   },
   {
+   "title": "NVIDIA Opens Applications for 2027\u20132028 Graduate Fellowships With Awards Up to $60,000",
+   "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-09-30T17:00:21+00:00"
+  },
+  {
    "title": "Yosi Health Closes the Gap Between Google Search and the Exam Room for Specialty Medical Groups",
    "url": "https://markets.financialcontent.com/stocks/article/prunderground-2026-9-30-yosi-health-closes-the-gap-between-google-search-and-the-exam-room-for-specialty-medical-groups",
    "source": "Financialcontent.com",
@@ -302,6 +400,27 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-09-30T16:00:00+00:00"
+  },
+  {
+   "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
+   "url": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-09-30T15:15:00+00:00"
+  },
+  {
+   "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+   "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-09-30T15:00:00+00:00"
+  },
+  {
+   "title": "This game-playing AI is the new champ at Stratego",
+   "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-09-30T15:00:00+00:00"
   },
   {
    "title": "Adaptive introgression between two Drosophila species enhances heat tolerance despite barriers to gene flow",
@@ -428,6 +547,13 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-09-30T10:10:00+00:00"
+  },
+  {
+   "title": "Helping small businesses put AI to work",
+   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-30T10:00:00+00:00"
   },
   {
    "title": "LG Innotek Accelerates Corporate Transformation Driven by Semiconductor Substrates and Physical AI",
@@ -689,13 +815,6 @@
    "published": "2026-09-29T15:48:00+00:00"
   },
   {
-   "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-   "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-09-29T14:00:02+00:00"
-  },
-  {
    "title": "Berlin\u2019s Apheris and Ginkgo bring pharma giants together to train AI on 10,000 antibodies",
    "url": "https://biztoc.com/x/df63cdc1323eec0d",
    "source": "Biztoc.com",
@@ -855,6 +974,13 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-09-29T10:30:00+00:00"
+  },
+  {
+   "title": "DevDay 2026 Recap",
+   "url": "https://openai.com/index/devday-2026-recap",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-09-29T10:00:00+00:00"
   },
   {
    "title": "Introducing GPT-6.1 Sol",
@@ -34875,132 +35001,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-07-09T14:20:42+00:00"
-  },
-  {
-   "title": "toolmask-llm 0.1.0",
-   "url": "https://pypi.org/project/toolmask-llm/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-09T14:19:48+00:00"
-  },
-  {
-   "title": "toolmask-llm added to PyPI",
-   "url": "https://pypi.org/project/toolmask-llm/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-09T14:19:43+00:00"
-  },
-  {
-   "title": "Saudi Arabia\u2019s Humain taps Cohere for sovereign AI models with 50 MW compute commitment",
-   "url": "https://cryptobriefing.com/humain-cohere-sovereign-ai-compute/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-07-09T14:19:09+00:00"
-  },
-  {
-   "title": "Show HN: TensorRT-LLM running natively on Windows (no WSL)",
-   "url": "https://baremetalrt.ai/app?mode=1gpu",
-   "source": "Baremetalrt.ai",
-   "category": "compute",
-   "published": "2026-07-09T14:18:27+00:00"
-  },
-  {
-   "title": "Nvidia shows off GeForce Trading Cards Series 1 \u2014 collectible cards show off games, GPUs, and tech demos, and will be available for free at upcoming events",
-   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-shows-off-geforce-trading-cards-series-1-collectible-cards-show-off-games-gpus-and-tech-demos-and-will-be-available-for-free-at-upcoming-events",
-   "source": "Tom's Hardware UK",
-   "category": "compute",
-   "published": "2026-07-09T14:12:10+00:00"
-  },
-  {
-   "title": "memQ Named to Falling Walls Venture Top 100 Science Startups to Watch",
-   "url": "https://www.globenewswire.com/news-release/2026/07/09/3324936/0/en/memQ-Named-to-Falling-Walls-Venture-Top-100-Science-Startups-to-Watch.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-09T14:08:00+00:00"
-  },
-  {
-   "title": "I Tested AI to Find Errors in My Medical Bills. Here\u2019s What It Found",
-   "url": "https://www.cnet.com/tech/services-and-software/chatgpt-medical-bill-errors/",
-   "source": "CNET",
-   "category": "health",
-   "published": "2026-07-09T14:00:00+00:00"
-  },
-  {
-   "title": "Bay Area Children's Hospital Deploys R-Zero's Physical AI Platform to Reduce Energy",
-   "url": "https://www.prnewswire.com/news-releases/bay-area-childrens-hospital-deploys-r-zeros-physical-ai-platform-to-reduce-energy-302821535.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-09T14:00:00+00:00"
-  },
-  {
-   "title": "SAI-DA 1.0 | GEOTA Platform: Revolutionizing Drug R&D with Digital Computing Power",
-   "url": "https://www.prnewswire.com/news-releases/sai-da-1-0--geota-platform-revolutionizing-drug-rd-with-digital-computing-power-302821432.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-09T14:00:00+00:00"
-  },
-  {
-   "title": "How to benchmark medical AI agents",
-   "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005170",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-07-09T14:00:00+00:00"
-  },
-  {
-   "title": "Advancing outbreak detection: Hybridizing machine learning with wavelets for weekly dengue case forecasting",
-   "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014444",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-07-09T14:00:00+00:00"
-  },
-  {
-   "title": "Evaluating large language model performance in Risk of Bias assessments: A cross-sectional validation study",
-   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353155",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-07-09T14:00:00+00:00"
-  },
-  {
-   "title": "Elon Musk receives FTC greenlight to buy Mesh Optical as interconnects emerge as AI's tightest bottleneck \u2014 the move will expand Musk's growing stack of critical AI infrastructure",
-   "url": "https://www.tomshardware.com/tech-industry/big-tech/elon-musk-receives-ftc-greenlight-to-buy-mesh-optical-as-interconnects-emerge-as-ais-tightest-bottleneck-the-move-will-expand-musks-growing-stack-of-critical-ai-infrastructure",
-   "source": "Tom's Hardware UK",
-   "category": "compute",
-   "published": "2026-07-09T12:42:23+00:00"
-  },
-  {
-   "title": "Mitsubishi Motors and Highlanders partner on robotics for manufacturing",
-   "url": "https://www.just-auto.com/news/mitsubishi-motors-and-highlanders-partner-on-robotics-for-manufacturing/",
-   "source": "Just-auto.com",
-   "category": "robotics",
-   "published": "2026-07-09T11:59:11+00:00"
-  },
-  {
-   "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-   "url": "https://openai.com/index/gpt-5-6",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-09T10:00:00+00:00"
-  },
-  {
-   "title": "ChatGPT is now a partner for your most ambitious work",
-   "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-09T10:00:00+00:00"
-  },
-  {
-   "title": "GPT-5.5 Bio Bug Bounty",
-   "url": "https://openai.com/index/bio-bug-bounty",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-09T10:00:00+00:00"
-  },
-  {
-   "title": "lore-llm 0.15.0",
-   "url": "https://pypi.org/project/lore-llm/0.15.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-09T09:42:34+00:00"
   }
  ]
 }
