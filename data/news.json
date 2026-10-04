@@ -1,6 +1,98 @@
 {
- "updated": "2026-10-04T12:03:32.196768+00:00",
+ "updated": "2026-10-04T21:05:19.827307+00:00",
  "items": [
+  {
+   "title": "Amazon Pledges $1 Billion to Communities Hosting Data Centers",
+   "url": "https://legalinsurrection.com/2026/10/amazon-pledges-1-billion-to-communities-hosting-data-centers/",
+   "source": "Legalinsurrection.com",
+   "category": "compute",
+   "published": "2026-10-03T21:00:30+00:00"
+  },
+  {
+   "title": "Show HN: Play an RL self-play policy in Pokemon Gen 3 Randbats in the browser",
+   "url": "https://zkingston.com/advsim/",
+   "source": "Zkingston.com",
+   "category": "ai",
+   "published": "2026-10-03T20:41:49+00:00"
+  },
+  {
+   "title": "Show HN: Local pretrained classifiers, GPU not needed",
+   "url": "https://github.com/nicobrenner/jeffy",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-03T20:19:09+00:00"
+  },
+  {
+   "title": "AI-driven network upgrades expose hidden complexity in the shift to 400G and 800G infrastructure",
+   "url": "https://www.digitaljournal.com/article/ai-driven-network-upgrades-expose-hidden-complexity-in-the-shift-to-400g-and-800g-infrastructure/",
+   "source": "Digital Journal",
+   "category": "compute",
+   "published": "2026-10-03T20:12:39+00:00"
+  },
+  {
+   "title": "Broadcom to lend Anthropic up to $42bn to lease its chips",
+   "url": "https://www.gulf-times.com/article/734706/business/broadcom-to-lend-anthropic-up-to-42bn-to-lease-its-chips",
+   "source": "Gulf-times.com",
+   "category": "compute",
+   "published": "2026-10-03T20:12:15+00:00"
+  },
+  {
+   "title": "9 insights from \u2018Private Tech Trailblazers\u2019: Vertical AI becomes the growth engine",
+   "url": "https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-03T20:08:45+00:00"
+  },
+  {
+   "title": "Gigabyte Aorus GeForce RTX 5080 Infinity 16G Review: A Soaring Spitfire of a Gaming Card",
+   "url": "https://uk.pcmag.com/graphics-cards/167642/gigabyte-aorus-geforce-rtx-5080-infinity-16g-review-a-soaring-spitfire-of-a-gaming-card",
+   "source": "PCMag.com",
+   "category": "compute",
+   "published": "2026-10-03T20:00:00+00:00"
+  },
+  {
+   "title": "Canada\u2019s biodynamic farms blend lunar traditions with digital technology",
+   "url": "https://www.digitaljournal.com/article/canadas-biodynamic-farms-blend-lunar-traditions-with-digital-technology/",
+   "source": "Digital Journal",
+   "category": "breakthroughs",
+   "published": "2026-10-03T19:58:58+00:00"
+  },
+  {
+   "title": "Show HN: Open-source implementation of DSec Paper by DeepSeek",
+   "url": "https://github.com/djinn/fireagent",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-03T18:50:01+00:00"
+  },
+  {
+   "title": "Scientists resurrected 160-million-year-old proteins from extinct mammals; some were stronger against drug-resistant bacteria than modern human versions, raising new hopes for antibiotic research",
+   "url": "https://timesofindia.indiatimes.com/science/discovery/scientists-resurrected-160-million-year-old-proteins-from-extinct-mammals-some-were-stronger-against-drug-resistant-bacteria-than-modern-human-versions-raising-new-hopes-for-antibiotic-research/articleshow/134639995.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-10-03T17:36:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS",
+   "url": "https://www.prnewswire.com/news-releases/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros-302897662.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-03T16:53:00+00:00"
+  },
+  {
+   "title": "AI may detect dementia risk through a person\u2019s speech, study finds | The Eastleigh Voice",
+   "url": "https://eastleighvoice.co.ke/health/407960/ai-may-detect-dementia-risk-through-a-persons-speech-study-finds",
+   "source": "Eastleighvoice.co.ke",
+   "category": "health",
+   "published": "2026-10-03T16:16:05+00:00"
+  },
+  {
+   "title": "AI model may predict pancreatic cancer risk up to 5 years before diagnosis",
+   "url": "https://www.medicalnewstoday.com/articles/ai-model-may-predict-pancreatic-cancer-risk-up-to-5-years-before-diagnosis",
+   "source": "Medical News Today",
+   "category": "health",
+   "published": "2026-10-03T14:50:08+00:00"
+  },
   {
    "title": "GIGABYTE AI TOP 100 B850 Doubles RTX 5090\u2019s VRAM With Dual Radeon AI PRO R9700 GPUs, Handling 235B-Parameter Inference",
    "url": "https://wccftech.com/gigabyte-launches-ai-top-100-b850-desktop/",
@@ -58,13 +150,6 @@
    "published": "2026-10-03T10:55:32+00:00"
   },
   {
-   "title": "Micron sees future opportunities in humanoid robots, self-driving cars - Yahoo Finance",
-   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186011732",
-   "source": "Slashdot.org",
-   "category": "robotics",
-   "published": "2026-10-03T08:12:05+00:00"
-  },
-  {
    "title": "PS5 QSSR AI Upscaling Arrives on the Base PS5: What It Is, Which Games Support It, and How It Compares to PSSR",
    "url": "https://www.online-tech-tips.com/ps5-qssr-ai-upscaling-base-ps5/#article",
    "source": "Online-tech-tips.com",
@@ -98,6 +183,13 @@
    "source": "ScienceAlert",
    "category": "health",
    "published": "2026-10-03T01:00:00+00:00"
+  },
+  {
+   "title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
+   "url": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
+   "source": "SiliconANGLE News",
+   "category": "robotics",
+   "published": "2026-10-03T00:30:26+00:00"
   },
   {
    "title": "AI for Women's Health: A Policy Event \u2014 King's Entrepreneurship Lab",
@@ -184,19 +276,11 @@
    "published": "2026-10-02T19:30:24+00:00"
   },
   {
-   "title": "Computational tools for society\u2019s most complex challenges",
-   "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-02T19:30:00+00:00"
-  },
-  {
    "title": "Robot software startup FieldAI is set to raise $700M at a $10B valuation",
    "url": "https://thenextweb.com/news/fieldai-10b-europe-robot-brains",
    "source": "The Next Web",
    "category": "robotics",
-   "published": "2026-10-02T17:38:15+00:00",
-   "breakthrough": true
+   "published": "2026-10-02T17:38:15+00:00"
   },
   {
    "title": "Circuit Breaker Labs builds crash test dummies for mental health chatbots",
@@ -225,13 +309,6 @@
    "source": "Techpowerup.com",
    "category": "compute",
    "published": "2026-10-02T16:24:07+00:00"
-  },
-  {
-   "title": "A model guide for the GPT-6 family",
-   "url": "https://openai.com/index/practical-guide-building-gpt-6",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-02T16:15:00+00:00"
   },
   {
    "title": "Sanofi and 2026 NBA Champion Karl-Anthony Towns team up to raise awareness of COVID-19 vaccination with NUVAXOVID\u00ae",
@@ -281,13 +358,6 @@
    "source": "Anthropic.com",
    "category": "ai",
    "published": "2026-10-02T13:38:03+00:00"
-  },
-  {
-   "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-   "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-02T13:00:39+00:00"
   },
   {
    "title": "Insilico Medicine nominates AI-designed GIPR antagonist ISM1354 for obesity and metabolic disease",
@@ -549,20 +619,6 @@
    "published": "2026-10-02T00:52:35+00:00"
   },
   {
-   "title": "Chatham scales its capital markets expertise with OpenAI",
-   "url": "https://openai.com/index/chatham-financial",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-02T00:00:00+00:00"
-  },
-  {
-   "title": "How NVIDIA GPUs Help Accelerate OpenAI\u2019s GPT-6 Astra Ultrafast",
-   "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-01T23:44:13+00:00"
-  },
-  {
    "title": "SAS, NC State Launch AI Think & Do Tank to Advance Health Research",
    "url": "https://www.prnewswire.com/news-releases/sas-nc-state-launch-ai-think--do-tank-to-advance-health-research-302896656.html",
    "source": "PRNewswire",
@@ -582,6 +638,13 @@
    "source": "New York Post",
    "category": "robotics",
    "published": "2026-10-01T22:57:27+00:00"
+  },
+  {
+   "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+   "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-01T22:00:00+00:00"
   },
   {
    "title": "Cloudflare releases Clef and Clef-flash decision models on Workers AI",
@@ -668,11 +731,11 @@
    "published": "2026-10-01T17:42:21+00:00"
   },
   {
-   "title": "The eternal complement",
-   "url": "https://openai.com/index/the-eternal-complement",
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "url": "https://openai.com/index/albertsons-reimagining-retail",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-01T17:00:00+00:00"
+   "published": "2026-10-01T16:00:00+00:00"
   },
   {
    "title": "Multi-omics integration reveals tissue-specific biosynthesis of sesquiterpenoids in the medicinal plant Eupatorium lindleyanum",
@@ -689,11 +752,11 @@
    "published": "2026-10-01T13:17:13+00:00"
   },
   {
-   "title": "Fall Into 25 New Games on GeForce NOW This October",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
+   "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+   "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
    "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-01T13:00:54+00:00"
+   "category": "compute",
+   "published": "2026-10-01T13:00:49+00:00"
   },
   {
    "title": "Get Tech Certified 2026: build your technology and digital skills for free",
@@ -862,6 +925,13 @@
    "source": "BBC News",
    "category": "health",
    "published": "2026-10-01T00:52:34+00:00"
+  },
+  {
+   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+   "url": "https://openai.com/index/the-den-family-social",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-01T00:00:00+00:00"
   },
   {
    "title": "A human-induced pluripotent stem cell-derived spheroid model to investigate myelin injury and repair",
@@ -34931,76 +35001,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-07-10T13:01:00+00:00"
-  },
-  {
-   "title": "Wedbush: Nvidia Vera CPU Could Supercharge Its Next Growth Wave",
-   "url": "https://biztoc.com/x/8349bdd3df958e72",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-10T13:00:08+00:00"
-  },
-  {
-   "title": "Improving Smart Tiered Cache for Public Cloud Regions",
-   "url": "https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/",
-   "source": "Cloudflare.com",
-   "category": "compute",
-   "published": "2026-07-10T13:00:00+00:00"
-  },
-  {
-   "title": "King Yuan Electronics plans up to $1.4 billion US facility investment amid Nvidia AI chip boom",
-   "url": "https://cryptobriefing.com/kyec-billion-dollar-us-facility-nvidia/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-07-10T12:47:50+00:00"
-  },
-  {
-   "title": "Press Release: Sanofi\u2019s subcutaneous Sarclisa Escena approved in the US as first anticancer treatment administered via on-body injector",
-   "url": "https://www.globenewswire.com/news-release/2026/07/10/3325483/0/en/Press-Release-Sanofi-s-subcutaneous-Sarclisa-Escena-approved-in-the-US-as-first-anticancer-treatment-administered-via-on-body-injector.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-10T12:35:00+00:00"
-  },
-  {
-   "title": "OpenEvidence adds real-time evidence quality grading to AI",
-   "url": "https://www.techtarget.com/healthtechanalytics/news/366645822/OpenEvidence-adds-real-time-evidence-quality-grading-to-AI",
-   "source": "Techtarget.com",
-   "category": "health",
-   "published": "2026-07-10T12:06:00+00:00"
-  },
-  {
-   "title": "HCG uses AI, patient data to personalise cancer treatment: BS Ajaikumar, founder",
-   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/hcg-uses-ai-patient-data-to-personalise-cancer-treatment-bs-ajaikumar-founder/articleshow/132310082.cms",
-   "source": "The Times of India",
-   "category": "health",
-   "published": "2026-07-10T11:08:23+00:00"
-  },
-  {
-   "title": "Applications of Quantum Blockchain in Healthcare, Banking, E-Voting, and Digital Identity: Preparing for a Quantum-Secure Future",
-   "url": "https://www.c-sharpcorner.com/article/applications-of-quantum-blockchain-in-healthcare-banking-e-voting-and-digital/",
-   "source": "C-sharpcorner.com",
-   "category": "quantum",
-   "published": "2026-07-10T10:51:27+00:00"
-  },
-  {
-   "title": "Humanoid robots just removed organs from live animals for the first time",
-   "url": "https://thenextweb.com/news/humanoid-robots-surgery-live-pigs-uc-san-diego/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-07-10T10:29:37+00:00"
-  },
-  {
-   "title": "First 'co-scientist' agent set to rapidly accelerate biomedical discoveries",
-   "url": "https://refractor.io/medical-ai/ai-agent-biomedical-discoveries/",
-   "source": "Refractor.io",
-   "category": "ai",
-   "published": "2026-07-10T10:02:00+00:00"
-  },
-  {
-   "title": "Viz.ai And Cortechs.ai Collaborate To Improve MS Care",
-   "url": "https://www.forbes.com/sites/talpatalon/2026/07/10/vizai-and-cortechsai-collaborate-to-improve-ms-care/",
-   "source": "Forbes",
-   "category": "health",
-   "published": "2026-07-10T10:00:57+00:00"
   }
  ]
 }
