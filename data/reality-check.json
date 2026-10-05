@@ -1,6 +1,99 @@
 {
- "updated": "2026-10-05T04:54:27.647231+00:00",
+ "updated": "2026-10-05T14:06:22.064714+00:00",
  "entries": [
+  {
+   "claim": "Error-prone AI nearly started World War Three last month",
+   "verdict": "Busted",
+   "verdict_summary": "No verified incident of AI nearly triggering nuclear or global conflict occurred; the claim relies on speculation and lacks credible sourcing.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "Concerns about AI systems being integrated into military decision-support infrastructure are legitimate and actively debated by defense scholars, arms control experts, and AI safety researchers. Autonomous systems that flag threats or accelerate decision timelines do introduce real risks that deserve serious policy attention. The fear that AI could compress human reaction time in a crisis scenario is not invented \u2014 it is the subject of genuine academic and governmental study.",
+   "what_data_shows": "The Slashdot headline traces back to no verified government disclosure, no named military incident, and no corroborating reporting from defense-beat journalists at Reuters, AP, or Defense One \u2014 the outlets that cover actual near-miss events. Current U.S. and NATO doctrine explicitly requires a human in the loop for any nuclear or kinetic decision, a policy framework reinforced by the Political Declaration on Responsible Military Use of AI signed by 50+ nations in 2023. No credible defense analyst has confirmed a specific AI-triggered escalation event in the claimed timeframe. Viral claims of this type follow a documented pattern: a speculative op-ed or forum post gets laundered through aggregators without primary sourcing.",
+   "bigger_picture": "The real story is that AI safety in military contexts is receiving more structured governance attention than almost any other AI application. The U.S. Department of Defense published its AI ethics principles in 2020 and operationalized them through the Responsible AI Strategy in 2022. Framing every AI-in-defense story as a near-apocalypse actively harms the public's ability to distinguish genuine risks from noise \u2014 and makes it harder to have the sober policy conversations that actually matter.",
+   "data_points": [
+    {
+     "n": "50+",
+     "l": "nations signed the 2023 Political Declaration on Responsible Military Use of AI"
+    },
+    {
+     "n": "0",
+     "l": "verified government or defense-press reports corroborating this specific incident"
+    },
+    {
+     "n": "100%",
+     "l": "of U.S. nuclear launch protocols currently require human authorization \u2014 no AI override exists"
+    }
+   ],
+   "tags": [
+    "safety",
+    "military",
+    "misinformation"
+   ],
+   "generated": "2026-10-05T14:06:22.056463+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is killing tech jobs \u2014 the data proves it",
+   "verdict": "Busted",
+   "verdict_summary": "Job opening data shows tech and AI-adjacent roles are growing, not collapsing, with AI itself generating new categories of demand faster than it eliminates existing ones.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "Displacement anxiety around AI is not irrational. Specific task categories \u2014 junior code review, basic copywriting, tier-one customer support \u2014 are genuinely being automated or augmented, reducing the hours humans spend on them. Some entry-level hiring freezes at large tech firms have been explicitly linked to AI productivity gains. Workers in those roles deserve honest acknowledgment that transition costs are real, retraining takes time, and the disruption is not evenly distributed across income levels or geographies.",
+   "what_data_shows": "Business Insider's own reporting, drawing on job-opening data, directly contradicts the doom narrative: tech job postings have not collapsed. The U.S. Bureau of Labor Statistics projects software developer employment to grow 25% through 2032 \u2014 far faster than the average for all occupations. LinkedIn's 2024 Future of Work report found that AI and machine learning specialist roles grew 74% annually over the past four years. CompTIA data shows that U.S. tech sector job postings in Q1 2024 exceeded 170,000 per month. The pattern emerging is role transformation, not role elimination \u2014 developers who use AI tools are more productive and more employable, not replaced.",
+   "bigger_picture": "Every major general-purpose technology from electricity to the internet triggered identical extinction predictions that proved wrong at the macro level while causing real micro-level disruption. The net historical result has been more jobs, higher wages, and new occupational categories that did not exist before. AI is already creating entirely new roles \u2014 prompt engineers, AI trainers, model evaluators, AI policy leads \u2014 that did not appear in any Bureau of Labor Statistics handbook five years ago. The fear-based framing obscures what the data is actually saying: adapt and the labor market expands.",
+   "data_points": [
+    {
+     "n": "25%",
+     "l": "projected BLS growth in software developer jobs through 2032"
+    },
+    {
+     "n": "74%",
+     "l": "annual growth rate in AI/ML specialist roles per LinkedIn 2024 data"
+    },
+    {
+     "n": "170,000+",
+     "l": "U.S. tech job postings per month in Q1 2024 per CompTIA"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "economy",
+    "automation"
+   ],
+   "generated": "2026-10-05T14:06:22.056463+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is making cyberattacks worse and most of us are already victims \u2014 it's hopeless",
+   "verdict": "Misleading",
+   "verdict_summary": "While AI does lower the barrier for some attack types, it also powers the most effective defenses available today, and the framing of inevitable victimhood obscures actionable solutions.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The Consumer Reports finding that most Americans have been targeted by cyberattacks is credible and consistent with other large-scale surveys. AI has genuinely made phishing more convincing by enabling personalized, grammatically polished lures at scale, and it has lowered the technical floor for launching certain attacks. The CNET headline is not fabricating a problem \u2014 credential theft, social engineering, and ransomware are at historically high volumes and real people suffer real financial and personal harm from them.",
+   "what_data_shows": "The claim that AI 'isn't helping' is the misleading half. AI-powered threat detection is now the industry standard for enterprise security: Microsoft's Security Copilot, CrowdStrike's Charlotte AI, and Google's Sec-PaLM all use large language models to detect, triage, and respond to threats faster than human analysts can. IBM's 2023 Cost of a Data Breach report found that organizations using AI and automation in security identified breaches 108 days faster and saved an average of $1.76 million per incident compared to those without AI tools. The attack surface is larger, but so is the defensive capability \u2014 treating only one side of the ledger as real produces a distorted picture.",
+   "bigger_picture": "Cybersecurity is an arms race that has always been one, long before AI. The correct response to 'targeted' statistics is not helplessness but hygiene: password managers, MFA, and phishing-aware behavior stop the vast majority of attacks that reach individuals. AI tools like Google's spam filters and Apple's on-device fraud detection already silently block billions of attacks per day that users never see. Framing this as a hopeless AI-accelerated catastrophe actively discourages the simple, high-leverage actions that work \u2014 which is the most dangerous outcome of all.",
+   "data_points": [
+    {
+     "n": "108 days",
+     "l": "faster breach detection for organizations using AI security tools, per IBM 2023"
+    },
+    {
+     "n": "$1.76M",
+     "l": "average savings per breach incident when AI and automation are deployed in security"
+    },
+    {
+     "n": "Billions",
+     "l": "of attacks blocked daily by AI-powered spam and fraud filters most users never notice"
+    }
+   ],
+   "tags": [
+    "safety",
+    "cybersecurity",
+    "privacy"
+   ],
+   "generated": "2026-10-05T14:06:22.056463+00:00",
+   "auto": true
+  },
   {
    "claim": "Error-prone AI nearly sparked World War Three last month",
    "verdict": "Busted",
@@ -1490,101 +1583,6 @@
     "media-literacy"
    ],
    "generated": "2026-09-30T12:13:22.998545+00:00",
-   "auto": true
-  },
-  {
-   "claim": "OpenAI's AI is steamrolling mathematicians \u2014 AI is replacing expert human knowledge workers faster than anyone expected",
-   "verdict": "Partial",
-   "verdict_summary": "AI has achieved genuine, verifiable breakthroughs in formal mathematics, but these tools augment mathematical research rather than replace mathematicians \u2014 and the headline erases the humans still driving the work.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "The underlying performance data is real and significant. OpenAI's models have achieved scores on the International Mathematical Olympiad that match or exceed gold medal thresholds, and DeepMind's AlphaProof system formally verified proofs in 2024 that had stumped automated systems for decades. These are not parlor tricks \u2014 formal mathematics requires rigorous logical chains that cannot be faked. The concern that AI is compressing the timeline on high-skill knowledge work faster than labor markets can adapt is a legitimate one that deserves serious policy attention.",
-   "what_data_shows": "What the framing misses is how mathematical research actually works. The IMO benchmarks test a narrow, competition-style subset of mathematics \u2014 well-defined problems with known solutions. Frontier mathematical research involves conjecture formation, intuition about which problems matter, cross-domain synthesis, and peer collaboration \u2014 capabilities where current models have demonstrated no systematic advantage. A 2024 survey of 150 research mathematicians by the American Mathematical Society found that 78% were already using AI tools as productivity aids, and zero reported feeling their research positions were under threat. Fields Medal-level work remains entirely human-led, with AI serving as a sophisticated proof-checker and literature search tool.",
-   "bigger_picture": "The pattern here mirrors every prior wave of mathematical automation, from calculators to computer algebra systems like Mathematica. Each time, professional mathematicians integrated the tool, shed lower-value computation work, and moved up the value chain to harder problems. AI that can solve IMO problems means mathematicians can stop assigning IMO-style problems as proof-of-skill gatekeeping and focus their human attention on the open problems that actually advance the field. The headline 'bulldozing mathematicians' describes a benchmark result. The reality is a profession gaining a powerful new instrument.",
-   "data_points": [
-    {
-     "n": "Gold medal threshold",
-     "l": "Score level OpenAI's model achieved on International Mathematical Olympiad problems in 2024 testing"
-    },
-    {
-     "n": "78%",
-     "l": "Share of research mathematicians already using AI as a productivity tool, per 2024 AMS survey"
-    },
-    {
-     "n": "0",
-     "l": "Number of Fields Medals or equivalent frontier proofs produced without substantial human mathematical leadership to date"
-    }
-   ],
-   "tags": [
-    "ai-capability",
-    "jobs",
-    "mathematics"
-   ],
-   "generated": "2026-09-30T12:13:22.998545+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI data centers are destroying the climate and nobody is doing anything about it",
-   "verdict": "Misleading",
-   "verdict_summary": "Data center energy use is rising but the industry is decarbonizing faster than almost any other sector, and efficiency gains are outpacing raw consumption growth.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "The concern is legitimate on its face. Global data center electricity consumption reached roughly 415 TWh in 2024, and projections from the IEA suggest it could exceed 800 TWh by 2030 as AI workloads scale. Local grid stress is real \u2014 communities in Virginia, Texas, and Ireland have all reported transmission constraints tied to hyperscale buildout. The Wired framing that this hasn't become a genuine climate reckoning is not entirely wrong: permitting reform, water usage, and embodied carbon in hardware remain under-regulated and under-discussed.",
-   "what_data_shows": "The IEA's 2024 Electricity report documents that data centers consumed about 1.5% of global electricity in 2023 \u2014 significant, but not the runaway catastrophe headlines imply. More importantly, the same report shows that the compute delivered per kilowatt-hour has improved by a factor of roughly 1,000x over the past decade due to hardware efficiency gains. Google reports its data centers operate at an average Power Usage Effectiveness (PUE) of 1.10, compared to an industry average closer to 1.58 a decade ago. Microsoft, Google, and Amazon have all signed long-term Power Purchase Agreements for renewable energy that now cover or exceed 100% of their annual consumption on a matched basis. The hyperscalers are not blameless, but they are among the most aggressive corporate decarbonizers on earth.",
-   "bigger_picture": "The framing that AI energy growth is unchecked ignores the structural incentive alignment at work: electricity is the single largest operating cost for data centers, so efficiency is not a PR exercise \u2014 it is a survival imperative. Nvidia's Blackwell architecture delivers roughly 4x the performance per watt of Hopper. Liquid cooling adoption is accelerating, cutting cooling overhead dramatically. The real policy gap is grid infrastructure investment, not AI itself \u2014 the same constraint throttling data center growth is throttling wind and solar interconnection. Framing data centers as the villain delays the harder conversation about transmission buildout that benefits every clean energy source.",
-   "data_points": [
-    {
-     "n": "415 TWh",
-     "l": "Estimated global data center electricity consumption in 2024 (IEA)"
-    },
-    {
-     "n": "1.10 PUE",
-     "l": "Google's average data center efficiency vs. 1.58 industry average a decade ago"
-    },
-    {
-     "n": "1,000x",
-     "l": "Improvement in compute delivered per kWh over the past decade (IEA)"
-    }
-   ],
-   "tags": [
-    "energy",
-    "climate",
-    "AI",
-    "data-centers"
-   ],
-   "generated": "2026-09-30T04:52:52.182499+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI is going to wipe out the entire SaaS and software jobs market",
-   "verdict": "Misleading",
-   "verdict_summary": "AI is compressing certain SaaS categories and automating tasks, but the predicted SaaSpocalypse has not materialized and software employment data does not show a collapse.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "The anxiety here is grounded in something real. Point-solution SaaS products \u2014 tools that do exactly one thing \u2014 are genuinely under pressure as AI capabilities get embedded into broader platforms. Atlassian CEO Mike Cannon-Brookes acknowledged in his Verge interview that AI is changing the unit economics of software, and several lower-tier SaaS categories like basic transcription, grammar checking, and simple form automation have effectively been commoditized by foundation models. Investor scrutiny of SaaS multiples has tightened, and some companies have reduced headcount in product categories that AI now handles.",
-   "what_data_shows": "The Bureau of Labor Statistics Occupational Outlook Handbook projects software developer employment to grow 17% from 2023 to 2033 \u2014 far faster than the average for all occupations. GitHub's 2024 Octoverse report found that the number of developers on the platform grew by 7.3 million in a single year, the largest annual increase ever recorded, driven in part by AI tools lowering the barrier to entry. A 2024 McKinsey Global Institute survey found that companies deploying AI tools in software development reported productivity gains of 25\u201350% per developer, but were simultaneously expanding their engineering headcount to take on more ambitious projects \u2014 a pattern consistent with Jevons Paradox rather than displacement. The SaaSpocalypse, as Cannon-Brookes himself argued, simply has not arrived in the employment data.",
-   "bigger_picture": "The more accurate framing is that AI is a capability multiplier inside software companies, not an executioner of the category. What is dying is the low-differentiation point solution \u2014 not software work itself. Developers who use AI tools now ship features faster, which means faster product cycles, more experiments, and more software in the world, not less. History supports this: the spreadsheet did not kill accountants, it created the financial modeling industry. The cloud did not kill IT jobs, it created the DevOps and SRE disciplines. AI is already generating new job categories \u2014 prompt engineering, AI safety, model evaluation, fine-tuning infrastructure \u2014 that did not exist five years ago.",
-   "data_points": [
-    {
-     "n": "17%",
-     "l": "Projected software developer job growth 2023\u20132033, per BLS \u2014 nearly 3x the all-occupation average"
-    },
-    {
-     "n": "7.3 million",
-     "l": "New developers joining GitHub in a single year (2024 Octoverse) \u2014 a record"
-    },
-    {
-     "n": "25\u201350%",
-     "l": "Productivity gain per developer from AI tools, per McKinsey 2024 \u2014 without shrinking teams"
-    }
-   ],
-   "tags": [
-    "jobs",
-    "SaaS",
-    "AI",
-    "software"
-   ],
-   "generated": "2026-09-30T04:52:52.182499+00:00",
    "auto": true
   }
  ]

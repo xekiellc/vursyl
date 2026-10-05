@@ -1,6 +1,217 @@
 {
- "updated": "2026-10-05T04:54:27.647231+00:00",
+ "updated": "2026-10-05T14:06:22.064714+00:00",
  "items": [
+  {
+   "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer\u2019s Deadliest Gaps",
+   "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+   "source": "NVIDIA",
+   "category": "health",
+   "published": "2026-10-05T13:00:57+00:00"
+  },
+  {
+   "title": "Building advertising for the way people use AI",
+   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-05T10:00:00+00:00"
+  },
+  {
+   "title": "geoctl added to PyPI",
+   "url": "https://pypi.org/project/geoctl/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-04T14:04:37+00:00"
+  },
+  {
+   "title": "joshu added to PyPI",
+   "url": "https://pypi.org/project/joshu/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-04T14:01:07+00:00"
+  },
+  {
+   "title": "Self-learning AI releases NFL picks, score predictions for every Week 4 game",
+   "url": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-best-bets-today-for-every-week-4-2026-game/",
+   "source": "CBS Sports",
+   "category": "ai",
+   "published": "2026-10-04T13:55:35+00:00"
+  },
+  {
+   "title": "openjoule added to PyPI",
+   "url": "https://pypi.org/project/openjoule/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-04T13:53:53+00:00"
+  },
+  {
+   "title": "India has decades of high growth ahead, AI for humanity vision: Jaishankar",
+   "url": "https://economictimes.indiatimes.com/news/india/india-has-decades-of-high-growth-ahead-ai-for-humanity-vision-jaishankar/articleshow/134676175.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-10-04T13:52:28+00:00"
+  },
+  {
+   "title": "India needs its own AI safety framework, not a copy of US pact: Industry experts",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-needs-its-own-ai-safety-framework-not-a-copy-of-us-pact-industry-experts/articleshow/134675884.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-10-04T13:51:02+00:00"
+  },
+  {
+   "title": "pylcp-jax added to PyPI",
+   "url": "https://pypi.org/project/pylcp-jax/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-10-04T13:49:05+00:00"
+  },
+  {
+   "title": "pylcp-jax 0.0.1",
+   "url": "https://pypi.org/project/pylcp-jax/0.0.1/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-10-04T13:49:05+00:00"
+  },
+  {
+   "title": "Autonomous Orange: YMX adds Outrider self-driving tech to its electric yard trucks",
+   "url": "http://electrek.co/2026/10/04/autonomous-orange-ymx-adds-outrider-self-driving-tech-to-its-electric-yard-trucks/",
+   "source": "Electrek",
+   "category": "robotics",
+   "published": "2026-10-04T13:48:54+00:00"
+  },
+  {
+   "title": "hubrelay 0.2.6",
+   "url": "https://pypi.org/project/hubrelay/0.2.6/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-04T13:48:38+00:00"
+  },
+  {
+   "title": "swarmbots 0.1.0a1",
+   "url": "https://pypi.org/project/swarmbots/0.1.0a1/",
+   "source": "Pypi.org",
+   "category": "robotics",
+   "published": "2026-10-04T13:45:12+00:00"
+  },
+  {
+   "title": "swarmbots added to PyPI",
+   "url": "https://pypi.org/project/swarmbots/",
+   "source": "Pypi.org",
+   "category": "robotics",
+   "published": "2026-10-04T13:45:11+00:00"
+  },
+  {
+   "title": "Reflection said to enter open-weight AI race",
+   "url": "https://biztoc.com/x/dd2ac4154bc9c391",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-04T13:42:38+00:00"
+  },
+  {
+   "title": "Show HN: Untyped \u2013 check recorded agent runs against a TLA+ spec",
+   "url": "https://github.com/untyped-ai/untyped",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-04T13:33:01+00:00"
+  },
+  {
+   "title": "chimeraforge 0.47.0",
+   "url": "https://pypi.org/project/chimeraforge/0.47.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-04T13:32:44+00:00"
+  },
+  {
+   "title": "ellf-recipes-gpu 0.1.206",
+   "url": "https://pypi.org/project/ellf-recipes-gpu/0.1.206/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-10-04T13:12:51+00:00"
+  },
+  {
+   "title": "AI to help India contribute more to NTT Data\u2019s global business",
+   "url": "https://www.thehindubusinessline.com/companies/ai-to-help-india-contribute-more-to-ntt-datas-global-business/article71543646.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-10-04T13:03:40+00:00"
+  },
+  {
+   "title": "Sharpa D01 Humanoid Robot",
+   "url": "https://thegadgetflow.com/product/sharpa-d01-humanoid-robot/",
+   "source": "Gadget Flow",
+   "category": "robotics",
+   "published": "2026-10-04T13:00:08+00:00"
+  },
+  {
+   "title": "To win over locals, data centers pump $340M into rural Texas projects",
+   "url": "https://grist.org/accountability/to-win-over-locals-data-centers-pump-340m-into-rural-texas-projects/",
+   "source": "Grist",
+   "category": "compute",
+   "published": "2026-10-04T13:00:00+00:00"
+  },
+  {
+   "title": "Scoop: A powerful new model from startup Reflection is set to shake up the AI race",
+   "url": "https://biztoc.com/x/15ff4c3dc83a0cc0",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-04T12:57:11+00:00"
+  },
+  {
+   "title": "Microsoft is using wetlands and native gardens to 'camouflage' 20-plus data center sites by blending them into nature",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186020584",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-10-04T12:53:42+00:00"
+  },
+  {
+   "title": "South Korea unveils a roughly $900B AI and chip plan it calls a survival strategy",
+   "url": "https://cryptobriefing.com/south-korea-900b-ai-chip-investment-plan/",
+   "source": "Crypto Briefing",
+   "category": "breakthroughs",
+   "published": "2026-10-04T12:44:30+00:00"
+  },
+  {
+   "title": "Smartwatch AFib alert sends dad to ER before heart surgery",
+   "url": "https://www.foxnews.com/tech/smartwatch-afib-alert-sends-dad-er-before-heart-surgery",
+   "source": "Fox News",
+   "category": "health",
+   "published": "2026-10-04T11:50:05+00:00"
+  },
+  {
+   "title": "AI model predicts next-day migraine risk with 91% precision in large study",
+   "url": "https://www.medicalnewstoday.com/articles/ai-model-predicts-next-day-migraine-risk-91-precision-large-study",
+   "source": "Medical News Today",
+   "category": "health",
+   "published": "2026-10-04T10:50:18+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "jorwal added to PyPI",
+   "url": "https://pypi.org/project/jorwal/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-04T10:08:38+00:00"
+  },
+  {
+   "title": "jorwal-nim added to PyPI",
+   "url": "https://pypi.org/project/jorwal-nim/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-04T09:59:07+00:00"
+  },
+  {
+   "title": "Show HN: Solvi 1.0 \u2013 an LLM proposes, checks decide, every decision replays",
+   "url": "https://github.com/solvi-ai/solvi",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-04T07:50:57+00:00"
+  },
+  {
+   "title": "Hands-On with First Humanoid Robot Surgeon",
+   "url": "https://www.cnet.com/videos/hands-on-with-first-humanoid-robot-surgeon/",
+   "source": "CNET",
+   "category": "robotics",
+   "published": "2026-10-04T05:11:41+00:00"
+  },
   {
    "title": "agentic-evals 0.6.0",
    "url": "https://pypi.org/project/agentic-evals/0.6.0/",
@@ -135,6 +346,13 @@
    "published": "2026-10-03T20:12:15+00:00"
   },
   {
+   "title": "9 insights from \u2018Private Tech Trailblazers\u2019: Vertical AI becomes the growth engine",
+   "url": "https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-03T20:08:45+00:00"
+  },
+  {
    "title": "Gigabyte Aorus GeForce RTX 5080 Infinity 16G Review: A Soaring Spitfire of a Gaming Card",
    "url": "https://uk.pcmag.com/graphics-cards/167642/gigabyte-aorus-geforce-rtx-5080-infinity-16g-review-a-soaring-spitfire-of-a-gaming-card",
    "source": "PCMag.com",
@@ -160,8 +378,14 @@
    "url": "https://timesofindia.indiatimes.com/science/discovery/scientists-resurrected-160-million-year-old-proteins-from-extinct-mammals-some-were-stronger-against-drug-resistant-bacteria-than-modern-human-versions-raising-new-hopes-for-antibiotic-research/articleshow/134639995.cms",
    "source": "The Times of India",
    "category": "health",
-   "published": "2026-10-03T17:36:00+00:00",
-   "breakthrough": true
+   "published": "2026-10-03T17:36:00+00:00"
+  },
+  {
+   "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS",
+   "url": "https://www.prnewswire.com/news-releases/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros-302897662.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-03T16:53:00+00:00"
   },
   {
    "title": "AI may detect dementia risk through a person\u2019s speech, study finds | The Eastleigh Voice",
@@ -367,13 +591,6 @@
    "published": "2026-10-02T19:30:24+00:00"
   },
   {
-   "title": "Computational tools for society\u2019s most complex challenges",
-   "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-02T19:30:00+00:00"
-  },
-  {
    "title": "Robot software startup FieldAI is set to raise $700M at a $10B valuation",
    "url": "https://thenextweb.com/news/fieldai-10b-europe-robot-brains",
    "source": "The Next Web",
@@ -407,13 +624,6 @@
    "source": "Techpowerup.com",
    "category": "compute",
    "published": "2026-10-02T16:24:07+00:00"
-  },
-  {
-   "title": "A model guide for the GPT-6 family",
-   "url": "https://openai.com/index/practical-guide-building-gpt-6",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-02T16:15:00+00:00"
   },
   {
    "title": "Sanofi and 2026 NBA Champion Karl-Anthony Towns team up to raise awareness of COVID-19 vaccination with NUVAXOVID\u00ae",
@@ -463,13 +673,6 @@
    "source": "Anthropic.com",
    "category": "ai",
    "published": "2026-10-02T13:38:03+00:00"
-  },
-  {
-   "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-   "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-02T13:00:39+00:00"
   },
   {
    "title": "Insilico Medicine nominates AI-designed GIPR antagonist ISM1354 for obesity and metabolic disease",
@@ -724,20 +927,6 @@
    "published": "2026-10-02T00:52:35+00:00"
   },
   {
-   "title": "Chatham scales its capital markets expertise with OpenAI",
-   "url": "https://openai.com/index/chatham-financial",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-02T00:00:00+00:00"
-  },
-  {
-   "title": "How NVIDIA GPUs Help Accelerate OpenAI\u2019s GPT-6 Astra Ultrafast",
-   "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-   "source": "NVIDIA",
-   "category": "breakthroughs",
-   "published": "2026-10-01T23:44:13+00:00"
-  },
-  {
    "title": "SAS, NC State Launch AI Think & Do Tank to Advance Health Research",
    "url": "https://www.prnewswire.com/news-releases/sas-nc-state-launch-ai-think--do-tank-to-advance-health-research-302896656.html",
    "source": "PRNewswire",
@@ -757,6 +946,13 @@
    "source": "New York Post",
    "category": "robotics",
    "published": "2026-10-01T22:57:27+00:00"
+  },
+  {
+   "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+   "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-01T22:00:00+00:00"
   },
   {
    "title": "Cloudflare releases Clef and Clef-flash decision models on Workers AI",
@@ -841,6 +1037,20 @@
    "source": "Forkast.news",
    "category": "compute",
    "published": "2026-10-01T17:42:21+00:00"
+  },
+  {
+   "title": "The eternal complement",
+   "url": "https://openai.com/index/the-eternal-complement",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-01T17:00:00+00:00"
+  },
+  {
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "url": "https://openai.com/index/albertsons-reimagining-retail",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-01T16:00:00+00:00"
   },
   {
    "title": "Multi-omics integration reveals tissue-specific biosynthesis of sesquiterpenoids in the medicinal plant Eupatorium lindleyanum",
@@ -34791,216 +35001,6 @@
    "source": "Pypi.org",
    "category": "compute",
    "published": "2026-07-11T18:05:21+00:00"
-  },
-  {
-   "title": "Broadcom Lands $30 Billion Chip Deal With Apple. Why It\u2019s a Win-Win for AAPL and AVGO",
-   "url": "https://biztoc.com/x/eb1ed062c42b9c63",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-11T17:46:38+00:00"
-  },
-  {
-   "title": "Tarsus Pharmaceuticals Enters Retina Market With iRenix Deal, Adds IRX-101 to Pipeline",
-   "url": "https://www.marketbeat.com/instant-alerts/tarsus-pharmaceuticals-enters-retina-market-with-irenix-deal-adds-irx-101-to-pipeline-2026-07-11/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-   "source": "MarketBeat",
-   "category": "health",
-   "published": "2026-07-11T14:02:02+00:00"
-  },
-  {
-   "title": "SpaceX details AI1 satellite specs and cooling for Starmind data center in space",
-   "url": "https://www.notebookcheck.net/SpaceX-lists-AI1-satellite-cooling-specs-for-Starmind-data-center-in-space.1340218.0.html",
-   "source": "Notebookcheck.net",
-   "category": "compute",
-   "published": "2026-07-11T12:19:00+00:00"
-  },
-  {
-   "title": "Undetectable AI publishes responsible use framework for ethical AI humanization, detection, and abuse prevention",
-   "url": "https://www.globenewswire.com/news-release/2026/07/11/3325800/0/en/Undetectable-AI-publishes-responsible-use-framework-for-ethical-AI-humanization-detection-and-abuse-prevention.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-11T12:06:00+00:00"
-  },
-  {
-   "title": "AMD\u2019s \u201cPEPS\u201d Research Pushes Neural Texture Compression Further, Cutting Model Parameters By 25% At Comparable Quality",
-   "url": "https://wccftech.com/amd-peps-research-pushes-neural-texture-compression-cutting-model-parameters-by-25-percent-at-comparable-quality/",
-   "source": "Wccftech",
-   "category": "ai",
-   "published": "2026-07-11T08:05:03+00:00"
-  },
-  {
-   "title": "Perfection to the Last Grain: How nqzai Evaluates Conversational Marketing Agents for Unbreakable Trust",
-   "url": "https://www.linkedin.com/pulse/perfection-last-grain-how-nqzai-evaluates-marketing-agents-bagchi-ty6uf",
-   "source": "Linkedin.com",
-   "category": "ai",
-   "published": "2026-07-11T07:45:51+00:00"
-  },
-  {
-   "title": "Music industry introduces voluntary labels for AI-generated content",
-   "url": "https://english.khabarhub.com/2026/11/558047/",
-   "source": "Khabarhub.com",
-   "category": "ai",
-   "published": "2026-07-11T07:15:54+00:00"
-  },
-  {
-   "title": "Typology Of AI-Based Therapy Micro-Bursts Reveals How People Lean Into Chatbots For Mental Health Advice",
-   "url": "https://www.forbes.com/sites/lanceeliot/2026/07/11/typology-of-ai-based-therapy-micro-bursts-reveals-how-people-lean-into-chatbots-for-mental-health-advice/",
-   "source": "Forbes",
-   "category": "health",
-   "published": "2026-07-11T07:15:00+00:00"
-  },
-  {
-   "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development",
-   "url": "https://biztoc.com/x/f57509c5d45eb78e",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-11T07:11:05+00:00"
-  },
-  {
-   "title": "Shares of S. Korean chipmaker rise 12.8% in Wall Street debut",
-   "url": "https://www.arkansasonline.com/news/2026/jul/11/shares-of-s-korean-chipmaker-rise-128-in-wall/",
-   "source": "Arkansas Online",
-   "category": "compute",
-   "published": "2026-07-11T06:55:50+00:00"
-  },
-  {
-   "title": "Meta announces $9.17 billion Canada AI data center that will consume electricity equal to 800,000 homes",
-   "url": "https://economictimes.indiatimes.com/news/new-updates/meta-announces-9-17-billion-canada-ai-data-center-that-will-consume-electricity-equal-to-800000-homes/articleshow/132325698.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-11T06:19:11+00:00"
-  },
-  {
-   "title": "Chinese Scientists Develop Nuclear Battery Using Carbon-14",
-   "url": "https://www.naturalnews.com/2026-07-11-chinese-scientists-develop-nuclear-battery-carbon-14.html",
-   "source": "Naturalnews.com",
-   "category": "compute",
-   "published": "2026-07-11T06:00:00+00:00"
-  },
-  {
-   "title": "Leaked Meta Memo Reveals Plans to Double AI Computing Capacity to 14 Gigawatts",
-   "url": "https://www.naturalnews.com/2026-07-11-leaked-meta-memo-plans-double-ai-computing.html",
-   "source": "Naturalnews.com",
-   "category": "compute",
-   "published": "2026-07-11T06:00:00+00:00"
-  },
-  {
-   "title": "GPUs Dominate NPUs for Running Local LLM Workflows",
-   "url": "https://www.geeky-gadgets.com/npu-vs-gpu-local-ai/",
-   "source": "Geeky Gadgets",
-   "category": "compute",
-   "published": "2026-07-11T06:00:00+00:00"
-  },
-  {
-   "title": "Show HN: Inferock-bench \u2013 per-call billing receipts for OpenAI and Anthropic",
-   "url": "https://github.com/inferock/inferock-bench",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-11T03:14:23+00:00"
-  },
-  {
-   "title": "US makes it easier to export Nvidia AI chips and military equipment to the UAE",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-makes-it-easier-to-export-nvidia-ai-chips-and-military-equipment-to-the-uae/articleshow/132323771.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-11T03:12:10+00:00"
-  },
-  {
-   "title": "Music industry launches AI-generated content labels",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/music-industry-launches-ai-generated-content-labels/articleshow/132323648.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-07-11T02:40:40+00:00"
-  },
-  {
-   "title": "Trump celebrates $250B Micron investment, says America is 'GETTING SHOVELS IN THE GROUND'",
-   "url": "https://biztoc.com/x/46d5f60efb13b4ba",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-11T02:23:16+00:00"
-  },
-  {
-   "title": "Tech Bills of the Week: Leveraging AI for cancer research; Securing chatbots for underage users; and more",
-   "url": "https://www.nextgov.com/policy/2026/07/tech-bills-week-leveraging-ai-cancer-research-securing-chatbots-underage-users-and-more/414714/",
-   "source": "Nextgov",
-   "category": "ai",
-   "published": "2026-07-10T21:20:00+00:00"
-  },
-  {
-   "title": "guardrails-ai-valid-address added to PyPI",
-   "url": "https://pypi.org/project/guardrails-ai-valid-address/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-10T19:08:25+00:00"
-  },
-  {
-   "title": "Show HN: E\u2013 \u2013 a language you dial between English and Python",
-   "url": "https://github.com/frmoded/e--",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-10T19:08:13+00:00"
-  },
-  {
-   "title": "The agentic marketing stack starts with the data layer",
-   "url": "https://www.databricks.com/blog/agentic-marketing-stack-starts-data-layer",
-   "source": "Databricks.com",
-   "category": "ai",
-   "published": "2026-07-10T19:00:00+00:00"
-  },
-  {
-   "title": "SIGGRAPH 2026 Experience Hall Invites Attendees to Step Inside the Future of Interaction and Storytelling",
-   "url": "https://www.prnewswire.com/news-releases/siggraph-2026-experience-hall-invites-attendees-to-step-inside-the-future-of-interaction-and-storytelling-302823018.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-10T18:53:00+00:00"
-  },
-  {
-   "title": "Show HN: Local Motion \u2013 Use Cursor Agents and Chat with a Local LLM",
-   "url": "https://github.com/mattmireles/local-motion",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-10T18:50:24+00:00"
-  },
-  {
-   "title": "llm-market 0.2.3",
-   "url": "https://pypi.org/project/llm-market/0.2.3/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-10T18:42:23+00:00"
-  },
-  {
-   "title": "GSoC 2026 Midterm Update: Improving Evaluation and Retrieval for the Jenkins AI Chatbot",
-   "url": "https://www.jenkins.io/blog/2026/07/10/arjun-713-midterm-blog/",
-   "source": "Jenkins.io",
-   "category": "ai",
-   "published": "2026-07-10T17:44:41+00:00"
-  },
-  {
-   "title": "Improved Research and Roadmaps For Quantum to Crack Main Internet Security RSA-2048",
-   "url": "https://www.nextbigfuture.com/2026/07/improved-research-and-roadmaps-for-quantum-to-crack-main-internet-security-rsa-2048.html",
-   "source": "Next Big Future",
-   "category": "quantum",
-   "published": "2026-07-10T16:28:36+00:00"
-  },
-  {
-   "title": "Gene Solutions' SPOT-MAS 10 Places Asia-Led Cancer Screening Innovation in the Global Spotlight",
-   "url": "https://en.antaranews.com/news/422176/gene-solutions-spot-mas-10-places-asia-led-cancer-screening-innovation-in-the-global-spotlight",
-   "source": "Antaranews.com",
-   "category": "health",
-   "published": "2026-07-10T15:43:20+00:00"
-  },
-  {
-   "title": "OpenEvidence Launches EvidenceGrade\u2122, Empowering Physicians To See the Strength of Cited Evidence Beneath Each AI Answer",
-   "url": "https://apnews.com/press-release/pr-newswire/press-release-768f8b9dce2b84efb3787ed2917330c1",
-   "source": "Associated Press",
-   "category": "health",
-   "published": "2026-07-10T15:41:41+00:00"
-  },
-  {
-   "title": "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One",
-   "url": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
-   "source": "Amazon.com",
-   "category": "health",
-   "published": "2026-07-10T15:33:47+00:00"
   }
  ]
 }
