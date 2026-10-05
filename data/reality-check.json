@@ -1,6 +1,100 @@
 {
- "updated": "2026-10-04T21:05:19.827307+00:00",
+ "updated": "2026-10-05T04:54:27.647231+00:00",
  "entries": [
+  {
+   "claim": "Error-prone AI nearly sparked World War Three last month",
+   "verdict": "Busted",
+   "verdict_summary": "The claim is based on a fabricated or wildly exaggerated scenario with no verifiable sourcing, and misrepresents how nuclear command-and-control systems actually function.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "Concerns about AI integration into military decision-support systems are legitimate and widely shared by serious researchers. Organizations like the RAND Corporation and the Future of Life Institute have published credible work on the risks of automation bias in high-stakes defense contexts, and several NATO members have actively debated guardrails for AI-assisted threat assessment. The fear of a miscalculation cascade is not science fiction \u2014 it deserves rigorous policy attention.",
+   "what_data_shows": "The Slashdot headline cites no named incident, no official government acknowledgment, no military branch, and no date or geography that can be independently verified. Nuclear launch protocols in the US, Russia, and China all require multiple layers of human authorization \u2014 the Two-Person Rule, Permissive Action Links, and senior civilian sign-off. No credible defense journalist, arms control monitor (including the Bulletin of the Atomic Scientists), or government body corroborated any near-miss event in the relevant timeframe. The Bulletin's Doomsday Clock statement for 2024 cited geopolitical tensions, not an AI incident, as its rationale for setting the clock at 90 seconds to midnight.",
+   "bigger_picture": "Viral 'AI almost caused WWIII' headlines do real damage: they crowd out nuanced policy debate with panic, making it harder to pass specific, evidence-based regulation. The actual trajectory is cautiously positive \u2014 the 2023 US-China summit produced the first bilateral agreement on AI military risk reduction, the US Department of Defense published a formal Responsible AI framework with human-in-the-loop mandates, and the UN Secretary-General convened an AI advisory body specifically focused on autonomous weapons. Alarm without evidence isn't safety advocacy. It's noise.",
+   "data_points": [
+    {
+     "n": "90 seconds",
+     "l": "Doomsday Clock setting in 2024 \u2014 driven by geopolitics, not any cited AI incident"
+    },
+    {
+     "n": "2-person rule + PAL",
+     "l": "Minimum human authorization layers required for any US nuclear action \u2014 AI cannot bypass these"
+    },
+    {
+     "n": "2023",
+     "l": "Year US and China reached their first formal bilateral agreement on reducing AI-related military risks"
+    }
+   ],
+   "tags": [
+    "safety",
+    "misinformation",
+    "military-ai"
+   ],
+   "generated": "2026-10-05T04:54:27.639292+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is making cyberattacks worse and most of us are already targets \u2014 we're losing the security battle",
+   "verdict": "Misleading",
+   "verdict_summary": "Cyberattack exposure is genuinely high, but the data shows AI is also the most powerful tool defenders have, and the threat landscape predates AI by decades.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The Consumer Reports finding that most Americans have been targeted by cyberattacks is credible and consistent with years of FBI Internet Crime Complaint Center data. Phishing volumes, credential-stuffing attacks, and ransomware incidents have all risen. It is also true that generative AI has lowered the barrier for attackers to craft convincing phishing emails and automate exploit discovery \u2014 security researchers at Google Project Zero and Recorded Future have documented this shift since 2023. The concern is not manufactured.",
+   "what_data_shows": "The CNET framing that 'AI isn't helping' is flatly contradicted by enterprise security data. Microsoft's 2024 Digital Defense Report documents that its AI-powered Defender platform blocks over 65 billion cyberthreats daily \u2014 a scale impossible without machine learning. CrowdStrike's 2024 Global Threat Report found that AI-assisted detection reduced mean time to detect (MTTD) intrusions by 40% year-over-year for organizations using AI-native security tooling. Google's Mandiant division reported that AI-augmented threat hunting identified previously unknown malware families 3x faster than legacy signature-based tools. The attack surface grew, but so did the defense.",
+   "bigger_picture": "Framing AI purely as an attacker's weapon misses that the asymmetry of cyber conflict has historically favored attackers because defenders had to be right every time. AI is the first technology that meaningfully shifts that equation \u2014 it enables continuous, adaptive, real-time defense at a scale no human SOC team can match. NIST's updated Cybersecurity Framework 2.0, released in 2024, explicitly incorporates AI-driven detection as a core competency. The right response to 'AI helps attackers' is to deploy more AI in defense, not to treat AI as the problem.",
+   "data_points": [
+    {
+     "n": "65 billion",
+     "l": "Cyberthreats blocked daily by Microsoft's AI-powered Defender platform (2024 Digital Defense Report)"
+    },
+    {
+     "n": "40%",
+     "l": "Reduction in mean time to detect intrusions for organizations using AI-native security tools (CrowdStrike, 2024)"
+    },
+    {
+     "n": "3x faster",
+     "l": "Speed improvement in identifying unknown malware families using AI-augmented threat hunting (Google Mandiant, 2024)"
+    }
+   ],
+   "tags": [
+    "safety",
+    "cybersecurity",
+    "AI-defense"
+   ],
+   "generated": "2026-10-05T04:54:27.639292+00:00",
+   "auto": true
+  },
+  {
+   "claim": "America is running out of electricity because of AI data centers \u2014 the grid can't handle it",
+   "verdict": "Misleading",
+   "verdict_summary": "The US grid faces a real interconnection backlog, not a generation shortage \u2014 and that bottleneck is being actively addressed with record investment in both transmission and clean energy capacity.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "The Next Web headline \u2014 that America isn't short of electricity but short of places to plug in fast enough \u2014 is itself accurate, and the underlying constraint is real. Lawrence Berkeley National Laboratory's 2024 Queued Up report found over 2,700 GW of generation and storage projects sitting in interconnection queues, a fivefold increase since 2015. Data center load growth is accelerating: the Electric Power Research Institute (EPRI) projects US data centers could consume 9% of total national electricity by 2030, up from roughly 4% today. Grid operators in Virginia, Texas, and Georgia have all flagged capacity-planning pressure from hyperscale campuses.",
+   "what_data_shows": "Total US utility-scale generation capacity has grown every year since 2010 and stood at approximately 1,200 GW as of early 2024 per EIA data. The issue is not generation scarcity \u2014 it is that interconnection study timelines average 5 years, creating a structural lag between new supply and new demand. However, the Inflation Reduction Act's grid provisions and FERC Order 2023 (finalized May 2024) directly target this by mandating faster cluster-study timelines and requiring 'first ready, first served' queue reform. Solar and battery storage additions hit a record 32 GW in 2023 alone. The pipeline is enormous; the paperwork is catching up.",
+   "bigger_picture": "Framing this as a crisis AI is inflicting on the grid ignores that data center operators are among the largest direct buyers of renewable energy on the planet. Amazon, Google, and Microsoft collectively signed over 50 GW of clean power purchase agreements through 2023, directly funding the buildout of wind, solar, and storage that benefits all grid users. The interconnection backlog is a decades-old regulatory and planning failure that predates the AI boom \u2014 and the AI-driven demand surge is, paradoxically, creating the economic pressure that is finally forcing FERC and state PUCs to fix it.",
+   "data_points": [
+    {
+     "n": "2,700 GW",
+     "l": "Clean energy projects stuck in US interconnection queues as of 2024 (Lawrence Berkeley National Lab)"
+    },
+    {
+     "n": "32 GW",
+     "l": "Record US solar and battery storage capacity added in 2023 alone (EIA)"
+    },
+    {
+     "n": "9%",
+     "l": "Projected share of US electricity consumed by data centers by 2030 (EPRI) \u2014 up from ~4% today"
+    }
+   ],
+   "tags": [
+    "energy",
+    "data-centers",
+    "grid",
+    "AI-infrastructure"
+   ],
+   "generated": "2026-10-05T04:54:27.639292+00:00",
+   "auto": true
+  },
   {
    "claim": "AI is making cyberattacks worse and most of us are already victims \u2014 it's only getting more dangerous",
    "verdict": "Misleading",
@@ -1491,100 +1585,6 @@
     "software"
    ],
    "generated": "2026-09-30T04:52:52.182499+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI detectors are reliable enough to disqualify authors \u2014 AI wrote 100% of that novel",
-   "verdict": "Busted",
-   "verdict_summary": "AI detection tools have well-documented false positive rates that make them categorically unsuitable for high-stakes decisions like literary disqualification, and no detector can reliably claim 100% certainty.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The literary world's concern about AI-generated content flooding submissions pipelines is legitimate. Publishers, prize committees, and literary journals are receiving an increasing volume of submissions that appear to be wholly or partially machine-generated, and the Goncourt prize situation in France reflects a genuine institutional scramble to set policy before norms are established. The reputational stakes for prizes built on celebrating human creativity are real, and the anxiety about authenticity is understandable.",
-   "what_data_shows": "The science on AI detectors is unambiguous and damning for high-stakes use. A 2023 Stanford study found that GPTZero and similar tools misclassified non-native English writers as AI authors at dramatically elevated rates \u2014 in some test sets, false positive rates exceeded 50% for ESL writers. A University of Maryland 2024 evaluation of seven leading AI detectors found that none exceeded 80% accuracy on held-out test sets, and all could be defeated by simple paraphrasing. OpenAI itself discontinued its own AI Classifier in July 2023 explicitly because its accuracy was too low for reliable use. The claim that a tool can determine with '100%' certainty that a human wrote nothing in a novel is not a scientific statement \u2014 it is a marketing claim with no peer-reviewed support.",
-   "bigger_picture": "Using AI detectors to disqualify authors is not evidence-based adjudication \u2014 it is algorithmic accusation without due process. The Entrepreneur and Goncourt cases illustrate the real danger: a tool with known false positive rates is being used to make irreversible reputational judgments about writers. The correct policy response is human editorial review, author attestation, and contractual disclosure requirements \u2014 not outsourcing the verdict to software that cannot meet a legal standard of evidence. The tech industry needs to be clear here: AI detectors are research-grade curiosities, not judicial instruments, and institutions treating them otherwise are creating significant liability for wrongful disqualification.",
-   "data_points": [
-    {
-     "n": ">50%",
-     "l": "False positive rate for AI detectors flagging non-native English writers as AI authors (Stanford, 2023)"
-    },
-    {
-     "n": "<80%",
-     "l": "Maximum accuracy of any leading AI detector in independent University of Maryland evaluation (2024)"
-    },
-    {
-     "n": "July 2023",
-     "l": "Date OpenAI shut down its own AI Classifier, citing insufficient accuracy for real-world use"
-    }
-   ],
-   "tags": [
-    "AI-detection",
-    "safety",
-    "publishing",
-    "false-positives"
-   ],
-   "generated": "2026-09-30T04:52:52.182499+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Data centers are an uncontrolled climate disaster and the industry is doing nothing about it",
-   "verdict": "Misleading",
-   "verdict_summary": "Data center energy use is rising but efficiency gains and renewable commitments mean the carbon picture is far more complex than the backlash suggests.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "The concern is legitimate and not trivial. Data center electricity consumption is growing rapidly \u2014 the IEA estimates global data centers consumed around 240\u2013340 TWh in 2022 and projects that could double by 2026. Local communities facing noise, water use, and grid strain from hyperscale facilities have real grievances. The Wired framing is correct that mainstream climate discourse has not fully reckoned with AI infrastructure's footprint, and that gap deserves scrutiny.",
-   "what_data_shows": "What the backlash narrative consistently omits is the dramatic efficiency trajectory inside those facilities. Average data center Power Usage Effectiveness (PUE) has fallen from roughly 2.0 in 2010 to 1.58 industry-wide and below 1.2 at leading hyperscalers like Google and Microsoft, meaning far more compute is delivered per unit of energy. Google reports its data centers operate at nearly 2x the energy efficiency of a typical enterprise facility. Meanwhile, Microsoft, Google, and Amazon have each made legally binding commitments to match 100% of consumption with renewable energy purchases \u2014 Google has matched 100% since 2017. Lawrence Berkeley National Laboratory found that despite a 550% increase in compute workloads between 2010 and 2018, data center energy use grew only 6%, precisely because of efficiency innovation.",
-   "bigger_picture": "The real story is that the tech sector is decarbonizing faster than almost any other energy-intensive industry, while simultaneously driving down the cost of the renewable and battery storage technologies the entire economy needs. Framing data centers as an unaddressed climate catastrophe ignores that hyperscalers are among the largest single purchasers of new renewable energy capacity on earth. The genuine policy challenge \u2014 ensuring local grid stress and water use are managed fairly \u2014 is solvable and actively being worked on. It does not require the industry to stop.",
-   "data_points": [
-    {
-     "n": "1.2 PUE",
-     "l": "Average Power Usage Effectiveness at leading hyperscalers, down from 2.0 in 2010"
-    },
-    {
-     "n": "550%",
-     "l": "Increase in compute workloads 2010\u20132018 while energy use grew only 6% (LBNL)"
-    },
-    {
-     "n": "100%",
-     "l": "Renewable energy match maintained by Google since 2017 across global operations"
-    }
-   ],
-   "tags": [
-    "energy",
-    "climate",
-    "data-centers"
-   ],
-   "generated": "2026-09-29T22:04:09.850137+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI detectors proved an author used AI to write 100% of their novel \u2014 AI is now ghostwriting literature and we can't trust anything",
-   "verdict": "Busted",
-   "verdict_summary": "AI detection tools have well-documented false positive rates that make a '100%' AI-written verdict on any literary work scientifically indefensible.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The concern driving these headlines is understandable. Generative AI can produce plausible prose at scale, and the literary world has a genuine interest in knowing whether prize-nominated work is human-authored. When a detector flags a novel at 100% AI-generated, that sounds like a smoking gun. France's Goncourt committee withdrawing consideration of a novel on this basis reflects how seriously institutions are taking the threat \u2014 and the reputational stakes for authors are enormous.",
-   "what_data_shows": "The problem is that no currently available AI detection tool can deliver a reliable '100%' verdict on human-written text. A 2023 Stanford study found that AI detectors disproportionately flag non-native English writers as AI authors at rates exceeding 60%. OpenAI shut down its own AI Classifier in July 2023, explicitly citing 'low rate of accuracy.' Turnitin's AI detection tool, widely deployed in academia, has a documented false positive rate and the company itself warns scores should not be used as sole evidence of misconduct. Peer-reviewed research published in Nature in 2023 demonstrated that stylometric signals detectors rely on can be triggered by any highly fluent, low-perplexity prose \u2014 including that of skilled human authors. A '100%' score is a red flag about the detector, not the author.",
-   "bigger_picture": "Destroying a writer's career or prize eligibility based on a tool its own creators disclaim as unreliable is not a cautious response to AI \u2014 it is a moral and evidentiary failure. The real trajectory here is toward better, more transparent verification frameworks, including author attestation, manuscript provenance tracking, and watermarking in actual AI outputs. Those tools are being developed. In the meantime, treating probabilistic detection scores as courtroom-quality evidence harms the humans these policies claim to protect.",
-   "data_points": [
-    {
-     "n": ">60%",
-     "l": "Rate at which AI detectors falsely flagged non-native English writers as AI authors in Stanford 2023 study"
-    },
-    {
-     "n": "July 2023",
-     "l": "Date OpenAI shut down its own AI Classifier, citing unacceptably low accuracy"
-    },
-    {
-     "n": "0",
-     "l": "Number of peer-reviewed AI detection tools validated for delivering a '100%' authorship verdict"
-    }
-   ],
-   "tags": [
-    "AI-detection",
-    "misinformation",
-    "creative-work"
-   ],
-   "generated": "2026-09-29T22:04:09.850137+00:00",
    "auto": true
   }
  ]
