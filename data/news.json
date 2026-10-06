@@ -1,12 +1,159 @@
 {
- "updated": "2026-10-06T13:04:36.901859+00:00",
+ "updated": "2026-10-06T22:32:16.513268+00:00",
  "items": [
   {
-   "title": "German robot startup RobCo hits $1 billion valuation,\u00a0CEO moves to US",
-   "url": "https://www.channelnewsasia.com/business/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-us-6433371",
-   "source": "CNA",
+   "title": "Supercomputing researchers document evolution of AI hardware",
+   "url": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+   "source": "MIT News AI",
+   "category": "compute",
+   "published": "2026-10-06T20:55:00+00:00"
+  },
+  {
+   "title": "What AI gets wrong and what failure teaches us",
+   "url": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-10-06T16:19:06+00:00"
+  },
+  {
+   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+   "url": "https://openai.com/index/atlassian-partnership",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-06T16:00:00+00:00"
+  },
+  {
+   "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+   "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-06T13:00:19+00:00"
+  },
+  {
+   "title": "Advancing computer use with Ironclad",
+   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "title": "Department of War drafts EV battery factory into military drone duty with $75M grant",
+   "url": "http://electrek.co/2026/10/05/department-of-war-drafts-ev-battery-factory-into-military-drone-duty-with-75m-grant/",
+   "source": "Electrek",
    "category": "robotics",
-   "published": "2026-10-05T13:02:55+00:00"
+   "published": "2026-10-05T22:30:46+00:00"
+  },
+  {
+   "title": "Optogenetics wins the Nobel \u2013 one neuroscience breakthrough in a line of technological innovations helping scientists map and control the brain",
+   "url": "https://theconversation.com/optogenetics-wins-the-nobel-one-neuroscience-breakthrough-in-a-line-of-technological-innovations-helping-scientists-map-and-control-the-brain-293619",
+   "source": "The Conversation Africa",
+   "category": "health",
+   "published": "2026-10-05T22:06:14+00:00"
+  },
+  {
+   "title": "\u2018The keyword is speed to power\u2019: Dell, Apollo, and Jera launch a $140 billion plan to build up to 4GW of AI data centers across Japan and Asia",
+   "url": "https://www.techradar.com/pro/the-keyword-is-speed-to-power-dell-apollo-and-jera-launch-a-usd140b-plan-to-build-up-to-4gw-of-ai-data-centers-across-japan-and-asia",
+   "source": "TechRadar",
+   "category": "compute",
+   "published": "2026-10-05T22:05:00+00:00"
+  },
+  {
+   "title": "Nvidia-backed Reflection unveils Beam, its first open-weight model",
+   "url": "https://thenextweb.com/news/reflection-ai-beam-open-weight-model",
+   "source": "The Next Web",
+   "category": "ai",
+   "published": "2026-10-05T22:01:57+00:00"
+  },
+  {
+   "title": "OpenAI is in talks with Abu Dhabi\u2019s MGX and BlackRock for a $30B round",
+   "url": "https://thenextweb.com/news/openai-30bn-mgx-blackrock-europe",
+   "source": "The Next Web",
+   "category": "ai",
+   "published": "2026-10-05T21:52:45+00:00"
+  },
+  {
+   "title": "TMF invests $83.4M in 4 AI-enabled projects",
+   "url": "https://www.nextgov.com/modernization/2026/10/tmf-invests-834m-4-ai-enabled-projects/416431/",
+   "source": "Nextgov",
+   "category": "ai",
+   "published": "2026-10-05T21:49:00+00:00"
+  },
+  {
+   "title": "Control How Your GPU Shares Work with Green Contexts",
+   "url": "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts/",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-10-05T21:44:07+00:00"
+  },
+  {
+   "title": "HHS unveils efforts to speed up clinical trials with AI",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/10/hhs-unveils-efforts-speed-clinical-trials-ai/416430/",
+   "source": "Nextgov",
+   "category": "health",
+   "published": "2026-10-05T21:39:00+00:00"
+  },
+  {
+   "title": "Bradford skin cancer waiting times cut by new AI technology - BBC",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186032458",
+   "source": "Slashdot.org",
+   "category": "health",
+   "published": "2026-10-05T21:32:04+00:00"
+  },
+  {
+   "title": "Show HN: Ototo: A tool to offload code exploration to a smaller model",
+   "url": "https://ototo.dev/",
+   "source": "Ototo.dev",
+   "category": "ai",
+   "published": "2026-10-05T21:25:51+00:00"
+  },
+  {
+   "title": "AI infrastructure reliability moves beyond the rack",
+   "url": "https://siliconangle.com/2026/10/05/dell-coreweave-build-ai-infrastructure-reliability-factory-fullyconnected/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-10-05T21:23:26+00:00"
+  },
+  {
+   "title": "Powering AI-ready data centers with N9000 support for ORv3",
+   "url": "https://blogs.cisco.com/datacenter/powering-ai-ready-data-centers-with-n9000-support-for-orv3",
+   "source": "Cisco.com",
+   "category": "compute",
+   "published": "2026-10-05T20:02:42+00:00"
+  },
+  {
+   "title": "AstraZeneca CEO says Summit drug could drive next generation of cancer combinations after $2 billion investment",
+   "url": "https://www.cnbc.com/2026/10/05/astrazeneca-ceo-says-summit-drug-could-drive-future-cancer-combos.html",
+   "source": "CNBC",
+   "category": "health",
+   "published": "2026-10-05T19:44:30+00:00"
+  },
+  {
+   "title": "Parents Can Ask Pediatricians Whether AI Helps Write Visit Notes and Who Checks It, as AAP Sets Guidance",
+   "url": "https://www.medicaldaily.com/aap-generative-ai-pediatric-care-questions-parents-479551",
+   "source": "Medical Daily",
+   "category": "health",
+   "published": "2026-10-05T19:31:11+00:00"
+  },
+  {
+   "title": "VIDIZMO Joins NVIDIA Inception to Advance Agentic AI That Runs Inside the Customer's Boundary",
+   "url": "https://www.prnewswire.com/news-releases/vidizmo-joins-nvidia-inception-to-advance-agentic-ai-that-runs-inside-the-customers-boundary-302898701.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-05T18:15:00+00:00"
+  },
+  {
+   "title": "German robot startup RobCo hits $1 billion valuation, CEO moves to US",
+   "url": "https://economictimes.indiatimes.com/tech/startups/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-to-us/articleshow/134707195.cms",
+   "source": "The Times of India",
+   "category": "robotics",
+   "published": "2026-10-05T13:43:10+00:00"
+  },
+  {
+   "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer\u2019s Deadliest Gaps",
+   "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+   "source": "NVIDIA",
+   "category": "health",
+   "published": "2026-10-05T13:00:57+00:00"
   },
   {
    "title": "Exclusive: Iterate.ai\u2019s Lifeboat runs up to six times more AI agent sessions per GPU",
@@ -93,17 +240,10 @@
    "published": "2026-10-05T12:41:10+00:00"
   },
   {
-   "title": "FF EAI Robotics Ecosystem Inc. (NASDAQ: FFR) Highlights FFAI Weekly Investor Update: FF EAI Robotics Sales and Shipments Reach a Record 265 Units in September and 817 Units Cumulatively, No. 1 in U.S. Robotics Deliveries",
-   "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-ffai-weekly-investor-update-ff-eai-robotics-sales-and-shipments-reach-a-record-265-units-in-september-and-817-units-cumulatively-no-1-in-us-robotics-deliveries-302898144.html",
+   "title": "Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian",
+   "url": "https://www.prnewswire.com/news-releases/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian-302897930.html",
    "source": "PRNewswire",
    "category": "robotics",
-   "published": "2026-10-05T11:30:00+00:00"
-  },
-  {
-   "title": "Quantinuum and The University of Western Australia Partner to Advance Australia's Quantum Capability",
-   "url": "https://www.prnewswire.com/news-releases/quantinuum-and-the-university-of-western-australia-partner-to-advance-australias-quantum-capability-302897997.html",
-   "source": "PRNewswire",
-   "category": "quantum",
    "published": "2026-10-05T11:00:00+00:00"
   },
   {
@@ -112,20 +252,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-10-05T11:00:00+00:00"
-  },
-  {
-   "title": "Optimization of $\\mathrm{Si}/\\mathrm{Si}$-Ge heterostructures for large and robust valley splitting in\u00a0silicon qubits",
-   "url": "https://link.aps.org/doi/10.1103/pd5d-sddp",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-05T10:00:00+00:00"
-  },
-  {
-   "title": "Building advertising for the way people use AI",
-   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-05T10:00:00+00:00"
   },
   {
    "title": "(PR) INNO3D Announces 6U RTX PRO 6000BSE GPU Server",
@@ -182,6 +308,14 @@
    "source": "Digitimes",
    "category": "compute",
    "published": "2026-10-05T03:10:13+00:00"
+  },
+  {
+   "title": "After 25 Years, Physicists Can Finally Measure The 'Other' Kind of Quantum Entanglement",
+   "url": "https://www.sciencealert.com/after-25-years-physicists-can-finally-measure-the-other-kind-of-quantum-entanglement",
+   "source": "ScienceAlert",
+   "category": "quantum",
+   "published": "2026-10-05T01:30:34+00:00",
+   "breakthrough": true
   },
   {
    "title": "Towards a systematic understanding of the diverse subtypes, biogenesis and functions of large extracellular vesicles",
@@ -34867,139 +35001,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-07-12T18:42:14+00:00"
-  },
-  {
-   "title": "AI Servers Drive Demand for Next-Generation Power Semiconductors",
-   "url": "https://newsonjapan.com/article/149957.php",
-   "source": "Newsonjapan.com",
-   "category": "compute",
-   "published": "2026-07-12T18:36:51+00:00"
-  },
-  {
-   "title": "inferra-mcp added to PyPI",
-   "url": "https://pypi.org/project/inferra-mcp/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T18:18:15+00:00"
-  },
-  {
-   "title": "Samsung is building a dedicated AI chip for PCs, and HP and Lenovo are already testing it",
-   "url": "https://www.techspot.com/news/113074-samsung-building-dedicated-ai-chip-pcs-hp-lenovo.html",
-   "source": "TechSpot",
-   "category": "compute",
-   "published": "2026-07-12T18:10:00+00:00"
-  },
-  {
-   "title": "SanDisk has started sampling the tiny chip that will make 512TB SSDs possible in 2027, but don't expect them to cost under $300,000",
-   "url": "https://www.techradar.com/pro/sandisk-has-started-sampling-the-tiny-chip-that-will-make-512tb-ssds-possible-in-2027-but-dont-expect-them-to-cost-under-usd300-000",
-   "source": "TechRadar",
-   "category": "compute",
-   "published": "2026-07-12T18:05:00+00:00"
-  },
-  {
-   "title": "Scality and WEKA Expand Partnership in France with Local AI Infrastructure Support",
-   "url": "https://www.storagereview.com/news/scality-and-weka-expand-partnership-in-france-with-local-ai-infrastructure-support",
-   "source": "Storagereview.com",
-   "category": "compute",
-   "published": "2026-07-12T17:49:02+00:00"
-  },
-  {
-   "title": "Shares Strategic Commitment Towards Global AI Infrastructure Buildout",
-   "url": "https://biztoc.com/x/d89e6d0be57c47a7",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-12T17:45:53+00:00"
-  },
-  {
-   "title": "IT services giant TCS takes an AI-led avatar",
-   "url": "https://www.thehindubusinessline.com/business-tech/it-services-giant-tcs-takes-an-ai-led-avatar/article71214894.ece",
-   "source": "BusinessLine",
-   "category": "ai",
-   "published": "2026-07-12T17:43:44+00:00"
-  },
-  {
-   "title": "LEQEMBI\u00ae Subcutaneous Autoinjector Clinical Data Supports Similar Efficacy and Safety to IV Formulation in Early Alzheimer\u2019s Disease Presented at the Alzheimer\u2019s Association International Conference\u00ae (AAIC\u00ae) 2026",
-   "url": "https://www.globenewswire.com/news-release/2026/07/12/3325847/0/en/LEQEMBI-Subcutaneous-Autoinjector-Clinical-Data-Supports-Similar-Efficacy-and-Safety-to-IV-Formulation-in-Early-Alzheimer-s-Disease-Presented-at-the-Alzheimer-s-Association-Interna.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-12T15:18:00+00:00"
-  },
-  {
-   "title": "10 Things to Know About SK Hynix's Historic US Nasdaq IPO Listing as Regular Trading Officially Begins Monday",
-   "url": "https://www.ibtimes.com.au/sk-hynix-nasdaq-debut-ai-memory-chips-1872165",
-   "source": "Ibtimes.com.au",
-   "category": "compute",
-   "published": "2026-07-12T14:43:08+00:00"
-  },
-  {
-   "title": "Small models can solve big problems",
-   "url": "https://blog.jonudell.net/2026/07/12/small-models-can-solve-big-problems/",
-   "source": "Jonudell.net",
-   "category": "ai",
-   "published": "2026-07-12T14:09:38+00:00"
-  },
-  {
-   "title": "Apple rewrites its Mac chip roadmap to go all-in on artificial intelligence",
-   "url": "https://cryptobriefing.com/apple-mac-chip-roadmap-ai-integration/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-07-12T14:07:09+00:00"
-  },
-  {
-   "title": "GlobalFoundries (GFS) Announces Production Readiness of SLATE Wafer-to-Wafer Bonding Technology",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-gfs-announces-production-readiness-132550167.html",
-   "source": "Yahoo Entertainment",
-   "category": "compute",
-   "published": "2026-07-12T13:25:50+00:00"
-  },
-  {
-   "title": "Simaero plans to add more simulators, tap local engg talent in India: CEO",
-   "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/simaero-plans-to-add-more-simulators-tap-local-engg-talent-in-india-ceo/articleshow/132343527.cms",
-   "source": "The Times of India",
-   "category": "robotics",
-   "published": "2026-07-12T09:33:42+00:00"
-  },
-  {
-   "title": "cascade-llm added to PyPI",
-   "url": "https://pypi.org/project/cascade-llm/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T09:21:22+00:00"
-  },
-  {
-   "title": "Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
-   "url": "https://www.thehindubusinessline.com/info-tech/tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions/article71213514.ece",
-   "source": "BusinessLine",
-   "category": "ai",
-   "published": "2026-07-12T09:13:29+00:00"
-  },
-  {
-   "title": "llm-spendguard 0.4.0",
-   "url": "https://pypi.org/project/llm-spendguard/0.4.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T09:12:18+00:00"
-  },
-  {
-   "title": "llm-security-scanner 0.6.0",
-   "url": "https://pypi.org/project/llm-security-scanner/0.6.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T09:10:15+00:00"
-  },
-  {
-   "title": "codebase-agent-mcp 1.28.0",
-   "url": "https://pypi.org/project/codebase-agent-mcp/1.28.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T09:08:10+00:00"
-  },
-  {
-   "title": "ultragraph-1bit 0.13.0",
-   "url": "https://pypi.org/project/ultragraph-1bit/0.13.0/",
-   "source": "Pypi.org",
-   "category": "compute",
-   "published": "2026-07-12T08:57:03+00:00"
   }
  ]
 }
