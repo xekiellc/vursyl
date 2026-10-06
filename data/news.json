@@ -1,12 +1,131 @@
 {
- "updated": "2026-10-06T05:41:48.091257+00:00",
+ "updated": "2026-10-06T13:04:36.901859+00:00",
  "items": [
   {
-   "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer\u2019s Deadliest Gaps",
-   "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-   "source": "NVIDIA",
+   "title": "German robot startup RobCo hits $1 billion valuation,\u00a0CEO moves to US",
+   "url": "https://www.channelnewsasia.com/business/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-us-6433371",
+   "source": "CNA",
+   "category": "robotics",
+   "published": "2026-10-05T13:02:55+00:00"
+  },
+  {
+   "title": "Exclusive: Iterate.ai\u2019s Lifeboat runs up to six times more AI agent sessions per GPU",
+   "url": "https://siliconangle.com/2026/10/05/exclusive-iterate-ais-lifeboat-runs-up-to-six-times-more-ai-agent-sessions-per-gpu/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-10-05T13:00:47+00:00"
+  },
+  {
+   "title": "Clockwork.io bags $31M in funding to keep AI inference and training workloads running like \u2026 clockwork",
+   "url": "https://siliconangle.com/2026/10/05/clockwork-io-bags-31m-in-funding-to-keep-ai-inference-and-training-workloads-running-like-clockwork/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-10-05T13:00:22+00:00"
+  },
+  {
+   "title": "Cohere unveils North 2 AI agent platform with rebuilt orchestration and token spending caps",
+   "url": "https://siliconangle.com/2026/10/05/cohere-unveils-north-2-ai-agent-platform-with-rebuilt-orchestration-and-token-spending-caps/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-05T13:00:15+00:00"
+  },
+  {
+   "title": "Promevo launches Insights to track Gemini Enterprise adoption and AI agents",
+   "url": "https://siliconangle.com/2026/10/05/promevo-launches-insights-to-track-gemini-enterprise-adoption-and-ai-agents/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-05T13:00:11+00:00"
+  },
+  {
+   "title": "Equs launches a personal AI platform with private storage to give users greater control over data",
+   "url": "https://siliconangle.com/2026/10/05/equs-launches-a-personal-ai-platform-with-private-storage-to-give-users-greater-control-over-data/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-05T13:00:01+00:00"
+  },
+  {
+   "title": "Volley Automation Expands Internationally Amid Growing Demand for Robotic Parking",
+   "url": "https://www.prnewswire.com/news-releases/volley-automation-expands-internationally-amid-growing-demand-for-robotic-parking-302892584.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-05T13:00:00+00:00"
+  },
+  {
+   "title": "AIR AND LG SUPPLY AGREEMENT AIMS TO ADVANCE AI DATA CENTER COOLING BUSINESS IN NORTH AMERICA",
+   "url": "https://www.prnewswire.com/news-releases/air-and-lg-supply-agreement-aims-to-advance-ai-data-center-cooling-business-in-north-america-302898388.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-10-05T13:00:00+00:00"
+  },
+  {
+   "title": "Clockwork.io Raises $31M as LinkedIn, Together AI and WhiteFiber Adopt Its Resilience Software to Stop Wasting GPU-Hours",
+   "url": "https://www.prnewswire.com/news-releases/clockworkio-raises-31m-as-linkedin-together-ai-and-whitefiber-adopt-its-resilience-software-to-stop-wasting-gpu-hours-302897588.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-10-05T13:00:00+00:00"
+  },
+  {
+   "title": "Rapidus Unveils \"Rapidus CORE\", New Global Ecosystem Framework Supporting the Development and Mass Production of Cutting-Edge Semiconductors",
+   "url": "https://www.prnewswire.com/news-releases/rapidus-unveils-rapidus-core-new-global-ecosystem-framework-supporting-the-development-and-mass-production-of-cutting-edge-semiconductors-302897923.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-10-05T13:00:00+00:00"
+  },
+  {
+   "title": "DeepSeek-V3 from Scratch: Building the Architecture in PyTorch",
+   "url": "https://pyimagesearch.com/2026/10/05/deepseek-v3-from-scratch-building-the-architecture-in-pytorch/",
+   "source": "Pyimagesearch.com",
+   "category": "ai",
+   "published": "2026-10-05T12:45:00+00:00"
+  },
+  {
+   "title": "Samsung opens Boston quantum design lab to expand US research push",
+   "url": "https://www.digitimes.com/news/a20261005PD245/samsung-design-quantum-quantum-computing-2026.html",
+   "source": "Digitimes",
+   "category": "quantum",
+   "published": "2026-10-05T12:45:00+00:00"
+  },
+  {
+   "title": "Zee5 launches Clips with Google Cloud to turn movies, shows into AI-powered short videos",
+   "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/zee5-launches-clips-with-google-cloud-to-turn-movies-shows-into-ai-powered-short-videos/articleshow/134706082.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-10-05T12:41:10+00:00"
+  },
+  {
+   "title": "FF EAI Robotics Ecosystem Inc. (NASDAQ: FFR) Highlights FFAI Weekly Investor Update: FF EAI Robotics Sales and Shipments Reach a Record 265 Units in September and 817 Units Cumulatively, No. 1 in U.S. Robotics Deliveries",
+   "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-ffai-weekly-investor-update-ff-eai-robotics-sales-and-shipments-reach-a-record-265-units-in-september-and-817-units-cumulatively-no-1-in-us-robotics-deliveries-302898144.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-05T11:30:00+00:00"
+  },
+  {
+   "title": "Quantinuum and The University of Western Australia Partner to Advance Australia's Quantum Capability",
+   "url": "https://www.prnewswire.com/news-releases/quantinuum-and-the-university-of-western-australia-partner-to-advance-australias-quantum-capability-302897997.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-10-05T11:00:00+00:00"
+  },
+  {
+   "title": "Nature Medicine Study Shows Resero Bio's Cell-Free RNA Platform Detects Bladder Cancer and Predicts Treatment Response",
+   "url": "https://www.prnewswire.com/news-releases/nature-medicine-study-shows-resero-bios-cell-free-rna-platform-detects-bladder-cancer-and-predicts-treatment-response-302897374.html",
+   "source": "PRNewswire",
    "category": "health",
-   "published": "2026-10-05T13:00:57+00:00"
+   "published": "2026-10-05T11:00:00+00:00"
+  },
+  {
+   "title": "Optimization of $\\mathrm{Si}/\\mathrm{Si}$-Ge heterostructures for large and robust valley splitting in\u00a0silicon qubits",
+   "url": "https://link.aps.org/doi/10.1103/pd5d-sddp",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-05T10:00:00+00:00"
+  },
+  {
+   "title": "Building advertising for the way people use AI",
+   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-05T10:00:00+00:00"
   },
   {
    "title": "(PR) INNO3D Announces 6U RTX PRO 6000BSE GPU Server",
@@ -63,14 +182,6 @@
    "source": "Digitimes",
    "category": "compute",
    "published": "2026-10-05T03:10:13+00:00"
-  },
-  {
-   "title": "After 25 Years, Physicists Can Finally Measure The 'Other' Kind of Quantum Entanglement",
-   "url": "https://www.sciencealert.com/after-25-years-physicists-can-finally-measure-the-other-kind-of-quantum-entanglement",
-   "source": "ScienceAlert",
-   "category": "quantum",
-   "published": "2026-10-05T01:30:34+00:00",
-   "breakthrough": true
   },
   {
    "title": "Towards a systematic understanding of the diverse subtypes, biogenesis and functions of large extracellular vesicles",
@@ -862,6 +973,13 @@
    "source": "Techpowerup.com",
    "category": "compute",
    "published": "2026-10-02T16:24:07+00:00"
+  },
+  {
+   "title": "A model guide for the GPT-6 family",
+   "url": "https://openai.com/index/practical-guide-building-gpt-6",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-02T16:15:00+00:00"
   },
   {
    "title": "Sanofi and 2026 NBA Champion Karl-Anthony Towns team up to raise awareness of COVID-19 vaccination with NUVAXOVID\u00ae",
@@ -34882,125 +35000,6 @@
    "source": "Pypi.org",
    "category": "compute",
    "published": "2026-07-12T08:57:03+00:00"
-  },
-  {
-   "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
-   "url": "https://biztoc.com/x/f6f8aaafa477c08b",
-   "source": "Biztoc.com",
-   "category": "ai",
-   "published": "2026-07-12T08:55:41+00:00"
-  },
-  {
-   "title": "Show HN: Godot running Gemma 4 inference in GDScript and Vulkan compute shaders",
-   "url": "https://github.com/asallay/godot-llm",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-12T08:48:49+00:00"
-  },
-  {
-   "title": "\u2018Almost unlimited\u2019: Execs says AI demand remains strong even as enterprises move to \u2018valuemaxxing\u2019",
-   "url": "https://biztoc.com/x/66a57bcac0756e69",
-   "source": "Biztoc.com",
-   "category": "ai",
-   "published": "2026-07-12T08:25:06+00:00"
-  },
-  {
-   "title": "IREN (IREN), BE Networks Partner to Simulate NVIDIA Blackwell GPU Infrastructure",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-networks-partner-simulate-075912782.html",
-   "source": "Yahoo Entertainment",
-   "category": "compute",
-   "published": "2026-07-12T07:59:12+00:00"
-  },
-  {
-   "title": "How integrated digital ecosystems are transforming India\u2019s agricultural value chain",
-   "url": "https://www.thehindubusinessline.com/economy/agri-business/how-integrated-digital-ecosystems-are-transforming-indias-agricultural-value-chain/article71210651.ece",
-   "source": "BusinessLine",
-   "category": "ai",
-   "published": "2026-07-12T03:16:54+00:00"
-  },
-  {
-   "title": "chp-adapter-local-llm 0.22.0",
-   "url": "https://pypi.org/project/chp-adapter-local-llm/0.22.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T03:11:49+00:00"
-  },
-  {
-   "title": "augmem.hermes 0.1.0",
-   "url": "https://pypi.org/project/augmem.hermes/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T03:06:34+00:00"
-  },
-  {
-   "title": "llmtrim 0.9.4",
-   "url": "https://pypi.org/project/llmtrim/0.9.4/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T03:04:11+00:00"
-  },
-  {
-   "title": "Samsung Electronics accelerates opening of Yongin chip plant to 2029",
-   "url": "https://cryptobriefing.com/samsung-yongin-chip-plant-2029/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-07-12T03:03:43+00:00"
-  },
-  {
-   "title": "vault-for-llm 0.10.2",
-   "url": "https://pypi.org/project/vault-for-llm/0.10.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T03:02:36+00:00"
-  },
-  {
-   "title": "tensor-grep 1.64.1",
-   "url": "https://pypi.org/project/tensor-grep/1.64.1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T02:58:18+00:00"
-  },
-  {
-   "title": "spolm-checks added to PyPI",
-   "url": "https://pypi.org/project/spolm-checks/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T02:47:02+00:00"
-  },
-  {
-   "title": "arize-phoenix-client 2.13.0",
-   "url": "https://pypi.org/project/arize-phoenix-client/2.13.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T02:40:54+00:00"
-  },
-  {
-   "title": "pollux-ai 2.0.0rc2",
-   "url": "https://pypi.org/project/pollux-ai/2.0.0rc2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T02:40:14+00:00"
-  },
-  {
-   "title": "Celebrating the world\u2019s robotics guru Barth Nnaji @70",
-   "url": "https://www.vanguardngr.com/2026/07/celebrating-the-worlds-robotics-guru-barth-nnaji-70/",
-   "source": "Vanguard",
-   "category": "robotics",
-   "published": "2026-07-12T02:38:56+00:00"
-  },
-  {
-   "title": "stratum-py 0.2.108",
-   "url": "https://pypi.org/project/stratum-py/0.2.108/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-12T02:38:41+00:00"
-  },
-  {
-   "title": "Infinitix signs Sarawak AI pact to expand Southeast Asia cloud services",
-   "url": "https://www.digitimes.com/news/a20260710PD221/infrastructure-asia-government-software-gpu.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-12T02:32:51+00:00"
   }
  ]
 }
