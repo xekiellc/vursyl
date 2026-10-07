@@ -1,12 +1,174 @@
 {
- "updated": "2026-10-07T12:59:06.945524+00:00",
+ "updated": "2026-10-07T22:55:55.527485+00:00",
  "items": [
+  {
+   "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-07T18:45:28+00:00"
+  },
+  {
+   "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+   "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-10-07T16:00:00+00:00"
+  },
+  {
+   "title": "Helping teens learn, plan, and shape the future of AI",
+   "url": "https://openai.com/index/teens-learn-and-plan",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-07T12:00:00+00:00"
+  },
+  {
+   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "url": "https://openai.com/index/radisson",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-07T07:00:00+00:00"
+  },
+  {
+   "title": "GPT-6 and Intelligent UI for everyone",
+   "url": "https://openai.com/index/gpt-6-for-everyone",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-07T00:00:00+00:00"
+  },
+  {
+   "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+   "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+   "source": "Decrypt",
+   "category": "ai",
+   "published": "2026-10-06T22:46:03+00:00"
+  },
+  {
+   "title": "Black Hills stock surges 5% on $1.8B Google data center deal",
+   "url": "https://biztoc.com/x/4f7c3366030e7d60",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-10-06T22:43:28+00:00"
+  },
+  {
+   "title": "World Development Report 2026: How Can AI Improve the Delivery of Public Services?",
+   "url": "https://biztoc.com/x/a025106384d685d5",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-06T22:36:03+00:00"
+  },
+  {
+   "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
+   "url": "https://biztoc.com/x/9677cadf44e95522",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-06T22:25:41+00:00"
+  },
+  {
+   "title": "Oregon Wellness Network Leads National Team Selected as Winner in Federal Health at Home Challenge",
+   "url": "https://www.prnewswire.com/news-releases/oregon-wellness-network-leads-national-team-selected-as-winner-in-federal-health-at-home-challenge-302900386.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-06T22:22:00+00:00"
+  },
+  {
+   "title": "OpenAI unleashes hundreds more math results upon a field already in shock",
+   "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
+   "source": "Scientific American",
+   "category": "breakthroughs",
+   "published": "2026-10-06T22:19:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Vinci reels in $250M for its engineering simulation platform",
+   "url": "https://siliconangle.com/2026/10/06/vinci-reels-in-250m-for-its-engineering-simulation-platform/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-10-06T22:18:27+00:00"
+  },
+  {
+   "title": "Sharing AI Progress in Mathematics",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+   "source": "Openai.com",
+   "category": "ai",
+   "published": "2026-10-06T22:17:21+00:00"
+  },
+  {
+   "title": "Cell Culture Monitoring Biosensors Market to Reach USD 906.56 Million by 2032 - Credence Research",
+   "url": "https://www.prnewswire.com/news-releases/cell-culture-monitoring-biosensors-market-to-reach-usd-906-56-million-by-2032--credence-research-302900269.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-06T21:15:00+00:00"
+  },
+  {
+   "title": "MIT Technology Review Unveils 2026 List of 10 Climate Tech Companies to Watch",
+   "url": "https://www.prnewswire.com/news-releases/mit-technology-review-unveils-2026-list-of-10-climate-tech-companies-to-watch-302900346.html",
+   "source": "PRNewswire",
+   "category": "breakthroughs",
+   "published": "2026-10-06T20:59:00+00:00"
+  },
+  {
+   "title": "SARCOA and Community Care Solutions Earn Double Recognition in Federal Health at Home Challenge | lifestyle.nextmentors.com",
+   "url": "https://lifestyle.nextmentors.com/story/869254/sarcoa-and-community-care-solutions-earn-double-recognition-in-federal-health-at-home-challenge/",
+   "source": "Nextmentors.com",
+   "category": "health",
+   "published": "2026-10-06T20:28:44+00:00"
+  },
+  {
+   "title": "Fresh NPJ Health Systems study confirms the reliability of Daniel Nadler\u2019s OpenEvidence",
+   "url": "https://www.digitaljournal.com/article/fresh-npj-health-systems-study-confirms-the-reliability-of-daniel-nadlers-openevidence/",
+   "source": "Digital Journal",
+   "category": "health",
+   "published": "2026-10-06T20:13:30+00:00"
+  },
+  {
+   "title": "Tesla showcases Cybercab robotaxi at Paris Motor Show starting Oct. 12",
+   "url": "https://cryptobriefing.com/tesla-cybercab-robotaxi-paris-motor-show/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-10-06T20:12:19+00:00"
+  },
+  {
+   "title": "YYForce Opens Singapore Robotics Center to Advance Humanoid Training and Service Robot Deployment",
+   "url": "https://www.prnewswire.com/news-releases/yyforce-opens-singapore-robotics-center-to-advance-humanoid-training-and-service-robot-deployment-302899922.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-06T20:10:00+00:00"
+  },
   {
    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
    "source": "Google DeepMind",
    "category": "ai",
    "published": "2026-10-06T19:57:04+00:00"
+  },
+  {
+   "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
+   "url": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-10-06T19:19:15+00:00"
+  },
+  {
+   "title": "Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-10-06T19:09:39+00:00"
+  },
+  {
+   "title": "Robots Give Hospitals More Capacity Without Adding Beds",
+   "url": "https://biztoc.com/x/fa43ad58becc5769",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-10-06T18:55:00+00:00"
+  },
+  {
+   "title": "Oku Digital Health Launches From Topcon Healthcare to Transform Eye Care Into Whole-Body Health",
+   "url": "https://finance.yahoo.com/healthcare/articles/oku-digital-health-launches-topcon-130500095.html",
+   "source": "Yahoo Entertainment",
+   "category": "health",
+   "published": "2026-10-06T18:43:14+00:00"
   },
   {
    "title": "Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
@@ -16,11 +178,18 @@
    "published": "2026-10-06T17:00:00+00:00"
   },
   {
-   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-   "url": "https://openai.com/index/atlassian-partnership",
-   "source": "OpenAI",
+   "title": "Show HN: Quantum computing experiments with honest classical baselines",
+   "url": "https://github.com/p10node/qcpa",
+   "source": "Github.com",
+   "category": "quantum",
+   "published": "2026-10-06T16:33:00+00:00"
+  },
+  {
+   "title": "This Startup Led by an Ex-Apple Designer Thinks a GUI for AI Could Change Everything",
+   "url": "https://gizmodo.com/hark-pro-ai-ui-2000822253",
+   "source": "Gizmodo.com",
    "category": "ai",
-   "published": "2026-10-06T16:00:00+00:00"
+   "published": "2026-10-06T16:15:47+00:00"
   },
   {
    "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
@@ -30,11 +199,18 @@
    "published": "2026-10-06T15:00:00+00:00"
   },
   {
-   "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-   "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-06T13:00:19+00:00"
+   "title": "Video: Dexterous robot hand learns the delicate art of silk embroidery",
+   "url": "https://newatlas.com/robotics/agilink-robot-hand-learns-silk-embroidery/",
+   "source": "New Atlas",
+   "category": "robotics",
+   "published": "2026-10-06T14:03:00+00:00"
+  },
+  {
+   "title": "Elon Musk says TSMC could join Terafab- What Taiwan chip giant's entry into US market means",
+   "url": "https://www.livemint.com/companies/news/elon-musk-says-tsmc-could-join-terafab-what-taiwan-chip-giants-entry-into-us-market-means-11791289786401.html",
+   "source": "Livemint",
+   "category": "compute",
+   "published": "2026-10-06T13:39:32+00:00"
   },
   {
    "title": "JPMorgan tops the Evident AI Index for the fifth straight year",
@@ -149,18 +325,18 @@
    "published": "2026-10-06T12:06:35+00:00"
   },
   {
-   "title": "Realbotix to Exhibit at Humanoids Summit in Silicon Valley",
-   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/realbotix-to-exhibit-at-humanoids-summit-in-silicon-valley",
-   "source": "Financial Post",
-   "category": "robotics",
-   "published": "2026-10-06T12:00:03+00:00"
-  },
-  {
    "title": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.",
    "url": "https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10#article",
    "source": "Business Insider",
    "category": "robotics",
    "published": "2026-10-06T12:00:01+00:00"
+  },
+  {
+   "title": "How Jump Trading is scaling quant research with ChatGPT",
+   "url": "https://openai.com/index/jump-trading",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-06T12:00:00+00:00"
   },
   {
    "title": "DarioHealth Announces Independent Aon Analysis that Supports Estimated 2.5%-7.2% In-Year Reduction in Total Healthcare Costs",
@@ -174,8 +350,7 @@
    "url": "https://financialpost.com/globe-newswire/xanadu-and-globalfoundries-announce-strategic-partnership-to-accelerate-utility-scale-quantum-manufacturing",
    "source": "Financial Post",
    "category": "quantum",
-   "published": "2026-10-06T11:19:15+00:00",
-   "breakthrough": true
+   "published": "2026-10-06T11:19:15+00:00"
   },
   {
    "title": "HealthEdge Launches Unified AI-Powered Platform to Guarantee Financial Outcomes for Health Plans",
@@ -204,34 +379,6 @@
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-10-06T11:00:00+00:00"
-  },
-  {
-   "title": "Effective Hamiltonian for an off-resonantly driven qubit-cavity system",
-   "url": "https://link.aps.org/doi/10.1103/y7xr-jq5w",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-06T10:00:00+00:00"
-  },
-  {
-   "title": "Ground-state preparation via nonlinear quantum dissipation",
-   "url": "https://link.aps.org/doi/10.1103/nsdt-mntf",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-06T10:00:00+00:00"
-  },
-  {
-   "title": "Temperature-enhanced quantum sensing for the cutoff frequency of Ohmic-family environments",
-   "url": "https://link.aps.org/doi/10.1103/xk8h-4lrb",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-06T10:00:00+00:00"
-  },
-  {
-   "title": "Advancing computer use with Ironclad",
-   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-06T10:00:00+00:00"
   },
   {
    "title": "Inside Kotak\u2019s IIT classrooms: Teaching SME promoters to think like AI-Native businesses",
@@ -302,6 +449,20 @@
    "source": "SiliconANGLE News",
    "category": "ai",
    "published": "2026-10-06T00:43:54+00:00"
+  },
+  {
+   "title": "Extended follow-up of in vivo BCMA CAR-T therapy in relapsed/refractory multiple myeloma",
+   "url": "https://www.nature.com/articles/s41591-026-04704-z",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-10-06T00:00:00+00:00"
+  },
+  {
+   "title": "DHODH is the key target of the KDM4 inhibitor QC6352 in glioblastoma stem cells",
+   "url": "https://www.nature.com/articles/s41589-026-02306-x",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-10-06T00:00:00+00:00"
   },
   {
    "title": "Efficient deep learning models for early Alzheimer\u2019s disease diagnosis",
@@ -449,13 +610,6 @@
    "source": "CNA",
    "category": "robotics",
    "published": "2026-10-05T13:02:55+00:00"
-  },
-  {
-   "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer\u2019s Deadliest Gaps",
-   "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-   "source": "NVIDIA",
-   "category": "health",
-   "published": "2026-10-05T13:00:57+00:00"
   },
   {
    "title": "Exclusive: Iterate.ai\u2019s Lifeboat runs up to six times more AI agent sessions per GPU",
@@ -34847,160 +35001,6 @@
    "source": "C-sharpcorner.com",
    "category": "ai",
    "published": "2026-07-13T19:17:47+00:00"
-  },
-  {
-   "title": "Defense Drones Are Becoming an Industrial Supply Chain Race",
-   "url": "https://logisticsviewpoints.com/2026/07/13/defense-drones-are-becoming-an-industrial-supply-chain-race/",
-   "source": "Logisticsviewpoints.com",
-   "category": "robotics",
-   "published": "2026-07-13T19:17:10+00:00"
-  },
-  {
-   "title": "How MIT students are helping to prevent cyberattacks",
-   "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-13T19:10:00+00:00"
-  },
-  {
-   "title": "Tech Company Blew Past Its $50 Billion AI Spending Target. Now It's Preparing to Spend Up to $95 Billion.",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3326427/0/en/Tech-Company-Blew-Past-Its-50-Billion-AI-Spending-Target-Now-It-s-Preparing-to-Spend-Up-to-95-Billion.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T19:04:00+00:00"
-  },
-  {
-   "title": "The Role of Multi-Agent AI in Optimizing Warehouse Logistics",
-   "url": "https://dzone.com/articles/multi-agent-ai-optimizing-warehouse-logistics",
-   "source": "Dzone.com",
-   "category": "ai",
-   "published": "2026-07-13T19:00:00+00:00"
-  },
-  {
-   "title": "Exclusive: Delaware Secretary of State partners with Norm Ai to propose the AIC, a legal entity for agents",
-   "url": "https://fortune.com/2026/07/13/exclusive-delaware-ai-agents-legal-entity-proposal-llc-pbc/",
-   "source": "Fortune",
-   "category": "ai",
-   "published": "2026-07-13T19:00:00+00:00"
-  },
-  {
-   "title": "Bosch Begins Sample Production At First U.S. Chip Plant",
-   "url": "https://biztoc.com/x/0dc42bdfdf383dfb",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-13T18:56:47+00:00"
-  },
-  {
-   "title": "Apple Could Challenge NVIDIA With A Monster M7 Ultra Chip With 1.5TB Of Memory",
-   "url": "https://hothardware.com/news/apple-m7-ultra-15tb-ram-rumor",
-   "source": "Hot Hardware",
-   "category": "compute",
-   "published": "2026-07-13T18:55:00+00:00"
-  },
-  {
-   "title": "HCLTech delivers robust Q1 led by record deal bookings of $2.4 billion",
-   "url": "https://www.prnewswire.com/news-releases/hcltech-delivers-robust-q1-led-by-record-deal-bookings-of-2-4-billion-302824103.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-07-13T18:53:00+00:00"
-  },
-  {
-   "title": "Show HN: Local Search Agent \u2013 offline RAG, no embeddings, free tier",
-   "url": "https://github.com/wiss84/local-search-agent",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-13T18:49:07+00:00"
-  },
-  {
-   "title": "Tenant Inc. Opens Nectar API to AI Tools, Giving Self-Storage Operators Live Access to Their Operational Data",
-   "url": "https://www.prnewswire.com/news-releases/tenant-inc-opens-nectar-api-to-ai-tools-giving-self-storage-operators-live-access-to-their-operational-data-302824078.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-13T18:29:00+00:00"
-  },
-  {
-   "title": "SpaceX Wants To Build AI Data Centers In Space. Will It Work?",
-   "url": "https://www.ponoko.com/blog/ponoko/spacex-wants-to-build-ai-data-centers-in-space-will-it-work/",
-   "source": "Ponoko.com",
-   "category": "compute",
-   "published": "2026-07-13T16:00:08+00:00"
-  },
-  {
-   "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
-   "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-07-13T16:00:00+00:00"
-  },
-  {
-   "title": "At the Grand Palais, Laure Prouvost Translates Quantum Physics Into Something You Can Feel",
-   "url": "https://observer.com/2026/07/artist-interview-laure-prouvost-we-felt-a-star-dying-grand-palais/",
-   "source": "Observer",
-   "category": "breakthroughs",
-   "published": "2026-07-13T15:28:31+00:00"
-  },
-  {
-   "title": "AI Transforms Biometrics-as-a-Service in Medical Devices, Attracting $178M in Investment Activity",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3326339/0/en/AI-Transforms-Biometrics-as-a-Service-in-Medical-Devices-Attracting-178M-in-Investment-Activity.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-13T15:02:00+00:00"
-  },
-  {
-   "title": "Inside the Art Schools Building Courses Around A.I.\u2019s Creative Potential",
-   "url": "https://biztoc.com/x/fdd5737122e6dcbb",
-   "source": "Biztoc.com",
-   "category": "ai",
-   "published": "2026-07-13T13:53:18+00:00"
-  },
-  {
-   "title": "Citizens raises Alphabet price target to $515 on AI infrastructure growth",
-   "url": "https://cryptobriefing.com/citizens-raises-alphabet-price-target-to-515-on-ai-infrastructure-growth/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-07-13T13:48:54+00:00"
-  },
-  {
-   "title": "51% of Banks Piloting AI Agents to Boost Productivity",
-   "url": "https://www.pymnts.com/news/banking/2026/51percent-of-banks-piloting-ai-agents-to-boost-productivity/",
-   "source": "pymnts.com",
-   "category": "ai",
-   "published": "2026-07-13T13:47:35+00:00"
-  },
-  {
-   "title": "Climate Tech Sees Record-High Deals\u00a0as Power Demand Fuels Market Appetite",
-   "url": "https://financialpost.com/pmn/business-pmn/climate-tech-sees-record-high-deals-as-power-demand-fuels-market-appetite",
-   "source": "Financial Post",
-   "category": "compute",
-   "published": "2026-07-13T13:42:26+00:00"
-  },
-  {
-   "title": "HCLTech Q1 profit rises; Sops to fuel Indian chips",
-   "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/hcltech-q1-profit-rises-sops-to-fuel-indian-chips/articleshow/132367917.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-13T13:40:15+00:00"
-  },
-  {
-   "title": "HuggingChat AI review",
-   "url": "https://www.techradar.com/pro/huggingchat-review",
-   "source": "TechRadar",
-   "category": "ai",
-   "published": "2026-07-13T13:39:48+00:00"
-  },
-  {
-   "title": "Chinese Humanoid Robot Industry Development Report 2026 Now Available. Breaks Down Sales Volume, Application Scenarios, and Product Categories Across China's Robotics Sector",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3326252/28124/en/Chinese-Humanoid-Robot-Industry-Development-Report-2026-Now-Available-Breaks-Down-Sales-Volume-Application-Scenarios-and-Product-Categories-Across-China-s-Robotics-Sector.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-13T13:37:00+00:00"
-  },
-  {
-   "title": "Silvia Surpasses $50 Billion in Assets in 14 Months Since Public Launch",
-   "url": "https://apnews.com/press-release/business-wire/press-release-1dc03b908f7d454284643bebe17910ed",
-   "source": "Associated Press",
-   "category": "breakthroughs",
-   "published": "2026-07-13T13:35:19+00:00"
   }
  ]
 }
