@@ -1,12 +1,26 @@
 {
- "updated": "2026-10-07T05:12:42.687318+00:00",
+ "updated": "2026-10-07T12:59:06.945524+00:00",
  "items": [
+  {
+   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-10-06T19:57:04+00:00"
+  },
   {
    "title": "Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
    "url": "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006",
    "source": "MIT News AI",
    "category": "ai",
    "published": "2026-10-06T17:00:00+00:00"
+  },
+  {
+   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+   "url": "https://openai.com/index/atlassian-partnership",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-06T16:00:00+00:00"
   },
   {
    "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
@@ -16,18 +30,208 @@
    "published": "2026-10-06T15:00:00+00:00"
   },
   {
-   "title": "How Jump Trading is scaling quant research with ChatGPT",
-   "url": "https://openai.com/index/jump-trading",
-   "source": "OpenAI",
+   "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+   "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+   "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-10-06T12:00:00+00:00"
+   "published": "2026-10-06T13:00:19+00:00"
   },
   {
-   "title": "Sharing AI progress in mathematics",
-   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+   "title": "JPMorgan tops the Evident AI Index for the fifth straight year",
+   "url": "https://cryptobriefing.com/jpmorgan-tops-evident-ai-index-fifth-year/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-10-06T12:55:59+00:00"
+  },
+  {
+   "title": "EV charging company plans to deploy 100,000 Nvidia GPUs in pods at its roadside sites across the US",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186050626",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-10-06T12:53:07+00:00"
+  },
+  {
+   "title": "CrowdStrike, Nvidia, AWS expand cyber program",
+   "url": "https://biztoc.com/x/5b9221780c16c80d",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-10-06T12:52:18+00:00"
+  },
+  {
+   "title": "Polygrade Emerges from Stealth With $6.3M to Bring AI-Native Claims Management to the Warranty Industry",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/polygrade-emerges-from-stealth-with-6-3m-to-bring-ai-native-claims-management-to-the-warranty-industry",
+   "source": "Financial Post",
+   "category": "ai",
+   "published": "2026-10-06T12:48:50+00:00"
+  },
+  {
+   "title": "Hitachi Vantara Earns Common Criteria Certification for VSP One Block, Providing Enhanced Data Resilience for Regulated Enterprises",
+   "url": "https://www.prnewswire.com/news-releases/hitachi-vantara-earns-common-criteria-certification-for-vsp-one-block-providing-enhanced-data-resilience-for-regulated-enterprises-302897788.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-10-06T12:47:00+00:00"
+  },
+  {
+   "title": "Nimble.LA Achieves Select Partner Status in Anthropic's Claude Partner Network",
+   "url": "https://www.prnewswire.com/news-releases/nimblela-achieves-select-partner-status-in-anthropics-claude-partner-network-302899360.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-06T12:44:00+00:00"
+  },
+  {
+   "title": "Conscience Announces Support for Two Projects Advancing Earlier Diagnosis and Treatment of Childhood Rare Diseases",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/conscience-announces-support-for-two-projects-advancing-earlier-diagnosis-and-treatment-of-childhood-rare-diseases",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-10-06T12:41:45+00:00"
+  },
+  {
+   "title": "AMC Health Guarantees $4.2 Million in Validated Annual Savings for Every 1,000 High-Risk Medicare Advantage Members",
+   "url": "https://www.prnewswire.com/news-releases/amc-health-guarantees-4-2-million-in-validated-annual-savings-for-every-1-000-high-risk-medicare-advantage-members-302899431.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-06T12:37:00+00:00"
+  },
+  {
+   "title": "Moonshot eyes early 2027 Hong Kong IPO after valuation hits $50 billion",
+   "url": "https://www.business-standard.com/technology/tech-news/moonshot-eyes-early-2027-hong-kong-ipo-after-valuation-hits-50-billion-126100600918_1.html",
+   "source": "Business Standard",
+   "category": "ai",
+   "published": "2026-10-06T12:32:02+00:00"
+  },
+  {
+   "title": "Cigna Healthcare Introduces Health Sense To Connect Guidance, Benefits and Clinical Support Around Each Person, Improving Affordability and Outcomes",
+   "url": "https://lifestyle.all80sz1063.com/story/480653/cigna-healthcare-introduces-health-sense-to-connect-guidance-benefits-and-clinical-support-around-each-person-improving-affordability-and-outcomes/",
+   "source": "All80sz1063.com",
+   "category": "health",
+   "published": "2026-10-06T12:29:28+00:00"
+  },
+  {
+   "title": "DeepSeek Looks to Raise $12 Billion Ahead of IPO",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-looks-to-raise-12-billion-ahead-of-ipo/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-10-06T12:26:25+00:00"
+  },
+  {
+   "title": "Our Framework for Reviewing AI-Generated Code",
+   "url": "https://blog.jetbrains.com/research/2026/10/review-ai-generated/",
+   "source": "Jetbrains.com",
+   "category": "ai",
+   "published": "2026-10-06T12:17:53+00:00"
+  },
+  {
+   "title": "Data center construction spending hits record $85 billion annual pace",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186050354",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-10-06T12:13:52+00:00"
+  },
+  {
+   "title": "Configure One Launches Intelligence Platform to Turn Product Knowledge into AI Advantage",
+   "url": "https://www.prnewswire.com/news-releases/configure-one-launches-intelligence-platform-to-turn-product-knowledge-into-ai-advantage-302899570.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-06T12:11:00+00:00"
+  },
+  {
+   "title": "Cedar Investment Group Launches to Originate, Finance, and Deliver Compute Capacity at the Cutting Edge of U.S. Digital Infrastructure",
+   "url": "https://biztoc.com/x/da9286287a948989",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-10-06T12:08:34+00:00"
+  },
+  {
+   "title": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck",
+   "url": "https://biztoc.com/x/3bbfae2a752aa3bc",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-10-06T12:06:35+00:00"
+  },
+  {
+   "title": "Realbotix to Exhibit at Humanoids Summit in Silicon Valley",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/realbotix-to-exhibit-at-humanoids-summit-in-silicon-valley",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-10-06T12:00:03+00:00"
+  },
+  {
+   "title": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.",
+   "url": "https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10#article",
+   "source": "Business Insider",
+   "category": "robotics",
+   "published": "2026-10-06T12:00:01+00:00"
+  },
+  {
+   "title": "DarioHealth Announces Independent Aon Analysis that Supports Estimated 2.5%-7.2% In-Year Reduction in Total Healthcare Costs",
+   "url": "https://www.prnewswire.com/news-releases/dariohealth-announces-independent-aon-analysis-that-supports-estimated-2-57-2-in-year-reduction-in-total-healthcare-costs-302897540.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-06T11:30:00+00:00"
+  },
+  {
+   "title": "Xanadu and GlobalFoundries Announce Strategic Partnership to Accelerate Utility-Scale Quantum Manufacturing",
+   "url": "https://financialpost.com/globe-newswire/xanadu-and-globalfoundries-announce-strategic-partnership-to-accelerate-utility-scale-quantum-manufacturing",
+   "source": "Financial Post",
+   "category": "quantum",
+   "published": "2026-10-06T11:19:15+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "HealthEdge Launches Unified AI-Powered Platform to Guarantee Financial Outcomes for Health Plans",
+   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/healthedge-launches-unified-ai-powered-platform-to-guarantee-financial-outcomes-for-health-plans/article71546648.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-10-06T11:06:21+00:00"
+  },
+  {
+   "title": "Veeva DQS Cleans Data for More Than 1 Million Subjects Across Over 1,000 Studies",
+   "url": "https://www.prnewswire.com/news-releases/veeva-dqs-cleans-data-for-more-than-1-million-subjects-across-over-1-000-studies-302899065.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-10-06T11:03:00+00:00"
+  },
+  {
+   "title": "Dotmatics Luma Achieves Databricks Gold Status and Joins the Marketplace",
+   "url": "https://www.prnewswire.com/news-releases/dotmatics-luma-achieves-databricks-gold-status-and-joins-the-marketplace-302899675.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-10-06T11:00:00+00:00"
+  },
+  {
+   "title": "Compugen to Participate in a Fireside Chat at the H.C. Wainwright 3rd Annual AI Based Drug Discovery & Development Conference",
+   "url": "https://www.prnewswire.com/news-releases/compugen-to-participate-in-a-fireside-chat-at-the-hc-wainwright-3rd-annual-ai-based-drug-discovery--development-conference-302899511.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-06T11:00:00+00:00"
+  },
+  {
+   "title": "Effective Hamiltonian for an off-resonantly driven qubit-cavity system",
+   "url": "https://link.aps.org/doi/10.1103/y7xr-jq5w",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "title": "Ground-state preparation via nonlinear quantum dissipation",
+   "url": "https://link.aps.org/doi/10.1103/nsdt-mntf",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "title": "Temperature-enhanced quantum sensing for the cutoff frequency of Ohmic-family environments",
+   "url": "https://link.aps.org/doi/10.1103/xk8h-4lrb",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "title": "Advancing computer use with Ironclad",
+   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-06T12:00:00+00:00"
+   "published": "2026-10-06T10:00:00+00:00"
   },
   {
    "title": "Inside Kotak\u2019s IIT classrooms: Teaching SME promoters to think like AI-Native businesses",
@@ -100,27 +304,6 @@
    "published": "2026-10-06T00:43:54+00:00"
   },
   {
-   "title": "Kawasaki teams with Noetra on fully autonomous humanoid robot",
-   "url": "https://www.digitimes.com/news/a20261005PD232/kawasaki-humanoid-robot-development-launch.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-10-06T00:09:06+00:00"
-  },
-  {
-   "title": "Extended follow-up of in vivo BCMA CAR-T therapy in relapsed/refractory multiple myeloma",
-   "url": "https://www.nature.com/articles/s41591-026-04704-z",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-10-06T00:00:00+00:00"
-  },
-  {
-   "title": "DHODH is the key target of the KDM4 inhibitor QC6352 in glioblastoma stem cells",
-   "url": "https://www.nature.com/articles/s41589-026-02306-x",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-10-06T00:00:00+00:00"
-  },
-  {
    "title": "Efficient deep learning models for early Alzheimer\u2019s disease diagnosis",
    "url": "https://www.nature.com/articles/s41598-026-71591-2.pdf",
    "source": "Nature.com",
@@ -132,21 +315,13 @@
    "url": "https://www.nature.com/articles/s41587-026-03303-0",
    "source": "Nature.com",
    "category": "health",
-   "published": "2026-10-06T00:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-10-06T00:00:00+00:00"
   },
   {
    "title": "MAGIC: an international network for evaluating generative artificial intelligence in global health",
    "url": "https://www.nature.com/articles/s41591-026-04706-x",
    "source": "Nature.com",
    "category": "health",
-   "published": "2026-10-06T00:00:00+00:00"
-  },
-  {
-   "title": "SeAH Besteel Mass-Produces Advanced Special Steel to Power Next-Gen Robotics",
-   "url": "https://www.prnewswire.com/news-releases/seah-besteel-mass-produces-advanced-special-steel-to-power-next-gen-robotics-302897587.html",
-   "source": "PRNewswire",
-   "category": "robotics",
    "published": "2026-10-06T00:00:00+00:00"
   },
   {
@@ -274,6 +449,13 @@
    "source": "CNA",
    "category": "robotics",
    "published": "2026-10-05T13:02:55+00:00"
+  },
+  {
+   "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer\u2019s Deadliest Gaps",
+   "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+   "source": "NVIDIA",
+   "category": "health",
+   "published": "2026-10-05T13:00:57+00:00"
   },
   {
    "title": "Exclusive: Iterate.ai\u2019s Lifeboat runs up to six times more AI agent sessions per GPU",
@@ -34819,188 +35001,6 @@
    "source": "Associated Press",
    "category": "breakthroughs",
    "published": "2026-07-13T13:35:19+00:00"
-  },
-  {
-   "title": "I Built a Workflow That Reads My Community's Slack and Writes a Week of Posts in My Voice",
-   "url": "https://buffer.com/resources/i-built-a-workflow-that-reads-my-communitys-slack-and-writes-a-week-of-posts-in-my-voice/",
-   "source": "Buffer.com",
-   "category": "ai",
-   "published": "2026-07-13T13:34:49+00:00"
-  },
-  {
-   "title": "Acentra Health Appoints Michael Kingston as Chief Digital & Information Officer to Lead Technology and AI Innovation",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3326250/0/en/Acentra-Health-Appoints-Michael-Kingston-as-Chief-Digital-Information-Officer-to-Lead-Technology-and-AI-Innovation.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-13T13:33:00+00:00"
-  },
-  {
-   "title": "Show HN: Nable, open source finops MCP",
-   "url": "https://github.com/chaandannn/finopsmcp",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-13T13:32:37+00:00"
-  },
-  {
-   "title": "Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates \u2014 says it plans to invest over $1 billion in local infrastructure improvements",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements",
-   "source": "Tom's Hardware UK",
-   "category": "compute",
-   "published": "2026-07-13T13:25:32+00:00"
-  },
-  {
-   "title": "megakernel added to PyPI",
-   "url": "https://pypi.org/project/megakernel/",
-   "source": "Pypi.org",
-   "category": "compute",
-   "published": "2026-07-13T13:23:51+00:00"
-  },
-  {
-   "title": "HKEY-AI-NAM-Bridge\u2122 1.0: HKeyBio Connects AI, NAMs and In Vivo Evidence",
-   "url": "https://www.prnewswire.com/news-releases/hkey-ai-nam-bridge-1-0-hkeybio-connects-ai-nams-and-in-vivo-evidence-302823670.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-13T13:16:00+00:00"
-  },
-  {
-   "title": "Integrium Launches Its Clinician-Built, Compliance-Driven EHR Platform",
-   "url": "https://www.prnewswire.com/news-releases/integrium-launches-its-clinician-built-compliance-driven-ehr-platform-302823785.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-13T12:39:00+00:00"
-  },
-  {
-   "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-   "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-07-13T12:37:28+00:00"
-  },
-  {
-   "title": "Eyelit Technologies Version 10.1 Innovates Manufacturing Operations Management (MOM) Through Agent EyeQ",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3326178/0/en/Eyelit-Technologies-Version-10-1-Innovates-Manufacturing-Operations-Management-MOM-Through-Agent-EyeQ.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-13T12:30:00+00:00"
-  },
-  {
-   "title": "Robotic Vial Washing and Filling Machine Market Study Just Released, Profiles Key Players: Steriline, Syntegon, IMA, and GEA Group",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3326116/28124/en/Robotic-Vial-Washing-and-Filling-Machine-Market-Study-Just-Released-Profiles-Key-Players-Steriline-Syntegon-IMA-and-GEA-Group.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-13T11:38:00+00:00"
-  },
-  {
-   "title": "Veterinary Lab Automation Global Market Report 2023 Now Available, Covers Asia-Pacific, North America, Europe, and More",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3326113/28124/en/Veterinary-Lab-Automation-Global-Market-Report-2023-Now-Available-Covers-Asia-Pacific-North-America-Europe-and-More.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-13T11:32:00+00:00"
-  },
-  {
-   "title": "Asia-Pacific Billion Data Center Colocation Market Outlook 2026-2031 | Liquid Cooling Adoption Rises in APAC Data Centers",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3325955/28124/en/Asia-Pacific-Billion-Data-Center-Colocation-Market-Outlook-2026-2031-Liquid-Cooling-Adoption-Rises-in-APAC-Data-Centers.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T08:15:00+00:00"
-  },
-  {
-   "title": "Opportunities & Strategies in Latin America's US$5.09 Billion Data Center Colocation Market, 2026-2031",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3325954/28124/en/Opportunities-Strategies-in-Latin-America-s-US-5-09-Billion-Data-Center-Colocation-Market-2026-2031.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T08:14:00+00:00"
-  },
-  {
-   "title": "SK Hynix reportedly starts Nvidia HBM4 shipments ahead of September ramp",
-   "url": "https://www.digitimes.com/news/a20260713VL219/sk-hynix-hbm4-nvidia-shipments-samsung.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-13T08:13:55+00:00"
-  },
-  {
-   "title": "Theme Hospital game engine CorsixTH 0.70 released with UI scaling, accessibility improvements and more",
-   "url": "https://www.gamingonlinux.com/2026/07/theme-hospital-game-engine-corsixth-0-70-released-with-ui-scaling-accessibility-improvements-and-more/",
-   "source": "Gamingonlinux.com",
-   "category": "ai",
-   "published": "2026-07-13T08:13:29+00:00"
-  },
-  {
-   "title": "U.S. Hyperscale Data Center Market Forecast 2026-2031 | AI Revolutionizes U.S. Hyperscale Data Centers with Record GPU Adoption",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3325953/28124/en/U-S-Hyperscale-Data-Center-Market-Forecast-2026-2031-AI-Revolutionizes-U-S-Hyperscale-Data-Centers-with-Record-GPU-Adoption.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T08:13:00+00:00"
-  },
-  {
-   "title": "Trends & Strategies in Asia-Pacific's $35+ Billion Data Center Construction Market, 2026-2031",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3325952/28124/en/Trends-Strategies-in-Asia-Pacific-s-35-Billion-Data-Center-Construction-Market-2026-2031.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T08:12:00+00:00"
-  },
-  {
-   "title": "Samsung pulls its first Yongin chip plant forward to 2029",
-   "url": "https://thenextweb.com/news/samsung-yongin-first-fab-2029/",
-   "source": "The Next Web",
-   "category": "compute",
-   "published": "2026-07-13T08:11:49+00:00"
-  },
-  {
-   "title": "Europe Data Center Market Landscape 2026-2031: Trends, Drivers, Investments, Innovations",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3325951/28124/en/Europe-Data-Center-Market-Landscape-2026-2031-Trends-Drivers-Investments-Innovations.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T08:11:00+00:00"
-  },
-  {
-   "title": "APAC Data Center Market to Double in Size During 2026-2031 | AI-Ready Facilities Drive $4.5 Billion Data Center Investment in Jakarta",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3325950/28124/en/APAC-Data-Center-Market-to-Double-in-Size-During-2026-2031-AI-Ready-Facilities-Drive-4-5-Billion-Data-Center-Investment-in-Jakarta.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T08:10:00+00:00"
-  },
-  {
-   "title": "Africa's US$3.6+ Billion Data Center Market 2026-2031: Analysis of Substantial Growth Prospects and Strategic Initiatives",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3325949/28124/en/Africa-s-US-3-6-Billion-Data-Center-Market-2026-2031-Analysis-of-Substantial-Growth-Prospects-and-Strategic-Initiatives.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T08:09:00+00:00"
-  },
-  {
-   "title": "Spain's Submer Group to invest $2 billion in semiconductor industry in Madhya Pradesh",
-   "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/spains-submer-group-to-invest-2-billion-in-semiconductor-industry-in-madhya-pradesh/articleshow/132360840.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-13T08:08:56+00:00"
-  },
-  {
-   "title": "Italy Data Center Market Report 2026-2031: Investment Analysis & Growth Opportunities Featuring AWS, Google, Oracle, OVHcloud, Atos, Cisco, Dell Technologies, NVIDIA and More",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3325948/28124/en/Italy-Data-Center-Market-Report-2026-2031-Investment-Analysis-Growth-Opportunities-Featuring-AWS-Google-Oracle-OVHcloud-Atos-Cisco-Dell-Technologies-NVIDIA-and-More.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T08:08:00+00:00"
-  },
-  {
-   "title": "Switzerland Data Center Market Growth Opportunities 2026-2031 | Investment Surge as Switzerland Cements Itself as Regional Cloud and AI Infrastructure Powerhouse",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3325947/28124/en/Switzerland-Data-Center-Market-Growth-Opportunities-2026-2031-Investment-Surge-as-Switzerland-Cements-Itself-as-Regional-Cloud-and-AI-Infrastructure-Powerhouse.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T08:07:00+00:00"
-  },
-  {
-   "title": "Investment Opportunities for Portugal's US$3.89 Billion Data Center Market, 2026-2031 | Lisbon Leads as the Most Preferred Data Center Location",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3325946/28124/en/Investment-Opportunities-for-Portugal-s-US-3-89-Billion-Data-Center-Market-2026-2031-Lisbon-Leads-as-the-Most-Preferred-Data-Center-Location.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T08:06:00+00:00"
-  },
-  {
-   "title": "Bahrain Data Center Market Report 2026-2031: Investment Analysis & Growth Opportunities",
-   "url": "https://www.globenewswire.com/news-release/2026/07/13/3325945/28124/en/Bahrain-Data-Center-Market-Report-2026-2031-Investment-Analysis-Growth-Opportunities.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-13T08:05:00+00:00"
   }
  ]
 }
