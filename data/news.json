@@ -1,12 +1,209 @@
 {
- "updated": "2026-10-08T05:23:08.469624+00:00",
+ "updated": "2026-10-08T13:07:16.990804+00:00",
  "items": [
   {
-   "title": "Using AI to mitigate the growing environmental threat of data centers",
-   "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
-   "source": "MIT News AI",
+   "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-07T18:45:28+00:00"
+  },
+  {
+   "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+   "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+   "source": "Microsoft Research",
    "category": "ai",
-   "published": "2026-10-08T04:00:00+00:00"
+   "published": "2026-10-07T16:00:00+00:00"
+  },
+  {
+   "title": "NLP Logix Named an OpenAI Select Partner",
+   "url": "https://www.prnewswire.com/news-releases/nlp-logix-named-an-openai-select-partner-302898145.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-07T13:05:00+00:00"
+  },
+  {
+   "title": "US\u00a0government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data",
+   "url": "https://www.channelnewsasia.com/business/us-government-google-join-zuckerberg-backed-biohub-in-18-billion-push-ai-biology-data-6439731",
+   "source": "CNA",
+   "category": "breakthroughs",
+   "published": "2026-10-07T13:03:34+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "V2 Communications Launches Public Sector Practice to Help Technology Companies Build Trust and Visibility with Government Buyers",
+   "url": "https://financialpost.com/globe-newswire/v2-communications-launches-public-sector-practice-to-help-technology-companies-build-trust-and-visibility-with-government-buyers",
+   "source": "Financial Post",
+   "category": "ai",
+   "published": "2026-10-07T13:03:13+00:00"
+  },
+  {
+   "title": "Beazley Security Strengthens AI Security Capabilities with Microsoft Solutions Partner Designation",
+   "url": "https://www.prnewswire.com/news-releases/beazley-security-strengthens-ai-security-capabilities-with-microsoft-solutions-partner-designation-302900655.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-07T13:01:00+00:00"
+  },
+  {
+   "title": "Castle Connolly and rater8 Partner to Bridge Peer-Nominated Clinical Excellence with Authentic Patient Experience",
+   "url": "https://www.prnewswire.com/news-releases/castle-connolly-and-rater8-partner-to-bridge-peer-nominated-clinical-excellence-with-authentic-patient-experience-302900671.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-07T13:01:00+00:00"
+  },
+  {
+   "title": "HOPPR and CARPL.ai partner to give customers access to foundation models for building and fine-tuning radiology AI",
+   "url": "https://www.prnewswire.com/news-releases/hoppr-and-carplai-partner-to-give-customers-access-to-foundation-models-for-building-and-fine-tuning-radiology-ai-302900843.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-07T13:01:00+00:00"
+  },
+  {
+   "title": "HPE ProLiant Gen13 Launches With the First Four AMD EPYC Venice Servers: Eight-GPU DL585a, 256-Core DL525, and OCP XD Nodes",
+   "url": "https://www.storagereview.com/?post_type=news&p=161403",
+   "source": "Storagereview.com",
+   "category": "compute",
+   "published": "2026-10-07T13:00:00+00:00"
+  },
+  {
+   "title": "IMF chief: AI could lift global growth by 0.5 percentage points a year",
+   "url": "https://www.straitstimes.com/business/ai-has-potential-to-lift-global-growth-by-half-a-percentage-point-annually-imf-chief",
+   "source": "The Straits Times",
+   "category": "ai",
+   "published": "2026-10-07T12:55:51+00:00"
+  },
+  {
+   "title": "Nobel prize in chemistry awarded for work on mirror-image molecules",
+   "url": "https://theconversation.com/nobel-prize-in-chemistry-awarded-for-work-on-mirror-image-molecules-293816",
+   "source": "The Conversation Africa",
+   "category": "ai",
+   "published": "2026-10-07T12:48:45+00:00"
+  },
+  {
+   "title": "SARCOA and Community Care Solutions Earn Double Recognition in Federal Health at Home Challenge",
+   "url": "https://pr.millcreekjournal.com/article/SARCOA-and-Community-Care-Solutions-Earn-Double-Recognition-in-Federal-Health-at-Home-Challenge/6ac5579ea74253059c770d7a",
+   "source": "Millcreekjournal.com",
+   "category": "health",
+   "published": "2026-10-07T12:45:08+00:00"
+  },
+  {
+   "title": "Residex\u00ae Launches Analytics Platform: Turning Community Data into Real-Time Clinical and Operational Action",
+   "url": "https://www.prnewswire.com/news-releases/residex-launches-analytics-platform-turning-community-data-into-real-time-clinical-and-operational-action-302900422.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-07T12:44:00+00:00"
+  },
+  {
+   "title": "NetraMark Founder Dr. Joseph Geraci to Participate in H.C. Wainwright\u2019s AI-Based Drug Discovery and Development Conference",
+   "url": "https://financialpost.com/globe-newswire/netramark-founder-dr-joseph-geraci-to-participate-in-h-c-wainwrights-ai-based-drug-discovery-and-development-conference",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-10-07T12:43:10+00:00"
+  },
+  {
+   "title": "GenDx Co-Founder Wietse Mulder Invests $100,000 in AI Transplant Company Immunomatics and Joins as Strategic Advisor",
+   "url": "https://www.prnewswire.com/news-releases/gendx-co-founder-wietse-mulder-invests-100-000-in-ai-transplant-company-immunomatics-and-joins-as-strategic-advisor-302900371.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-07T12:41:00+00:00"
+  },
+  {
+   "title": "Celltaxis Announces Peer-Reviewed Publication of Clinical Data Supporting Its Novel Therapeutic Approach to Lymphedema",
+   "url": "https://www.prnewswire.com/news-releases/celltaxis-announces-peer-reviewed-publication-of-clinical-data-supporting-its-novel-therapeutic-approach-to-lymphedema-302900581.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-07T12:33:00+00:00"
+  },
+  {
+   "title": "Bridge Neurotech raises $13.5M to read brains with ultrasound, no implant",
+   "url": "https://thenextweb.com/news/bridge-neurotech-13-5m-ultrasound-brain-computer-interface",
+   "source": "The Next Web",
+   "category": "health",
+   "published": "2026-10-07T12:29:32+00:00"
+  },
+  {
+   "title": "Microsoft and Nvidia CEOs to launch Surface Laptop Ultra on Wednesday",
+   "url": "https://thenextweb.com/news/microsoft-nvidia-surface-laptop-ultra-launch",
+   "source": "The Next Web",
+   "category": "compute",
+   "published": "2026-10-07T12:29:22+00:00"
+  },
+  {
+   "title": "Health Rounds: Experimental approach uses AI to eliminate cold storage for mRNA vaccines",
+   "url": "https://www.yahoo.com/news/science/articles/health-rounds-experimental-approach-uses-110910403.html",
+   "source": "Yahoo Entertainment",
+   "category": "health",
+   "published": "2026-10-07T12:17:03+00:00"
+  },
+  {
+   "title": "Boston Dynamics names Rohit Prasad, who helped build Amazon\u2019s Alexa, as CEO",
+   "url": "https://thenextweb.com/news/boston-dynamics-ceo-rohit-prasad-amazon-alexa",
+   "source": "The Next Web",
+   "category": "robotics",
+   "published": "2026-10-07T12:06:45+00:00"
+  },
+  {
+   "title": "A Reliable, High-Performance Alternative to Legacy Autopilots: Upbeat Launches Bluemag Pi with Onboard AI",
+   "url": "https://www.prnewswire.com/news-releases/a-reliable-high-performance-alternative-to-legacy-autopilots-upbeat-launches-bluemag-pi-with-onboard-ai-302900314.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-07T12:05:00+00:00"
+  },
+  {
+   "title": "Gemini Health Partners Launches AI RCM Advisory Built on Real Adjudicated Claims Data for High-Cost Specialties",
+   "url": "https://www.prnewswire.com/news-releases/gemini-health-partners-launches-ai-rcm-advisory-built-on-real-adjudicated-claims-data-for-high-cost-specialties-302900474.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-07T12:00:00+00:00"
+  },
+  {
+   "title": "Elsevier and JAMA Network sign strategic content agreement for ClinicalKey AI",
+   "url": "https://www.prnewswire.com/news-releases/elsevier-and-jama-network-sign-strategic-content-agreement-for-clinicalkey-ai-302899585.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-07T12:00:00+00:00"
+  },
+  {
+   "title": "Helping teens learn, plan, and shape the future of AI",
+   "url": "https://openai.com/index/teens-learn-and-plan",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-07T12:00:00+00:00"
+  },
+  {
+   "title": "Macroscopic entanglement between two magnon modes via two-tone driving of a superconducting qubit",
+   "url": "https://link.aps.org/doi/10.1103/jtyx-xsgc",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-07T10:00:00+00:00"
+  },
+  {
+   "title": "Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields",
+   "url": "https://link.aps.org/doi/10.1103/s5bn-z4jq",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-07T10:00:00+00:00"
+  },
+  {
+   "title": "Hybrid Quantum Computer Could Simulate Both Fermions and Bosons",
+   "url": "https://physics.aps.org/articles/v19/135",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-07T10:00:00+00:00"
+  },
+  {
+   "title": "Universal entanglement detection with geometrically optimal witnesses",
+   "url": "https://link.aps.org/doi/10.1103/82gn-78lv",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-07T10:00:00+00:00"
+  },
+  {
+   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "url": "https://openai.com/index/radisson",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-07T07:00:00+00:00"
   },
   {
    "title": "agents-fleet 0.5.0",
@@ -86,21 +283,6 @@
    "published": "2026-10-07T04:40:49+00:00"
   },
   {
-   "title": "Boston Dynamics appoints ex-Amazon executive Rohit Prasad as CEO",
-   "url": "https://www.channelnewsasia.com/business/boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-ceo-6438336",
-   "source": "CNA",
-   "category": "robotics",
-   "published": "2026-10-07T04:27:03+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Humanoid robot maker Boston Dynamics appoints ex-Amazon executive Rohit Prasad as CEO",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/humanoid-robot-maker-boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-as-ceo/articleshow/134755782.cms",
-   "source": "The Times of India",
-   "category": "robotics",
-   "published": "2026-10-07T04:23:07+00:00"
-  },
-  {
    "title": "Nvidia-Backed Startup Builds Open-Weight Model to Challenge Chinese Labs",
    "url": "https://me.pcmag.com/en/ai/38260/nvidia-backed-startup-builds-open-weight-model-to-challenge-chinese-labs",
    "source": "PCMag.com",
@@ -115,11 +297,11 @@
    "published": "2026-10-07T04:01:00+00:00"
   },
   {
-   "title": "Boston Dynamics appoints former Amazon executive Rohit Prasad as CEO",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-06/boston-dynamics-taps-amazon-alexa-executive-as-new-ceo",
-   "source": "Bloomberg",
+   "title": "Amid Its Big Humanoid Robot Rollout, an Ex-Amazon AI Chief Will Now Lead Boston Dynamics",
+   "url": "https://gizmodo.com/amid-its-big-humanoid-robot-rollout-an-ex-amazon-ai-chief-will-now-lead-boston-dynamics-2000822625",
+   "source": "Gizmodo.com",
    "category": "robotics",
-   "published": "2026-10-07T03:43:37+00:00"
+   "published": "2026-10-07T03:50:33+00:00"
   },
   {
    "title": "Amorepacific Presents AI-Powered Future Beauty Research at IFSCC Congress 2026",
@@ -129,13 +311,6 @@
    "published": "2026-10-07T02:00:00+00:00"
   },
   {
-   "title": "Boston Dynamics names former Amazon Alexa leader Rohit Prasad as CEO",
-   "url": "https://cryptobriefing.com/boston-dynamics-rohit-prasad-ceo/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-10-07T00:13:26+00:00"
-  },
-  {
    "title": "Common Antidepressants Could Have an Unexpected Role in Cancer Survival",
    "url": "https://www.sciencealert.com/common-antidepressants-could-have-an-unexpected-role-in-cancer-survival",
    "source": "ScienceAlert",
@@ -143,17 +318,10 @@
    "published": "2026-10-07T00:03:31+00:00"
   },
   {
-   "title": "tRNA dosage regulates lineage dependency and resistance in prostate cancer",
-   "url": "https://www.nature.com/articles/s41586-026-11153-8",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-10-07T00:00:00+00:00"
-  },
-  {
-   "title": "Alveolar stem cells transdifferentiate to drive bronchiolar regeneration",
-   "url": "https://www.nature.com/articles/s41586-026-11127-w",
-   "source": "Nature.com",
-   "category": "health",
+   "title": "GPT-6 and Intelligent UI for everyone",
+   "url": "https://openai.com/index/gpt-6-for-everyone",
+   "source": "OpenAI",
+   "category": "ai",
    "published": "2026-10-07T00:00:00+00:00"
   },
   {
@@ -234,13 +402,6 @@
    "published": "2026-10-06T20:59:00+00:00"
   },
   {
-   "title": "Supercomputing researchers document evolution of AI hardware",
-   "url": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
-   "source": "MIT News AI",
-   "category": "compute",
-   "published": "2026-10-06T20:55:00+00:00"
-  },
-  {
    "title": "SARCOA and Community Care Solutions Earn Double Recognition in Federal Health at Home Challenge | lifestyle.nextmentors.com",
    "url": "https://lifestyle.nextmentors.com/story/869254/sarcoa-and-community-care-solutions-earn-double-recognition-in-federal-health-at-home-challenge/",
    "source": "Nextmentors.com",
@@ -253,6 +414,20 @@
    "source": "Digital Journal",
    "category": "health",
    "published": "2026-10-06T20:13:30+00:00"
+  },
+  {
+   "title": "YYForce Opens Singapore Robotics Center to Advance Humanoid Training and Service Robot Deployment",
+   "url": "https://www.prnewswire.com/news-releases/yyforce-opens-singapore-robotics-center-to-advance-humanoid-training-and-service-robot-deployment-302899922.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-06T20:10:00+00:00"
+  },
+  {
+   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-10-06T19:57:04+00:00"
   },
   {
    "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
@@ -297,11 +472,11 @@
    "published": "2026-10-06T16:15:47+00:00"
   },
   {
-   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-   "url": "https://openai.com/index/atlassian-partnership",
-   "source": "OpenAI",
+   "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
+   "url": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
+   "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-10-06T16:00:00+00:00"
+   "published": "2026-10-06T15:00:00+00:00"
   },
   {
    "title": "Optimised fluorescence-activated nuclei sorting for epigenomic analysis of cortical cell types",
@@ -309,13 +484,6 @@
    "source": "Plos.org",
    "category": "health",
    "published": "2026-10-06T14:00:00+00:00"
-  },
-  {
-   "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-   "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-06T13:00:19+00:00"
   },
   {
    "title": "JPMorgan tops the Evident AI Index for the fifth straight year",
@@ -444,8 +612,8 @@
    "published": "2026-10-06T12:00:01+00:00"
   },
   {
-   "title": "Sharing AI progress in mathematics",
-   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+   "title": "How Jump Trading is scaling quant research with ChatGPT",
+   "url": "https://openai.com/index/jump-trading",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-10-06T12:00:00+00:00"
@@ -511,13 +679,6 @@
    "url": "https://link.aps.org/doi/10.1103/nsdt-mntf",
    "source": "Aps.org",
    "category": "quantum",
-   "published": "2026-10-06T10:00:00+00:00"
-  },
-  {
-   "title": "Advancing computer use with Ironclad",
-   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-   "source": "OpenAI",
-   "category": "ai",
    "published": "2026-10-06T10:00:00+00:00"
   },
   {
@@ -750,13 +911,6 @@
    "source": "CNA",
    "category": "robotics",
    "published": "2026-10-05T13:02:55+00:00"
-  },
-  {
-   "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer\u2019s Deadliest Gaps",
-   "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-   "source": "NVIDIA",
-   "category": "health",
-   "published": "2026-10-05T13:00:57+00:00"
   },
   {
    "title": "Exclusive: Iterate.ai\u2019s Lifeboat runs up to six times more AI agent sessions per GPU",
@@ -34847,160 +35001,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-07-14T13:06:00+00:00"
-  },
-  {
-   "title": "KeyReply Becomes Rezonate, Bringing Proven Engagement Intelligence to North America",
-   "url": "https://www.prnewswire.com/news-releases/keyreply-becomes-rezonate-bringing-proven-engagement-intelligence-to-north-america-302825084.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-14T13:05:00+00:00"
-  },
-  {
-   "title": "First Fully Robotic Pharmacy Fills a Prescription in Under 60 Seconds",
-   "url": "https://www.pymnts.com/healthcare/prescriptions/2026/first-fully-robotic-pharmacy-fills-a-prescription-in-under-60-seconds/",
-   "source": "pymnts.com",
-   "category": "robotics",
-   "published": "2026-07-14T13:00:13+00:00"
-  },
-  {
-   "title": "Chai Discovery raises $400M for AI drug discovery as big pharma bets on machine learning over blockchain",
-   "url": "https://cryptobriefing.com/chai-discovery-400m-ai-drug-discovery/",
-   "source": "Crypto Briefing",
-   "category": "health",
-   "published": "2026-07-14T12:10:32+00:00"
-  },
-  {
-   "title": "Ensora Health extends Fusion's multi-discipline EHR deeper into adult physical therapy",
-   "url": "https://www.prnewswire.com/news-releases/ensora-health-extends-fusions-multi-discipline-ehr-deeper-into-adult-physical-therapy-302825045.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-14T12:10:00+00:00"
-  },
-  {
-   "title": "Samsung to produce custom AI chips for Anthropic: report",
-   "url": "https://cryptobriefing.com/samsung-to-produce-custom-ai-chips-for-anthropic-report/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-07-14T08:21:08+00:00"
-  },
-  {
-   "title": "Phase II Trial of Cadonilimab(PD-1/CTLA-4) Combination Regimen Launches in the United States for Perioperative Treatment of Gastric Cancer",
-   "url": "https://www.prnewswire.com/news-releases/phase-ii-trial-of-cadonilimabpd-1ctla-4-combination-regimen-launches-in-the-united-states-for-perioperative-treatment-of-gastric-cancer-302824817.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-14T08:18:00+00:00"
-  },
-  {
-   "title": "Advancements in CKD Care: How New Therapies from AstraZeneca, Johnson & Johnson, Novartis, Bayer, and Amgen Are Changing the Landscape",
-   "url": "https://www.globenewswire.com/news-release/2026/07/14/3326620/28124/en/Advancements-in-CKD-Care-How-New-Therapies-from-AstraZeneca-Johnson-amp-Johnson-Novartis-Bayer-and-Amgen-Are-Changing-the-Landscape.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-14T08:16:00+00:00"
-  },
-  {
-   "title": "cloud-dog-llm 0.4.1",
-   "url": "https://pypi.org/project/cloud-dog-llm/0.4.1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-14T08:15:09+00:00"
-  },
-  {
-   "title": "cloud-dog-cache 0.2.2",
-   "url": "https://pypi.org/project/cloud-dog-cache/0.2.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-14T08:15:03+00:00"
-  },
-  {
-   "title": "Comprehensive Study on Companion Animal Health Market Now Available \u2014 Examines Vaccines, Diagnostics, Nutrition, and More",
-   "url": "https://www.globenewswire.com/news-release/2026/07/14/3326618/28124/en/Comprehensive-Study-on-Companion-Animal-Health-Market-Now-Available-Examines-Vaccines-Diagnostics-Nutrition-and-More.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-14T08:15:00+00:00"
-  },
-  {
-   "title": "Masayoshi Son says AI will cost $5tn a year by 2040, and calls bubble talk absurd",
-   "url": "https://thenextweb.com/news/masayoshi-son-ai-5-trillion-year-2040-bubble/",
-   "source": "The Next Web",
-   "category": "ai",
-   "published": "2026-07-14T08:13:10+00:00"
-  },
-  {
-   "title": "High-Computing AI Chip Market - Global Forecast 2026-2032",
-   "url": "https://www.globenewswire.com/news-release/2026/07/14/3326616/28124/en/High-Computing-AI-Chip-Market-Global-Forecast-2026-2032.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-14T08:13:00+00:00"
-  },
-  {
-   "title": "RWS launches new linguistic validation service to significantly reduce clinical trial timelines",
-   "url": "https://www.prnewswire.com/news-releases/rws-launches-new-linguistic-validation-service-to-significantly-reduce-clinical-trial-timelines-302824011.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-14T08:01:00+00:00"
-  },
-  {
-   "title": "Quantinuum, Rolls-Royce, Riverlane and University of Edinburgh Sign Agreement to Explore Quantum Computing for Industrial Design and Simulation",
-   "url": "https://www.prnewswire.com/news-releases/quantinuum-rolls-royce-riverlane-and-university-of-edinburgh-sign-agreement-to-explore-quantum-computing-for-industrial-design-and-simulation-302824055.html",
-   "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-07-14T08:00:00+00:00"
-  },
-  {
-   "title": "Quantinuum, Rolls-Royce, Riverlane and University of Edinburgh Sign Agreement to Explore Quantum Computing for Industrial Design and Simulation",
-   "url": "https://www.prnewswire.com/news-releases/quantinuum-rolls-royce-riverlane-and-university-of-edinburgh-sign-agreement-to-explore-quantum-computing-for-industrial-design-and-simulation-302824057.html",
-   "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-07-14T08:00:00+00:00"
-  },
-  {
-   "title": "Building cyber-resilient AI in the enterprise",
-   "url": "https://www.techtarget.com/searchsecurity/tip/Building-cyber-resilient-AI-in-the-enterprise",
-   "source": "Techtarget.com",
-   "category": "ai",
-   "published": "2026-07-14T08:00:00+00:00"
-  },
-  {
-   "title": "Blocking One Protein Kept Aging Ovaries 'Soft' in Mice, Extending Fertility",
-   "url": "https://www.sciencealert.com/blocking-one-protein-kept-aging-ovaries-soft-in-mice-extending-fertility",
-   "source": "ScienceAlert",
-   "category": "health",
-   "published": "2026-07-14T08:00:00+00:00"
-  },
-  {
-   "title": "Nucleome Therapeutics strengthens global IP portfolio with US patent for core MCC Technology",
-   "url": "https://www.globenewswire.com/news-release/2026/07/14/3326600/0/en/Nucleome-Therapeutics-strengthens-global-IP-portfolio-with-US-patent-for-core-MCC-Technology.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-14T08:00:00+00:00"
-  },
-  {
-   "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-   "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-   "source": "MIT Technology Review",
-   "category": "quantum",
-   "published": "2026-07-14T08:00:00+00:00"
-  },
-  {
-   "title": "Architecting GDPR-Compliant GenAI: An End-to-End Guide to Multi-Agent RAG with LangGraph",
-   "url": "https://www.c-sharpcorner.com/article/architecting-gdpr-compliant-genai-an-end-to-end-guide-to-multi-agent-rag-with-l/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-07-14T06:56:20+00:00"
-  },
-  {
-   "title": "Born at IIT, this battery tech targets a market China doesn't dominate\u2014yet",
-   "url": "https://economictimes.indiatimes.com/industry/renewables/born-at-iit-this-battery-tech-targets-a-market-china-doesnt-dominateyet/articleshow/132381450.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-14T06:21:44+00:00"
-  },
-  {
-   "title": "WISeKey Reports Unaudited Preliminary H1 2026 Key Metrics; Revenue Up 115%, FY 2026 Guidance Reaffirmed",
-   "url": "https://www.globenewswire.com/news-release/2026/07/14/3326560/0/en/WISeKey-Reports-Unaudited-Preliminary-H1-2026-Key-Metrics-Revenue-Up-115-FY-2026-Guidance-Reaffirmed.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-14T05:00:00+00:00"
   }
  ]
 }
