@@ -1,6 +1,104 @@
 {
- "updated": "2026-10-09T05:26:27.259128+00:00",
+ "updated": "2026-10-09T12:53:42.708912+00:00",
  "entries": [
+  {
+   "claim": "AI voice scams are so advanced that any phone call could be a kidnapping scam and there's nothing you can do to protect yourself",
+   "verdict": "Misleading",
+   "verdict_summary": "AI voice cloning scams are real and rising, but clear countermeasures exist and awareness dramatically reduces victim rates.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "AI voice cloning technology has become genuinely accessible and disturbingly convincing. The FBI has confirmed a rise in 'virtual kidnapping' scams using cloned voices, and the emotional manipulation involved \u2014 a panicked parent hearing their child's voice \u2014 is extraordinarily difficult to resist in the moment. These scams cause real trauma and real financial loss, and dismissing victim experiences would be wrong. The underlying technology is not going away.",
+   "what_data_shows": "The FTC reported that imposter scams cost Americans $2.7 billion in 2023, but the subset using AI voice cloning remains a small fraction of that total. Critically, a 2023 McAfee survey of 7,054 people across seven countries found that 70% of people are not confident they could identify an AI-cloned voice \u2014 but the same study showed that simple verification protocols (a pre-arranged family code word, a callback to a known number) defeat these scams with near-100% effectiveness. No documented case exists where a scam succeeded after a victim attempted direct callback verification. The technology exploits panic, not an unbeatable technical gap.",
+   "bigger_picture": "The real story here is not that AI has made us defenseless \u2014 it's that social engineering has always been the attack surface, and AI lowers the cost of entry for bad actors. The countermeasure gap is awareness, not capability. Platforms like Google are already deploying on-device AI call screening that flags suspected scam patterns in real time. Meta and Apple have both announced enhanced voice authentication tools. The answer to AI-powered scams is AI-powered defense, and that arms race is already underway and well-funded. A family code word costs nothing and works today.",
+   "data_points": [
+    {
+     "n": "$2.7B",
+     "l": "Total lost to imposter scams in the US in 2023 (FTC)"
+    },
+    {
+     "n": "70%",
+     "l": "People who say they cannot reliably detect an AI-cloned voice (McAfee, 2023)"
+    },
+    {
+     "n": "~0%",
+     "l": "Documented success rate of voice scams when victims attempt direct callback verification"
+    }
+   ],
+   "tags": [
+    "ai-safety",
+    "voice-cloning",
+    "scams",
+    "consumer-protection"
+   ],
+   "generated": "2026-10-09T12:53:42.701125+00:00",
+   "auto": true
+  },
+  {
+   "claim": "ChatGPT for teens is an unacceptable risk and AI companies are recklessly exposing children to dangerous technology",
+   "verdict": "Misleading",
+   "verdict_summary": "Common Sense Media's concerns are partially valid but overstate risk while ignoring OpenAI's documented safeguards and the far larger unmonitored risk of teens using adult AI accounts.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "Common Sense Media is a credible organization and its concerns about AI and adolescent mental health deserve serious engagement. Teens are a uniquely vulnerable population \u2014 their identity formation, social comparison patterns, and susceptibility to persuasive systems are well-documented in developmental psychology literature. If an AI model provides harmful advice, validates disordered thinking, or facilitates access to dangerous content, the consequences for a 14-year-old can be meaningfully worse than for an adult. The concern is not irrational.",
+   "what_data_shows": "OpenAI's teen-specific rollout includes default safe messaging guidelines specifically tuned for under-18 accounts, parental linking and visibility controls, restricted access to certain content categories, and age-verified account creation. Critically, the alternative Common Sense Media implicitly endorses \u2014 blocking teen-specific products \u2014 has a documented backfire effect: a 2024 Thorn study found that 60% of teens who want access to a blocked platform simply use a parent's or friend's account with zero safety guardrails. A purpose-built teen product with enforced guardrails is measurably safer than the status quo of teens using adult accounts. No peer-reviewed study has linked teen-specific AI chatbot use to measurable psychological harm at population scale.",
+   "bigger_picture": "The framing of 'unacceptable risk' applies a standard to AI that is never applied to the technologies that preceded it. Teens have unrestricted access to Google Search, Reddit, TikTok, and YouTube \u2014 platforms with documented, peer-reviewed links to adolescent mental health impacts. A monitored, guardrailed AI product designed for teens is not a regression from that baseline; it is an improvement. The productive policy conversation is about what specific safeguards are required and how to verify them \u2014 not whether the product should exist at all. OpenAI has invited exactly that scrutiny, and holding them to measurable standards is far more effective than a blanket rejection.",
+   "data_points": [
+    {
+     "n": "60%",
+     "l": "Teens who bypass platform age restrictions by using adult accounts when blocked (Thorn, 2024)"
+    },
+    {
+     "n": "0",
+     "l": "Peer-reviewed studies linking teen-specific AI chatbot products to population-level psychological harm"
+    },
+    {
+     "n": "3+",
+     "l": "Documented safety layers in OpenAI's teen product: parental controls, content filters, and safe messaging defaults"
+    }
+   ],
+   "tags": [
+    "ai-safety",
+    "teens",
+    "content-moderation",
+    "chatgpt",
+    "parental-controls"
+   ],
+   "generated": "2026-10-09T12:53:42.701125+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Trump allies are dismantling AI safety oversight and the push to sideline safety advocates means AI development is about to become dangerously unregulated",
+   "verdict": "Partial",
+   "verdict_summary": "Political pressure on AI safety institutions is real and worth watching, but declaring oversight dead ignores the robust private-sector, international, and legislative safety infrastructure that exists independently of any single administration.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The political effort to weaken or redirect AI safety advocacy in the United States is documented and not trivial. The AI Safety Institute housed within NIST, executive orders on AI oversight, and the influence of safety-focused researchers in federal advisory roles are all genuinely at risk under an administration hostile to what it characterizes as regulatory overreach. Personnel and funding decisions at federal agencies have real downstream effects on standards-setting, procurement rules, and international negotiating positions. Anyone who cares about responsible AI development should pay close attention to these institutional changes.",
+   "what_data_shows": "U.S. federal oversight is one layer of a multilayered global governance structure. The EU AI Act \u2014 now in enforcement phase \u2014 applies to any AI system deployed to EU citizens regardless of where the developer is headquartered, directly binding OpenAI, Google, Microsoft, and Meta. The UK's AI Safety Institute and its counterpart in Japan operate independently of U.S. policy. Domestically, all major frontier AI labs \u2014 OpenAI, Anthropic, Google DeepMind, and Microsoft \u2014 have signed voluntary commitments to third-party safety evaluations, red-teaming disclosures, and incident reporting. Anthropic alone has published over 30 peer-reviewed safety research papers since 2023. The fired OpenAI employees' plea to preserve chain-of-thought monitoring is itself evidence that safety culture exists and is contested from within \u2014 which is how healthy institutions work.",
+   "bigger_picture": "The narrative that sidelining a handful of federal advocates ends AI safety oversight fundamentally misreads where the center of gravity in AI governance sits. Market incentives, liability exposure, international regulatory compliance, and reputational risk all independently pressure companies toward safety investment regardless of Washington's posture. The more accurate concern is that weakened U.S. federal engagement cedes standard-setting influence to Brussels and Beijing \u2014 a geopolitical problem, not a safety vacuum. The right response is engagement and accountability, not catastrophism that discourages the very public participation needed to hold institutions accountable.",
+   "data_points": [
+    {
+     "n": "EU AI Act",
+     "l": "Applies to all AI systems serving EU users regardless of developer's home country \u2014 fully binding on U.S. labs"
+    },
+    {
+     "n": "30+",
+     "l": "Peer-reviewed AI safety papers published by Anthropic alone since 2023"
+    },
+    {
+     "n": "4",
+     "l": "Major U.S. frontier labs (OpenAI, Google, Microsoft, Anthropic) with signed voluntary third-party evaluation commitments"
+    }
+   ],
+   "tags": [
+    "ai-governance",
+    "policy",
+    "safety",
+    "regulation",
+    "federal-oversight"
+   ],
+   "generated": "2026-10-09T12:53:42.701125+00:00",
+   "auto": true
+  },
   {
    "claim": "ChatGPT is an unacceptable risk for teenagers and should not be used by minors at all",
    "verdict": "Misleading",
@@ -1469,102 +1567,6 @@
     "regulation"
    ],
    "generated": "2026-10-04T05:09:26.697432+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Nuclear waste is so dangerous and unsolvable that even talking about new disposal startups is irresponsible hype.",
-   "verdict": "Busted",
-   "verdict_summary": "Deep borehole disposal technology is a scientifically credible, actively funded approach to nuclear waste \u2014 and directional drilling breakthroughs make it more viable than ever.",
-   "tag": "safety",
-   "icon": "\u269b\ufe0f",
-   "what_is_true": "Nuclear waste disposal is a genuine, unresolved challenge. The United States has approximately 90,000 metric tons of spent nuclear fuel with no permanent repository \u2014 Yucca Mountain has been stalled for decades by political opposition, not scientific inadequacy. Public skepticism about nuclear waste solutions is earned by a history of regulatory paralysis and incomplete promises. Anyone claiming nuclear waste is already solved is wrong, and communities near proposed storage sites have legitimate concerns about long-term risk.",
-   "what_data_shows": "Deep borehole disposal \u2014 drilling 3 to 5 kilometers into stable geological formations \u2014 is backed by peer-reviewed research from institutions including Sandia National Laboratories and the DOE. The innovation highlighted by Gizmodo applies directional drilling techniques perfected by the oil and gas industry, which has drilled millions of kilometers of horizontal and angled wells with extraordinary precision. The DOE's own deep borehole field test program has validated the geological containment logic. This is not fringe science. It is established geophysics being applied with new engineering tools.",
-   "bigger_picture": "The real story here is that nuclear waste \u2014 long treated as an immovable political and engineering problem \u2014 is now attracting serious startup capital and cross-industry engineering talent because the tools to solve it have matured. The same directional drilling revolution that unlocked US shale production can be redirected toward one of civilization's most important containment challenges. Dismissing this as hype misses the moment: advanced nuclear energy is experiencing a global renaissance, and solving the waste question is the final political unlock that makes public acceptance of new reactors possible.",
-   "data_points": [
-    {
-     "n": "90,000 metric tons",
-     "l": "of spent nuclear fuel currently in temporary storage across the US, awaiting a permanent disposal solution"
-    },
-    {
-     "n": "3-5 kilometers",
-     "l": "target depth for deep borehole disposal, placing waste in geologically stable rock far below groundwater systems"
-    },
-    {
-     "n": "$900M+",
-     "l": "committed to advanced nuclear startups in 2023-2024 alone, reflecting serious institutional confidence in next-generation nuclear solutions"
-    }
-   ],
-   "tags": [
-    "nuclear",
-    "waste-disposal",
-    "energy-innovation"
-   ],
-   "generated": "2026-10-04T05:09:26.697432+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Data centers are secretive operations hiding their environmental and community impact behind NDAs \u2014 companies only come clean when forced to.",
-   "verdict": "Misleading",
-   "verdict_summary": "NDA use in data center siting has been real, but the industry is actively moving toward transparency, with Amazon's voluntary policy shift being the latest signal.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "The concern is legitimate: data centers have historically used non-disclosure agreements with local governments to obscure land purchases, water usage, energy consumption, and community impact. The Kevin O'Leary Utah debacle \u2014 in which residents and officials were kept in the dark about a proposed facility's true footprint \u2014 is a documented, real-world example of how opacity in this industry erodes public trust and democratic accountability. Critics who say the sector has a transparency problem are not wrong to raise it.",
-   "what_data_shows": "Amazon's announcement that it will stop requiring NDAs for data center projects is a voluntary, proactive policy change \u2014 not a court-ordered concession. It follows a broader industry trend: the EU's Energy Efficiency Directive now mandates that data centers above 500kW report energy use, water consumption, and waste heat metrics publicly. In the US, states including Virginia and Georgia have passed or are advancing data center disclosure legislation. The Uptime Institute's 2024 Global Data Center Survey found that 61% of operators now publish at least partial sustainability metrics, up from 38% in 2020.",
-   "bigger_picture": "The narrative that tech companies only act under duress misses the competitive and reputational pressures now driving transparency from within the industry. Hyperscalers like Google, Microsoft, and Amazon compete on sustainability credentials with institutional investors, municipal governments, and enterprise clients who demand disclosure. The trajectory is clearly toward more openness, not less \u2014 and Amazon's NDA reversal, combined with tightening regulatory frameworks on both sides of the Atlantic, means the era of opaque data center siting is ending on multiple fronts simultaneously.",
-   "data_points": [
-    {
-     "n": "61%",
-     "l": "of data center operators now publish at least partial sustainability metrics, per Uptime Institute 2024"
-    },
-    {
-     "n": "500kW",
-     "l": "EU threshold above which data centers must publicly report energy and water usage under the Energy Efficiency Directive"
-    },
-    {
-     "n": "38% \u2192 61%",
-     "l": "Jump in operators publishing sustainability data from 2020 to 2024, a 23-point increase in four years"
-    }
-   ],
-   "tags": [
-    "transparency",
-    "energy",
-    "data-centers",
-    "regulation"
-   ],
-   "generated": "2026-10-03T20:49:45.276617+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI is making gambling more predatory and addictive \u2014 DraftKings is using AI to target vulnerable people and regulators can't keep up.",
-   "verdict": "Partial",
-   "verdict_summary": "The concern about AI-driven personalization in gambling promotions is credible and under active regulatory scrutiny, but broad claims that oversight is failing overstate the current situation.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "There is a real and serious kernel here. AI-powered behavioral profiling can identify users exhibiting signs of problem gambling and, perversely, some platforms have been accused of using that same data to time promotions for maximum engagement rather than to trigger responsible gambling interventions. The Boston lawsuit against DraftKings and Maine's parallel regulatory watch are not frivolous \u2014 they reflect documented patterns of algorithmic promotion targeting that consumer advocates and academic researchers have flagged since at least 2021. Vulnerable users, including those with prior self-exclusion histories, have reported receiving personalized bonus offers that circumvent their own stated preferences.",
-   "what_data_shows": "Massachusetts opened a formal inquiry into DraftKings' AI-driven promotional systems in 2025, and the Massachusetts Gaming Commission has some of the most stringent operator obligations in the US, including mandatory responsible gambling data reporting. The American Gaming Association's responsible gambling framework, adopted by major operators, requires member companies to use behavioral analytics for harm detection \u2014 the same AI infrastructure now under scrutiny. A 2023 study in the Journal of Behavioral Addictions found that personalized push notifications increased session length by 14% on average, providing the empirical basis regulators are now citing. At least 12 states have updated their sports betting regulations since 2022 to include AI promotional guardrails.",
-   "bigger_picture": "The regulatory apparatus is not asleep \u2014 it is actively catching up to a technology that moved faster than existing frameworks anticipated, which is exactly how evidence-based regulation is supposed to work. The more important story is that the same AI systems capable of targeting vulnerable users are equally capable of identifying and protecting them: Canada's province of Ontario already mandates that operators deploy AI to flag at-risk accounts before promotional outreach occurs. The Boston and Maine cases are likely to accelerate similar requirements in the US, making AI a net positive for harm reduction in gambling if regulators move decisively.",
-   "data_points": [
-    {
-     "n": "14%",
-     "l": "Average increase in gambling session length from personalized push notifications, per Journal of Behavioral Addictions 2023"
-    },
-    {
-     "n": "12+",
-     "l": "US states that have updated sports betting regulations to include AI promotional guardrails since 2022"
-    },
-    {
-     "n": "2025",
-     "l": "Year Massachusetts Gaming Commission opened formal inquiry into DraftKings' AI promotional targeting systems"
-    }
-   ],
-   "tags": [
-    "safety",
-    "gambling",
-    "AI",
-    "regulation",
-    "consumer-protection"
-   ],
-   "generated": "2026-10-03T20:49:45.276617+00:00",
    "auto": true
   }
  ]
