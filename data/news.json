@@ -1,9 +1,107 @@
 {
- "updated": "2026-10-10T05:10:27.077087+00:00",
+ "updated": "2026-10-10T12:11:42.866754+00:00",
  "items": [
   {
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "url": "https://openai.com/index/sophos",
+   "title": "GlobalFoundries unveils 7nm-class FDX Fusion chip platform with 2028 Dresden manufacturing target",
+   "url": "https://cryptobriefing.com/globalfoundries-7nm-fdx-fusion-chip-platform-2028/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-10-09T12:09:38+00:00"
+  },
+  {
+   "title": "Kioxia Introduces E1.L QLC-based SSDs for Hyperscale Data Centers",
+   "url": "https://en.antaranews.com/news/434829/kioxia-introduces-e1l-qlc-based-ssds-for-hyperscale-data-centers",
+   "source": "Antaranews.com",
+   "category": "compute",
+   "published": "2026-10-09T12:05:45+00:00"
+  },
+  {
+   "title": "AirMatrix Receives Funding to Advance AI-Powered Airspace Intelligence",
+   "url": "https://www.prnewswire.com/news-releases/airmatrix-receives-funding-to-advance-ai-powered-airspace-intelligence-302903098.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-09T12:00:00+00:00"
+  },
+  {
+   "title": "10 Free AI Tools That Replace Expensive Software for Data Scientists",
+   "url": "https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists",
+   "source": "Kdnuggets.com",
+   "category": "ai",
+   "published": "2026-10-09T12:00:00+00:00"
+  },
+  {
+   "title": "Assort Health and Nextech to Codevelop Integrated AI Agent Offering for Ophthalmology Practices",
+   "url": "https://www.prnewswire.com/news-releases/assort-health-and-nextech-to-codevelop-integrated-ai-agent-offering-for-ophthalmology-practices-302903194.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-09T12:00:00+00:00"
+  },
+  {
+   "title": "Nvidia validates Nebius HGX B300 racks for AI cloud training",
+   "url": "https://cryptobriefing.com/nvidia-validates-nebius-hgx-b300-racks/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-10-09T11:57:37+00:00"
+  },
+  {
+   "title": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+   "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+   "source": "Jessewaites.com",
+   "category": "breakthroughs",
+   "published": "2026-10-09T11:36:20+00:00"
+  },
+  {
+   "title": "Google AI turned my ideas into two playable games",
+   "url": "https://www.techradar.com/ai-platforms-assistants/i-made-two-games-with-googles-new-ai-game-generator-without-writing-a-line-of-code-but-would-i-actually-want-to-play-them",
+   "source": "TechRadar",
+   "category": "ai",
+   "published": "2026-10-09T11:22:46+00:00"
+  },
+  {
+   "title": "Ultra raises $62 million for fast-growing \u2018robots as a service\u2019 business, announces tie-up with AI research firm Physical Intelligence",
+   "url": "https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-intelligence/",
+   "source": "Fortune",
+   "category": "robotics",
+   "published": "2026-10-09T10:33:05+00:00"
+  },
+  {
+   "title": "Kioxia unveils E1.L SSDs for hyperscalers with up to 122.88TB capacity",
+   "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-unveils-e1-l-ssds-for-hyperscalers-with-up-to-122-88tb-capacity-extreme-density-meets-compact-form-factor",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-10-09T10:30:00+00:00"
+  },
+  {
+   "title": "China\u2019s Xpeng targets overseas robotaxi trials next year, wider rollout in 2 to 3 years",
+   "url": "https://www.channelnewsasia.com/business/xpeng-robotaxis-yoyo-humanoid-robots-iron-brian-gu-interview-6445751",
+   "source": "CNA",
+   "category": "robotics",
+   "published": "2026-10-09T10:17:51+00:00"
+  },
+  {
+   "title": "Breakdown of the Kerr-Cat Qubit Tunneling Time Induced by Auxiliary Circuit Modes",
+   "url": "https://link.aps.org/doi/10.1103/z8jm-q289",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-09T10:00:00+00:00"
+  },
+  {
+   "title": "Conversational diagnostic artificial intelligence in ambulatory primary care: a prospective feasibility study - The Lancet",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186078638",
+   "source": "Slashdot.org",
+   "category": "health",
+   "published": "2026-10-09T09:52:34+00:00"
+  },
+  {
+   "title": "XPENG Takes on UNECE Role to Advance Global Collaboration on Automated Driving",
+   "url": "https://www.prnewswire.com/news-releases/xpeng-takes-on-unece-role-to-advance-global-collaboration-on-automated-driving-302903398.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-09T09:00:00+00:00"
+  },
+  {
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "url": "https://openai.com/index/asana-browser-agent",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-10-09T07:00:00+00:00"
@@ -49,13 +147,6 @@
    "source": "The Punch",
    "category": "health",
    "published": "2026-10-09T00:09:11+00:00"
-  },
-  {
-   "title": "Order from chaos with adaptive circuits on quantum hardware",
-   "url": "https://www.nature.com/articles/s41567-026-03470-6",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-10-09T00:00:00+00:00"
   },
   {
    "title": "Proteome-guided drug discovery maps and mitigates therapeutic degrader toxicity",
@@ -157,6 +248,13 @@
   },
   {
    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "source": "Nvidia.com",
+   "category": "ai",
+   "published": "2026-10-08T21:06:35+00:00"
+  },
+  {
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
    "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
    "source": "Nvidia.com",
    "category": "ai",
@@ -184,6 +282,13 @@
    "published": "2026-10-08T19:56:14+00:00"
   },
   {
+   "title": "The most exciting claims from OpenAI\u2019s heap of new proofs",
+   "url": "https://www.scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs/",
+   "source": "Scientific American",
+   "category": "ai",
+   "published": "2026-10-08T19:30:00+00:00"
+  },
+  {
    "title": "Apodex Opens Free AI Computing Services to Accelerate Drug Research",
    "url": "https://www.prnewswire.com/news-releases/apodex-opens-free-ai-computing-services-to-accelerate-drug-research-302902784.html",
    "source": "PRNewswire",
@@ -191,11 +296,12 @@
    "published": "2026-10-08T17:25:00+00:00"
   },
   {
-   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-   "url": "https://openai.com/index/oracle",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-08T16:00:00+00:00"
+   "title": "Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+",
+   "url": "https://siliconangle.com/2026/10/08/oratomic-raises-475m-for-neutral-atom-quantum-computing-universal-quantum-nets-100m/",
+   "source": "SiliconANGLE News",
+   "category": "quantum",
+   "published": "2026-10-08T15:35:43+00:00",
+   "breakthrough": true
   },
   {
    "title": "Rally Up: \u2018Gears of War: E-Day\u2019 Launches on GeForce NOW",
@@ -203,6 +309,13 @@
    "source": "NVIDIA",
    "category": "ai",
    "published": "2026-10-08T13:00:46+00:00"
+  },
+  {
+   "title": "DARPA moves Atom Computing, IBM, IonQ and Diraq to final quantum test stage",
+   "url": "https://thenextweb.com/news/darpa-quantum-computer-atom-computing-ibm-ionq-diraq-stage-c",
+   "source": "The Next Web",
+   "category": "quantum",
+   "published": "2026-10-08T12:56:38+00:00"
   },
   {
    "title": "Show HN: Gauze fixes (some) open-weight LLM deficiencies",
@@ -317,8 +430,8 @@
    "published": "2026-10-08T12:19:22+00:00"
   },
   {
-   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-   "url": "https://openai.com/index/pollo-ai",
+   "title": "LegalOn halves Codex costs while maintaining development speed",
+   "url": "https://openai.com/index/legalon-halves-codex-costs",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-10-08T12:00:00+00:00"
@@ -434,13 +547,6 @@
    "source": "PCMag.com",
    "category": "ai",
    "published": "2026-10-08T04:24:34+00:00"
-  },
-  {
-   "title": "Using AI to mitigate the growing environmental threat of data centers",
-   "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
-   "source": "MIT News AI",
-   "category": "compute",
-   "published": "2026-10-08T04:00:00+00:00"
   },
   {
    "title": "AI companies run virtual human drug trials, aim to improve success of human studies",
@@ -569,6 +675,13 @@
    "published": "2026-10-07T21:46:03+00:00"
   },
   {
+   "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-07T18:45:28+00:00"
+  },
+  {
    "title": "Data Center Virtualization Market to Reach $60.90 Billion by 2035 as Multi-Hypervisor and Kubernetes-Native Adoption Reshape Enterprise Infrastructure",
    "url": "https://www.prnewswire.com/news-releases/data-center-virtualization-market-to-reach-60-90-billion-by-2035-as-multi-hypervisor-and-kubernetes-native-adoption-reshape-enterprise-infrastructure-302901513.html",
    "source": "PRNewswire",
@@ -602,6 +715,13 @@
    "source": "Biztoc.com",
    "category": "ai",
    "published": "2026-10-07T17:29:44+00:00"
+  },
+  {
+   "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+   "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-10-07T16:00:00+00:00"
   },
   {
    "title": "Show HN: 3D-printed bipedal robot with 8-servo limit to teach robotics",
@@ -744,13 +864,6 @@
    "published": "2026-10-07T12:17:03+00:00"
   },
   {
-   "title": "Helping teens learn, plan, and shape the future of AI",
-   "url": "https://openai.com/index/teens-learn-and-plan",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-07T12:00:00+00:00"
-  },
-  {
    "title": "Gemini Health Partners Launches AI RCM Advisory Built on Real Adjudicated Claims Data for High-Cost Specialties",
    "url": "https://www.prnewswire.com/news-releases/gemini-health-partners-launches-ai-rcm-advisory-built-on-real-adjudicated-claims-data-for-high-cost-specialties-302900474.html",
    "source": "PRNewswire",
@@ -784,13 +897,6 @@
    "source": "Aps.org",
    "category": "quantum",
    "published": "2026-10-07T10:00:00+00:00"
-  },
-  {
-   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-   "url": "https://openai.com/index/radisson",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-07T07:00:00+00:00"
   },
   {
    "title": "agents-fleet 0.5.0",
@@ -1017,13 +1123,6 @@
    "published": "2026-10-06T20:10:00+00:00"
   },
   {
-   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-10-06T19:57:04+00:00"
-  },
-  {
    "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
    "source": "Amazon.com",
@@ -1078,13 +1177,6 @@
    "source": "Plos.org",
    "category": "health",
    "published": "2026-10-06T14:00:00+00:00"
-  },
-  {
-   "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-   "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-06T13:00:19+00:00"
   },
   {
    "title": "JPMorgan tops the Evident AI Index for the fifth straight year",
@@ -34909,97 +35001,6 @@
    "source": "Crypto Briefing",
    "category": "ai",
    "published": "2026-07-15T19:00:18+00:00"
-  },
-  {
-   "title": "ZTE's AI new calling builds an open and intelligent telecom ecosystem, transforming from basic voice call to an AI-powered service hub",
-   "url": "https://www.theregister.com/networks/2026/07/15/ztes-ai-new-calling-builds-an-open-and-intelligent-telecom-ecosystem-transforming-from-basic-voice-call-to-an-ai-powered-service-hub/5272114",
-   "source": "Theregister.com",
-   "category": "ai",
-   "published": "2026-07-15T19:00:07+00:00"
-  },
-  {
-   "title": "Amazon Stock Rises After CEO Says AI Chip Demand Is Booming",
-   "url": "https://biztoc.com/x/3520b345b65ff815",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-15T18:57:18+00:00"
-  },
-  {
-   "title": "Murati\u2019s Thinking Machines releases first AI model for broad use",
-   "url": "https://fortune.com/2026/07/15/what-is-mira-murati-thinking-machines-first-ai-model-inkling/",
-   "source": "Fortune",
-   "category": "ai",
-   "published": "2026-07-15T18:46:50+00:00"
-  },
-  {
-   "title": "NVIDIA And SEGA Renew 30-Year Partnership To Power Games On RTX Spark",
-   "url": "https://hothardware.com/news/nvidia-sega-30-year-partnership-rtx-spark",
-   "source": "Hot Hardware",
-   "category": "compute",
-   "published": "2026-07-15T18:45:00+00:00"
-  },
-  {
-   "title": "Designing the AI-Enabled Life Sciences Workforce Summit Europe",
-   "url": "https://www.news-medical.net/suppliers/Designing-the-AI-Enabled-Life-Sciences-Workforce-Summit-Europe.aspx",
-   "source": "News-Medical.Net",
-   "category": "health",
-   "published": "2026-07-15T18:16:58+00:00"
-  },
-  {
-   "title": "Neko Health raises $700M at nearly $7bn and heads to New York",
-   "url": "https://thenextweb.com/news/neko-health-700m-series-c-us-expansion/",
-   "source": "The Next Web",
-   "category": "health",
-   "published": "2026-07-15T18:05:25+00:00"
-  },
-  {
-   "title": "Sinopia Biosciences Publishes Preclinical Data in Science Translational Medicine Supporting SB-0110, a Novel PKA-II Modulator, for Parkinson's Disease",
-   "url": "https://www.globenewswire.com/news-release/2026/07/15/3328046/0/en/Sinopia-Biosciences-Publishes-Preclinical-Data-in-Science-Translational-Medicine-Supporting-SB-0110-a-Novel-PKA-II-Modulator-for-Parkinson-s-Disease.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-15T18:00:00+00:00"
-  },
-  {
-   "title": "Serving multilingual patient populations with translation, security and trust",
-   "url": "https://insights.samsung.com/2026/07/15/serving-multilingual-patient-populations-with-translation-security-and-trust/",
-   "source": "Samsung.com",
-   "category": "health",
-   "published": "2026-07-15T17:23:19+00:00"
-  },
-  {
-   "title": "AI test predicts breast cancer\u2019s return",
-   "url": "https://www.futurity.org/ai-test-breast-cancer-recurrence-3340212/",
-   "source": "Futurity: Research News",
-   "category": "health",
-   "published": "2026-07-15T17:16:35+00:00"
-  },
-  {
-   "title": "Emergent hits a $1.5bn valuation as vibe coding mints another unicorn",
-   "url": "https://thenextweb.com/news/emergent-130m-series-c-vibe-coding-unicorn/",
-   "source": "The Next Web",
-   "category": "ai",
-   "published": "2026-07-15T17:13:16+00:00"
-  },
-  {
-   "title": "Datadog Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 For Observability Platforms For Sixth Consecutive Year",
-   "url": "https://www.globenewswire.com/news-release/2026/07/15/3328024/0/en/Datadog-Named-a-Leader-in-the-2026-Gartner-Magic-Quadrant-For-Observability-Platforms-For-Sixth-Consecutive-Year.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-15T17:13:00+00:00"
-  },
-  {
-   "title": "Society Insider: Wilhelmina and Ben O\u2019Keeffe launch longevity and wellness clinic in Auckland",
-   "url": "https://www.nzherald.co.nz/lifestyle/society-insider-wilhelmina-and-ben-okeeffe-launch-longevity-and-wellness-clinic-in-auckland/premium/TAPRN3ELJBBRNLKVYT7ON4EQYU/",
-   "source": "New Zealand Herald",
-   "category": "health",
-   "published": "2026-07-15T17:00:00+00:00"
-  },
-  {
-   "title": "Global AI in Pathology Market Poised for Phenomenal Expansion at a CAGR of ~25% by 2034 | DelveInsight",
-   "url": "https://www.globenewswire.com/news-release/2026/07/15/3328014/0/en/Global-AI-in-Pathology-Market-Poised-for-Phenomenal-Expansion-at-a-CAGR-of-25-by-2034-DelveInsight.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-15T17:00:00+00:00"
   }
  ]
 }
