@@ -1,6 +1,91 @@
 {
- "updated": "2026-10-10T12:11:42.866754+00:00",
+ "updated": "2026-10-10T21:23:45.223194+00:00",
  "items": [
+  {
+   "title": "Meet Diogo Almeida, former OpenAI researcher behind Jev, an AI model designed to deliver structured answers, scores and yes-or-no decisions",
+   "url": "https://economictimes.indiatimes.com/world/business/meet-diogo-almeida-former-openai-researcher-behind-jev-an-ai-model-designed-to-deliver-structured-answers-scores-and-yes-or-no-decisions/articleshow/134842499.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-10-09T21:15:23+00:00"
+  },
+  {
+   "title": "Vitalize Secures $31 Million to Address Healthcare\u2019s Staffing Chaos",
+   "url": "https://biztoc.com/x/aacf52937d376096",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-10-09T20:59:06+00:00"
+  },
+  {
+   "title": "Did Claude Help an Amateur Astronomer Discover a New Planet?",
+   "url": "https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393",
+   "source": "Gizmodo.com",
+   "category": "ai",
+   "published": "2026-10-09T20:55:09+00:00"
+  },
+  {
+   "title": "She Grew Up on Food Stamps and Started a Hedge Fund at MIT. Now Her 8-Figure Startup Counts Nvidia and OpenAI as Clients.",
+   "url": "https://www.entrepreneur.com/building-a-business/she-grew-up-on-food-stamps-how-she-built-a-million-dollar-company",
+   "source": "Entrepreneur",
+   "category": "ai",
+   "published": "2026-10-09T20:54:16+00:00"
+  },
+  {
+   "title": "Fisk Electric wins $24M modular contract for Houston data center",
+   "url": "https://biztoc.com/x/185bf3d5a177193e",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-10-09T20:46:33+00:00"
+  },
+  {
+   "title": "Absolute Security Acquires Phoenix Technologies\u2019 FirmGuard to Build on the Firmware Foundation Enterprises Need for Secure, Compliant, and Resilient AI",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/absolute-security-acquires-phoenix-technologies-firmguard-to-build-on-the-firmware-foundation-enterprises-need-for-secure-compliant-and-resilient-ai",
+   "source": "Financial Post",
+   "category": "compute",
+   "published": "2026-10-09T20:43:54+00:00"
+  },
+  {
+   "title": "Goldman Sachs data shows AI model costs fell as fast in three years as PC prices did in 15",
+   "url": "https://cryptobriefing.com/goldman-sachs-ai-model-costs-pc-prices/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-10-09T20:34:46+00:00"
+  },
+  {
+   "title": "Meet Pavan Subramani, the 17-year-old Indian-American West Virginia teen whose AI method sampled key molecular configurations 68 times more efficiently, earning a $25,000 Davidson scholarship",
+   "url": "https://timesofindia.indiatimes.com/science/discovery/meet-pavan-subramani-the-17-year-old-indian-american-west-virginia-teen-whose-ai-method-sampled-key-molecular-configurations-68-times-more-efficiently-earning-a-25000-davidson-scholarship/articleshow/134842430.cms",
+   "source": "The Times of India",
+   "category": "breakthroughs",
+   "published": "2026-10-09T20:02:52+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "AI Might Be Coming To An Urgent Care Clinic Near You, New Study Suggests",
+   "url": "https://dailycaller.com/2026/10/09/amie-ai-chatbot-urgent-care-clinics-study-lancet",
+   "source": "The Daily Caller",
+   "category": "health",
+   "published": "2026-10-09T19:10:45+00:00"
+  },
+  {
+   "title": "AI chatbot could help doctors review symptoms before patients arrive, study finds | The Eastleigh Voice",
+   "url": "https://eastleighvoice.co.ke/health/410394/ai-chatbot-could-help-doctors-review-symptoms-before-patients-arrive-study-finds",
+   "source": "Eastleighvoice.co.ke",
+   "category": "health",
+   "published": "2026-10-09T18:39:49+00:00"
+  },
+  {
+   "title": "\u2018I use AI to do the things that I\u2019m bad at\u2019: Linus Torvalds on why it works for him",
+   "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
+   "source": "ZDNet",
+   "category": "ai",
+   "published": "2026-10-09T17:53:18+00:00"
+  },
+  {
+   "title": "IBM Moves to DARPA Quantum Benchmarking Initiative Stage C, Putting Its Starling Hardware Under Test",
+   "url": "https://www.storagereview.com/news/ibm-darpa-quantum-benchmarking-initiative-stage-c",
+   "source": "Storagereview.com",
+   "category": "quantum",
+   "published": "2026-10-09T16:33:01+00:00"
+  },
   {
    "title": "GlobalFoundries unveils 7nm-class FDX Fusion chip platform with 2028 Dresden manufacturing target",
    "url": "https://cryptobriefing.com/globalfoundries-7nm-fdx-fusion-chip-platform-2028/",
@@ -100,8 +185,8 @@
    "published": "2026-10-09T09:00:00+00:00"
   },
   {
-   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "url": "https://openai.com/index/asana-browser-agent",
+   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "url": "https://openai.com/index/sophos",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-10-09T07:00:00+00:00"
@@ -147,6 +232,13 @@
    "source": "The Punch",
    "category": "health",
    "published": "2026-10-09T00:09:11+00:00"
+  },
+  {
+   "title": "Order from chaos with adaptive circuits on quantum hardware",
+   "url": "https://www.nature.com/articles/s41567-026-03470-6",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-10-09T00:00:00+00:00"
   },
   {
    "title": "Proteome-guided drug discovery maps and mitigates therapeutic degrader toxicity",
@@ -248,13 +340,6 @@
   },
   {
    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "source": "Nvidia.com",
-   "category": "ai",
-   "published": "2026-10-08T21:06:35+00:00"
-  },
-  {
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
    "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
    "source": "Nvidia.com",
    "category": "ai",
@@ -296,12 +381,18 @@
    "published": "2026-10-08T17:25:00+00:00"
   },
   {
+   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+   "url": "https://openai.com/index/oracle",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-08T16:00:00+00:00"
+  },
+  {
    "title": "Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+",
    "url": "https://siliconangle.com/2026/10/08/oratomic-raises-475m-for-neutral-atom-quantum-computing-universal-quantum-nets-100m/",
    "source": "SiliconANGLE News",
    "category": "quantum",
-   "published": "2026-10-08T15:35:43+00:00",
-   "breakthrough": true
+   "published": "2026-10-08T15:35:43+00:00"
   },
   {
    "title": "Rally Up: \u2018Gears of War: E-Day\u2019 Launches on GeForce NOW",
@@ -430,8 +521,8 @@
    "published": "2026-10-08T12:19:22+00:00"
   },
   {
-   "title": "LegalOn halves Codex costs while maintaining development speed",
-   "url": "https://openai.com/index/legalon-halves-codex-costs",
+   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+   "url": "https://openai.com/index/pollo-ai",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-10-08T12:00:00+00:00"
@@ -547,6 +638,13 @@
    "source": "PCMag.com",
    "category": "ai",
    "published": "2026-10-08T04:24:34+00:00"
+  },
+  {
+   "title": "Using AI to mitigate the growing environmental threat of data centers",
+   "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
+   "source": "MIT News AI",
+   "category": "compute",
+   "published": "2026-10-08T04:00:00+00:00"
   },
   {
    "title": "AI companies run virtual human drug trials, aim to improve success of human studies",
@@ -675,13 +773,6 @@
    "published": "2026-10-07T21:46:03+00:00"
   },
   {
-   "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-07T18:45:28+00:00"
-  },
-  {
    "title": "Data Center Virtualization Market to Reach $60.90 Billion by 2035 as Multi-Hypervisor and Kubernetes-Native Adoption Reshape Enterprise Infrastructure",
    "url": "https://www.prnewswire.com/news-releases/data-center-virtualization-market-to-reach-60-90-billion-by-2035-as-multi-hypervisor-and-kubernetes-native-adoption-reshape-enterprise-infrastructure-302901513.html",
    "source": "PRNewswire",
@@ -715,13 +806,6 @@
    "source": "Biztoc.com",
    "category": "ai",
    "published": "2026-10-07T17:29:44+00:00"
-  },
-  {
-   "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-   "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-10-07T16:00:00+00:00"
   },
   {
    "title": "Show HN: 3D-printed bipedal robot with 8-servo limit to teach robotics",
@@ -897,6 +981,13 @@
    "source": "Aps.org",
    "category": "quantum",
    "published": "2026-10-07T10:00:00+00:00"
+  },
+  {
+   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "url": "https://openai.com/index/radisson",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-07T07:00:00+00:00"
   },
   {
    "title": "agents-fleet 0.5.0",
@@ -34910,97 +35001,6 @@
    "source": "GlobeNewswire",
    "category": "health",
    "published": "2026-07-15T21:00:00+00:00"
-  },
-  {
-   "title": "Rakovina Therapeutics Announces $1.5 Million Private Placement",
-   "url": "https://financialpost.com/globe-newswire/rakovina-therapeutics-announces-1-5-million-private-placement",
-   "source": "Financial Post",
-   "category": "health",
-   "published": "2026-07-15T20:33:46+00:00"
-  },
-  {
-   "title": "An OpenAI researcher is leaving to build a $2bn AI drug startup that has no name yet",
-   "url": "https://thenextweb.com/news/miles-wang-openai-ai-drug-discovery-startup/",
-   "source": "The Next Web",
-   "category": "ai",
-   "published": "2026-07-15T20:33:30+00:00"
-  },
-  {
-   "title": "Show HN: OpenClaw for Your Health",
-   "url": "https://www.withmurph.ai",
-   "source": "Withmurph.ai",
-   "category": "health",
-   "published": "2026-07-15T20:02:38+00:00"
-  },
-  {
-   "title": "jax-morpho 0.1.0",
-   "url": "https://pypi.org/project/jax-morpho/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-15T19:18:21+00:00"
-  },
-  {
-   "title": "jax-morpho added to PyPI",
-   "url": "https://pypi.org/project/jax-morpho/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-15T19:18:16+00:00"
-  },
-  {
-   "title": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin \u2014 company says that 'our roadmap is intact'",
-   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184471624",
-   "source": "Slashdot.org",
-   "category": "compute",
-   "published": "2026-07-15T19:13:44+00:00"
-  },
-  {
-   "title": "Supermicro Expands DCBBS Liquid Cooling With Ten Rear Door Heat Exchangers Up to 120kW",
-   "url": "https://www.storagereview.com/news/supermicro-expands-dcbbs-liquid-cooling-with-ten-rear-door-heat-exchangers-up-to-120kw",
-   "source": "Storagereview.com",
-   "category": "compute",
-   "published": "2026-07-15T19:12:41+00:00"
-  },
-  {
-   "title": "ASML Keeps Raising Its Sales Forecast. Here's What Comes Next for ASML Stock",
-   "url": "https://biztoc.com/x/03595c470b3c3957",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-15T19:10:52+00:00"
-  },
-  {
-   "title": "llmkb 0.1.0",
-   "url": "https://pypi.org/project/llmkb/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-15T19:03:50+00:00"
-  },
-  {
-   "title": "llmkb added to PyPI",
-   "url": "https://pypi.org/project/llmkb/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-15T19:03:43+00:00"
-  },
-  {
-   "title": "krish-agent added to PyPI",
-   "url": "https://pypi.org/project/krish-agent/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-15T19:02:48+00:00"
-  },
-  {
-   "title": "tensor-grep 1.76.9",
-   "url": "https://pypi.org/project/tensor-grep/1.76.9/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-15T19:01:15+00:00"
-  },
-  {
-   "title": "Thinking Machines unveils Inkling, its first open model, after 18 months of stealth building",
-   "url": "https://cryptobriefing.com/thinking-machines-inkling-open-model-launch/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-07-15T19:00:18+00:00"
   }
  ]
 }
