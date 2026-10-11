@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-11T12:25:48.740283+00:00",
+ "updated": "2026-10-11T21:41:43.025263+00:00",
  "items": [
+  {
+   "title": "kaizen-ai added to PyPI",
+   "url": "https://pypi.org/project/kaizen-ai/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-10T21:39:30+00:00"
+  },
+  {
+   "title": "llm-spendguard 0.12.16",
+   "url": "https://pypi.org/project/llm-spendguard/0.12.16/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-10T21:28:58+00:00"
+  },
+  {
+   "title": "Blue Origin Plans $554.8 Million Hutto Campus And 2,000 Jobs",
+   "url": "https://freerepublic.com/focus/f-bloggers/4398728/posts",
+   "source": "Freerepublic.com",
+   "category": "robotics",
+   "published": "2026-10-10T21:23:53+00:00"
+  },
+  {
+   "title": "py-agentbrake 0.3.4",
+   "url": "https://pypi.org/project/py-agentbrake/0.3.4/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-10T20:50:25+00:00"
+  },
+  {
+   "title": "Nvidia may buy or invest further in AI startup Reflection",
+   "url": "https://biztoc.com/x/222d37e2a1e0ef31",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-10T20:35:41+00:00"
+  },
+  {
+   "title": "Show HN: prx \u2013 Automated PR Reviews in macOS Menu Bar",
+   "url": "https://github.com/vs4vijay/prx",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-10T20:27:34+00:00"
+  },
+  {
+   "title": "Show HN: Tutor, a self-hosted LLM tutor that teaches you your books or docs",
+   "url": "https://github.com/demetrius-edelin/tutor",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-10T20:23:47+00:00"
+  },
+  {
+   "title": "AI reshapes professional services around trust and business outcomes",
+   "url": "https://siliconangle.com/2026/10/10/human-judgment-ai-professional-services-certinia/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-10T20:22:06+00:00"
+  },
+  {
+   "title": "Robots That Stock Shelves & Speak 20 Languages Could Arrive in Japan in 2027",
+   "url": "https://news.sankakucomplex.com/n/KEcHrF7n7M-w5V5Y-HU5sg",
+   "source": "Sankakucomplex.com",
+   "category": "robotics",
+   "published": "2026-10-10T19:11:53+00:00"
+  },
+  {
+   "title": "ai-chip-integrity added to PyPI",
+   "url": "https://pypi.org/project/ai-chip-integrity/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-10T16:52:53+00:00"
+  },
+  {
+   "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+   "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+   "source": "Popvax.com",
+   "category": "health",
+   "published": "2026-10-10T15:10:24+00:00"
+  },
+  {
+   "title": "Tesla\u2019s Digital Optimus shows progress in gaming skills, from Diablo to Counter-Strike",
+   "url": "https://cryptobriefing.com/tesla-digital-optimus-gaming-progress/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-10-10T14:29:36+00:00"
+  },
   {
    "title": "New Phoenix Scholar issue examining AI, institutional trust and the future of work published by University of Phoenix College of Doctoral Studies",
    "url": "https://www.prnewswire.com/news-releases/new-phoenix-scholar-issue-examining-ai-institutional-trust-and-the-future-of-work-published-by-university-of-phoenix-college-of-doctoral-studies-302903933.html",
@@ -56,6 +140,27 @@
    "source": "SiliconANGLE News",
    "category": "compute",
    "published": "2026-10-10T00:47:34+00:00"
+  },
+  {
+   "title": "Entanglement-assisted coherent control for deterministic quantum gate teleportation",
+   "url": "https://www.nature.com/articles/s41598-026-72492-0.pdf",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-10-10T00:00:00+00:00"
+  },
+  {
+   "title": "Twisted superconducting quantum diodes for high fidelity anharmonic qubits",
+   "url": "https://www.nature.com/articles/s41467-026-78376-1.pdf",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-10-10T00:00:00+00:00"
+  },
+  {
+   "title": "Warehouse robot maker Ultra Robotics bags $62M",
+   "url": "https://siliconangle.com/2026/10/09/warehouse-robot-maker-ultra-robotics-bags-62m/",
+   "source": "SiliconANGLE News",
+   "category": "robotics",
+   "published": "2026-10-09T22:57:49+00:00"
   },
   {
    "title": "Meet Diogo Almeida, former OpenAI researcher behind Jev, an AI model designed to deliver structured answers, scores and yes-or-no decisions",
@@ -153,8 +258,7 @@
    "url": "https://www.storagereview.com/news/ibm-darpa-quantum-benchmarking-initiative-stage-c",
    "source": "Storagereview.com",
    "category": "quantum",
-   "published": "2026-10-09T16:33:01+00:00",
-   "breakthrough": true
+   "published": "2026-10-09T16:33:01+00:00"
   },
   {
    "title": "GlobalFoundries unveils 7nm-class FDX Fusion chip platform with 2028 Dresden manufacturing target",
@@ -255,8 +359,8 @@
    "published": "2026-10-09T09:00:00+00:00"
   },
   {
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "url": "https://openai.com/index/sophos",
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "url": "https://openai.com/index/asana-browser-agent",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-10-09T07:00:00+00:00"
@@ -402,11 +506,26 @@
    "published": "2026-10-08T21:30:00+00:00"
   },
   {
+   "title": "3 Questions: What is the best path forward for AI in academia?",
+   "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-08T21:25:00+00:00"
+  },
+  {
    "title": "Pioneer Acquisition I Corp Enters Into Business Combination Agreement with Green AI Cloud, a Clean Energy Super Compute AI Platform in Europe",
    "url": "https://biztoc.com/x/62d4f40dde095f18",
    "source": "Biztoc.com",
    "category": "compute",
    "published": "2026-10-08T21:23:56+00:00"
+  },
+  {
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-08T21:06:35+00:00",
+   "breakthrough": true
   },
   {
    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -451,18 +570,18 @@
    "published": "2026-10-08T17:25:00+00:00"
   },
   {
-   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-   "url": "https://openai.com/index/oracle",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-08T16:00:00+00:00"
-  },
-  {
    "title": "Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+",
    "url": "https://siliconangle.com/2026/10/08/oratomic-raises-475m-for-neutral-atom-quantum-computing-universal-quantum-nets-100m/",
    "source": "SiliconANGLE News",
    "category": "quantum",
    "published": "2026-10-08T15:35:43+00:00"
+  },
+  {
+   "title": "Rally Up: \u2018Gears of War: E-Day\u2019 Launches on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-08T13:00:46+00:00"
   },
   {
    "title": "DARPA moves Atom Computing, IBM, IonQ and Diraq to final quantum test stage",
@@ -584,8 +703,8 @@
    "published": "2026-10-08T12:19:22+00:00"
   },
   {
-   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-   "url": "https://openai.com/index/pollo-ai",
+   "title": "LegalOn halves Codex costs while maintaining development speed",
+   "url": "https://openai.com/index/legalon-halves-codex-costs",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-10-08T12:00:00+00:00"
@@ -701,13 +820,6 @@
    "source": "PCMag.com",
    "category": "ai",
    "published": "2026-10-08T04:24:34+00:00"
-  },
-  {
-   "title": "Using AI to mitigate the growing environmental threat of data centers",
-   "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-08T04:00:00+00:00"
   },
   {
    "title": "AI companies run virtual human drug trials, aim to improve success of human studies",
@@ -34889,118 +35001,6 @@
    "source": "pymnts.com",
    "category": "ai",
    "published": "2026-07-16T08:00:18+00:00"
-  },
-  {
-   "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World\u2019s First National AI Infrastructure",
-   "url": "https://www.globenewswire.com/news-release/2026/07/16/3328258/0/en/Japan-Government-Industrial-Leaders-and-NVIDIA-Launch-the-World-s-First-National-AI-Infrastructure.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-16T08:00:00+00:00"
-  },
-  {
-   "title": "Japan to buy 27,500 Nvidia Rubin chips for AI robotics initiative",
-   "url": "https://cryptobriefing.com/japan-nvidia-rubin-chips-ai-robotics/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-07-16T07:54:01+00:00"
-  },
-  {
-   "title": "India bets \u20b910,000 crore on a leap from generic drugs to biologics",
-   "url": "https://www.livemint.com/industry/india-biopharma-shakti-rs-10000-crore-generic-drugs-biologics-11784174014120.html",
-   "source": "Livemint",
-   "category": "health",
-   "published": "2026-07-16T07:49:37+00:00"
-  },
-  {
-   "title": "Nvidia partners with Japanese robotics firms to advance AI development",
-   "url": "https://cryptobriefing.com/nvidia-japan-robotics-ai-partnerships/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-07-16T07:49:07+00:00"
-  },
-  {
-   "title": "NITI Aayog roadmap targets USD 691 bn bioeconomy by 2035; Jitendra Singh says India ready to lead biotech revolution",
-   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/niti-aayog-roadmap-targets-usd-691-bn-bioeconomy-by-2035-jitendra-singh-says-india-ready-to-lead-biotech-revolution/articleshow/132432899.cms",
-   "source": "The Times of India",
-   "category": "health",
-   "published": "2026-07-16T07:44:00+00:00"
-  },
-  {
-   "title": "Show HN: Trellis2.c \u2013 Local 3D generation with Vulkan and CUDA",
-   "url": "https://github.com/Wimacs/trellis2.c",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-16T07:39:49+00:00"
-  },
-  {
-   "title": "Japanese Firms Increase Focus on Automation and AI",
-   "url": "https://newsonjapan.com/article/149993.php",
-   "source": "Newsonjapan.com",
-   "category": "ai",
-   "published": "2026-07-16T07:39:37+00:00"
-  },
-  {
-   "title": "Mandrake Bio raises Rs 16 crore to build AI-powered gene-editing platform for agriculture, medicine",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mandrake-bio-raises-rs-16-crore-to-build-ai-powered-gene-editing-platform-for-agriculture-medicine/articleshow/132431719.cms",
-   "source": "The Times of India",
-   "category": "health",
-   "published": "2026-07-16T06:43:15+00:00"
-  },
-  {
-   "title": "In July 2026, Cambridge economist Alessio Terzi and colleagues published the largest launch-cost dataset ever assembled \u2014 4,400 rockets flown since 1960 \u2014 and projected that the price of putting a kilogram into orbit will fall from $3,868 last year to $273 by 2040, if the company driving the collapse does not become its own bottleneck",
-   "url": "https://spacedaily.com/sd-in-july-2026-cambridge-economist-alessio-terzi-and-colleagues-published-the-largest-launch-cost-dataset-ever-assembled-4400-rockets-flown-since-1960-and-projected-that-the-pri/",
-   "source": "Space Daily",
-   "category": "breakthroughs",
-   "published": "2026-07-16T05:39:32+00:00"
-  },
-  {
-   "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
-   "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-07-16T04:00:00+00:00"
-  },
-  {
-   "title": "Japan\u2019s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
-   "url": "https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier",
-   "source": "Nvidia.com",
-   "category": "robotics",
-   "published": "2026-07-16T03:40:00+00:00"
-  },
-  {
-   "title": "Hyundai Motor Group to make Boston Dynamics wholly owned with purchase of SoftBank stake",
-   "url": "https://www.channelnewsasia.com/business/hyundai-motor-group-make-boston-dynamics-wholly-owned-purchase-softbank-stake-6257486",
-   "source": "CNA",
-   "category": "robotics",
-   "published": "2026-07-16T03:22:31+00:00"
-  },
-  {
-   "title": "Nvidia doubles down on the land of the rising GPU, wiring Blackwell into Japan's science, banks, factories and cars",
-   "url": "https://www.digitimes.com/news/a20260716VL209/nvidia-blackwell-expansion-supercomputer-software.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-16T02:56:06+00:00"
-  },
-  {
-   "title": "Fleet: Hierarchical Task-Based Abstraction for Megakernels on Multi-Die GPUs",
-   "url": "https://arxiv.org/abs/2604.15379",
-   "source": "Arxiv.org",
-   "category": "compute",
-   "published": "2026-07-16T02:55:19+00:00"
-  },
-  {
-   "title": "Baidu to power AI search for Apple\u2019s Apple Intelligence in China",
-   "url": "http://technode.com/2026/07/16/baidu-to-power-ai-search-for-apples-apple-intelligence-in-china/",
-   "source": "TechNode",
-   "category": "ai",
-   "published": "2026-07-16T02:54:58+00:00"
-  },
-  {
-   "title": "Japan's enterprises and startups adopt Nvidia open models for specialized AI",
-   "url": "https://www.digitimes.com/news/a20260716PR203/nvidia-language-data-technology-software.html",
-   "source": "Digitimes",
-   "category": "ai",
-   "published": "2026-07-16T02:50:42+00:00"
   }
  ]
 }
