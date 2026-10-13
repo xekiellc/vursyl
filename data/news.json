@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-13T13:53:29.327851+00:00",
+ "updated": "2026-10-13T22:27:45.775942+00:00",
  "items": [
   {
-   "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-13T12:00:49+00:00"
+   "title": "How artificial neural networks build their own learning machinery",
+   "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-13T21:00:00+00:00"
   },
   {
-   "title": "From Earth to Orbit, France\u2019s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-   "source": "NVIDIA",
+   "title": "Higgsfield takes AI video from 1 minute to over 10",
+   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-13T05:00:31+00:00"
+   "published": "2026-10-13T12:00:00+00:00"
   },
   {
    "title": "Q&A: Building accountability behind our words \u2014 and AI\u2019s \u2014 in civic conversations",
@@ -21,6 +21,119 @@
    "source": "MIT News AI",
    "category": "ai",
    "published": "2026-10-13T04:00:00+00:00"
+  },
+  {
+   "title": "Google brings AI to billions of consumers: AI Overviews surpasses 2.5 billion monthly users",
+   "url": "https://www.merca20.com/google-brings-ai-to-billions-of-consumers-ai-overviews-surpasses-2-5-billion-monthly-users/",
+   "source": "Merca20.com",
+   "category": "ai",
+   "published": "2026-10-12T22:21:21+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Meta Releases Muse Wonder to Compete With OpenAI and Claude",
+   "url": "https://biztoc.com/x/2d00b402e8bca769",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-12T22:13:42+00:00"
+  },
+  {
+   "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+   "url": "https://github.com/prabanta-dev/janas",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-12T22:05:43+00:00"
+  },
+  {
+   "title": "Quantum computer maker IonQ to buy cybersecurity startup Elisity for $1.3B",
+   "url": "https://siliconangle.com/2026/10/12/quantum-computer-maker-ionq-to-buy-cybersecurity-startup-elisity-for-1-3b/",
+   "source": "SiliconANGLE News",
+   "category": "quantum",
+   "published": "2026-10-12T22:02:35+00:00"
+  },
+  {
+   "title": "Breakthrough T1D Concludes Inaugural Clinical & Research Congress, Highlighting Global Advances in Type 1 Diabetes Research",
+   "url": "https://www.prnewswire.com/news-releases/breakthrough-t1d-concludes-inaugural-clinical--research-congress-highlighting-global-advances-in-type-1-diabetes-research-302906186.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-12T21:55:00+00:00"
+  },
+  {
+   "title": "Show HN: Turn spoken thoughts into system design diagrams",
+   "url": "https://github.com/triggeredcode/lucid",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-12T21:39:07+00:00"
+  },
+  {
+   "title": "AMD Unveils Helion Racks With 32,768 Zen 6 EPYC Cores For Agentic AI",
+   "url": "https://hothardware.com/news/amd-announces-new-helion-ai-racks",
+   "source": "Hot Hardware",
+   "category": "compute",
+   "published": "2026-10-12T21:16:00+00:00"
+  },
+  {
+   "title": "Anthropic pledges $30B in Azure compute as Claude moves into Copilot",
+   "url": "https://cryptobriefing.com/microsoft-anthropic-claude-copilot-partnership/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-10-12T21:12:18+00:00"
+  },
+  {
+   "title": "Intel aims to boost AI turnaround with new GPU chips to take on Nvidia",
+   "url": "https://biztoc.com/x/e6ec4e3d70170469",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-10-12T21:06:52+00:00"
+  },
+  {
+   "title": "ACG 2026 Data Show TissueCypher\u00ae Identifies Elevated Risk of Progression Beyond Pathology Findings in Barrett's Esophagus",
+   "url": "https://www.prnewswire.com/news-releases/acg-2026-data-show-tissuecypher-identifies-elevated-risk-of-progression-beyond-pathology-findings-in-barretts-esophagus-302905923.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-12T20:30:00+00:00"
+  },
+  {
+   "title": "Gottlieb on how AI is assisting in the development of cancer vaccines",
+   "url": "https://biztoc.com/x/492f56af1cf82520",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-10-12T19:35:13+00:00"
+  },
+  {
+   "title": "Google Invests in Flo Health as Both Companies Plan New Women's Health WearablesGoogle Flo Health Partnership Brings New Women's Health Wearables",
+   "url": "https://www.patriciarenee.com/google-flo-health-womens-health-wearables/",
+   "source": "Patriciarenee.com",
+   "category": "health",
+   "published": "2026-10-12T18:24:01+00:00"
+  },
+  {
+   "title": "Show HN: IHMT \u2013 Infinite Hierarchical Memory Tree for AI Agents",
+   "url": "https://github.com/gonzaroman/IHMT-MEMORY",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-12T16:34:41+00:00"
+  },
+  {
+   "title": "Simulating student learning for better AI tutoring",
+   "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-10-12T16:00:00+00:00"
+  },
+  {
+   "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+   "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-12T15:00:25+00:00"
+  },
+  {
+   "title": "Adaptive Motion Planning And Tracking For Humanoid Robots",
+   "url": "https://www.ponoko.com/blog/ponoko/adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+   "source": "Ponoko.com",
+   "category": "robotics",
+   "published": "2026-10-12T14:41:49+00:00"
   },
   {
    "title": "Welcome to the Nvidia RTX Spark Era \u2b50",
@@ -62,8 +175,7 @@
    "url": "https://biztoc.com/x/b76e784b6ced6b14",
    "source": "Biztoc.com",
    "category": "ai",
-   "published": "2026-10-12T13:33:45+00:00",
-   "breakthrough": true
+   "published": "2026-10-12T13:33:45+00:00"
   },
   {
    "title": "Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C",
@@ -71,13 +183,6 @@
    "source": "Tom's Hardware UK",
    "category": "compute",
    "published": "2026-10-12T13:30:00+00:00"
-  },
-  {
-   "title": "DeepSeek to lead seed round in $400mn robot AI start-up, Bloomberg reports",
-   "url": "https://thenextweb.com/news/deepseek-winverse-ai-robot-seed-round",
-   "source": "The Next Web",
-   "category": "ai",
-   "published": "2026-10-12T13:22:34+00:00"
   },
   {
    "title": "Immorta Bio Pioneers AI-Designed Senolytic Immunotherapy Targeting Diseases of Aging",
@@ -115,13 +220,6 @@
    "published": "2026-10-12T13:10:52+00:00"
   },
   {
-   "title": "WITEX 2027 to Debut in D\u00fcsseldorf, Connecting Global Physical AI Innovators with European Industry",
-   "url": "https://www.prnewswire.com/news-releases/witex-2027-to-debut-in-dusseldorf-connecting-global-physical-ai-innovators-with-european-industry-302905367.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-10-12T13:10:00+00:00"
-  },
-  {
    "title": "Lunit and Discovery Life Sciences Collaborate to Expand AI-Powered Tissue Analysis for Biopharma Research",
    "url": "https://www.prnewswire.com/news-releases/lunit-and-discovery-life-sciences-collaborate-to-expand-ai-powered-tissue-analysis-for-biopharma-research-302905434.html",
    "source": "PRNewswire",
@@ -134,13 +232,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-10-12T13:00:00+00:00"
-  },
-  {
-   "title": "XPENG Launches the G9L Next-Gen AI Flagship SUV in Europe, Debuts NGP and Expands Global Technology Collaboration at 2026 Paris Motor Show",
-   "url": "https://www.prnewswire.com/news-releases/xpeng-launches-the-g9l-next-gen-ai-flagship-suv-in-europe-debuts-ngp-and-expands-global-technology-collaboration-at-2026-paris-motor-show-302905653.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-10-12T12:35:00+00:00"
   },
   {
    "title": "Ministry of Science signs MoU with Peptris for collab in AI-based drug discovery and development",
@@ -157,20 +248,6 @@
    "published": "2026-10-12T11:16:53+00:00"
   },
   {
-   "title": "The selfie stick is dead! Scientists create two-legged robot that carries your phone and follows you around",
-   "url": "https://www.dailymail.com/sciencetech/article-16202197/selfie-Scientists-robot-carries-phone-follows.html",
-   "source": "Dailymail.com",
-   "category": "robotics",
-   "published": "2026-10-12T10:52:05+00:00"
-  },
-  {
-   "title": "When one robot learns, every robot knows if they can communicate",
-   "url": "https://www.techradar.com/pro/when-one-robot-learns-every-robot-knows-if-they-can-communicate",
-   "source": "TechRadar",
-   "category": "robotics",
-   "published": "2026-10-12T10:45:12+00:00"
-  },
-  {
    "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
    "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
    "source": "Wiley.com",
@@ -183,6 +260,13 @@
    "source": "PRNewswire",
    "category": "robotics",
    "published": "2026-10-12T00:22:00+00:00"
+  },
+  {
+   "title": "Chip-mediated manipulation of photonic quantum skyrmions",
+   "url": "https://www.nature.com/articles/s41567-026-03487-x",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-10-12T00:00:00+00:00"
   },
   {
    "title": "Private, offline and yours: how to search the literature with local AI systems",
@@ -34917,90 +35001,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-07-17T13:14:31+00:00"
-  },
-  {
-   "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots\u2014This Could Be the Big Catalyst",
-   "url": "https://biztoc.com/x/095a9304b7ecee87",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-07-17T13:00:35+00:00"
-  },
-  {
-   "title": "Welcome to WAIC 2026 | Embrace an AI-Empowered Better Life",
-   "url": "https://www.prnewswire.com/news-releases/welcome-to-waic-2026--embrace-an-ai-empowered-better-life-302828456.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-17T13:00:00+00:00"
-  },
-  {
-   "title": "Reo.Dev Raises $11.3 Million Series A to Scale AI Signals for Companies Selling to Engineering Teams",
-   "url": "https://www.prnewswire.com/news-releases/reodev-raises-11-3-million-series-a-to-scale-ai-signals-for-companies-selling-to-engineering-teams-302828436.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-17T13:00:00+00:00"
-  },
-  {
-   "title": "The AI Collective Named Official Community Partner of AGI-26 Conference",
-   "url": "https://www.globenewswire.com/news-release/2026/07/17/3329093/0/en/The-AI-Collective-Named-Official-Community-Partner-of-AGI-26-Conference.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-17T13:00:00+00:00"
-  },
-  {
-   "title": "Vector Science & Therapeutics and Caresyntax Announce Real-World Evidence Partnership for VectorMist",
-   "url": "https://www.prnewswire.com/news-releases/vector-science--therapeutics-and-caresyntax-announce-real-world-evidence-partnership-for-vectormist-302828324.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-17T12:10:00+00:00"
-  },
-  {
-   "title": "Quadruped Robot Market Size to Worth USD 15.12 Billion by 2035 | Research by SNS Insider",
-   "url": "https://www.globenewswire.com/news-release/2026/07/17/3329032/0/en/Quadruped-Robot-Market-Size-to-Worth-USD-15-12-Billion-by-2035-Research-by-SNS-Insider.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-17T11:30:00+00:00"
-  },
-  {
-   "title": "Evaxion to present three-year clinical efficacy data for personalized cancer vaccine EVX-01 at the ESMO Congress 2026",
-   "url": "https://www.globenewswire.com/news-release/2026/07/17/3329028/0/en/Evaxion-to-present-three-year-clinical-efficacy-data-for-personalized-cancer-vaccine-EVX-01-at-the-ESMO-Congress-2026.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-17T11:15:00+00:00"
-  },
-  {
-   "title": "The Right Amount of Spec for Agentic Development",
-   "url": "https://www.oreilly.com/radar/the-right-amount-of-spec-for-agentic-development/#BlogPosting",
-   "source": "Oreilly.com",
-   "category": "ai",
-   "published": "2026-07-17T10:43:17+00:00"
-  },
-  {
-   "title": "Would you trust a tiny dental robot?",
-   "url": "https://www.foxnews.com/tech/would-you-trust-tiny-dental-robot",
-   "source": "Fox News",
-   "category": "robotics",
-   "published": "2026-07-17T10:00:58+00:00"
-  },
-  {
-   "title": "Moonshot unveils Kimi K3, the world\u2019s largest open AI model",
-   "url": "https://thenextweb.com/news/moonshot-kimi-k3-largest-open-model/",
-   "source": "The Next Web",
-   "category": "ai",
-   "published": "2026-07-17T07:51:22+00:00"
-  },
-  {
-   "title": "China just put its first commercial brain implant into a patient. It\u2019s smaller than Neuralink\u2019s, on purpose.",
-   "url": "https://thenextweb.com/news/china-first-commercial-brain-implant-neuracle-neo/",
-   "source": "The Next Web",
-   "category": "health",
-   "published": "2026-07-17T07:49:56+00:00"
-  },
-  {
-   "title": "AI agent economics to shape next phase of enterprise GenAI adoption; 60% of agentic AI costs go to response refinement: McKinsey",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agent-economics-to-shape-next-phase-of-enterprise-genai-adoption-60-of-agentic-ai-costs-go-to-response-refinement-mckinsey/articleshow/132455285.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-07-17T07:21:54+00:00"
   }
  ]
 }
