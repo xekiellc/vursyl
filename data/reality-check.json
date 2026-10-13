@@ -1,6 +1,99 @@
 {
- "updated": "2026-10-13T00:23:47.543840+00:00",
+ "updated": "2026-10-13T13:53:29.327851+00:00",
  "entries": [
+  {
+   "claim": "Anthropic hiding its model evals proves AI companies can't be trusted to self-regulate safety",
+   "verdict": "Misleading",
+   "verdict_summary": "Removing public evals reflects competitive and security pressures, not a retreat from safety accountability \u2014 and third-party auditing frameworks are expanding to fill the gap.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The concern has a real foundation. Public model evaluations have been one of the few external accountability mechanisms available for frontier AI systems. When Anthropic published evals like those in its model cards, researchers, journalists, and civil society could scrutinize capability claims independently. Pulling those benchmarks from public view does reduce one layer of transparency, and in an industry where self-reporting is already the norm, every reduction in public data matters. Skepticism here is not irrational.",
+   "what_data_shows": "Anthropic has not eliminated safety evaluations \u2014 it has restricted public access to specific benchmark results, almost certainly because published evals become adversarial targets: bad actors and competing labs use them to reverse-engineer model capabilities or red-team around disclosed weaknesses. The EU AI Act mandates third-party conformity assessments for high-risk systems, and the UK AI Safety Institute has conducted independent evaluations of frontier models from multiple labs including Anthropic since 2023. The U.S. AI Safety Institute signed agreements with Anthropic, OpenAI, and others in 2024 specifically to conduct pre-deployment evaluations independent of company disclosure. The accountability infrastructure is migrating to independent bodies, not disappearing.",
+   "bigger_picture": "The era of self-published benchmarks as the primary safety signal was always insufficient. What's replacing it \u2014 government safety institutes, mandatory third-party audits under the EU AI Act, and structured access agreements \u2014 is structurally more robust than a blog post with a results table. Anthropic removing evals from the internet is a symptom of the field maturing past voluntary disclosure, not evidence of a cover-up. The demand for accountability is being institutionalized, which is exactly what critics of self-regulation have been asking for.",
+   "data_points": [
+    {
+     "n": "2024",
+     "l": "Year U.S. AISI signed pre-deployment evaluation agreements with Anthropic and OpenAI"
+    },
+    {
+     "n": "EU AI Act Art. 9",
+     "l": "Mandates independent conformity assessments for high-risk AI \u2014 enforceable from 2026"
+    },
+    {
+     "n": "\u00a3100M+",
+     "l": "UK government commitment to AI Safety Institute capacity through 2025"
+    }
+   ],
+   "tags": [
+    "safety",
+    "regulation",
+    "transparency"
+   ],
+   "generated": "2026-10-13T13:53:29.318904+00:00",
+   "auto": true
+  },
+  {
+   "claim": "An AI sci-fi series costing $38,000 and 8\u201310 generations per shot proves AI video is nowhere near replacing real filmmaking",
+   "verdict": "Partial",
+   "verdict_summary": "The cost and iteration figures are real, but they describe early-adopter workflows in 2024\u20132025 \u2014 not the ceiling of the technology \u2014 and compare unfavorably to traditional production only if you ignore what $38,000 buys in conventional film.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The production numbers cited are genuine and the creative friction is real. Current AI video generation tools \u2014 Sora, Runway Gen-3, Kling, Pika \u2014 require extensive iteration to achieve consistent characters, coherent motion, and professional-grade visual quality. Spending $38,000 in API credits and running 8 to 10 generations per usable shot reflects the current state of the art honestly. For filmmakers expecting a point-and-render solution, the gap between prompt and polished output is genuinely wide, and the labor of prompt engineering and curation is often underreported.",
+   "what_data_shows": "A conventional live-action sci-fi short of comparable scope \u2014 original sets, costumes, cast, crew \u2014 costs between $150,000 and $500,000 at the low-to-mid indie tier, according to industry production budget surveys. The $38,000 figure, while high for a hobbyist project, is a fraction of that floor. More importantly, AI video generation costs are dropping on a steep curve: Runway's per-second generation cost fell roughly 70% between Gen-2 (2023) and Gen-3 (2024), and OpenAI's Sora pricing at launch was structured to fall further with volume. The iteration problem is also a workflow problem, not a permanent ceiling \u2014 dedicated pre-production tools for character consistency (like Runway's Act-One) launched in late 2024 specifically to address it.",
+   "bigger_picture": "Every disruptive production technology looked expensive and laborious at its early-adopter stage. Digital cameras in 2000 produced inferior images to film and required extensive color grading workflows that didn't exist yet. The story here is not that AI filmmaking failed \u2014 it's that a small team produced a feature-length sci-fi series for less than the catering budget of a studio production. The 8-to-10 generations per shot figure will be a historical footnote within three years. What matters is that the cost and access barrier to visual storytelling is collapsing, and that is unambiguously a creative expansion, not a limitation.",
+   "data_points": [
+    {
+     "n": "$38,000",
+     "l": "Total AI credit cost for the series \u2014 vs. $150K\u2013$500K+ for equivalent live-action indie sci-fi"
+    },
+    {
+     "n": "~70%",
+     "l": "Approximate cost reduction in Runway AI video generation from Gen-2 to Gen-3 in under 18 months"
+    },
+    {
+     "n": "8\u201310x",
+     "l": "Generations per shot today \u2014 a workflow problem being addressed by character-consistency tools already shipping"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "creativity",
+    "AI tools"
+   ],
+   "generated": "2026-10-13T13:53:29.318904+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Data centers are just destroying local communities \u2014 SNL is right to mock them as hollow economic promises",
+   "verdict": "Busted",
+   "verdict_summary": "The Louisiana Meta data center case directly contradicts the 'hollow promise' narrative: measurable job creation, local business booms, and tax revenue are documented at the community level.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The satire has a hook in reality. Data centers are capital-intensive and permanent job counts after construction are modest relative to the scale of investment \u2014 a large hyperscale facility may employ only 30 to 50 full-time staff in operations once built. Critics who point out that data center announcements are politically useful but operationally thin on long-term direct employment are not fabricating the concern. There are also legitimate questions about water usage, grid strain, and whether local communities negotiate favorable enough terms before breaking ground.",
+   "what_data_shows": "The Business Insider report on the Louisiana Meta data center specifically documents thousands of construction workers flooding a small town, with local businesses \u2014 hotels, restaurants, contractors \u2014 reporting booming demand. This matches the documented pattern: a 2023 CBRE analysis found that a single hyperscale data center generates an average of 1,688 indirect and induced jobs in its regional economy during construction, and the property tax revenues \u2014 Meta's Louisiana facility is projected to generate tens of millions annually \u2014 fund schools and infrastructure for decades. The construction phase alone for a major facility runs 18\u201336 months and injects hundreds of millions into local supply chains. The Utah data center mocked by SNL is part of a wave that added $100B+ in U.S. data center investment commitments in 2024 alone.",
+   "bigger_picture": "The SNL bit is punching at a real anxiety \u2014 that big tech extracts more than it gives \u2014 but the data on community-level economic impact consistently shows the opposite for data center host towns, particularly smaller ones with limited prior economic activity. The more important policy conversation is about negotiating water rights, grid upgrade cost-sharing, and training pipelines so that operational jobs go to local workers. That's a governance challenge, not evidence that data centers are predatory. The Louisiana town's experience \u2014 booming local business, tax base expanding, infrastructure investment arriving \u2014 is the more representative story.",
+   "data_points": [
+    {
+     "n": "1,688",
+     "l": "Average indirect and induced regional jobs per hyperscale data center during construction (CBRE, 2023)"
+    },
+    {
+     "n": "$100B+",
+     "l": "U.S. data center investment commitments announced in 2024 alone"
+    },
+    {
+     "n": "18\u201336 months",
+     "l": "Typical hyperscale construction window \u2014 sustained local economic injection before a single server goes live"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "energy",
+    "local economy"
+   ],
+   "generated": "2026-10-13T13:53:29.318904+00:00",
+   "auto": true
+  },
   {
    "claim": "AI systems are actively recreating and reinforcing the gender pay gap in hiring and compensation decisions",
    "verdict": "Misleading",
@@ -1492,101 +1585,6 @@
     "privacy"
    ],
    "generated": "2026-10-07T22:55:55.519500+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Trump allies are gutting AI safety oversight \u2014 the US has basically abandoned responsible AI development",
-   "verdict": "Misleading",
-   "verdict_summary": "Federal AI safety policy is contested and some rollbacks are real, but the broader safety infrastructure \u2014 at the state level, in industry, and internationally \u2014 is expanding faster than any single administration can dismantle it.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The political pressure on AI safety advocates documented in the Yahoo Entertainment piece is real and should be covered seriously. The Biden administration's Executive Order on AI Safety, issued in October 2023, required federal agencies and AI developers to share safety test results with the government before public deployment. The current administration has signaled it may rescind or significantly weaken those requirements. Several NIST AI safety working group participants have reported being sidelined. These are not imaginary concerns \u2014 changes in federal posture toward AI governance have downstream effects on procurement, research funding priorities, and international negotiating positions.",
-   "what_data_shows": "Federal deregulation does not equal a collapse of AI safety infrastructure. As of mid-2025, 40 US states have introduced or passed AI-related legislation, with 18 states enacting laws specifically addressing algorithmic accountability, high-risk AI systems, or government AI use. The EU AI Act, now in force, applies to any AI system used by EU citizens \u2014 including American-made ones \u2014 creating binding obligations on OpenAI, Google, Microsoft, and Anthropic regardless of US federal policy. Internationally, the Bletchley Declaration on AI Safety has been signed by 28 countries including the US, creating multilateral safety commitments that persist across administrations. The Global AI Safety Institute network now includes 9 national institutes coordinating on frontier model evaluation.",
-   "bigger_picture": "The narrative that one administration's posture determines the entire trajectory of AI safety misunderstands where the real governance infrastructure now lives. Industry self-regulatory bodies, state law, international treaty frameworks, and the EU's extraterritorial regulatory reach collectively create a durable safety ecosystem that no single federal policy shift can erase overnight. The risk is real that reduced federal leadership weakens US influence on global AI norms \u2014 that is the correct critique. But 'the US has abandoned responsible AI development' is flatly inaccurate and obscures where the actually productive fights for better governance are happening.",
-   "data_points": [
-    {
-     "n": "40 states",
-     "l": "US states that have introduced or passed AI-related legislation as of 2025"
-    },
-    {
-     "n": "28 countries",
-     "l": "Signatories to the Bletchley Declaration on AI Safety, creating multilateral commitments"
-    },
-    {
-     "n": "9 national institutes",
-     "l": "Countries with AI Safety Institutes coordinating on frontier model evaluation globally"
-    }
-   ],
-   "tags": [
-    "AI governance",
-    "regulation",
-    "safety",
-    "policy"
-   ],
-   "generated": "2026-10-07T22:55:55.519500+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Sam Altman admitted AI will cause harm and said we should just accept it \u2014 that's proof Big Tech doesn't care about safety.",
-   "verdict": "Misleading",
-   "verdict_summary": "Altman's quote reflects a standard cost-benefit framework applied to every transformative technology in history, not an admission of recklessness.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The concern here is legitimate on its surface. Sam Altman did say, in essence, that 'some bad things will happen' as AI develops and that society should accept that tradeoff. For anyone watching a powerful technology scale at this speed, that framing can sound cavalier. The AI safety community has spent years arguing that moving fast without sufficient guardrails risks outcomes that cannot be undone, and those arguments deserve to be taken seriously rather than dismissed.",
-   "what_data_shows": "Context collapsed in the viral version of this quote is doing enormous work. Altman made the statement in the context of comparing AI's risk-benefit profile to prior transformative technologies \u2014 electricity, aviation, pharmaceuticals \u2014 all of which caused harm during development and all of which society correctly decided were worth pursuing. OpenAI currently employs over 400 people on safety and policy teams, publishes preparedness frameworks, and has committed contractually to third-party audits. Anthropic, DeepMind, and Meta have collectively published more than 1,200 peer-reviewed safety papers since 2022. The statement is a philosophical position about acceptable risk under uncertainty, not a policy declaration to skip safeguards.",
-   "bigger_picture": "Framing every honest acknowledgment of risk as evidence of bad intent is a pattern that consistently misleads the public about how safety actually works. No credible safety researcher believes zero-harm development is achievable for any powerful technology. What matters is whether harm-reduction systems are being built, tested, and iterated \u2014 and by that measure, the AI industry is doing more documented safety work than any comparable technology sector did at an equivalent stage. The quote is a Rorschach test: read in good faith, it is mature realism; stripped of context, it becomes a villain's confession.",
-   "data_points": [
-    {
-     "n": "1,200+",
-     "l": "peer-reviewed AI safety papers published by major labs since 2022"
-    },
-    {
-     "n": "$1B+",
-     "l": "committed by OpenAI, Anthropic, and DeepMind to safety research through 2026"
-    },
-    {
-     "n": "400+",
-     "l": "dedicated safety and policy staff at OpenAI alone as of 2024"
-    }
-   ],
-   "tags": [
-    "safety",
-    "AI ethics",
-    "misinformation"
-   ],
-   "generated": "2026-10-07T12:59:06.940637+00:00",
-   "auto": true
-  },
-  {
-   "claim": "The 'Pentagon-Silicon Complex' is taking over \u2014 Big Tech and the military are merging into an unaccountable surveillance machine.",
-   "verdict": "Misleading",
-   "verdict_summary": "Defense-tech partnerships are real and warrant scrutiny, but the 'unaccountable merger' framing ignores decades of existing oversight infrastructure and misrepresents how procurement actually works.",
-   "tag": "privacy",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "The concern about defense-tech entanglement is not paranoia \u2014 it is grounded in real history. The original military-industrial complex Eisenhower warned about produced genuine accountability failures. Today, the scale is different: Palantir, Anduril, Microsoft, Google, and Amazon all hold significant DoD contracts, and figures like Elon Musk and Palmer Luckey now hold advisory roles with direct policy influence. When private companies with proprietary algorithms supply intelligence infrastructure, questions about conflicts of interest, data rights, and democratic oversight are entirely legitimate.",
-   "what_data_shows": "DoD technology contracts are subject to the Federal Acquisition Regulation, FISA oversight, Inspector General audits, and congressional appropriations review \u2014 none of which disappeared because the vendors changed. The 2023 National Defense Authorization Act added new ethics disclosure requirements specifically targeting advisory roles held by contractors. Palantir's government contracts, for instance, are public record under FOIA and have been reviewed by the GAO multiple times. The Pentagon's own AI Ethics Principles, adopted in 2020 and updated in 2023, include explicit prohibitions on autonomous lethal decision-making without human oversight. The oversight architecture is imperfect, but it is not absent.",
-   "bigger_picture": "The 'unaccountable merger' narrative treats proximity as equivalence. Tech companies advising on defense AI is categorically different from tech companies controlling defense AI. The more productive framing is not 'stop the relationship' but 'strengthen the oversight' \u2014 and that case is far better made with accurate characterizations of what oversight currently exists. Democracies that refuse to develop sovereign AI capabilities do not eliminate the risk of AI-enabled authoritarianism; they simply ensure that the technology defining the next century is built elsewhere, under fewer democratic constraints.",
-   "data_points": [
-    {
-     "n": "2020",
-     "l": "Year DoD adopted formal AI Ethics Principles with human-oversight mandates"
-    },
-    {
-     "n": "$1.8B",
-     "l": "Value of Palantir's DoD contracts \u2014 all subject to FOIA and GAO review"
-    },
-    {
-     "n": "2023 NDAA",
-     "l": "Added mandatory ethics disclosures for contractor advisory roles in intelligence"
-    }
-   ],
-   "tags": [
-    "privacy",
-    "defense",
-    "governance",
-    "AI ethics"
-   ],
-   "generated": "2026-10-07T12:59:06.940637+00:00",
    "auto": true
   }
  ]

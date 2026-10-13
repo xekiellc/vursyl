@@ -1,13 +1,85 @@
 {
- "updated": "2026-10-13T00:23:47.543840+00:00",
+ "updated": "2026-10-13T13:53:29.327851+00:00",
  "items": [
   {
-   "title": "Code review is no longer the bottleneck",
-   "url": "https://www.youtube.com/watch?v=IZXv6a78NDw",
-   "source": "OpenAI",
-   "thumbnail": "https://i.ytimg.com/vi/IZXv6a78NDw/mqdefault.jpg",
+   "title": "The Road to GTC Berlin: Build-a-Claw in Barcelona",
+   "url": "https://www.youtube.com/watch?v=cT8z64yfh3w",
+   "source": "NVIDIA",
+   "thumbnail": "https://i.ytimg.com/vi/cT8z64yfh3w/mqdefault.jpg",
+   "category": "compute",
+   "published": "2026-10-13T13:11:11+00:00"
+  },
+  {
+   "title": "Dave Blundin's One-Line Pitch for Turning Any Small Business Into an AI Business",
+   "url": "https://www.youtube.com/watch?v=Oqc3-PCtnh4",
+   "source": "Peter H. Diamandis",
+   "thumbnail": "https://i.ytimg.com/vi/Oqc3-PCtnh4/mqdefault.jpg",
    "category": "ai",
-   "published": "2026-10-12T16:00:08+00:00"
+   "published": "2026-10-13T13:03:49+00:00"
+  },
+  {
+   "title": "OpenAI Just Changed What It Means To Do Math",
+   "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+   "source": "Two Minute Papers",
+   "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-10-13T08:56:12+00:00"
+  },
+  {
+   "title": "A new beginning for Windows PCs deserves a global celebration.",
+   "url": "https://www.youtube.com/watch?v=7yjzv6Ize4U",
+   "source": "NVIDIA",
+   "thumbnail": "https://i.ytimg.com/vi/7yjzv6Ize4U/mqdefault.jpg",
+   "category": "compute",
+   "published": "2026-10-12T18:16:02+00:00"
+  },
+  {
+   "title": "Recursive Self-Improvement and the Future of AI",
+   "url": "https://www.youtube.com/watch?v=3Q1mdn5ZGvM",
+   "source": "a16z",
+   "thumbnail": "https://i.ytimg.com/vi/3Q1mdn5ZGvM/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-10-12T14:30:07+00:00"
+  },
+  {
+   "title": "DeepSeek Solved AI\u2019s Memory Problem",
+   "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+   "source": "Two Minute Papers",
+   "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-10-11T16:53:17+00:00"
+  },
+  {
+   "title": "Your Spark, Your Story: Allyson Vasquez | NVIDIA RTX Spark",
+   "url": "https://www.youtube.com/watch?v=nM21x3FFlPE",
+   "source": "NVIDIA",
+   "thumbnail": "https://i.ytimg.com/vi/nM21x3FFlPE/mqdefault.jpg",
+   "category": "compute",
+   "published": "2026-10-11T16:00:11+00:00"
+  },
+  {
+   "title": "Berlin\u2019s TV Tower Glows Green for NVIDIA GTC Berlin",
+   "url": "https://www.youtube.com/watch?v=UGjOg3VRC7s",
+   "source": "NVIDIA",
+   "thumbnail": "https://i.ytimg.com/vi/UGjOg3VRC7s/mqdefault.jpg",
+   "category": "compute",
+   "published": "2026-10-11T13:09:06+00:00"
+  },
+  {
+   "title": "NASA's Roman Telescope Has 100x Hubble's Field of View",
+   "url": "https://www.youtube.com/watch?v=aJ1ioV-zvU4",
+   "source": "Peter H. Diamandis",
+   "thumbnail": "https://i.ytimg.com/vi/aJ1ioV-zvU4/mqdefault.jpg",
+   "category": "breakthroughs",
+   "published": "2026-10-11T12:31:32+00:00"
+  },
+  {
+   "title": "How Oracle Uses Codex to Help Business Users Get Answers",
+   "url": "https://www.youtube.com/watch?v=Ju-JyxDgV7g",
+   "source": "OpenAI",
+   "thumbnail": "https://i.ytimg.com/vi/Ju-JyxDgV7g/mqdefault.jpg",
+   "category": "ai",
+   "published": "2026-10-10T21:40:25+00:00"
   },
   {
    "title": "AI's Nuclear Power Timeline",
@@ -42,22 +114,6 @@
    "published": "2026-10-09T16:06:28+00:00"
   },
   {
-   "title": "Former Intel CEO: Why This is the Best Time to Build Hardware",
-   "url": "https://www.youtube.com/watch?v=1Q_7yU7FZ1k",
-   "source": "a16z",
-   "thumbnail": "https://i.ytimg.com/vi/1Q_7yU7FZ1k/mqdefault.jpg",
-   "category": "compute",
-   "published": "2026-10-09T14:30:19+00:00"
-  },
-  {
-   "title": "How Sophos cuts threat response time by 96% with OpenAI Daybreak",
-   "url": "https://www.youtube.com/watch?v=MUHjyljBPHI",
-   "source": "OpenAI",
-   "thumbnail": "https://i.ytimg.com/vi/MUHjyljBPHI/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-10-09T08:37:55+00:00"
-  },
-  {
    "title": "Production Monitoring with Codex: Grafana, Kubernetes, & Security",
    "url": "https://www.youtube.com/watch?v=RQfg-zo4R-g",
    "source": "OpenAI",
@@ -80,14 +136,6 @@
    "thumbnail": "https://i.ytimg.com/vi/Rs5qLAnkNcI/mqdefault.jpg",
    "category": "ai",
    "published": "2026-10-08T17:43:05+00:00"
-  },
-  {
-   "title": "Building the Cloud for AI Agents | AWS CEO Matt Garman",
-   "url": "https://www.youtube.com/watch?v=rn_afJaPldg",
-   "source": "a16z",
-   "thumbnail": "https://i.ytimg.com/vi/rn_afJaPldg/mqdefault.jpg",
-   "category": "ai",
-   "published": "2026-10-08T14:30:17+00:00"
   },
   {
    "title": "Dr. Alex Wissner-Gross on the exact performance range that gets frontier AI labs racing",
