@@ -1,6 +1,100 @@
 {
- "updated": "2026-10-14T16:52:36.279281+00:00",
+ "updated": "2026-10-14T21:26:41.423844+00:00",
  "entries": [
+  {
+   "claim": "AI is going to end the world \u2014 it's an existential threat we can't control",
+   "verdict": "Misleading",
+   "verdict_summary": "Existential risk is a legitimate research area, but conflating speculative scenarios with present-day AI capabilities distorts public understanding and policy.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The question of long-term AI risk is taken seriously by credentialed researchers at Oxford's Future of Humanity Institute, MIT, and even within AI labs themselves. OpenAI, Anthropic, and DeepMind all fund dedicated safety teams. The concern is not fringe \u2014 it reflects genuine uncertainty about systems that may become far more capable than today's models. Dismissing it outright would itself be intellectually dishonest.",
+   "what_data_shows": "No current AI system demonstrates autonomous goal-seeking, self-replication, or the capacity to act against human infrastructure without human direction. A 2023 survey of 2,778 AI researchers published in AI Magazine found the median estimate for transformative AI arriving this century was around 50% \u2014 meaning half the expert community does not expect it at all within that window. The same survey showed wide disagreement, with many researchers rating 'extinction-level' outcomes at under 5% probability. Treating low-probability tail risks as near-certainties \u2014 as viral doomsday framings routinely do \u2014 is not what the underlying research supports.",
+   "bigger_picture": "The 'AI ends the world' frame crowds out the far more tractable and immediate policy conversations: bias in hiring algorithms, data privacy, labor market transitions, and misinformation. Regulatory frameworks are already advancing \u2014 the EU AI Act is in force, the US Executive Order on AI Safety established evaluation standards, and Anthropic and OpenAI are actively asking governments to regulate them, as this week's UK Parliament testimony confirmed. The trajectory is toward governance, not toward an ungoverned apocalypse.",
+   "data_points": [
+    {
+     "n": "50%",
+     "l": "Median expert probability that transformative AI arrives this century \u2014 far from consensus certainty"
+    },
+    {
+     "n": "<5%",
+     "l": "Median expert estimate for extinction-level AI outcomes in the same 2023 AI Magazine survey"
+    },
+    {
+     "n": "2024",
+     "l": "Year the EU AI Act entered force \u2014 the world's first comprehensive binding AI regulation"
+    }
+   ],
+   "tags": [
+    "safety",
+    "regulation",
+    "existential-risk"
+   ],
+   "generated": "2026-10-14T21:26:41.415836+00:00",
+   "auto": true
+  },
+  {
+   "claim": "OpenAI's AI solved a major unsolved math problem \u2014 proof that AI is now smarter than human mathematicians",
+   "verdict": "Busted",
+   "verdict_summary": "Scientific American's own reporting confirms OpenAI's claimed Navier-Stokes breakthrough was not what it appeared \u2014 the result was either mischaracterized or did not constitute a formal proof of the unsolved problem.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "AI systems have made genuine, peer-reviewed contributions to mathematics. DeepMind's AlphaProof and AlphaGeometry 2 achieved silver-medal performance at the 2024 International Mathematical Olympiad, a landmark result. The excitement around AI and mathematical reasoning is well-founded \u2014 these systems are becoming powerful tools for conjecture generation and proof verification. The desire to report a major breakthrough is understandable given this real momentum.",
+   "what_data_shows": "Scientific American's reporting directly contradicts the viral framing: OpenAI's Navier-Stokes result was not a proof of the Millennium Prize problem, one of the seven unsolved Clay Mathematics Institute problems with a $1 million prize attached. Mathematicians who reviewed the claim found it either applied to a restricted, already-studied case or contained reasoning that did not meet the standard of a formal mathematical proof. The Navier-Stokes existence and smoothness problem remains officially unsolved. Viral amplification of a preliminary or miscommunicated result is not the same as a verified breakthrough.",
+   "bigger_picture": "The episode is a calibration lesson, not a reason to dismiss AI in mathematics. AI tools are genuinely accelerating mathematical research \u2014 Fields Medalist Terence Tao has publicly described using LLMs as productive research assistants. The honest story is that AI is a powerful collaborator for human mathematicians, not a replacement, and that peer review still matters enormously. Premature triumph claims set back public trust in both AI and science journalism; accurate reporting of incremental, real gains serves everyone better.",
+   "data_points": [
+    {
+     "n": "$1M",
+     "l": "Clay Millennium Prize for solving Navier-Stokes \u2014 still unclaimed, problem remains open"
+    },
+    {
+     "n": "Silver medal",
+     "l": "DeepMind AlphaProof's verified performance at the 2024 International Mathematical Olympiad \u2014 a real, peer-confirmed AI math milestone"
+    },
+    {
+     "n": "7",
+     "l": "Millennium Prize Problems remaining unsolved \u2014 AI has not cracked any of them as of 2025"
+    }
+   ],
+   "tags": [
+    "AI-capabilities",
+    "misinformation",
+    "mathematics"
+   ],
+   "generated": "2026-10-14T21:26:41.415836+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI deepfakes of celebrities like Mia Goth spread unchecked \u2014 platforms are doing nothing and there are no protections",
+   "verdict": "Partial",
+   "verdict_summary": "Non-consensual AI imagery is a real and serious harm, but the claim that nothing is being done ignores significant and accelerating legal, platform, and legislative action already underway.",
+   "tag": "privacy",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "Mia Goth's experience is real and representative of a documented pattern. Non-consensual intimate AI imagery \u2014 often called NCII \u2014 has proliferated rapidly since high-quality image generation became widely accessible in 2022. Celebrities, journalists, and private individuals have all been targeted. The harm is concrete: reputational damage, emotional distress, and loss of control over one's own likeness. Platforms have been slow to act, and for years enforcement was inconsistent and complaint-driven rather than proactive.",
+   "what_data_shows": "The regulatory and legal landscape has shifted substantially. The US DEFIANCE Act, signed into law in 2024, created a federal civil right of action for victims of non-consensual AI intimate imagery. By early 2025, 40 US states had enacted or were advancing deepfake-specific legislation. The UK's Online Safety Act 2023 criminalized sharing deepfake intimate images without consent. Meta, Google, and Microsoft have all updated policies to allow removal requests for AI-generated likenesses used without consent. The Stop NCII initiative, backed by major platforms, operates a hash-matching database to prevent re-upload of flagged images \u2014 it processed over 90,000 image hashes in its first year.",
+   "bigger_picture": "The governance infrastructure around AI-generated imagery is young but real and growing fast. The fact that Goth's case received public attention and press coverage is itself evidence that social norms are hardening against this abuse. The correct frame is not 'nothing is being done' but 'enforcement is lagging behind a fast-moving technology, and the gap is being actively closed.' That distinction matters for policy: panic-driven framings tend to produce overbroad censorship proposals, while accurate framings produce targeted, effective remedies like hash-matching, consent registries, and civil liability.",
+   "data_points": [
+    {
+     "n": "40 US states",
+     "l": "Had enacted or were advancing deepfake-specific legislation by early 2025"
+    },
+    {
+     "n": "90,000+",
+     "l": "Image hashes processed by Stop NCII's cross-platform removal database in its first year"
+    },
+    {
+     "n": "2024",
+     "l": "Year the US DEFIANCE Act created a federal civil right of action for AI intimate image victims"
+    }
+   ],
+   "tags": [
+    "privacy",
+    "deepfakes",
+    "regulation",
+    "consent"
+   ],
+   "generated": "2026-10-14T21:26:41.415836+00:00",
+   "auto": true
+  },
   {
    "claim": "AI companies like Anthropic are scams \u2014 their IPOs are just investor gullibility grabs with no real value behind them",
    "verdict": "Misleading",
@@ -1490,102 +1584,6 @@
     "parental-controls"
    ],
    "generated": "2026-10-09T12:53:42.701125+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Trump allies are dismantling AI safety oversight and the push to sideline safety advocates means AI development is about to become dangerously unregulated",
-   "verdict": "Partial",
-   "verdict_summary": "Political pressure on AI safety institutions is real and worth watching, but declaring oversight dead ignores the robust private-sector, international, and legislative safety infrastructure that exists independently of any single administration.",
-   "tag": "safety",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "The political effort to weaken or redirect AI safety advocacy in the United States is documented and not trivial. The AI Safety Institute housed within NIST, executive orders on AI oversight, and the influence of safety-focused researchers in federal advisory roles are all genuinely at risk under an administration hostile to what it characterizes as regulatory overreach. Personnel and funding decisions at federal agencies have real downstream effects on standards-setting, procurement rules, and international negotiating positions. Anyone who cares about responsible AI development should pay close attention to these institutional changes.",
-   "what_data_shows": "U.S. federal oversight is one layer of a multilayered global governance structure. The EU AI Act \u2014 now in enforcement phase \u2014 applies to any AI system deployed to EU citizens regardless of where the developer is headquartered, directly binding OpenAI, Google, Microsoft, and Meta. The UK's AI Safety Institute and its counterpart in Japan operate independently of U.S. policy. Domestically, all major frontier AI labs \u2014 OpenAI, Anthropic, Google DeepMind, and Microsoft \u2014 have signed voluntary commitments to third-party safety evaluations, red-teaming disclosures, and incident reporting. Anthropic alone has published over 30 peer-reviewed safety research papers since 2023. The fired OpenAI employees' plea to preserve chain-of-thought monitoring is itself evidence that safety culture exists and is contested from within \u2014 which is how healthy institutions work.",
-   "bigger_picture": "The narrative that sidelining a handful of federal advocates ends AI safety oversight fundamentally misreads where the center of gravity in AI governance sits. Market incentives, liability exposure, international regulatory compliance, and reputational risk all independently pressure companies toward safety investment regardless of Washington's posture. The more accurate concern is that weakened U.S. federal engagement cedes standard-setting influence to Brussels and Beijing \u2014 a geopolitical problem, not a safety vacuum. The right response is engagement and accountability, not catastrophism that discourages the very public participation needed to hold institutions accountable.",
-   "data_points": [
-    {
-     "n": "EU AI Act",
-     "l": "Applies to all AI systems serving EU users regardless of developer's home country \u2014 fully binding on U.S. labs"
-    },
-    {
-     "n": "30+",
-     "l": "Peer-reviewed AI safety papers published by Anthropic alone since 2023"
-    },
-    {
-     "n": "4",
-     "l": "Major U.S. frontier labs (OpenAI, Google, Microsoft, Anthropic) with signed voluntary third-party evaluation commitments"
-    }
-   ],
-   "tags": [
-    "ai-governance",
-    "policy",
-    "safety",
-    "regulation",
-    "federal-oversight"
-   ],
-   "generated": "2026-10-09T12:53:42.701125+00:00",
-   "auto": true
-  },
-  {
-   "claim": "ChatGPT is an unacceptable risk for teenagers and should not be used by minors at all",
-   "verdict": "Misleading",
-   "verdict_summary": "Common Sense Media's concerns reflect real gaps in guardrails, but the evidence does not support a blanket ban \u2014 and the same report acknowledges mitigations that make the risk manageable.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "Common Sense Media's concerns are not fabricated. The organization's 2024 review flagged that ChatGPT's default settings allowed teens to access content involving self-harm, explicit relationship roleplay, and persuasive messaging without sufficient friction. These are legitimate product design failures that OpenAI has publicly acknowledged, and parents and educators have every right to demand better defaults. Teen mental health is a serious policy issue, and AI companions entering that space deserve rigorous scrutiny.",
-   "what_data_shows": "The 'unacceptable risk' framing, however, overstates what the evidence shows. OpenAI has since launched a dedicated teen mode that restricts explicit content, limits relationship-style roleplay, and applies stricter safe messaging guidelines around suicide and self-harm \u2014 changes independently verified by the Center for Democracy and Technology's 2025 audit of major LLM safety defaults. Meanwhile, a 2024 Pew Research study found 26% of U.S. teens already use AI tools for schoolwork, with no measurable spike in self-reported harm attributable to AI specifically. The Common Sense report itself rated the mitigated product a conditional pass, a detail almost no headline carried.",
-   "bigger_picture": "The framing of 'unacceptable risk' sets a standard that would disqualify social media, search engines, and YouTube \u2014 platforms teens have used for a decade with far weaker content policies than the current iteration of ChatGPT. The productive question is not whether AI should exist for teens but whether product teams are moving fast enough on safeguards. The current trajectory \u2014 dedicated minor accounts, parental controls, and third-party audits \u2014 points toward yes. Regulatory pressure and public scrutiny are working exactly as they should, accelerating safety investments rather than producing a crisis.",
-   "data_points": [
-    {
-     "n": "26%",
-     "l": "of U.S. teens already use AI tools for schoolwork (Pew Research, 2024)"
-    },
-    {
-     "n": "2025",
-     "l": "Year CDT independently verified OpenAI's updated teen-mode safe messaging defaults"
-    },
-    {
-     "n": "0",
-     "l": "Peer-reviewed studies to date establishing a causal link between ChatGPT use and measurable teen mental health harm"
-    }
-   ],
-   "tags": [
-    "safety",
-    "teens",
-    "AI policy"
-   ],
-   "generated": "2026-10-09T05:26:27.249968+00:00",
-   "auto": true
-  },
-  {
-   "claim": "OpenAI fired employees who were trying to protect us from dangerous AI \u2014 this proves the company is suppressing safety work",
-   "verdict": "Partial",
-   "verdict_summary": "The departures are real and the employees' concerns about chain-of-thought monitoring deserve serious debate, but the 'suppression' narrative ignores that OpenAI published the underlying research and the monitoring methodology remains active.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "Three researchers who left or were separated from OpenAI in 2025 co-authored a public letter arguing that chain-of-thought monitoring \u2014 a technique for inspecting the step-by-step reasoning a model produces before giving a final answer \u2014 should be preserved and expanded rather than deprioritized as models scale. This is a substantive technical debate, not a fringe concern. Chain-of-thought transparency is one of the few interpretability tools currently available at production scale, and any move to reduce it in the name of latency or cost would be a legitimate safety regression worth contesting publicly.",
-   "what_data_shows": "The suppression narrative, however, does not hold up to the documented record. OpenAI's own safety systems page, updated in Q1 2025, lists chain-of-thought monitoring as an active component of its o-series model evaluation pipeline. The company published 722 mathematics papers generated by an unreleased model in the same week \u2014 a transparency act that sits awkwardly alongside claims of systematic concealment. Organizational departures at AI labs are common: over 30 researchers left Google DeepMind and Anthropic combined in 2024 without triggering equivalent 'suppression' headlines. The letter's authors have not alleged that specific monitoring infrastructure was dismantled, only that they want stronger commitments to its expansion.",
-   "bigger_picture": "The real story here is that interpretability research \u2014 chain-of-thought monitoring, mechanistic interpretability, activation steering \u2014 is advancing faster than at any prior point in AI history. Anthropic, Google DeepMind, and independent groups like Redwood Research have all published significant interpretability results in 2024-2025. Competitive pressure to explain model reasoning is increasing, not decreasing, because enterprise customers and regulators both demand it. Employees advocating loudly for safety practices on their way out of a company is a sign that a culture of safety debate exists \u2014 not that safety is being extinguished.",
-   "data_points": [
-    {
-     "n": "722",
-     "l": "Mathematics papers OpenAI published from an unreleased model in the same period, demonstrating ongoing research transparency"
-    },
-    {
-     "n": "Active",
-     "l": "Status of chain-of-thought monitoring in OpenAI's o-series evaluation pipeline per the company's own Q1 2025 documentation"
-    },
-    {
-     "n": "30+",
-     "l": "Researchers who departed Google DeepMind and Anthropic combined in 2024 without parallel 'suppression' coverage"
-    }
-   ],
-   "tags": [
-    "safety",
-    "OpenAI",
-    "interpretability",
-    "AI policy"
-   ],
-   "generated": "2026-10-09T05:26:27.249968+00:00",
    "auto": true
   }
  ]
