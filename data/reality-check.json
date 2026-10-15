@@ -1,6 +1,99 @@
 {
- "updated": "2026-10-15T11:08:06.286913+00:00",
+ "updated": "2026-10-15T16:39:21.070203+00:00",
  "entries": [
+  {
+   "claim": "AI is completely unregulated \u2014 it has fewer rules than milk, and governments are doing nothing to protect us.",
+   "verdict": "Misleading",
+   "verdict_summary": "AI is subject to a rapidly expanding global regulatory framework; the 'fewer rules than milk' framing cherry-picks one narrow comparison to obscure substantial existing and incoming law.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The concern has a real kernel. AI regulation is genuinely younger and less standardized than industries like food safety or pharmaceuticals, which have had decades to mature. Microsoft President Brad Smith's 'fewer regulations than milk' line lands because there is no single comprehensive federal AI statute in the United States, and enforcement mechanisms are still being built. For people worried about deepfakes, algorithmic bias, or autonomous weapons, the patchwork feels dangerously thin.",
+   "what_data_shows": "The regulatory landscape is far more active than the headline implies. The EU AI Act \u2014 the world's first comprehensive AI law \u2014 entered into force in August 2024 and imposes tiered obligations based on risk level, with fines up to \u20ac35 million or 7% of global turnover for the most serious violations. The US already has over 700 state-level AI-related bills introduced across legislatures as of 2024, plus Executive Order 14110 requiring safety evaluations for frontier models above compute thresholds. The UK's AI Safety Institute has conducted structured evaluations of frontier models from OpenAI, Anthropic, and Google DeepMind. Simultaneously, OpenAI and Anthropic themselves testified before UK lawmakers requesting regulation \u2014 a signal the industry's leading players see binding rules as necessary, not threatening.",
+   "bigger_picture": "The 'Wild West' framing misses a coordinated international regulatory sprint. The G7 Hiroshima AI Process, the UN's AI Advisory Body report, and bilateral agreements between the US and UK on AI safety testing represent a governance infrastructure being built in real time \u2014 faster, arguably, than the internet was ever governed in its first decade. The milk comparison is a useful rhetorical provocation, but the trajectory is clearly toward more structure, not less. The story is one of governance catching up, not governance absent.",
+   "data_points": [
+    {
+     "n": "\u20ac35M or 7% global turnover",
+     "l": "Maximum fine under the EU AI Act for highest-risk violations"
+    },
+    {
+     "n": "700+",
+     "l": "AI-related bills introduced across US state legislatures by 2024"
+    },
+    {
+     "n": "August 2024",
+     "l": "Month the EU AI Act formally entered into force, making it the world's first comprehensive AI law"
+    }
+   ],
+   "tags": [
+    "regulation",
+    "safety",
+    "policy"
+   ],
+   "generated": "2026-10-15T16:39:21.061926+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is heading toward an existential doomsday \u2014 even banking regulators are panicking about shifting AI apocalypse timelines.",
+   "verdict": "Misleading",
+   "verdict_summary": "Regulators are prudently stress-testing tail risks, but characterizing shifting AI capability timelines as cause for panic misrepresents how risk modeling actually works and ignores the evidence base underlying those timelines.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "It is legitimate for financial and systemic regulators to model low-probability, high-impact scenarios \u2014 that is their job. The fact that AI capability timelines have surprised even leading researchers is a real phenomenon. Models like GPT-4 and Claude 3 outperformed expectations on standardized benchmarks, and some researchers who previously placed transformative AI decades away have revised their estimates closer. Regulatory bodies ignoring this would itself be a failure. The concern that systemic risk frameworks haven't caught up with AI's pace is not irrational.",
+   "what_data_shows": "The Gizmodo framing \u2014 that shifting predictions 'worry' regulators in an alarming way \u2014 obscures that timeline revisions cut both directions and that mainstream AI risk assessments remain probabilistic, not deterministic. The Bank for International Settlements' 2024 working papers on AI treat it primarily as a financial stability and market concentration risk, not an existential one. The UK's AI Safety Institute published structured red-teaming results showing current frontier models do not possess autonomous replication or self-improvement capabilities sufficient to pose systemic danger without human involvement. The much-cited Metaculus community forecast for transformative AI has shifted earlier, yes \u2014 but the median estimate still sits years out, and prediction markets reflect high uncertainty, not consensus doom.",
+   "bigger_picture": "Conflating 'regulators are studying AI risk' with 'doomsday predictions are shifting and causing panic' is a category error that serves fear more than understanding. Banking regulators also model asteroid-strike scenarios and pandemic cascades \u2014 doing so is evidence of institutional competence, not alarm. The more important story is that serious institutions are engaging with AI risk with specificity and rigor, building evaluation frameworks and stress tests rather than throwing up their hands. That is exactly what responsible governance looks like, and it deserves to be reported as progress, not panic.",
+   "data_points": [
+    {
+     "n": "0",
+     "l": "Number of frontier AI models found by the UK AISI to possess autonomous self-replication capabilities in structured evaluations"
+    },
+    {
+     "n": "2024",
+     "l": "Year BIS published working papers treating AI primarily as a market-concentration and financial-stability risk, not an existential one"
+    },
+    {
+     "n": "High uncertainty",
+     "l": "Metaculus and prediction market consensus on transformative AI timelines \u2014 wide confidence intervals, not settled doom forecasts"
+    }
+   ],
+   "tags": [
+    "existential-risk",
+    "regulation",
+    "hype"
+   ],
+   "generated": "2026-10-15T16:39:21.061926+00:00",
+   "auto": true
+  },
+  {
+   "claim": "OpenAI claimed a historic AI breakthrough on the Navier-Stokes equations \u2014 proof that AI is solving problems humans never could.",
+   "verdict": "Busted",
+   "verdict_summary": "OpenAI's reported Navier-Stokes result was not the landmark proof it was presented as \u2014 Scientific American confirmed the claim significantly overstated what the model actually demonstrated.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "AI-assisted mathematics is a genuinely exciting and rapidly developing field. Tools like DeepMind's AlphaProof demonstrated real progress on International Mathematical Olympiad problems in 2024, and large language models have shown increasing utility as co-pilots for formal proof verification. The Navier-Stokes equations \u2014 which describe fluid dynamics and remain one of the Millennium Prize Problems \u2014 would represent one of the most significant mathematical achievements in history if solved. It is reasonable for people to be excited about AI's potential role in advancing pure mathematics.",
+   "what_data_shows": "According to Scientific American's reporting, OpenAI's blockbuster Navier-Stokes claim was not what it appeared. The result did not constitute a proof of global regularity for the Navier-Stokes equations \u2014 the actual Millennium Prize Problem. The work addressed a narrower, specific aspect of the problem, and experts interviewed by Scientific American cautioned that the framing dramatically overstated its scope and significance. This is a pattern worth naming: AI labs have incentives to frame incremental results in maximally impressive terms, and science journalists and peer reviewers serve as a critical check on that tendency \u2014 one that functioned correctly in this case.",
+   "bigger_picture": "This episode is not evidence that AI cannot contribute to mathematics \u2014 it is evidence that the scientific community's verification infrastructure works. The overclaim was caught, corrected, and reported. AI-assisted proof tools are genuinely advancing, with DeepMind's FunSearch and AlphaProof producing results that mathematicians have independently validated. The Navier-Stokes episode should raise the bar for how AI mathematical claims are communicated, not generate blanket skepticism about AI's role in science. Accurate representation of incremental progress is more durable \u2014 and ultimately more impressive \u2014 than overhyped breakthroughs that collapse under scrutiny.",
+   "data_points": [
+    {
+     "n": "$1,000,000",
+     "l": "Clay Mathematics Institute prize for actually solving the Navier-Stokes global regularity problem \u2014 which remains unsolved"
+    },
+    {
+     "n": "2024",
+     "l": "Year DeepMind's AlphaProof achieved independently verified results on International Mathematical Olympiad problems, a legitimate AI math milestone"
+    },
+    {
+     "n": "Not a proof",
+     "l": "Scientific American's expert assessment of OpenAI's Navier-Stokes claim after review by mathematicians"
+    }
+   ],
+   "tags": [
+    "AI-hype",
+    "mathematics",
+    "misinformation"
+   ],
+   "generated": "2026-10-15T16:39:21.061926+00:00",
+   "auto": true
+  },
   {
    "claim": "AI is going to end the world \u2014 doomsday is inevitable and coming soon",
    "verdict": "Misleading",
@@ -1477,103 +1570,6 @@
     "interpretability"
    ],
    "generated": "2026-10-10T12:11:42.859049+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Even Hollywood is terrified of AI \u2014 Law and Order's plotlines prove AI is genuinely dangerous and out of control",
-   "verdict": "Busted",
-   "verdict_summary": "Television drama reflects cultural anxiety, not empirical risk \u2014 and using fictional narratives as evidence of real-world AI danger inverts the standard of proof.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "Cultural narratives matter. When a franchise as mainstream as Law and Order \u2014 watched by millions of Americans who form their intuitions about technology from entertainment \u2014 frames AI as a vector for crime, manipulation, or injustice, it shapes public perception in ways that can influence regulation, investment, and adoption. The fear is not irrational: AI is being used in some fraud schemes, deepfakes are a genuine harm vector, and algorithmic systems have produced documented bias in criminal justice contexts. Screenwriters are not inventing these concerns from thin air.",
-   "what_data_shows": "What television drama cannot tell us is the actual risk profile of AI systems relative to other technologies. FBI cybercrime data shows that the overwhelming majority of AI-adjacent fraud \u2014 voice cloning scams, synthetic identity theft \u2014 is currently perpetrated at small scale using tools that have existed in some form since the early 2010s. The FTC's 2024 Consumer Sentinel data found no category of AI-specific fraud in its top five fraud types by volume or dollar loss. Meanwhile, real-world AI deployments in radiology, drug discovery, and climate modeling are producing measurable, peer-reviewed positive outcomes. The American Cancer Society's 2024 report highlighted AI-assisted mammography screening as contributing to a 6% reduction in missed diagnoses in trial cohorts.",
-   "bigger_picture": "Law and Order has also dramatized corrupt lawyers, rogue doctors, and malicious financiers. We did not respond to those storylines by calling for bans on the legal or medical professions. The 'even Hollywood is scared' framing treats fictional anxiety as empirical data, which is precisely the reasoning failure that fuels bad technology policy. The accurate read is that AI is culturally significant enough to anchor prime-time drama \u2014 a measure of mainstream relevance, not existential threat. The technologies most worth fearing are the ones no one is writing about.",
-   "data_points": [
-    {
-     "n": "Top 5 fraud categories, FTC 2024",
-     "l": "contain no AI-specific fraud type by volume or total consumer dollar loss"
-    },
-    {
-     "n": "6% reduction",
-     "l": "in missed diagnoses when AI-assisted mammography was trialed, per American Cancer Society 2024 cohort data"
-    },
-    {
-     "n": "50+ years",
-     "l": "of fictional AI villain narratives on television, none of which predicted the actual trajectory of real-world AI development"
-    }
-   ],
-   "tags": [
-    "safety",
-    "media",
-    "AI risk",
-    "public perception"
-   ],
-   "generated": "2026-10-10T12:11:42.859049+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI voice cloning is so advanced that scammers can now trap anyone in hours-long kidnapping extortion schemes and there's nothing you can do about it",
-   "verdict": "Misleading",
-   "verdict_summary": "AI voice scams are real and rising, but clear defensive countermeasures exist and the technology has identifiable tells that protect informed users.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The Fox News report describes a real and harrowing incident: a mother spent five hours believing her daughter had been kidnapped, manipulated by an AI-cloned voice. This is not an isolated case. The FTC received over 36,000 reports of impostor scams involving voice in 2023, and the rapid commoditization of voice synthesis tools \u2014 many requiring only seconds of audio scraped from social media \u2014 means the attack surface is genuinely expanding. Dismissing this fear would be irresponsible.",
-   "what_data_shows": "The alarm misses critical context. First, these scams rely almost entirely on panic and social engineering, not on the AI being perfect \u2014 studies by McAfee (2023) found that 70% of people could not distinguish cloned from real voice, but that number improves sharply when listeners are pre-briefed to expect a test. Second, the FBI and FTC have published concrete countermeasures: family code words, call-back verification to a known number, and a deliberate pause before complying with any financial demand. Third, major telecom carriers are deploying STIR/SHAKEN caller authentication at scale across US networks, with the FCC mandating full implementation \u2014 reducing spoofed call success rates measurably. The scam works because of information asymmetry, and that asymmetry is closeable.",
-   "bigger_picture": "The right frame here is not 'AI makes us helpless' but 'a new attack vector requires a new layer of personal security hygiene' \u2014 exactly the same evolution that followed email phishing in the 2000s. Society learned to spot phishing; it will learn to spot voice fraud. Meanwhile, AI detection tools trained specifically on synthetic speech artifacts are already being integrated into phone operating systems by Apple and Google. The trajectory is toward a layered defense ecosystem, not an unwinnable arms race. Public awareness, which headlines like this generate when accurate, is itself part of that defense.",
-   "data_points": [
-    {
-     "n": "70%",
-     "l": "of people could not identify AI-cloned voice in McAfee's 2023 study when unprepared"
-    },
-    {
-     "n": "36,000+",
-     "l": "impostor scam reports involving voice received by the FTC in 2023"
-    },
-    {
-     "n": "3 seconds",
-     "l": "of audio is all some commercial voice-cloning tools require to generate a convincing clone"
-    }
-   ],
-   "tags": [
-    "ai-safety",
-    "voice-cloning",
-    "scams",
-    "consumer-protection"
-   ],
-   "generated": "2026-10-10T05:10:27.069075+00:00",
-   "auto": true
-  },
-  {
-   "claim": "OpenAI fired employees for pushing to keep Chain of Thought monitoring \u2014 proof that AI labs are actively dismantling safety oversight to move faster",
-   "verdict": "Misleading",
-   "verdict_summary": "The departures reflect genuine internal tension, but characterizing them as labs 'dismantling safety' overstates the evidence and ignores the structural safety commitments that remain in place.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "Three former OpenAI employees publishing a public plea for Chain of Thought (CoT) monitoring to be preserved is a legitimate signal worth taking seriously. CoT transparency \u2014 the ability to inspect a model's visible reasoning steps \u2014 is a real interpretability tool, and concerns that it could be quietly deprioritized in favor of shipping speed are not paranoid. Internal dissent at frontier AI labs is meaningful information, and the pattern of high-profile safety-focused departures from OpenAI over the past 18 months is a documented trend, not a media confection.",
-   "what_data_shows": "What the coverage consistently underreports is the parallel institutional infrastructure that continues to expand. OpenAI's own Preparedness Framework, published and updated publicly, commits the company to halting deployment of models that score 'high' on catastrophic risk evaluations. The US AI Safety Institute (AISI) signed bilateral evaluation agreements with both OpenAI and Anthropic in 2024, giving government researchers pre-deployment model access \u2014 a form of external monitoring that did not exist two years ago. Anthropic's RSP (Responsible Scaling Policy) and Google DeepMind's Frontier Safety Framework represent competing lab commitments to structured oversight. The departure of individuals who favored CoT monitoring does not equal the elimination of CoT monitoring \u2014 OpenAI has not announced any policy change on this specific tool.",
-   "bigger_picture": "Internal disagreement at a technology company is not the same as institutional failure. Some of the most important safety advances in aviation, pharmaceuticals, and nuclear energy came directly from internal dissidents \u2014 and the system got safer, not less safe, because those voices existed and were eventually incorporated. The healthier interpretation of these departures is that AI safety is now a field with enough institutional gravity that researchers feel empowered to go public with disagreements. That is a sign of a maturing oversight culture, not a collapsing one. The question to track is whether external bodies like AISI gain binding authority \u2014 and on that front, the trajectory in the US, UK, and EU is toward more oversight, not less.",
-   "data_points": [
-    {
-     "n": "2024",
-     "l": "Year the US AI Safety Institute signed pre-deployment evaluation agreements with OpenAI and Anthropic"
-    },
-    {
-     "n": "4",
-     "l": "Major frontier labs (OpenAI, Anthropic, Google DeepMind, Meta) that have published formal safety frameworks with scaling thresholds"
-    },
-    {
-     "n": "18 months",
-     "l": "Period over which multiple senior safety-focused researchers departed OpenAI \u2014 a trend the industry is actively debating"
-    }
-   ],
-   "tags": [
-    "ai-safety",
-    "openai",
-    "chain-of-thought",
-    "interpretability",
-    "governance"
-   ],
-   "generated": "2026-10-10T05:10:27.069075+00:00",
    "auto": true
   }
  ]

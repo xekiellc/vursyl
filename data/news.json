@@ -1,33 +1,194 @@
 {
- "updated": "2026-10-15T11:08:06.286913+00:00",
+ "updated": "2026-10-15T16:39:21.070203+00:00",
  "items": [
   {
-   "title": "NVIDIA Expands Advanced Technology Access for Europe\u2019s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-   "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "source": "Google DeepMind",
+   "category": "health",
+   "published": "2026-10-15T16:08:03+00:00"
+  },
+  {
+   "title": "Proof-based general-purpose computing with Magnetar",
+   "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+   "source": "Microsoft Research",
+   "category": "compute",
+   "published": "2026-10-15T16:00:00+00:00"
+  },
+  {
+   "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+   "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-10-15T10:00:12+00:00"
+   "published": "2026-10-15T15:00:24+00:00"
   },
   {
-   "title": "The Nordics and NVIDIA Show What\u2019s Possible When a Region Commits to Advanced Computing",
-   "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+   "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-10-15T05:00:12+00:00"
+   "published": "2026-10-15T13:00:59+00:00"
   },
   {
-   "title": "Amp puts AI agents to work beyond code with OpenAI models",
-   "url": "https://openai.com/index/amp-beyond-coding",
+   "title": "Teaching students to think and learn through questions",
+   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-14T12:00:00+00:00"
+   "published": "2026-10-15T13:00:00+00:00"
   },
   {
-   "title": "SentinelOne cuts malware analysis from weeks to hours",
-   "url": "https://openai.com/index/sentinelone",
-   "source": "OpenAI",
+   "title": "Agents at the Edge: Extending AI Security Governance to Physical AI with DefenseClaw",
+   "url": "https://blogs.cisco.com/ai/agents-at-the-edge-extending-ai-security-governance-to-physical-ai-with-defenseclaw",
+   "source": "Cisco.com",
    "category": "ai",
-   "published": "2026-10-14T12:00:00+00:00"
+   "published": "2026-10-14T16:37:06+00:00"
+  },
+  {
+   "title": "Nvidia unveils AI tools to accelerate chipmaking",
+   "url": "https://biztoc.com/x/fcb1e20f6dd37d27",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-10-14T16:35:10+00:00"
+  },
+  {
+   "title": "Anthropic opens office in Singapore, partners with government on AI safety and adoption | Business",
+   "url": "https://www.devdiscourse.com/article/business/3992335-anthropic-opens-office-in-singapore-partners-with-government-on-ai-safety-and-adoption",
+   "source": "Devdiscourse",
+   "category": "ai",
+   "published": "2026-10-14T16:34:13+00:00"
+  },
+  {
+   "title": "GFiber and Qualcomm announce Wi-Fi 8 gateway",
+   "url": "https://www.tomshardware.com/networking/routers/gfiber-and-qualcomm-announce-wi-fi-8-gateway-20-gig-customers-to-be-first-to-receive-next-gen-wireless-upgrade",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-10-14T16:28:03+00:00"
+  },
+  {
+   "title": "Two Canadian Students Make James Dyson Award 2026 Global Top 20",
+   "url": "https://www.iphoneincanada.ca/2026/10/14/james-dyson-award-2026-top-20-canadians/",
+   "source": "iPhone in Canada",
+   "category": "breakthroughs",
+   "published": "2026-10-14T16:27:58+00:00"
+  },
+  {
+   "title": "Best AI transcription software for your workflow [2026]",
+   "url": "https://blog.hubspot.com/sales/ai-transcription-software",
+   "source": "Hubspot.com",
+   "category": "ai",
+   "published": "2026-10-14T16:26:42+00:00"
+  },
+  {
+   "title": "Medsender Surpasses 100 Specialty Practices on ModMed\u00ae EMA",
+   "url": "https://www.prnewswire.com/news-releases/medsender-surpasses-100-specialty-practices-on-modmed-ema-302908825.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-14T16:16:00+00:00"
+  },
+  {
+   "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+   "url": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
+   "source": "Nvidia.com",
+   "category": "ai",
+   "published": "2026-10-14T16:10:48+00:00"
+  },
+  {
+   "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-fabs",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-10-14T16:10:00+00:00"
+  },
+  {
+   "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+   "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+   "source": "The Verge",
+   "category": "ai",
+   "published": "2026-10-14T16:05:21+00:00"
+  },
+  {
+   "title": "Neuroscientist Gaya Dowling Joins the American Institutes for Research to Lead the AI Century Study",
+   "url": "https://www.prnewswire.com/news-releases/neuroscientist-gaya-dowling-joins-the-american-institutes-for-research-to-lead-the-ai-century-study-302908767.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-14T16:01:00+00:00"
+  },
+  {
+   "title": "Samsung\u2019s New Fridge Doesn\u2019t Just Chill Your Food; It Learns What You Eat",
+   "url": "https://soyacincau.com/2026/10/15/samsung-bespoke-ai-family-hub-refrigerator/",
+   "source": "SoyaCincau.com",
+   "category": "ai",
+   "published": "2026-10-14T16:00:55+00:00"
+  },
+  {
+   "title": "LITEON Showcases NVIDIA 800 VDC Architecture and Thermal Management Portfolio at OCP Global Summit 2026",
+   "url": "https://www.prnewswire.com/news-releases/liteon-showcases-nvidia-800-vdc-architecture-and-thermal-management-portfolio-at-ocp-global-summit-2026-302908014.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-10-14T16:00:00+00:00"
+  },
+  {
+   "title": "How technology is changing the detection of breast cancer - CBS News",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186314500",
+   "source": "Slashdot.org",
+   "category": "health",
+   "published": "2026-10-14T15:52:35+00:00"
+  },
+  {
+   "title": "A London startup is putting AI cameras into Polish operating theatres",
+   "url": "https://thenextweb.com/news/vitvio-gdansk-operating-room-ai",
+   "source": "The Next Web",
+   "category": "health",
+   "published": "2026-10-14T15:45:42+00:00"
+  },
+  {
+   "title": "WeInfuse and Clarion Partner to Bring AI Agents to the Infusion and Pharmacy Front Office",
+   "url": "https://www.prnewswire.com/news-releases/weinfuse-and-clarion-partner-to-bring-ai-agents-to-the-infusion-and-pharmacy-front-office-302908738.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-14T15:03:00+00:00"
+  },
+  {
+   "title": "Researchers improve weather forecasts looking two to six weeks out",
+   "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-14T15:00:00+00:00"
+  },
+  {
+   "title": "Improve Pharmacovigilance Quality with AI-Enabled Case Intake, Upcoming Webinar Featuring Deloitte Leaders, Hosted by Xtalks",
+   "url": "https://www.prnewswire.com/news-releases/improve-pharmacovigilance-quality-with-ai-enabled-case-intake-upcoming-webinar-featuring-deloitte-leaders-hosted-by-xtalks-302908574.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-14T14:58:00+00:00"
+  },
+  {
+   "title": "H\u00f4pital Montfort Establishes an Innovative Partnership to Accelerate Emergency Department Care",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/hopital-montfort-establishes-an-innovative-partnership-to-accelerate-emergency-department-care",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-10-14T14:35:07+00:00"
+  },
+  {
+   "title": "AI-Designed Biologics Are Moving From the Screen to the Bench, and Developers Are Hiring for the Next Test",
+   "url": "https://financialpost.com/globe-newswire/ai-designed-biologics-are-moving-from-the-screen-to-the-bench-and-developers-are-hiring-for-the-next-test",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-10-14T14:23:12+00:00"
+  },
+  {
+   "title": "Near real-time long-read eDNA sequencing reveals harmful algal bloom dynamics in the Indian River Lagoon",
+   "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000557",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-10-14T14:00:00+00:00"
+  },
+  {
+   "title": "FF EAI Robotics Ecosystem Signs Definitive Agreements to Combine FFAI's Full Robotics Business at About $200 Million and $2.246 Per Share, an Approximate 50 Percent Premium; Becoming the First U.S.-Listed Humanoid and Bionic EAI Robotics Pure Play",
+   "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-signs-definitive-agreements-to-combine-ffais-full-robotics-business-at-about-200-million-and-2-246-per-share-an-approximate-50-percent-premium-becoming-the-first-us-listed-humanoid-and-bionic-eai-r-302908181.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-14T11:30:00+00:00"
   },
   {
    "title": "Scimplify raises $25M to expand AI-driven materials production",
@@ -107,32 +268,11 @@
    "published": "2026-10-14T10:30:00+00:00"
   },
   {
-   "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-   "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-   "source": "Quera.com",
-   "category": "quantum",
-   "published": "2026-10-14T10:26:24+00:00"
-  },
-  {
    "title": "Cisco bullish on India, to expand chip design team, says CEO Chuck Robbins",
    "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/cisco-bullish-on-india-to-expand-chip-design-team-says-ceo-chuck-robbins/articleshow/134939253.cms",
    "source": "The Times of India",
    "category": "compute",
    "published": "2026-10-14T10:25:03+00:00"
-  },
-  {
-   "title": "Quantum battery optimized by parametric amplification",
-   "url": "https://link.aps.org/doi/10.1103/263v-vp3b",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-14T10:00:00+00:00"
-  },
-  {
-   "title": "Controlled-$Z$ gates with giant atoms in structured waveguides",
-   "url": "https://link.aps.org/doi/10.1103/yfm3-qmqq",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-14T10:00:00+00:00"
   },
   {
    "title": "Relationship between vanishing pairwise entanglement and global separability: Entanglement structure and measures in $W$ subspace",
@@ -241,18 +381,18 @@
    "published": "2026-10-14T07:30:00+00:00"
   },
   {
-   "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
-   "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-14T06:04:15+00:00"
+   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "url": "https://openai.com/index/third-moment-research",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-14T07:00:00+00:00"
   },
   {
-   "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-   "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
-   "source": "NVIDIA",
+   "title": "How Block is building AI-powered security with OpenAI technology",
+   "url": "https://openai.com/index/block-ai-powered-security",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-14T06:00:28+00:00"
+   "published": "2026-10-14T07:00:00+00:00"
   },
   {
    "title": "llm-stream-guards 0.2.0",
@@ -381,6 +521,20 @@
    "published": "2026-10-14T02:13:52+00:00"
   },
   {
+   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-10-14T02:00:14+00:00"
+  },
+  {
+   "title": "Yaskawa targets 2030 humanoid robot rollout as AI lifts forecast",
+   "url": "https://www.digitimes.com/news/a20261014PD202/yaskawa-forecast-2030-launch-demand.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-10-14T01:39:18+00:00"
+  },
+  {
    "title": "Partial Vision Restored in Some Blind Patients With New Experimental Treatment",
    "url": "https://www.sciencealert.com/partial-vision-restored-in-some-blind-patients-with-new-experimental-treatment",
    "source": "ScienceAlert",
@@ -388,10 +542,10 @@
    "published": "2026-10-14T01:30:00+00:00"
   },
   {
-   "title": "Talazoparib plus enzalutamide in high-volume metastatic hormone-naive prostate cancer: a randomized phase 2 trial",
-   "url": "https://www.nature.com/articles/s41591-026-04671-5",
+   "title": "Parity-dependent coupling of molecular spin chains to a superconductor",
+   "url": "https://www.nature.com/articles/s41586-026-11117-y",
    "source": "Nature.com",
-   "category": "health",
+   "category": "quantum",
    "published": "2026-10-14T00:00:00+00:00"
   },
   {
@@ -451,13 +605,6 @@
    "published": "2026-10-13T21:00:17+00:00"
   },
   {
-   "title": "How artificial neural networks build their own learning machinery",
-   "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-13T21:00:00+00:00"
-  },
-  {
    "title": "Unitree CEO says GPT-7 might \u2018directly crack\u2019 the problems of robotic AI",
    "url": "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
    "source": "TechRadar",
@@ -472,18 +619,11 @@
    "published": "2026-10-13T20:45:17+00:00"
   },
   {
-   "title": "Google\u2019s Gemini Argon 4 Is Now Available Worldwide",
-   "url": "https://gizmodo.com/googles-gemini-argon-4-is-now-available-worldwide-2000825497",
-   "source": "Gizmodo.com",
+   "title": "Developing Gemini 4 Argon responsibly and safely",
+   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "source": "Google DeepMind",
    "category": "ai",
-   "published": "2026-10-13T20:20:52+00:00"
-  },
-  {
-   "title": "YYForce Brings Humanoid Robots to Hospitality in Landmark Partnership with Novotel & Mercure Singapore on Stevens",
-   "url": "https://financialpost.com/globe-newswire/yyforce-brings-humanoid-robots-to-hospitality-in-landmark-partnership-with-novotel-mercure-singapore-on-stevens",
-   "source": "Financial Post",
-   "category": "robotics",
-   "published": "2026-10-13T20:12:49+00:00"
+   "published": "2026-10-13T19:43:07+00:00"
   },
   {
    "title": "A practical guide to real-time analytics in 2026",
@@ -549,11 +689,11 @@
    "published": "2026-10-13T16:19:57+00:00"
   },
   {
-   "title": "Gemini 4 Argon for Robotics",
-   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
    "source": "Google DeepMind",
-   "category": "robotics",
-   "published": "2026-10-13T16:01:58+00:00"
+   "category": "ai",
+   "published": "2026-10-13T16:01:52+00:00"
   },
   {
    "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
@@ -633,11 +773,11 @@
    "published": "2026-10-13T13:30:00+00:00"
   },
   {
-   "title": "Higgsfield takes AI video from 1 minute to over 10",
-   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-13T12:00:00+00:00"
+   "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-13T12:00:49+00:00"
   },
   {
    "title": "An hour of audio transcribed in about 13s on MacBook Air",
@@ -759,6 +899,13 @@
    "published": "2026-10-13T08:42:12+00:00"
   },
   {
+   "title": "NVIDIA Announces New Investments in France\u2019s Startups",
+   "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-13T05:00:31+00:00"
+  },
+  {
    "title": "alethex added to PyPI",
    "url": "https://pypi.org/project/alethex/",
    "source": "Pypi.org",
@@ -792,13 +939,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-10-13T04:01:00+00:00"
-  },
-  {
-   "title": "Q&A: Building accountability behind our words \u2014 and AI\u2019s \u2014 in civic conversations",
-   "url": "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-13T04:00:00+00:00"
   },
   {
    "title": "xgen-sdk 2.10.0",
@@ -988,13 +1128,6 @@
    "source": "Github.com",
    "category": "ai",
    "published": "2026-10-12T16:34:41+00:00"
-  },
-  {
-   "title": "Simulating student learning for better AI tutoring",
-   "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-10-12T16:00:00+00:00"
   },
   {
    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
@@ -34868,139 +35001,6 @@
    "source": "Digitimes",
    "category": "compute",
    "published": "2026-07-20T03:03:30+00:00"
-  },
-  {
-   "title": "pf-core 0.9.0",
-   "url": "https://pypi.org/project/pf-core/0.9.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-20T03:02:47+00:00"
-  },
-  {
-   "title": "Protoface \u2013 Real-time avatar API for AI agents and apps from $0.01 per minute",
-   "url": "https://betalist.com/startups/protoface",
-   "source": "Betalist.com",
-   "category": "ai",
-   "published": "2026-07-20T03:00:00+00:00"
-  },
-  {
-   "title": "distil-llm 1.20.2",
-   "url": "https://pypi.org/project/distil-llm/1.20.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-20T02:54:06+00:00"
-  },
-  {
-   "title": "Jensen Huang's week in Tokyo: what Nvidia's Japan trip reveals about future partners",
-   "url": "https://www.digitimes.com/news/a20260720VL205/jensen-huang-japan-government-robotics-supply-chain.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-20T02:54:01+00:00"
-  },
-  {
-   "title": "agentworld 0.1.0",
-   "url": "https://pypi.org/project/agentworld/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-20T02:52:40+00:00"
-  },
-  {
-   "title": "agentworld added to PyPI",
-   "url": "https://pypi.org/project/agentworld/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-20T02:52:40+00:00"
-  },
-  {
-   "title": "A Deep Dive Inside Kimi K3, And All Other Chinese AI Models: The Definitive China LLM Primer",
-   "url": "https://biztoc.com/x/6c09149dfc2b6578",
-   "source": "Biztoc.com",
-   "category": "ai",
-   "published": "2026-07-20T02:51:34+00:00"
-  },
-  {
-   "title": "Manpower Ministry taps AI to build data-driven employment policies",
-   "url": "https://en.antaranews.com/news/423249/manpower-ministry-taps-ai-to-build-data-driven-employment-policies",
-   "source": "Antaranews.com",
-   "category": "ai",
-   "published": "2026-07-20T02:48:31+00:00"
-  },
-  {
-   "title": "octomem 0.1.2",
-   "url": "https://pypi.org/project/octomem/0.1.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-20T02:46:46+00:00"
-  },
-  {
-   "title": "octomem added to PyPI",
-   "url": "https://pypi.org/project/octomem/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-20T02:46:46+00:00"
-  },
-  {
-   "title": "China's Moonshot AI pauses new Kimi K3 subscriptions amid surge in demand",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-pauses-new-kimi-k3-subscriptions-amid-surge-in-demand/articleshow/132504650.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-07-20T02:43:28+00:00"
-  },
-  {
-   "title": "vocal-helper 0.6.0",
-   "url": "https://pypi.org/project/vocal-helper/0.6.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-20T02:30:02+00:00"
-  },
-  {
-   "title": "lintlang 0.3.1",
-   "url": "https://pypi.org/project/lintlang/0.3.1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-20T02:29:06+00:00"
-  },
-  {
-   "title": "Enterprise Data Center Modernization: Moving From Legacy Hardware to Intelligent Infrastructure",
-   "url": "https://bloginformatico.com/enterprise-data-center-modernization-moving-from-legacy-hardware-to-intelligent-infrastructure/",
-   "source": "Bloginformatico.com",
-   "category": "compute",
-   "published": "2026-07-20T02:10:22+00:00"
-  },
-  {
-   "title": "Holtek sees customers prioritize supply stability over pricing as optical communications gains are expected in 2027",
-   "url": "https://www.digitimes.com/news/a20260715PD220/holtek-mcu-communications-revenue-taiwan-2026.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-20T02:03:46+00:00"
-  },
-  {
-   "title": "tensor-grep 1.83.0",
-   "url": "https://pypi.org/project/tensor-grep/1.83.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-20T01:31:39+00:00"
-  },
-  {
-   "title": "Samsung SDS launches Korea\u2019s first NPU-as-a-Service on FuriosaAI\u2019s RNGD chip",
-   "url": "https://cryptobriefing.com/samsung-sds-korea-npu-as-a-service-furiosaai-rngd/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-07-20T01:24:47+00:00"
-  },
-  {
-   "title": "MiTAC unveils liquid-cooled 52U rack packing 96 AMD GPUs into a single unit",
-   "url": "https://cryptobriefing.com/mitac-liquid-cooled-rack-96-amd-gpus/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-07-20T01:11:43+00:00"
-  },
-  {
-   "title": "agentargus 0.1.0",
-   "url": "https://pypi.org/project/agentargus/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-19T19:42:53+00:00"
   }
  ]
 }
