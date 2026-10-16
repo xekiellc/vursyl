@@ -1,40 +1,174 @@
 {
- "updated": "2026-10-16T03:55:07.935269+00:00",
+ "updated": "2026-10-16T11:02:56.932450+00:00",
  "items": [
   {
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "source": "OpenAI",
+   "title": "AI model decodes the language cells use to communicate",
+   "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+   "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-10-15T19:00:00+00:00"
+   "published": "2026-10-15T20:50:00+00:00"
   },
   {
-   "title": "Proof-based general-purpose computing with Magnetar",
-   "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
-   "source": "Microsoft Research",
-   "category": "compute",
-   "published": "2026-10-15T16:00:00+00:00"
-  },
-  {
-   "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-   "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+   "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-10-15T15:00:24+00:00"
+   "published": "2026-10-15T17:00:23+00:00"
   },
   {
-   "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+   "title": "Hitachi Energy and Rockwell Automation Unite Power and Automation to Help Industries Accelerate Electrification",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/hitachi-energy-and-rockwell-automation-unite-power-and-automation-to-help-industries-accelerate-electrification",
+   "source": "Financial Post",
+   "category": "compute",
+   "published": "2026-10-15T11:00:58+00:00"
+  },
+  {
+   "title": "Agility Robotics Selects Nyobolt as its Ultra-Fast Charging Battery Technology Partner for Digit 5",
+   "url": "https://www.prnewswire.com/news-releases/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5-302909607.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-15T11:00:00+00:00"
+  },
+  {
+   "title": "Choosing a Chunking Strategy for Your LLM Apps: A Decision-Tree Approach",
+   "url": "https://machinelearningmastery.com/choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach/",
+   "source": "Machinelearningmastery.com",
+   "category": "ai",
+   "published": "2026-10-15T11:00:00+00:00"
+  },
+  {
+   "title": "Presentation: What 25 Trillion Tokens Reveal About How Developers Actually Adopt AI Agents",
+   "url": "https://www.infoq.com/presentations/agentic-ai-developer-trust-adoption/",
+   "source": "InfoQ.com",
+   "category": "ai",
+   "published": "2026-10-15T11:00:00+00:00"
+  },
+  {
+   "title": "A world first: the Structured Glossary of Embedded AI is now available in English",
+   "url": "https://newsroom.eclipse.org/news/announcements/world-first-structured-glossary-embedded-ai-now-available-english",
+   "source": "Eclipse.org",
+   "category": "ai",
+   "published": "2026-10-15T11:00:00+00:00"
+  },
+  {
+   "title": "Mueon Raises $65M in Series A Funding to Scale its Cubelets\u2122 Exponential Computing Platform",
+   "url": "https://www.prnewswire.com/news-releases/mueon-raises-65m-in-series-a-funding-to-scale-its-cubelets-exponential-computing-platform-302909367.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-10-15T11:00:00+00:00"
+  },
+  {
+   "title": "CERN partners with Mistral to build a Large Physics Model",
+   "url": "https://cryptobriefing.com/cern-mistral-large-physics-model/",
+   "source": "Crypto Briefing",
+   "category": "breakthroughs",
+   "published": "2026-10-15T10:56:10+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Hyper-personalizing European banking experience with AI",
+   "url": "https://www.techradar.com/pro/hyper-personalizing-european-banking-experience-with-ai",
+   "source": "TechRadar",
+   "category": "ai",
+   "published": "2026-10-15T10:50:57+00:00"
+  },
+  {
+   "title": "Russian chipmakers demo homegrown RISC-V and Arm silicon with retro games",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186326738",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-10-15T10:32:57+00:00"
+  },
+  {
+   "title": "Samsung unveils an extremely small 256TB SSD for AI data centers",
+   "url": "https://www.sammobile.com/news/samsung-extremely-small-256tb-ssd-ai-data-centers/",
+   "source": "SamMobile",
+   "category": "compute",
+   "published": "2026-10-15T10:31:47+00:00"
+  },
+  {
+   "title": "AstraZeneca strikes $40 million AI drug discovery deal with insitro",
+   "url": "https://www.channelnewsasia.com/business/astrazeneca-strikes-40-million-ai-drug-discovery-deal-insitro-6462081",
+   "source": "CNA",
+   "category": "health",
+   "published": "2026-10-15T10:03:42+00:00"
+  },
+  {
+   "title": "NVIDIA Expands Advanced Technology Access for Europe\u2019s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+   "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-10-15T10:00:12+00:00"
+  },
+  {
+   "title": "Non-Abelian Quantum Signal Processing: A Composite Pulse for Fast Analytic Control of Hybrid Oscillator-Qubit Processors",
+   "url": "https://link.aps.org/doi/10.1103/7jwl-k8xg",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-15T10:00:00+00:00"
+  },
+  {
+   "title": "Geometric power capacity of coherent ergotropy in quantum batteries",
+   "url": "https://link.aps.org/doi/10.1103/37q3-92p9",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-15T10:00:00+00:00"
+  },
+  {
+   "title": "Bistable squeezing in a multimode circuit-quantum-acoustodynamics system",
+   "url": "https://link.aps.org/doi/10.1103/1cbf-c3z1",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-15T10:00:00+00:00"
+  },
+  {
+   "title": "wisepatientAI Turns Your Medical Records Into Answers You Can Understand",
+   "url": "https://www.prnewswire.com/news-releases/wisepatientai-turns-your-medical-records-into-answers-you-can-understand-302907400.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-15T09:30:00+00:00"
+  },
+  {
+   "title": "120ft raises angel funding to build autonomous microfactories run by humanoid robots",
+   "url": "https://siliconangle.com/2026/10/15/120ft-raises-angel-funding-to-build-autonomous-microfactories-run-by-humanoid-robots/",
+   "source": "SiliconANGLE News",
+   "category": "robotics",
+   "published": "2026-10-15T07:00:08+00:00"
+  },
+  {
+   "title": "Elsevier Commits to Accelerate AI-Driven Science Across Europe",
+   "url": "https://www.prnewswire.com/news-releases/elsevier-commits-to-accelerate-ai-driven-science-across-europe-302908505.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-15T07:00:00+00:00"
+  },
+  {
+   "title": "BMW Group begins series production of Gen6 high-voltage batteries in Shenyang",
+   "url": "https://www.press.bmwgroup.com/global/article/detail/T0461769EN/bmw-group-begins-series-production-of-gen6-high-voltage-batteries-in-shenyang?language=en",
+   "source": "Bmwgroup.com",
+   "category": "compute",
+   "published": "2026-10-15T06:00:00+00:00"
+  },
+  {
+   "title": "The Nordics and NVIDIA Show What\u2019s Possible When a Region Commits to Advanced Computing",
+   "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-10-15T13:00:59+00:00"
+   "published": "2026-10-15T05:00:12+00:00"
   },
   {
-   "title": "Teaching students to think and learn through questions",
-   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "source": "OpenAI",
+   "title": "US biotech firm completes 95% of dodo's genome and identifies gene-editing targets; could the extinct bird come alive again through its closest living relative, the Nicobar pigeon?",
+   "url": "https://timesofindia.indiatimes.com/science/wildlife/us-biotech-firm-completes-95-of-dodos-genome-and-identifies-gene-editing-targets-could-the-extinct-bird-come-alive-again-through-its-closest-living-relative-the-nicobar-pigeon/articleshow/134957542.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-10-15T04:46:07+00:00"
+  },
+  {
+   "title": "Q&A: The \u201ccollision\u201d between AI, your brain, and society",
+   "url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
+   "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-10-15T13:00:00+00:00"
+   "published": "2026-10-15T04:00:00+00:00"
   },
   {
    "title": "Apple prepares to debut first AI features in China in December after delay",
@@ -142,20 +276,6 @@
    "published": "2026-10-15T02:43:24+00:00"
   },
   {
-   "title": "ProLogium targets AI data centers, aviation with solid-state batteries",
-   "url": "https://www.digitimes.com/news/a20261015PD203/prologium-data-development-market-automotive.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-10-15T01:55:25+00:00"
-  },
-  {
-   "title": "Samsung, SK Hynix stand to benefit as humanoid robot DRAM demand is forecast to jump 20-fold by 2030",
-   "url": "https://www.digitimes.com/news/a20261014VL221/dram-demand-robot-2030-samsung.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-10-15T01:34:10+00:00"
-  },
-  {
    "title": "Modal Triples Valuation to $15 Billion as AI Infrastructure Demand Explodes",
    "url": "https://www.pymnts.com/news/investment-tracker/2026/modal-triples-valuation-to-15-billion-as-ai-infrastructure-demand-explodes/",
    "source": "pymnts.com",
@@ -168,27 +288,6 @@
    "source": "BusinessLine",
    "category": "health",
    "published": "2026-10-15T00:09:45+00:00"
-  },
-  {
-   "title": "Mitsubishi Electric\u2019s New AI Helps Rescue Robots Hear Survivors After Disasters",
-   "url": "https://www.ubergizmo.com/2026/10/mitsubishi-electrics-new-ai-helps-rescue-robots-hear-survivors-after-disasters/",
-   "source": "Ubergizmo",
-   "category": "robotics",
-   "published": "2026-10-15T00:00:17+00:00"
-  },
-  {
-   "title": "Simultaneous high-fidelity single-qubit gates in a spin qubit array",
-   "url": "https://www.nature.com/articles/s41567-026-03466-2",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-10-15T00:00:00+00:00"
-  },
-  {
-   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-   "url": "https://openai.com/index/sullivan-cromwell",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-15T00:00:00+00:00"
   },
   {
    "title": "Quantum Optimization and AI to Develop Alzheimer\u2019s Drugs",
@@ -266,6 +365,27 @@
    "source": "Crypto Briefing",
    "category": "health",
    "published": "2026-10-14T18:48:16+00:00"
+  },
+  {
+   "title": "Building the Data Infrastructure for Physical AI: Hesai Launches Kosmo 3D World Data Engine",
+   "url": "https://www.prnewswire.com/news-releases/building-the-data-infrastructure-for-physical-ai-hesai-launches-kosmo-3d-world-data-engine-302908956.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-14T18:04:00+00:00"
+  },
+  {
+   "title": "An AI-racing drone beat the best humans and set a world record",
+   "url": "https://www.popsci.com/technology/fastest-ai-racing-drone/",
+   "source": "Popular Science",
+   "category": "robotics",
+   "published": "2026-10-14T18:00:00+00:00"
+  },
+  {
+   "title": "Google DeepMind\u2019s Video-to-Sim-to-Real pipeline teaches a humanoid robot to play cornhole",
+   "url": "https://cryptobriefing.com/gemini-4-argon-robot-cornhole/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-10-14T17:55:12+00:00"
   },
   {
    "title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
@@ -394,13 +514,6 @@
    "published": "2026-10-14T15:03:00+00:00"
   },
   {
-   "title": "Researchers improve weather forecasts looking two to six weeks out",
-   "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-14T15:00:00+00:00"
-  },
-  {
    "title": "Improve Pharmacovigilance Quality with AI-Enabled Case Intake, Upcoming Webinar Featuring Deloitte Leaders, Hosted by Xtalks",
    "url": "https://www.prnewswire.com/news-releases/improve-pharmacovigilance-quality-with-ai-enabled-case-intake-upcoming-webinar-featuring-deloitte-leaders-hosted-by-xtalks-302908574.html",
    "source": "PRNewswire",
@@ -422,11 +535,18 @@
    "published": "2026-10-14T14:23:12+00:00"
   },
   {
-   "title": "Near real-time long-read eDNA sequencing reveals harmful algal bloom dynamics in the Indian River Lagoon",
-   "url": "https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000557",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-10-14T14:00:00+00:00"
+   "title": "Amp puts AI agents to work beyond code with OpenAI models",
+   "url": "https://openai.com/index/amp-beyond-coding",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-14T12:00:00+00:00"
+  },
+  {
+   "title": "SentinelOne cuts malware analysis from weeks to hours",
+   "url": "https://openai.com/index/sentinelone",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-14T12:00:00+00:00"
   },
   {
    "title": "Scimplify raises $25M to expand AI-driven materials production",
@@ -559,8 +679,7 @@
    "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/",
    "source": "Blog.google",
    "category": "breakthroughs",
-   "published": "2026-10-14T09:30:00+00:00",
-   "breakthrough": true
+   "published": "2026-10-14T09:30:00+00:00"
   },
   {
    "title": "MHRA 2030 Strategy to modernise patient-centred regulation for the era of AI and personalised medicines",
@@ -605,18 +724,18 @@
    "published": "2026-10-14T07:30:00+00:00"
   },
   {
-   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-   "url": "https://openai.com/index/third-moment-research",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-14T07:00:00+00:00"
+   "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+   "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-14T06:04:15+00:00"
   },
   {
-   "title": "How Block is building AI-powered security with OpenAI technology",
-   "url": "https://openai.com/index/block-ai-powered-security",
-   "source": "OpenAI",
+   "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+   "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+   "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-10-14T07:00:00+00:00"
+   "published": "2026-10-14T06:00:28+00:00"
   },
   {
    "title": "llm-stream-guards 0.2.0",
@@ -752,13 +871,6 @@
    "published": "2026-10-14T01:30:00+00:00"
   },
   {
-   "title": "The EU\u2019s next chapter in AI is agentic",
-   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-14T00:00:00+00:00"
-  },
-  {
    "title": "Talazoparib plus enzalutamide in high-volume metastatic hormone-naive prostate cancer: a randomized phase 2 trial",
    "url": "https://www.nature.com/articles/s41591-026-04671-5",
    "source": "Nature.com",
@@ -813,6 +925,13 @@
    "source": "Sankakucomplex.com",
    "category": "ai",
    "published": "2026-10-13T21:00:17+00:00"
+  },
+  {
+   "title": "How artificial neural networks build their own learning machinery",
+   "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-13T21:00:00+00:00"
   },
   {
    "title": "Unitree CEO says GPT-7 might \u2018directly crack\u2019 the problems of robotic AI",
@@ -974,6 +1093,13 @@
    "source": "PRNewswire",
    "category": "robotics",
    "published": "2026-10-13T13:30:00+00:00"
+  },
+  {
+   "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-13T12:00:49+00:00"
   },
   {
    "title": "Higgsfield takes AI video from 1 minute to over 10",
@@ -1331,6 +1457,13 @@
    "source": "Github.com",
    "category": "ai",
    "published": "2026-10-12T16:34:41+00:00"
+  },
+  {
+   "title": "Simulating student learning for better AI tutoring",
+   "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-10-12T16:00:00+00:00"
   },
   {
    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
@@ -34868,139 +35001,6 @@
    "source": "Biztoc.com",
    "category": "compute",
    "published": "2026-07-20T14:02:22+00:00"
-  },
-  {
-   "title": "Qualifacts Advances AI for Behavioral Health with New Generative and Agentic Capabilities in Qualifacts iQ",
-   "url": "https://www.globenewswire.com/news-release/2026/07/20/3329837/0/en/Qualifacts-Advances-AI-for-Behavioral-Health-with-New-Generative-and-Agentic-Capabilities-in-Qualifacts-iQ.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-20T14:02:00+00:00"
-  },
-  {
-   "title": "Google plans new chip to run Gemini models more efficiently: Report",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-plans-new-chip-to-run-gemini-models-more-efficiently-report/articleshow/132517435.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-20T14:00:42+00:00"
-  },
-  {
-   "title": "Hut 8 surges on $9.8 billion AI data-center lease, lifting compute sector",
-   "url": "https://biztoc.com/x/16a67dc964402e1a",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-20T14:00:28+00:00"
-  },
-  {
-   "title": "Comparative single-nucleus transcriptomics reveals asymmetric evolution of the Drosophila male and female germlines",
-   "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003869",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-07-20T14:00:00+00:00"
-  },
-  {
-   "title": "Fibrillarin-mediated 2\u2019-O-methylation serves as a translation brake on uncapped enterovirus RNA",
-   "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014455",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-07-20T14:00:00+00:00"
-  },
-  {
-   "title": "Diagnostic and prognostic values of differentially expressed genes in canine mammary carcinoma: An integrated bioinformatics analysis",
-   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354033",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-07-20T14:00:00+00:00"
-  },
-  {
-   "title": "LG and UNESCO Globally Launch 'AI Ethics MOOC Project'",
-   "url": "https://www.prnewswire.com/news-releases/lg-and-unesco-globally-launch-ai-ethics-mooc-project-302829462.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-20T14:00:00+00:00"
-  },
-  {
-   "title": "Instacart acquires shelf-scanning technology startup",
-   "url": "https://www.grocerydive.com/news/instacart-acquires-arpalus-ai-inventory-computer-vision-ecommerce/825494/",
-   "source": "Grocerydive.com",
-   "category": "ai",
-   "published": "2026-07-20T14:00:00+00:00"
-  },
-  {
-   "title": "PowerPlay AI Announces 400 MW Behind-the-Meter AI Data Center Development in Greater Abilene with Nasdaq-Listed Neocloud Joint Venture Partner",
-   "url": "https://www.prnewswire.com/news-releases/powerplay-ai-announces-400-mw-behind-the-meter-ai-data-center-development-in-greater-abilene-with-nasdaq-listed-neocloud-joint-venture-partner-302829610.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-07-20T14:00:00+00:00"
-  },
-  {
-   "title": "Automated concrete crack detection enhanced by deep learning and generative adversarial networks",
-   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354018",
-   "source": "Plos.org",
-   "category": "ai",
-   "published": "2026-07-20T14:00:00+00:00"
-  },
-  {
-   "title": "Google plans new chip to run Gemini models more efficiently, the Information reports",
-   "url": "https://www.channelnewsasia.com/business/google-plans-new-chip-run-gemini-models-more-efficiently-information-reports-6265986",
-   "source": "CNA",
-   "category": "compute",
-   "published": "2026-07-20T13:57:51+00:00"
-  },
-  {
-   "title": "Bank of Ireland appoints former Citi executive as AI chief",
-   "url": "https://www.irishtimes.com/business/2026/07/20/bank-of-ireland-appoints-former-citi-director-as-ai-chief/",
-   "source": "The Irish Times",
-   "category": "ai",
-   "published": "2026-07-20T13:56:59+00:00"
-  },
-  {
-   "title": "Tempus AI strikes $1.5B deal for Personalis, betting big on AI-powered cancer detection",
-   "url": "https://cryptobriefing.com/tempus-ai-acquires-personalis-cancer-testing/",
-   "source": "Crypto Briefing",
-   "category": "health",
-   "published": "2026-07-20T13:55:26+00:00"
-  },
-  {
-   "title": "Physicians Choose OpenEvidence Over Every Other AI Chatbot Combined in Independent Stanford-Harvard Study of Clinical AI",
-   "url": "https://www.prnewswire.com/news-releases/physicians-choose-openevidence-over-every-other-ai-chatbot-combined-in-independent-stanford-harvard-study-of-clinical-ai-302829633.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-20T13:32:00+00:00"
-  },
-  {
-   "title": "Weave\u2019s $8,000 Isaac 1 Is the Home Robot That Dresses Like Furniture",
-   "url": "https://www.yankodesign.com/2026/07/20/weaves-8000-isaac-1-is-the-home-robot-that-dresses-like-furniture/",
-   "source": "Yanko Design",
-   "category": "robotics",
-   "published": "2026-07-20T13:20:53+00:00"
-  },
-  {
-   "title": "Anthropic launches Claude for Healthcare, signaling AI\u2019s expanding push into regulated industries",
-   "url": "https://cryptobriefing.com/anthropic-claude-healthcare-ai-launch/",
-   "source": "Crypto Briefing",
-   "category": "health",
-   "published": "2026-07-20T13:18:53+00:00"
-  },
-  {
-   "title": "illumiSonics and Sunnybrook Launch INOVAIT Focus Fund\u2013Backed Clinical Trial Bringing Label-Free Laser Histology to Mohs Skin Cancer Surgery",
-   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/illumisonics-and-sunnybrook-launch-inovait-focus-fund-backed-clinical-trial-bringing-label-free-laser-histology-to-mohs-skin-cancer-surgery",
-   "source": "Financial Post",
-   "category": "health",
-   "published": "2026-07-20T13:11:09+00:00"
-  },
-  {
-   "title": "Ecotrak Launches AI-Powered Facility Management Suite with Claude Connector and ChatGPT Integration",
-   "url": "https://www.prnewswire.com/news-releases/ecotrak-launches-ai-powered-facility-management-suite-with-claude-connector-and-chatgpt-integration-302828881.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-20T13:02:00+00:00"
-  },
-  {
-   "title": "Humanoid Companion Robots are Launching This September",
-   "url": "https://www.core77.com/posts/144775/Humanoid-Companion-Robots-are-Launching-This-September",
-   "source": "Core77.com",
-   "category": "robotics",
-   "published": "2026-07-20T13:00:00+00:00"
   }
  ]
 }
