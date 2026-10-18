@@ -1,12 +1,54 @@
 {
- "updated": "2026-10-18T03:51:15.150237+00:00",
+ "updated": "2026-10-18T10:41:17.424142+00:00",
  "items": [
   {
-   "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-   "source": "NVIDIA",
+   "title": "Giving AI a \u201ccrystal clear\u201d view of the materials world",
+   "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
+   "title": "HTC Made Smart Glasses That Are Way More Private",
+   "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+   "source": "Wired",
+   "category": "ai",
+   "published": "2026-10-17T10:30:00+00:00"
+  },
+  {
+   "title": "InvoiceCloud strengthens global innovation hub in India with \u20b9350 cr",
+   "url": "https://www.business-standard.com/companies/start-ups/invoicecloud-hyderabad-investment-ai-product-development-india-126101700595_1.html",
+   "source": "Business Standard",
+   "category": "ai",
+   "published": "2026-10-17T10:29:35+00:00"
+  },
+  {
+   "title": "Japan approves TSMC plan to make 3-nanometer chips at its second Kumamoto fab",
+   "url": "https://www.digitimes.com/news/a20261017VL200/fab-tsmc-chips-kumamoto-production.html",
+   "source": "Digitimes",
    "category": "compute",
-   "published": "2026-10-17T21:00:13+00:00"
+   "published": "2026-10-17T09:59:55+00:00"
+  },
+  {
+   "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
+   "url": "https://biztoc.com/x/e327884f3a84fb5a",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-17T09:52:16+00:00"
+  },
+  {
+   "title": "Anthropic\u2019s AI capabilities advancing faster than expected, says co-founder Clark",
+   "url": "https://cryptobriefing.com/anthropics-ai-capabilities-advancing-faster-than-expected-says-co-founder-clark/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-10-17T09:44:21+00:00"
+  },
+  {
+   "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+   "url": "https://www.channelnewsasia.com/business/ai-rapidly-improving-could-vastly-boost-us-gdp-anthropics-clark-tells-policymakers-6468116",
+   "source": "CNA",
+   "category": "ai",
+   "published": "2026-10-17T09:14:49+00:00"
   },
   {
    "title": "M42 CEO Dimitris Moulavasilis on AI, genomics, preventive healthcare and global expansion",
@@ -14,13 +56,6 @@
    "source": "CNBC",
    "category": "health",
    "published": "2026-10-17T03:38:52+00:00"
-  },
-  {
-   "title": "FIX 2026 Tradeshow in Daegu Puts AI Beyond the Lab and Into Everyday Life",
-   "url": "https://www.ubergizmo.com/2026/10/fix-2026-tradeshow-in-daegu-puts-ai-beyond-the-lab-and-into-everyday-life/",
-   "source": "Ubergizmo",
-   "category": "ai",
-   "published": "2026-10-17T03:30:23+00:00"
   },
   {
    "title": "Meta and Apple team up on AI model tailored for Mac computers",
@@ -42,13 +77,6 @@
    "source": "Crypto Briefing",
    "category": "compute",
    "published": "2026-10-17T01:25:02+00:00"
-  },
-  {
-   "title": "XPeng's Paris push turns China's full-stack EV know-how into exportable AI engineering business",
-   "url": "https://www.digitimes.com/news/a20261016VL212/xpeng-technology-automotive-vehicle-automakers.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-10-17T00:07:46+00:00"
   },
   {
    "title": "RapidCanvas raises $29M to develop custom AI applications for enterprises",
@@ -86,11 +114,19 @@
    "published": "2026-10-16T19:30:03+00:00"
   },
   {
-   "title": "How Ita\u00fa is building generative AI for its entire customer base",
-   "url": "https://openai.com/index/itau-generative-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-16T19:00:00+00:00"
+   "title": "Designing more efficient quantum circuits with Claude",
+   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+   "source": "Anthropic.com",
+   "category": "quantum",
+   "published": "2026-10-16T18:00:18+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Anthropic\u2019s Claude designs leaner quantum circuits, cutting gate counts by up to 17x",
+   "url": "https://cryptobriefing.com/anthropic-claude-designs-quantum-circuits/",
+   "source": "Crypto Briefing",
+   "category": "quantum",
+   "published": "2026-10-16T17:52:16+00:00"
   },
   {
    "title": "Video Friday: When Two Robots Become One",
@@ -98,6 +134,13 @@
    "source": "Ieee.org",
    "category": "robotics",
    "published": "2026-10-16T16:30:02+00:00"
+  },
+  {
+   "title": "Vinci pushes the boundaries of chip design with physics AI",
+   "url": "https://siliconangle.com/2026/10/16/vinci-brings-physics-ai-into-chip-design-loop-semiconwest/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-16T16:29:25+00:00"
   },
   {
    "title": "Human Longevity Expands Its $1 Million Cancer Prevention Pledge to Breast Cancer",
@@ -226,13 +269,6 @@
    "published": "2026-10-16T14:32:27+00:00"
   },
   {
-   "title": "Tesla unveils Roadster that can flip in the air and land using thrusters",
-   "url": "https://www.cbc.ca/news/world/tesla-roadster-9.7383239",
-   "source": "CBC News",
-   "category": "robotics",
-   "published": "2026-10-16T14:32:07+00:00"
-  },
-  {
    "title": "CRISPR Market worth $6.12 billion by 2031 - Exclusive Report by MarketsandMarkets\u2122",
    "url": "https://www.prnewswire.co.uk/news-releases/crispr-market-worth-6-12-billion-by-2031---exclusive-report-by-marketsandmarkets-302911142.html",
    "source": "PR Newswire UK",
@@ -301,27 +337,6 @@
    "source": "Plos.org",
    "category": "robotics",
    "published": "2026-10-16T14:00:00+00:00"
-  },
-  {
-   "title": "China Unleashes 13-foot Robot Titan With 39 Hydraulics To Crush Over 1,100 Pounds",
-   "url": "https://www.ponoko.com/blog/ponoko/china-unleashes-13-foot-robot-titan-with-39-hydraulics-to-crush-over-1100-pounds/",
-   "source": "Ponoko.com",
-   "category": "robotics",
-   "published": "2026-10-16T13:40:31+00:00"
-  },
-  {
-   "title": "Tesla unveils \u2018flying\u2019 sports car with SpaceX rocket thrusters",
-   "url": "https://www.irishtimes.com/business/2026/10/16/tesla-unveils-flying-sports-car-with-spacex-rocket-thrusters/",
-   "source": "The Irish Times",
-   "category": "robotics",
-   "published": "2026-10-16T12:45:41+00:00"
-  },
-  {
-   "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
-   "url": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
-   "source": "Decrypt",
-   "category": "quantum",
-   "published": "2026-10-16T11:46:54+00:00"
   },
   {
    "title": "FPT and NVIDIA Expand Nemotron-Personas-Vietnam Dataset by 10X Times to Power the Next Wave of Agentic AI",
@@ -457,6 +472,20 @@
    "published": "2026-10-16T00:10:36+00:00"
   },
   {
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "url": "https://openai.com/index/benefit-street-partners",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-16T00:00:00+00:00"
+  },
+  {
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-16T00:00:00+00:00"
+  },
+  {
    "title": "Cavity-less Brillouin strong coupling in a solid-state continuous system",
    "url": "https://www.nature.com/articles/s41567-026-03458-2",
    "source": "Nature.com",
@@ -490,6 +519,13 @@
    "source": "Al Jazeera English",
    "category": "robotics",
    "published": "2026-10-15T21:00:01+00:00"
+  },
+  {
+   "title": "AI model decodes the language cells use to communicate",
+   "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-15T20:50:00+00:00"
   },
   {
    "title": "SP Industrial Enterprise SSD Lineup Adds PCIe Gen5 E1.S and U.2 Drives up to 15.3TB With eTLC and 3 DWPD Options",
@@ -569,13 +605,6 @@
    "published": "2026-10-15T19:23:20+00:00"
   },
   {
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-15T19:00:00+00:00"
-  },
-  {
    "title": "Tucuvi joins the Microsoft Pegasus Program to scale clinically governed AI Care Management across health systems",
    "url": "https://www.prnewswire.com/news-releases/tucuvi-joins-the-microsoft-pegasus-program-to-scale-clinically-governed-ai-care-management-across-health-systems-302910378.html",
    "source": "PRNewswire",
@@ -602,6 +631,13 @@
    "source": "Crypto Briefing",
    "category": "health",
    "published": "2026-10-15T17:06:19+00:00"
+  },
+  {
+   "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-15T17:00:23+00:00"
   },
   {
    "title": "Born to Be Open: RoboParty Launches RP1, a Full-Stack Open-Source Humanoid",
@@ -639,6 +675,13 @@
    "published": "2026-10-15T16:00:59+00:00"
   },
   {
+   "title": "Proof-based general-purpose computing with Magnetar",
+   "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+   "source": "Microsoft Research",
+   "category": "breakthroughs",
+   "published": "2026-10-15T16:00:00+00:00"
+  },
+  {
    "title": "Delta Highlights Collaboration with NVIDIA in Advancing Energy-efficient 800 VDC Power and Cooling Solutions for AI Data Centers at OCP Global Summit 2026",
    "url": "https://www.prnewswire.com/news-releases/delta-highlights-collaboration-with-nvidia-in-advancing-energy-efficient-800-vdc-power-and-cooling-solutions-for-ai-data-centers-at-ocp-global-summit-2026-302909912.html",
    "source": "PRNewswire",
@@ -672,27 +715,6 @@
    "source": "BioSpace",
    "category": "health",
    "published": "2026-10-15T15:28:53+00:00"
-  },
-  {
-   "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-   "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-15T15:00:24+00:00"
-  },
-  {
-   "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-15T13:00:59+00:00"
-  },
-  {
-   "title": "Teaching students to think and learn through questions",
-   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-15T13:00:00+00:00"
   },
   {
    "title": "Ultrobotix Begins Working with a Food Manufacturer to Explore Humanoid Robotic Solutions for Production-Line Tasks",
@@ -772,6 +794,13 @@
    "published": "2026-10-15T10:03:42+00:00"
   },
   {
+   "title": "NVIDIA Expands Advanced Technology Access for Europe\u2019s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+   "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-15T10:00:12+00:00"
+  },
+  {
    "title": "Non-Abelian Quantum Signal Processing: A Composite Pulse for Fast Analytic Control of Hybrid Oscillator-Qubit Processors",
    "url": "https://link.aps.org/doi/10.1103/7jwl-k8xg",
    "source": "Aps.org",
@@ -819,6 +848,13 @@
    "source": "Bmwgroup.com",
    "category": "compute",
    "published": "2026-10-15T06:00:00+00:00"
+  },
+  {
+   "title": "The Nordics and NVIDIA Show What\u2019s Possible When a Region Commits to Advanced Computing",
+   "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-15T05:00:12+00:00"
   },
   {
    "title": "US biotech firm completes 95% of dodo's genome and identifies gene-editing targets; could the extinct bird come alive again through its closest living relative, the Nicobar pigeon?",
@@ -966,13 +1002,6 @@
    "source": "Ubergizmo",
    "category": "robotics",
    "published": "2026-10-15T00:00:17+00:00"
-  },
-  {
-   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-   "url": "https://openai.com/index/sullivan-cromwell",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-15T00:00:00+00:00"
   },
   {
    "title": "Quantum Optimization and AI to Develop Alzheimer\u2019s Drugs",
@@ -1199,13 +1228,6 @@
    "published": "2026-10-14T15:03:00+00:00"
   },
   {
-   "title": "Researchers improve weather forecasts looking two to six weeks out",
-   "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-14T15:00:00+00:00"
-  },
-  {
    "title": "Improve Pharmacovigilance Quality with AI-Enabled Case Intake, Upcoming Webinar Featuring Deloitte Leaders, Hosted by Xtalks",
    "url": "https://www.prnewswire.com/news-releases/improve-pharmacovigilance-quality-with-ai-enabled-case-intake-upcoming-webinar-featuring-deloitte-leaders-hosted-by-xtalks-302908574.html",
    "source": "PRNewswire",
@@ -1225,6 +1247,20 @@
    "source": "Financial Post",
    "category": "health",
    "published": "2026-10-14T14:23:12+00:00"
+  },
+  {
+   "title": "Amp puts AI agents to work beyond code with OpenAI models",
+   "url": "https://openai.com/index/amp-beyond-coding",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-14T12:00:00+00:00"
+  },
+  {
+   "title": "SentinelOne cuts malware analysis from weeks to hours",
+   "url": "https://openai.com/index/sentinelone",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-14T12:00:00+00:00"
   },
   {
    "title": "Scimplify raises $25M to expand AI-driven materials production",
@@ -34965,27 +35001,6 @@
    "source": "Wired",
    "category": "compute",
    "published": "2026-07-21T19:05:00+00:00"
-  },
-  {
-   "title": "5 Claude, OpenClaw, and Hermes skills that deserve to be in your toolkit",
-   "url": "https://www.makeuseof.com/claude-openclaw-hermes-skills-deserve-in-toolkit/",
-   "source": "MakeUseOf",
-   "category": "ai",
-   "published": "2026-07-21T19:00:17+00:00"
-  },
-  {
-   "title": "Nebius Explodes 16% Higher on NVIDIA Stake Stunner; CoreWeave Surges 8%, Oracle Adds 5% as AI Cloud Plays Pay Off",
-   "url": "https://biztoc.com/x/f028f96f6d5199ab",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-21T18:59:47+00:00"
-  },
-  {
-   "title": "NVIDIA Shares \"Rubin\" GPU Deep-Dive and Die Annotation",
-   "url": "https://www.techpowerup.com/350947/nvidia-shares-rubin-gpu-deep-dive-and-die-annotation",
-   "source": "Techpowerup.com",
-   "category": "compute",
-   "published": "2026-07-21T18:57:55+00:00"
   }
  ]
 }
