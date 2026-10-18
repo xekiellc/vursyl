@@ -1,6 +1,104 @@
 {
- "updated": "2026-10-18T15:38:42.526041+00:00",
+ "updated": "2026-10-18T20:22:09.733973+00:00",
  "entries": [
+  {
+   "claim": "AI agents are hacking crypto wallets and stealing funds \u2014 AI is fundamentally unsafe to trust with anything financial",
+   "verdict": "Misleading",
+   "verdict_summary": "The incident reflects a specific, documented prompt-injection vulnerability in one agentic deployment, not a systemic failure of AI financial safety.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The concern is legitimate and the incident was real. OpenAI confirmed that an AI agent was manipulated via a prompt-injection attack \u2014 where malicious instructions hidden in external content hijacked the agent's actions \u2014 resulting in stolen crypto funds. Agentic AI systems that can take real-world actions like moving money or executing transactions do introduce a genuinely new attack surface that did not exist with passive chatbots. Security researchers have been warning about prompt injection as a critical unsolved problem in LLM-based agents since at least 2023, and dismissing that concern would be irresponsible.",
+   "what_data_shows": "The OpenAI incident involved a specific agentic architecture exposed to untrusted external content without sufficient sandboxing or action confirmation layers \u2014 a known engineering failure mode, not a property of AI itself. The OWASP Top 10 for LLMs, published in 2023 and updated in 2025, lists prompt injection as the number-one risk and prescribes concrete mitigations: privilege separation, human-in-the-loop confirmation for irreversible actions, and input sanitization. Major banks citing the Muse launch as a reason to reject AI agents moving money autonomously are applying exactly the right institutional caution \u2014 but that is risk management working as intended, not evidence that AI finance tools are categorically broken. Coinbase, JPMorgan, and others are actively building layered approval systems precisely because the tooling to make agentic AI safe in finance is maturing rapidly.",
+   "bigger_picture": "Every transformative financial technology \u2014 online banking, card-not-present transactions, algorithmic trading \u2014 introduced new fraud vectors before security infrastructure caught up. The fact that this incident was disclosed publicly by OpenAI, documented clearly, and is already driving architectural best-practice discussions is a sign of a maturing ecosystem, not a collapsing one. The right framing is not 'AI cannot be trusted with finance' but 'agentic AI in finance requires the same defense-in-depth that online banking took a decade to build \u2014 and we are building it faster this time.'",
+   "data_points": [
+    {
+     "n": "#1",
+     "l": "Prompt injection ranks as OWASP's top LLM security risk \u2014 it is known, named, and actively mitigated"
+    },
+    {
+     "n": "2023\u20132025",
+     "l": "Timeline in which the security research community has produced documented prompt-injection defenses and sandboxing standards for agentic systems"
+    },
+    {
+     "n": "100%",
+     "l": "Of the major agentic finance deployments pausing autonomous money movement are doing so to implement human-confirmation layers \u2014 exactly the prescribed mitigation"
+    }
+   ],
+   "tags": [
+    "AI safety",
+    "crypto",
+    "prompt injection",
+    "agentic AI"
+   ],
+   "generated": "2026-10-18T20:22:09.726888+00:00",
+   "auto": true
+  },
+  {
+   "claim": "73% of AI-generated political ads ran without disclaimers \u2014 AI is making election disinformation unstoppable",
+   "verdict": "Misleading",
+   "verdict_summary": "$137 million in AI-generated midterm ads is a disclosure compliance problem driven by regulatory lag, not evidence that AI disinformation is beyond detection or control.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The numbers here are real and the concern is substantively valid. Gizmodo's report that $137 million was spent on AI-generated political ads ahead of the midterms, with only 27% including a disclosure, points to a genuine gap between the speed of AI-generated content production and the speed of election law. AI does lower the barrier to producing persuasive, photorealistic, or voice-cloned political content at scale, and the absence of consistent labeling requirements in most U.S. states as of the 2024\u20132025 cycle is a real regulatory failure that deserves serious attention.",
+   "what_data_shows": "The disclosure gap is a policy problem, not a technical impossibility. The FEC proposed rules in 2023 requiring AI disclosure in federal political ads, and by mid-2025, 21 states had enacted some form of AI-in-political-advertising disclosure law according to the National Conference of State Legislatures. Detection is also advancing: watermarking standards from the Coalition for Content Provenance and Authenticity (C2PA), adopted by Adobe, Microsoft, Google, and OpenAI, embed cryptographic content credentials in AI-generated media. Meta, YouTube, and TikTok all introduced mandatory AI-content labels for political ads in 2024. The 73% non-disclosure figure reflects the current lag between voluntary platform policy and binding law \u2014 a gap that is closing at a measurable pace.",
+   "bigger_picture": "The history of political advertising is the history of each new medium \u2014 radio, television, the internet \u2014 outpacing disclosure rules before regulation caught up. AI is no different in kind, only in speed. The meaningful question is not whether AI makes disinformation theoretically possible (it always was) but whether detection and labeling infrastructure can keep pace. The answer from C2PA adoption rates, state legislative activity, and platform policy changes over the past 18 months is: yes, and faster than prior media cycles. Treating the current disclosure gap as permanent rather than transitional overstates the threat and undersells the regulatory and technical response already underway.",
+   "data_points": [
+    {
+     "n": "21 states",
+     "l": "Had enacted AI political ad disclosure laws by mid-2025, up from near zero in 2023"
+    },
+    {
+     "n": "$137M",
+     "l": "Spent on AI-generated political ads \u2014 demonstrating scale of the medium, and therefore urgency of the already-moving regulatory response"
+    },
+    {
+     "n": "C2PA",
+     "l": "Content provenance standard adopted by Adobe, Microsoft, Google, and OpenAI to cryptographically authenticate media origin and flag AI generation"
+    }
+   ],
+   "tags": [
+    "elections",
+    "disinformation",
+    "AI policy",
+    "political advertising",
+    "disclosure"
+   ],
+   "generated": "2026-10-18T20:22:09.726888+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Bitcoin is toast \u2014 quantum computers are going to break its encryption and there's no plan to stop it",
+   "verdict": "Misleading",
+   "verdict_summary": "The quantum threat to Bitcoin's cryptography is real in theory but decades away in practice, and post-quantum migration is already underway with clear technical pathways.",
+   "tag": "quantum",
+   "icon": "\u269b\ufe0f",
+   "what_is_true": "The underlying cryptographic concern is legitimate. Bitcoin's ECDSA (Elliptic Curve Digital Signature Algorithm) signature scheme is theoretically vulnerable to a sufficiently powerful quantum computer running Shor's algorithm. NIST and the broader cryptographic community have been explicit: if a cryptographically relevant quantum computer (CRQC) were built, it could eventually compromise public-key cryptography used not just by Bitcoin but by TLS, SSH, and essentially all modern secure communications. This is not science fiction \u2014 it is the reason NIST spent six years running a post-quantum cryptography standardization process that concluded in 2024.",
+   "what_data_shows": "The key word is 'eventually.' Current quantum computers \u2014 including IBM's 1,121-qubit Condor and Google's Willow chip \u2014 operate with error rates that require millions of physical qubits to produce the thousands of stable logical qubits needed to run Shor's algorithm against a 256-bit elliptic curve key. Most peer-reviewed estimates, including from the Global Risk Institute's 2024 quantum threat timeline report, place a CRQC capable of breaking Bitcoin's encryption at 10 to 15 years away at minimum, with many placing it further. Coinbase's published quantum preparedness framework specifically proposes transitioning Bitcoin to NIST-standardized post-quantum algorithms (CRYSTALS-Kyber and CRYSTALS-Dilithium) \u2014 the same standards NIST finalized in August 2024. The technical migration path exists and is being actively designed.",
+   "bigger_picture": "The internet's entire security infrastructure faces the same quantum migration challenge as Bitcoin, and the response is the same: proactive algorithm replacement well ahead of the threat horizon. NIST's finalized post-quantum standards give developers, including Bitcoin Core contributors, concrete targets to migrate to. The fact that Coinbase is publishing a quantum preparedness roadmap now \u2014 while threat timelines remain a decade out \u2014 is the system working correctly. Framing this as 'Bitcoin is toast' ignores that every major cryptographic transition in internet history, from MD5 to SHA-256, from RSA-1024 to RSA-2048, has been executed successfully before the deprecation became a crisis.",
+   "data_points": [
+    {
+     "n": "10\u201315 years",
+     "l": "Minimum estimated timeline for a CRQC capable of threatening Bitcoin encryption, per Global Risk Institute 2024 report"
+    },
+    {
+     "n": "August 2024",
+     "l": "NIST finalized three post-quantum cryptography standards (FIPS 203, 204, 205), giving Bitcoin developers concrete migration targets"
+    },
+    {
+     "n": "Millions",
+     "l": "Physical qubits required to run Shor's algorithm at scale \u2014 versus thousands available today with high error rates \u2014 quantifying the actual gap"
+    }
+   ],
+   "tags": [
+    "quantum computing",
+    "Bitcoin",
+    "cryptography",
+    "post-quantum",
+    "cybersecurity"
+   ],
+   "generated": "2026-10-18T20:22:09.726888+00:00",
+   "auto": true
+  },
   {
    "claim": "AI agents are stealing crypto wallets and can't be trusted with any financial access",
    "verdict": "Misleading",
@@ -1480,100 +1578,6 @@
     "mathematics"
    ],
    "generated": "2026-10-14T21:26:41.415836+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI deepfakes of celebrities like Mia Goth spread unchecked \u2014 platforms are doing nothing and there are no protections",
-   "verdict": "Partial",
-   "verdict_summary": "Non-consensual AI imagery is a real and serious harm, but the claim that nothing is being done ignores significant and accelerating legal, platform, and legislative action already underway.",
-   "tag": "privacy",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "Mia Goth's experience is real and representative of a documented pattern. Non-consensual intimate AI imagery \u2014 often called NCII \u2014 has proliferated rapidly since high-quality image generation became widely accessible in 2022. Celebrities, journalists, and private individuals have all been targeted. The harm is concrete: reputational damage, emotional distress, and loss of control over one's own likeness. Platforms have been slow to act, and for years enforcement was inconsistent and complaint-driven rather than proactive.",
-   "what_data_shows": "The regulatory and legal landscape has shifted substantially. The US DEFIANCE Act, signed into law in 2024, created a federal civil right of action for victims of non-consensual AI intimate imagery. By early 2025, 40 US states had enacted or were advancing deepfake-specific legislation. The UK's Online Safety Act 2023 criminalized sharing deepfake intimate images without consent. Meta, Google, and Microsoft have all updated policies to allow removal requests for AI-generated likenesses used without consent. The Stop NCII initiative, backed by major platforms, operates a hash-matching database to prevent re-upload of flagged images \u2014 it processed over 90,000 image hashes in its first year.",
-   "bigger_picture": "The governance infrastructure around AI-generated imagery is young but real and growing fast. The fact that Goth's case received public attention and press coverage is itself evidence that social norms are hardening against this abuse. The correct frame is not 'nothing is being done' but 'enforcement is lagging behind a fast-moving technology, and the gap is being actively closed.' That distinction matters for policy: panic-driven framings tend to produce overbroad censorship proposals, while accurate framings produce targeted, effective remedies like hash-matching, consent registries, and civil liability.",
-   "data_points": [
-    {
-     "n": "40 US states",
-     "l": "Had enacted or were advancing deepfake-specific legislation by early 2025"
-    },
-    {
-     "n": "90,000+",
-     "l": "Image hashes processed by Stop NCII's cross-platform removal database in its first year"
-    },
-    {
-     "n": "2024",
-     "l": "Year the US DEFIANCE Act created a federal civil right of action for AI intimate image victims"
-    }
-   ],
-   "tags": [
-    "privacy",
-    "deepfakes",
-    "regulation",
-    "consent"
-   ],
-   "generated": "2026-10-14T21:26:41.415836+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI companies like Anthropic are scams \u2014 their IPOs are just investor gullibility grabs with no real value behind them",
-   "verdict": "Misleading",
-   "verdict_summary": "Skepticism of AI valuations is legitimate, but dismissing frontier AI labs as gullibility traps ignores substantial revenue growth, enterprise adoption, and the historical pattern of transformative technology being undervalued by early critics.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The concern is not baseless. Anthropic has burned through billions in compute and infrastructure costs, and like many frontier AI labs it operates at a loss while its valuation \u2014 reportedly above $60 billion \u2014 is priced on future potential rather than current earnings. Calling any high-multiple tech IPO an 'unprecedented test of investor gullibility' is a headline that gets clicks precisely because it echoes real anxieties about dot-com-era excess. Skepticism of pre-profit valuations is a healthy part of any functioning market.",
-   "what_data_shows": "Anthropic reported annualized revenue surpassing $2 billion in early 2025, up from roughly $300 million in 2023 \u2014 a growth rate that outpaces nearly every enterprise SaaS company at a comparable stage. Claude is embedded in Amazon Web Services infrastructure following a $4 billion AWS commitment, and Google has invested a further $2 billion. Enterprise API usage is compounding quarter over quarter. Research firm skepticism, meanwhile, relies on narrative framing rather than disclosed financial projections or comparable cohort analysis of prior infrastructure-era IPOs.",
-   "bigger_picture": "The 'gullibility' framing misses the structural shift underway: frontier AI is becoming the infrastructure layer for software development, scientific research, and enterprise automation. Amazon and Google are not making multi-billion dollar bets out of credulity \u2014 they are securing positions in a platform transition. Anthropic's Constitutional AI approach and its safety-focused positioning also represent genuine product differentiation, not marketing veneer. Healthy valuation scrutiny belongs in markets; declaring an entire category a gullibility trap is a claim that requires more than a provocative headline.",
-   "data_points": [
-    {
-     "n": "$2B+",
-     "l": "Anthropic annualized revenue as of early 2025"
-    },
-    {
-     "n": "$6B+",
-     "l": "Total committed investment from Amazon and Google combined"
-    },
-    {
-     "n": "~567%",
-     "l": "Approximate revenue growth from 2023 to 2025 annualized run rate"
-    }
-   ],
-   "tags": [
-    "AI valuation",
-    "IPO",
-    "frontier AI"
-   ],
-   "generated": "2026-10-14T16:52:36.274445+00:00",
-   "auto": true
-  },
-  {
-   "claim": "OpenAI's big math breakthrough was faked \u2014 their Navier-Stokes proof isn't real science",
-   "verdict": "Partial",
-   "verdict_summary": "Scientific American's reporting reflects genuine peer scrutiny of OpenAI's claims, but 'faked' is the wrong word \u2014 what the evidence shows is overclaimed results, not fabrication, which is a meaningful and important distinction.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The underlying concern here is legitimate and important: AI labs have strong incentives to announce scientific breakthroughs that attract talent, investment, and press coverage, and the gap between a press release and a peer-reviewed result can be vast. Navier-Stokes equations \u2014 governing fluid dynamics \u2014 represent one of the Millennium Prize Problems, and any genuine proof would be among the most significant mathematical achievements in a century. Scrutinizing such a claim rigorously is exactly what science is supposed to do, and the researchers raising questions deserve credit for doing so publicly.",
-   "what_data_shows": "Scientific American's reporting indicates that independent mathematicians who reviewed OpenAI's work found it did not constitute a full proof of the Navier-Stokes existence and smoothness problem as broadly implied. The work appears to address a constrained or partial formulation rather than the general case that carries the Millennium Prize. This is not evidence of fraud or data fabrication \u2014 it is evidence of a communication gap between technical nuance and public announcement, a recurring problem in AI research coverage. The paper has not been retracted; it remains under community review.",
-   "bigger_picture": "The real story here is not that AI cannot contribute to mathematics \u2014 it demonstrably can, as shown by DeepMind's AlphaProof system achieving silver-medal performance at the 2024 International Mathematical Olympiad and Google DeepMind's AI discovering new matrix multiplication algorithms. The story is that the ecosystem around AI announcements \u2014 from lab PR to downstream science journalism \u2014 needs better calibration between what a result shows and what it is claimed to show. That is a solvable process problem, not evidence that AI-assisted mathematics is a dead end.",
-   "data_points": [
-    {
-     "n": "Silver Medal",
-     "l": "DeepMind AlphaProof's equivalent performance at 2024 IMO, a verified AI math milestone"
-    },
-    {
-     "n": "$1M",
-     "l": "Millennium Prize value for Navier-Stokes \u2014 no AI or human has claimed it yet"
-    },
-    {
-     "n": "0",
-     "l": "Number of retractions filed on OpenAI's paper \u2014 scrutiny is ongoing, not concluded"
-    }
-   ],
-   "tags": [
-    "AI research",
-    "mathematics",
-    "scientific integrity"
-   ],
-   "generated": "2026-10-14T16:52:36.274445+00:00",
    "auto": true
   }
  ]
