@@ -1,12 +1,76 @@
 {
- "updated": "2026-10-18T20:22:09.733973+00:00",
+ "updated": "2026-10-19T04:00:28.671934+00:00",
  "items": [
   {
-   "title": "Giving AI a \u201ccrystal clear\u201d view of the materials world",
-   "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-   "source": "MIT News AI",
+   "title": "Semiconductor market to remain solid \u2018at least through next year,\u2019 South Korea finance minister says",
+   "url": "https://biztoc.com/x/b2eab633dd980a42",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-10-18T02:42:07+00:00"
+  },
+  {
+   "title": "agentic-evals 0.8.0",
+   "url": "https://pypi.org/project/agentic-evals/0.8.0/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-10-18T04:00:00+00:00"
+   "published": "2026-10-18T02:24:12+00:00"
+  },
+  {
+   "title": "Anthropic pitches own AI Safety Bill",
+   "url": "https://timesofindia.indiatimes.com/world/us/anthropic-pitches-own-ai-safety-bill/articleshow/135022899.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-10-18T02:02:04+00:00"
+  },
+  {
+   "title": "Elon Musk Says Jensen Huang 'Rocks' as SpaceX, Nvidia Team Up on AI Data Centers in Space: \u2018Far Better Than Almost Anyone Expects\u2019",
+   "url": "https://biztoc.com/x/131e0b2d966f0937",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-10-18T01:58:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Show HN: Cosplay as a tech lead, using gVisor to sandbox agents",
+   "url": "https://github.com/SoftwareRenderer/MIKE",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-18T01:49:34+00:00"
+  },
+  {
+   "title": "A New Injection Makes Fat Cells Self-Destruct, And Might Prevent GLP-1 Weight Regain",
+   "url": "https://www.sciencealert.com/a-new-injection-makes-fat-cells-self-destruct-and-might-prevent-glp-1-weight-regain",
+   "source": "ScienceAlert",
+   "category": "health",
+   "published": "2026-10-18T00:00:00+00:00"
+  },
+  {
+   "title": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186353844",
+   "source": "Slashdot.org",
+   "category": "robotics",
+   "published": "2026-10-17T23:52:16+00:00"
+  },
+  {
+   "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-17T21:00:13+00:00"
+  },
+  {
+   "title": "Abu Dhabi Health Delegation Concludes Inaugural Visit to China, Opening New Pathways to Advance AI, Precision Medicine and Next-Gen Therapies",
+   "url": "https://www.manilatimes.net/2026/10/18/tmt-newswire/pr-newswire/abu-dhabi-health-delegation-concludes-inaugural-visit-to-china-opening-new-pathways-to-advance-ai-precision-medicine-and-next-gen-therapies/2448048",
+   "source": "The Manila Times",
+   "category": "health",
+   "published": "2026-10-17T20:58:02+00:00"
+  },
+  {
+   "title": "The Department of Health - Abu Dhabi: Abu Dhabi Health Delegation Concludes Inaugural Visit to China, Opening New Pathways to Advance AI, Precision Medicine and Next-Gen Therapies",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69864260-the-department-of-health-abu-dhabi-abu-dhabi-health-delegation-concludes-inaugural-visit-to-china-opening-new-pathways-to-advance-ai-precision-me-008.htm",
+   "source": "Finanznachrichten.de",
+   "category": "health",
+   "published": "2026-10-17T20:57:41+00:00"
   },
   {
    "title": "AI rapidly improving, could boost US GDP: Anthropic\u2019s Clark",
@@ -30,25 +94,11 @@
    "published": "2026-10-17T19:33:59+00:00"
   },
   {
-   "title": "Scientists Discover an Erectile Dysfunction Drug Could Also Regenerate Muscle",
-   "url": "https://www.sciencealert.com/scientists-discover-an-erectile-dysfunction-drug-could-also-regenerate-muscle",
-   "source": "ScienceAlert",
-   "category": "health",
-   "published": "2026-10-17T19:00:00+00:00"
-  },
-  {
    "title": "Barcelona Supercomputing Center launches AI accelerator for 100 startups",
    "url": "https://www.catalannews.com/business/item/barcelona-supercomputing-center-launches-ai-accelerator-for-100-startups",
    "source": "Catalannews.com",
    "category": "compute",
    "published": "2026-10-17T18:34:52+00:00"
-  },
-  {
-   "title": "Do not fear AI, understand it & adapt, TISS graduates told",
-   "url": "https://timesofindia.indiatimes.com/city/hyderabad/do-not-fear-ai-understand-it-adapt-tiss-graduates-told/articleshow/135019040.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-10-17T18:12:11+00:00"
   },
   {
    "title": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
@@ -238,6 +288,13 @@
    "source": "Futurism",
    "category": "robotics",
    "published": "2026-10-16T19:17:34+00:00"
+  },
+  {
+   "title": "How Ita\u00fa is building generative AI for its entire customer base",
+   "url": "https://openai.com/index/itau-generative-ai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-16T19:00:00+00:00"
   },
   {
    "title": "Human Longevity Expands Its $1 Million Cancer Prevention Pledge to Breast Cancer",
@@ -569,20 +626,6 @@
    "published": "2026-10-16T00:10:36+00:00"
   },
   {
-   "title": "Benefit Street Partners answers questions faster with Codex",
-   "url": "https://openai.com/index/benefit-street-partners",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-16T00:00:00+00:00"
-  },
-  {
-   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-16T00:00:00+00:00"
-  },
-  {
    "title": "Cavity-less Brillouin strong coupling in a solid-state continuous system",
    "url": "https://www.nature.com/articles/s41567-026-03458-2",
    "source": "Nature.com",
@@ -616,13 +659,6 @@
    "source": "Al Jazeera English",
    "category": "robotics",
    "published": "2026-10-15T21:00:01+00:00"
-  },
-  {
-   "title": "AI model decodes the language cells use to communicate",
-   "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-15T20:50:00+00:00"
   },
   {
    "title": "SP Industrial Enterprise SSD Lineup Adds PCIe Gen5 E1.S and U.2 Drives up to 15.3TB With eTLC and 3 DWPD Options",
@@ -702,6 +738,13 @@
    "published": "2026-10-15T19:23:20+00:00"
   },
   {
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-15T19:00:00+00:00"
+  },
+  {
    "title": "Tucuvi joins the Microsoft Pegasus Program to scale clinically governed AI Care Management across health systems",
    "url": "https://www.prnewswire.com/news-releases/tucuvi-joins-the-microsoft-pegasus-program-to-scale-clinically-governed-ai-care-management-across-health-systems-302910378.html",
    "source": "PRNewswire",
@@ -728,13 +771,6 @@
    "source": "Crypto Briefing",
    "category": "health",
    "published": "2026-10-15T17:06:19+00:00"
-  },
-  {
-   "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-15T17:00:23+00:00"
   },
   {
    "title": "Born to Be Open: RoboParty Launches RP1, a Full-Stack Open-Source Humanoid",
@@ -765,19 +801,18 @@
    "published": "2026-10-15T16:10:00+00:00"
   },
   {
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "source": "Google DeepMind",
+   "category": "breakthroughs",
+   "published": "2026-10-15T16:08:03+00:00"
+  },
+  {
    "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
    "url": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
    "source": "Fb.com",
    "category": "ai",
    "published": "2026-10-15T16:00:59+00:00"
-  },
-  {
-   "title": "Proof-based general-purpose computing with Magnetar",
-   "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
-   "source": "Microsoft Research",
-   "category": "breakthroughs",
-   "published": "2026-10-15T16:00:00+00:00",
-   "breakthrough": true
   },
   {
    "title": "Delta Highlights Collaboration with NVIDIA in Advancing Energy-efficient 800 VDC Power and Cooling Solutions for AI Data Centers at OCP Global Summit 2026",
@@ -813,6 +848,27 @@
    "source": "BioSpace",
    "category": "health",
    "published": "2026-10-15T15:28:53+00:00"
+  },
+  {
+   "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+   "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-15T15:00:24+00:00"
+  },
+  {
+   "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-15T13:00:59+00:00"
+  },
+  {
+   "title": "Teaching students to think and learn through questions",
+   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-15T13:00:00+00:00"
   },
   {
    "title": "Ultrobotix Begins Working with a Food Manufacturer to Explore Humanoid Robotic Solutions for Production-Line Tasks",
@@ -892,13 +948,6 @@
    "published": "2026-10-15T10:03:42+00:00"
   },
   {
-   "title": "NVIDIA Expands Advanced Technology Access for Europe\u2019s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-   "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-15T10:00:12+00:00"
-  },
-  {
    "title": "Non-Abelian Quantum Signal Processing: A Composite Pulse for Fast Analytic Control of Hybrid Oscillator-Qubit Processors",
    "url": "https://link.aps.org/doi/10.1103/7jwl-k8xg",
    "source": "Aps.org",
@@ -946,13 +995,6 @@
    "source": "Bmwgroup.com",
    "category": "compute",
    "published": "2026-10-15T06:00:00+00:00"
-  },
-  {
-   "title": "The Nordics and NVIDIA Show What\u2019s Possible When a Region Commits to Advanced Computing",
-   "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-15T05:00:12+00:00"
   },
   {
    "title": "US biotech firm completes 95% of dodo's genome and identifies gene-editing targets; could the extinct bird come alive again through its closest living relative, the Nicobar pigeon?",
@@ -34959,48 +35001,6 @@
    "source": "SiliconANGLE News",
    "category": "ai",
    "published": "2026-07-22T02:12:16+00:00"
-  },
-  {
-   "title": "Siemens to acquire Precision Innovations for AI-powered chip planning",
-   "url": "https://www.digitimes.com/news/a20260722PR200/siemens-acquisition-eda-design-software-development.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-22T02:06:57+00:00"
-  },
-  {
-   "title": "Mistral AI strikes multibillion deal with Microsoft to build out Azure infrastructure in Europe",
-   "url": "https://siliconangle.com/2026/07/21/mistral-ai-strikes-multibillion-deal-microsoft-build-azure-infrastructure-europe/",
-   "source": "SiliconANGLE News",
-   "category": "compute",
-   "published": "2026-07-22T02:04:06+00:00"
-  },
-  {
-   "title": "Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe",
-   "url": "https://siliconangle.com/2026/07/21/mistral-ai-strikes-multibillion-dollar-deal-microsoft-build-azure-infrastructure-europe/",
-   "source": "SiliconANGLE News",
-   "category": "compute",
-   "published": "2026-07-22T02:04:06+00:00"
-  },
-  {
-   "title": "MetaOptics to Deploy its Direct Laser Writer at the University of Arizona's Center of Semiconductor Manufacturing to Advance its U.S. Expansion",
-   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/metaoptics-to-deploy-its-direct-laser-writer-at-the-university-of-arizonas-center-of-semiconductor-manufacturing-to-advance-its-u-s-expansion/article71251947.ece",
-   "source": "BusinessLine",
-   "category": "compute",
-   "published": "2026-07-22T02:00:29+00:00"
-  },
-  {
-   "title": "What Does NVIDIA Reflex Actually Do?",
-   "url": "https://www.bgr.com/2216961/what-is-nvidia-reflex-explained/",
-   "source": "BGR",
-   "category": "compute",
-   "published": "2026-07-22T01:47:00+00:00"
-  },
-  {
-   "title": "Tesla's EV platform powers Optimus scale production edge",
-   "url": "https://www.digitimes.com/news/a20260721PD242/tesla-production-optimus-robot-technology.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-07-22T00:34:24+00:00"
   }
  ]
 }

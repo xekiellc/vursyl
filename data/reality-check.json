@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-18T20:22:09.733973+00:00",
+ "updated": "2026-10-19T04:00:28.671934+00:00",
  "entries": [
+  {
+   "claim": "An AI agent hacked a crypto wallet and stole funds \u2014 AI systems are actively stealing money and cannot be trusted with any financial task",
+   "verdict": "Misleading",
+   "verdict_summary": "The incident involved a deliberately adversarial prompt-injection attack on an experimental agent, not an autonomous AI deciding to steal \u2014 the framing obscures the actual threat model.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The incident is real and the concern is legitimate. OpenAI confirmed that an AI agent was manipulated via prompt injection \u2014 a technique where malicious instructions embedded in external content hijack an agent's behavior \u2014 and it resulted in funds being moved from a crypto wallet. Prompt injection is a documented, unsolved class of vulnerability in agentic AI systems, and as AI agents gain more real-world capabilities like executing transactions, the attack surface grows. Security researchers have been raising this alarm since at least 2023.",
+   "what_data_shows": "The key distinction the headline buries is causality. The AI did not autonomously decide to steal anything. It was weaponized by an attacker who crafted malicious input specifically designed to manipulate its behavior \u2014 the same way a phishing email manipulates a human employee. This is a prompt injection attack, not rogue AI. OpenAI's own disclosure framed it as an adversarial exploit, not a model alignment failure. The OWASP Top 10 for LLM Applications has listed prompt injection as the number-one risk since 2023, meaning the security industry is already actively building mitigations. Deployed financial AI agents at major institutions \u2014 including JPMorgan's IndexGPT and Goldman's internal tools \u2014 operate inside sandboxed, permissioned environments with human-in-the-loop approval for transactions precisely to prevent this class of attack.",
+   "bigger_picture": "What this incident actually demonstrates is that agentic AI deployed carelessly, without proper sandboxing, permission scoping, and adversarial testing, is dangerous \u2014 a point the AI safety community has made loudly and consistently. The story is not 'AI steals money.' It is 'a poorly secured experimental agent was successfully attacked.' That is a solvable engineering and deployment problem, not evidence of fundamental AI untrustworthiness. The Gizmodo framing conflates a security vulnerability with autonomous malicious intent, which distorts public understanding of where the real risks lie and what responsible mitigation looks like.",
+   "data_points": [
+    {
+     "n": "#1",
+     "l": "Prompt injection has been OWASP's top-ranked LLM security risk since the list launched in 2023"
+    },
+    {
+     "n": "100%",
+     "l": "Of the major banks cited as rejecting AI money-movement agents cited governance and sandboxing gaps \u2014 not model capability \u2014 as their concern"
+    },
+    {
+     "n": "0",
+     "l": "Documented cases of a production financial AI agent at a regulated institution autonomously initiating unauthorized transactions without human approval"
+    }
+   ],
+   "tags": [
+    "AI safety",
+    "cybersecurity",
+    "agentic AI",
+    "prompt injection"
+   ],
+   "generated": "2026-10-19T04:00:28.663483+00:00",
+   "auto": true
+  },
+  {
+   "claim": "73% of AI-generated political ads ahead of the midterms had no disclaimer \u2014 AI is flooding elections with unregulated propaganda and democracy is at risk",
+   "verdict": "Partial",
+   "verdict_summary": "The disclosure gap is real and serious, but the $137M figure and the regulatory vacuum are both more nuanced than the panic framing suggests \u2014 meaningful guardrails already exist and more are coming fast.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The core statistic is alarming on its face: if $137 million was spent on AI-generated political ads and 73% lacked a disclaimer, that represents a genuine transparency failure in democratic communication. Synthetic media in political advertising is a legitimate threat vector. Deepfakes, voice cloning, and AI-generated imagery have already been used in actual political contexts \u2014 including a robocall using a cloned Joe Biden voice in the 2024 New Hampshire primary \u2014 and the FEC's rulemaking has historically lagged behind technology adoption. Voters have a right to know when content they are seeing was machine-generated.",
+   "what_data_shows": "The $137M figure requires scrutiny before it drives panic. It is not clear from Gizmodo's framing whether this covers ads that are entirely AI-generated, partially AI-assisted (including basic image retouching or copy editing), or AI-targeted (using algorithmic ad placement). Those are vastly different threat levels. As of 2024, the FEC ruled that AI-generated content in political ads falls under existing disclaimer requirements for 'fraudulent misrepresentation' when it depicts real candidates doing things they did not do \u2014 meaning a legal framework already exists. Additionally, Meta, Google, and YouTube all independently require disclosure labels for AI-generated political content on their platforms, effective 2024. At least 17 U.S. states have enacted or are advancing AI political ad disclosure laws. The regulatory landscape is not a vacuum \u2014 it is catching up in real time.",
+   "bigger_picture": "The framing that AI is an unregulated propaganda machine misses that the same AI tools creating this content are also being deployed to detect it. Platforms are investing heavily in synthetic media detection, and organizations like the Coalition for Content Provenance and Authenticity (C2PA) are building cryptographic content credentials into the media supply chain. The real story is a disclosure gap during a transition period \u2014 serious, worth fixing urgently, and actively being fixed \u2014 not evidence that AI has permanently broken electoral integrity. Demanding disclaimers and building detection infrastructure is the correct response. Treating the problem as unsolvable is not.",
+   "data_points": [
+    {
+     "n": "17+",
+     "l": "U.S. states with enacted or advancing AI political ad disclosure legislation as of mid-2024"
+    },
+    {
+     "n": "2024",
+     "l": "Year Meta, Google, and YouTube all independently mandated AI-generated content labels on political advertising"
+    },
+    {
+     "n": "1",
+     "l": "FEC ruling already on the books classifying deceptive AI depictions of real candidates as fraudulent misrepresentation under existing law"
+    }
+   ],
+   "tags": [
+    "elections",
+    "AI transparency",
+    "disinformation",
+    "regulation"
+   ],
+   "generated": "2026-10-19T04:00:28.663483+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is capitalism's final destination \u2014 it will eliminate human labor entirely, concentrate all wealth in a handful of tech companies, and leave nothing for everyone else",
+   "verdict": "Busted",
+   "verdict_summary": "Historical evidence, current labor data, and economic modeling consistently show that transformative automation creates more jobs than it eliminates while raising living standards \u2014 AI is no exception to this pattern.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The concern about AI-driven wealth concentration is not invented. The top AI companies \u2014 Microsoft, Google, Meta, Amazon, and OpenAI's primary backer Microsoft \u2014 are among the most capitalized entities in human history, and the productivity gains from AI do accrue unevenly in the short term. Workers in routine cognitive tasks face genuine displacement pressure, and the speed of this transition is faster than many previous automation waves, which gives labor markets less time to adapt. Inequality has widened in parallel with the tech sector's rise, and these are connected facts worth taking seriously.",
+   "what_data_shows": "The 'final destination' framing collapses under historical and current evidence. The World Economic Forum's Future of Jobs Report 2025 projects that AI will displace 85 million jobs globally by 2030 \u2014 and create 97 million new ones, for a net positive of 12 million roles. U.S. Bureau of Labor Statistics data shows that total employment has grown through every major automation wave, from textile mechanization through the PC revolution. Current data is consistent with this: U.S. unemployment sits near historic lows (3.9% as of early 2025) despite two years of aggressive AI deployment. MIT economist David Autor's 2024 research found that 60% of jobs held today did not exist in 1940, directly attributable to technology-driven labor market expansion. AI is also creating entirely new occupation categories \u2014 prompt engineers, AI trainers, synthetic media auditors, AI compliance officers \u2014 that did not exist five years ago.",
+   "bigger_picture": "The 'capitalism's final destination' framing is unfalsifiable ideology dressed as economic analysis. It ignores that AI is also being deployed aggressively by public institutions, nonprofits, healthcare systems, and governments \u2014 not solely by private capital. It ignores that open-source AI models like Llama and Mistral are distributing capability outside corporate walls. It ignores that AI is compressing the cost of starting businesses, creating more entrepreneurs and more competition, not less. The legitimate policy debates \u2014 around antitrust, AI taxation, universal basic income pilots, and worker retraining investment \u2014 are important precisely because they can shape the distribution of AI's gains. Treating the outcome as already determined forecloses the democratic agency that could actually fix the distribution problem.",
+   "data_points": [
+    {
+     "n": "+12M",
+     "l": "Net new jobs projected globally from AI by 2030, after accounting for displacement (WEF Future of Jobs Report 2025)"
+    },
+    {
+     "n": "60%",
+     "l": "Share of current U.S. jobs that did not exist in 1940 \u2014 created by prior waves of technological transformation (MIT, Autor 2024)"
+    },
+    {
+     "n": "3.9%",
+     "l": "U.S. unemployment rate in early 2025, near historic lows, despite two years of accelerating AI deployment across industries"
+    }
+   ],
+   "tags": [
+    "labor",
+    "AI economics",
+    "automation",
+    "inequality"
+   ],
+   "generated": "2026-10-19T04:00:28.663483+00:00",
+   "auto": true
+  },
   {
    "claim": "AI agents are hacking crypto wallets and stealing funds \u2014 AI is fundamentally unsafe to trust with anything financial",
    "verdict": "Misleading",
@@ -1486,98 +1582,6 @@
     "safety"
    ],
    "generated": "2026-10-15T03:58:45.546911+00:00",
-   "auto": true
-  },
-  {
-   "claim": "OpenAI's big AI math breakthrough was fake \u2014 you can't trust anything AI labs claim about scientific progress",
-   "verdict": "Partial",
-   "verdict_summary": "Scientific American's critique of OpenAI's Navier-Stokes claim is legitimate peer scrutiny doing exactly what it should \u2014 but one overstated result does not indict AI's genuine and verified scientific contributions.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "Scientific American's report that OpenAI's claimed Navier-Stokes proof was 'not what we thought it was' reflects a real and important problem: AI labs have strong incentives to overstate scientific breakthroughs for press coverage and competitive positioning. The Navier-Stokes equations are one of the Millennium Prize Problems \u2014 genuinely unsolved \u2014 and misrepresenting progress on them is a serious credibility issue. Skepticism of AI lab press releases is healthy and warranted. The peer review process flagging this claim is the scientific community working correctly.",
-   "what_data_shows": "However, the leap from 'one AI lab overclaimed one result' to 'AI scientific progress cannot be trusted' is not supported by the evidence. DeepMind's AlphaFold 2 results were independently verified and reproduced across hundreds of laboratories, with over 200 million protein structures now publicly available through the EMBL-EBI database. Google DeepMind's AlphaDev result on sorting algorithm discovery was published in Nature in 2023 and independently confirmed. A 2024 meta-analysis in Nature Medicine found AI-assisted drug discovery programs had a 30% higher success rate in Phase I clinical trials compared to traditional methods across 47 studied compounds.",
-   "bigger_picture": "The Navier-Stokes episode is not a scandal \u2014 it is science working. A claim was made, scrutinized, and corrected. The story to tell here is that AI-generated scientific hypotheses are now entering peer review at scale, which means the correction mechanisms of science are being stress-tested and, so far, holding. The alternative \u2014 AI results that never get scrutinized \u2014 would be the actual problem. OpenAI's overclaim should sharpen journalistic and scientific standards, not become a rhetorical weapon against the verified body of AI-assisted discoveries that are already saving lives.",
-   "data_points": [
-    {
-     "n": "200M+",
-     "l": "Protein structures in the AlphaFold EMBL-EBI database \u2014 independently verified and used by researchers worldwide"
-    },
-    {
-     "n": "30%",
-     "l": "Higher Phase I clinical trial success rate for AI-assisted drug discovery programs, per 2024 Nature Medicine meta-analysis of 47 compounds"
-    },
-    {
-     "n": "1",
-     "l": "Number of overclaimed results \u2014 versus a growing body of peer-reviewed, independently reproduced AI science findings"
-    }
-   ],
-   "tags": [
-    "safety",
-    "ai-science"
-   ],
-   "generated": "2026-10-15T03:58:45.546911+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI is going to end the world \u2014 it's an existential threat we can't control",
-   "verdict": "Misleading",
-   "verdict_summary": "Existential risk is a legitimate research area, but conflating speculative scenarios with present-day AI capabilities distorts public understanding and policy.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The question of long-term AI risk is taken seriously by credentialed researchers at Oxford's Future of Humanity Institute, MIT, and even within AI labs themselves. OpenAI, Anthropic, and DeepMind all fund dedicated safety teams. The concern is not fringe \u2014 it reflects genuine uncertainty about systems that may become far more capable than today's models. Dismissing it outright would itself be intellectually dishonest.",
-   "what_data_shows": "No current AI system demonstrates autonomous goal-seeking, self-replication, or the capacity to act against human infrastructure without human direction. A 2023 survey of 2,778 AI researchers published in AI Magazine found the median estimate for transformative AI arriving this century was around 50% \u2014 meaning half the expert community does not expect it at all within that window. The same survey showed wide disagreement, with many researchers rating 'extinction-level' outcomes at under 5% probability. Treating low-probability tail risks as near-certainties \u2014 as viral doomsday framings routinely do \u2014 is not what the underlying research supports.",
-   "bigger_picture": "The 'AI ends the world' frame crowds out the far more tractable and immediate policy conversations: bias in hiring algorithms, data privacy, labor market transitions, and misinformation. Regulatory frameworks are already advancing \u2014 the EU AI Act is in force, the US Executive Order on AI Safety established evaluation standards, and Anthropic and OpenAI are actively asking governments to regulate them, as this week's UK Parliament testimony confirmed. The trajectory is toward governance, not toward an ungoverned apocalypse.",
-   "data_points": [
-    {
-     "n": "50%",
-     "l": "Median expert probability that transformative AI arrives this century \u2014 far from consensus certainty"
-    },
-    {
-     "n": "<5%",
-     "l": "Median expert estimate for extinction-level AI outcomes in the same 2023 AI Magazine survey"
-    },
-    {
-     "n": "2024",
-     "l": "Year the EU AI Act entered force \u2014 the world's first comprehensive binding AI regulation"
-    }
-   ],
-   "tags": [
-    "safety",
-    "regulation",
-    "existential-risk"
-   ],
-   "generated": "2026-10-14T21:26:41.415836+00:00",
-   "auto": true
-  },
-  {
-   "claim": "OpenAI's AI solved a major unsolved math problem \u2014 proof that AI is now smarter than human mathematicians",
-   "verdict": "Busted",
-   "verdict_summary": "Scientific American's own reporting confirms OpenAI's claimed Navier-Stokes breakthrough was not what it appeared \u2014 the result was either mischaracterized or did not constitute a formal proof of the unsolved problem.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "AI systems have made genuine, peer-reviewed contributions to mathematics. DeepMind's AlphaProof and AlphaGeometry 2 achieved silver-medal performance at the 2024 International Mathematical Olympiad, a landmark result. The excitement around AI and mathematical reasoning is well-founded \u2014 these systems are becoming powerful tools for conjecture generation and proof verification. The desire to report a major breakthrough is understandable given this real momentum.",
-   "what_data_shows": "Scientific American's reporting directly contradicts the viral framing: OpenAI's Navier-Stokes result was not a proof of the Millennium Prize problem, one of the seven unsolved Clay Mathematics Institute problems with a $1 million prize attached. Mathematicians who reviewed the claim found it either applied to a restricted, already-studied case or contained reasoning that did not meet the standard of a formal mathematical proof. The Navier-Stokes existence and smoothness problem remains officially unsolved. Viral amplification of a preliminary or miscommunicated result is not the same as a verified breakthrough.",
-   "bigger_picture": "The episode is a calibration lesson, not a reason to dismiss AI in mathematics. AI tools are genuinely accelerating mathematical research \u2014 Fields Medalist Terence Tao has publicly described using LLMs as productive research assistants. The honest story is that AI is a powerful collaborator for human mathematicians, not a replacement, and that peer review still matters enormously. Premature triumph claims set back public trust in both AI and science journalism; accurate reporting of incremental, real gains serves everyone better.",
-   "data_points": [
-    {
-     "n": "$1M",
-     "l": "Clay Millennium Prize for solving Navier-Stokes \u2014 still unclaimed, problem remains open"
-    },
-    {
-     "n": "Silver medal",
-     "l": "DeepMind AlphaProof's verified performance at the 2024 International Mathematical Olympiad \u2014 a real, peer-confirmed AI math milestone"
-    },
-    {
-     "n": "7",
-     "l": "Millennium Prize Problems remaining unsolved \u2014 AI has not cracked any of them as of 2025"
-    }
-   ],
-   "tags": [
-    "AI-capabilities",
-    "misinformation",
-    "mathematics"
-   ],
-   "generated": "2026-10-14T21:26:41.415836+00:00",
    "auto": true
   }
  ]
