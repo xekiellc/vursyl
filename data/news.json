@@ -1,6 +1,63 @@
 {
- "updated": "2026-10-19T04:00:28.671934+00:00",
+ "updated": "2026-10-19T12:39:43.465602+00:00",
  "items": [
+  {
+   "title": "Show HN: Independent LLM benchmark index tracking 22 frontier models",
+   "url": "https://vibecoderjournal.com/rankings/",
+   "source": "Vibecoderjournal.com",
+   "category": "ai",
+   "published": "2026-10-18T12:36:53+00:00"
+  },
+  {
+   "title": "AI training set to be mandatory for teachers of state universities",
+   "url": "https://timesofindia.indiatimes.com/city/patna/ai-training-set-to-be-mandatory-for-teachers-of-state-universities/articleshow/135028525.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-10-18T12:02:25+00:00"
+  },
+  {
+   "title": "Linktel Technologies Highlights Breakthrough 1.6T LPO Performance & Strong Market Pull at OCP 2026",
+   "url": "https://www.prnewswire.com/news-releases/linktel-technologies-highlights-breakthrough-1-6t-lpo-performance--strong-market-pull-at-ocp-2026--302911973.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-10-18T11:53:00+00:00"
+  },
+  {
+   "title": "IIT Madras alumnus left corporate roles to build an AI startup; how Akash Ramdas raised $9 million to accelerate semiconductor materials discovery",
+   "url": "https://timesofindia.indiatimes.com/education/news/iit-madras-alumnus-left-corporate-roles-to-build-an-ai-startup-how-akash-ramdas-raised-9-million-to-accelerate-semiconductor-materials-discovery/articleshow/135027069.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-10-18T11:37:40+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Advanced Manufacturing in Focus: Smart Life and Robotics Take the Spotlight at 140th Canton Fair",
+   "url": "https://www.prnewswire.com/news-releases/advanced-manufacturing-in-focus-smart-life-and-robotics-take-the-spotlight-at-140th-canton-fair-302911959.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-18T11:00:00+00:00"
+  },
+  {
+   "title": "Castill Health Announces Plans for Philippines Digital Healthcare Launch, Supported by Craig Astill and Caason Group\u00a0 | Macau Business",
+   "url": "https://macaubusiness.com/castill-health-announces-plans-for-philippines-digital-healthcare-launch-supported-by-craig-astill-and-caason-group/",
+   "source": "Macau Business",
+   "category": "health",
+   "published": "2026-10-18T08:50:45+00:00"
+  },
+  {
+   "title": "Counterpoint Forecasts DRAM Demand From Humanoid Robots Could Rise 20-Fold by 2030",
+   "url": "https://www.naturalnews.com/2026-10-18-counterpoint-forecasts-rise-dram-demand-humanoid-robots.html",
+   "source": "Naturalnews.com",
+   "category": "robotics",
+   "published": "2026-10-18T06:00:00+00:00"
+  },
+  {
+   "title": "Giving AI a \u201ccrystal clear\u201d view of the materials world",
+   "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+   "source": "Mit.edu",
+   "category": "breakthroughs",
+   "published": "2026-10-18T04:00:00+00:00"
+  },
   {
    "title": "Semiconductor market to remain solid \u2018at least through next year,\u2019 South Korea finance minister says",
    "url": "https://biztoc.com/x/b2eab633dd980a42",
@@ -27,8 +84,7 @@
    "url": "https://biztoc.com/x/131e0b2d966f0937",
    "source": "Biztoc.com",
    "category": "compute",
-   "published": "2026-10-18T01:58:00+00:00",
-   "breakthrough": true
+   "published": "2026-10-18T01:58:00+00:00"
   },
   {
    "title": "Show HN: Cosplay as a tech lead, using gVisor to sandbox agents",
@@ -38,25 +94,11 @@
    "published": "2026-10-18T01:49:34+00:00"
   },
   {
-   "title": "A New Injection Makes Fat Cells Self-Destruct, And Might Prevent GLP-1 Weight Regain",
-   "url": "https://www.sciencealert.com/a-new-injection-makes-fat-cells-self-destruct-and-might-prevent-glp-1-weight-regain",
-   "source": "ScienceAlert",
-   "category": "health",
-   "published": "2026-10-18T00:00:00+00:00"
-  },
-  {
    "title": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186353844",
    "source": "Slashdot.org",
    "category": "robotics",
    "published": "2026-10-17T23:52:16+00:00"
-  },
-  {
-   "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-17T21:00:13+00:00"
   },
   {
    "title": "Abu Dhabi Health Delegation Concludes Inaugural Visit to China, Opening New Pathways to Advance AI, Precision Medicine and Next-Gen Therapies",
@@ -288,13 +330,6 @@
    "source": "Futurism",
    "category": "robotics",
    "published": "2026-10-16T19:17:34+00:00"
-  },
-  {
-   "title": "How Ita\u00fa is building generative AI for its entire customer base",
-   "url": "https://openai.com/index/itau-generative-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-16T19:00:00+00:00"
   },
   {
    "title": "Human Longevity Expands Its $1 Million Cancer Prevention Pledge to Breast Cancer",
@@ -626,6 +661,20 @@
    "published": "2026-10-16T00:10:36+00:00"
   },
   {
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "url": "https://openai.com/index/benefit-street-partners",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-16T00:00:00+00:00"
+  },
+  {
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-16T00:00:00+00:00"
+  },
+  {
    "title": "Cavity-less Brillouin strong coupling in a solid-state continuous system",
    "url": "https://www.nature.com/articles/s41567-026-03458-2",
    "source": "Nature.com",
@@ -659,6 +708,13 @@
    "source": "Al Jazeera English",
    "category": "robotics",
    "published": "2026-10-15T21:00:01+00:00"
+  },
+  {
+   "title": "AI model decodes the language cells use to communicate",
+   "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-15T20:50:00+00:00"
   },
   {
    "title": "SP Industrial Enterprise SSD Lineup Adds PCIe Gen5 E1.S and U.2 Drives up to 15.3TB With eTLC and 3 DWPD Options",
@@ -738,13 +794,6 @@
    "published": "2026-10-15T19:23:20+00:00"
   },
   {
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-15T19:00:00+00:00"
-  },
-  {
    "title": "Tucuvi joins the Microsoft Pegasus Program to scale clinically governed AI Care Management across health systems",
    "url": "https://www.prnewswire.com/news-releases/tucuvi-joins-the-microsoft-pegasus-program-to-scale-clinically-governed-ai-care-management-across-health-systems-302910378.html",
    "source": "PRNewswire",
@@ -771,6 +820,13 @@
    "source": "Crypto Briefing",
    "category": "health",
    "published": "2026-10-15T17:06:19+00:00"
+  },
+  {
+   "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-15T17:00:23+00:00"
   },
   {
    "title": "Born to Be Open: RoboParty Launches RP1, a Full-Stack Open-Source Humanoid",
@@ -801,18 +857,18 @@
    "published": "2026-10-15T16:10:00+00:00"
   },
   {
-   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-   "source": "Google DeepMind",
-   "category": "breakthroughs",
-   "published": "2026-10-15T16:08:03+00:00"
-  },
-  {
    "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
    "url": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
    "source": "Fb.com",
    "category": "ai",
    "published": "2026-10-15T16:00:59+00:00"
+  },
+  {
+   "title": "Proof-based general-purpose computing with Magnetar",
+   "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+   "source": "Microsoft Research",
+   "category": "breakthroughs",
+   "published": "2026-10-15T16:00:00+00:00"
   },
   {
    "title": "Delta Highlights Collaboration with NVIDIA in Advancing Energy-efficient 800 VDC Power and Cooling Solutions for AI Data Centers at OCP Global Summit 2026",
@@ -848,20 +904,6 @@
    "source": "BioSpace",
    "category": "health",
    "published": "2026-10-15T15:28:53+00:00"
-  },
-  {
-   "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-   "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-15T15:00:24+00:00"
-  },
-  {
-   "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-15T13:00:59+00:00"
   },
   {
    "title": "Teaching students to think and learn through questions",
@@ -34959,48 +35001,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-07-22T02:41:02+00:00"
-  },
-  {
-   "title": "Nvidia details AI rack strategy with Vera Rubin NVL72 and custom Vera CPU",
-   "url": "https://www.digitimes.com/news/a20260722VL206/nvidia-rubin-cpu.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-22T02:33:53+00:00"
-  },
-  {
-   "title": "NVIDIA Blackwell GB300 Continues To Set World Records for MoE Pre-Training While GB200 Sees A 4x Boost In Perf/W Through Continuous AI Software Stack Optimizations",
-   "url": "https://wccftech.com/nvidia-blackwell-gb300-continues-to-set-world-records-gb200-gets-4x-ai-boost-optimizations/",
-   "source": "Wccftech",
-   "category": "compute",
-   "published": "2026-07-22T02:30:03+00:00"
-  },
-  {
-   "title": "tensor-grep 1.92.2",
-   "url": "https://pypi.org/project/tensor-grep/1.92.2/",
-   "source": "Pypi.org",
-   "category": "compute",
-   "published": "2026-07-22T02:29:51+00:00"
-  },
-  {
-   "title": "bareagent-cli 0.2.0",
-   "url": "https://pypi.org/project/bareagent-cli/0.2.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-22T02:24:13+00:00"
-  },
-  {
-   "title": "lmcache 0.5.2",
-   "url": "https://pypi.org/project/lmcache/0.5.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-22T02:21:13+00:00"
-  },
-  {
-   "title": "Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook",
-   "url": "https://siliconangle.com/2026/07/21/nvidia-vera-rubin-inside-agentic-ai-factory-rewrites-cpu-playbook/",
-   "source": "SiliconANGLE News",
-   "category": "ai",
-   "published": "2026-07-22T02:12:16+00:00"
   }
  ]
 }
