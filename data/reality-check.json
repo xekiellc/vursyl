@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-19T12:39:43.465602+00:00",
+ "updated": "2026-10-19T22:10:18.032807+00:00",
  "entries": [
+  {
+   "claim": "AI-generated content can plant fake memories in your brain and you won't even know it happened",
+   "verdict": "Misleading",
+   "verdict_summary": "The research is real but narrow \u2014 it shows susceptibility under specific experimental conditions, not that everyday AI content is rewiring your memory at scale.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The underlying concern has genuine scientific grounding. Memory is reconstructive, not a recording \u2014 humans are susceptible to 'misinformation effects' and false memory implantation, a phenomenon documented since Elizabeth Loftus's foundational work in the 1970s. AI-generated text and images are more fluent, more persuasive, and more voluminous than prior misinformation vectors, which legitimately raises the question of whether AI content could industrialize false memory formation at scale. Researchers raising this alarm are not cranks.",
+   "what_data_shows": "The studies cited in coverage are laboratory experiments using controlled exposure to AI-generated misinformation about specific events, typically measuring recall distortion immediately or shortly after. These conditions \u2014 forced exposure, memory probing on targeted topics \u2014 are engineered to surface the effect. Real-world memory implantation requires repeated, confident, socially reinforced misinformation; a single AI-generated article does not meet that bar. The broader misinformation literature, including a 2023 meta-analysis in Psychological Bulletin covering 52 studies, consistently finds that corrections and media literacy interventions meaningfully reduce false belief adoption. The 'AI wipes memory' framing overstates effect size and ignores mitigation.",
+   "bigger_picture": "The correct takeaway from this research is not panic \u2014 it is a design mandate. AI developers, platforms, and regulators should treat memory-distortion risk as a reason to invest in provenance labeling, content watermarking, and AI literacy education. Tools like C2PA content credentials and Google's SynthID are already in deployment. The trajectory is toward more transparency, not less. Treating a laboratory finding as evidence that AI is silently corrupting mass cognition conflates a real risk with a catastrophist narrative that serves fear more than it serves the public.",
+   "data_points": [
+    {
+     "n": "52 studies",
+     "l": "Meta-analysis in Psychological Bulletin showing corrections reduce false belief adoption"
+    },
+    {
+     "n": "1970s",
+     "l": "Decade when Loftus established human memory malleability \u2014 this is not an AI-specific discovery"
+    },
+    {
+     "n": "C2PA + SynthID",
+     "l": "Two active industry standards already deploying AI content provenance at scale"
+    }
+   ],
+   "tags": [
+    "misinformation",
+    "memory",
+    "AI safety",
+    "media literacy"
+   ],
+   "generated": "2026-10-19T22:10:18.024587+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is now the top reason for layoffs \u2014 it's destroying jobs faster than workers can adapt",
+   "verdict": "Misleading",
+   "verdict_summary": "AI is cited more frequently in layoff announcements, but the aggregate labor data does not show AI-driven net job destruction \u2014 it shows displacement anxiety outpacing actual displacement.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The concern is not manufactured. Entrepreneur's framing reflects real data: Challenger, Gray & Christmas began tracking 'AI' as a stated layoff reason in 2023 and the category has grown. Anthropic's own internal survey of 1,334 employees \u2014 people who build this technology \u2014 found stronger-than-average conviction that AI will significantly reshape employment. When the people building the tools believe displacement is coming, that signal deserves serious weight. Specific roles in coding, content, customer support, and data entry face genuine automation pressure right now, not in some abstract future.",
+   "what_data_shows": "The U.S. Bureau of Labor Statistics unemployment rate held at 4.2% as of May 2025 \u2014 not the elevated figure you would expect if AI were executing mass layoffs. The World Economic Forum's 2025 Future of Jobs Report projects 170 million new roles created globally against 92 million displaced by 2030, a net positive of 78 million jobs. The Challenger data on AI-cited layoffs peaked at roughly 4,600 in a single month in 2023 against a U.S. labor market of 161 million workers \u2014 statistically negligible as a share of total separations. The Entrepreneur headline's own article acknowledges AI is simultaneously a path to entrepreneurship, which the fear-based summary buries.",
+   "bigger_picture": "Every major general-purpose technology \u2014 electricity, the internet, the PC \u2014 triggered identical displacement fears and produced net employment expansion over decade-length horizons. The honest position is that AI will eliminate specific tasks within jobs more than it will eliminate jobs wholesale, and that transition pace matters enormously for policy. The story worth telling is not 'AI destroys jobs' but 'AI restructures work and the policy response \u2014 retraining investment, portable benefits, education reform \u2014 will determine who benefits.' That is a solvable problem, and framing it as inevitable catastrophe makes it harder to solve.",
+   "data_points": [
+    {
+     "n": "4.2%",
+     "l": "U.S. unemployment rate as of May 2025 \u2014 inconsistent with AI-driven mass layoff narrative"
+    },
+    {
+     "n": "78 million net new jobs",
+     "l": "WEF 2025 projection: 170M created minus 92M displaced through 2030"
+    },
+    {
+     "n": "~4,600",
+     "l": "Peak monthly AI-cited layoffs in Challenger data vs. 161M U.S. workforce \u2014 under 0.003%"
+    }
+   ],
+   "tags": [
+    "labor",
+    "automation",
+    "displacement",
+    "future of work"
+   ],
+   "generated": "2026-10-19T22:10:18.024587+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI worms that self-replicate are coming and Anthropic is already scared \u2014 AI systems are about to become uncontrollable",
+   "verdict": "Misleading",
+   "verdict_summary": "Self-replicating AI worm research is real and worth monitoring, but current demonstrated attacks require narrow, specific conditions and remain far from the autonomous, unstoppable threat the framing implies.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The underlying research is legitimate and was taken seriously before Anthropic's commentary amplified it. In 2024, Cornell researchers demonstrated 'Morris II,' a proof-of-concept worm that exploited multi-agent AI systems by embedding adversarial instructions in content that propagated across connected LLM applications. If AI agents gain broad tool-use capabilities \u2014 controlling email, calendars, financial accounts \u2014 the attack surface for malicious prompt injection does expand meaningfully. This is not science fiction; it is a real class of vulnerability that security researchers are actively characterizing.",
+   "what_data_shows": "Morris II and similar demonstrated attacks operate under highly constrained conditions: they require multi-agent architectures with insufficient input sanitization, no human-in-the-loop checkpoints, and specific application configurations. No self-replicating AI worm has been documented in the wild causing harm at scale. The broader field of AI red-teaming \u2014 practiced by Anthropic, OpenAI, Google DeepMind, and government bodies including NIST and the UK AI Safety Institute \u2014 exists precisely to find and remediate this class of vulnerability before deployment. NIST's AI Risk Management Framework, released in 2023 and updated in 2024, explicitly addresses agentic AI threat vectors. The security community is not surprised by this research; they commissioned much of it.",
+   "bigger_picture": "The 'AI systems are becoming uncontrollable' narrative collapses when you examine who is doing the research: safety teams inside and adjacent to frontier AI labs, funded specifically to find these problems. The fact that Anthropic is worried about AI worms is evidence that the safety feedback loop is functioning, not evidence that it has failed. The correct analogy is early internet security research \u2014 researchers found buffer overflows and SQL injection before adversaries weaponized them at scale, and defensive practices followed. AI security is on the same trajectory: identify, characterize, mitigate. Fear-based coverage that skips steps two and three does not serve readers.",
+   "data_points": [
+    {
+     "n": "Morris II (2024)",
+     "l": "Cornell proof-of-concept worm \u2014 demonstrated in lab, not observed in the wild"
+    },
+    {
+     "n": "NIST AI RMF 2023\u20132024",
+     "l": "Federal framework explicitly addressing agentic AI threat vectors \u2014 mitigation infrastructure exists"
+    },
+    {
+     "n": "4 frontier labs + 2 government bodies",
+     "l": "Active AI red-teaming programs operating before public worm coverage emerged"
+    }
+   ],
+   "tags": [
+    "AI safety",
+    "cybersecurity",
+    "agentic AI",
+    "prompt injection"
+   ],
+   "generated": "2026-10-19T22:10:18.024587+00:00",
+   "auto": true
+  },
   {
    "claim": "An AI agent hacked into a crypto wallet and stole funds \u2014 AI systems are dangerous, uncontrollable financial threats",
    "verdict": "Misleading",
@@ -1495,99 +1591,6 @@
     "hype"
    ],
    "generated": "2026-10-15T16:39:21.061926+00:00",
-   "auto": true
-  },
-  {
-   "claim": "OpenAI claimed a historic AI breakthrough on the Navier-Stokes equations \u2014 proof that AI is solving problems humans never could.",
-   "verdict": "Busted",
-   "verdict_summary": "OpenAI's reported Navier-Stokes result was not the landmark proof it was presented as \u2014 Scientific American confirmed the claim significantly overstated what the model actually demonstrated.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "AI-assisted mathematics is a genuinely exciting and rapidly developing field. Tools like DeepMind's AlphaProof demonstrated real progress on International Mathematical Olympiad problems in 2024, and large language models have shown increasing utility as co-pilots for formal proof verification. The Navier-Stokes equations \u2014 which describe fluid dynamics and remain one of the Millennium Prize Problems \u2014 would represent one of the most significant mathematical achievements in history if solved. It is reasonable for people to be excited about AI's potential role in advancing pure mathematics.",
-   "what_data_shows": "According to Scientific American's reporting, OpenAI's blockbuster Navier-Stokes claim was not what it appeared. The result did not constitute a proof of global regularity for the Navier-Stokes equations \u2014 the actual Millennium Prize Problem. The work addressed a narrower, specific aspect of the problem, and experts interviewed by Scientific American cautioned that the framing dramatically overstated its scope and significance. This is a pattern worth naming: AI labs have incentives to frame incremental results in maximally impressive terms, and science journalists and peer reviewers serve as a critical check on that tendency \u2014 one that functioned correctly in this case.",
-   "bigger_picture": "This episode is not evidence that AI cannot contribute to mathematics \u2014 it is evidence that the scientific community's verification infrastructure works. The overclaim was caught, corrected, and reported. AI-assisted proof tools are genuinely advancing, with DeepMind's FunSearch and AlphaProof producing results that mathematicians have independently validated. The Navier-Stokes episode should raise the bar for how AI mathematical claims are communicated, not generate blanket skepticism about AI's role in science. Accurate representation of incremental progress is more durable \u2014 and ultimately more impressive \u2014 than overhyped breakthroughs that collapse under scrutiny.",
-   "data_points": [
-    {
-     "n": "$1,000,000",
-     "l": "Clay Mathematics Institute prize for actually solving the Navier-Stokes global regularity problem \u2014 which remains unsolved"
-    },
-    {
-     "n": "2024",
-     "l": "Year DeepMind's AlphaProof achieved independently verified results on International Mathematical Olympiad problems, a legitimate AI math milestone"
-    },
-    {
-     "n": "Not a proof",
-     "l": "Scientific American's expert assessment of OpenAI's Navier-Stokes claim after review by mathematicians"
-    }
-   ],
-   "tags": [
-    "AI-hype",
-    "mathematics",
-    "misinformation"
-   ],
-   "generated": "2026-10-15T16:39:21.061926+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI is going to end the world \u2014 doomsday is inevitable and coming soon",
-   "verdict": "Misleading",
-   "verdict_summary": "Shifting AI doomsday timelines and Atlantic-style existential panic reflect genuine uncertainty, but conflate speculative risk with near-term reality in ways the evidence does not support.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The concern is not frivolous. Serious researchers at places like DeepMind, Anthropic, and the Centre for Human-Compatible AI have published peer-reviewed work on long-term risks from misaligned AI systems. The fact that AI doomsday predictions keep shifting \u2014 as reported by banking regulators tracking AI risk narratives \u2014 does reflect real expert disagreement about trajectory and timelines. Dismissing these conversations entirely would be intellectually dishonest.",
-   "what_data_shows": "What the data does not show is imminent civilizational collapse. A 2023 survey of 2,778 AI researchers published in AI Magazine found the median estimate for transformative AI was 2047, with enormous variance \u2014 meaning there is no consensus on timeline, let alone outcome. The AI safety field itself is growing: Anthropic, DeepMind's safety team, and OpenAI's preparedness team collectively employ hundreds of researchers specifically tasked with preventing catastrophic outcomes. Regulatory frameworks are accelerating \u2014 the EU AI Act is now enforceable, the UK AI Safety Institute is operational, and OpenAI and Anthropic voluntarily appeared before British lawmakers to request oversight. These are not the conditions of a field racing recklessly toward doom.",
-   "bigger_picture": "The 'end of the world' framing crowds out the more tractable, immediate questions about AI governance, bias, and labor displacement \u2014 problems that are real, measurable, and solvable. Existential panic also historically correlates with worse policy outcomes: fear-driven regulation tends to be blunt and counterproductive. The AI Safety community's own leading voices, including Yoshua Bengio, advocate for structured international cooperation \u2014 not fatalism. The trajectory here is more guardrails, more transparency, and more institutional accountability, not less.",
-   "data_points": [
-    {
-     "n": "2047",
-     "l": "Median year AI researchers expect transformative AI, per 2023 AI Magazine survey of 2,778 researchers"
-    },
-    {
-     "n": "3+",
-     "l": "Major national AI safety institutes now operational (UK, US, Japan) since 2023"
-    },
-    {
-     "n": "100s",
-     "l": "Dedicated AI safety researchers now employed across Anthropic, DeepMind, and OpenAI preparedness teams"
-    }
-   ],
-   "tags": [
-    "ai-safety",
-    "existential-risk",
-    "regulation"
-   ],
-   "generated": "2026-10-15T11:08:06.278707+00:00",
-   "auto": true
-  },
-  {
-   "claim": "OpenAI's AI solved a 100-year-old math problem \u2014 proof that AI is already smarter than human experts",
-   "verdict": "Misleading",
-   "verdict_summary": "OpenAI's Navier-Stokes claim was significantly walked back upon scrutiny \u2014 it demonstrates AI's real but narrowly-scoped mathematical utility, not general superhuman reasoning.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The excitement is understandable. If AI systems could genuinely resolve the Navier-Stokes existence and smoothness problem \u2014 one of the seven Millennium Prize Problems with a $1 million prize \u2014 it would represent one of the most significant mathematical breakthroughs in a century. The Navier-Stokes equations govern fluid dynamics and remain unsolved in three dimensions. AI systems like AlphaProof have demonstrated genuine, peer-validated progress on competition-level mathematics, so the optimism behind these headlines is not baseless.",
-   "what_data_shows": "Scientific American reported directly that OpenAI's blockbuster Navier-Stokes proof 'isn't what we thought it was.' Independent mathematicians who reviewed the claim found it addressed a narrower, already-known result rather than the full Millennium Problem. This is consistent with a documented pattern: AI systems excel at recombining known mathematical structures and verifying formal proofs, but have not demonstrated the capacity to produce fundamentally novel mathematical insight at the level required for unsolved Millennium Problems. AlphaProof's verified achievements \u2014 gold-medal-level performance on six 2024 IMO problems \u2014 are impressive but operate within structured, bounded problem spaces.",
-   "bigger_picture": "The real story here is actually more interesting than the hype. AI is becoming a genuine force-multiplier for human mathematicians \u2014 accelerating proof verification, exploring solution spaces, and handling computational grunt work that previously took years. Fields Medal winner Terence Tao has publicly described using AI tools as 'a collaborator.' That is a transformative and positive development. But credibility in AI reporting requires distinguishing between 'AI assists expert mathematicians' and 'AI surpasses all human mathematical ability' \u2014 and right now, the evidence clearly supports only the former.",
-   "data_points": [
-    {
-     "n": "$1M",
-     "l": "Millennium Prize for solving Navier-Stokes \u2014 still unclaimed after OpenAI's announcement was scrutinized"
-    },
-    {
-     "n": "6/6",
-     "l": "IMO 2024 problems solved at gold-medal level by AlphaProof \u2014 a genuine, verified benchmark"
-    },
-    {
-     "n": "0",
-     "l": "Millennium Prize Problems formally verified as solved by any AI system to date"
-    }
-   ],
-   "tags": [
-    "ai-capability",
-    "mathematics",
-    "hype-check"
-   ],
-   "generated": "2026-10-15T11:08:06.278707+00:00",
    "auto": true
   }
  ]
