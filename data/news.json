@@ -1,33 +1,90 @@
 {
- "updated": "2026-10-20T11:12:11.024562+00:00",
+ "updated": "2026-10-20T16:37:04.736442+00:00",
  "items": [
   {
-   "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-   "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
-   "source": "NVIDIA",
+   "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+   "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
+   "source": "Nvidia.com",
    "category": "compute",
-   "published": "2026-10-20T05:00:00+00:00"
+   "published": "2026-10-19T16:32:59+00:00"
   },
   {
-   "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-   "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
-   "source": "NVIDIA",
+   "title": "Indonesia trains 100 Batam talents to develop secure AI apps",
+   "url": "https://en.antaranews.com/news/436589/indonesia-trains-100-batam-talents-to-develop-secure-ai-apps",
+   "source": "Antaranews.com",
    "category": "ai",
-   "published": "2026-10-19T19:27:08+00:00"
+   "published": "2026-10-19T16:28:10+00:00"
   },
   {
-   "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-   "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-   "source": "MIT News AI",
+   "title": "Meta Prometheus: Inside the Gigawatt Supercluster Scaling to 1 Million GPUs on GB200 and GB300 NVL72",
+   "url": "https://www.storagereview.com/news/meta-prometheus-gigawatt-supercluster-1-million-gpus-gb200-gb300-nvl72",
+   "source": "Storagereview.com",
+   "category": "compute",
+   "published": "2026-10-19T16:17:27+00:00"
+  },
+  {
+   "title": "Trace security threats in multi-agent pipelines with Amazon OpenSearch Service",
+   "url": "https://aws.amazon.com/blogs/big-data/trace-security-threats-in-multi-agent-pipelines-with-amazon-opensearch-service/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-10-19T16:10:31+00:00"
+  },
+  {
+   "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
+   "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+   "source": "Amazon.com",
+   "category": "compute",
+   "published": "2026-10-19T16:05:17+00:00"
+  },
+  {
+   "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
+   "url": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-10-19T16:03:23+00:00"
+  },
+  {
+   "title": "RGCB gets \u20b97cr grant to develop blood-based cervical cancer detection device",
+   "url": "https://timesofindia.indiatimes.com/city/kochi/rgcb-gets-7cr-grant-to-develop-blood-based-cervical-cancer-detection-device/articleshow/135052019.cms",
+   "source": "The Times of India",
    "category": "health",
-   "published": "2026-10-19T18:20:00+00:00"
+   "published": "2026-10-19T16:02:21+00:00"
   },
   {
-   "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-   "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
-   "source": "NVIDIA",
+   "title": "UK regulator brings new AI and MedTech agenda to AdvaMed",
+   "url": "https://www.gov.uk/government/news/uk-regulator-brings-new-ai-and-medtech-agenda-to-advamed",
+   "source": "Www.gov.uk",
+   "category": "health",
+   "published": "2026-10-19T15:06:39+00:00"
+  },
+  {
+   "title": "Cockroach Milk Packs 3 Times the Energy of Dairy, and Its Ig Nobel Crystals Now Inspire Protein Design",
+   "url": "https://www.medicaldaily.com/cockroach-milk-ig-nobel-protein-crystals-480126",
+   "source": "Medical Daily",
+   "category": "health",
+   "published": "2026-10-19T14:00:21+00:00"
+  },
+  {
+   "title": "How Boston Dynamics is turning robots into a real business",
+   "url": "https://fortune.com/2026/10/19/how-boston-dynamics-turning-robots-into-a-real-business-cfo/",
+   "source": "Fortune",
+   "category": "robotics",
+   "published": "2026-10-19T13:15:07+00:00"
+  },
+  {
+   "title": "Quantinuum Breaks Error-Correction World Record by 10x, Validating Its Leading Path to Fault-Tolerant Quantum Computing by 2029",
+   "url": "https://www.prnewswire.com/news-releases/quantinuum-breaks-error-correction-world-record-by-10x-validating-its-leading-path-to-fault-tolerant-quantum-computing-by-2029-302912631.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-10-19T13:08:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Advancing coding in low\u2011resource programming languages",
+   "url": "https://openai.com/index/low-resource-programming-languages",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-19T15:00:31+00:00"
+   "published": "2026-10-19T12:00:00+00:00"
   },
   {
    "title": "Vibe coding is turning the music gear world upside down",
@@ -86,36 +143,8 @@
    "published": "2026-10-19T10:27:02+00:00"
   },
   {
-   "title": "Deterministic quantum states storage via dynamical control of subradiant states",
-   "url": "https://link.aps.org/doi/10.1103/7ldk-6h18",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-19T10:00:00+00:00"
-  },
-  {
-   "title": "Machine-learning disordered Hubbard model underlying semiconductor quantum dot based two-dimensional spin qubit arrays",
-   "url": "https://link.aps.org/doi/10.1103/lt2l-s7bk",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-19T10:00:00+00:00"
-  },
-  {
-   "title": "Type-I and type-II fusion protocols for weighted graph states",
-   "url": "https://link.aps.org/doi/10.1103/bf7h-2mk9",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-19T10:00:00+00:00"
-  },
-  {
    "title": "Purification of a monitored qubit: Exact path-integral solution",
    "url": "https://link.aps.org/doi/10.1103/cjfz-qn1b",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-19T10:00:00+00:00"
-  },
-  {
-   "title": "Multirobust Control Pulses Designed by Iterative Quantum Kolmogorov-Arnold-Moser Algorithm",
-   "url": "https://link.aps.org/doi/10.1103/y1dt-3lqd",
    "source": "Aps.org",
    "category": "quantum",
    "published": "2026-10-19T10:00:00+00:00"
@@ -170,6 +199,13 @@
    "published": "2026-10-19T03:40:40+00:00"
   },
   {
+   "title": "Government of Ras Al Khaimah and UBTECH Robotics Sign Strategic MoU to Advance Humanoid Robotics Research and Climate Testing",
+   "url": "https://biztoc.com/x/9124a55f1764f906",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-10-19T03:36:09+00:00"
+  },
+  {
    "title": "Interview: Zeiss SMO president says High-NA EUV ready for mass production, orders booked through 2027",
    "url": "https://www.digitimes.com/news/a20261019PD219/demand-production-president-2027-high-na-euv.html",
    "source": "Digitimes",
@@ -210,6 +246,13 @@
    "source": "Digitimes",
    "category": "compute",
    "published": "2026-10-19T02:58:12+00:00"
+  },
+  {
+   "title": "Hyundai creates RX team to accelerate Atlas humanoid robot production",
+   "url": "https://www.digitimes.com/news/a20261019PD205/hyundai-robot-atlas-production-robotics.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-10-19T01:59:00+00:00"
   },
   {
    "title": "FF EAI Robotics Ecosystem Inc. (FFR) Highlights Faraday Future Founder and Global CEO YT Jia's Weekly Investor Update: Three New Product Offerings Launched; More Details on FFR's Acquisition of FFAI's Robotics Business and Independent Public Listing",
@@ -412,8 +455,7 @@
    "url": "https://www.sciencealert.com/best-of-both-worlds-hybrid-quantum-computers-could-be-just-around-the-corner-researchers-say",
    "source": "ScienceAlert",
    "category": "quantum",
-   "published": "2026-10-18T15:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-10-18T15:00:00+00:00"
   },
   {
    "title": "Show HN: An open-source curation of most useful ChatGPT Plugins",
@@ -479,6 +521,13 @@
    "published": "2026-10-18T06:00:00+00:00"
   },
   {
+   "title": "Giving AI a \u201ccrystal clear\u201d view of the materials world",
+   "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-18T04:00:00+00:00"
+  },
+  {
    "title": "qtool-py 0.4.4",
    "url": "https://pypi.org/project/qtool-py/0.4.4/",
    "source": "Pypi.org",
@@ -526,13 +575,6 @@
    "source": "Slashdot.org",
    "category": "robotics",
    "published": "2026-10-17T23:52:16+00:00"
-  },
-  {
-   "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-17T21:00:13+00:00"
   },
   {
    "title": "Abu Dhabi Health Delegation Concludes Inaugural Visit to China, Opening New Pathways to Advance AI, Precision Medicine and Next-Gen Therapies",
@@ -764,13 +806,6 @@
    "source": "Futurism",
    "category": "robotics",
    "published": "2026-10-16T19:17:34+00:00"
-  },
-  {
-   "title": "How Ita\u00fa is building generative AI for its entire customer base",
-   "url": "https://openai.com/index/itau-generative-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-16T19:00:00+00:00"
   },
   {
    "title": "Human Longevity Expands Its $1 Million Cancer Prevention Pledge to Breast Cancer",
@@ -34966,41 +35001,6 @@
    "source": "NASA",
    "category": "breakthroughs",
    "published": "2026-07-22T14:04:06+00:00"
-  },
-  {
-   "title": "GLG Launches MCP Connector, Advances Frontier of Expert Research",
-   "url": "https://www.prnewswire.com/news-releases/glg-launches-mcp-connector-advances-frontier-of-expert-research-302832234.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-22T14:04:00+00:00"
-  },
-  {
-   "title": "India's electronics manufacturing grows sevenfold to Rs 13.11 lakh cr, creates nearly 25 lakh jobs: Govt",
-   "url": "https://www.aninews.in/news/business/indias-electronics-manufacturing-grows-sevenfold-to-rs-1311-lakh-cr-creates-nearly-25-lakh-jobs-govt20260722193226",
-   "source": "ANI News",
-   "category": "compute",
-   "published": "2026-07-22T14:02:26+00:00"
-  },
-  {
-   "title": "QumulusAI lands $18 million Nvidia Blackwell supply deal",
-   "url": "https://cryptobriefing.com/qumulusai-nvidia-ai-infrastructure-blockchain/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-07-22T14:02:11+00:00"
-  },
-  {
-   "title": "US redirects billions in federal funding towards AI initiatives, signaling major shift in research priorities",
-   "url": "https://cryptobriefing.com/us-redirects-billions-federal-funding-ai/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-07-22T14:01:32+00:00"
-  },
-  {
-   "title": "OpenAI Plans to Spend Over $30 Billion\u00a0on Georgia Data Center",
-   "url": "https://financialpost.com/pmn/business-pmn/openai-plans-to-spend-over-30-billion-on-georgia-data-center",
-   "source": "Financial Post",
-   "category": "compute",
-   "published": "2026-07-22T14:01:30+00:00"
   }
  ]
 }

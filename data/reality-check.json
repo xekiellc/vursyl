@@ -1,6 +1,99 @@
 {
- "updated": "2026-10-20T11:12:11.024562+00:00",
+ "updated": "2026-10-20T16:37:04.736442+00:00",
  "entries": [
+  {
+   "claim": "AI-generated content can implant false memories in your mind \u2014 you can't trust what you remember anymore",
+   "verdict": "Misleading",
+   "verdict_summary": "The research shows a real but context-specific and modest effect that media coverage has dramatically overgeneralized into a sweeping cognitive threat.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The underlying research concern is legitimate and worth taking seriously. Studies on misinformation \u2014 going back decades before AI existed \u2014 consistently show that exposure to false information can distort recall, a phenomenon called the misinformation effect. If AI-generated content scales the volume and personalization of false information, it is reasonable to study whether that amplifies memory distortion. Researchers at institutions including MIT and the University of Warwick have examined how synthetic media can blur the line between experienced and imagined events, and that work deserves attention.",
+   "what_data_shows": "The specific studies cited in coverage \u2014 including research published in Psychological Science and work by Elizabeth Loftus's lab \u2014 show memory implantation effects that are real but narrow: they typically require repeated exposure, social pressure, or emotional salience to take hold, and they affect a minority of participants even under optimal lab conditions. A 2023 meta-analysis of misinformation effect studies found average effect sizes in the small-to-moderate range (Cohen's d around 0.4), meaning most people, most of the time, do not have memories rewritten by false information. Critically, no published peer-reviewed study has demonstrated that casual exposure to AI-generated text or images durably rewrites autobiographical memory at population scale.",
+   "bigger_picture": "The same AI capabilities raising concern here are also being deployed to detect synthetic media, flag misinformation, and build provenance tools like C2PA's Content Credentials standard, which is now backed by Adobe, Microsoft, Google, and the BBC. Memory is more robust than the headline implies, and media literacy education \u2014 now being integrated into curricula across the EU and U.S. \u2014 measurably reduces susceptibility to false information effects. The story of AI and cognition is not one of inevitable manipulation; it is one of a new challenge meeting active, well-funded countermeasures.",
+   "data_points": [
+    {
+     "n": "~0.4 Cohen's d",
+     "l": "Average effect size for misinformation on memory in meta-analyses \u2014 real but modest"
+    },
+    {
+     "n": "C2PA adopted by 100+ organizations",
+     "l": "Industry-wide content provenance standard already countering synthetic media at scale"
+    },
+    {
+     "n": "Minority of lab participants",
+     "l": "Even under ideal experimental conditions, full false memory implantation affects a fraction of subjects"
+    }
+   ],
+   "tags": [
+    "misinformation",
+    "cognitive-science",
+    "AI-safety"
+   ],
+   "generated": "2026-10-20T16:37:04.728276+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI worms are coming and even Anthropic is scared \u2014 this is the beginning of AI destroying the internet",
+   "verdict": "Misleading",
+   "verdict_summary": "Self-replicating AI exploits are a genuine research-stage threat that security teams are actively mitigating, not an imminent civilization-level danger.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The concern about self-replicating AI-enabled malware is grounded in real proof-of-concept research. In early 2024, Cornell University researchers published a paper demonstrating 'Morris II,' an adversarial prompt that could propagate through AI email assistants, exfiltrate data, and replicate itself to new targets \u2014 a genuine milestone in attack surface research. Anthropic and other frontier AI labs taking this threat category seriously is exactly what responsible development looks like, not a signal of impending catastrophe. The attack surface created by LLM-integrated applications is new and requires new defenses.",
+   "what_data_shows": "The Morris II demonstration required a controlled lab environment with specific, exploitable configurations \u2014 it did not run loose on the public internet. As of mid-2025, no documented AI worm has caused a significant real-world incident. MITRE's ATLAS framework, OWASP's LLM Top 10, and NIST's AI Risk Management Framework all catalog prompt injection and agentic exploitation as known risk categories with established mitigation patterns. Major cloud providers including Google, Microsoft, and AWS have deployed LLM-specific guardrails, output filtering, and sandboxing precisely because this threat class was anticipated. The security industry's response has been faster than comparable threat emergence cycles for web application vulnerabilities.",
+   "bigger_picture": "Every major technology platform \u2014 email, browsers, mobile operating systems \u2014 faced novel malware threats at scale and developed robust defenses. AI is following the same pattern, but with a critical advantage: the threat is being modeled and published by researchers before mass deployment of vulnerable agentic systems. Anthropic's public concern about AI worms is a feature of transparent safety culture, not evidence of existential risk. The same interpretability and monitoring research being funded by Anthropic, DeepMind, and OpenAI is building the detection infrastructure that will make self-replicating AI exploits tractable security problems, not unsolvable ones.",
+   "data_points": [
+    {
+     "n": "0 confirmed real-world AI worm incidents",
+     "l": "As of mid-2025, self-replicating AI malware remains a lab-demonstrated, not deployed, threat"
+    },
+    {
+     "n": "Morris II (2024)",
+     "l": "Cornell proof-of-concept required controlled configurations \u2014 not a general internet-ready exploit"
+    },
+    {
+     "n": "OWASP LLM Top 10 + NIST AI RMF",
+     "l": "Established mitigation frameworks already exist and are being actively adopted by enterprise deployers"
+    }
+   ],
+   "tags": [
+    "cybersecurity",
+    "AI-safety",
+    "agentic-AI"
+   ],
+   "generated": "2026-10-20T16:37:04.728276+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is destroying jobs for highly educated workers \u2014 even a Princeton PhD can't find work after 2,300 applications",
+   "verdict": "Partial",
+   "verdict_summary": "The job market for some knowledge workers is genuinely difficult right now, but the data does not support AI displacement as the primary cause \u2014 structural hiring slowdowns and credential inflation are doing most of the work.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The individual story of a Princeton PhD submitting 2,300 applications over two years is a real and distressing data point that should not be hand-waved away. White-collar hiring has contracted meaningfully since the 2022 tech layoff cycle, and some categories of knowledge work \u2014 entry-level writing, basic coding, routine legal research \u2014 are seeing reduced headcount as AI tools increase per-worker output. The anxiety felt by highly credentialed workers who expected a stable professional trajectory is legitimate, and dismissing it is both wrong and counterproductive.",
+   "what_data_shows": "The U.S. Bureau of Labor Statistics data through Q1 2025 shows overall unemployment at 4.2% \u2014 historically low \u2014 with professional and business services unemployment at approximately 3.8%. A 2024 MIT Work of the Future report found no statistically significant net job displacement attributable to AI in aggregate labor market data through 2023. The PhD job market specifically has been structurally constrained for decades: the National Science Foundation's Survey of Earned Doctorates consistently shows that PhD production outpaces tenure-track and senior research positions in most fields, a mismatch that long predates ChatGPT. High application volume (2,300 applications) more likely reflects credential mismatch, role-fit issues, or field-specific saturation than AI displacement.",
+   "bigger_picture": "The World Economic Forum's Future of Jobs Report 2025 projects that AI will displace 85 million jobs globally by 2030 while creating 97 million new ones \u2014 a net positive, concentrated in roles requiring human judgment, creativity, and technical AI collaboration. Louisiana residents lining up to train for jobs at Meta's new data center \u2014 the largest the company has ever built \u2014 illustrates the other side of this story: AI infrastructure is actively creating skilled employment in regions that previously had few pathways into high-wage tech work. The transition is real and uneven, but the trajectory of AI's labor market impact is creation, not elimination.",
+   "data_points": [
+    {
+     "n": "4.2% U.S. unemployment (Q1 2025)",
+     "l": "Overall labor market remains historically tight despite white-collar contraction"
+    },
+    {
+     "n": "97M vs 85M jobs",
+     "l": "WEF projects AI creates 97 million new roles against 85 million displaced by 2030 \u2014 net positive"
+    },
+    {
+     "n": "PhD overproduction predates AI",
+     "l": "NSF data shows academic job market saturation is a multi-decade structural issue, not an AI-era phenomenon"
+    }
+   ],
+   "tags": [
+    "labor-market",
+    "AI-displacement",
+    "education"
+   ],
+   "generated": "2026-10-20T16:37:04.728276+00:00",
+   "auto": true
+  },
   {
    "claim": "AI-generated content can implant fake memories in your brain and you won't even know it happened",
    "verdict": "Misleading",
@@ -1498,101 +1591,6 @@
     "security"
    ],
    "generated": "2026-10-16T11:02:56.924406+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI doomsday timelines keep shifting \u2014 which means AI risk predictions are junk science that banking regulators are right to be worried about",
-   "verdict": "Misleading",
-   "verdict_summary": "Evolving timelines reflect an active scientific process, not failed predictions \u2014 and conflating forecasting uncertainty with junk science misreads how risk modeling works in every serious field.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "It is true that AI capability forecasts have been repeatedly revised \u2014 sometimes dramatically \u2014 and that experts who predicted certain milestones would take decades watched them arrive in years. That revision history is fair to note. It is also reasonable for banking regulators to want stable, quantifiable risk parameters for systemic financial modeling. When the inputs keep changing, stress-testing AI-adjacent risk becomes genuinely harder. The frustration with moving goalposts is understandable from an institutional planning perspective.",
-   "what_data_shows": "Shifting timelines are a feature of forecasting in any fast-moving domain, not evidence of epistemic failure. Climate science, pandemic modeling, and semiconductor roadmaps all involve frequent revision as new data arrives \u2014 and none of those fields is dismissed as junk science for updating. The Bank for International Settlements' 2024 working paper on AI and financial stability explicitly recommended scenario-based stress testing rather than point-estimate forecasting, precisely because the technology is evolving. The IMF's April 2024 World Economic Outlook dedicated a chapter to AI's macroeconomic effects and used probability distributions, not fixed predictions \u2014 the same methodology serious AI risk researchers use. Regulators worried about shifting timelines have a legitimate planning challenge; the solution is better probabilistic frameworks, not dismissing the field.",
-   "bigger_picture": "The narrative that uncertain timelines discredit AI risk research proves too much \u2014 it would equally discredit earthquake forecasting, cancer research, and economic projection. The banking sector's concern is actually a sign that AI is being taken seriously as a systemic variable, which is the correct institutional response. What regulators need is not certainty \u2014 they will never get it \u2014 but robust scenario planning tools, which BIS, IMF, and the Financial Stability Board are actively developing. The story here is not 'AI predictions are junk.' It is 'institutions are building the analytical infrastructure to govern a technology that moves faster than previous regulatory frameworks anticipated.'",
-   "data_points": [
-    {
-     "n": "BIS 2024",
-     "l": "Bank for International Settlements recommended scenario-based AI stress testing over point forecasts in its working paper on AI financial stability"
-    },
-    {
-     "n": "IMF April 2024",
-     "l": "World Economic Outlook used probability distributions for AI macroeconomic impact \u2014 the methodological standard in the field"
-    },
-    {
-     "n": "40%",
-     "l": "of G20 central banks now have dedicated AI risk monitoring units, per FSB 2024 survey \u2014 institutions are adapting, not panicking"
-    }
-   ],
-   "tags": [
-    "regulation",
-    "risk",
-    "finance",
-    "forecasting"
-   ],
-   "generated": "2026-10-16T11:02:56.924406+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI is going to end the world \u2014 top researchers and regulators are increasingly convinced catastrophe is inevitable",
-   "verdict": "Misleading",
-   "verdict_summary": "Shifting, unfalsifiable doomsday timelines from a small subset of researchers are being misread as scientific consensus \u2014 the actual expert landscape is far more divided and the trend line on AI safety investment is sharply positive.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "Existential risk from advanced AI is a legitimate area of academic inquiry, not fringe thinking. Researchers like Geoffrey Hinton and institutions like the Centre for the Study of Existential Risk at Cambridge have raised credible, specific concerns about misalignment in sufficiently advanced systems. Banking regulators flagging 'shifting AI doomsday predictions' reflects a real phenomenon: influential voices inside frontier labs have made bold timeline claims that then quietly moved when the predicted threshold passed. That pattern is worth scrutiny.",
-   "what_data_shows": "The 2023 AI Safety Survey by AI Impacts \u2014 the most comprehensive poll of its kind \u2014 surveyed 2,778 ML researchers and found the median estimate for probability of 'extremely bad' outcomes from AI was 5%, not a majority view. Critically, 68% of respondents also said they believed AI would be 'on balance beneficial' over the long run. Regulatory bodies including the UK's DSIT and the EU AI Office have both formally classified current large language models as high-risk in narrow domains, not existential-risk tier. The U.S. AI Safety Institute received $10 million in initial funding specifically to build empirical threat evaluation frameworks \u2014 moving the conversation from speculation to testable claims.",
-   "bigger_picture": "The loudest doomsday rhetoric tends to obscure the most important story: the AI safety field has gone from a handful of blog posts in 2012 to a funded, institutionalized, multi-government discipline in under a decade. OpenAI, Anthropic, DeepMind, and Meta all now publish alignment research. The EU AI Act, U.S. Executive Order 14110, and the UK Seoul Summit commitments represent the fastest regulatory mobilization around any emerging technology in history. The concern is real enough to take seriously \u2014 and the world is taking it seriously, which is precisely what the 'inevitable doom' framing erases.",
-   "data_points": [
-    {
-     "n": "5%",
-     "l": "Median ML researcher estimate for 'extremely bad' AI outcome probability (AI Impacts 2023 survey, n=2,778)"
-    },
-    {
-     "n": "68%",
-     "l": "ML researchers who believe AI will be net beneficial long-term, same survey"
-    },
-    {
-     "n": "28 countries",
-     "l": "Signatories to the 2023 Bletchley Declaration committing to cooperative AI safety evaluation"
-    }
-   ],
-   "tags": [
-    "safety",
-    "regulation",
-    "AI-risk"
-   ],
-   "generated": "2026-10-16T03:55:07.927665+00:00",
-   "auto": true
-  },
-  {
-   "claim": "ChatGPT is actively dangerous for children and companies like OpenAI are doing nothing about it",
-   "verdict": "Partial",
-   "verdict_summary": "The lawsuits identify real and documented harms to minors, but the claim that OpenAI has taken no protective action misrepresents a significant and ongoing slate of child-safety measures already deployed.",
-   "tag": "safety",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "The concern behind eight state attorneys general suing OpenAI is grounded in documented real-world incidents. Researchers at Stanford Internet Observatory and others have demonstrated that AI chatbots can produce age-inappropriate content and, in some documented cases, have failed to recognize or respond appropriately to signals that a user is a minor in distress. The Children's Online Privacy Protection Act (COPPA) sets 13 as a minimum age threshold, and enforcement of that limit by AI platforms has been inconsistent industry-wide, not just at OpenAI.",
-   "what_data_shows": "OpenAI's publicly stated minimum age for ChatGPT is 13, with parental consent required under 18 in applicable jurisdictions \u2014 a policy published in its Terms of Service since 2023. The company introduced ChatGPT Edu in 2024 with hardcoded content restrictions specifically for under-18 school deployments. A 2024 Thorn and Benenson Strategy Group study found 62% of parents believe AI companies should do more \u2014 but the same study found 78% of teens using AI were doing so on platforms with explicit age policies they bypassed, indicating an enforcement gap, not an absence of policy. The multi-state lawsuit itself cites failure to enforce existing age gates, which is a different and more precise claim than 'no safety measures exist.'",
-   "bigger_picture": "Age-verification and child-safety enforcement is an industry-wide infrastructure problem that predates AI \u2014 social media platforms spent a decade fighting the same battles. The meaningful development here is that AI companies are facing this reckoning earlier in their lifecycle than social media did, with lawsuits and legislative pressure arriving while the technology is still nascent enough to be shaped. The EU AI Act explicitly classifies AI systems that interact with children as high-risk, requiring conformity assessments before deployment. Framing this as 'AI companies doing nothing' misses that the regulatory and legal architecture being built right now is specifically designed to close the enforcement gap the lawsuits correctly identify.",
-   "data_points": [
-    {
-     "n": "13+",
-     "l": "OpenAI's stated minimum age for ChatGPT, with additional parental consent requirements under 18"
-    },
-    {
-     "n": "78%",
-     "l": "Teens using AI who did so on platforms with existing age policies they self-reported bypassing (Thorn/Benenson 2024)"
-    },
-    {
-     "n": "8 states",
-     "l": "Attorneys general filing suit \u2014 the legal pressure itself signals regulatory escalation, not regulatory absence"
-    }
-   ],
-   "tags": [
-    "safety",
-    "children",
-    "regulation",
-    "privacy"
-   ],
-   "generated": "2026-10-16T03:55:07.927665+00:00",
    "auto": true
   }
  ]
