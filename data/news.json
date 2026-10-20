@@ -1,6 +1,181 @@
 {
- "updated": "2026-10-20T16:37:04.736442+00:00",
+ "updated": "2026-10-20T21:25:51.154840+00:00",
  "items": [
+  {
+   "title": "Called to serve: Tech, research, and positive impact",
+   "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-10-20T16:00:00+00:00"
+  },
+  {
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "url": "https://openai.com/index/ted-taylor-restaurant",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-20T10:00:00+00:00"
+  },
+  {
+   "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+   "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-20T05:00:00+00:00"
+  },
+  {
+   "title": "OpenAI acquires Orchestra Bio",
+   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-20T00:00:00+00:00"
+  },
+  {
+   "title": "Show HN: Claude Code skills and hooks that prove a fix's test fails without it",
+   "url": "https://github.com/ehnruiz/claude-skills",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-19T21:20:23+00:00"
+  },
+  {
+   "title": "Symposium highlights MIT\u2019s wide range of innovations for aging brain health",
+   "url": "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019",
+   "source": "Mit.edu",
+   "category": "health",
+   "published": "2026-10-19T21:15:00+00:00"
+  },
+  {
+   "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
+   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-10-19T21:14:44+00:00"
+  },
+  {
+   "title": "Germany's Merz urges AI investment ahead of Nvidia deal - Reuters",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186375648",
+   "source": "Slashdot.org",
+   "category": "ai",
+   "published": "2026-10-19T21:13:28+00:00"
+  },
+  {
+   "title": "AI Alignment Theory Course: Readings and Rapporteur Reports!",
+   "url": "https://scottaaronson.blog/?p=10204",
+   "source": "Scottaaronson.blog",
+   "category": "ai",
+   "published": "2026-10-19T21:07:12+00:00"
+  },
+  {
+   "title": "Report: How to make government websites AI friendly",
+   "url": "https://www.route-fifty.com/artificial-intelligence/2026/10/report-how-make-government-websites-ai-friendly/416677/",
+   "source": "Route-fifty.com",
+   "category": "ai",
+   "published": "2026-10-19T20:54:00+00:00"
+  },
+  {
+   "title": "As AI dominates conversations, here are key terms to know",
+   "url": "https://www.cbsnews.com/news/ai-artificial-intelligence-terms-definitions/",
+   "source": "CBS News",
+   "category": "ai",
+   "published": "2026-10-19T20:53:44+00:00"
+  },
+  {
+   "title": "Cruise Planners Brings Its \"A\" Game, Setting the Pace for AI Innovation in Travel",
+   "url": "https://www.prnewswire.com/news-releases/cruise-planners-brings-its-a-game-setting-the-pace-for-ai-innovation-in-travel-302913126.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-19T20:52:00+00:00"
+  },
+  {
+   "title": "Show HN: Realtime talking avatar running free locally (90+FPS on RTX4090)",
+   "url": "https://github.com/openspline/openspline",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-19T20:32:31+00:00"
+  },
+  {
+   "title": "lobster-drug-discovery 1.1.427",
+   "url": "https://pypi.org/project/lobster-drug-discovery/1.1.427/",
+   "source": "Pypi.org",
+   "category": "health",
+   "published": "2026-10-19T20:14:23+00:00"
+  },
+  {
+   "title": "This New Motor Could Be A Game Changer For Humanoid Robots And Wearable Tech",
+   "url": "https://www.bgr.com/2290693/fibermotor-game-changer-humanoid-robot-wearable-tech/",
+   "source": "BGR",
+   "category": "robotics",
+   "published": "2026-10-19T19:47:00+00:00"
+  },
+  {
+   "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+   "url": "https://blogs.nvidia.com/?p=99080&preview=true&preview_id=99080",
+   "source": "Nvidia.com",
+   "category": "compute",
+   "published": "2026-10-19T19:27:08+00:00"
+  },
+  {
+   "title": "Amazon unveils TorchNeuron to make its Trainium AI chips easier to use",
+   "url": "https://cryptobriefing.com/amazon-torchneuron-trainium-ai-chips-pytorch/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-10-19T19:05:53+00:00"
+  },
+  {
+   "title": "Nest Health, Creator of Whole-Family In-Home Care for Medicaid, Names Peter Morrison First Chief Growth Officer to Lead Multistate Expansion",
+   "url": "https://www.prnewswire.com/news-releases/nest-health-creator-of-whole-family-in-home-care-for-medicaid-names-peter-morrison-first-chief-growth-officer-to-lead-multistate-expansion-302912964.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-19T18:25:00+00:00"
+  },
+  {
+   "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+   "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+   "source": "Mit.edu",
+   "category": "health",
+   "published": "2026-10-19T18:20:00+00:00"
+  },
+  {
+   "title": "Nvidia and J\u00fclich simulate a 50-qubit quantum computer on classical hardware",
+   "url": "https://cryptobriefing.com/nvidia-julich-50-qubit-quantum-simulation/",
+   "source": "Crypto Briefing",
+   "category": "quantum",
+   "published": "2026-10-19T18:07:08+00:00"
+  },
+  {
+   "title": "Amedea Pharma Presents 2026 Medical Innovation Olympics Winners -- Finalists Earn San Francisco Presentations During J.P. Morgan 2027",
+   "url": "https://www.prnewswire.com/news-releases/amedea-pharma-presents-2026-medical-innovation-olympics-winners--finalists-earn-san-francisco-presentations-during-jp-morgan-2027-302912941.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-19T18:05:00+00:00"
+  },
+  {
+   "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at J\u00fclich Supercomputing Centre",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+   "source": "Nvidia.com",
+   "category": "quantum",
+   "published": "2026-10-19T18:00:00+00:00"
+  },
+  {
+   "title": "Humanoid Robots Are Finally Entering the Warehouse. Can They Deliver Real ROI?",
+   "url": "https://logisticsviewpoints.com/2026/10/19/humanoid-robots-are-finally-entering-the-warehouse-can-they-deliver-real-roi/",
+   "source": "Logisticsviewpoints.com",
+   "category": "robotics",
+   "published": "2026-10-19T17:37:30+00:00"
+  },
+  {
+   "title": "Gut feeling: Bacteria and chemicals in the digestive system could show early signs of dementia, study",
+   "url": "https://www.dailymail.com/news/article-16221465/Bacteria-digestive-early-signs-dementia.html",
+   "source": "Dailymail.com",
+   "category": "health",
+   "published": "2026-10-19T17:16:27+00:00"
+  },
+  {
+   "title": "Therap Services to Host 2026 Fall Showcase Highlighting New AI Analytics Solutions",
+   "url": "https://www.prnewswire.com/news-releases/therap-services-to-host-2026-fall-showcase-highlighting-new-ai-analytics-solutions-302912490.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-19T17:00:00+00:00"
+  },
   {
    "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
    "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
@@ -44,18 +219,18 @@
    "published": "2026-10-19T16:03:23+00:00"
   },
   {
-   "title": "RGCB gets \u20b97cr grant to develop blood-based cervical cancer detection device",
-   "url": "https://timesofindia.indiatimes.com/city/kochi/rgcb-gets-7cr-grant-to-develop-blood-based-cervical-cancer-detection-device/articleshow/135052019.cms",
-   "source": "The Times of India",
-   "category": "health",
-   "published": "2026-10-19T16:02:21+00:00"
-  },
-  {
    "title": "UK regulator brings new AI and MedTech agenda to AdvaMed",
    "url": "https://www.gov.uk/government/news/uk-regulator-brings-new-ai-and-medtech-agenda-to-advamed",
    "source": "Www.gov.uk",
    "category": "health",
    "published": "2026-10-19T15:06:39+00:00"
+  },
+  {
+   "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+   "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-19T15:00:31+00:00"
   },
   {
    "title": "Cockroach Milk Packs 3 Times the Energy of Dairy, and Its Ig Nobel Crystals Now Inspire Protein Design",
@@ -65,26 +240,11 @@
    "published": "2026-10-19T14:00:21+00:00"
   },
   {
-   "title": "How Boston Dynamics is turning robots into a real business",
-   "url": "https://fortune.com/2026/10/19/how-boston-dynamics-turning-robots-into-a-real-business-cfo/",
-   "source": "Fortune",
+   "title": "The Robot I Didn\u2019t Expect to Build",
+   "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+   "source": "Ieee.org",
    "category": "robotics",
-   "published": "2026-10-19T13:15:07+00:00"
-  },
-  {
-   "title": "Quantinuum Breaks Error-Correction World Record by 10x, Validating Its Leading Path to Fault-Tolerant Quantum Computing by 2029",
-   "url": "https://www.prnewswire.com/news-releases/quantinuum-breaks-error-correction-world-record-by-10x-validating-its-leading-path-to-fault-tolerant-quantum-computing-by-2029-302912631.html",
-   "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-10-19T13:08:00+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "Advancing coding in low\u2011resource programming languages",
-   "url": "https://openai.com/index/low-resource-programming-languages",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-19T12:00:00+00:00"
+   "published": "2026-10-19T13:00:03+00:00"
   },
   {
    "title": "Vibe coding is turning the music gear world upside down",
@@ -143,8 +303,43 @@
    "published": "2026-10-19T10:27:02+00:00"
   },
   {
-   "title": "Purification of a monitored qubit: Exact path-integral solution",
-   "url": "https://link.aps.org/doi/10.1103/cjfz-qn1b",
+   "title": "Deterministic quantum states storage via dynamical control of subradiant states",
+   "url": "https://link.aps.org/doi/10.1103/7ldk-6h18",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "title": "Machine-learning disordered Hubbard model underlying semiconductor quantum dot based two-dimensional spin qubit arrays",
+   "url": "https://link.aps.org/doi/10.1103/lt2l-s7bk",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "title": "Rabi oscillations induced by nonresonant gyrating drive",
+   "url": "https://link.aps.org/doi/10.1103/ffkk-q3g3",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "title": "Type-I and type-II fusion protocols for weighted graph states",
+   "url": "https://link.aps.org/doi/10.1103/bf7h-2mk9",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "title": "Complementarity beyond definite causal order",
+   "url": "https://link.aps.org/doi/10.1103/glkl-6fk4",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "title": "Multirobust Control Pulses Designed by Iterative Quantum Kolmogorov-Arnold-Moser Algorithm",
+   "url": "https://link.aps.org/doi/10.1103/y1dt-3lqd",
    "source": "Aps.org",
    "category": "quantum",
    "published": "2026-10-19T10:00:00+00:00"
@@ -197,13 +392,6 @@
    "source": "Prtimes.jp",
    "category": "robotics",
    "published": "2026-10-19T03:40:40+00:00"
-  },
-  {
-   "title": "Government of Ras Al Khaimah and UBTECH Robotics Sign Strategic MoU to Advance Humanoid Robotics Research and Climate Testing",
-   "url": "https://biztoc.com/x/9124a55f1764f906",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-10-19T03:36:09+00:00"
   },
   {
    "title": "Interview: Zeiss SMO president says High-NA EUV ready for mass production, orders booked through 2027",
@@ -260,6 +448,13 @@
    "source": "PRNewswire",
    "category": "robotics",
    "published": "2026-10-19T00:10:00+00:00"
+  },
+  {
+   "title": "Spatiotemporal remodeling in habenula marks the onset of depression-related phenotypes",
+   "url": "https://www.nature.com/articles/s41593-026-02488-6",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-10-19T00:00:00+00:00"
   },
   {
    "title": "A Saline Injection Could Offer Longer Relief From Carpal Tunnel Pain",
@@ -521,13 +716,6 @@
    "published": "2026-10-18T06:00:00+00:00"
   },
   {
-   "title": "Giving AI a \u201ccrystal clear\u201d view of the materials world",
-   "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-18T04:00:00+00:00"
-  },
-  {
    "title": "qtool-py 0.4.4",
    "url": "https://pypi.org/project/qtool-py/0.4.4/",
    "source": "Pypi.org",
@@ -575,6 +763,13 @@
    "source": "Slashdot.org",
    "category": "robotics",
    "published": "2026-10-17T23:52:16+00:00"
+  },
+  {
+   "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-17T21:00:13+00:00"
   },
   {
    "title": "Abu Dhabi Health Delegation Concludes Inaugural Visit to China, Opening New Pathways to Advance AI, Precision Medicine and Next-Gen Therapies",
@@ -34805,202 +35000,6 @@
    "source": "GlobeNewswire",
    "category": "compute",
    "published": "2026-07-22T19:06:00+00:00"
-  },
-  {
-   "title": "Show HN: Millwright \u2013 Rust-based, self-hosted LLM router",
-   "url": "https://github.com/Northwood-Systems/millwright",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-22T19:03:50+00:00"
-  },
-  {
-   "title": "Big Math Achievement By AI \u2013 Resolves 87 Year Old Problem",
-   "url": "https://www.nextbigfuture.com/2026/07/big-math-achievement-by-ai-resolves-87-year-old-problem.html",
-   "source": "Next Big Future",
-   "category": "breakthroughs",
-   "published": "2026-07-22T19:02:20+00:00"
-  },
-  {
-   "title": "Oklo stock jumps after Microsoft, Nvidia join $200M nuclear AI initiative",
-   "url": "https://biztoc.com/x/ab8069ac1d808ea3",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-22T18:45:33+00:00"
-  },
-  {
-   "title": "Intel Says Memory Bandwidth Drives AI Performance More Than Compute",
-   "url": "https://hothardware.com/news/intel-memory-bw-drives-ai-perf-more-than-compute",
-   "source": "Hot Hardware",
-   "category": "compute",
-   "published": "2026-07-22T18:45:00+00:00"
-  },
-  {
-   "title": "SpaceX Should Be Able to Try to Launch Starship Tomorrow",
-   "url": "https://www.nextbigfuture.com/2026/07/spacex-should-be-able-to-try-to-launch-starship-tomorrow.html",
-   "source": "Next Big Future",
-   "category": "robotics",
-   "published": "2026-07-22T18:43:13+00:00"
-  },
-  {
-   "title": "Police to hire AI, crime analytics experts on contract",
-   "url": "https://timesofindia.indiatimes.com/city/jaipur/police-to-hire-ai-crime-analytics-experts-on-contract/articleshow/132566696.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-07-22T18:40:01+00:00"
-  },
-  {
-   "title": "TinyFish Launches Mako, A Web-Native AI Model Built to Operate the Live Web",
-   "url": "https://www.globenewswire.com/news-release/2026/07/22/3331662/0/en/TinyFish-Launches-Mako-A-Web-Native-AI-Model-Built-to-Operate-the-Live-Web.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-22T18:38:00+00:00"
-  },
-  {
-   "title": "Nvidia's Grace Blackwell Now Being Built in Texas",
-   "url": "https://biztoc.com/x/854dd976707c60f4",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-22T18:30:40+00:00"
-  },
-  {
-   "title": "(PR) Wistron Celebrates Grand Opening of First U.S. Smart Factory",
-   "url": "https://www.techpowerup.com/350985/wistron-celebrates-grand-opening-of-first-u-s-smart-factory",
-   "source": "Techpowerup.com",
-   "category": "compute",
-   "published": "2026-07-22T18:30:37+00:00"
-  },
-  {
-   "title": "Samsung Galaxy Watch Ultra2 and Watch9: Your Health Companion on the Wrist",
-   "url": "https://news.samsung.com/in/samsung-galaxy-watch-ultra2-and-watch9-your-health-companion-on-the-wrist",
-   "source": "Samsung.com",
-   "category": "health",
-   "published": "2026-07-22T18:06:37+00:00"
-  },
-  {
-   "title": "[Galaxy Unpacked July 2026] A First Look at Galaxy Watch Ultra2 and Galaxy Watch9",
-   "url": "https://news.samsung.com/in/galaxy-unpacked-july-2026-a-first-look-at-galaxy-watch-ultra2-and-galaxy-watch9",
-   "source": "Samsung.com",
-   "category": "health",
-   "published": "2026-07-22T18:06:37+00:00"
-  },
-  {
-   "title": "Finally, Two New Vaccines Show 100% Effectiveness Against The Plague in Mice",
-   "url": "https://www.sciencealert.com/new-plague-vaccines-100-effective-against-the-deadly-disease-in-mice",
-   "source": "ScienceAlert",
-   "category": "health",
-   "published": "2026-07-22T18:00:00+00:00"
-  },
-  {
-   "title": "FDA Announces First Participant Selected for TEMPO for Digital Health Devices Pilot",
-   "url": "https://www.fda.gov/news-events/press-announcements/fda-announces-first-participant-selected-tempo-digital-health-devices-pilot",
-   "source": "FDA.gov",
-   "category": "health",
-   "published": "2026-07-22T17:57:57+00:00"
-  },
-  {
-   "title": "BMC plans AI-powered diagnostics, smart OPDs, and online bed allocation to overhaul civic healthcare in Mumbai",
-   "url": "https://timesofindia.indiatimes.com/city/mumbai/bmc-plans-ai-powered-diagnostics-smart-opds-and-online-bed-allocation-to-overhaul-civic-healthcare-in-mumbai/articleshow/132564906.cms",
-   "source": "The Times of India",
-   "category": "health",
-   "published": "2026-07-22T17:32:09+00:00"
-  },
-  {
-   "title": "Agilisium sees AI-led growth taking revenue past $100 mn",
-   "url": "https://timesofindia.indiatimes.com/city/chennai/agilisium-sees-ai-led-growth-taking-revenue-past-100-mn/articleshow/132564664.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-07-22T17:24:41+00:00"
-  },
-  {
-   "title": "FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization",
-   "url": "https://arxiv.org/abs/2607.20382",
-   "source": "Arxiv.org",
-   "category": "health",
-   "published": "2026-07-22T17:11:52+00:00"
-  },
-  {
-   "title": "Global Robotic Endoscopy Devices Market is Predicted to Exhibit Remarkable Growth at a CAGR of ~10% by 2034 | DelveInsight",
-   "url": "https://www.globenewswire.com/news-release/2026/07/22/3331627/0/en/Global-Robotic-Endoscopy-Devices-Market-is-Predicted-to-Exhibit-Remarkable-Growth-at-a-CAGR-of-10-by-2034-DelveInsight.html",
-   "source": "GlobeNewswire",
-   "category": "robotics",
-   "published": "2026-07-22T17:00:00+00:00"
-  },
-  {
-   "title": "Brado AI Joins Coalition for Health AI to Advance Responsible, Provider-Anchored AI in Healthcare",
-   "url": "https://www.prnewswire.com/news-releases/brado-ai-joins-coalition-for-health-ai-to-advance-responsible-provider-anchored-ai-in-healthcare-302832361.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-22T16:15:00+00:00"
-  },
-  {
-   "title": "Octave Connects 200+ Therapist Calendars Using Nylas Calendar API to Power Behavioral Health Scheduling",
-   "url": "https://apnews.com/press-release/business-wire/press-release-aca7591747e04455a76cc422f03a269e",
-   "source": "Associated Press",
-   "category": "health",
-   "published": "2026-07-22T16:07:32+00:00"
-  },
-  {
-   "title": "For The First Time Ever, Humanoid Robots Perform Surgery on Live Animals",
-   "url": "https://slashdot.org/submission/17349200/for-the-first-time-ever-humanoid-robots-perform-surgery-on-live-animals",
-   "source": "Slashdot.org",
-   "category": "robotics",
-   "published": "2026-07-22T16:05:16+00:00"
-  },
-  {
-   "title": "KARL STORZ Expands Its Robotics Ecosystem Through Strategic Partnerships in the US",
-   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/karl-storz-expands-its-robotics-ecosystem-through-strategic-partnerships-in-the-us",
-   "source": "Financial Post",
-   "category": "robotics",
-   "published": "2026-07-22T16:04:08+00:00"
-  },
-  {
-   "title": "NEURA is building gyms to train robots for the real world",
-   "url": "https://thenextweb.com/news/neura-robotics-gyms-physical-ai-training-data-rwth/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-07-22T15:50:06+00:00"
-  },
-  {
-   "title": "glia-agents 0.2.0",
-   "url": "https://pypi.org/project/glia-agents/0.2.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-22T14:10:00+00:00"
-  },
-  {
-   "title": "Agilisium Named Select Services Partner in the Claude Partner Network",
-   "url": "https://www.prnewswire.com/news-releases/agilisium-named-select-services-partner-in-the-claude-partner-network-302832245.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-22T14:08:00+00:00"
-  },
-  {
-   "title": "Show HN: Octomind Cloud \u2013 Persistent cloud compute for AI agents",
-   "url": "https://octomind.run/blog/octomind-cloud-launch",
-   "source": "Octomind.run",
-   "category": "compute",
-   "published": "2026-07-22T14:06:07+00:00"
-  },
-  {
-   "title": "dynamiq 0.59.0",
-   "url": "https://pypi.org/project/dynamiq/0.59.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-22T14:05:38+00:00"
-  },
-  {
-   "title": "This Drone Becomes Almost Invisible by Spinning Extremely Fast While Emitting an Unholy Whine",
-   "url": "https://gizmodo.com/this-drone-becomes-almost-invisible-by-spinning-extremely-fast-while-emitting-an-unholy-whine-2000789011",
-   "source": "Gizmodo.com",
-   "category": "robotics",
-   "published": "2026-07-22T14:05:03+00:00"
-  },
-  {
-   "title": "NASA Joins Genesis Mission to Accelerate AI-Driven Discovery",
-   "url": "https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/",
-   "source": "NASA",
-   "category": "breakthroughs",
-   "published": "2026-07-22T14:04:06+00:00"
   }
  ]
 }
