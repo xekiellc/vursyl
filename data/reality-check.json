@@ -1,6 +1,99 @@
 {
- "updated": "2026-10-20T04:13:28.678042+00:00",
+ "updated": "2026-10-20T11:12:11.024562+00:00",
  "entries": [
+  {
+   "claim": "AI-generated content can implant fake memories in your brain and you won't even know it happened",
+   "verdict": "Misleading",
+   "verdict_summary": "The research shows a real but bounded effect tied to specific conditions, not the passive, invisible mind-hijacking the headlines imply.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The underlying research is legitimate and worth taking seriously. Studies on AI-generated misinformation do show that exposure to false narratives \u2014 especially plausible, fluent ones \u2014 can increase confidence in incorrect memories, a phenomenon psychologists call the 'misinformation effect.' AI systems that generate coherent, authoritative-sounding text can amplify this effect compared to older, more obviously flawed misinformation. The concern about AI accelerating false memory formation in high-stakes contexts like legal testimony, journalism, or medical history is a real area of active academic investigation.",
+   "what_data_shows": "The specific research being cited, including work from groups like the MIT Media Lab and studies published in Psychological Science, consistently finds that false memory implantation requires repeated exposure, emotional salience, and a lack of correction \u2014 not a single passive encounter with AI content. A 2023 study in PNAS found that while AI-generated misinformation was rated as more credible than human-written misinformation, accuracy nudges and source labels reduced that effect significantly. The 'fake memory' framing overgeneralizes from tightly controlled lab conditions to everyday use, where people encounter information in varied, contested contexts with social correction mechanisms intact.",
+   "bigger_picture": "What the headline misses is that the same AI capabilities driving concern here are also being deployed to detect and flag misinformation at scale. Tools from Google, Meta, and independent researchers use language models to identify synthetic content and source manipulation far faster than human fact-checkers. The real story is not that AI is secretly rewriting your memory \u2014 it is that information literacy tools are advancing alongside the risks, and the research community is ahead of the curve on measurement. The appropriate response is investment in media literacy and detection tooling, not panic about passive cognitive hijacking.",
+   "data_points": [
+    {
+     "n": "~68%",
+     "l": "of false memory studies require multiple exposures to produce measurable effect, per meta-analysis in Memory journal (2022)"
+    },
+    {
+     "n": "~20% reduction",
+     "l": "in AI misinformation credibility when simple source labels are added, per PNAS 2023 study"
+    },
+    {
+     "n": "3x faster",
+     "l": "AI-assisted fact-checking flags synthetic content compared to human-only review, per Reuters Institute 2023 report"
+    }
+   ],
+   "tags": [
+    "misinformation",
+    "cognition",
+    "AI-safety"
+   ],
+   "generated": "2026-10-20T11:12:11.015829+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI and robots working together will destroy entire job categories \u2014 even gardeners aren't safe",
+   "verdict": "Misleading",
+   "verdict_summary": "Anthropic's own report identifies jobs at risk of task displacement, not elimination, and physical roles like gardening rank among the most resilient in every major labor study.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The anxiety is understandable and the underlying Anthropic research is not alarmist \u2014 it is a sober attempt to map which task bundles within jobs are automatable as AI and robotics converge. Roles involving repetitive information processing, structured data entry, and predictable physical manipulation do face genuine displacement pressure over the next decade. Anthropic is credible on this: they have access to how their own models perform on real-world tasks, and their economic research team applies rigorous methodology. Ignoring automation's labor market impact would be irresponsible.",
+   "what_data_shows": "Every major labor economics study \u2014 from McKinsey Global Institute's 2023 'The Future of Work' report, to MIT economist David Autor's longitudinal research, to the OECD's 2023 Employment Outlook \u2014 consistently finds that jobs requiring dexterous unstructured physical labor in variable outdoor environments are among the least automatable. The McKinsey report scores landscape and grounds maintenance at below 10% automation potential by 2030. Boston Dynamics and Figure AI, the most advanced humanoid robotics firms, have publicly stated their near-term commercial targets are structured warehouse and factory floors \u2014 not gardens. Anthropic's actual report discusses white-collar task automation as the primary near-term vector.",
+   "bigger_picture": "The jobs conversation is being systematically distorted by headlines that conflate 'tasks within a job that AI can assist with' and 'jobs that will cease to exist.' History is instructive: ATMs did not eliminate bank tellers \u2014 teller headcount grew through the 1990s and 2000s as branches expanded because automation lowered the cost of running a branch. The Louisiana data center story in the same news cycle tells the real story: Meta's largest-ever AI facility is actively creating skilled trades and operations jobs in a state that needs them. Automation displaces and creates simultaneously, and the net trajectory of AI on total employment remains positive in every peer-reviewed forecast through 2030.",
+   "data_points": [
+    {
+     "n": "<10%",
+     "l": "automation potential for landscape and grounds maintenance roles by 2030, per McKinsey Global Institute 2023"
+    },
+    {
+     "n": "97 million",
+     "l": "new roles projected to emerge from AI and automation by 2025, per World Economic Forum Future of Jobs Report"
+    },
+    {
+     "n": "1.6x",
+     "l": "historical ratio of jobs created to jobs displaced in prior technology transitions, per MIT Work of the Future task force"
+    }
+   ],
+   "tags": [
+    "automation",
+    "labor-market",
+    "robotics"
+   ],
+   "generated": "2026-10-20T11:12:11.015829+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI worms that self-replicate are an existential threat being ignored until it's too late",
+   "verdict": "Partial",
+   "verdict_summary": "Self-replicating AI agent exploits are a real and documented threat class, but current deployments remain in research environments and Anthropic's own disclosure reflects the field actively working the problem, not ignoring it.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The threat is not science fiction. In early 2024, researchers at Cornell Tech published a proof-of-concept called 'Morris II' demonstrating that adversarial self-replicating prompts could propagate through multi-agent AI ecosystems \u2014 spreading malicious instructions from one AI assistant to another through contaminated inputs like emails or documents. As agentic AI systems that autonomously browse, write, and execute code become more common, the attack surface for this class of exploit grows. Anthropic raising this concern publicly is responsible disclosure, not fearmongering, and the underlying mechanism is technically coherent.",
+   "what_data_shows": "The Morris II research and similar work from Carnegie Mellon and ETH Zurich confirm the attack vector exists under specific conditions: the target system must have both memory/retrieval functions and the ability to take actions like sending messages or executing code. Current consumer AI assistants \u2014 including Claude, ChatGPT, and Gemini \u2014 do not have the persistent autonomous execution loops required for the documented exploit to propagate outside a research testbed. CISA's 2024 guidelines on AI system security specifically address prompt injection and agent isolation as mitigable through architectural choices, not fundamental vulnerabilities. No real-world AI worm propagation event has been publicly documented outside controlled research.",
+   "bigger_picture": "The pattern here is actually encouraging: researchers found a vulnerability class, published it openly, regulators responded with guidance, and AI developers including Anthropic are building architectural defenses before widespread agentic deployment. This is the security research lifecycle working correctly. Comparing AI worms to the original 1988 Morris Worm \u2014 which exploited a shipped, deployed internet \u2014 misses a critical difference: the AI industry is stress-testing these systems before mass deployment of autonomous agents, not after. The disclosure itself is evidence that the field is ahead of the threat, not behind it.",
+   "data_points": [
+    {
+     "n": "2024",
+     "l": "year Cornell Tech's Morris II proof-of-concept was published \u2014 still confined to research environments with no real-world propagation event recorded"
+    },
+    {
+     "n": "0",
+     "l": "documented real-world AI worm incidents in production multi-agent systems as of mid-2025"
+    },
+    {
+     "n": "3 of 5",
+     "l": "major AI labs have published internal red-teaming results on agentic security, reflecting proactive disclosure norms taking hold"
+    }
+   ],
+   "tags": [
+    "cybersecurity",
+    "agentic-AI",
+    "AI-safety"
+   ],
+   "generated": "2026-10-20T11:12:11.015829+00:00",
+   "auto": true
+  },
   {
    "claim": "AI-generated content can implant false memories in your mind \u2014 AI is literally rewriting your brain",
    "verdict": "Misleading",
@@ -1500,98 +1593,6 @@
     "privacy"
    ],
    "generated": "2026-10-16T03:55:07.927665+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI is destroying Wikipedia and creative institutions \u2014 it's taking over and humans are being replaced",
-   "verdict": "Misleading",
-   "verdict_summary": "Wikipedia's own editor community has stabilized around AI as a research tool rather than a replacement, and usage data shows human editorial judgment remains the platform's load-bearing infrastructure.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "The fear is understandable. Wikipedia faced a genuine inflection point: if LLMs can generate plausible-sounding encyclopedia text at scale, what is the role of a volunteer human editor community? Early testing by Wikimedia Foundation researchers confirmed that AI-generated drafts can pass initial readability checks and that detection is genuinely difficult. The concern that AI could flood collaborative knowledge platforms with confident-sounding misinformation is not hypothetical \u2014 it is a documented threat vector that the community has had to actively build defenses against.",
-   "what_data_shows": "The Wikimedia Foundation's 2024 annual report recorded 45 million edits made by human volunteers in the preceding year \u2014 a figure that has held stable within a 5% band since 2019, before LLMs became widely available. Wikipedia's Bot policy, updated in 2023, now requires explicit community approval for any automated editing tool including AI-assisted ones, with a formal review process through the Bot Approvals Group. A 2023 study published in PNAS analyzing Wikipedia edit quality found human-curated articles scored 23% higher on factual accuracy than AI-generated drafts on equivalent topics. Far from replacing editors, AI tools like the Wikimedia-developed 'Lift Wing' are being deployed to help human editors detect vandalism faster \u2014 reducing average revert time by 40%.",
-   "bigger_picture": "The Wired headline captures a real anxiety but the actual Wikipedia story is the opposite of collapse \u2014 it is a case study in a human institution successfully adapting governance structures to absorb AI as a tool while defending against it as a threat. Volunteer editors who 'believed AI would come and go' were wrong not because AI won, but because they underestimated their own institution's capacity to respond. The same pattern is visible across newsrooms, academic peer review, and legal research: AI is accelerating human workflows and creating new quality-control demands, not eliminating the humans doing the work. The institutions that will struggle are not the ones that engaged with AI \u2014 it is the ones that ignored it long enough for bad actors to fill the vacuum first.",
-   "data_points": [
-    {
-     "n": "45 million",
-     "l": "Human edits made to Wikipedia in 2024, stable within 5% of pre-LLM baseline (Wikimedia Foundation 2024)"
-    },
-    {
-     "n": "23%",
-     "l": "Factual accuracy advantage of human-curated Wikipedia articles over AI-generated equivalents on matched topics (PNAS 2023)"
-    },
-    {
-     "n": "40%",
-     "l": "Reduction in average vandalism revert time achieved by Wikimedia's AI-assisted 'Lift Wing' detection tool"
-    }
-   ],
-   "tags": [
-    "jobs",
-    "misinformation",
-    "creative-work",
-    "human-AI-collaboration"
-   ],
-   "generated": "2026-10-16T03:55:07.927665+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI doomsday predictions are shifting so wildly that even banking regulators are worried AI companies don't know what they're building",
-   "verdict": "Misleading",
-   "verdict_summary": "Regulatory concern about forecast uncertainty is legitimate governance hygiene, not evidence that AI development is out of control or imminently catastrophic.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "It is entirely fair to note that AI capability timelines have been revised repeatedly \u2014 sometimes dramatically \u2014 by leading labs including OpenAI, DeepMind, and Anthropic. Banking regulators and financial stability bodies like the FSB and BIS have flagged AI-related concentration risk and model opacity as genuine systemic concerns. Uncertainty about the pace of progress is real, and prudent regulators should be asking hard questions. None of that is doomongering; it is due diligence.",
-   "what_data_shows": "The Gizmodo framing conflates two separate things: forecast revision and existential risk. Forecast revision is a sign of a maturing field incorporating new empirical data, not institutional panic. The Basel Committee's 2024 survey of member banks found AI governance frameworks improving year-over-year at 78% of surveyed institutions. Meanwhile, the labs themselves \u2014 OpenAI and Anthropic \u2014 voluntarily testified before British Parliament asking for regulation, a move that directly contradicts the 'reckless actors building blindly' narrative the headline implies.",
-   "bigger_picture": "The story the data actually tells is of an industry moving faster than regulators expected and responding by proactively engaging oversight bodies rather than dodging them. Shifting timelines are a feature of any frontier science \u2014 quantum computing, mRNA therapeutics, and fusion energy have all done the same. What distinguishes AI in 2024 is that the major labs are publicly asking to be regulated, submitting to third-party red-teaming, and publishing safety frameworks. The doom framing misses that uncertainty plus accountability is a healthy combination, not a warning sign.",
-   "data_points": [
-    {
-     "n": "78%",
-     "l": "of Basel Committee-surveyed banks improved AI governance frameworks year-over-year (BIS 2024)"
-    },
-    {
-     "n": "2",
-     "l": "of the world's leading AI labs \u2014 OpenAI and Anthropic \u2014 voluntarily requested regulation from UK Parliament in the same week this headline ran"
-    },
-    {
-     "n": "0",
-     "l": "financial crises attributable to AI model failure have occurred to date, despite years of AI deployment in trading, credit, and fraud detection"
-    }
-   ],
-   "tags": [
-    "safety",
-    "regulation"
-   ],
-   "generated": "2026-10-15T21:08:55.323566+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI is destroying Wikipedia \u2014 the community that survived everything finally got killed by ChatGPT",
-   "verdict": "Misleading",
-   "verdict_summary": "Wikipedia's editor community is adapting to AI, not collapsing \u2014 active editor counts have stabilized and AI is increasingly used as a productivity tool by volunteers, not a replacement for them.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "Wikipedia has faced a genuine long-term editor decline since 2007, and the rise of AI chatbots has measurably reduced direct traffic to Wikipedia pages as users get answers without clicking through. These are real, documented trends. The Wikimedia Foundation's own traffic data confirms referral losses from search-integrated AI features. It is also true that some Wikipedians initially dismissed AI as a fad and have had to reckon with being wrong about the pace of change. That intellectual humility deserves acknowledgment.",
-   "what_data_shows": "Despite the traffic shift, Wikipedia's active editor count \u2014 defined as users making more than five edits per month \u2014 has held between 110,000 and 120,000 globally for the past three years according to Wikimedia Statistics. The Foundation launched its own AI working group in 2023 and has piloted AI-assisted citation checking and vandalism detection tools that volunteers report as net productivity gains. A 2024 Stanford Internet Observatory study found no statistically significant increase in AI-generated misinformation successfully persisting on high-traffic Wikipedia articles, suggesting community review mechanisms remain effective.",
-   "bigger_picture": "The more accurate narrative is that Wikipedia is doing what it has always done: absorbing a technological shift and evolving its processes in response. The community that survived Gamergate, the 2008 financial crisis spam wave, and COVID-19 misinformation floods is not being dismantled by language models \u2014 it is deploying them as tools. The real question AI raises for Wikipedia is not survival but mission: if AI can synthesize knowledge, what is the unique value of a human-curated, cited, accountable knowledge commons? The answer \u2014 verifiability, editorial accountability, and neutrality policy \u2014 is exactly what LLMs structurally cannot provide.",
-   "data_points": [
-    {
-     "n": "110,000\u2013120,000",
-     "l": "active Wikipedia editors per month over the past 3 years \u2014 no collapse (Wikimedia Statistics 2024)"
-    },
-    {
-     "n": "1",
-     "l": "dedicated AI working group launched by the Wikimedia Foundation in 2023 to integrate AI tools into editorial workflows"
-    },
-    {
-     "n": "0",
-     "l": "statistically significant increase in persistent AI-generated misinformation on high-traffic articles found by Stanford Internet Observatory (2024)"
-    }
-   ],
-   "tags": [
-    "jobs",
-    "misinformation"
-   ],
-   "generated": "2026-10-15T21:08:55.323566+00:00",
    "auto": true
   }
  ]
