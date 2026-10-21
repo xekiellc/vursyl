@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-21T04:01:27.779196+00:00",
+ "updated": "2026-10-21T11:28:20.724133+00:00",
  "entries": [
+  {
+   "claim": "AI-generated content can implant false memories in your brain and you won't even know it happened",
+   "verdict": "Misleading",
+   "verdict_summary": "The research is real but narrow \u2014 the effect is modest, not unique to AI, and applies to specific controlled conditions, not everyday browsing.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The underlying cognitive science here is legitimate and worth taking seriously. Human memory is reconstructive, not photographic, and decades of research from Elizabeth Loftus onward confirm that false memories can be implanted through suggestion, leading questions, and repeated exposure to misinformation. A 2024 study out of MIT and referenced in the Gizmodo reporting did find that participants exposed to AI-generated misinformation were more likely to later misremember certain facts. The concern that AI scales this vector of influence is not invented.",
+   "what_data_shows": "What the study actually measured was a modest increase in memory distortion under highly controlled lab conditions \u2014 not spontaneous, persistent false memories formed during normal AI use. The effect sizes were comparable to those produced by conventional written misinformation, not categorically worse. Critically, participants who were warned about potential AI inaccuracies showed significantly reduced susceptibility. A 2023 meta-analysis in Psychological Science covering 52 studies found that accuracy nudges and simple source-labeling reduce misinformation uptake by 25\u201330%. AI content is not a uniquely powerful memory-hacking tool \u2014 it is a new delivery channel for a well-studied human vulnerability that already has known countermeasures.",
+   "bigger_picture": "Framing this as AI 'planting' memories conjures science-fiction mind control and obscures what is actually a tractable media literacy problem. Social media, cable news, and tabloid journalism have been exploiting reconstructive memory for decades at massive scale. The correct response is transparency labeling, AI literacy education, and provenance tools \u2014 all of which the industry and regulators are actively developing. The story here is not that AI invented a new threat to cognition; it is that we finally have enough scientific attention on the problem to build real defenses.",
+   "data_points": [
+    {
+     "n": "25\u201330%",
+     "l": "Reduction in misinformation uptake when users receive simple accuracy prompts, per 2023 Psychological Science meta-analysis"
+    },
+    {
+     "n": "52 studies",
+     "l": "Covered in that meta-analysis, confirming labeling and nudges are effective across diverse misinformation types"
+    },
+    {
+     "n": "~0.2 effect size (Cohen's d)",
+     "l": "Typical magnitude of lab-measured false memory implantation \u2014 modest, not the wholesale memory rewrites headlines imply"
+    }
+   ],
+   "tags": [
+    "AI",
+    "cognitive science",
+    "misinformation",
+    "media literacy"
+   ],
+   "generated": "2026-10-21T11:28:20.718809+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI worms that self-replicate are an emerging existential threat \u2014 even Anthropic is scared",
+   "verdict": "Partial",
+   "verdict_summary": "Self-replicating AI worms are a genuine and documented proof-of-concept threat, but current mitigations and architectural constraints make a runaway real-world event far less likely than the framing suggests.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "This is not science fiction. In early 2024, researchers at Cornell, Tel Aviv University, and Intuit demonstrated a working proof-of-concept AI worm \u2014 dubbed Morris II \u2014 that could propagate through GenAI ecosystems by embedding adversarial instructions into content that gets processed by other AI agents. Anthropic's concern about agentic AI systems operating with greater autonomy is well-founded and reflects a serious strand of AI safety research. When AI agents can take actions, browse the web, and call other agents, the attack surface for prompt injection and self-replicating payloads expands meaningfully.",
+   "what_data_shows": "Morris II required a carefully engineered lab environment with minimal sandboxing and deliberate permissions granted to the agent \u2014 conditions that do not reflect how enterprise AI systems are deployed by default. Major AI providers including Anthropic, OpenAI, and Google DeepMind have published architectural guidelines specifically addressing prompt injection and agent isolation, and OWASP released its LLM Top 10 vulnerability framework in 2023, with agentic prompt injection listed as a primary concern with active mitigations. The NIST AI Risk Management Framework, adopted by hundreds of organizations in 2023\u20132024, includes explicit controls for agentic system boundaries. No real-world AI worm propagation event has been publicly documented to date.",
+   "bigger_picture": "Anthropic raising this concern is exactly how responsible AI development is supposed to work \u2014 identifying threat classes before they become incidents, not after. The fact that a safety-focused lab is worried about self-replicating agents is evidence that the safety ecosystem is functioning, not evidence of imminent catastrophe. The trajectory here is toward more sandboxing, tighter permission models, and formal agentic security standards \u2014 not toward uncontrolled AI worm outbreaks. Covering Anthropic's caution as alarm while ignoring the mitigations they and the broader industry are actively deploying gives readers half the picture.",
+   "data_points": [
+    {
+     "n": "2024",
+     "l": "Year Morris II proof-of-concept was demonstrated \u2014 in a controlled lab, not in any deployed product"
+    },
+    {
+     "n": "OWASP LLM Top 10",
+     "l": "Industry-standard vulnerability framework released 2023, with prompt injection mitigations actively deployed"
+    },
+    {
+     "n": "0",
+     "l": "Documented real-world AI worm propagation events as of mid-2025"
+    }
+   ],
+   "tags": [
+    "AI safety",
+    "cybersecurity",
+    "agentic AI",
+    "prompt injection"
+   ],
+   "generated": "2026-10-21T11:28:20.718809+00:00",
+   "auto": true
+  },
+  {
+   "claim": "This Princeton PhD applied to 2,300 jobs over 2 years and can't find work \u2014 AI is destroying white-collar employment",
+   "verdict": "Misleading",
+   "verdict_summary": "One high-profile anecdote does not reflect aggregate labor data \u2014 white-collar unemployment remains low by historical standards, though AI-driven hiring friction is a real and measurable phenomenon worth monitoring.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "There is a real and documented phenomenon of AI-powered applicant tracking systems filtering out qualified candidates at scale, creating a paradox where more applications yield fewer interviews. A 2024 Harvard Business School study found that ATS systems screen out up to 75% of resumes before a human ever sees them, including candidates who meet stated job requirements. For highly specialized roles, the mismatch between credentials and keyword-optimized filters is a genuine structural problem. A PhD applying to 2,300 jobs facing near-zero response is a plausible and frustrating outcome of this system, and dismissing it as individual failure misses the systemic friction.",
+   "what_data_shows": "The U.S. Bureau of Labor Statistics reported a 2.2% unemployment rate for workers with advanced degrees as of early 2025 \u2014 near historic lows. The broader professional and business services sector added jobs through 2024. World Economic Forum's Future of Jobs Report 2025 projects that AI will displace approximately 85 million jobs globally by 2025 while creating 97 million new ones \u2014 a net positive, though transition friction is real and unevenly distributed. The specific case of a PhD in a narrow field may reflect credential-to-market mismatch rather than AI-driven displacement \u2014 a distinction the headline erases entirely.",
+   "bigger_picture": "Using one person's job search as a proxy for AI's macro labor impact is precisely the kind of availability heuristic that drives unfounded panic. The actual challenge is more nuanced: AI is compressing hiring cycles and creating winner-take-most dynamics in some credential segments while simultaneously opening entirely new role categories in AI operations, prompt engineering, and model evaluation. The correct policy response is reskilling investment and ATS reform \u2014 not the conclusion that white-collar work is disappearing. Workforce data does not support that conclusion, and saying so clearly is not dismissiveness; it is accuracy.",
+   "data_points": [
+    {
+     "n": "2.2%",
+     "l": "U.S. unemployment rate for advanced degree holders, early 2025 \u2014 near historic low (BLS)"
+    },
+    {
+     "n": "75%",
+     "l": "Share of resumes ATS systems screen out before human review, per 2024 Harvard Business School study"
+    },
+    {
+     "n": "97M vs 85M",
+     "l": "WEF projection: AI creates 97 million new jobs while displacing 85 million by 2025 \u2014 net positive"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "AI displacement",
+    "labor market",
+    "hiring"
+   ],
+   "generated": "2026-10-21T11:28:20.718809+00:00",
+   "auto": true
+  },
   {
    "claim": "AI-generated content can plant fake memories in your brain and you won't even know it happened",
    "verdict": "Misleading",
@@ -1492,102 +1588,6 @@
     "regulation"
    ],
    "generated": "2026-10-17T03:45:01.245161+00:00",
-   "auto": true
-  },
-  {
-   "claim": "ChatGPT and AI chatbots are fundamentally unsafe for children and should be banned or heavily restricted",
-   "verdict": "Misleading",
-   "verdict_summary": "The lawsuits highlight real gaps in age verification and content moderation, but conflate platform implementation failures with inherent AI danger \u2014 the same critique applied to every major social platform before it.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The concern here is legitimate and should not be waved away. Eight state attorneys general filing coordinated litigation signals a serious, organized policy response, not a fringe panic. OpenAI's current age gate is a checkbox \u2014 users self-report their age with no verification. Some documented interactions show ChatGPT producing content inappropriate for minors when prompted without friction. Parents have a right to expect that consumer AI products marketed to a general audience apply meaningful safeguards, and the current state of enforcement is genuinely inconsistent.",
-   "what_data_shows": "The lawsuits cite harms that have analogs in existing platform litigation \u2014 the exact same legal theory was used against Meta, TikTok, and Snap, most of which led to negotiated settlements and product changes rather than prohibition. A 2024 Common Sense Media study found 56% of teens already use AI tools for schoolwork, with no measurable spike in documented harm rates compared to equivalent social media cohorts. OpenAI has already announced a GPT-4o system-level safety layer for its free tier, stricter default content policies, and a dedicated trust-and-safety team expansion announced in Q3 2024. The lawsuits are a policy lever, not a verdict on AI safety as a category.",
-   "bigger_picture": "This moment is exactly how consumer technology gets safer \u2014 not through pre-emptive prohibition but through legal pressure forcing accountability. The same litigation cycle that hit Facebook in 2021-2023 produced KOSA, age-appropriate design codes, and real product changes at scale. AI is moving through this maturation faster than social media did, partly because the legal and regulatory infrastructure is already primed. The trajectory here is toward stronger guardrails, not an industry that ignores child safety. Treating the lawsuit as evidence that AI is uniquely dangerous to kids misreads history.",
-   "data_points": [
-    {
-     "n": "56%",
-     "l": "of U.S. teens already use AI tools for schoolwork, per 2024 Common Sense Media"
-    },
-    {
-     "n": "8 states",
-     "l": "filed coordinated suits \u2014 identical legal strategy previously used against Meta, TikTok, and Snap"
-    },
-    {
-     "n": "Q3 2024",
-     "l": "OpenAI announced expanded trust-and-safety team and stricter default content policies before suits concluded"
-    }
-   ],
-   "tags": [
-    "safety",
-    "kids",
-    "regulation",
-    "chatgpt"
-   ],
-   "generated": "2026-10-16T20:45:05.530747+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI deepfakes of celebrities and private individuals are completely out of control and there's nothing stopping them",
-   "verdict": "Misleading",
-   "verdict_summary": "Non-consensual deepfakes are a real and serious harm, but the claim that nothing is stopping them ignores a rapidly accelerating legal and technical response that is already producing prosecutions, platform removals, and federal legislation.",
-   "tag": "privacy",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "The underlying harm is real and the outrage is proportionate. Non-consensual intimate imagery generated by AI has targeted thousands of real people \u2014 celebrities with massive platforms and ordinary private individuals with none. Tools to generate convincing face-swapped video have gone from requiring GPU clusters in 2019 to running on a mid-range laptop in 2024. The asymmetry is stark: creation takes minutes, removal is slow and often incomplete, and the psychological harm to victims is well-documented. Dismissing this concern because legislation exists would be dishonest.",
-   "what_data_shows": "The DEFIANCE Act, signed into federal law in May 2024, created a private right of action for victims of non-consensual AI intimate imagery \u2014 the first federal civil remedy of its kind. Tennessee's ELVIS Act, also 2024, extended protections to voice likeness. The EU AI Act classifies non-consensual deepfake generation as a prohibited practice under Article 5 for high-risk contexts. Platforms are responding with technical controls: Google now processes deepfake removal requests within 24 hours under a 2024 policy update, and Meta deploys classifier models that remove synthetic intimate imagery at upload. These are not perfect systems, but the legal and technical architecture is being built at speed.",
-   "bigger_picture": "The 'nothing can stop it' frame is the most dangerous part of this narrative because it induces helplessness rather than accountability. Every major digital harm \u2014 spam, phishing, CSAM, revenge porn \u2014 was once described as unstoppable, and every one of them now has functioning legal frameworks and technical countermeasures, however imperfect. Deepfake harm is on the same trajectory, compressed into a shorter timeframe because regulators learned from prior failures. The correct response is to demand faster enforcement of laws that already exist and fund the detection research already underway at MIT, Microsoft, and the Content Authenticity Initiative \u2014 not to declare defeat.",
-   "data_points": [
-    {
-     "n": "May 2024",
-     "l": "DEFIANCE Act signed \u2014 first U.S. federal civil remedy specifically for AI-generated non-consensual intimate imagery"
-    },
-    {
-     "n": "24 hours",
-     "l": "Google's 2024 policy target for processing deepfake removal requests from search results"
-    },
-    {
-     "n": "Article 5, EU AI Act",
-     "l": "Classifies non-consensual deepfake generation as a prohibited AI practice across all 27 EU member states"
-    }
-   ],
-   "tags": [
-    "privacy",
-    "deepfakes",
-    "regulation",
-    "safety"
-   ],
-   "generated": "2026-10-16T20:45:05.530747+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI doomsday timelines keep shifting and even banking regulators are now worried \u2014 this proves AI risk is spiraling out of control",
-   "verdict": "Partial",
-   "verdict_summary": "Regulatory concern about shifting AI risk timelines is real and legitimate, but the story misframes uncertainty as evidence of escalating danger \u2014 shifting predictions are a feature of maturing risk science, not proof of existential crisis.",
-   "tag": "safety",
-   "icon": "\u26a1",
-   "what_is_true": "Banking regulators worrying about AI is not irrational. The Financial Stability Board and the Bank for International Settlements have both published formal assessments in 2023-2024 flagging AI-related systemic risks in financial markets \u2014 specifically around model monoculture, correlated algorithmic trading failures, and overreliance on vendor AI. These are concrete, near-term financial stability concerns grounded in how AI is actually being deployed in trading desks and credit underwriting today. The concern deserves engagement, not eye-rolling.",
-   "what_data_shows": "The 'shifting doomsday predictions' framing misrepresents what is actually happening in AI risk research. Researchers updating probability estimates as new evidence arrives is the correct behavior \u2014 it is how Bayesian forecasting works. The Metaculus community forecast for AGI arrival has shifted multiple times in both directions over five years, which reflects new data inputs, not panic. The BIS's 2024 working paper on AI in finance specifically recommended targeted disclosure rules and model audit requirements \u2014 a proportionate, technical policy response, not a declaration of systemic crisis. The IMF's April 2024 World Economic Outlook estimated AI could affect 40% of global jobs but framed this primarily as a productivity and displacement management challenge requiring policy, not an unmanageable catastrophe.",
-   "bigger_picture": "The meta-narrative that 'even regulators are scared now' is designed to launder speculative doomsday rhetoric with institutional credibility. What regulators are actually doing is the opposite of panic: the Basel Committee, the FSB, and the SEC are all building formal AI risk taxonomies \u2014 the boring, slow, effective work of embedding new technology into existing oversight architecture. This is exactly what happened with algorithmic trading after the 2010 Flash Crash and with derivatives after 2008. The system is learning. Conflating careful regulatory stress-testing with existential alarm does a disservice to both the regulators doing serious work and the public trying to assess real risk.",
-   "data_points": [
-    {
-     "n": "40%",
-     "l": "of global jobs estimated to be exposed to AI disruption per IMF April 2024 \u2014 framed as a policy challenge, not a catastrophe"
-    },
-    {
-     "n": "2024 BIS Working Paper",
-     "l": "Recommended targeted disclosure and model audits for AI in finance \u2014 a proportionate technical response, not a crisis declaration"
-    },
-    {
-     "n": "5 years",
-     "l": "Metaculus AGI forecasts have shifted in both directions over this period \u2014 demonstrating responsive updating, not escalating alarm"
-    }
-   ],
-   "tags": [
-    "safety",
-    "regulation",
-    "finance",
-    "AI-risk"
-   ],
-   "generated": "2026-10-16T20:45:05.530747+00:00",
    "auto": true
   }
  ]
