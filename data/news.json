@@ -1,54 +1,272 @@
 {
- "updated": "2026-10-21T11:28:20.724133+00:00",
+ "updated": "2026-10-21T16:55:21.718963+00:00",
  "items": [
   {
-   "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-21T10:45:17+00:00"
+   "title": "Solving a 31-year-old grand challenge in mathematics \u2013 the KLS conjecture",
+   "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+   "source": "Microsoft Research",
+   "category": "breakthroughs",
+   "published": "2026-10-21T16:00:00+00:00"
   },
   {
-   "title": "NVIDIA Cloud Partners Scale Across Europe \u2014 Sovereign, Open and Built for Safe AI Agents",
-   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-21T10:30:41+00:00"
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-21T13:00:00+00:00"
   },
   {
-   "title": "Europe\u2019s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-21T10:30:40+00:00"
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-21T12:00:00+00:00"
   },
   {
-   "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-   "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-21T10:30:25+00:00"
-  },
-  {
-   "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-21T10:30:02+00:00"
-  },
-  {
-   "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+   "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
    "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-10-21T10:10:01+00:00"
+   "published": "2026-10-21T10:50:37+00:00"
   },
   {
-   "title": "NVIDIA Open Models Advance Europe\u2019s Sovereign Intelligence Across Industries",
-   "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
-   "source": "NVIDIA",
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-21T10:00:07+00:00"
+   "published": "2026-10-21T07:00:00+00:00"
+  },
+  {
+   "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
+   "url": "https://openai.com/index/building-chatgpt-ad-stack",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-21T07:00:00+00:00"
+  },
+  {
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-21T04:50:00+00:00"
+  },
+  {
+   "title": "llmentary added to PyPI",
+   "url": "https://pypi.org/project/llmentary/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:53:39+00:00"
+  },
+  {
+   "title": "pipecat-thunderphone 0.1.1",
+   "url": "https://pypi.org/project/pipecat-thunderphone/0.1.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:53:21+00:00"
+  },
+  {
+   "title": "Zoom Launches Unified Context Layer for CX Agents",
+   "url": "https://www.cmswire.com/contact-center/zoom-launches-unified-context-layer-for-cx-agents/",
+   "source": "CMSWire",
+   "category": "ai",
+   "published": "2026-10-20T16:53:19+00:00"
+  },
+  {
+   "title": "Ray-Ban Maker EssilorLuxottica\u2019s Sales Rise, Buoyed by Smartglasses",
+   "url": "https://biztoc.com/x/b9c3ed14ab5afe15",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-20T16:49:40+00:00"
+  },
+  {
+   "title": "deepinfer-flashmla added to PyPI",
+   "url": "https://pypi.org/project/deepinfer-flashmla/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:49:27+00:00"
+  },
+  {
+   "title": "deepinfer-ep added to PyPI",
+   "url": "https://pypi.org/project/deepinfer-ep/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:49:06+00:00"
+  },
+  {
+   "title": "deepinfer-gemm added to PyPI",
+   "url": "https://pypi.org/project/deepinfer-gemm/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:48:52+00:00"
+  },
+  {
+   "title": "mcpbytes-pixel-sprite 0.1.2",
+   "url": "https://pypi.org/project/mcpbytes-pixel-sprite/0.1.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:46:52+00:00"
+  },
+  {
+   "title": "DeepSeek Dials Up the Pressure on OpenAI and Anthropic With Open-Source Inference Tool",
+   "url": "https://gizmodo.com/deepseek-dials-up-the-pressure-on-openai-and-anthropic-with-open-source-inference-tool-2000828261",
+   "source": "Gizmodo.com",
+   "category": "ai",
+   "published": "2026-10-20T16:45:40+00:00"
+  },
+  {
+   "title": "ep-mcp added to PyPI",
+   "url": "https://pypi.org/project/ep-mcp/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:44:10+00:00"
+  },
+  {
+   "title": "OpenAI\u2019s Karan Singhal wants AI to shrink the 17-year medical guideline lag to hours",
+   "url": "https://cryptobriefing.com/openai-singhal-ai-clinical-guidelines-lag/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-10-20T16:36:08+00:00"
+  },
+  {
+   "title": "toolform added to PyPI",
+   "url": "https://pypi.org/project/toolform/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:34:41+00:00"
+  },
+  {
+   "title": "Visa teams up with billing firms to enable AI-driven invoice payments",
+   "url": "https://www.business-standard.com/world-news/visa-teams-up-with-billing-firms-to-enable-ai-driven-invoice-payments-126102000849_1.html",
+   "source": "Business Standard",
+   "category": "ai",
+   "published": "2026-10-20T16:32:54+00:00"
+  },
+  {
+   "title": "AI is everywhere in Zoom product blitz",
+   "url": "https://siliconangle.com/2026/10/20/ai-is-everywhere-in-zoom-product-blitz/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-20T16:30:01+00:00"
+  },
+  {
+   "title": "vibops-mcp 0.57.0",
+   "url": "https://pypi.org/project/vibops-mcp/0.57.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:28:39+00:00"
+  },
+  {
+   "title": "China's CXMT swings to profit as AI demand fuels memory chip price surge",
+   "url": "https://www.business-standard.com/world-news/china-s-cxmt-swings-to-profit-as-ai-demand-fuels-memory-chip-price-surge-126102000843_1.html",
+   "source": "Business Standard",
+   "category": "compute",
+   "published": "2026-10-20T16:26:37+00:00"
+  },
+  {
+   "title": "Blackwall raises $100M at $2.2B valuation to scale its web traffic optimization and management platform",
+   "url": "https://siliconangle.com/2026/10/20/blackwall-raises-100m-at-2-2b-valuation-to-scale-its-web-traffic-optimization-and-management-platform/",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-10-20T16:25:37+00:00"
+  },
+  {
+   "title": "After 20 years of RoboBusiness, Arrowfly rebrands event as Robotics Summit & Expo West",
+   "url": "https://www.prnewswire.com/news-releases/after-20-years-of-robobusiness-arrowfly-rebrands-event-as-robotics-summit--expo-west-302913344.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-20T16:23:00+00:00"
+  },
+  {
+   "title": "veridrome added to PyPI",
+   "url": "https://pypi.org/project/veridrome/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:22:39+00:00"
+  },
+  {
+   "title": "Discover tools at runtime with AWS Agent Registry",
+   "url": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-10-20T16:22:24+00:00"
+  },
+  {
+   "title": "agentic-dev-loop 1.0.0a4",
+   "url": "https://pypi.org/project/agentic-dev-loop/1.0.0a4/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:22:23+00:00"
+  },
+  {
+   "title": "bubo 0.30.2",
+   "url": "https://pypi.org/project/bubo/0.30.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-20T16:21:58+00:00"
+  },
+  {
+   "title": "Pulse Equity: The Healthcare Robots and Gix Internet Aims to Transform Critical Deliveries in Hospitals with AI-Powered Autonomous Systems",
+   "url": "https://www.prnewswire.com/news-releases/pulse-equity-the-healthcare-robots-and-gix-internet-aims-to-transform-critical-deliveries-in-hospitals-with-ai-powered-autonomous-systems-302914057.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-20T16:20:00+00:00"
+  },
+  {
+   "title": "Laxco, Inc. Introduces the CellLive Series for Smarter, Continuous Live-Cell Imaging",
+   "url": "https://www.prnewswire.com/news-releases/laxco-inc-introduces-the-celllive-series-for-smarter-continuous-live-cell-imaging-302914363.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-20T16:15:00+00:00"
+  },
+  {
+   "title": "AI Data Center Demand Reshapes a Rebounding US Industrial Construction Market",
+   "url": "https://www.enr.com/articles/63984-ai-data-center-demand-reshapes-a-rebounding-us-industrial-construction-market",
+   "source": "Engineering News-Record",
+   "category": "compute",
+   "published": "2026-10-20T16:07:52+00:00"
+  },
+  {
+   "title": "Flowtica Verso AI Recorder Launches Reservations Ahead of November Release",
+   "url": "https://androidguys.com/news/flowtica-verso-ai-recorder-launches-reservations-ahead-of-november-release/",
+   "source": "AndroidGuys",
+   "category": "ai",
+   "published": "2026-10-20T16:07:27+00:00"
+  },
+  {
+   "title": "ByteDance, Alibaba, Tencent place over $35 billion in Nvidia chip orders",
+   "url": "https://www.business-standard.com/world-news/bytedance-alibaba-tencent-place-over-35-billion-in-nvidia-chip-orders-126102000828_1.html",
+   "source": "Business Standard",
+   "category": "compute",
+   "published": "2026-10-20T16:07:19+00:00"
+  },
+  {
+   "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+   "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+   "source": "Github.blog",
+   "category": "ai",
+   "published": "2026-10-20T16:05:09+00:00"
+  },
+  {
+   "title": "NVIDIA JUPITER Quantum Simulation Models a 104-Qubit Fault-Tolerant Processor Across 8,192 GH200 GPUs and 512 TiB",
+   "url": "https://www.storagereview.com/news/nvidia-jupiter-quantum-simulation-104-qubit-fault-tolerant-8192-gh200",
+   "source": "Storagereview.com",
+   "category": "breakthroughs",
+   "published": "2026-10-20T16:00:58+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Postquant Labs Launches Quantum Virtual Machine to Unify Execution Across Quantum Hardware",
+   "url": "https://www.prnewswire.com/news-releases/postquant-labs-launches-quantum-virtual-machine-to-unify-execution-across-quantum-hardware-302914339.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-10-20T16:00:00+00:00"
+  },
+  {
+   "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
+   "source": "Blog.google",
+   "category": "health",
+   "published": "2026-10-20T16:00:00+00:00"
   },
   {
    "title": "Called to serve: Tech, research, and positive impact",
@@ -56,6 +274,104 @@
    "source": "Microsoft Research",
    "category": "ai",
    "published": "2026-10-20T16:00:00+00:00"
+  },
+  {
+   "title": "Circle CVI joins EXIT-CVD research consortium to advance imaging-informed, personalized cardiovascular care across Europe",
+   "url": "https://financialpost.com/globe-newswire/circle-cvi-joins-exit-cvd-research-consortium-to-advance-imaging-informed-personalized-cardiovascular-care-across-europe",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-10-20T15:53:51+00:00"
+  },
+  {
+   "title": "Inaugural Future Health Impact Challenge Documentary Released as Expressions of Interest Open for Second Challenge",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/inaugural-future-health-impact-challenge-documentary-released-as-expressions-of-interest-open-for-second-challenge",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-10-20T15:36:13+00:00"
+  },
+  {
+   "title": "Utah\u2019s Healthcare AI Sandbox Tests Limits of Regulatory Oversight",
+   "url": "https://www.pymnts.com/healthcare/2026/utah-healthcare-ai-sandbox-tests-limits-regulatory-oversight/",
+   "source": "pymnts.com",
+   "category": "health",
+   "published": "2026-10-20T15:29:41+00:00"
+  },
+  {
+   "title": "Trinity Acquires Verix, Adding AI-Powered Next-Best-Action and Omnichannel Orchestration to the TrinityEDGE Platform",
+   "url": "https://www.prnewswire.com/news-releases/trinity-acquires-verix-adding-ai-powered-next-best-action-and-omnichannel-orchestration-to-the-trinityedge-platform-302914278.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-20T15:15:00+00:00"
+  },
+  {
+   "title": "Azra AI Acquires Blackford Analysis to Close the Most Dangerous Gap in Healthcare: What Happens After the Scan",
+   "url": "https://www.prnewswire.com/news-releases/azra-ai-acquires-blackford-analysis-to-close-the-most-dangerous-gap-in-healthcare-what-happens-after-the-scan-302913732.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-20T15:02:00+00:00"
+  },
+  {
+   "title": "OpenAI Announces Humanoid Robot Debut For 2027",
+   "url": "https://www.ubergizmo.com/2026/10/openai-announces-humanoid-robot-debut-for-2027/",
+   "source": "Ubergizmo",
+   "category": "robotics",
+   "published": "2026-10-20T15:00:39+00:00"
+  },
+  {
+   "title": "Dr. Mazin Shikara on How MedFlorida Medical Centers Uses AI to Grow Primary Care Without Burning Out Its Physicians",
+   "url": "https://www.medicaldaily.com/dr-mazin-shikara-how-medflorida-medical-centers-uses-ai-grow-primary-care-without-burning-out-480180",
+   "source": "Medical Daily",
+   "category": "health",
+   "published": "2026-10-20T14:57:08+00:00"
+  },
+  {
+   "title": "physicalai-mujoco-plugin added to PyPI",
+   "url": "https://pypi.org/project/physicalai-mujoco-plugin/",
+   "source": "Pypi.org",
+   "category": "robotics",
+   "published": "2026-10-20T14:43:51+00:00"
+  },
+  {
+   "title": "CHOP\u2019s Desai Says EHR AI Must Move From Point Solutions to Anticipating Clinicians\u2019 Needs",
+   "url": "https://healthsystemcio.com/2026/10/20/epic-ai-tools-point-solutions/",
+   "source": "Healthsystemcio.com",
+   "category": "health",
+   "published": "2026-10-20T14:33:11+00:00"
+  },
+  {
+   "title": "New Platform Creates PhD-level Experts in Drug Development in Mere Days",
+   "url": "https://www.prnewswire.com/news-releases/new-platform-creates-phd-level-experts-in-drug-development-in-mere-days-302914213.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-20T14:28:00+00:00"
+  },
+  {
+   "title": "Ultima Genomics Launches Paired-End Sequencing and Solaris 2.0 Max at ASHG 2026, Doubling Output and Enabling the $60 Genome",
+   "url": "https://www.prnewswire.com/news-releases/ultima-genomics-launches-paired-end-sequencing-and-solaris-2-0-max-at-ashg-2026--doubling-output-and-enabling-the-60-genome-302914208.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-20T14:22:00+00:00"
+  },
+  {
+   "title": "Brainomix Multicenter Study Demonstrates Potential of Quantitative CT for Earlier Detection of Progressive Pulmonary Fibrosis (PPF)",
+   "url": "https://www.prnewswire.com/news-releases/brainomix-multicenter-study-demonstrates-potential-of-quantitative-ct-for-earlier-detection-of-progressive-pulmonary-fibrosis-ppf-302914176.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-20T14:00:00+00:00"
+  },
+  {
+   "title": "Realbotix to Exhibit at CES 2027",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/realbotix-to-exhibit-at-ces-2027",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-10-20T12:10:13+00:00"
+  },
+  {
+   "title": "YYForce AI Humanoid Housekeepers to be trained in Novotel Hotel",
+   "url": "https://financialpost.com/globe-newswire/yyforce-ai-humanoid-housekeepers-to-be-trained-in-novotel-hotel",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-10-20T11:40:18+00:00"
   },
   {
    "title": "Amazon to invest \u20ac16bn in Germany in 2027",
@@ -107,27 +423,6 @@
    "published": "2026-10-20T10:30:11+00:00"
   },
   {
-   "title": "Photon climbing in a Kerr ladder for steady nonclassical light generation",
-   "url": "https://link.aps.org/doi/10.1103/wrwn-df3s",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-20T10:00:00+00:00"
-  },
-  {
-   "title": "Hybrid quantum repeater chains with atom-based quantum processing units and quantum memory multiplexers",
-   "url": "https://link.aps.org/doi/10.1103/y9tp-zg34",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-20T10:00:00+00:00"
-  },
-  {
-   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "url": "https://openai.com/index/ted-taylor-restaurant",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-20T10:00:00+00:00"
-  },
-  {
    "title": "Foundation artificial intelligence models for health recognition by use of face photographs (FAHR-Face): a model development and validation study - The Lancet",
    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186382402",
    "source": "Slashdot.org",
@@ -149,18 +444,11 @@
    "published": "2026-10-20T07:29:01+00:00"
   },
   {
-   "title": "South Korea's US$1.66 billion humanoid robot push puts auto suppliers in focus",
-   "url": "https://www.digitimes.com/news/a20261020VL215/south-korea-humanoid-robot-investment-automotive-2026.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-10-20T06:00:35+00:00"
-  },
-  {
-   "title": "Nvidia says South Korea has Vera CPU customers, LG robot results ahead",
-   "url": "https://www.digitimes.com/news/a20261020PD223/nvidia-cpu-robot-software-lg-electronics.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-10-20T04:27:46+00:00"
+   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "url": "https://openai.com/index/terminal-x",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-20T07:00:00+00:00"
   },
   {
    "title": "Anthropic eyes second $45 billion Nscale deal as 460MW AI data centre plans advance ahead of potential IPO",
@@ -226,10 +514,17 @@
    "published": "2026-10-20T00:41:33+00:00"
   },
   {
-   "title": "OpenAI acquires Orchestra Bio",
-   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-   "source": "OpenAI",
-   "category": "ai",
+   "title": "JR West Unveils Humanoid Robots",
+   "url": "https://newsonjapan.com/article/151099.php",
+   "source": "Newsonjapan.com",
+   "category": "robotics",
+   "published": "2026-10-20T00:01:59+00:00"
+  },
+  {
+   "title": "Engineered human Argonaute 2 for targeted C-to-U RNA base editing",
+   "url": "https://www.nature.com/articles/s41587-026-03359-y",
+   "source": "Nature.com",
+   "category": "health",
    "published": "2026-10-20T00:00:00+00:00"
   },
   {
@@ -345,20 +640,6 @@
    "published": "2026-10-19T20:14:23+00:00"
   },
   {
-   "title": "This New Motor Could Be A Game Changer For Humanoid Robots And Wearable Tech",
-   "url": "https://www.bgr.com/2290693/fibermotor-game-changer-humanoid-robot-wearable-tech/",
-   "source": "BGR",
-   "category": "robotics",
-   "published": "2026-10-19T19:47:00+00:00"
-  },
-  {
-   "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-   "url": "https://blogs.nvidia.com/?p=99080&preview=true&preview_id=99080",
-   "source": "Nvidia.com",
-   "category": "compute",
-   "published": "2026-10-19T19:27:08+00:00"
-  },
-  {
    "title": "Amazon unveils TorchNeuron to make its Trainium AI chips easier to use",
    "url": "https://cryptobriefing.com/amazon-torchneuron-trainium-ai-chips-pytorch/",
    "source": "Crypto Briefing",
@@ -373,33 +654,11 @@
    "published": "2026-10-19T18:25:00+00:00"
   },
   {
-   "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-   "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-   "source": "MIT News AI",
-   "category": "health",
-   "published": "2026-10-19T18:20:00+00:00"
-  },
-  {
-   "title": "Nvidia and J\u00fclich simulate a 50-qubit quantum computer on classical hardware",
-   "url": "https://cryptobriefing.com/nvidia-julich-50-qubit-quantum-simulation/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-10-19T18:07:08+00:00"
-  },
-  {
    "title": "Amedea Pharma Presents 2026 Medical Innovation Olympics Winners -- Finalists Earn San Francisco Presentations During J.P. Morgan 2027",
    "url": "https://www.prnewswire.com/news-releases/amedea-pharma-presents-2026-medical-innovation-olympics-winners--finalists-earn-san-francisco-presentations-during-jp-morgan-2027-302912941.html",
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-10-19T18:05:00+00:00"
-  },
-  {
-   "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at J\u00fclich Supercomputing Centre",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
-   "source": "Nvidia.com",
-   "category": "breakthroughs",
-   "published": "2026-10-19T18:00:00+00:00",
-   "breakthrough": true
   },
   {
    "title": "Humanoid Robots Are Finally Entering the Warehouse. Can They Deliver Real ROI?",
@@ -953,6 +1212,13 @@
    "source": "Naturalnews.com",
    "category": "compute",
    "published": "2026-10-18T06:00:00+00:00"
+  },
+  {
+   "title": "Giving AI a \u201ccrystal clear\u201d view of the materials world",
+   "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-18T04:00:00+00:00"
   },
   {
    "title": "qtool-py 0.4.4",
@@ -34735,272 +35001,6 @@
    "source": "Vanguard",
    "category": "ai",
    "published": "2026-07-23T19:28:58+00:00"
-  },
-  {
-   "title": "AMD's Ryzen AI Embedded X100 Series processors are built for autonomous robots and physical AI",
-   "url": "https://www.tweaktown.com/news/112796/amds-ryzen-ai-embedded-x100-series-processors-are-built-for-autonomous-robots-and-physical-ai/index.html",
-   "source": "TweakTown",
-   "category": "robotics",
-   "published": "2026-07-23T19:12:10+00:00"
-  },
-  {
-   "title": "Schneider Electric and AMD release first Helios platform reference design to accelerate AI Factory deployment",
-   "url": "https://financialpost.com/globe-newswire/schneider-electric-and-amd-release-first-helios-platform-reference-design-to-accelerate-ai-factory-deployment",
-   "source": "Financial Post",
-   "category": "compute",
-   "published": "2026-07-23T19:03:26+00:00"
-  },
-  {
-   "title": "(PR) Giga Computing Accelerates Enterprise AI at Scale with 6th Gen AMD EPYC Server CPUs",
-   "url": "https://www.techpowerup.com/351031/giga-computing-accelerates-enterprise-ai-at-scale-with-6th-gen-amd-epyc-server-cpus",
-   "source": "Techpowerup.com",
-   "category": "compute",
-   "published": "2026-07-23T19:02:15+00:00"
-  },
-  {
-   "title": "How the FDA Built an AI Platform That 85% of Its Staff Now Use Daily",
-   "url": "https://www.databricks.com/blog/how-fda-built-ai-platform-85-its-staff-now-use-daily",
-   "source": "Databricks.com",
-   "category": "health",
-   "published": "2026-07-23T19:00:00+00:00"
-  },
-  {
-   "title": "Advantech Unveils Next-Gen AI Infrastructure Solutions Powered by AMD EPYC\u2122 9006 Series Processors",
-   "url": "https://www.prnewswire.com/news-releases/advantech-unveils-next-gen-ai-infrastructure-solutions-powered-by-amd-epyc-9006-series-processors-302833283.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-07-23T19:00:00+00:00"
-  },
-  {
-   "title": "Right2Compute Coalition Launches to Secure Rights for Building AI Data Centers for Sovereign AI and Data Ownership",
-   "url": "https://www.globenewswire.com/news-release/2026/07/23/3332486/0/en/Right2Compute-Coalition-Launches-to-Secure-Rights-for-Building-AI-Data-Centers-for-Sovereign-AI-and-Data-Ownership.html",
-   "source": "GlobeNewswire",
-   "category": "breakthroughs",
-   "published": "2026-07-23T18:15:00+00:00"
-  },
-  {
-   "title": "ChatGPT Health Will See You Now, and It\u2019s a Big Step Forward for Medical Queries",
-   "url": "https://www.cnet.com/tech/services-and-software/chatgpt-health-available-usability-medical-records-privacy-hands-on/",
-   "source": "CNET",
-   "category": "health",
-   "published": "2026-07-23T17:40:07+00:00"
-  },
-  {
-   "title": "Coalition Launches National Initiative to Test and Scale Health AI",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/coalition-launches-national-initiative-test-scale-health-ai/",
-   "source": "pymnts.com",
-   "category": "health",
-   "published": "2026-07-23T17:34:58+00:00"
-  },
-  {
-   "title": "Meet the robots of the future that are already hopping, slithering, and driving around U of T | BetaKit",
-   "url": "https://betakit.com/meet-the-robots-of-the-future-that-are-already-hopping-slithering-and-driving-around-u-of-t/",
-   "source": "BetaKit",
-   "category": "robotics",
-   "published": "2026-07-23T16:20:55+00:00"
-  },
-  {
-   "title": "Humanoid Raises $152 Million at $1.35 Billion Post-Money Valuation, Becoming Europe's First Pure-Play Humanoid Robotics Unicorn",
-   "url": "https://en.antaranews.com/news/423825/humanoid-raises-152-million-at-135-billion-post-money-valuation-becoming-europes-first-pure-play-humanoid-robotics-unicorn",
-   "source": "Antaranews.com",
-   "category": "robotics",
-   "published": "2026-07-23T15:33:12+00:00"
-  },
-  {
-   "title": "AI infrastructure buildout reshapes the enterprise stack from silicon to systems",
-   "url": "https://siliconangle.com/2026/07/23/ai-infrastructure-buildout-drives-amd-rack-scale-strategy-amdadvancingai/",
-   "source": "SiliconANGLE News",
-   "category": "compute",
-   "published": "2026-07-23T13:51:51+00:00"
-  },
-  {
-   "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-   "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-   "source": "Darpa.mil",
-   "category": "robotics",
-   "published": "2026-07-23T13:51:36+00:00"
-  },
-  {
-   "title": "SaintQuant Updates AI-Powered Trading Platform as Agentic AI Reshapes Retail Investing",
-   "url": "https://www.globenewswire.com/news-release/2026/07/23/3332281/0/en/SaintQuant-Updates-AI-Powered-Trading-Platform-as-Agentic-AI-Reshapes-Retail-Investing.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-23T13:49:00+00:00"
-  },
-  {
-   "title": "TestMu AI Introduces the Source-to-Verdict Loop in Kane CLI, Carrying Every Requirement to a Ship Decision With Portable Proof",
-   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/testmu-ai-introduces-the-source-to-verdict-loop-in-kane-cli-carrying-every-requirement-to-a-ship-decision-with-portable-proof",
-   "source": "Financial Post",
-   "category": "ai",
-   "published": "2026-07-23T13:47:40+00:00"
-  },
-  {
-   "title": "Humans in the loop: how software teams are learning to trust AI",
-   "url": "https://www.techradar.com/pro/humans-in-the-loop-how-software-teams-are-learning-to-trust-ai",
-   "source": "TechRadar",
-   "category": "ai",
-   "published": "2026-07-23T13:45:21+00:00"
-  },
-  {
-   "title": "Nebius installs first Nvidia Vera Rubin NVL72 rack in Finland, signaling next wave of AI infrastructure spending",
-   "url": "https://cryptobriefing.com/nebius-nvidia-vera-rubin-finland-ai-infrastructure/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-07-23T13:40:15+00:00"
-  },
-  {
-   "title": "Blackstone Q2 2026 earnings beat on AI investments, record inflows",
-   "url": "https://qz.com/blackstone-earnings-ai-investments-assets-record-inflows-072326",
-   "source": "Quartz India",
-   "category": "ai",
-   "published": "2026-07-23T13:38:59+00:00"
-  },
-  {
-   "title": "Coolant Distribution Unit for Data Centers Market Size to Reach USD 3.9 Billion by 2034, Growing at a 21.8% CAGR Driven by Rising Data Center Cooling Demand, According to IntelMarketResearch",
-   "url": "https://www.globenewswire.com/news-release/2026/07/23/3332274/0/en/Coolant-Distribution-Unit-for-Data-Centers-Market-Size-to-Reach-USD-3-9-Billion-by-2034-Growing-at-a-21-8-CAGR-Driven-by-Rising-Data-Center-Cooling-Demand-According-to-IntelMarketR.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-23T13:37:00+00:00"
-  },
-  {
-   "title": "AMD launches Helios rack system and MI450 GPUs to rival Nvidia",
-   "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c8091070-b482-46f4-8403-53423e9909b4",
-   "source": "Yahoo Entertainment",
-   "category": "compute",
-   "published": "2026-07-23T13:36:30+00:00"
-  },
-  {
-   "title": "Poolside releases Laguna S 2.1, a small open-weight coding model that rivals much larger systems",
-   "url": "https://4sysops.com/archives/poolside-releases-laguna-s-2-1-a-small-open-weight-coding-model-that-rivals-much-larger-systems/",
-   "source": "4sysops.com",
-   "category": "ai",
-   "published": "2026-07-23T13:32:10+00:00"
-  },
-  {
-   "title": "New Harris Poll and Ruth AI Study: 81% of Americans Would Let an AI Agent Handle Part of Their Job Search",
-   "url": "https://www.prnewswire.com/news-releases/new-harris-poll-and-ruth-ai-study-81-of-americans-would-let-an-ai-agent-handle-part-of-their-job-search-302833298.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-23T13:28:00+00:00"
-  },
-  {
-   "title": "Infosys: AI Revenues at 8.2% in Q1; Resilient Operating Margin of 21.1%",
-   "url": "https://www.prnewswire.com/news-releases/infosys-ai-revenues-at-8-2-in-q1-resilient-operating-margin-of-21-1-302833364.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-23T13:25:00+00:00"
-  },
-  {
-   "title": "An AI Biotech Just Reported a 46% Revenue Jump and Its First Recurring Platform Contracts, as Its Pivot Starts Showing Up in the Numbers",
-   "url": "https://www.prnewswire.com/news-releases/an-ai-biotech-just-reported-a-46-revenue-jump-and-its-first-recurring-platform-contracts-as-its-pivot-starts-showing-up-in-the-numbers-302833083.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-23T13:05:00+00:00"
-  },
-  {
-   "title": "AI builds virtual homes where robots learn from their mistakes",
-   "url": "https://www.foxnews.com/tech/ai-builds-virtual-homes-robots-learn-mistakes",
-   "source": "Fox News",
-   "category": "robotics",
-   "published": "2026-07-23T13:02:10+00:00"
-  },
-  {
-   "title": "GeForce NOW Sets Sail With \u2018Path of Exile: Curse of the Allflame\u2019 Joining the Cloud",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-07-23T13:00:16+00:00"
-  },
-  {
-   "title": "ShiftMed Announces Integration with QGenda to Streamline Open Shift Management Across Healthcare Organizations",
-   "url": "https://www.prnewswire.com/news-releases/shiftmed-announces-integration-with-qgenda-to-streamline-open-shift-management-across-healthcare-organizations-302832927.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-23T13:00:00+00:00"
-  },
-  {
-   "title": "Blue Mountain Announces General Availability of RAM Discover, Bringing AI-Powered Intelligence to GMP Asset Management",
-   "url": "https://www.globenewswire.com/news-release/2026/07/23/3332154/0/en/Blue-Mountain-Announces-General-Availability-of-RAM-Discover-Bringing-AI-Powered-Intelligence-to-GMP-Asset-Management.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-23T12:45:00+00:00"
-  },
-  {
-   "title": "SimX Launches Scenario Editor, a No-Code Tool for Customizing VR Medical Simulations",
-   "url": "https://www.prnewswire.com/news-releases/simx-launches-scenario-editor-a-no-code-tool-for-customizing-vr-medical-simulations-302832408.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-23T12:41:00+00:00"
-  },
-  {
-   "title": "Jensen Huang Turns to Japan\u2019s Robots for Nvidia\u2019s Next Growth Engine",
-   "url": "https://observer.com/2026/07/jensen-huang-nvidias-future-japan-physical-ai/",
-   "source": "Observer",
-   "category": "robotics",
-   "published": "2026-07-23T12:30:10+00:00"
-  },
-  {
-   "title": "How AI helps scientists design the next generation of medicines",
-   "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-   "source": "MIT Technology Review",
-   "category": "health",
-   "published": "2026-07-23T12:00:00+00:00"
-  },
-  {
-   "title": "Agility Robotics Strengthens Executive Leadership Team with Appointment of Michael Beer as Chief Financial Officer",
-   "url": "https://www.prnewswire.com/news-releases/agility-robotics-strengthens-executive-leadership-team-with-appointment-of-michael-beer-as-chief-financial-officer-302832875.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-07-23T12:00:00+00:00"
-  },
-  {
-   "title": "Autodesk releases Arnold 7.5.3",
-   "url": "https://www.cgchannel.com/2026/07/autodesk-releases-arnold-7-5-3/",
-   "source": "Cgchannel.com",
-   "category": "compute",
-   "published": "2026-07-23T08:20:17+00:00"
-  },
-  {
-   "title": "The First Global \"AI + Fashion\" Innovation Application Competition in Shenzhen Concludes Successfully in Futian District",
-   "url": "https://www.prnewswire.com/news-releases/the-first-global-ai--fashion-innovation-application-competition-in-shenzhen-concludes-successfully-in-futian-district-302833128.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-23T08:15:00+00:00"
-  },
-  {
-   "title": "Adecco\u2019s CEO says AI is changing jobs, not destroying them",
-   "url": "https://thenextweb.com/news/adeccos-ceo-says-ai-is-changing-jobs-not-destroying-them/",
-   "source": "The Next Web",
-   "category": "ai",
-   "published": "2026-07-23T08:13:05+00:00"
-  },
-  {
-   "title": "How Rwanda Is Using Data to Deliver Better Health Care",
-   "url": "https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care",
-   "source": "Institute.global",
-   "category": "health",
-   "published": "2026-07-23T08:08:45+00:00"
-  },
-  {
-   "title": "Samsung creates CEO-led robotics unit to speed commercialization",
-   "url": "https://www.digitimes.com/news/a20260722VL227/samsung-robotics-business-technology-development.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-07-23T08:07:57+00:00"
-  },
-  {
-   "title": "India\u2019s data centre sector set for expansion on AI and cloud demand: JM Financial",
-   "url": "https://www.thehindubusinessline.com/info-tech/indias-data-centre-sector-set-for-expansion-on-ai-and-cloud-demand-jm-financial/article71256738.ece",
-   "source": "BusinessLine",
-   "category": "compute",
-   "published": "2026-07-23T08:06:29+00:00"
-  },
-  {
-   "title": "Voice Control Toolkit Comes to a Pico Near You",
-   "url": "https://hackaday.com/2026/07/23/voice-control-toolkit-comes-to-a-pico-near-you/",
-   "source": "Hackaday",
-   "category": "ai",
-   "published": "2026-07-23T08:00:28+00:00"
   }
  ]
 }
