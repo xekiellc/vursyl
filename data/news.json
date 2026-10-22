@@ -1,33 +1,83 @@
 {
- "updated": "2026-10-22T16:55:03.749935+00:00",
+ "updated": "2026-10-22T21:22:12.323206+00:00",
  "items": [
   {
-   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-22T15:00:02+00:00"
-  },
-  {
-   "title": "Beyond tree cover: mapping the world\u2019s forest types",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-   "source": "Google DeepMind",
+   "title": "This design software reimagines everyday objects as self-aware devices",
+   "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+   "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-10-22T14:30:24+00:00"
+   "published": "2026-10-22T20:45:00+00:00"
   },
   {
-   "title": "Cloud Deployment Incoming: \u2018Call of Duty: Modern Warfare 4\u2019 Arrives on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-22T13:00:20+00:00"
-  },
-  {
-   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "title": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-22T00:00:00+00:00"
+   "published": "2026-10-22T19:00:00+00:00"
+  },
+  {
+   "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+   "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-22T05:00:56+00:00"
+  },
+  {
+   "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-22T05:00:27+00:00"
+  },
+  {
+   "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+   "url": "https://blogs.nvidia.com/blog/dsx-power/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-22T05:00:25+00:00"
+  },
+  {
+   "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+   "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-22T05:00:23+00:00"
+  },
+  {
+   "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+   "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-22T05:00:19+00:00"
+  },
+  {
+   "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+   "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-22T05:00:02+00:00"
+  },
+  {
+   "title": "Tesla has begun production of its Optimus humanoid in California",
+   "url": "https://biztoc.com/x/84fccfe8881213a4",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-10-21T21:20:51+00:00"
+  },
+  {
+   "title": "Walmart launches tools for AI agents to shop for customers",
+   "url": "https://www.channelnewsasia.com/business/walmart-launches-tools-ai-agents-shop-customers-6480411",
+   "source": "CNA",
+   "category": "ai",
+   "published": "2026-10-21T21:13:59+00:00"
+  },
+  {
+   "title": "Micron\u2019s DDR6 Doubles DDR5 Bandwidth While LPDDR6 Delivers 35% Better Power Efficiency, Both Built On Its Upcoming 1\u03b4 DRAM Node, vHBM Goes Vertical & G11 NAND Goes Beyond 400 Layers",
+   "url": "https://wccftech.com/micron-ddr6-doubles-ddr5-bandwidth-lpddr6-better-power-efficiency-vhbm-vertical-g11-nand-beyond-400-layers/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-10-21T21:00:26+00:00",
+   "breakthrough": true
   },
   {
    "title": "Broad access through consistent standards",
@@ -35,6 +85,90 @@
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-10-21T21:00:00+00:00"
+  },
+  {
+   "title": "Google rolls out new Gemini tools to help small businesses manage marketing, finances",
+   "url": "https://www.GujaratVarta.com//news/google-rolls-out-new-gemini-tools-to-help-small-businesses-manage-marketing-finances20261021132401//",
+   "source": "Gujaratvarta.com",
+   "category": "ai",
+   "published": "2026-10-21T20:53:40+00:00"
+  },
+  {
+   "title": "Nvidia turns the AI factory into a product, and agents into the workload",
+   "url": "https://siliconangle.com/2026/10/21/nvidia-turns-the-ai-factory-into-a-product-and-agents-into-the-workload/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-21T20:52:15+00:00"
+  },
+  {
+   "title": "India's listed AI market could gain USD 100 billion from IPOs over next 5 years: Goldman Sachs",
+   "url": "https://apnamatvchannel.com/business/indias-listed-ai-market-could-gain-usd-100-billion-from-ipos-over-next-5-years-goldman-sachs/",
+   "source": "Apnamatvchannel.com",
+   "category": "ai",
+   "published": "2026-10-21T20:50:32+00:00"
+  },
+  {
+   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI | TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "source": "TechCrunch",
+   "category": "ai",
+   "published": "2026-10-21T20:31:53+00:00"
+  },
+  {
+   "title": "Routine CT Scans Captured Steeper Fat Loss in the Three Years Before Pancreatic Cancer Diagnosis Among 1,825 Patients",
+   "url": "https://www.medicaldaily.com/ct-scans-fat-loss-before-pancreatic-cancer-mayo-study-480255",
+   "source": "Medical Daily",
+   "category": "health",
+   "published": "2026-10-21T20:16:17+00:00"
+  },
+  {
+   "title": "YYForce Unveils \u2018Workforce OS\u2019 Robotics Architecture Powered by NVIDIA Physical AI",
+   "url": "https://financialpost.com/globe-newswire/yyforce-unveils-workforce-os-robotics-architecture-powered-by-nvidia-physical-ai",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-10-21T20:09:49+00:00"
+  },
+  {
+   "title": "YYForce Unveils \"Workforce OS\" Robotics Architecture Powered by NVIDIA Physical AI",
+   "url": "https://www.prnewswire.com/news-releases/yyforce-unveils-workforce-os-robotics-architecture-powered-by-nvidia-physical-ai-302915031.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-21T20:05:00+00:00"
+  },
+  {
+   "title": "Announcing the verifiable quantum circuit compilation competition on Kaggle",
+   "url": "https://opensource.googleblog.com/2026/10/announcing-verifiable-quantum-circuit-compilation-competition-on-kaggle.html",
+   "source": "Googleblog.com",
+   "category": "quantum",
+   "published": "2026-10-21T18:30:00+00:00"
+  },
+  {
+   "title": "Simple tweak could cut AI chatbots\u2019 reinforcement of false beliefs",
+   "url": "https://www.futurity.org/ai-chatbots-delusion-reinforcement-3349302/",
+   "source": "Futurity: Research News",
+   "category": "ai",
+   "published": "2026-10-21T18:10:28+00:00"
+  },
+  {
+   "title": "Limber Health Launches Recovery Forecast, the First-Ever Predicted Outcomes Solution for Rehab Therapy",
+   "url": "https://www.prnewswire.com/news-releases/limber-health-launches-recovery-forecast-the-first-ever-predicted-outcomes-solution-for-rehab-therapy-302915819.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-21T17:35:00+00:00"
+  },
+  {
+   "title": "Mind Lab Opens Mint Recursive Post-Training to Enterprises Building Industry-Specific AI Models",
+   "url": "https://www.prnewswire.com/news-releases/mind-lab-opens-mint-recursive-post-training-to-enterprises-building-industry-specific-ai-models-302915753.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-21T17:15:00+00:00"
+  },
+  {
+   "title": "How AT&T is rethinking in-house legal work with OpenAI",
+   "url": "https://openai.com/index/att-legal",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-21T17:00:00+00:00"
   },
   {
    "title": "Using AI to fight election misinformation works",
@@ -72,13 +206,6 @@
    "published": "2026-10-21T16:37:01+00:00"
   },
   {
-   "title": "Humanoid Robot SKYE Draws Crowds at NAEC 2026 in Adams Elevator Booth at McCormick Place",
-   "url": "https://www.prnewswire.com/news-releases/humanoid-robot-skye-draws-crowds-at-naec-2026-in-adams-elevator-booth-at-mccormick-place-302915749.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-10-21T16:37:00+00:00"
-  },
-  {
    "title": "Mapmygenome Completes Acquisition of dnaPower Inc. to Accelerate North American Expansion in DNA, Microbiome, Longevity and Precision Health Testing",
    "url": "https://www.prnewswire.com/news-releases/mapmygenome-completes-acquisition-of-dnapower-inc-to-accelerate-north-american-expansion-in-dna-microbiome-longevity-and-precision-health-testing-302915388.html",
    "source": "PRNewswire",
@@ -98,13 +225,6 @@
    "source": "Storagereview.com",
    "category": "compute",
    "published": "2026-10-21T16:25:08+00:00"
-  },
-  {
-   "title": "Whop announces funding round at $5.1B valuation, led by Sequoia and Shopify Ventures, to advance universal economic freedom in the wake of AI",
-   "url": "https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-10-21T16:25:00+00:00"
   },
   {
    "title": "Peter Thiel, OpenAI fund back Queenslander brain tech start-up Coherence Neuro",
@@ -128,13 +248,6 @@
    "published": "2026-10-21T16:16:56+00:00"
   },
   {
-   "title": "Solving a 31-year-old grand challenge in mathematics \u2013 the KLS conjecture",
-   "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-   "source": "Microsoft Research",
-   "category": "breakthroughs",
-   "published": "2026-10-21T16:00:00+00:00"
-  },
-  {
    "title": "Mapmygenome completes acquisition of dnaPower Inc.",
    "url": "https://www.thehindubusinessline.com/companies/mapmygenome-completes-acquisition-of-dnapower-inc/article71608364.ece",
    "source": "BusinessLine",
@@ -156,13 +269,6 @@
    "published": "2026-10-21T15:30:00+00:00"
   },
   {
-   "title": "Jensen Huang\u2019s Vision for Europe Runs on Plug-In Data Centers",
-   "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-   "source": "Wired",
-   "category": "compute",
-   "published": "2026-10-21T15:02:15+00:00"
-  },
-  {
    "title": "IIT Madras launches UDYOG programme for biotech industry skill development",
    "url": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-udyog-programme-for-biotech-industry-skill-development/article71607197.ece",
    "source": "BusinessLine",
@@ -182,13 +288,6 @@
    "source": "PR Newswire UK",
    "category": "health",
    "published": "2026-10-21T14:30:00+00:00"
-  },
-  {
-   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-21T13:00:00+00:00"
   },
   {
    "title": "Agile Robots unveils Nvidia-powered humanoid, targets up to 2,000 units in 2027",
@@ -217,13 +316,6 @@
    "source": "CNA",
    "category": "robotics",
    "published": "2026-10-21T12:02:21+00:00"
-  },
-  {
-   "title": "OpenAI models are coming to Google Cloud",
-   "url": "https://openai.com/index/openai-models-google-cloud",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-21T12:00:00+00:00"
   },
   {
    "title": "Nvidia reveals plans to build AI data centers in 14 days instead of 6 months",
@@ -335,8 +427,7 @@
    "url": "https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/",
    "source": "Fortune",
    "category": "ai",
-   "published": "2026-10-21T11:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-10-21T11:00:00+00:00"
   },
   {
    "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
@@ -381,6 +472,34 @@
    "published": "2026-10-21T10:13:00+00:00"
   },
   {
+   "title": "NVIDIA Open Models Advance Europe\u2019s Sovereign Intelligence Across Industries",
+   "url": "https://blogs.nvidia.com/?p=99217&preview=true&preview_id=99217",
+   "source": "Nvidia.com",
+   "category": "ai",
+   "published": "2026-10-21T10:00:07+00:00"
+  },
+  {
+   "title": "Quantum Sensing Using Geometrical Phase in Qubit-Oscillator Systems",
+   "url": "https://link.aps.org/doi/10.1103/6jd1-s1b3",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-21T10:00:00+00:00"
+  },
+  {
+   "title": "Quantum architecture generation via predictor-guided diffusion models",
+   "url": "https://link.aps.org/doi/10.1103/w7kj-cwfz",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-21T10:00:00+00:00"
+  },
+  {
+   "title": "Spin-polarized transport tomography of a quantum-dot spin qubit via ferromagnetic leads",
+   "url": "https://link.aps.org/doi/10.1103/3vgt-28n1",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-21T10:00:00+00:00"
+  },
+  {
    "title": "Generative Bionics to build Europe's largest Physical AI Data Factory and advance European humanoid sovereignty with AMD AI infrastructure",
    "url": "https://www.prnewswire.com/news-releases/generative-bionics-to-build-europes-largest-physical-ai-data-factory-and-advance-european-humanoid-sovereignty-with-amd-ai-infrastructure-302914884.html",
    "source": "PRNewswire",
@@ -407,13 +526,6 @@
    "source": "Antaranews.com",
    "category": "robotics",
    "published": "2026-10-21T07:17:56+00:00"
-  },
-  {
-   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-21T07:00:00+00:00"
   },
   {
    "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
@@ -519,6 +631,13 @@
    "source": "SiliconANGLE News",
    "category": "robotics",
    "published": "2026-10-21T00:13:47+00:00"
+  },
+  {
+   "title": "Recordanelles for transcriptome-wide single-cell RNA recording in human cells",
+   "url": "https://www.nature.com/articles/s41587-026-03327-6",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-10-21T00:00:00+00:00"
   },
   {
    "title": "Leveraging genomic deep learning models for the prediction of noncoding variant effects",
@@ -1352,6 +1471,13 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-10-19T18:25:00+00:00"
+  },
+  {
+   "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+   "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-10-19T18:20:00+00:00"
   },
   {
    "title": "Amedea Pharma Presents 2026 Medical Innovation Olympics Winners -- Finalists Earn San Francisco Presentations During J.P. Morgan 2027",
@@ -34875,132 +35001,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-07-25T08:19:59+00:00"
-  },
-  {
-   "title": "ragkit-llmparse 0.1.0",
-   "url": "https://pypi.org/project/ragkit-llmparse/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T08:10:48+00:00"
-  },
-  {
-   "title": "ragkit-llmparse added to PyPI",
-   "url": "https://pypi.org/project/ragkit-llmparse/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T08:10:35+00:00"
-  },
-  {
-   "title": "Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
-   "url": "https://news.samsung.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies",
-   "source": "Samsung.com",
-   "category": "compute",
-   "published": "2026-07-25T08:09:54+00:00"
-  },
-  {
-   "title": "atomicguard 2.30.0",
-   "url": "https://pypi.org/project/atomicguard/2.30.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T08:06:50+00:00"
-  },
-  {
-   "title": "$15K electric 'LUV' promises to park and drive itself home",
-   "url": "https://newatlas.com/automotive/15k-beach-buggy-is-a-life-size-rc-car-that-carries-actual-passengers/",
-   "source": "New Atlas",
-   "category": "robotics",
-   "published": "2026-07-25T08:03:00+00:00"
-  },
-  {
-   "title": "oq-ai-router added to PyPI",
-   "url": "https://pypi.org/project/oq-ai-router/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T08:02:43+00:00"
-  },
-  {
-   "title": "oq-ai-router 0.1.0",
-   "url": "https://pypi.org/project/oq-ai-router/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T08:02:43+00:00"
-  },
-  {
-   "title": "jobd 0.5.34",
-   "url": "https://pypi.org/project/jobd/0.5.34/",
-   "source": "Pypi.org",
-   "category": "compute",
-   "published": "2026-07-25T07:55:44+00:00"
-  },
-  {
-   "title": "tensor-grep 1.98.5",
-   "url": "https://pypi.org/project/tensor-grep/1.98.5/",
-   "source": "Pypi.org",
-   "category": "compute",
-   "published": "2026-07-25T07:50:58+00:00"
-  },
-  {
-   "title": "LLM-Bridge 2.1.4",
-   "url": "https://pypi.org/project/llm-bridge/2.1.4/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T07:43:25+00:00"
-  },
-  {
-   "title": "glq 0.7.1",
-   "url": "https://pypi.org/project/glq/0.7.1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T07:42:50+00:00"
-  },
-  {
-   "title": "Imervue 1.0.86",
-   "url": "https://pypi.org/project/imervue/1.0.86/",
-   "source": "Pypi.org",
-   "category": "compute",
-   "published": "2026-07-25T07:33:17+00:00"
-  },
-  {
-   "title": "\u201cIntegrating Arts and Sciences for National Development\u2019: Allied Health University Elevates Nigeria\u2019s Global Conversation on Innovation, AI and Sustainable Development",
-   "url": "https://www.theprojectornewsandpix.com/integrating-arts-and-sciences-for-national-development-allied-health-university-elevates-nigerias-global-conversation-on-innovation-ai-and-sustainable-development/",
-   "source": "Theprojectornewsandpix.com",
-   "category": "ai",
-   "published": "2026-07-25T07:30:25+00:00"
-  },
-  {
-   "title": "llms-py 4.0.4",
-   "url": "https://pypi.org/project/llms-py/4.0.4/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T07:30:15+00:00"
-  },
-  {
-   "title": "ragkit-promptkit 0.1.0",
-   "url": "https://pypi.org/project/ragkit-promptkit/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T07:23:25+00:00"
-  },
-  {
-   "title": "ragkit-promptkit added to PyPI",
-   "url": "https://pypi.org/project/ragkit-promptkit/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T07:23:15+00:00"
-  },
-  {
-   "title": "ragkit-redactor 0.1.0",
-   "url": "https://pypi.org/project/ragkit-redactor/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T07:21:09+00:00"
-  },
-  {
-   "title": "ragkit-redactor added to PyPI",
-   "url": "https://pypi.org/project/ragkit-redactor/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-25T07:21:00+00:00"
   }
  ]
 }
