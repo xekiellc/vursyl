@@ -1,61 +1,166 @@
 {
- "updated": "2026-10-21T21:27:02.689584+00:00",
+ "updated": "2026-10-22T04:02:09.466050+00:00",
  "items": [
   {
-   "title": "How AT&T is rethinking in-house legal work with OpenAI",
-   "url": "https://openai.com/index/att-legal",
+   "title": "Solving a 31-year-old grand challenge in mathematics \u2013 the KLS conjecture",
+   "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+   "source": "Microsoft Research",
+   "category": "breakthroughs",
+   "published": "2026-10-21T16:00:00+00:00"
+  },
+  {
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-21T17:00:00+00:00"
+   "published": "2026-10-21T13:00:00+00:00"
   },
   {
-   "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-21T10:45:17+00:00"
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-21T12:00:00+00:00"
   },
   {
-   "title": "NVIDIA Cloud Partners Scale Across Europe \u2014 Sovereign, Open and Built for Safe AI Agents",
-   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-21T10:30:41+00:00"
-  },
-  {
-   "title": "Europe\u2019s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+   "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
    "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-10-21T10:30:40+00:00"
+   "published": "2026-10-21T10:50:37+00:00"
   },
   {
-   "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-   "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-21T10:30:25+00:00"
-  },
-  {
-   "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-21T10:30:02+00:00"
-  },
-  {
-   "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-   "source": "NVIDIA",
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-21T10:10:01+00:00"
+   "published": "2026-10-21T07:00:00+00:00"
   },
   {
-   "title": "NVIDIA Open Models Advance Europe\u2019s Sovereign Intelligence Across Industries",
-   "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
-   "source": "NVIDIA",
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-21T10:00:07+00:00"
+   "published": "2026-10-21T04:50:00+00:00"
+  },
+  {
+   "title": "Tod Machover\u2019s new symphony plays with AI while reflecting on democracy",
+   "url": "https://news.mit.edu/2026/tod-machover-new-symphony-plays-ai-while-reflecting-democracy-1021",
+   "source": "Mit.edu",
+   "category": "ai",
+   "published": "2026-10-21T04:00:00+00:00"
+  },
+  {
+   "title": "SpiralAI\u3001\u300eRyzaChat:AI\u30e9\u30a4\u30b6\u3068\u5275\u308b\u3042\u306a\u305f\u3060\u3051\u306e\u3072\u3068\u590f\u306e\u5922\u7269\u8a9e\u300f\u7b49\u306e\u958b\u767a\u3092\u901a\u3057\u3066\u751f\u307e\u308c\u305f\u3001\u30a8\u30f3\u30bf\u30e1\u7279\u5316\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30ec\u30fc\u30b7\u30e7\u30f3\u30e2\u30c7\u30eb\u300cSpiralLLM\u300d\u3092\u63d0\u4f9b\u958b\u59cb\u3002",
+   "url": "https://prtimes.jp/main/html/rd/p/000000102.000120221.html",
+   "source": "Prtimes.jp",
+   "category": "ai",
+   "published": "2026-10-21T04:00:00+00:00"
+  },
+  {
+   "title": "ChatGPT Gets 'Locked Chats' to Protect Sensitive Conversations",
+   "url": "https://me.pcmag.com/en/security/38396/chatgpt-gets-locked-chats-to-protect-sensitive-conversations",
+   "source": "PCMag.com",
+   "category": "ai",
+   "published": "2026-10-21T03:59:39+00:00"
+  },
+  {
+   "title": "This Mod Can Run Nvidia's DLSS 5 on AMD Radeon Cards",
+   "url": "https://me.pcmag.com/en/graphics-cards/38395/this-mod-can-run-nvidias-dlss-5-on-amd-radeon-cards",
+   "source": "PCMag.com",
+   "category": "compute",
+   "published": "2026-10-21T03:54:40+00:00"
+  },
+  {
+   "title": "AI tool may predict cancer survival from a single face photo, study finds",
+   "url": "https://www.thedailystar.net/health/news/ai-tool-may-predict-cancer-survival-single-face-photo-study-finds-4303946",
+   "source": "The Daily Star",
+   "category": "health",
+   "published": "2026-10-21T03:52:30+00:00"
+  },
+  {
+   "title": "AI to spur Southeast Asia's digital economy to $368 billion, shows study",
+   "url": "https://www.business-standard.com/world-news/ai-to-spur-southeast-asia-s-digital-economy-to-368-billion-shows-study-126102100168_1.html",
+   "source": "Business Standard",
+   "category": "ai",
+   "published": "2026-10-21T03:49:28+00:00"
+  },
+  {
+   "title": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
+   "url": "https://www.digitimes.com/news/a20261021PD232/lcd-acquisition-packaging-plant-demand.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-10-21T03:45:00+00:00"
+  },
+  {
+   "title": "Google open-sourced TorchTPU, so PyTorch on TPUs just got a lot easier",
+   "url": "https://www.helpnetsecurity.com/2026/10/21/torchtpu-pytorch-on-tpus/",
+   "source": "Help Net Security",
+   "category": "compute",
+   "published": "2026-10-21T03:42:06+00:00"
+  },
+  {
+   "title": "Axcelis plans US$35 million semiconductor facility in South Korea",
+   "url": "https://www.digitimes.com/news/a20261021PR201/axcelis-manufacturing-apple-ion-implantation-equipment.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-10-21T03:34:07+00:00"
+  },
+  {
+   "title": "AI Model Trained on 40 Million Faces Predicts Cancer Mortality Risk From Photos",
+   "url": "https://www.ibtimes.com.au/ai-facial-photo-estimates-cancer-survival-risk-1877074",
+   "source": "Ibtimes.com.au",
+   "category": "health",
+   "published": "2026-10-21T03:26:15+00:00"
+  },
+  {
+   "title": "FF EAI Robotics Ecosystem Inc. Announces Details for Its Listing Ceremony and Nasdaq Investor Day, Taking Place on Monday, Oct. 26, at Nasdaq's MarketSite in NYC",
+   "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-inc-announces-details-for-its-listing-ceremony-and-nasdaq-investor-day-taking-place-on-monday-oct-26-at-nasdaqs-marketsite-in-nyc-302914833.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-21T02:28:00+00:00"
+  },
+  {
+   "title": "Rhapsody Ships Guardian: Healthcare Builds Its Own Agent Gatekeeper Ahead of Any Shared Spec",
+   "url": "https://forkast.news/rhapsody-ships-guardian-healthcare-builds-its-own-agent-gatekeeper-ahead-of-any-shared-spec/",
+   "source": "Forkast.news",
+   "category": "health",
+   "published": "2026-10-21T02:26:59+00:00"
+  },
+  {
+   "title": "Gemini for Government Services Arrives as a Private Preview. The Compliance Wrapper Is What\u2019s for Sale.",
+   "url": "https://forkast.news/gemini-for-government-services-arrives-as-a-private-preview-the-compliance-wrapper-is-whats-for-sale/",
+   "source": "Forkast.news",
+   "category": "ai",
+   "published": "2026-10-21T02:24:22+00:00"
+  },
+  {
+   "title": "Eka Robotics nets $150M at a $1.45B valuation for robot hands that sense force",
+   "url": "https://siliconangle.com/2026/10/20/eka-robotics-nets-150m-at-a-1-45b-valuation-for-robot-hands-that-sense-force/",
+   "source": "SiliconANGLE News",
+   "category": "robotics",
+   "published": "2026-10-21T00:13:47+00:00"
+  },
+  {
+   "title": "Leveraging genomic deep learning models for the prediction of noncoding variant effects",
+   "url": "https://www.nature.com/articles/s41588-026-02769-7",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-10-21T00:00:00+00:00"
+  },
+  {
+   "title": "A semantic-conditioned multi-modal behavior cloning framework for terrain-specific behavior isolation in humanoid locomotion",
+   "url": "https://www.nature.com/articles/s41598-026-75161-4.pdf",
+   "source": "Nature.com",
+   "category": "robotics",
+   "published": "2026-10-21T00:00:00+00:00"
+  },
+  {
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "url": "https://openai.com/index/cloudflare-cyber",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-21T00:00:00+00:00"
   },
   {
    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
@@ -63,6 +168,27 @@
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-10-21T00:00:00+00:00"
+  },
+  {
+   "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
+   "url": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/",
+   "source": "SiliconANGLE News",
+   "category": "health",
+   "published": "2026-10-20T23:40:20+00:00"
+  },
+  {
+   "title": "Eyonis Named Finalist in 2026 Digital Health & AI Awards for Cancer Screening and Early Detection",
+   "url": "https://finance.yahoo.com/healthcare/articles/eyonis-named-finalist-2026-digital-115500364.html",
+   "source": "Yahoo Entertainment",
+   "category": "health",
+   "published": "2026-10-20T22:22:56+00:00"
+  },
+  {
+   "title": "14 Organizations Earn CHIME's Highest Digital Health Most Wired Designation for 2026",
+   "url": "https://www.prnewswire.com/news-releases/14-organizations-earn-chimes-highest-digital-health-most-wired-designation-for-2026-302914691.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-20T22:09:00+00:00"
   },
   {
    "title": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon",
@@ -90,8 +216,7 @@
    "url": "https://singularityhub.com/2026/10/20/blind-patients-recover-partial-vision-in-gene-therapy-trial/#article",
    "source": "Singularity Hub",
    "category": "health",
-   "published": "2026-10-20T21:05:34+00:00",
-   "breakthrough": true
+   "published": "2026-10-20T21:05:34+00:00"
   },
   {
    "title": "Could a smartphone listen for childhood lung problems? AI narrows the gap",
@@ -239,6 +364,13 @@
    "source": "Biztoc.com",
    "category": "ai",
    "published": "2026-10-20T18:06:49+00:00"
+  },
+  {
+   "title": "The $20,000 Voxel bot will help you find misplaced things around your home",
+   "url": "https://www.theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation",
+   "source": "The Verge",
+   "category": "robotics",
+   "published": "2026-10-20T17:49:55+00:00"
   },
   {
    "title": "Sophont Launches Holon-S1 to Reveal Tumor Biology from Routine Pathology Slides",
@@ -444,6 +576,21 @@
    "published": "2026-10-20T16:05:09+00:00"
   },
   {
+   "title": "NVIDIA JUPITER Quantum Simulation Models a 104-Qubit Fault-Tolerant Processor Across 8,192 GH200 GPUs and 512 TiB",
+   "url": "https://www.storagereview.com/news/nvidia-jupiter-quantum-simulation-104-qubit-fault-tolerant-8192-gh200",
+   "source": "Storagereview.com",
+   "category": "quantum",
+   "published": "2026-10-20T16:00:58+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Postquant Labs Launches Quantum Virtual Machine to Unify Execution Across Quantum Hardware",
+   "url": "https://www.prnewswire.com/news-releases/postquant-labs-launches-quantum-virtual-machine-to-unify-execution-across-quantum-hardware-302914339.html",
+   "source": "PRNewswire",
+   "category": "quantum",
+   "published": "2026-10-20T16:00:00+00:00"
+  },
+  {
    "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
    "source": "Blog.google",
@@ -493,6 +640,13 @@
    "published": "2026-10-20T15:02:00+00:00"
   },
   {
+   "title": "OpenAI Announces Humanoid Robot Debut For 2027",
+   "url": "https://www.ubergizmo.com/2026/10/openai-announces-humanoid-robot-debut-for-2027/",
+   "source": "Ubergizmo",
+   "category": "robotics",
+   "published": "2026-10-20T15:00:39+00:00"
+  },
+  {
    "title": "Dr. Mazin Shikara on How MedFlorida Medical Centers Uses AI to Grow Primary Care Without Burning Out Its Physicians",
    "url": "https://www.medicaldaily.com/dr-mazin-shikara-how-medflorida-medical-centers-uses-ai-grow-primary-care-without-burning-out-480180",
    "source": "Medical Daily",
@@ -533,6 +687,20 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-10-20T14:00:00+00:00"
+  },
+  {
+   "title": "Realbotix to Exhibit at CES 2027",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/realbotix-to-exhibit-at-ces-2027",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-10-20T12:10:13+00:00"
+  },
+  {
+   "title": "YYForce AI Humanoid Housekeepers to be trained in Novotel Hotel",
+   "url": "https://financialpost.com/globe-newswire/yyforce-ai-humanoid-housekeepers-to-be-trained-in-novotel-hotel",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-10-20T11:40:18+00:00"
   },
   {
    "title": "Amazon to invest \u20ac16bn in Germany in 2027",
@@ -820,13 +988,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-10-19T18:25:00+00:00"
-  },
-  {
-   "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-   "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-   "source": "MIT News AI",
-   "category": "health",
-   "published": "2026-10-19T18:20:00+00:00"
   },
   {
    "title": "Amedea Pharma Presents 2026 Medical Innovation Olympics Winners -- Finalists Earn San Francisco Presentations During J.P. Morgan 2027",
@@ -34840,167 +35001,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-07-24T13:10:00+00:00"
-  },
-  {
-   "title": "Samsung, SK Hynix to announce major chip deals with US tech companies, Seoul says",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sk-hynix-to-announce-major-chip-deals-with-us-tech-companies-seoul-says/articleshow/132606358.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-24T12:57:26+00:00"
-  },
-  {
-   "title": "(VIDEO) Samsung Debuts Galaxy Watch Ultra 2 and Galaxy Watch 9 With New Chip, Brighter Screens, Higher Prices",
-   "url": "https://www.ibtimes.com.au/samsung-galaxy-watch-ultra-2-watch-9-launch-1872854",
-   "source": "Ibtimes.com.au",
-   "category": "compute",
-   "published": "2026-07-24T12:52:02+00:00"
-  },
-  {
-   "title": "Ridgetech Strengthens Pharmaceutical Ecosystem Leadership with Vice-President Role in Zhejiang Biomedical Association",
-   "url": "https://www.prnewswire.com/news-releases/ridgetech-strengthens-pharmaceutical-ecosystem-leadership-with-vice-president-role-in-zhejiang-biomedical-association-302833883.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-24T12:30:00+00:00"
-  },
-  {
-   "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-   "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-   "source": "MIT Technology Review",
-   "category": "breakthroughs",
-   "published": "2026-07-24T12:10:00+00:00"
-  },
-  {
-   "title": "Gallbladder Cancer Foundation and Citizen Health Expand Their Partnership to Put Ari to Work for Every Patient",
-   "url": "https://www.prnewswire.com/news-releases/gallbladder-cancer-foundation-and-citizen-health-expand-their-partnership-to-put-ari-to-work-for-every-patient-302833760.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-24T12:10:00+00:00"
-  },
-  {
-   "title": "ONC releases USCDI Version 7 with 30 new data elements",
-   "url": "https://www.techtarget.com/searchhealthit/news/366646163/ONC-releases-USCDI-Version-7-with-30-new-data-elements",
-   "source": "Techtarget.com",
-   "category": "health",
-   "published": "2026-07-24T12:01:00+00:00"
-  },
-  {
-   "title": "Modern war demands more of special operations medics. AI is helping the Army cram in more of what they need most in training.",
-   "url": "https://www.businessinsider.com/army-special-operations-medics-use-ai-to-improve-battlefield-training-2026-7#article",
-   "source": "Business Insider",
-   "category": "health",
-   "published": "2026-07-24T11:41:01+00:00"
-  },
-  {
-   "title": "Animal Genetics Market Size to Reach USD 13.90 Billion by 2035 as Genomic Testing and Livestock Productivity Demand Surge | SNS Insider",
-   "url": "https://www.globenewswire.com/news-release/2026/07/24/3332787/0/en/Animal-Genetics-Market-Size-to-Reach-USD-13-90-Billion-by-2035-as-Genomic-Testing-and-Livestock-Productivity-Demand-Surge-SNS-Insider.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-24T11:23:00+00:00"
-  },
-  {
-   "title": "Asimov Joins the Genesis Mission, Using Boston University's NSF-Backed Cloud Lab to Power Lab-in-the-Loop AI Models",
-   "url": "https://www.globenewswire.com/news-release/2026/07/24/3332776/0/en/Asimov-Joins-the-Genesis-Mission-Using-Boston-University-s-NSF-Backed-Cloud-Lab-to-Power-Lab-in-the-Loop-AI-Models.html",
-   "source": "GlobeNewswire",
-   "category": "ai",
-   "published": "2026-07-24T11:00:00+00:00"
-  },
-  {
-   "title": "Tesla is betting its future on Optimus. Here's what we know about Elon Musk's robot.",
-   "url": "https://www.businessinsider.com/everything-we-know-about-teslas-optimus-humanoid-robot-2026-7#article",
-   "source": "Business Insider",
-   "category": "robotics",
-   "published": "2026-07-24T09:00:02+00:00"
-  },
-  {
-   "title": "AMD sees compute mkt zooming to $2 trillion by 2030, launches new products",
-   "url": "https://www.thehindubusinessline.com/info-tech/computers-and-laptops/amd-sees-compute-mkt-zooming-to-2-trillion-by-2030-launches-new-products/article71261175.ece",
-   "source": "BusinessLine",
-   "category": "compute",
-   "published": "2026-07-24T08:06:25+00:00"
-  },
-  {
-   "title": "Nvidia commits $1.5B to Amkor to expand US chip packaging",
-   "url": "https://thenextweb.com/news/nvidia-amkor-15bn-chip-packaging-arizona/",
-   "source": "The Next Web",
-   "category": "compute",
-   "published": "2026-07-24T08:05:30+00:00"
-  },
-  {
-   "title": "Caladium Systems Launches Happiffie, India's First AI-powered Celebration Platform",
-   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/caladium-systems-launches-happiffie-indias-first-ai-powered-celebration-platform/article71261467.ece",
-   "source": "BusinessLine",
-   "category": "ai",
-   "published": "2026-07-24T08:00:56+00:00"
-  },
-  {
-   "title": "Mozilla Releases Firefox 153 ESR With Profile Management, Split View, and On-Device AI Features for Enterprise",
-   "url": "https://www.ghacks.net/2026/07/24/mozilla-releases-firefox-153-esr-with-profile-management-split-view-and-on-device-ai-features-for-enterprise/",
-   "source": "Ghacks Technology News",
-   "category": "ai",
-   "published": "2026-07-24T07:45:11+00:00"
-  },
-  {
-   "title": "AMD Ryzen AI Halo Replaces Cloud Servers with 128GB RAM",
-   "url": "https://www.geeky-gadgets.com/amd-ryzen-ai-halo/",
-   "source": "Geeky Gadgets",
-   "category": "compute",
-   "published": "2026-07-24T07:45:00+00:00"
-  },
-  {
-   "title": "Infobell IT Solutions Announces Strategic Collaboration with AMD to Accelerate Advanced AI Innovation",
-   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/infobell-it-solutions-announces-strategic-collaboration-with-amd-to-accelerate-advanced-ai-innovation/article71261360.ece",
-   "source": "BusinessLine",
-   "category": "ai",
-   "published": "2026-07-24T07:41:00+00:00"
-  },
-  {
-   "title": "Fractal posts 20% revenue growth and 92% net income growth in Q1 FY27",
-   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/fractal-posts-20-revenue-growth-and-92-net-income-growth-in-q1-fy27/article71260973.ece",
-   "source": "BusinessLine",
-   "category": "ai",
-   "published": "2026-07-24T05:00:55+00:00"
-  },
-  {
-   "title": "llm-memory-store added to PyPI",
-   "url": "https://pypi.org/project/llm-memory-store/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-24T03:08:41+00:00"
-  },
-  {
-   "title": "mooncake-transfer-engine-cuda13 0.3.12",
-   "url": "https://pypi.org/project/mooncake-transfer-engine-cuda13/0.3.12/",
-   "source": "Pypi.org",
-   "category": "compute",
-   "published": "2026-07-24T03:08:26+00:00"
-  },
-  {
-   "title": "AMD redraws server chip strategy as AI workloads evolve",
-   "url": "https://www.digitimes.com/news/a20260724PD221/amd-cpu-data-center-processor.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-24T03:07:49+00:00"
-  },
-  {
-   "title": "NVIDIA Isaac Sim\u5bfe\u5fdc\u30c7\u30b8\u30bf\u30eb\u30c4\u30a4\u30f3\u958b\u767a\u74b0\u5883\u3092\u69cb\u7bc9",
-   "url": "https://prtimes.jp/main/html/rd/p/000000111.000052796.html",
-   "source": "Prtimes.jp",
-   "category": "robotics",
-   "published": "2026-07-24T03:04:28+00:00"
-  },
-  {
-   "title": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
-   "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-amkor-strike-1-5-billion-chip-packaging-deal/articleshow/132595212.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-24T03:01:59+00:00"
-  },
-  {
-   "title": "MOREH Showcases High-Performance LLM Inference on AMD GPUs at AMD Advancing AI 2026",
-   "url": "https://www.prnewswire.com/news-releases/moreh-showcases-high-performance-llm-inference-on-amd-gpus-at-amd-advancing-ai-2026-302833887.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-07-24T02:59:00+00:00"
   }
  ]
 }
