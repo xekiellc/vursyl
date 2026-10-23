@@ -1,40 +1,216 @@
 {
- "updated": "2026-10-23T04:05:38.127509+00:00",
+ "updated": "2026-10-23T11:17:59.290596+00:00",
  "items": [
   {
-   "title": "Q&A: How AI came to model the \u201cmessy\u201d human mind",
-   "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+   "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-23T00:00:00+00:00"
+  },
+  {
+   "title": "This design software reimagines everyday objects as self-aware devices",
+   "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
    "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-10-23T04:00:00+00:00"
+   "published": "2026-10-22T20:45:00+00:00"
   },
   {
-   "title": "Kazakhstan Expands Compute for Its AI Future",
-   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-23T02:00:13+00:00"
-  },
-  {
-   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-22T15:00:02+00:00"
-  },
-  {
-   "title": "Beyond tree cover: mapping the world\u2019s forest types",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-   "source": "Google DeepMind",
+   "title": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-22T14:30:24+00:00"
+   "published": "2026-10-22T19:00:00+00:00"
   },
   {
-   "title": "Cloud Deployment Incoming: \u2018Call of Duty: Modern Warfare 4\u2019 Arrives on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-   "source": "NVIDIA",
+   "title": "Flint-interactive: A language for creating interactive data visualizations",
+   "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-10-22T16:00:00+00:00"
+  },
+  {
+   "title": "Nebius lands $3.5 billion credit facility from Citi to fuel AI build-out",
+   "url": "https://cryptobriefing.com/nebius-citi-credit-facility-ai-expansion/",
+   "source": "Crypto Briefing",
    "category": "compute",
-   "published": "2026-10-22T13:00:20+00:00"
+   "published": "2026-10-22T11:16:01+00:00"
+  },
+  {
+   "title": "Schneider Electric, NVIDIA & HPE announce strategic collaboration to accelerate Physical AI for Process Industries",
+   "url": "https://financialpost.com/globe-newswire/schneider-electric-nvidia-hpe-announce-strategic-collaboration-to-accelerate-physical-ai-for-process-industries",
+   "source": "Financial Post",
+   "category": "compute",
+   "published": "2026-10-22T11:15:54+00:00"
+  },
+  {
+   "title": "New superconducting chip aims to help tame fusion plasma",
+   "url": "https://www.scientificamerican.com/article/new-superconducting-chip-aims-to-help-tame-fusion-plasma/",
+   "source": "Scientific American",
+   "category": "quantum",
+   "published": "2026-10-22T11:15:00+00:00"
+  },
+  {
+   "title": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
+   "url": "https://returnledger.site",
+   "source": "Returnledger.site",
+   "category": "ai",
+   "published": "2026-10-22T11:13:54+00:00"
+  },
+  {
+   "title": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
+   "url": "https://biztoc.com/x/57fe69ccb7daec69",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-22T11:07:38+00:00"
+  },
+  {
+   "title": "David\u2019s Bridal plans to spin off AI platform Pearl as a public company",
+   "url": "https://cryptobriefing.com/davids-bridal-pearl-ai-spinoff-public/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-10-22T11:06:58+00:00"
+  },
+  {
+   "title": "YYForce Prepares Hospitality for Superintelligence with Unified Human, Robotic, and IoT Platform",
+   "url": "https://www.prnewswire.com/news-releases/yyforce-prepares-hospitality-for-superintelligence-with-unified-human-robotic-and-iot-platform-302916490.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-22T11:05:00+00:00"
+  },
+  {
+   "title": "Nebius gets $3.5 billion Citi facility for data center growth",
+   "url": "https://www.channelnewsasia.com/business/nebius-gets-35-billion-citi-facility-data-center-growth-6482346",
+   "source": "CNA",
+   "category": "compute",
+   "published": "2026-10-22T11:02:32+00:00"
+  },
+  {
+   "title": "Insurers \u2018unlocking trillions\u2019 for AI infrastructure",
+   "url": "https://www.royalgazette.com/reinsurance/business/article/20261022/insurers-unlocking-trillions-for-ai-infrastructure/",
+   "source": "Royal Gazette",
+   "category": "compute",
+   "published": "2026-10-22T11:02:24+00:00"
+  },
+  {
+   "title": "Presentation: Actors for Agents: Patterns for Production AI",
+   "url": "https://www.infoq.com/presentations/actors-for-production-ai-agents/",
+   "source": "InfoQ.com",
+   "category": "ai",
+   "published": "2026-10-22T11:00:00+00:00"
+  },
+  {
+   "title": "Up to $52 Million Study Will Follow 1,500 Hospitalized Babies to Learn Why Some Keep Struggling to Breathe",
+   "url": "https://www.medicaldaily.com/infant-viral-lung-infection-study-1500-babies-480282",
+   "source": "Medical Daily",
+   "category": "health",
+   "published": "2026-10-22T11:00:00+00:00"
+  },
+  {
+   "title": "Three Months In, HCTI's Purpose Health Lands Multiple Wins as AI-Led Momentum Builds",
+   "url": "https://www.prnewswire.com/news-releases/three-months-in-hctis-purpose-health-lands-multiple-wins-as-ai-led-momentum-builds-302916760.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-22T11:00:00+00:00"
+  },
+  {
+   "title": "CoreWeave targets agentic AI risks with zero-trust framework",
+   "url": "https://www.verdict.co.uk/coreweave-launch-zero-trust-framework/",
+   "source": "Verdict",
+   "category": "ai",
+   "published": "2026-10-22T10:55:42+00:00"
+  },
+  {
+   "title": "AI Agent Frameworks for Startups: Evaluating 7 Leading Options",
+   "url": "https://cloudtweaks.com/2026/10/ai-agent-frameworks-for-startups-evaluating-7-leading-options/",
+   "source": "Cloudtweaks.com",
+   "category": "ai",
+   "published": "2026-10-22T10:44:12+00:00"
+  },
+  {
+   "title": "AI Could Bring Clinical Trials to Rural America",
+   "url": "https://biztoc.com/x/2ffe6bf0857c2880",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-10-22T10:37:32+00:00"
+  },
+  {
+   "title": "Elon Musk says training Tesla's Optimus robot is like raising a toddler",
+   "url": "https://www.businessinsider.com/optimus-training-academy-elon-musk-raising-toddler-2026-10#article",
+   "source": "Business Insider",
+   "category": "robotics",
+   "published": "2026-10-22T10:33:17+00:00"
+  },
+  {
+   "title": "Genuine Quantum Strong Mpemba Effect by Eliminating Coherence",
+   "url": "https://link.aps.org/doi/10.1103/z9t9-mwgv",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "title": "Hugging Face\u2019s New AI Biology Model Lets You Chat With DNA",
+   "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+   "source": "Wired",
+   "category": "ai",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "title": "Alethios Unveils a Comprehensive Decentralized Data Collection Suite for Human Health Research",
+   "url": "https://www.prnewswire.com/news-releases/alethios-unveils-a-comprehensive-decentralized-data-collection-suite-for-human-health-research-302916518.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "title": "Samsung Electro-Mechanics lands $2.8 billion chip substrate investment from Tesla and Nvidia",
+   "url": "https://cryptobriefing.com/samsung-electro-mechanics-tesla-nvidia-investment/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-10-22T09:54:08+00:00"
+  },
+  {
+   "title": "Rakovina Therapeutics and Variational AI Advance Brain-Penetrant ATR Program Toward Development Candidate Selection",
+   "url": "https://financialpost.com/globe-newswire/rakovina-therapeutics-and-variational-ai-advance-brain-penetrant-atr-program-toward-development-candidate-selection",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-10-22T09:34:41+00:00"
+  },
+  {
+   "title": "Tairex Launches Multi-Agent AI System to Transform Clinical Collaboration and Decision Support",
+   "url": "https://www.prnewswire.com/news-releases/tairex-launches-multi-agent-ai-system-to-transform-clinical-collaboration-and-decision-support-302916729.html",
+   "source": "PRNewswire",
+   "category": "ai",
+   "published": "2026-10-22T09:02:00+00:00"
+  },
+  {
+   "title": "MIPI expands beyond smartphones into AR glasses and humanoid robots",
+   "url": "https://www.digitimes.com/news/a20261022PD243/ar-glasses-taipei-display-camera-industrial.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-10-22T07:39:08+00:00"
+  },
+  {
+   "title": "K\u00f6rber invests in NAiSE and advances vendor-agnostic fleet management in intralogistics",
+   "url": "https://www.prnewswire.com/news-releases/korber-invests-in-naise-and-advances-vendor-agnostic-fleet-management-in-intralogistics-302915782.html",
+   "source": "PRNewswire",
+   "category": "robotics",
+   "published": "2026-10-22T07:30:00+00:00"
+  },
+  {
+   "title": "LG Innotek is Collaborating with NVIDIA, Taking One Step Closer to Securing a Leading Position in the Physical AI Market",
+   "url": "https://www.prnewswire.com/news-releases/lg-innotek-is-collaborating-with-nvidia-taking-one-step-closer-to-securing-a-leading-position-in-the-physical-ai-market-302914994.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-10-22T07:00:00+00:00"
+  },
+  {
+   "title": "Tesla's Optimus robots are finally rolling off the production line",
+   "url": "https://biztoc.com/x/e58c67b0b434d1d4",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-10-22T06:32:15+00:00",
+   "breakthrough": true
   },
   {
    "title": "What FDE means at OpenAI",
@@ -42,6 +218,41 @@
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-10-22T06:00:00+00:00"
+  },
+  {
+   "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+   "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-22T05:00:56+00:00"
+  },
+  {
+   "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-22T05:00:27+00:00"
+  },
+  {
+   "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+   "url": "https://blogs.nvidia.com/blog/dsx-power/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-22T05:00:25+00:00"
+  },
+  {
+   "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+   "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-22T05:00:23+00:00"
+  },
+  {
+   "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+   "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-22T05:00:19+00:00"
   },
   {
    "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
@@ -146,8 +357,7 @@
    "url": "https://www.digitimes.com/news/a20261022PD213/amazon-germany-logistics-infrastructure-2027.html",
    "source": "Digitimes",
    "category": "compute",
-   "published": "2026-10-22T03:25:00+00:00",
-   "breakthrough": true
+   "published": "2026-10-22T03:25:00+00:00"
   },
   {
    "title": "Intel begins Arizona Fab 62 equipment installation, advances Ohio project as AI CPU demand surges",
@@ -269,20 +479,6 @@
    "published": "2026-10-22T01:14:28+00:00"
   },
   {
-   "title": "Enhancing bosonic qubit protection by squeezing",
-   "url": "https://www.nature.com/articles/s41467-026-78025-7.pdf",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-10-22T00:00:00+00:00"
-  },
-  {
-   "title": "Teleportation transition of surface codes on a superconducting quantum processor",
-   "url": "https://www.nature.com/articles/s41567-026-03484-0",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-10-22T00:00:00+00:00"
-  },
-  {
    "title": "'Low-Oxygen' Drug Combination Reverses Parkinson's Symptoms in Mice",
    "url": "https://www.sciencealert.com/low-oxygen-drug-combination-reverses-parkinsons-symptoms-in-mice",
    "source": "ScienceAlert",
@@ -304,25 +500,11 @@
    "published": "2026-10-22T00:00:00+00:00"
   },
   {
-   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-22T00:00:00+00:00"
-  },
-  {
    "title": "Khgears targets humanoid robot joints, eyes 2027 mass production",
    "url": "https://www.digitimes.com/news/a20261021PD248/robot-production-revenue-2027-shipments.html",
    "source": "Digitimes",
    "category": "robotics",
    "published": "2026-10-21T23:49:58+00:00"
-  },
-  {
-   "title": "AI-quantum hybrid channel modeling and noise mitigation for 5G/6G wireless networks: the AQCME framework",
-   "url": "https://www.nature.com/articles/s41598-026-67540-8.pdf",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-10-21T23:39:09+00:00"
   },
   {
    "title": "Elon Musk Breaks Silence On Plans For A School For 10,000 Robots & Says Terafab Would Probably Rank Among The Top 20 Countries By Economic Value",
@@ -444,6 +626,13 @@
    "published": "2026-10-21T20:05:00+00:00"
   },
   {
+   "title": "Announcing the verifiable quantum circuit compilation competition on Kaggle",
+   "url": "https://opensource.googleblog.com/2026/10/announcing-verifiable-quantum-circuit-compilation-competition-on-kaggle.html",
+   "source": "Googleblog.com",
+   "category": "quantum",
+   "published": "2026-10-21T18:30:00+00:00"
+  },
+  {
    "title": "Simple tweak could cut AI chatbots\u2019 reinforcement of false beliefs",
    "url": "https://www.futurity.org/ai-chatbots-delusion-reinforcement-3349302/",
    "source": "Futurity: Research News",
@@ -463,6 +652,13 @@
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-10-21T17:15:00+00:00"
+  },
+  {
+   "title": "How AT&T is rethinking in-house legal work with OpenAI",
+   "url": "https://openai.com/index/att-legal",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-21T17:00:00+00:00"
   },
   {
    "title": "Using AI to fight election misinformation works",
@@ -542,6 +738,13 @@
    "published": "2026-10-21T16:16:56+00:00"
   },
   {
+   "title": "Solving a 31-year-old grand challenge in mathematics \u2013 the KLS conjecture",
+   "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+   "source": "Microsoft Research",
+   "category": "breakthroughs",
+   "published": "2026-10-21T16:00:00+00:00"
+  },
+  {
    "title": "Mapmygenome completes acquisition of dnaPower Inc.",
    "url": "https://www.thehindubusinessline.com/companies/mapmygenome-completes-acquisition-of-dnapower-inc/article71608364.ece",
    "source": "BusinessLine",
@@ -584,6 +787,13 @@
    "published": "2026-10-21T14:30:00+00:00"
   },
   {
+   "title": "Wolbachia outcompetes mosquito-borne viruses by reprogramming host ATPS\u03b21-driven ATP metabolism toward symbiotic proliferation",
+   "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014692",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-10-21T14:00:00+00:00"
+  },
+  {
    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
    "source": "OpenAI",
@@ -617,13 +827,6 @@
    "source": "CNA",
    "category": "robotics",
    "published": "2026-10-21T12:02:21+00:00"
-  },
-  {
-   "title": "OpenAI models are coming to Google Cloud",
-   "url": "https://openai.com/index/openai-models-google-cloud",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-21T12:00:00+00:00"
   },
   {
    "title": "Nvidia reveals plans to build AI data centers in 14 days instead of 6 months",
@@ -806,13 +1009,6 @@
    "source": "Antaranews.com",
    "category": "robotics",
    "published": "2026-10-21T07:17:56+00:00"
-  },
-  {
-   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-21T07:00:00+00:00"
   },
   {
    "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
@@ -1368,13 +1564,6 @@
    "published": "2026-10-20T16:00:00+00:00"
   },
   {
-   "title": "Called to serve: Tech, research, and positive impact",
-   "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-10-20T16:00:00+00:00"
-  },
-  {
    "title": "Circle CVI joins EXIT-CVD research consortium to advance imaging-informed, personalized cardiovascular care across Europe",
    "url": "https://financialpost.com/globe-newswire/circle-cvi-joins-exit-cvd-research-consortium-to-advance-imaging-informed-personalized-cardiovascular-care-across-europe",
    "source": "Financial Post",
@@ -1758,6 +1947,13 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-10-19T18:25:00+00:00"
+  },
+  {
+   "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+   "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-19T18:20:00+00:00"
   },
   {
    "title": "Amedea Pharma Presents 2026 Medical Innovation Olympics Winners -- Finalists Earn San Francisco Presentations During J.P. Morgan 2027",
@@ -34805,202 +35001,6 @@
    "source": "Uxdesign.cc",
    "category": "ai",
    "published": "2026-07-26T19:28:45+00:00"
-  },
-  {
-   "title": "siroccomol 0.1.0",
-   "url": "https://pypi.org/project/siroccomol/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T19:28:05+00:00"
-  },
-  {
-   "title": "siroccomol added to PyPI",
-   "url": "https://pypi.org/project/siroccomol/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T19:28:05+00:00"
-  },
-  {
-   "title": "verifiers 0.2.2.dev32",
-   "url": "https://pypi.org/project/verifiers/0.2.2.dev32/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T19:26:05+00:00"
-  },
-  {
-   "title": "cje-eval 0.6.0rc1",
-   "url": "https://pypi.org/project/cje-eval/0.6.0rc1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T19:25:03+00:00"
-  },
-  {
-   "title": "agent-inbox 0.13.19",
-   "url": "https://pypi.org/project/agent-inbox/0.13.19/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T19:24:41+00:00"
-  },
-  {
-   "title": "blue-prism-v7-mcp 0.19.0",
-   "url": "https://pypi.org/project/blue-prism-v7-mcp/0.19.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T19:10:34+00:00"
-  },
-  {
-   "title": "blue-prism-v7-mcp added to PyPI",
-   "url": "https://pypi.org/project/blue-prism-v7-mcp/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T19:10:29+00:00"
-  },
-  {
-   "title": "nimcode 0.4.2",
-   "url": "https://pypi.org/project/nimcode/0.4.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T19:05:41+00:00"
-  },
-  {
-   "title": "Weka's new pod claims 1000PB in a 56U rack using 1,800 Micron 245.76TB SSDs and a decades-old compression trick",
-   "url": "https://www.techradar.com/pro/wekas-new-pod-claims-1000pb-in-a-56u-rack-using-1-800-micron-245-76tb-ssds-and-a-decades-old-compression-trick",
-   "source": "TechRadar",
-   "category": "compute",
-   "published": "2026-07-26T19:05:00+00:00"
-  },
-  {
-   "title": "ai_api_unified 2.19.0",
-   "url": "https://pypi.org/project/ai-api-unified/2.19.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T19:03:01+00:00"
-  },
-  {
-   "title": "text2model 1.3.2",
-   "url": "https://pypi.org/project/text2model/1.3.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T18:57:36+00:00"
-  },
-  {
-   "title": "Grok Build introduces /deep-research command for advanced research with parallel AI agents",
-   "url": "https://cryptobriefing.com/grok-build-deep-research-command/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-07-26T18:47:59+00:00"
-  },
-  {
-   "title": "ai_api_unified 2.18.0",
-   "url": "https://pypi.org/project/ai-api-unified/2.18.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T18:43:02+00:00"
-  },
-  {
-   "title": "rclm 0.1.22",
-   "url": "https://pypi.org/project/rclm/0.1.22/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T18:41:34+00:00"
-  },
-  {
-   "title": "Show HN: HART OS \u2013 an open-source AI OS built so frontier AI needs no datacenter",
-   "url": "https://github.com/hertz-ai/HARTOS",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-26T18:40:08+00:00"
-  },
-  {
-   "title": "llm-catalogue added to PyPI",
-   "url": "https://pypi.org/project/llm-catalogue/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T18:37:57+00:00"
-  },
-  {
-   "title": "pilot-workers 0.5.6",
-   "url": "https://pypi.org/project/pilot-workers/0.5.6/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-26T18:28:46+00:00"
-  },
-  {
-   "title": "NVIDIA Blackwell RTX 50 Hotspot And Per-Memory Temperature Monitoring: Here\u2019s Everything Enthusiasts Have Uncovered So Far",
-   "url": "https://wccftech.com/roundup/nvidia-blackwell-rtx-50-hotspot-and-memory-temperature-monitoring-heres-everything-uncovered-so-far/",
-   "source": "Wccftech",
-   "category": "compute",
-   "published": "2026-07-26T17:00:02+00:00"
-  },
-  {
-   "title": "iHypnosis Wellbeing AI 1.0.1",
-   "url": "https://post.rlsbb.cc/ihypnosis-wellbeing-ai-1-0-1/",
-   "source": "Rlsbb.cc",
-   "category": "ai",
-   "published": "2026-07-26T16:21:08+00:00"
-  },
-  {
-   "title": "DARPA\u2019s \u2018Multiscale Reasoning For Human Physiology\u2019 seeks to model human health across scales, advance military medicine",
-   "url": "https://www.activistpost.com/darpas-multiscale-reasoning-for-human-physiology-seeks-to-model-human-health-across-scales-advance-military-medicine/",
-   "source": "Activistpost.com",
-   "category": "health",
-   "published": "2026-07-26T16:00:00+00:00"
-  },
-  {
-   "title": "Elon Musk Just Revealed a Quiet Win for Tesla\u2019s AI Ambitions",
-   "url": "https://www.barchart.com/story/news/3469613/elon-musk-just-revealed-a-quiet-win-for-teslas-ai-ambitions",
-   "source": "Barchart.com",
-   "category": "ai",
-   "published": "2026-07-26T15:00:02+00:00"
-  },
-  {
-   "title": "SpaceX Starship Path to One Month. One Week, One Day and Hours to Reuse",
-   "url": "https://www.nextbigfuture.com/2026/07/spacex-starship-path-to-one-month-one-week-one-day-and-hours-to-reuse.html",
-   "source": "Next Big Future",
-   "category": "robotics",
-   "published": "2026-07-26T14:44:37+00:00"
-  },
-  {
-   "title": "Show HN: Vitrin OS \u2013 An agent-first display server with per-app isolation",
-   "url": "https://github.com/vitrin-os/vitrin-os",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-26T14:41:24+00:00"
-  },
-  {
-   "title": "Show HN: OpenSmith \u2013 Trace LLM pipelines locally with trace, no cloud",
-   "url": "https://github.com/shivnathtathe/opensmith",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-26T14:36:47+00:00"
-  },
-  {
-   "title": "SpaceX Starship Heat Shield Analysis and Flight 14 Engine Relight Software Upgrades",
-   "url": "https://www.nextbigfuture.com/2026/07/spacex-starship-heat-shield-analysis.html",
-   "source": "Next Big Future",
-   "category": "robotics",
-   "published": "2026-07-26T14:28:20+00:00"
-  },
-  {
-   "title": "Hallmark \u2013 Anti-AI-Slop Design Skill for Claude Code, Cursor, and Codex",
-   "url": "https://github.com/Nutlope/hallmark",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-26T14:25:17+00:00"
-  },
-  {
-   "title": "South Korea chipmakers to supply US firms in $950 billion deals",
-   "url": "https://biztoc.com/x/b6810468d1f6de7c",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-26T14:13:05+00:00"
-  },
-  {
-   "title": "Intel is reversing course and bringing hyper-threading back to its server chips",
-   "url": "https://www.techspot.com/news/113239-intel-reversing-course-bringing-hyper-threading-back-server.html",
-   "source": "TechSpot",
-   "category": "compute",
-   "published": "2026-07-26T14:11:00+00:00"
   }
  ]
 }
