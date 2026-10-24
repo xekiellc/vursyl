@@ -1,6 +1,118 @@
 {
- "updated": "2026-10-24T10:37:38.288149+00:00",
+ "updated": "2026-10-24T15:40:14.740738+00:00",
  "items": [
+  {
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-23T17:00:00+00:00"
+  },
+  {
+   "title": "Micron's next-generation 3D NAND to double bit density with over 400 layers, offering extreme performance",
+   "url": "https://www.tomshardware.com/pc-components/ssds/microns-next-generation-3d-nand-to-double-bit-density-with-over-400-layers-offering-extreme-performance-g11-3d-nand-promises-42-gb-mm2-and-5-400-mt-s-interface-speed",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-10-23T15:32:05+00:00"
+  },
+  {
+   "title": "8 LLM visibility tools to track your brand across answer engines",
+   "url": "https://blog.hubspot.com/marketing/llm-visibility-tools",
+   "source": "Hubspot.com",
+   "category": "ai",
+   "published": "2026-10-23T15:30:04+00:00"
+  },
+  {
+   "title": "Solidigm confirms plans to build a fab in the US, abandons IPO plans",
+   "url": "https://www.tomshardware.com/pc-components/ssds/solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ipo-plans-unfavorable-stock-market-conditions-and-semiconductor-share-price-trends-reasons-given",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-10-23T15:21:16+00:00"
+  },
+  {
+   "title": "AI Giant Nvidia Invests in Entertainment Startup Higgsfield",
+   "url": "https://variety.com/2026/biz/news/nvidia-tcv-invest-generative-ai-startup-higgsfield-1236929624/",
+   "source": "Variety",
+   "category": "ai",
+   "published": "2026-10-23T15:18:11+00:00"
+  },
+  {
+   "title": "Energy Department Designates Helium as Critical Material to Strengthen American Manufacturing and Supply Chain Security",
+   "url": "https://www.energy.gov/articles/energy-department-designates-helium-critical-material-strengthen-american-manufacturing",
+   "source": "Energy.gov",
+   "category": "compute",
+   "published": "2026-10-23T15:11:00+00:00"
+  },
+  {
+   "title": "Free LLM APIs in 2026: Gemini, Mistral, Cerebras, Cloudflare, GitHub Models - Real Limits?",
+   "url": "https://towardsdev.com/free-llm-apis-in-2026-gemini-mistral-cerebras-cloudflare-github-models-real-limits-903ddafbe33a",
+   "source": "Towardsdev.com",
+   "category": "ai",
+   "published": "2026-10-23T15:00:00+00:00"
+  },
+  {
+   "title": "Fog Computing Market to Reach USD 8.27 Billion by 2035 as Industrial AI Moves to Local Nodes, Credence Research Finds",
+   "url": "https://www.prnewswire.com/news-releases/fog-computing-market-to-reach-usd-8-27-billion-by-2035-as-industrial-ai-moves-to-local-nodes-credence-research-finds-302918163.html",
+   "source": "PRNewswire",
+   "category": "compute",
+   "published": "2026-10-23T15:00:00+00:00"
+  },
+  {
+   "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+   "url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+   "source": "Nvidia.com",
+   "category": "robotics",
+   "published": "2026-10-23T14:58:36+00:00"
+  },
+  {
+   "title": "City-based CureBay raises Rs 100cr to expand rural healthcare network",
+   "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/city-based-curebay-raises-rs-100cr-to-expand-rural-healthcare-network/articleshow/135148868.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-10-23T14:37:53+00:00"
+  },
+  {
+   "title": "Next-generation Sequencing Services Market worth $9.37 billion by 2031 - Exclusive Report by MarketsandMarkets\u2122",
+   "url": "https://www.prnewswire.co.uk/news-releases/next-generation-sequencing-services-market-worth-9-37-billion-by-2031---exclusive-report-by-marketsandmarkets-302917996.html",
+   "source": "PR Newswire UK",
+   "category": "health",
+   "published": "2026-10-23T14:01:00+00:00"
+  },
+  {
+   "title": "The applications of artificial intelligence in liver transplantation: A comprehensive scoping review",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361120",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-10-23T14:00:00+00:00"
+  },
+  {
+   "title": "Healthcare Data Center Market to Reach USD 37.11 Billion by 2035 as AI Genomics, EHR Resilience and Hosted Capacity Reshape Healthcare Infrastructure - DC Market Insights",
+   "url": "https://www.prnewswire.co.uk/news-releases/healthcare-data-center-market-to-reach-usd-37-11-billion-by-2035-as-ai-genomics-ehr-resilience-and-hosted-capacity-reshape-healthcare-infrastructure---dc-market-insights-302918129.html",
+   "source": "PR Newswire UK",
+   "category": "compute",
+   "published": "2026-10-23T14:00:00+00:00"
+  },
+  {
+   "title": "Decoding motor imagery EEG signals by a deep learning network integrating multiscale filtering and temporal-channel attention mechanisms",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361026",
+   "source": "Plos.org",
+   "category": "ai",
+   "published": "2026-10-23T14:00:00+00:00"
+  },
+  {
+   "title": "How AI is changing the training of doctors",
+   "url": "https://www.rte.ie/news/a-european-perspective/2026/1023/1596627-artificial-intelligence-doctors/",
+   "source": "RTE",
+   "category": "health",
+   "published": "2026-10-23T13:38:24+00:00"
+  },
+  {
+   "title": "We're a Step Closer to Quantum Computers That Can Correct Their Own Mistakes",
+   "url": "https://www.sciencealert.com/were-a-step-closer-to-quantum-computers-that-can-correct-their-own-mistakes",
+   "source": "ScienceAlert",
+   "category": "quantum",
+   "published": "2026-10-23T11:00:00+00:00"
+  },
   {
    "title": "Show HN: Arc Decide RAG and conversation insights under 1gb",
    "url": "https://huggingface.co/Arc53/arc-decide-0.4b-v0.2",
@@ -72,20 +184,6 @@
    "published": "2026-10-23T08:03:07+00:00"
   },
   {
-   "title": "Pudu Robotics' PUDU BG1 Series Wins Two ISSA Awards, Reinforcing Global Leadership in Commercial Cleaning Robotics",
-   "url": "https://en.antaranews.com/news/437419/pudu-robotics-pudu-bg1-series-wins-two-issa-awards-reinforcing-global-leadership-in-commercial-cleaning-robotics",
-   "source": "Antaranews.com",
-   "category": "robotics",
-   "published": "2026-10-23T05:55:30+00:00"
-  },
-  {
-   "title": "FCC grants Intel waiver for foreign-made robotic devices",
-   "url": "https://economictimes.indiatimes.com/tech/technology/fcc-grants-intel-waiver-for-foreign-made-robotic-devices/articleshow/135134812.cms",
-   "source": "The Times of India",
-   "category": "robotics",
-   "published": "2026-10-23T04:55:31+00:00"
-  },
-  {
    "title": "Q&A: How AI came to model the \u201cmessy\u201d human mind",
    "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
    "source": "MIT News AI",
@@ -128,6 +226,13 @@
    "published": "2026-10-23T03:00:34+00:00"
   },
   {
+   "title": "Kazakhstan Expands Compute for Its AI Future",
+   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-23T02:00:13+00:00"
+  },
+  {
    "title": "Harbour BioMed Receives China NMPA Approval of Batoclimab Injection (Subcutaneous Injection) for the Treatment of Generalized Myasthenia Gravis",
    "url": "https://www.prnewswire.com/news-releases/harbour-biomed-receives-china-nmpa-approval-of-batoclimab-injection-subcutaneous-injection-for-the-treatment-of-generalized-myasthenia-gravis-302917545.html",
    "source": "PRNewswire",
@@ -135,11 +240,12 @@
    "published": "2026-10-23T00:02:00+00:00"
   },
   {
-   "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
-   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-23T00:00:00+00:00"
+   "title": "Beating the break-even point with autonomous quantum error correction",
+   "url": "https://www.nature.com/articles/s41567-026-03486-y",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-10-23T00:00:00+00:00",
+   "breakthrough": true
   },
   {
    "title": "Identification of candidate markers for the isolation of neuron-specific extracellular vesicles",
@@ -161,6 +267,13 @@
    "source": "Newser",
    "category": "health",
    "published": "2026-10-22T23:21:00+00:00"
+  },
+  {
+   "title": "Nvidia breaches new quantum computing milestone, using 90% fewer qubits \u2014 and it could now improve drug discovery, financial modeling and more",
+   "url": "https://www.techradar.com/pro/nvidia-breaches-new-quantum-computing-milestone-using-90-fewer-qubits-and-it-could-now-improve-drug-discovery-financial-modeling-and-more",
+   "source": "TechRadar",
+   "category": "quantum",
+   "published": "2026-10-22T22:35:00+00:00"
   },
   {
    "title": "Tampa General Hospital Recognized Among World's Best Smart Hospitals for 2027 by Newsweek",
@@ -219,13 +332,6 @@
    "published": "2026-10-22T20:52:25+00:00"
   },
   {
-   "title": "This design software reimagines everyday objects as self-aware devices",
-   "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
-   "source": "Mit.edu",
-   "category": "ai",
-   "published": "2026-10-22T20:45:00+00:00"
-  },
-  {
    "title": "Canva Releases Its First AI Model for Images",
    "url": "https://www.thurrott.com/a-i/343158/canva-releases-its-first-ai-model-for-images",
    "source": "Thurrott.com",
@@ -259,13 +365,6 @@
    "source": "Next Big Future",
    "category": "robotics",
    "published": "2026-10-22T20:04:45+00:00"
-  },
-  {
-   "title": "Build more responsive apps with the Decisions API",
-   "url": "https://openai.com/index/decisions-api",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-22T19:00:00+00:00"
   },
   {
    "title": "BioStack Raises $9.5M to Turn Global Hospital Data into Multimodal Training Datasets for Medical AI",
@@ -415,13 +514,6 @@
    "published": "2026-10-22T16:24:00+00:00"
   },
   {
-   "title": "Flint-interactive: A language for creating interactive data visualizations",
-   "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-10-22T16:00:00+00:00"
-  },
-  {
    "title": "Lyric Health Introduces Grace, a Multimodal AI Intelligence Layer Across its Virtual Care Operating System",
    "url": "https://www.prnewswire.com/news-releases/lyric-health-introduces-grace-a-multimodal-ai-intelligence-layer-across-its-virtual-care-operating-system-302917176.html",
    "source": "PRNewswire",
@@ -436,6 +528,13 @@
    "published": "2026-10-22T15:38:43+00:00"
   },
   {
+   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-22T15:00:02+00:00"
+  },
+  {
    "title": "Phylo's Biomni Lab to expand the use of AI agents in scientific research at Bayer",
    "url": "https://www.prnewswire.com/news-releases/phylos-biomni-lab-to-expand-the-use-of-ai-agents-in-scientific-research-at-bayer-302917080.html",
    "source": "PRNewswire",
@@ -448,6 +547,13 @@
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-10-22T15:00:00+00:00"
+  },
+  {
+   "title": "Beyond tree cover: mapping the world\u2019s forest types",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-10-22T14:30:24+00:00"
   },
   {
    "title": "FDA Official Believes GenAI-Enabled Tools Will Need To Be Assessed Like A Physician",
@@ -476,6 +582,13 @@
    "source": "Plos.org",
    "category": "health",
    "published": "2026-10-22T14:00:00+00:00"
+  },
+  {
+   "title": "Cloud Deployment Incoming: \u2018Call of Duty: Modern Warfare 4\u2019 Arrives on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-10-22T13:00:20+00:00"
   },
   {
    "title": "Nebius lands $3.5 billion credit facility from Citi to fuel AI build-out",
@@ -623,41 +736,6 @@
    "source": "Biztoc.com",
    "category": "robotics",
    "published": "2026-10-22T06:32:15+00:00"
-  },
-  {
-   "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
-   "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-22T05:00:56+00:00"
-  },
-  {
-   "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-22T05:00:27+00:00"
-  },
-  {
-   "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-   "url": "https://blogs.nvidia.com/blog/dsx-power/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-22T05:00:25+00:00"
-  },
-  {
-   "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-   "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-22T05:00:23+00:00"
-  },
-  {
-   "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
-   "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-22T05:00:19+00:00"
   },
   {
    "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
@@ -884,6 +962,13 @@
    "published": "2026-10-22T01:14:28+00:00"
   },
   {
+   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-22T00:00:00+00:00"
+  },
+  {
    "title": "'Low-Oxygen' Drug Combination Reverses Parkinson's Symptoms in Mice",
    "url": "https://www.sciencealert.com/low-oxygen-drug-combination-reverses-parkinsons-symptoms-in-mice",
    "source": "ScienceAlert",
@@ -1052,13 +1137,6 @@
    "published": "2026-10-21T17:15:00+00:00"
   },
   {
-   "title": "How AT&T is rethinking in-house legal work with OpenAI",
-   "url": "https://openai.com/index/att-legal",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-21T17:00:00+00:00"
-  },
-  {
    "title": "Using AI to fight election misinformation works",
    "url": "https://www.futurity.org/ai-election-misinformation-3349362/",
    "source": "Futurity: Research News",
@@ -1134,13 +1212,6 @@
    "source": "Storagereview.com",
    "category": "compute",
    "published": "2026-10-21T16:16:56+00:00"
-  },
-  {
-   "title": "Solving a 31-year-old grand challenge in mathematics \u2013 the KLS conjecture",
-   "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-   "source": "Microsoft Research",
-   "category": "breakthroughs",
-   "published": "2026-10-21T16:00:00+00:00"
   },
   {
    "title": "Mapmygenome completes acquisition of dnaPower Inc.",
@@ -34930,76 +35001,6 @@
    "source": "Nature.com",
    "category": "health",
    "published": "2026-07-28T00:00:00+00:00"
-  },
-  {
-   "title": "AI proteomics: from protein identification to virtual cells",
-   "url": "https://www.nature.com/articles/s41592-026-03085-y",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-07-28T00:00:00+00:00"
-  },
-  {
-   "title": "The quantum technologies that will transform enterprise IT",
-   "url": "https://www.techtarget.com/searchenterpriseai/tip/The-quantum-technologies-that-will-transform-enterprise-IT",
-   "source": "Techtarget.com",
-   "category": "quantum",
-   "published": "2026-07-27T23:03:00+00:00"
-  },
-  {
-   "title": "Microsoft unveils AI cybersecurity system with OpenAI and Anthropic models",
-   "url": "https://cryptobriefing.com/microsoft-project-perception-ai-cybersecurity/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-07-27T19:38:07+00:00"
-  },
-  {
-   "title": "AMD says the MI430X is the fastest FP64 GPU ever built, but you can't buy one until 2027",
-   "url": "https://www.techradar.com/pro/amd-says-the-mi430x-is-the-fastest-fp64-gpu-ever-built-but-you-cant-buy-one-until-2027",
-   "source": "TechRadar",
-   "category": "compute",
-   "published": "2026-07-27T19:35:00+00:00"
-  },
-  {
-   "title": "Microsoft Unveils A.I. Cybersecurity Tools - The New York Times",
-   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184725744",
-   "source": "Slashdot.org",
-   "category": "ai",
-   "published": "2026-07-27T19:32:46+00:00"
-  },
-  {
-   "title": "DIAGNOS Receives Health Canada Medical Device Licence for CARA System, Bringing AI-Assisted Retinal Image Analysis to Canadian Optometrists",
-   "url": "https://financialpost.com/globe-newswire/diagnos-receives-health-canada-medical-device-licence-for-cara-system-bringing-ai-assisted-retinal-image-analysis-to-canadian-optometrists",
-   "source": "Financial Post",
-   "category": "health",
-   "published": "2026-07-27T19:24:27+00:00"
-  },
-  {
-   "title": "Microsoft unveils MAI-Cyber-1-Flash, promises cybersecurity AI at half the cost",
-   "url": "https://www.helpnetsecurity.com/2026/07/27/microsoft-mai-cyber-1-flash-ai-model/",
-   "source": "Help Net Security",
-   "category": "ai",
-   "published": "2026-07-27T19:23:07+00:00"
-  },
-  {
-   "title": "Orange, Morrison plan French data centre venture to meet AI demand",
-   "url": "https://economictimes.indiatimes.com/tech/technology/orange-morrison-plan-french-data-centre-venture-to-meet-ai-demand/articleshow/132670113.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-07-27T19:20:17+00:00"
-  },
-  {
-   "title": "Nvidia to invest $5-billion in Ilya Sutskever\u2019s AI research startup",
-   "url": "https://biztoc.com/x/155f0abefe13e5b7",
-   "source": "Biztoc.com",
-   "category": "breakthroughs",
-   "published": "2026-07-27T19:13:19+00:00"
-  },
-  {
-   "title": "Microsoft\u2019s MDASH outperforms Claude Mythos, GPT-5.6 in cybersecurity test",
-   "url": "https://cryptobriefing.com/microsoft-mdash-outperforms-cybersecurity-test/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-07-27T19:08:58+00:00"
   }
  ]
 }
