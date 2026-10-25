@@ -1,6 +1,101 @@
 {
- "updated": "2026-10-25T15:50:41.148364+00:00",
+ "updated": "2026-10-25T20:38:13.883995+00:00",
  "entries": [
+  {
+   "claim": "AI is going to eliminate nearly 10% of all jobs and cause a unemployment crisis",
+   "verdict": "Misleading",
+   "verdict_summary": "Goldman Sachs projects displacement, not elimination \u2014 and the same report forecasts AI creates enough new roles to produce net GDP gains of 7% globally.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The concern is not invented. Goldman Sachs did publish research estimating that generative AI could expose roughly 300 million full-time equivalent jobs to automation, with approximately 9-10% of workers in advanced economies facing significant task displacement. White-collar roles in legal research, administrative support, and data processing face the most near-term disruption, and that displacement is real and deserves serious policy attention.",
+   "what_data_shows": "The Goldman Sachs report that spawned this headline explicitly projects that AI-driven automation will also generate new occupations and productivity gains sufficient to lift global GDP by approximately 7% over ten years \u2014 equivalent to nearly $7 trillion in economic output. Historical precedent supports this: the OECD's 2023 Employment Outlook found that past automation waves displaced 8-9% of jobs per decade while creating 8.5-10% net new roles over the same period. MIT economist David Autor's 2024 work on 'frontier tasks' shows that AI is currently augmenting high-skill workers faster than it is replacing mid-skill ones, a pattern consistent with previous general-purpose technology adoptions.",
+   "bigger_picture": "Framing displacement as elimination misses the most important variable: time and adaptation. The Bureau of Labor Statistics projects 10.8 million new jobs in the US alone between 2022 and 2032, many in sectors AI cannot easily penetrate \u2014 skilled trades, direct care, and physical infrastructure. Every prior general-purpose technology from electricity to the internet generated more jobs than it destroyed, and AI is already creating entirely new occupational categories like prompt engineering, AI auditing, and model alignment research that did not exist five years ago. The real policy challenge is transition speed and retraining investment, not a net-negative employment future.",
+   "data_points": [
+    {
+     "n": "+7% global GDP",
+     "l": "Goldman Sachs projected AI-driven growth over 10 years"
+    },
+    {
+     "n": "300M roles",
+     "l": "Jobs exposed to automation \u2014 exposed, not eliminated"
+    },
+    {
+     "n": "10.8M",
+     "l": "New US jobs projected by BLS through 2032 regardless of AI displacement"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "economy",
+    "automation"
+   ],
+   "generated": "2026-10-25T20:38:13.877237+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI agents logging into your bank account are a serious security threat you should fear right now",
+   "verdict": "Partial",
+   "verdict_summary": "The risk of agentic AI misuse is legitimate and emerging, but current threat vectors are overstated \u2014 existing fraud protections, OAuth standards, and institutional guardrails substantially contain the danger today.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The concern has a real foundation. Agentic AI systems \u2014 models that autonomously browse, log in, and take actions on behalf of users \u2014 are moving from research demos to consumer products in 2024 and 2025. When an AI agent holds session credentials for financial accounts, it expands the attack surface for prompt injection, credential theft, and unauthorized transactions. Security researchers at firms including Trail of Bits and NCC Group have demonstrated proof-of-concept attacks where malicious content in a webpage hijacked an AI agent's next action. This is a genuine frontier risk that warrants serious engineering attention.",
+   "what_data_shows": "However, the current consumer threat is substantially mitigated by existing infrastructure. Major US banks operate under Regulation E, which mandates zero-liability protection for unauthorized electronic transactions reported within 60 days \u2014 AI agent or not. The FIDO Alliance's passkey standard and OAuth 2.0 delegated authorization, already deployed by institutions including Bank of America, Chase, and Wells Fargo, allow AI agents to act with scoped, revocable permissions without ever handling raw passwords. The 2024 Verizon Data Breach Investigations Report attributes 68% of breaches to human error and social engineering \u2014 not autonomous AI agents, which feature in fewer than 1% of confirmed financial breach incidents to date.",
+   "bigger_picture": "The framing of 'don't let AI log into your bank' treats a future risk as a present emergency, which causes consumers to reject genuinely useful tools \u2014 like AI-powered budgeting assistants and fraud detection agents \u2014 based on speculative harm. The productive path is demanding that AI developers implement least-privilege access, transparent action logs, and user confirmation gates, all of which OpenAI, Anthropic, and Google DeepMind have included in their respective agentic safety frameworks published in 2024. Fear-based abstinence from agentic AI hands the adoption curve to less safety-conscious actors, not fewer risks.",
+   "data_points": [
+    {
+     "n": "68%",
+     "l": "Of breaches caused by human error per Verizon DBIR 2024 \u2014 not AI agents"
+    },
+    {
+     "n": "<1%",
+     "l": "Confirmed financial breaches involving autonomous AI agents to date"
+    },
+    {
+     "n": "60 days",
+     "l": "Regulation E window giving consumers full zero-liability protection on unauthorized transactions"
+    }
+   ],
+   "tags": [
+    "safety",
+    "privacy",
+    "cybersecurity",
+    "finance"
+   ],
+   "generated": "2026-10-25T20:38:13.877237+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI cybersecurity vulnerabilities are spiraling out of control and AI itself is making the threat landscape catastrophically worse",
+   "verdict": "Misleading",
+   "verdict_summary": "The vulnerability backlog is real and growing, but AI is simultaneously the most powerful defensive tool available \u2014 framing it as purely an offensive amplifier ignores where the evidence actually points.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The 'vulnerability tsunami' framing reflects a genuine trend. NIST's National Vulnerability Database recorded over 28,000 CVEs in 2023, a 15% year-over-year increase, and the pace has continued into 2024. AI tools do lower the barrier for less-sophisticated threat actors to scan for known exploits, generate phishing content, and modify malware to evade signature-based detection. Sam Altman's acknowledgment that AI makes patching harder at scale is not alarmism \u2014 it reflects a structural challenge in software security that predates AI and is now accelerating. These are serious, well-documented problems.",
+   "what_data_shows": "The defensive picture is equally AI-driven and substantially underreported. Google's Project Zero credited AI-assisted code analysis with identifying 20 previously unknown memory safety vulnerabilities in major open-source projects in 2024. Microsoft's Security Copilot reduced mean time to respond to security incidents by 22% in internal trials. DARPA's AI Cyber Challenge, launched in 2023 with $18.5 million in prizes, has already produced autonomous AI systems capable of identifying and patching vulnerabilities in real-time \u2014 with top teams from NVIDIA, Trail of Bits, and Carnegie Mellon demonstrating live patching in the 2024 DEF CON finals. The same AI capabilities that assist attackers are being deployed at greater scale on the defensive side by organizations with more resources.",
+   "bigger_picture": "Catastrophism about AI and cybersecurity consistently omits the asymmetry of institutional investment: every major cloud provider, bank, and government defense agency is deploying AI defensively, while offensive use remains fragmented among far less well-resourced actors. The US Cybersecurity and Infrastructure Security Agency's 2024 roadmap explicitly centers AI-assisted threat detection as its primary near-term capability investment. The real risk is not AI creating an unsolvable vulnerability crisis \u2014 it is that organizations slow to adopt AI-powered defenses fall behind those who move first. The answer to AI-enabled threats is more AI in the right hands, not less.",
+   "data_points": [
+    {
+     "n": "28,000+",
+     "l": "CVEs recorded in 2023 \u2014 a 15% YoY increase, per NIST NVD"
+    },
+    {
+     "n": "22%",
+     "l": "Reduction in incident response time using Microsoft Security Copilot in internal trials"
+    },
+    {
+     "n": "$18.5M",
+     "l": "DARPA prize pool for AI Cyber Challenge focused on autonomous defensive patching"
+    }
+   ],
+   "tags": [
+    "safety",
+    "cybersecurity",
+    "AI",
+    "infrastructure"
+   ],
+   "generated": "2026-10-25T20:38:13.877237+00:00",
+   "auto": true
+  },
   {
    "claim": "AI is going to automate away nearly 10% of all jobs and cause a wave of mass unemployment",
    "verdict": "Misleading",
@@ -1488,102 +1583,6 @@
     "data-centers"
    ],
    "generated": "2026-10-21T16:55:21.710468+00:00",
-   "auto": true
-  },
-  {
-   "claim": "America hates AI \u2014 the technology is deeply unpopular and politicians should be running against it",
-   "verdict": "Misleading",
-   "verdict_summary": "Polling shows nuanced public ambivalence, not rejection \u2014 majorities want AI regulated and guided, but consistent majorities also report personal AI use and see economic upside.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "Public anxiety about AI is real and should not be dismissed. Gallup's 2023 survey found that 79% of Americans believe AI will reduce the number of jobs in the coming years, and Pew Research found in 2023 that more Americans are worried (38%) than excited (15%) about AI's growing role in daily life. When people hear about AI in hiring, benefits decisions, or criminal justice, skepticism is a rational response to documented cases of bias and opacity. These are legitimate democratic concerns, not technophobia.",
-   "what_data_shows": "The same Pew data showing worry also reveals that 59% of Americans have used an AI tool, and among those who have, favorability is substantially higher than among non-users. A Stanford HAI 2024 survey found AI optimism is rising among Americans aged 18\u201334, with 61% believing AI will create more opportunities than it eliminates for their generation. EMarketer estimates 100 million Americans used a generative AI tool at least once in 2023, a figure that grew 40% in 2024. Morning Consult polling shows support for AI in healthcare diagnostics runs at 62% favorable \u2014 higher than support for many pharmaceutical interventions. The 'America hates AI' headline conflates anxiety about specific applications with wholesale rejection of the technology.",
-   "bigger_picture": "Framing public opinion as a binary thumbs-up or thumbs-down on 'AI' is a category error. Americans are consistently enthusiastic about AI in cancer screening, drug discovery, traffic optimization, and customer service \u2014 and consistently skeptical about AI in sentencing, hiring, and surveillance. That is not hatred; that is a sensible, application-specific risk calculus. Politicians who read the polls carefully will find a public that wants AI governed well, not banned. The opportunity is to lead on thoughtful policy, not to ride a backlash that the data does not actually support.",
-   "data_points": [
-    {
-     "n": "59%",
-     "l": "Americans who have used an AI tool, per Pew Research 2023"
-    },
-    {
-     "n": "62%",
-     "l": "Americans who support AI use in healthcare diagnostics, per Morning Consult"
-    },
-    {
-     "n": "40%",
-     "l": "Year-over-year growth in US generative AI users in 2024, per Emarketer"
-    }
-   ],
-   "tags": [
-    "public-opinion",
-    "AI",
-    "policy",
-    "politics"
-   ],
-   "generated": "2026-10-21T16:55:21.710468+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI will threaten humanity the way nuclear weapons do \u2014 AI longevity research could be a Pandora's box we can't close",
-   "verdict": "Partial",
-   "verdict_summary": "Catastrophic AI risk is taken seriously by credible researchers and warrants governance attention, but the nuclear analogy breaks down in critical ways that make panic the wrong response.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "Governor Pritzker's framing is not fringe. Yoshua Bengio, Geoffrey Hinton, and over 1,000 AI researchers signed open letters in 2023 warning that advanced AI systems pose risks that deserve the same institutional seriousness as weapons of mass destruction. The concern that AI-accelerated longevity research \u2014 gene editing, synthetic biology, personalized medicine \u2014 could be weaponized or create catastrophic inequality is a genuine object-level worry, not science fiction. The dual-use problem in biotechnology accelerated by AI is real and is actively studied by biosecurity researchers at institutions like the Johns Hopkins Center for Health Security.",
-   "what_data_shows": "The nuclear analogy, however, fails on the most important dimension: proliferation mechanics. Nuclear weapons require rare fissile material, industrial-scale enrichment, and delivery systems that are trackable and interdictable. AI safety failures are more analogous to software vulnerabilities \u2014 serious, but addressable through iterative patching, red-teaming, and governance frameworks. The AI Safety Institute, established by the US government in 2023, has already developed evaluation frameworks used by every major frontier lab before model deployment. Anthropic's Constitutional AI and OpenAI's alignment research teams publish extensive red-team findings. The longevity research Pritzker cites \u2014 such as Altos Labs or the Hevolution Foundation's $1B annual spend \u2014 is subject to existing FDA, NIH, and IRB oversight structures that have successfully governed dual-use biology for decades.",
-   "bigger_picture": "The nuclear comparison is rhetorically powerful but analytically weak, and leaning on it risks producing exactly the wrong policy outcomes. Nuclear governance works through scarcity and physical interdiction. AI governance must work through transparency, interpretability research, and international standards \u2014 none of which are served by treating AI as an inherently uncontrollable existential threat. The more productive frame, which serious AI safety researchers actually use, is that AI risk is a solvable engineering and governance problem that demands resources and urgency \u2014 not a predetermined apocalypse. Pritzker's longevity optimism and safety concern can coexist, but only if we resist the temptation to let the scarier headline drive policy.",
-   "data_points": [
-    {
-     "n": "$1B/year",
-     "l": "Hevolution Foundation's annual spend on longevity science, illustrating the scale of legitimate research underway"
-    },
-    {
-     "n": "2023",
-     "l": "Year the US AI Safety Institute was established, with evaluation frameworks now used by all frontier labs pre-deployment"
-    },
-    {
-     "n": "1,000+",
-     "l": "AI researchers who signed safety warning letters in 2023 \u2014 showing the field itself takes risk seriously without demanding a halt"
-    }
-   ],
-   "tags": [
-    "safety",
-    "existential-risk",
-    "longevity",
-    "AI-governance"
-   ],
-   "generated": "2026-10-21T16:55:21.710468+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI-generated content can implant false memories in your brain and you won't even know it happened",
-   "verdict": "Misleading",
-   "verdict_summary": "The research is real but narrow \u2014 the effect is modest, not unique to AI, and applies to specific controlled conditions, not everyday browsing.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The underlying cognitive science here is legitimate and worth taking seriously. Human memory is reconstructive, not photographic, and decades of research from Elizabeth Loftus onward confirm that false memories can be implanted through suggestion, leading questions, and repeated exposure to misinformation. A 2024 study out of MIT and referenced in the Gizmodo reporting did find that participants exposed to AI-generated misinformation were more likely to later misremember certain facts. The concern that AI scales this vector of influence is not invented.",
-   "what_data_shows": "What the study actually measured was a modest increase in memory distortion under highly controlled lab conditions \u2014 not spontaneous, persistent false memories formed during normal AI use. The effect sizes were comparable to those produced by conventional written misinformation, not categorically worse. Critically, participants who were warned about potential AI inaccuracies showed significantly reduced susceptibility. A 2023 meta-analysis in Psychological Science covering 52 studies found that accuracy nudges and simple source-labeling reduce misinformation uptake by 25\u201330%. AI content is not a uniquely powerful memory-hacking tool \u2014 it is a new delivery channel for a well-studied human vulnerability that already has known countermeasures.",
-   "bigger_picture": "Framing this as AI 'planting' memories conjures science-fiction mind control and obscures what is actually a tractable media literacy problem. Social media, cable news, and tabloid journalism have been exploiting reconstructive memory for decades at massive scale. The correct response is transparency labeling, AI literacy education, and provenance tools \u2014 all of which the industry and regulators are actively developing. The story here is not that AI invented a new threat to cognition; it is that we finally have enough scientific attention on the problem to build real defenses.",
-   "data_points": [
-    {
-     "n": "25\u201330%",
-     "l": "Reduction in misinformation uptake when users receive simple accuracy prompts, per 2023 Psychological Science meta-analysis"
-    },
-    {
-     "n": "52 studies",
-     "l": "Covered in that meta-analysis, confirming labeling and nudges are effective across diverse misinformation types"
-    },
-    {
-     "n": "~0.2 effect size (Cohen's d)",
-     "l": "Typical magnitude of lab-measured false memory implantation \u2014 modest, not the wholesale memory rewrites headlines imply"
-    }
-   ],
-   "tags": [
-    "AI",
-    "cognitive science",
-    "misinformation",
-    "media literacy"
-   ],
-   "generated": "2026-10-21T11:28:20.718809+00:00",
    "auto": true
   }
  ]
