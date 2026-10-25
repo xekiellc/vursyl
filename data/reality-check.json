@@ -1,6 +1,99 @@
 {
- "updated": "2026-10-25T03:59:11.213486+00:00",
+ "updated": "2026-10-25T11:02:03.077295+00:00",
  "entries": [
+  {
+   "claim": "Data centers are causing my utility bills to spike \u2014 they're draining the grid and costing everyday Americans real money",
+   "verdict": "Misleading",
+   "verdict_summary": "Data center energy use is real and growing, but it is not the primary driver of residential utility cost increases for most Americans.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "The concern is not invented. U.S. data center electricity consumption is projected to roughly double by 2030, from approximately 200 TWh annually to as much as 400 TWh, according to the Lawrence Berkeley National Laboratory. Some regional grids \u2014 particularly in Northern Virginia, which hosts the world's largest concentration of data centers \u2014 are genuinely experiencing capacity pressure. Utility commissions in several states have flagged hyperscaler load growth as a planning challenge, and it is reasonable for ratepayers to ask who bears the cost of grid upgrades required to serve large commercial customers.",
+   "what_data_shows": "The EIA attributes the majority of recent residential electricity bill increases to fuel costs, transmission infrastructure aging, and post-pandemic demand recovery \u2014 not data center load. Natural gas price volatility alone accounted for an estimated 30\u201340% of the utility bill increases Americans experienced in 2022\u20132023. Data centers currently represent roughly 4% of total U.S. electricity consumption. Furthermore, major hyperscalers including Google, Microsoft, and Amazon have signed long-term Power Purchase Agreements for renewable energy that in many cases directly fund new generation capacity, adding supply to regional grids rather than simply drawing from existing residential allocations.",
+   "bigger_picture": "The framing that data centers are picking pockets at the meter misses the structural reality: the same AI infrastructure driving demand is also accelerating grid modernization investment, funding utility-scale solar and storage deployments, and generating the tax base that subsidizes local rate structures. The Rocky Mountain Institute estimates that well-sited data centers can actually stabilize regional grids by providing flexible, dispatchable load that balances intermittent renewables. The real policy conversation worth having is about equitable cost allocation for grid upgrades \u2014 but that conversation is obscured, not advanced, by treating data centers as a villain in your electric bill.",
+   "data_points": [
+    {
+     "n": "~4%",
+     "l": "Share of total U.S. electricity consumption attributed to data centers today"
+    },
+    {
+     "n": "30\u201340%",
+     "l": "Estimated share of 2022\u20132023 bill increases driven by natural gas price volatility alone"
+    },
+    {
+     "n": "$100B+",
+     "l": "Hyperscaler commitments to renewable energy PPAs globally through 2030, adding new grid supply"
+    }
+   ],
+   "tags": [
+    "energy",
+    "data-centers",
+    "utilities"
+   ],
+   "generated": "2026-10-25T11:02:03.069552+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Goldman Sachs says AI will eliminate nearly 10% of jobs \u2014 mass unemployment is coming",
+   "verdict": "Misleading",
+   "verdict_summary": "The Goldman report projects job displacement exposure, not net job destruction \u2014 a critical distinction the headline buries entirely.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The Goldman Sachs research note that generated this headline is a legitimate piece of economic analysis, not fearmongering. The researchers estimated that generative AI could expose approximately 300 million full-time equivalent jobs globally to automation-related disruption, with white-collar and administrative roles carrying higher exposure than manual trades. This is a real structural shift. Displacement \u2014 even temporary, even partial \u2014 causes genuine harm to individuals, families, and communities, and the concern deserves serious policy attention rather than dismissal.",
+   "what_data_shows": "The same Goldman Sachs report that spawned the '10% layoffs' headline explicitly projected that AI would also create significant new employment categories and raise global GDP by approximately 7% over ten years \u2014 a figure the viral summary omitted entirely. The historical record on automation-driven displacement is instructive: the OECD's 2023 Employment Outlook found that previous waves of automation \u2014 including ATMs, word processors, and industrial robotics \u2014 ultimately increased net employment in affected economies within a decade. McKinsey Global Institute data shows that for every job category where AI demonstrates high automation potential, adjacent roles requiring judgment, coordination, and novel problem-solving have grown faster. The Bureau of Labor Statistics already tracks 'AI and machine learning specialist' as one of the fastest-growing occupational categories in its current projections.",
+   "bigger_picture": "The '10% unemployment' frame treats displacement exposure as a final outcome rather than a transition signal. Every major technology adoption cycle has produced headlines predicting permanent labor surplus \u2014 the loom, the tractor, the spreadsheet, the internet. None delivered net destruction. What they delivered was painful, real, unequally distributed disruption that ultimately resolved into higher productivity and new job categories that were impossible to enumerate in advance. The more productive policy question \u2014 which the Goldman report itself raises \u2014 is how to compress the transition window and distribute the productivity gains broadly. That question gets crowded out when the headline becomes 'robots are taking your job.'",
+   "data_points": [
+    {
+     "n": "+7%",
+     "l": "Projected global GDP increase from AI adoption per the same Goldman Sachs report"
+    },
+    {
+     "n": "300M",
+     "l": "Full-time equivalent jobs Goldman estimated have 'exposure' to AI \u2014 not confirmed losses"
+    },
+    {
+     "n": "Top 5",
+     "l": "AI/ML specialist ranks among BLS fastest-growing occupational categories through 2032"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "automation",
+    "economy"
+   ],
+   "generated": "2026-10-25T11:02:03.069552+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Sam Altman admitting AI bugs can't be patched proves AI systems are dangerously out of control",
+   "verdict": "Misleading",
+   "verdict_summary": "Altman's statement reflects honest engineering maturity, not a safety confession \u2014 and it aligns with how responsible complex systems have always been managed.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "There is a genuine kernel here that deserves respect rather than ridicule. Altman's acknowledgment that emergent AI behaviors cannot all be anticipated and patched in the traditional software sense is technically accurate. Large language models and frontier AI systems do exhibit behaviors that are difficult to fully characterize before deployment, and the field of AI alignment \u2014 ensuring systems reliably do what humans intend \u2014 remains an active and unsolved research area. Critics who raise interpretability gaps, reward hacking, and distributional shift as real engineering challenges are correct to do so. The concern is legitimate.",
+   "what_data_shows": "What Altman described is not unique to AI \u2014 it is the defining characteristic of every complex engineered system humanity has ever deployed at scale. Aviation safety is not achieved by patching every possible failure mode in advance; it is achieved through redundancy, monitoring, incident reporting systems, and continuous iterative improvement. The FAA's safety record \u2014 commercial aviation mortality risk of roughly 1 in 11 million flights \u2014 was built on that philosophy, not on the premise that all bugs could be eliminated before first flight. OpenAI, Anthropic, Google DeepMind, and Meta all maintain active red-teaming programs, and the EU AI Act now mandates systematic conformity assessments and post-market monitoring for high-risk AI systems. The infrastructure for managing complex, incompletely-specified systems already exists and is being applied.",
+   "bigger_picture": "The framing that 'can't patch all bugs' equals 'out of control' sets an impossible standard that no complex technology has ever met or needed to meet. The internet cannot be fully patched. The financial system cannot be fully patched. The power grid cannot be fully patched. What matters is whether the risk management architecture \u2014 monitoring, incident response, staged deployment, regulatory oversight, and adversarial testing \u2014 is proportionate to the stakes. That architecture is actively being built for AI, faster and more publicly than it was for social media, algorithmic trading, or autonomous vehicles. Altman saying the quiet part loud is a sign of engineering honesty, not existential alarm.",
+   "data_points": [
+    {
+     "n": "1 in 11M",
+     "l": "Commercial flight fatality risk \u2014 built on iterative safety, not zero-bug guarantees"
+    },
+    {
+     "n": "$1B+",
+     "l": "Estimated combined annual spend on AI safety research across leading labs as of 2024"
+    },
+    {
+     "n": "2026",
+     "l": "EU AI Act compliance deadline mandating post-market monitoring for high-risk AI systems"
+    }
+   ],
+   "tags": [
+    "safety",
+    "AI-alignment",
+    "regulation"
+   ],
+   "generated": "2026-10-25T11:02:03.069552+00:00",
+   "auto": true
+  },
   {
    "claim": "AI is going to cause mass unemployment \u2014 Goldman Sachs says it will wipe out nearly 10% of jobs",
    "verdict": "Misleading",
@@ -1491,101 +1584,6 @@
     "media-literacy"
    ],
    "generated": "2026-10-21T04:01:27.774358+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Self-replicating AI worms are an existential threat that Anthropic itself is worried about \u2014 this is proof AI is out of control",
-   "verdict": "Misleading",
-   "verdict_summary": "AI worms are a real and documented attack vector in agentic AI systems, but framing Anthropic's concern as evidence AI is 'out of control' inverts the story \u2014 proactive safety research is the system working, not failing.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "Self-replicating AI worms are not science fiction. In early 2024, researchers from Cornell, Tel Aviv University, and Intuit published a proof-of-concept called Morris II demonstrating that adversarial prompts could propagate between connected large language model agents, exfiltrating data and generating further malicious inputs without human intervention. The threat surface is real and grows as AI agents are given more autonomy to act on behalf of users \u2014 sending emails, writing code, browsing the web. When multiple AI agents interact in pipelines, a poisoned input from one can cascade through others. This is a legitimate area of security research.",
-   "what_data_shows": "The Morris II research showed propagation was possible in sandboxed, experimental multi-agent environments under specific conditions \u2014 it was not observed in any production consumer AI system. Anthropic's concern, expressed in its published safety research and model cards, reflects exactly the kind of proactive threat modeling that security professionals are supposed to do. Anthropic's Constitutional AI methodology and its investment in interpretability research are specifically designed to catch and contain emergent behaviors before deployment. The fact that a safety-focused lab is publicly naming this risk is evidence of a functioning safety culture, not a runaway system. No documented case of an AI worm causing harm in a real-world deployment has been reported.",
-   "bigger_picture": "Every major technology \u2014 TCP/IP, email, the web \u2014 spawned novel attack vectors that the security community then spent years hardening against. The trajectory is not 'vulnerability discovered, civilization ends' \u2014 it is 'vulnerability discovered, mitigations developed, systems hardened.' AI security is following the same arc, but faster, because the research community is unusually transparent and proactive. Anthropic publishing its concerns is the AI safety ecosystem functioning correctly. The headline's framing transforms responsible disclosure into alarm \u2014 the accurate story is that the people building these systems are catching problems before they become incidents.",
-   "data_points": [
-    {
-     "n": "Morris II (2024)",
-     "l": "First published proof-of-concept AI worm \u2014 demonstrated in isolated lab conditions, not in any production system"
-    },
-    {
-     "n": "0",
-     "l": "Documented real-world deployments of an AI worm causing user harm as of 2025"
-    },
-    {
-     "n": "5% of equity",
-     "l": "Anthropic's Public Benefit Fund commitment \u2014 structural evidence of a company investing in long-term safety over short-term profit"
-    }
-   ],
-   "tags": [
-    "AI-safety",
-    "cybersecurity",
-    "agentic-AI",
-    "threat-modeling"
-   ],
-   "generated": "2026-10-21T04:01:27.774358+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Louisiana residents training for Meta data center jobs proves AI is only creating low-skill work while destroying real careers",
-   "verdict": "Busted",
-   "verdict_summary": "Data center technician roles created by the AI infrastructure boom are well-compensated, regionally transformative positions \u2014 and they sit alongside documented growth in high-skill AI-adjacent employment.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "Skepticism about who actually benefits from tech booms is reasonable and historically grounded. Previous waves of automation did displace workers in ways that were geographically concentrated and slow to self-correct \u2014 manufacturing job losses in the Rust Belt being the canonical example. It is fair to ask whether AI data center construction creates durable local employment or simply imports a temporary construction workforce before settling into a small permanent headcount of highly credentialed engineers who do not reflect the surrounding community. That scrutiny should be applied to any major infrastructure investment.",
-   "what_data_shows": "Meta's Louisiana data center \u2014 its largest ever at approximately $800 million in investment \u2014 is creating roles in electrical systems, HVAC, fiber networking, and facilities management that pay between $55,000 and $95,000 annually in a state where median household income is roughly $54,000. These are not warehouse picker roles. The broader data center sector employed over 200,000 people in the US in 2023 according to DatacenterHawk, with workforce projections from CBRE estimating a shortage of 300,000 trained data center technicians by 2025. Meanwhile, Stanford's 2024 AI Index found AI-related job postings grew 2.3x faster than overall tech job postings between 2022 and 2024. The jobs pipeline is expanding at every skill tier.",
-   "bigger_picture": "The Louisiana story is precisely the kind of economic geography shift that technology optimists have argued AI infrastructure could produce \u2014 moving high-wage technical employment out of coastal superstar cities and into regions that have been structurally excluded from the tech economy for decades. When residents say 'why not get in now,' they are making a rational calculation backed by real wage data. The concern that AI only creates low-skill work collapses when you look at the actual compensation and skill requirements for data center operations \u2014 and it ignores entirely the explosion of AI-augmented roles in healthcare, logistics, finance, and education that are being documented in real-time labor market data.",
-   "data_points": [
-    {
-     "n": "$800M",
-     "l": "Meta's Louisiana data center investment \u2014 its single largest facility ever built"
-    },
-    {
-     "n": "300,000",
-     "l": "Projected US data center technician shortage by 2025, per CBRE \u2014 demand vastly exceeds supply"
-    },
-    {
-     "n": "2.3x",
-     "l": "Rate at which AI-related job postings grew versus overall tech postings, 2022\u20132024, per Stanford AI Index"
-    }
-   ],
-   "tags": [
-    "jobs",
-    "data-centers",
-    "economic-geography",
-    "AI-workforce"
-   ],
-   "generated": "2026-10-21T04:01:27.774358+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI-generated content can implant false memories in your brain \u2014 AI is literally rewriting your mind",
-   "verdict": "Misleading",
-   "verdict_summary": "The research shows AI content can influence recollection the same way any media can, not that it creates neurological memory implantation distinct from existing misinformation risks.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The concern has a genuine kernel. A 2024 study from University College Cork and other institutions found that participants exposed to AI-generated fake news reports about events they had personally experienced showed higher rates of false recall than those shown text-only fabrications. AI-generated content is more persuasive, more personalized, and more scalable than previous misinformation vectors \u2014 those are real differences that warrant serious attention from researchers and platform designers.",
-   "what_data_shows": "The mechanism being described is source monitoring failure \u2014 a well-documented cognitive phenomenon studied since Elizabeth Loftus's foundational misinformation effect experiments in the 1970s. Photographs, news articles, and social media posts have all been shown in peer-reviewed literature to produce the same false recall effects. The UCork research found roughly 36% of participants formed false memories from AI-generated content vs. approximately 29% from written accounts \u2014 a meaningful but not revolutionary difference. No study has demonstrated AI content rewires neurological memory architecture in ways qualitatively different from prior media. The risk is amplification of a known problem, not a new category of brain manipulation.",
-   "bigger_picture": "Framing this as AI 'planting memories' obscures what is actually a tractable media literacy and platform design challenge. The same AI capabilities driving this concern are being deployed by teams at Google DeepMind, Meta, and startups like Jigsaw to build real-time misinformation detection at scale. Literacy interventions \u2014 prebunking, inoculation theory-based training \u2014 have shown 20-30% reductions in susceptibility to false information in randomized trials. The path forward is designing better systems and educating users, not treating AI-generated content as a neurological weapon in a class by itself.",
-   "data_points": [
-    {
-     "n": "36% vs. 29%",
-     "l": "False memory formation rate from AI-generated vs. text-only fake news in UCork study"
-    },
-    {
-     "n": "1970s",
-     "l": "Decade Loftus first documented the misinformation effect using photographs and leading questions \u2014 not an AI-era invention"
-    },
-    {
-     "n": "20-30%",
-     "l": "Reduction in false information susceptibility shown by prebunking and inoculation-based media literacy interventions"
-    }
-   ],
-   "tags": [
-    "misinformation",
-    "cognition",
-    "media-literacy"
-   ],
-   "generated": "2026-10-20T21:25:51.148604+00:00",
    "auto": true
   }
  ]
