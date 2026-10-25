@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-25T11:02:03.077295+00:00",
+ "updated": "2026-10-25T15:50:41.148364+00:00",
  "entries": [
+  {
+   "claim": "AI is going to automate away nearly 10% of all jobs and cause a wave of mass unemployment",
+   "verdict": "Misleading",
+   "verdict_summary": "Goldman Sachs projects displacement of specific task categories, not net job elimination \u2014 and historical automation waves have consistently created more jobs than they destroyed.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The Goldman Sachs figure is real and worth taking seriously. The firm's research does estimate that AI could automate tasks currently performed by roughly 300 million full-time workers globally, with white-collar and administrative roles facing the highest exposure. For workers in vulnerable occupations \u2014 paralegals, data entry clerks, some coding roles \u2014 the disruption timeline is genuine and near-term, not hypothetical.",
+   "what_data_shows": "The Goldman report explicitly distinguishes between displacement and net job loss, two very different things. Historically, the World Economic Forum's Future of Jobs Report 2023 found that while 83 million roles may be displaced by 2027, 69 million new roles are expected to emerge in the same window \u2014 and that gap narrows further when accounting for AI-augmented productivity gains. MIT economist David Autor's longitudinal research across five decades of automation shows that every prior wave of labor-displacing technology ultimately increased real wages and total employment. The BLS tracked similar fears during the PC and internet booms; both periods ended with net employment growth.",
+   "bigger_picture": "The 10% figure strips out the second half of the equation: the new industries, roles, and productivity dividends that AI creates. Energy transition, biotech, AI safety, infrastructure buildout, and human-AI collaboration roles are already generating demand faster than universities can supply graduates. The real policy challenge is transition support and reskilling speed \u2014 not a static, zero-sum job count. Framing displacement projections as final job destruction numbers is not analysis; it is alarm without evidence.",
+   "data_points": [
+    {
+     "n": "69M",
+     "l": "New jobs the WEF projects emerging globally by 2027, partially offsetting AI-driven displacement"
+    },
+    {
+     "n": "85%",
+     "l": "Share of jobs in 2023 that did not exist in 1940, per David Autor's automation history research"
+    },
+    {
+     "n": "~$7T",
+     "l": "GDP uplift Goldman Sachs projects from AI productivity gains over the same horizon as its displacement estimate"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "automation",
+    "AI",
+    "economics"
+   ],
+   "generated": "2026-10-25T15:50:41.139946+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Sam Altman admitted AI can't be made safe \u2014 he said bugs can't be patched and we're all in danger",
+   "verdict": "Misleading",
+   "verdict_summary": "Altman's comment was a candid acknowledgment that AI safety requires architectural approaches beyond bug-patching, not a concession that safety is impossible or that harm is inevitable.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "Altman did say he no longer believes all AI safety problems can be resolved through incremental software patching, and that statement deserves honest engagement. Large language models can produce unexpected outputs, and the field genuinely does not yet have complete, formal verification methods for frontier model behavior. The concern that current safety tooling may not scale to more capable future systems is shared by serious researchers at Anthropic, DeepMind, and academic institutions \u2014 it is not fringe thinking.",
+   "what_data_shows": "What Altman was actually describing is the shift from reactive patching to proactive alignment research \u2014 a well-established distinction in AI safety literature. OpenAI's published Preparedness Framework, Anthropic's Constitutional AI methodology, and DeepMind's scalable oversight papers all represent structural safety approaches that go beyond post-hoc bug fixes. NIST's AI Risk Management Framework, adopted by dozens of major AI developers as of 2024, mandates red-teaming, impact assessments, and continuous monitoring \u2014 none of which are 'patching.' The EU AI Act's tiered risk classification, enforceable from 2025, adds binding legal accountability on top of technical safeguards.",
+   "bigger_picture": "A CEO of a leading AI lab openly admitting that safety requires deeper systemic investment than bug fixes is exactly the kind of institutional candor the field needs \u2014 and exactly the opposite of recklessness. Misreading that honesty as an admission of inevitable danger inverts the signal. The AI safety field is better funded, better staffed, and more institutionally embedded than at any prior point in its history. Acknowledging hard problems is the precondition for solving them.",
+   "data_points": [
+    {
+     "n": "$1B+",
+     "l": "Committed to AI safety research by leading labs and philanthropic funders in 2023\u20132024 alone"
+    },
+    {
+     "n": "2025",
+     "l": "Year EU AI Act binding obligations take effect, creating legal accountability for high-risk AI systems"
+    },
+    {
+     "n": "27",
+     "l": "Nations that signed the Bletchley Declaration on AI Safety in November 2023, committing to coordinated risk evaluation"
+    }
+   ],
+   "tags": [
+    "safety",
+    "AI",
+    "alignment",
+    "policy"
+   ],
+   "generated": "2026-10-25T15:50:41.139946+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI bots logging into your bank account are a security disaster waiting to happen \u2014 this technology is fundamentally unsafe for financial use",
+   "verdict": "Misleading",
+   "verdict_summary": "Legitimate concerns about agentic AI and credential security exist, but the framing ignores the layered authentication standards and regulatory frameworks already governing financial AI integrations.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The CNET warning is not baseless. Agentic AI systems that can autonomously execute actions \u2014 including logging into accounts, initiating transfers, or interacting with financial APIs \u2014 do introduce a new threat surface. If an AI agent is compromised, misconfigured, or manipulated through prompt injection, the consequences in a financial context could be severe and fast-moving. Credential delegation to third-party AI tools is a legitimate attack vector that security researchers have flagged repeatedly in 2024.",
+   "what_data_shows": "The financial industry is not waiting passively. OAuth 2.0 and OpenID Connect \u2014 the authentication standards governing virtually all legitimate financial API integrations \u2014 explicitly prevent raw credential sharing; the AI agent never sees your password. The Financial Data Exchange (FDX) API standard, now adopted by over 58 million consumer accounts across North American financial institutions as of 2024, provides tokenized, permissioned, and revocable data access specifically designed for third-party tools including AI. The CFPB's Personal Financial Data Rights rule, finalized in 2024, mandates that consumers can revoke third-party access instantly and that institutions must support secure API alternatives to screen scraping.",
+   "bigger_picture": "The risk CNET correctly identifies is real for poorly built, non-compliant tools \u2014 not for the regulated, standards-based financial AI integrations that are actually reaching consumers at scale. The answer is not to reject AI in personal finance but to demand that tools use OAuth-compliant APIs, never ask for raw credentials, and operate under institutions bound by CFPB and FDX standards. Consumer education about what legitimate financial AI looks like is the productive response \u2014 not categorical fear of a technology that, built correctly, is more auditable than a human financial advisor.",
+   "data_points": [
+    {
+     "n": "58M+",
+     "l": "Consumer accounts already using FDX secure API standard for third-party financial data access as of 2024"
+    },
+    {
+     "n": "0",
+     "l": "Raw credentials seen by an AI agent using OAuth 2.0 \u2014 token-based access means your password is never shared"
+    },
+    {
+     "n": "2024",
+     "l": "Year CFPB finalized Personal Financial Data Rights rule, giving consumers legally enforceable instant revocation of third-party AI access"
+    }
+   ],
+   "tags": [
+    "privacy",
+    "security",
+    "AI",
+    "fintech"
+   ],
+   "generated": "2026-10-25T15:50:41.139946+00:00",
+   "auto": true
+  },
   {
    "claim": "Data centers are causing my utility bills to spike \u2014 they're draining the grid and costing everyday Americans real money",
    "verdict": "Misleading",
@@ -1488,102 +1584,6 @@
     "media literacy"
    ],
    "generated": "2026-10-21T11:28:20.718809+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI worms that self-replicate are an emerging existential threat \u2014 even Anthropic is scared",
-   "verdict": "Partial",
-   "verdict_summary": "Self-replicating AI worms are a genuine and documented proof-of-concept threat, but current mitigations and architectural constraints make a runaway real-world event far less likely than the framing suggests.",
-   "tag": "safety",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "This is not science fiction. In early 2024, researchers at Cornell, Tel Aviv University, and Intuit demonstrated a working proof-of-concept AI worm \u2014 dubbed Morris II \u2014 that could propagate through GenAI ecosystems by embedding adversarial instructions into content that gets processed by other AI agents. Anthropic's concern about agentic AI systems operating with greater autonomy is well-founded and reflects a serious strand of AI safety research. When AI agents can take actions, browse the web, and call other agents, the attack surface for prompt injection and self-replicating payloads expands meaningfully.",
-   "what_data_shows": "Morris II required a carefully engineered lab environment with minimal sandboxing and deliberate permissions granted to the agent \u2014 conditions that do not reflect how enterprise AI systems are deployed by default. Major AI providers including Anthropic, OpenAI, and Google DeepMind have published architectural guidelines specifically addressing prompt injection and agent isolation, and OWASP released its LLM Top 10 vulnerability framework in 2023, with agentic prompt injection listed as a primary concern with active mitigations. The NIST AI Risk Management Framework, adopted by hundreds of organizations in 2023\u20132024, includes explicit controls for agentic system boundaries. No real-world AI worm propagation event has been publicly documented to date.",
-   "bigger_picture": "Anthropic raising this concern is exactly how responsible AI development is supposed to work \u2014 identifying threat classes before they become incidents, not after. The fact that a safety-focused lab is worried about self-replicating agents is evidence that the safety ecosystem is functioning, not evidence of imminent catastrophe. The trajectory here is toward more sandboxing, tighter permission models, and formal agentic security standards \u2014 not toward uncontrolled AI worm outbreaks. Covering Anthropic's caution as alarm while ignoring the mitigations they and the broader industry are actively deploying gives readers half the picture.",
-   "data_points": [
-    {
-     "n": "2024",
-     "l": "Year Morris II proof-of-concept was demonstrated \u2014 in a controlled lab, not in any deployed product"
-    },
-    {
-     "n": "OWASP LLM Top 10",
-     "l": "Industry-standard vulnerability framework released 2023, with prompt injection mitigations actively deployed"
-    },
-    {
-     "n": "0",
-     "l": "Documented real-world AI worm propagation events as of mid-2025"
-    }
-   ],
-   "tags": [
-    "AI safety",
-    "cybersecurity",
-    "agentic AI",
-    "prompt injection"
-   ],
-   "generated": "2026-10-21T11:28:20.718809+00:00",
-   "auto": true
-  },
-  {
-   "claim": "This Princeton PhD applied to 2,300 jobs over 2 years and can't find work \u2014 AI is destroying white-collar employment",
-   "verdict": "Misleading",
-   "verdict_summary": "One high-profile anecdote does not reflect aggregate labor data \u2014 white-collar unemployment remains low by historical standards, though AI-driven hiring friction is a real and measurable phenomenon worth monitoring.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "There is a real and documented phenomenon of AI-powered applicant tracking systems filtering out qualified candidates at scale, creating a paradox where more applications yield fewer interviews. A 2024 Harvard Business School study found that ATS systems screen out up to 75% of resumes before a human ever sees them, including candidates who meet stated job requirements. For highly specialized roles, the mismatch between credentials and keyword-optimized filters is a genuine structural problem. A PhD applying to 2,300 jobs facing near-zero response is a plausible and frustrating outcome of this system, and dismissing it as individual failure misses the systemic friction.",
-   "what_data_shows": "The U.S. Bureau of Labor Statistics reported a 2.2% unemployment rate for workers with advanced degrees as of early 2025 \u2014 near historic lows. The broader professional and business services sector added jobs through 2024. World Economic Forum's Future of Jobs Report 2025 projects that AI will displace approximately 85 million jobs globally by 2025 while creating 97 million new ones \u2014 a net positive, though transition friction is real and unevenly distributed. The specific case of a PhD in a narrow field may reflect credential-to-market mismatch rather than AI-driven displacement \u2014 a distinction the headline erases entirely.",
-   "bigger_picture": "Using one person's job search as a proxy for AI's macro labor impact is precisely the kind of availability heuristic that drives unfounded panic. The actual challenge is more nuanced: AI is compressing hiring cycles and creating winner-take-most dynamics in some credential segments while simultaneously opening entirely new role categories in AI operations, prompt engineering, and model evaluation. The correct policy response is reskilling investment and ATS reform \u2014 not the conclusion that white-collar work is disappearing. Workforce data does not support that conclusion, and saying so clearly is not dismissiveness; it is accuracy.",
-   "data_points": [
-    {
-     "n": "2.2%",
-     "l": "U.S. unemployment rate for advanced degree holders, early 2025 \u2014 near historic low (BLS)"
-    },
-    {
-     "n": "75%",
-     "l": "Share of resumes ATS systems screen out before human review, per 2024 Harvard Business School study"
-    },
-    {
-     "n": "97M vs 85M",
-     "l": "WEF projection: AI creates 97 million new jobs while displacing 85 million by 2025 \u2014 net positive"
-    }
-   ],
-   "tags": [
-    "jobs",
-    "AI displacement",
-    "labor market",
-    "hiring"
-   ],
-   "generated": "2026-10-21T11:28:20.718809+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI-generated content can plant fake memories in your brain and you won't even know it happened",
-   "verdict": "Misleading",
-   "verdict_summary": "The research shows increased susceptibility to false details in AI-generated content, but 'planting memories' overstates a real but constrained finding about misinformation exposure.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The underlying concern is legitimate and the research is real. Exposure to misinformation \u2014 regardless of its source \u2014 can influence how people recall events, a well-documented phenomenon called the misinformation effect, first rigorously studied by Elizabeth Loftus in the 1970s. AI-generated content, which can be produced at massive scale and is often indistinguishable from human writing, does create a new surface area for this risk. If AI tools generate plausible-sounding but false details about events, users who encounter that content may later misremember those details as true. That is a genuine concern worth taking seriously.",
-   "what_data_shows": "The studies behind these headlines \u2014 including work from University College London and MIT Media Lab researchers \u2014 show that people are somewhat more likely to incorporate false details into their recall when those details appear in fluent, confident AI-generated narratives. However, the effect sizes are modest and consistent with existing misinformation literature, not evidence of some novel neurological hijacking. No peer-reviewed study has demonstrated that AI content 'plants' memories in a way that is meaningfully different from any other written misinformation. The framing of 'planting' implies involuntary, deep alteration of memory \u2014 the actual finding is that fluent false content nudges recall errors at rates comparable to tabloid misinformation or leading questions.",
-   "bigger_picture": "Memory malleability is a feature of human cognition that long predates AI \u2014 yellow journalism, propaganda, and eyewitness coaching have exploited it for over a century. The meaningful question is not whether AI introduces this risk but whether AI literacy and content provenance tools can outpace AI-generated misinformation. The answer is trending positive: watermarking standards via C2PA, AI detection classifiers, and platform-level provenance labeling are all accelerating. The research is a valid input into that ecosystem \u2014 it is not evidence that AI is uniquely rewiring human cognition.",
-   "data_points": [
-    {
-     "n": "1970s",
-     "l": "Decade when Loftus established the misinformation effect \u2014 AI did not create this vulnerability"
-    },
-    {
-     "n": "C2PA adopted by Adobe, Microsoft, Google, OpenAI",
-     "l": "Major content provenance coalition already labeling AI-generated media at scale"
-    },
-    {
-     "n": "~20%",
-     "l": "Typical false detail incorporation rate in misinformation studies \u2014 consistent with pre-AI baselines"
-    }
-   ],
-   "tags": [
-    "misinformation",
-    "memory",
-    "AI-safety",
-    "media-literacy"
-   ],
-   "generated": "2026-10-21T04:01:27.774358+00:00",
    "auto": true
   }
  ]
