@@ -1,6 +1,84 @@
 {
- "updated": "2026-10-25T20:38:13.883995+00:00",
+ "updated": "2026-10-26T04:03:39.003087+00:00",
  "items": [
+  {
+   "title": "Nvidia\u2019s Jensen Huang Says AI Agents Have Sent Token, GPU Demand \u2018Through the Roof\u2019: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
+   "url": "https://biztoc.com/x/22eedceb85b07060",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-25T02:57:45+00:00"
+  },
+  {
+   "title": "AI Firm Behind India\u2019s \u2018Mahabharat\u2019 Series Turns to Indonesian Myth in Cross-Border IP Pact (EXCLUSIVE)",
+   "url": "https://variety.com/2026/tv/news/ai-india-mahabharat-series-indonesian-myth-1236930485/",
+   "source": "Variety",
+   "category": "ai",
+   "published": "2026-10-25T02:30:00+00:00"
+  },
+  {
+   "title": "Show HN: AI Senate \u2013 AI senators debate live policy and vote on the record",
+   "url": "https://aisenatus.com",
+   "source": "Aisenatus.com",
+   "category": "ai",
+   "published": "2026-10-25T02:15:29+00:00"
+  },
+  {
+   "title": "Cerebras Deploys Trillion-Parameter AI Models",
+   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+   "source": "Cerebras.ai",
+   "category": "breakthroughs",
+   "published": "2026-10-25T01:33:49+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and Mobility",
+   "url": "https://www.ubergizmo.com/2026/10/fix-2026-innovation-awards-9-best-innovation-technology-winners-in-robotics-ai-and-mobility/",
+   "source": "Ubergizmo",
+   "category": "robotics",
+   "published": "2026-10-25T01:18:41+00:00"
+  },
+  {
+   "title": "Namuga expands beyond Samsung with humanoid robot camera modules",
+   "url": "https://www.digitimes.com/news/a20261023PD237/robot-camera-samsung-production-revenue.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-10-25T00:44:27+00:00"
+  },
+  {
+   "title": "Texas Instruments sees up to $1,000 in chip content per humanoid robot as analog supply tightens",
+   "url": "https://www.digitimes.com/news/a20261023PD218/texas-instruments-robot-earnings-2026-revenue.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-10-25T00:42:49+00:00"
+  },
+  {
+   "title": "Interview: The story of LEACHIM, a working humanoid robot from the 1970s",
+   "url": "https://www.digitimes.com/news/a20261023VL223/humanoid-robot-physical-ai-interview.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-10-25T00:40:56+00:00"
+  },
+  {
+   "title": "Tech expert develops AI tool to support kidney patients",
+   "url": "https://punchng.com/tech-expert-develops-ai-tool-to-support-kidney-patients/",
+   "source": "The Punch",
+   "category": "health",
+   "published": "2026-10-24T23:08:48+00:00"
+  },
+  {
+   "title": "Tesla unveils Optimus Academy to let humanoid robots teach themselves",
+   "url": "https://cryptobriefing.com/tesla-optimus-academy-self-teaching-robots/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-10-24T21:33:40+00:00"
+  },
+  {
+   "title": "Physicists May Have Inadvertently Built a Qubit That Can Run Backward in Time",
+   "url": "https://www.sciencealert.com/physicists-may-have-inadvertently-built-a-qubit-that-can-run-backward-in-time",
+   "source": "ScienceAlert",
+   "category": "quantum",
+   "published": "2026-10-24T21:00:00+00:00"
+  },
   {
    "title": "How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 \u2014 TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
    "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
@@ -100,11 +178,25 @@
    "published": "2026-10-24T15:28:43+00:00"
   },
   {
+   "title": "Can dogs smell cancer in humans? Bengaluru founders says with AI, dogs can detect seven cancer symptoms with 90% accuracy",
+   "url": "https://economictimes.indiatimes.com/magazines/panache/can-dogs-smell-cancer-in-humans-bengaluru-founders-says-with-ai-dogs-can-detect-seven-cancer-symptoms-with-90-accuracy/articleshow/135172765.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-10-24T15:24:02+00:00"
+  },
+  {
    "title": "tensor-grep 1.131.5",
    "url": "https://pypi.org/project/tensor-grep/1.131.5/",
    "source": "Pypi.org",
    "category": "compute",
    "published": "2026-10-24T15:22:02+00:00"
+  },
+  {
+   "title": "Amazon launches TorchNeuron to let AI developers run PyTorch code on Trainium chips",
+   "url": "https://cryptobriefing.com/amazon-torchneuron-trainium-pytorch-nvidia/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-10-24T15:20:36+00:00"
   },
   {
    "title": "Show HN: Python script to evaluate your RAG pipeline against a golden set",
@@ -114,11 +206,25 @@
    "published": "2026-10-24T15:17:44+00:00"
   },
   {
+   "title": "Likang Life Sciences Showcases Personalized Cancer Immunotherapy and Global Ambitions at Abu Dhabi Future Health Summit 2026",
+   "url": "https://www.prnewswire.co.uk/news-releases/likang-life-sciences-showcases-personalized-cancer-immunotherapy-and-global-ambitions-at-abu-dhabi-future-health-summit-2026-302918667.html",
+   "source": "PR Newswire UK",
+   "category": "health",
+   "published": "2026-10-24T15:12:00+00:00"
+  },
+  {
    "title": "justfit-llm 2.3.0",
    "url": "https://pypi.org/project/justfit-llm/2.3.0/",
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-10-24T15:11:52+00:00"
+  },
+  {
+   "title": "AI Model Estimates Cancer Survival From Facial Photographs, Separating High- and Low-Risk Patients",
+   "url": "https://www.ibtimes.com.au/ai-cancer-survival-risk-facial-photo-study-1877350",
+   "source": "Ibtimes.com.au",
+   "category": "health",
+   "published": "2026-10-24T15:08:41+00:00"
   },
   {
    "title": "NVIDIA GeForce RTX 3090 Ti Gets Nearly 80% FP16/BF16 Compute Boost With Linux-Based Unlocking Trick",
@@ -189,13 +295,6 @@
    "source": "Science Daily",
    "category": "health",
    "published": "2026-10-24T11:52:47+00:00"
-  },
-  {
-   "title": "Unitree says its 'self-evolving robots' are coming to take on Tesla Optimus",
-   "url": "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week",
-   "source": "TechRadar",
-   "category": "robotics",
-   "published": "2026-10-24T11:00:00+00:00"
   },
   {
    "title": "AI and Mathematics: Public Good, Credit, and Education",
@@ -300,8 +399,7 @@
    "url": "https://siliconangle.com/2026/10/23/ai-drug-development-startup-pathos-ai-closes-237m-investment/",
    "source": "SiliconANGLE News",
    "category": "health",
-   "published": "2026-10-23T20:02:03+00:00",
-   "breakthrough": true
+   "published": "2026-10-23T20:02:03+00:00"
   },
   {
    "title": "Microsoft says its AI tool outperforms generalist doctors in complex diagnoses",
@@ -323,6 +421,13 @@
    "source": "Yanko Design",
    "category": "robotics",
    "published": "2026-10-23T18:20:20+00:00"
+  },
+  {
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "source": "OpenAI",
+   "category": "compute",
+   "published": "2026-10-23T17:00:00+00:00"
   },
   {
    "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
@@ -472,13 +577,6 @@
    "published": "2026-10-23T10:05:55+00:00"
   },
   {
-   "title": "Securing our frontier model training environment",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-23T10:00:00+00:00"
-  },
-  {
    "title": "AI being examined for use in State\u2019s breast cancer screening",
    "url": "https://www.irishtimes.com/health/2026/10/23/ai-being-examined-for-use-in-states-breast-cancer-screening/",
    "source": "The Irish Times",
@@ -542,11 +640,25 @@
    "published": "2026-10-23T03:00:34+00:00"
   },
   {
+   "title": "Kazakhstan Expands Compute for Its AI Future",
+   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-23T02:00:13+00:00"
+  },
+  {
    "title": "Harbour BioMed Receives China NMPA Approval of Batoclimab Injection (Subcutaneous Injection) for the Treatment of Generalized Myasthenia Gravis",
    "url": "https://www.prnewswire.com/news-releases/harbour-biomed-receives-china-nmpa-approval-of-batoclimab-injection-subcutaneous-injection-for-the-treatment-of-generalized-myasthenia-gravis-302917545.html",
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-10-23T00:02:00+00:00"
+  },
+  {
+   "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-23T00:00:00+00:00"
   },
   {
    "title": "Identification of candidate markers for the isolation of neuron-specific extracellular vesicles",
@@ -666,13 +778,6 @@
    "source": "Next Big Future",
    "category": "robotics",
    "published": "2026-10-22T20:04:45+00:00"
-  },
-  {
-   "title": "Build more responsive apps with the Decisions API",
-   "url": "https://openai.com/index/decisions-api",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-22T19:00:00+00:00"
   },
   {
    "title": "BioStack Raises $9.5M to Turn Global Hospital Data into Multimodal Training Datasets for Medical AI",
@@ -836,6 +941,13 @@
    "published": "2026-10-22T15:38:43+00:00"
   },
   {
+   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-22T15:00:02+00:00"
+  },
+  {
    "title": "Phylo's Biomni Lab to expand the use of AI agents in scientific research at Bayer",
    "url": "https://www.prnewswire.com/news-releases/phylos-biomni-lab-to-expand-the-use-of-ai-agents-in-scientific-research-at-bayer-302917080.html",
    "source": "PRNewswire",
@@ -848,6 +960,13 @@
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-10-22T15:00:00+00:00"
+  },
+  {
+   "title": "Beyond tree cover: mapping the world\u2019s forest types",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-10-22T14:30:24+00:00"
   },
   {
    "title": "FDA Official Believes GenAI-Enabled Tools Will Need To Be Assessed Like A Physician",
@@ -876,13 +995,6 @@
    "source": "Plos.org",
    "category": "health",
    "published": "2026-10-22T14:00:00+00:00"
-  },
-  {
-   "title": "Cloud Deployment Incoming: \u2018Call of Duty: Modern Warfare 4\u2019 Arrives on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-22T13:00:20+00:00"
   },
   {
    "title": "Nebius lands $3.5 billion credit facility from Citi to fuel AI build-out",
@@ -1030,41 +1142,6 @@
    "source": "Biztoc.com",
    "category": "robotics",
    "published": "2026-10-22T06:32:15+00:00"
-  },
-  {
-   "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
-   "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-22T05:00:56+00:00"
-  },
-  {
-   "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-22T05:00:27+00:00"
-  },
-  {
-   "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-   "url": "https://blogs.nvidia.com/blog/dsx-power/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-22T05:00:25+00:00"
-  },
-  {
-   "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-   "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-22T05:00:23+00:00"
-  },
-  {
-   "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
-   "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-22T05:00:19+00:00"
   },
   {
    "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
@@ -34924,83 +35001,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-07-28T19:10:28+00:00"
-  },
-  {
-   "title": "tycho-cli 0.1.2",
-   "url": "https://pypi.org/project/tycho-cli/0.1.2/",
-   "source": "Pypi.org",
-   "category": "compute",
-   "published": "2026-07-28T19:10:08+00:00"
-  },
-  {
-   "title": "Mate Security Grows Over 500% Since Q3 2025 and Pushes Past $50M in Funding",
-   "url": "https://hackread.com/mate-security-grows-q3-2025-pushes-past-50m-funding/",
-   "source": "HackRead",
-   "category": "ai",
-   "published": "2026-07-28T19:09:53+00:00"
-  },
-  {
-   "title": "trelix 2.10.0",
-   "url": "https://pypi.org/project/trelix/2.10.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-28T19:09:48+00:00"
-  },
-  {
-   "title": "llm-join 0.7.0",
-   "url": "https://pypi.org/project/llm-join/0.7.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-28T19:09:25+00:00"
-  },
-  {
-   "title": "AI File Organizer Pro 1.2.0",
-   "url": "https://post.rlsbb.cc/ai-file-organizer-pro-1-2-0/",
-   "source": "Rlsbb.cc",
-   "category": "ai",
-   "published": "2026-07-28T19:07:37+00:00"
-  },
-  {
-   "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/",
-   "source": "Amazon.com",
-   "category": "ai",
-   "published": "2026-07-28T19:07:09+00:00"
-  },
-  {
-   "title": "agentex-sdk 0.21.0",
-   "url": "https://pypi.org/project/agentex-sdk/0.21.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-28T19:05:46+00:00"
-  },
-  {
-   "title": "Show HN: Writekin \u2013 fine-tune a local LLM on your own writing, on your Mac",
-   "url": "https://github.com/scouttyg/writekin",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-28T19:05:12+00:00"
-  },
-  {
-   "title": "waxmard-git-ai 6.6.1",
-   "url": "https://pypi.org/project/waxmard-git-ai/6.6.1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-28T19:03:13+00:00"
-  },
-  {
-   "title": "AWS KMS or AWS CloudHSM: Choose the right key management solution",
-   "url": "https://aws.amazon.com/blogs/security/aws-kms-or-aws-cloudhsm-choose-the-right-key-management-solution/",
-   "source": "Amazon.com",
-   "category": "compute",
-   "published": "2026-07-28T18:55:43+00:00"
-  },
-  {
-   "title": "Healthcare Executives Signal Growing Strategic Value of Laboratory Services, Siemens Healthineers Survey Finds",
-   "url": "https://www.globenewswire.com/news-release/2026/07/28/3334642/0/en/Healthcare-Executives-Signal-Growing-Strategic-Value-of-Laboratory-Services-Siemens-Healthineers-Survey-Finds.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-28T18:30:00+00:00"
   }
  ]
 }
