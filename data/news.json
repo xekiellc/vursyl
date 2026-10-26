@@ -1,6 +1,112 @@
 {
- "updated": "2026-10-26T12:34:24.251448+00:00",
+ "updated": "2026-10-26T22:28:45.585442+00:00",
  "items": [
+  {
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T13:45:00+00:00"
+  },
+  {
+   "title": "ChatGPT\u2019s expanding world of work",
+   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T10:00:00+00:00"
+  },
+  {
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T07:00:00+00:00"
+  },
+  {
+   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "url": "https://openai.com/index/openai-cut-incident-investigation",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T07:00:00+00:00"
+  },
+  {
+   "title": "Working with academic communities to build scientific understanding",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T00:00:00+00:00"
+  },
+  {
+   "title": "Introducing GPT-6.1 Terra",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T00:00:00+00:00"
+  },
+  {
+   "title": "AI-designed antiviral compounds pass first laboratory test and aid patient safety",
+   "url": "https://www.digitaljournal.com/article/ai-designed-antiviral-compounds-pass-first-laboratory-test-and-aid-patient-safety/",
+   "source": "Digital Journal",
+   "category": "health",
+   "published": "2026-10-25T22:09:57+00:00"
+  },
+  {
+   "title": "langgraph-macp added to PyPI",
+   "url": "https://pypi.org/project/langgraph-macp/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-25T22:09:27+00:00"
+  },
+  {
+   "title": "Single photo predicts your chances of surviving cancer treatment",
+   "url": "https://newatlas.com/medical/photo-predict-cancer-treatment-faceage-facesurvival/",
+   "source": "New Atlas",
+   "category": "health",
+   "published": "2026-10-25T22:03:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "CBSE makes AI a part of formal teaching, NCERT develops module",
+   "url": "https://timesofindia.indiatimes.com/india/cbse-makes-ai-a-part-of-formal-teaching-ncert-develops-module/articleshow/135197586.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-10-25T21:45:07+00:00"
+  },
+  {
+   "title": "Seeking Value: GSK\u2019s Drug-Safety AI Strategy Connects Data With Outcomes",
+   "url": "https://biztoc.com/x/c751a5d11d763e01",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-10-25T17:46:08+00:00"
+  },
+  {
+   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+   "url": "https://lynchlab.net/llm-skin-cancer",
+   "source": "Lynchlab.net",
+   "category": "health",
+   "published": "2026-10-25T17:15:38+00:00"
+  },
+  {
+   "title": "Humanoid robots deployed alongside factory workers",
+   "url": "https://www.thehindubusinessline.com/specials/corporate-file/humanoid-robots-deployed-alongside-factory-workers/article71624416.ece",
+   "source": "BusinessLine",
+   "category": "robotics",
+   "published": "2026-10-25T17:06:54+00:00"
+  },
+  {
+   "title": "Positive Overall Survival Results from the Phase III HARMONi-GI1 Trial of Ivonescimab Plus Chemotherapy Versus Durvalumab Plus Chemotherapy in First-Line Biliary Tract Cancer Presented at the ESMO 2026 Presidential Symposium",
+   "url": "https://www.prnewswire.com/news-releases/positive-overall-survival-results-from-the-phase-iii-harmoni-gi1-trial-of-ivonescimab-plus-chemotherapy-versus-durvalumab-plus-chemotherapy-in-first-line-biliary-tract-cancer-presented-at-the-esmo-2026-presidential-symposium-302918768.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-10-25T15:31:00+00:00"
+  },
+  {
+   "title": "Chainsaw robots helping keep trains running safely in east Japan [Video]",
+   "url": "https://soranews24.com/2026/10/25/chainsaw-robots-helping-keep-trains-running-safely-in-east-japan-video/",
+   "source": "SoraNews24",
+   "category": "robotics",
+   "published": "2026-10-25T13:00:41+00:00"
+  },
   {
    "title": "ffwf-tau-llm 0.15.0",
    "url": "https://pypi.org/project/ffwf-tau-llm/0.15.0/",
@@ -70,13 +176,6 @@
    "source": "XDA Developers",
    "category": "compute",
    "published": "2026-10-25T11:30:21+00:00"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang says quantum computers could help train AI",
-   "url": "https://cryptobriefing.com/jensen-huang-quantum-computing-ai-training/",
-   "source": "Crypto Briefing",
-   "category": "breakthroughs",
-   "published": "2026-10-25T11:08:13+00:00"
   },
   {
    "title": "knowop 0.1.4",
@@ -188,8 +287,7 @@
    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
    "source": "Cerebras.ai",
    "category": "breakthroughs",
-   "published": "2026-10-25T01:33:49+00:00",
-   "breakthrough": true
+   "published": "2026-10-25T01:33:49+00:00"
   },
   {
    "title": "Drug Improved Brain Blood Flow for Those at Greater Risk of Alzheimer\u2019s",
@@ -197,6 +295,34 @@
    "source": "The Good Men Project",
    "category": "health",
    "published": "2026-10-25T01:30:30+00:00"
+  },
+  {
+   "title": "FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and Mobility",
+   "url": "https://www.ubergizmo.com/2026/10/fix-2026-innovation-awards-9-best-innovation-technology-winners-in-robotics-ai-and-mobility/",
+   "source": "Ubergizmo",
+   "category": "robotics",
+   "published": "2026-10-25T01:18:41+00:00"
+  },
+  {
+   "title": "Namuga expands beyond Samsung with humanoid robot camera modules",
+   "url": "https://www.digitimes.com/news/a20261023PD237/robot-camera-samsung-production-revenue.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-10-25T00:44:27+00:00"
+  },
+  {
+   "title": "Texas Instruments sees up to $1,000 in chip content per humanoid robot as analog supply tightens",
+   "url": "https://www.digitimes.com/news/a20261023PD218/texas-instruments-robot-earnings-2026-revenue.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-10-25T00:42:49+00:00"
+  },
+  {
+   "title": "Interview: The story of LEACHIM, a working humanoid robot from the 1970s",
+   "url": "https://www.digitimes.com/news/a20261023VL223/humanoid-robot-physical-ai-interview.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-10-25T00:40:56+00:00"
   },
   {
    "title": "qec-diverse-circuits added to PyPI",
@@ -570,6 +696,13 @@
    "published": "2026-10-23T18:20:20+00:00"
   },
   {
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-23T17:00:00+00:00"
+  },
+  {
    "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
    "url": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
    "source": "Amazon.com",
@@ -717,13 +850,6 @@
    "published": "2026-10-23T10:05:55+00:00"
   },
   {
-   "title": "Securing our frontier model training environment",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-23T10:00:00+00:00"
-  },
-  {
    "title": "AI being examined for use in State\u2019s breast cancer screening",
    "url": "https://www.irishtimes.com/health/2026/10/23/ai-being-examined-for-use-in-states-breast-cancer-screening/",
    "source": "The Irish Times",
@@ -778,6 +904,13 @@
    "source": "Business Standard",
    "category": "health",
    "published": "2026-10-23T03:00:34+00:00"
+  },
+  {
+   "title": "Kazakhstan Expands Compute for Its AI Future",
+   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-23T02:00:13+00:00"
   },
   {
    "title": "Harbour BioMed Receives China NMPA Approval of Batoclimab Injection (Subcutaneous Injection) for the Treatment of Generalized Myasthenia Gravis",
@@ -34868,139 +35001,6 @@
    "source": "The Times of India",
    "category": "ai",
    "published": "2026-07-29T08:27:10+00:00"
-  },
-  {
-   "title": "Show HN: Get a security assessment of MCP servers directly from your terminal",
-   "url": "https://index.canopii.dev/cli",
-   "source": "Canopii.dev",
-   "category": "ai",
-   "published": "2026-07-29T08:26:16+00:00"
-  },
-  {
-   "title": "Torq makes AI SOC investigations continuously self-learning",
-   "url": "https://www.helpnetsecurity.com/2026/07/29/torq-soc-brain/",
-   "source": "Help Net Security",
-   "category": "ai",
-   "published": "2026-07-29T08:17:42+00:00"
-  },
-  {
-   "title": "AI-Driven Cardiac Diagnostics Market to Reach USD 2.8 Billion by 2036 Amid Rising Demand for Faster and Data-Driven Cardiac Care | Future Market Insights",
-   "url": "https://www.prnewswire.com/news-releases/ai-driven-cardiac-diagnostics-market-to-reach-usd-2-8-billion-by-2036-amid-rising-demand-for-faster-and-data-driven-cardiac-care--future-market-insights-302837543.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-29T08:07:00+00:00"
-  },
-  {
-   "title": "AMD Radeon RX 9050 officially unveiled",
-   "url": "https://www.yugatech.com/news/amd-radeon-rx-9050-official-specs-price/",
-   "source": "Yugatech.com",
-   "category": "compute",
-   "published": "2026-07-29T08:03:40+00:00"
-  },
-  {
-   "title": "KIOXIA's next-gen NX1 Series SSDs for AI deliver close to 40% more performance with support for direct liquid cooling",
-   "url": "https://www.tweaktown.com/news/112876/kioxias-next-gen-nx1-series-ssds-for-ai-deliver-close-to-40-percent-more-performance-with-support-for-direct-liquid-cooling/index.html",
-   "source": "TweakTown",
-   "category": "compute",
-   "published": "2026-07-29T08:03:08+00:00"
-  },
-  {
-   "title": "AI Personalised Campaign by Azerion & Digitas: 70% of Listeners Act on Wella\u2019s Nioxin Audio Ads",
-   "url": "https://www.exchangewire.com/blog/2026/07/29/ai-personalised-campaign-by-azerion-digitas-70-of-listeners-act-on-wellas-nioxin-audio-ads/",
-   "source": "ExchangeWire",
-   "category": "ai",
-   "published": "2026-07-29T08:00:56+00:00"
-  },
-  {
-   "title": "What is open-weight AI, the tech behind Kimi K3 that's turning heads in Silicon Valley?",
-   "url": "https://www.cbc.ca/news/business/open-weight-ai-kimi-k3-9.7287025",
-   "source": "CBC News",
-   "category": "ai",
-   "published": "2026-07-29T08:00:00+00:00"
-  },
-  {
-   "title": "Apple iOS 26.6: Anthropic used Claude to find a Safari flaw",
-   "url": "https://www.notebookcheck.net/Apple-iOS-26-6-Anthropic-used-Claude-to-find-a-Safari-flaw.1354503.0.html",
-   "source": "Notebookcheck.net",
-   "category": "ai",
-   "published": "2026-07-29T07:47:12+00:00"
-  },
-  {
-   "title": "Show HN: chartr \u2013 visualize tickets as a star-map, run agents from it",
-   "url": "https://github.com/rengwu/chartr",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-07-29T07:45:56+00:00"
-  },
-  {
-   "title": "[Latest] Global AI in Medical Coding Market Size/Share Worth USD 10.6 Billion by 2035 at a 13.5% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-   "url": "https://www.globenewswire.com/news-release/2026/07/29/3334955/0/en/Latest-Global-AI-in-Medical-Coding-Market-Size-Share-Worth-USD-10-6-Billion-by-2035-at-a-13-5-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentatio.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-07-29T04:30:00+00:00"
-  },
-  {
-   "title": "Longevity guru Bryan Johnson offers 3 tips for optimum sleep",
-   "url": "https://www.newsnationnow.com/health/longevity-guru-bryan-johnson-sleep-tips/",
-   "source": "Newsnationnow.com",
-   "category": "health",
-   "published": "2026-07-29T03:33:13+00:00"
-  },
-  {
-   "title": "KEENON\u2019s Robot Caf\u00e9 Shows Why Humanoids Need a Supporting Cast",
-   "url": "https://the-gadgeteer.com/2026/07/28/keenon-robot-cafe-humanoid-supporting-cast/",
-   "source": "The Gadgeteer",
-   "category": "robotics",
-   "published": "2026-07-29T03:00:01+00:00"
-  },
-  {
-   "title": "Moonshot AI's Kimi K3 secures Day 0 support from Alibaba Cloud, Huawei Ascend",
-   "url": "https://www.digitimes.com/news/a20260729PD212/kimi-k3-ascend-huawei-cloud-alibaba.html",
-   "source": "Digitimes",
-   "category": "ai",
-   "published": "2026-07-29T02:30:00+00:00"
-  },
-  {
-   "title": "Health in ChatGPT: Future of Healthcare 2026",
-   "url": "https://kumdi.com/technology/health-in-chatgpt-future-of-healthcare/",
-   "source": "Kumdi.com",
-   "category": "health",
-   "published": "2026-07-29T02:25:08+00:00"
-  },
-  {
-   "title": "ASM raises 2027 revenue outlook as AI-driven chip demand lifts forecast",
-   "url": "https://www.digitimes.com/news/a20260729VL203/revenue-outlook-2027-demand-forecast.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-29T02:20:00+00:00"
-  },
-  {
-   "title": "New chapter in reading: AI companion tools let readers chat with books",
-   "url": "https://timesofindia.indiatimes.com/science/new-chapter-in-reading-ai-companion-tools-let-readers-chat-with-books/articleshow/132697629.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-07-29T02:02:47+00:00"
-  },
-  {
-   "title": "SUNON Unveils ErP 2026-Ready Green EC Fans to Power Next-Gen AI Infrastructure",
-   "url": "https://www.thehindubusinessline.com/brandhub/pr-release/sunon-unveils-erp-2026-ready-green-ec-fans-to-power-next-gen-ai-infrastructure/article71279606.ece",
-   "source": "BusinessLine",
-   "category": "compute",
-   "published": "2026-07-29T02:00:17+00:00"
-  },
-  {
-   "title": "Seagate forecasts strong 1Q growth on sustained AI-driven cloud demand",
-   "url": "https://www.digitimes.com/news/a20260729VL202/seagate-demand-revenue-growth-profit.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-29T02:00:00+00:00"
-  },
-  {
-   "title": "Global Mofy Reports 49.4% YoY Revenue Increase for the Six Months Ended March 31, 2026, Driven by Virtual Tech Growth and New AI Digital Asset Business",
-   "url": "https://www.globenewswire.com/news-release/2026/07/29/3334926/0/en/Global-Mofy-Reports-49-4-YoY-Revenue-Increase-for-the-Six-Months-Ended-March-31-2026-Driven-by-Virtual-Tech-Growth-and-New-AI-Digital-Asset-Business.html",
-   "source": "GlobeNewswire",
-   "category": "compute",
-   "published": "2026-07-29T01:46:00+00:00"
   }
  ]
 }
