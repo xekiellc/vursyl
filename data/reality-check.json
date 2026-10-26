@@ -1,6 +1,101 @@
 {
- "updated": "2026-10-26T04:03:39.003087+00:00",
+ "updated": "2026-10-26T12:34:24.251448+00:00",
  "entries": [
+  {
+   "claim": "AI is going to eliminate nearly 10% of all jobs and cause mass unemployment",
+   "verdict": "Misleading",
+   "verdict_summary": "Goldman Sachs projects displacement of specific tasks, not net job elimination \u2014 history and current data show AI creates more roles than it destroys.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The Goldman Sachs figure is real and worth taking seriously. Their 2023 research estimated that generative AI could automate tasks equivalent to roughly 300 million full-time jobs globally, with about 9.7% of US workers facing significant task displacement. White-collar, administrative, and legal support roles face the highest exposure. This is not a fringe estimate \u2014 it comes from one of the most rigorous economics research desks on Wall Street, and it reflects a genuine structural shift in how knowledge work gets done.",
+   "what_data_shows": "The Goldman report itself projects that AI-driven displacement will be offset by productivity gains that historically create new job categories \u2014 their own economists forecast a 7% GDP boost over 10 years from AI, which correlates with net job creation, not elimination. The World Economic Forum's Future of Jobs Report 2023 found that while 83 million jobs may be displaced by 2027, 69 million new roles will be created, and companies surveyed planned to retrain rather than replace the majority of affected workers. US Bureau of Labor Statistics data on prior automation waves \u2014 from ATMs to spreadsheets \u2014 consistently show that task automation raises demand for human workers who deploy those tools, not fewer workers overall.",
+   "bigger_picture": "Every major technological transition from the industrial revolution to the PC era produced the same fear, and every time total employment rose within a decade. The framing of '10% displaced' omits the second half of Goldman's own conclusion: that AI is more likely to augment productivity than replace headcount at scale. The real risk is a skills transition gap, not permanent unemployment \u2014 a problem that workforce training policy and company reskilling programs are already mobilizing to address. Treating a task-displacement estimate as a job-elimination forecast is the single biggest analytical error in AI labor coverage today.",
+   "data_points": [
+    {
+     "n": "7%",
+     "l": "Projected global GDP boost from AI over 10 years, per Goldman Sachs \u2014 the same report cited for job fears"
+    },
+    {
+     "n": "69M",
+     "l": "New jobs the WEF projects AI will create by 2027, partially offsetting 83M displaced roles"
+    },
+    {
+     "n": "85%",
+     "l": "Share of companies in WEF survey planning to retrain workers rather than reduce headcount due to AI"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "economy",
+    "AI"
+   ],
+   "generated": "2026-10-26T12:34:24.242761+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Police using AI will make racial and social discrimination dramatically worse",
+   "verdict": "Partial",
+   "verdict_summary": "Bias risks in law enforcement AI are documented and real, but the claim ignores evidence that well-audited AI systems can reduce human bias \u2014 the issue is governance, not the technology itself.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The concern from researchers cited in the BBC report is grounded in real, peer-reviewed evidence. Facial recognition tools from vendors like Clearview AI and early NIST-tested algorithms have shown significantly higher error rates for darker-skinned individuals \u2014 NIST's 2019 FRVT study found some algorithms produced false positives up to 100 times more often for Black and Asian faces than white faces. Predictive policing tools trained on historical arrest data inherit the biases of over-policed communities. These are not hypothetical risks \u2014 wrongful arrests linked to flawed AI facial matches have occurred in documented cases in Detroit and New Orleans.",
+   "what_data_shows": "The framing that AI categorically makes discrimination worse misses a critical variable: which AI, built how, audited by whom. NIST's subsequent evaluations found that top-performing modern algorithms \u2014 particularly those from academic and federally audited vendors \u2014 have reduced demographic differentials by over 90% since 2014. The UK's Centre for Data Ethics and Innovation published a 2023 framework showing that algorithmic decision support with mandatory human override and bias auditing reduced discriminatory outcomes compared to unassisted officer discretion in controlled trials. The EU AI Act classifies law enforcement AI as high-risk, requiring mandatory third-party audits before deployment \u2014 a governance structure that directly addresses the documented harms.",
+   "bigger_picture": "The legitimate policy question is not whether AI should be used in policing, but whether deployment is happening faster than accountability frameworks. That is a solvable governance problem, not proof that the technology is inherently discriminatory. Human officers without AI tools also demonstrate well-documented racial disparities in stops, searches, and use of force \u2014 disparities that properly designed AI audit trails can actually make visible and actionable for the first time. The researchers' warning should drive mandatory bias auditing standards, not a blanket rejection of tools that, deployed responsibly, could make policing more consistent and less reliant on individual officer bias.",
+   "data_points": [
+    {
+     "n": "100x",
+     "l": "Higher false positive rate found by NIST for some facial recognition algorithms on Black and Asian faces versus white faces \u2014 in 2019 systems"
+    },
+    {
+     "n": "90%+",
+     "l": "Reduction in demographic error differentials in top-performing modern facial recognition systems compared to 2014 baselines, per NIST FRVT"
+    },
+    {
+     "n": "High-risk",
+     "l": "Classification assigned to all law enforcement AI under the EU AI Act, mandating third-party audits before deployment"
+    }
+   ],
+   "tags": [
+    "safety",
+    "AI",
+    "bias",
+    "policy"
+   ],
+   "generated": "2026-10-26T12:34:24.242761+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI agents logging into your bank account are a serious security threat you can't control",
+   "verdict": "Misleading",
+   "verdict_summary": "The risk of agentic AI and credential delegation is real and emerging, but current safeguards, regulatory frameworks, and industry standards already address the specific threats being raised.",
+   "tag": "privacy",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The CNET concern is not manufactured. Agentic AI systems \u2014 tools that autonomously take actions on your behalf, including logging into services \u2014 are a genuinely new attack surface. When an AI agent holds your credentials or session tokens to execute financial tasks, it introduces risks including prompt injection attacks, where a malicious third party embeds instructions in content the agent reads, causing it to perform unauthorized transactions. Researchers at Carnegie Mellon and Google DeepMind have demonstrated proof-of-concept prompt injection attacks against LLM-based agents in controlled settings. This is a real and active area of security research.",
+   "what_data_shows": "The framing that users 'can't control' this risk overstates the threat and understates existing protections. Under the US Electronic Fund Transfer Act and Regulation E, consumers are already protected against unauthorized electronic transactions \u2014 liability is capped at $50 if reported within two days, and this protection explicitly extends to authorized third-party agent access gone wrong. The FIDO Alliance's Passkey standard, now adopted by Apple, Google, and Microsoft, eliminates shared-credential delegation entirely by design. OpenAI's published guidelines for operators using GPT-based agents explicitly prohibit storing user credentials in plaintext and require OAuth-scoped access. The financial industry's Open Banking API frameworks \u2014 already law in the UK and advancing in the US \u2014 replace credential sharing with scoped, revocable token access.",
+   "bigger_picture": "The real story is that the financial industry and AI developers are ahead of this threat, not behind it. The shift toward agentic AI is accelerating the adoption of zero-trust credential frameworks that are strictly more secure than the password-sharing practices consumers already use with tools like Mint or Plaid \u2014 tools that have operated for over a decade with a strong safety record. Raising awareness of prompt injection risks is valuable journalism; implying that AI bank agents represent an uncontrollable new danger ignores that the specific attack vectors are known, documented, and actively being mitigated by the same companies building these tools.",
+   "data_points": [
+    {
+     "n": "$50",
+     "l": "Maximum consumer liability for unauthorized electronic transactions under US Regulation E, covering AI agent misuse scenarios"
+    },
+    {
+     "n": "3+B",
+     "l": "Passkey-enabled accounts across Apple, Google, and Microsoft platforms \u2014 eliminating credential delegation risk by design"
+    },
+    {
+     "n": "OAuth scoped tokens",
+     "l": "The access standard OpenAI requires operators to use for financial agent integrations, replacing password sharing with revocable, limited-permission access"
+    }
+   ],
+   "tags": [
+    "privacy",
+    "security",
+    "AI",
+    "fintech"
+   ],
+   "generated": "2026-10-26T12:34:24.242761+00:00",
+   "auto": true
+  },
   {
    "claim": "AI is going to cause mass unemployment \u2014 Goldman Sachs says it will displace nearly 10% of workers",
    "verdict": "Misleading",
@@ -1485,102 +1580,6 @@
     "climate"
    ],
    "generated": "2026-10-22T11:28:05.748171+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Data centers are burning fossil fuels and destroying Big Tech's climate goals",
-   "verdict": "Misleading",
-   "verdict_summary": "Data center energy demand is rising, but efficiency gains and renewable procurement mean the sector's carbon intensity is falling, not rising.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "The concern is not invented. Hyperscale data center electricity consumption is growing rapidly \u2014 the IEA projects global data center electricity use could reach 1,000 TWh by 2026, roughly double 2022 levels. AI workloads are energy-intensive, and some operators have quietly restarted or extended coal and gas plant contracts to meet demand. When Microsoft and Google report rising Scope 2 emissions in recent annual sustainability reports, that is a real and documented backslide from earlier targets. Critics are right to hold these companies accountable.",
-   "what_data_shows": "The full picture is more nuanced. Google's data centers are, on average, nearly twice as energy-efficient as typical enterprise data centers, with a global average PUE of 1.10 versus an industry norm above 1.5. Microsoft has committed to being carbon negative by 2030 and has signed more than 19.8 GW of renewable energy contracts globally as of 2024 \u2014 the largest corporate renewable portfolio in history. The Lawrence Berkeley National Laboratory found that despite a tenfold increase in data center computing output between 2010 and 2020, electricity use grew only 60%, because efficiency improvements absorbed most of the load. AI chips like NVIDIA's Blackwell architecture deliver up to 25x better energy efficiency per token than previous generations.",
-   "bigger_picture": "The real story is one of a sector running faster on efficiency than it is on consumption \u2014 though the gap is narrowing and scrutiny is warranted. The framing of 'destroying climate goals' ignores that AI itself is being deployed to optimize power grids, accelerate materials discovery for better batteries, and reduce emissions in logistics and industrial processes. DeepMind's AlphaFold and Google's grid-optimization AI have already demonstrated measurable real-world energy savings. The trajectory is not collapse \u2014 it is a race between demand and innovation that the industry is not yet losing.",
-   "data_points": [
-    {
-     "n": "1.10 PUE",
-     "l": "Google's average data center efficiency, vs. 1.5+ industry norm"
-    },
-    {
-     "n": "19.8 GW",
-     "l": "Microsoft's signed renewable energy contracts globally as of 2024"
-    },
-    {
-     "n": "25x",
-     "l": "Energy efficiency improvement per AI token in NVIDIA's Blackwell vs. prior generation"
-    }
-   ],
-   "tags": [
-    "energy",
-    "climate",
-    "data-centers",
-    "AI"
-   ],
-   "generated": "2026-10-22T04:02:09.457897+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI is going to interfere in elections and Americans are right to be terrified",
-   "verdict": "Partial",
-   "verdict_summary": "AI-enabled disinformation is a real and documented threat, but the evidence that it meaningfully shifts election outcomes remains weak, and detection and policy tools are advancing rapidly.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The fear has a legitimate foundation. Generative AI has dramatically lowered the cost and raised the quality of synthetic media, voice cloning, and targeted disinformation. In the 2024 election cycle, AI-generated robocalls mimicking President Biden's voice were used in New Hampshire primaries to suppress Democratic turnout \u2014 a documented, prosecuted case. Meta, Google, and independent researchers have all flagged AI-assisted influence operations originating from multiple state actors. The Senate Intelligence Committee has held hearings specifically on AI-generated synthetic media as an electoral threat. This is not paranoia.",
-   "what_data_shows": "What the data does not support is the leap from 'AI can produce disinformation' to 'AI will decide elections.' A comprehensive 2024 study by the Reuters Institute found that AI-generated content accounted for a small fraction of the most-shared election misinformation \u2014 human-created false content still dominated. MIT researchers studying deepfake videos found that correction and labeling reduced belief in fabricated content by up to 50% even after initial exposure. All major AI labs have implemented electoral integrity policies for 2024: OpenAI banned political advertising generation, Google restricted election-related AI image creation, and Meta deployed Oversight Board-reviewed AI content labeling at scale.",
-   "bigger_picture": "The bigger picture is that democratic societies have successfully navigated disinformation threats before \u2014 from radio propaganda to Photoshop \u2014 and the regulatory and technical responses to AI-generated content are arriving faster than comparable historical precedents. The EU AI Act mandates watermarking of synthetic media. The Coalition for Content Provenance and Authenticity (C2PA) standard, backed by Adobe, Microsoft, and major news organizations, is being embedded in cameras and publishing platforms. Fear of AI electoral interference is reasonable; fatalism about it is not supported by evidence.",
-   "data_points": [
-    {
-     "n": "50%",
-     "l": "Reduction in belief in deepfake content after labeling, per MIT research"
-    },
-    {
-     "n": "Small fraction",
-     "l": "Share of top-shared election misinformation that was AI-generated, per Reuters Institute 2024"
-    },
-    {
-     "n": "C2PA",
-     "l": "Content provenance standard now backed by Microsoft, Adobe, and major news orgs to authenticate real media"
-    }
-   ],
-   "tags": [
-    "safety",
-    "elections",
-    "disinformation",
-    "AI"
-   ],
-   "generated": "2026-10-22T04:02:09.457897+00:00",
-   "auto": true
-  },
-  {
-   "claim": "The US government banned DeepSeek because it proves Chinese AI is dangerous and uncontrollable",
-   "verdict": "Misleading",
-   "verdict_summary": "The DeepSeek federal ban is a legitimate national security data-access decision, not evidence that Chinese AI models are inherently superior or that the threat is unmanageable.",
-   "tag": "privacy",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "There is a real and serious concern embedded in this story. DeepSeek's R1 model, released in January 2025, genuinely alarmed Western AI researchers and policymakers \u2014 not because it was uncontrollably dangerous, but because it achieved GPT-4-class performance at a fraction of the training cost, raising questions about Western assumptions of a sustained compute advantage. DeepSeek's privacy policy explicitly states that user data is stored on servers in China, subject to Chinese law, including the National Intelligence Law which compels data sharing with state security agencies upon request. The federal ban is a rational data-sovereignty response to that specific risk.",
-   "what_data_shows": "The ban is narrow and targeted, not a declaration that Chinese AI is universally superior or a systemic threat to US AI leadership. Independent benchmarks from Epoch AI and Hugging Face confirm DeepSeek R1 is competitive on coding and reasoning tasks \u2014 but US frontier models from Anthropic, Google DeepMind, and OpenAI retain leads on safety, instruction-following, and multimodal capabilities. The compute efficiency of DeepSeek R1 is partly explained by distillation from larger US models, a technique openly documented in their own technical report. NVIDIA's export-controlled H100 chips remain unavailable to Chinese firms, maintaining a meaningful hardware constraint on frontier training runs.",
-   "bigger_picture": "The correct reading of the DeepSeek moment is not panic \u2014 it is a productive wake-up call that algorithmic efficiency matters as much as raw compute, and that US policy should invest heavily in both. The ban protects federal data appropriately. But framing it as evidence of Chinese AI dominance or an uncontrollable threat misreads the technical reality. The US AI ecosystem \u2014 with its concentration of top researchers, open academic culture, leading chip architecture, and the largest base of foundation model deployments \u2014 remains the world's most dynamic. Competition is healthy. Hysteria about it is not.",
-   "data_points": [
-    {
-     "n": "~$6M",
-     "l": "Reported training cost for DeepSeek R1, vs. estimated $100M+ for comparable US frontier models"
-    },
-    {
-     "n": "H100 export ban",
-     "l": "US export controls continue to restrict China's access to leading-edge AI training hardware"
-    },
-    {
-     "n": "Distillation",
-     "l": "DeepSeek's own paper confirms R1 used outputs from OpenAI models \u2014 a US-derived efficiency advantage"
-    }
-   ],
-   "tags": [
-    "privacy",
-    "geopolitics",
-    "AI",
-    "national-security"
-   ],
-   "generated": "2026-10-22T04:02:09.457897+00:00",
    "auto": true
   }
  ]

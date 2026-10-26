@@ -1,6 +1,167 @@
 {
- "updated": "2026-10-26T04:03:39.003087+00:00",
+ "updated": "2026-10-26T12:34:24.251448+00:00",
  "items": [
+  {
+   "title": "ffwf-tau-llm 0.15.0",
+   "url": "https://pypi.org/project/ffwf-tau-llm/0.15.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-25T12:32:50+00:00"
+  },
+  {
+   "title": "splitscope 0.2.7",
+   "url": "https://pypi.org/project/splitscope/0.2.7/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-25T12:26:54+00:00"
+  },
+  {
+   "title": "saynow 0.14.0",
+   "url": "https://pypi.org/project/saynow/0.14.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-25T12:23:49+00:00"
+  },
+  {
+   "title": "wgc-python 2.1.2",
+   "url": "https://pypi.org/project/wgc-python/2.1.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-25T12:11:56+00:00"
+  },
+  {
+   "title": "syna-agent 0.11.2",
+   "url": "https://pypi.org/project/syna-agent/0.11.2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-25T12:06:45+00:00"
+  },
+  {
+   "title": "AI Has Ushered In the Era of Personalized Software, and Honestly? I\u2019m Excited",
+   "url": "https://uk.pcmag.com/ai/168090/ai-has-ushered-in-the-era-of-personalized-software-and-honestly-im-excited",
+   "source": "PCMag.com",
+   "category": "ai",
+   "published": "2026-10-25T12:00:00+00:00"
+  },
+  {
+   "title": "The Year AI Ate Math",
+   "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/?utm_source=feed",
+   "source": "The Atlantic",
+   "category": "ai",
+   "published": "2026-10-25T12:00:00+00:00"
+  },
+  {
+   "title": "PM Modi inaugurates RBI\u2019s Rs 169-crore data centre, cybersecurity institute in Odisha",
+   "url": "https://economictimes.indiatimes.com/news/india/pm-modi-inaugurates-rbis-rs-169-crore-data-centre-cybersecurity-institute-in-odisha/articleshow/135190135.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-10-25T11:47:54+00:00"
+  },
+  {
+   "title": "Nvidia's RTX Spark has an NPU it barely mentions, and I spent a week figuring out what it actually is - XDA",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186449980",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-10-25T11:32:14+00:00"
+  },
+  {
+   "title": "Nvidia RTX Spark takes on AMD Strix Halo, and AMD has reason to worry",
+   "url": "https://www.xda-developers.com/nvidia-rtx-spark-takes-on-amd-strix-halo-and-amd-has-reason-to-worry/",
+   "source": "XDA Developers",
+   "category": "compute",
+   "published": "2026-10-25T11:30:21+00:00"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang says quantum computers could help train AI",
+   "url": "https://cryptobriefing.com/jensen-huang-quantum-computing-ai-training/",
+   "source": "Crypto Briefing",
+   "category": "breakthroughs",
+   "published": "2026-10-25T11:08:13+00:00"
+  },
+  {
+   "title": "knowop 0.1.4",
+   "url": "https://pypi.org/project/knowop/0.1.4/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-25T11:05:58+00:00"
+  },
+  {
+   "title": "I played Minecraft with a 125B local LLM on an RTX Spark laptop, and the game still held 120 FPS",
+   "url": "https://www.xda-developers.com/played-minecraft-125b-local-llm-rtx-spark-120fps/",
+   "source": "XDA Developers",
+   "category": "ai",
+   "published": "2026-10-25T11:00:20+00:00"
+  },
+  {
+   "title": "hk-dsl 0.6.0",
+   "url": "https://pypi.org/project/hk-dsl/0.6.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-25T10:58:44+00:00"
+  },
+  {
+   "title": "Microsoft Says Its New AI Is Better at Diagnosing Patients Than Real Doctors",
+   "url": "https://futurism.com/artificial-intelligence/microsoft-new-ai-better-real-doctors",
+   "source": "Futurism",
+   "category": "health",
+   "published": "2026-10-25T10:57:00+00:00"
+  },
+  {
+   "title": "konduktor-nightly 0.1.0.dev20261025104301",
+   "url": "https://pypi.org/project/konduktor-nightly/0.1.0.dev20261025104301/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-25T10:43:18+00:00"
+  },
+  {
+   "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186449672",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-10-25T10:33:09+00:00"
+  },
+  {
+   "title": "hallucinationguard-sathvika added to PyPI",
+   "url": "https://pypi.org/project/hallucinationguard-sathvika/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-25T10:14:01+00:00"
+  },
+  {
+   "title": "carmen-kernels 0.2.0",
+   "url": "https://pypi.org/project/carmen-kernels/0.2.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-25T10:01:06+00:00"
+  },
+  {
+   "title": "Robotics for the Planet: Environmentalists Embrace Smart Machines",
+   "url": "https://goodmenproject.com/featured-content/robotics-for-the-planet-environmentalists-embrace-smart-machines/",
+   "source": "The Good Men Project",
+   "category": "robotics",
+   "published": "2026-10-25T10:00:41+00:00"
+  },
+  {
+   "title": "My self-hosted AI models research, code, and generate images, and all they cost is a GPU I already own",
+   "url": "https://www.xda-developers.com/my-self-hosted-ai-models-research-code-and-generate-images-and-all-they-cost-is-a-gpu-i-already-own/",
+   "source": "XDA Developers",
+   "category": "ai",
+   "published": "2026-10-25T10:00:20+00:00"
+  },
+  {
+   "title": "Modi highlights exports, local products and deep-tech start-ups in Mann Ki Baat",
+   "url": "https://www.thehindubusinessline.com/economy/modi-highlights-exports-local-products-and-deep-tech-start-ups-in-mann-ki-baat/article71622819.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-10-25T07:58:58+00:00"
+  },
+  {
+   "title": "Hanmi Pharmaceutical Names Next-Generation Obesity Drug 'Zantrutide' Following WHO Registration | Aju Press",
+   "url": "https://m.ajupress.com/view/20261025120070814",
+   "source": "Ajupress.com",
+   "category": "health",
+   "published": "2026-10-25T04:29:22+00:00"
+  },
   {
    "title": "Nvidia\u2019s Jensen Huang Says AI Agents Have Sent Token, GPU Demand \u2018Through the Roof\u2019: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
    "url": "https://biztoc.com/x/22eedceb85b07060",
@@ -31,32 +192,18 @@
    "breakthrough": true
   },
   {
-   "title": "FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and Mobility",
-   "url": "https://www.ubergizmo.com/2026/10/fix-2026-innovation-awards-9-best-innovation-technology-winners-in-robotics-ai-and-mobility/",
-   "source": "Ubergizmo",
-   "category": "robotics",
-   "published": "2026-10-25T01:18:41+00:00"
+   "title": "Drug Improved Brain Blood Flow for Those at Greater Risk of Alzheimer\u2019s",
+   "url": "https://goodmenproject.com/featured-content/drug-improved-brain-blood-flow-for-those-at-greater-risk-of-alzheimers/",
+   "source": "The Good Men Project",
+   "category": "health",
+   "published": "2026-10-25T01:30:30+00:00"
   },
   {
-   "title": "Namuga expands beyond Samsung with humanoid robot camera modules",
-   "url": "https://www.digitimes.com/news/a20261023PD237/robot-camera-samsung-production-revenue.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-10-25T00:44:27+00:00"
-  },
-  {
-   "title": "Texas Instruments sees up to $1,000 in chip content per humanoid robot as analog supply tightens",
-   "url": "https://www.digitimes.com/news/a20261023PD218/texas-instruments-robot-earnings-2026-revenue.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-10-25T00:42:49+00:00"
-  },
-  {
-   "title": "Interview: The story of LEACHIM, a working humanoid robot from the 1970s",
-   "url": "https://www.digitimes.com/news/a20261023VL223/humanoid-robot-physical-ai-interview.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-10-25T00:40:56+00:00"
+   "title": "qec-diverse-circuits added to PyPI",
+   "url": "https://pypi.org/project/qec-diverse-circuits/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-10-25T00:35:26+00:00"
   },
   {
    "title": "Tech expert develops AI tool to support kidney patients",
@@ -64,20 +211,6 @@
    "source": "The Punch",
    "category": "health",
    "published": "2026-10-24T23:08:48+00:00"
-  },
-  {
-   "title": "Tesla unveils Optimus Academy to let humanoid robots teach themselves",
-   "url": "https://cryptobriefing.com/tesla-optimus-academy-self-teaching-robots/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-10-24T21:33:40+00:00"
-  },
-  {
-   "title": "Physicists May Have Inadvertently Built a Qubit That Can Run Backward in Time",
-   "url": "https://www.sciencealert.com/physicists-may-have-inadvertently-built-a-qubit-that-can-run-backward-in-time",
-   "source": "ScienceAlert",
-   "category": "quantum",
-   "published": "2026-10-24T21:00:00+00:00"
   },
   {
    "title": "How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 \u2014 TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
@@ -388,6 +521,13 @@
    "published": "2026-10-24T01:26:00+00:00"
   },
   {
+   "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+   "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-23T21:00:00+00:00"
+  },
+  {
    "title": "How are medical residents using AI?",
    "url": "https://medicine.yale.edu/news-article/how-are-residents-using-ai/",
    "source": "Yale.edu",
@@ -409,6 +549,13 @@
    "published": "2026-10-23T19:51:13+00:00"
   },
   {
+   "title": "Reinforcing the value of human understanding at MIT",
+   "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-23T19:35:00+00:00"
+  },
+  {
    "title": "The Beat: Ag biotech startup relocates to Chicago with new funding",
    "url": "https://biztoc.com/x/1ae5411ef53fcb21",
    "source": "Biztoc.com",
@@ -421,13 +568,6 @@
    "source": "Yanko Design",
    "category": "robotics",
    "published": "2026-10-23T18:20:20+00:00"
-  },
-  {
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "source": "OpenAI",
-   "category": "compute",
-   "published": "2026-10-23T17:00:00+00:00"
   },
   {
    "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
@@ -577,6 +717,13 @@
    "published": "2026-10-23T10:05:55+00:00"
   },
   {
+   "title": "Securing our frontier model training environment",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-23T10:00:00+00:00"
+  },
+  {
    "title": "AI being examined for use in State\u2019s breast cancer screening",
    "url": "https://www.irishtimes.com/health/2026/10/23/ai-being-examined-for-use-in-states-breast-cancer-screening/",
    "source": "The Irish Times",
@@ -596,13 +743,6 @@
    "source": "Biztoc.com",
    "category": "robotics",
    "published": "2026-10-23T08:03:07+00:00"
-  },
-  {
-   "title": "Q&A: How AI came to model the \u201cmessy\u201d human mind",
-   "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-23T04:00:00+00:00"
   },
   {
    "title": "Hyundai Motor Group & Rhode Island School of Design Collaborate on Regenerative Biodesign Strategies and the Future of Mobility",
@@ -640,25 +780,11 @@
    "published": "2026-10-23T03:00:34+00:00"
   },
   {
-   "title": "Kazakhstan Expands Compute for Its AI Future",
-   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-23T02:00:13+00:00"
-  },
-  {
    "title": "Harbour BioMed Receives China NMPA Approval of Batoclimab Injection (Subcutaneous Injection) for the Treatment of Generalized Myasthenia Gravis",
    "url": "https://www.prnewswire.com/news-releases/harbour-biomed-receives-china-nmpa-approval-of-batoclimab-injection-subcutaneous-injection-for-the-treatment-of-generalized-myasthenia-gravis-302917545.html",
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-10-23T00:02:00+00:00"
-  },
-  {
-   "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
-   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-23T00:00:00+00:00"
   },
   {
    "title": "Identification of candidate markers for the isolation of neuron-specific extracellular vesicles",
@@ -738,13 +864,6 @@
    "published": "2026-10-22T20:52:25+00:00"
   },
   {
-   "title": "This design software reimagines everyday objects as self-aware devices",
-   "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-22T20:45:00+00:00"
-  },
-  {
    "title": "Canva Releases Its First AI Model for Images",
    "url": "https://www.thurrott.com/a-i/343158/canva-releases-its-first-ai-model-for-images",
    "source": "Thurrott.com",
@@ -778,6 +897,13 @@
    "source": "Next Big Future",
    "category": "robotics",
    "published": "2026-10-22T20:04:45+00:00"
+  },
+  {
+   "title": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-22T19:00:00+00:00"
   },
   {
    "title": "BioStack Raises $9.5M to Turn Global Hospital Data into Multimodal Training Datasets for Medical AI",
@@ -927,6 +1053,13 @@
    "published": "2026-10-22T16:24:00+00:00"
   },
   {
+   "title": "Flint-interactive: A language for creating interactive data visualizations",
+   "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-10-22T16:00:00+00:00"
+  },
+  {
    "title": "Lyric Health Introduces Grace, a Multimodal AI Intelligence Layer Across its Virtual Care Operating System",
    "url": "https://www.prnewswire.com/news-releases/lyric-health-introduces-grace-a-multimodal-ai-intelligence-layer-across-its-virtual-care-operating-system-302917176.html",
    "source": "PRNewswire",
@@ -941,13 +1074,6 @@
    "published": "2026-10-22T15:38:43+00:00"
   },
   {
-   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-22T15:00:02+00:00"
-  },
-  {
    "title": "Phylo's Biomni Lab to expand the use of AI agents in scientific research at Bayer",
    "url": "https://www.prnewswire.com/news-releases/phylos-biomni-lab-to-expand-the-use-of-ai-agents-in-scientific-research-at-bayer-302917080.html",
    "source": "PRNewswire",
@@ -960,13 +1086,6 @@
    "source": "PRNewswire",
    "category": "ai",
    "published": "2026-10-22T15:00:00+00:00"
-  },
-  {
-   "title": "Beyond tree cover: mapping the world\u2019s forest types",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-10-22T14:30:24+00:00"
   },
   {
    "title": "FDA Official Believes GenAI-Enabled Tools Will Need To Be Assessed Like A Physician",
@@ -995,6 +1114,13 @@
    "source": "Plos.org",
    "category": "health",
    "published": "2026-10-22T14:00:00+00:00"
+  },
+  {
+   "title": "Cloud Deployment Incoming: \u2018Call of Duty: Modern Warfare 4\u2019 Arrives on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-22T13:00:20+00:00"
   },
   {
    "title": "Nebius lands $3.5 billion credit facility from Citi to fuel AI build-out",
@@ -34875,132 +35001,6 @@
    "source": "GlobeNewswire",
    "category": "compute",
    "published": "2026-07-29T01:46:00+00:00"
-  },
-  {
-   "title": "KLA executives outline growth strategy amid accelerating AI infrastructure demand",
-   "url": "https://www.digitimes.com/news/a20260729VL206/kla-growth-demand-revenue-2026.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-29T01:46:00+00:00"
-  },
-  {
-   "title": "KLA raises wafer equipment market outlook as AI investment drives record quarterly revenue",
-   "url": "https://www.digitimes.com/news/a20260729VL205/kla-revenue-equipment-wafer-market.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-29T01:30:00+00:00"
-  },
-  {
-   "title": "Meta to build $14B El Paso data center campus with BlackRock",
-   "url": "https://siliconangle.com/2026/07/28/meta-build-14b-el-paso-data-center-campus-blackrock/",
-   "source": "SiliconANGLE News",
-   "category": "compute",
-   "published": "2026-07-29T01:26:45+00:00"
-  },
-  {
-   "title": "Huawei targets 2027 glass substrate production to gain an edge in AI chips",
-   "url": "https://www.digitimes.com/news/a20260729PD209/huawei-production-chips-2027-technology.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-07-29T01:15:00+00:00"
-  },
-  {
-   "title": "rqm-entanglement added to PyPI",
-   "url": "https://pypi.org/project/rqm-entanglement/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-07-29T00:09:50+00:00"
-  },
-  {
-   "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-   "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-07-29T00:00:00+00:00"
-  },
-  {
-   "title": "Underdog \u2018spin qubits\u2019 leap forward in race to a useful quantum computer",
-   "url": "https://www.nature.com/articles/d41586-026-02357-z",
-   "source": "Nature.com",
-   "category": "quantum",
-   "published": "2026-07-29T00:00:00+00:00"
-  },
-  {
-   "title": "This AI \u2018Raygun\u2019 can shrink and supersize proteins \u2014 opening the door to easy editing",
-   "url": "https://www.nature.com/articles/d41586-026-02335-5",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-07-29T00:00:00+00:00"
-  },
-  {
-   "title": "An AI-enabled structural atlas decodes kinase specificity across the human proteome",
-   "url": "https://www.nature.com/articles/s41587-026-03239-5",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-07-29T00:00:00+00:00"
-  },
-  {
-   "title": "Why Scientists Redesigned the Botox Enzyme With AI",
-   "url": "https://singularityhub.com/2026/07/28/why-scientists-redesigned-the-botox-enzyme-with-ai/#article",
-   "source": "Singularity Hub",
-   "category": "health",
-   "published": "2026-07-28T23:11:22+00:00"
-  },
-  {
-   "title": "How NorthStar Anesthesia built a scheduling app for a workforce of 3,000 clinicians in weeks",
-   "url": "https://www.databricks.com/blog/how-northstar-anesthesia-built-scheduling-app-workforce-3000-clinicians-weeks",
-   "source": "Databricks.com",
-   "category": "ai",
-   "published": "2026-07-28T22:09:00+00:00"
-  },
-  {
-   "title": "Ozelle Launches O-Cyte 1 at ADLM 2026, Marking a New Step in AI-Powered Hematology",
-   "url": "https://www.prnewswire.com/news-releases/ozelle-launches-o-cyte-1-at-adlm-2026-marking-a-new-step-in-ai-powered-hematology-302834029.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-28T21:00:00+00:00"
-  },
-  {
-   "title": "Canada accelerates digital healthcare with AI, connected care, and virtual medicine",
-   "url": "https://www.digitaljournal.com/article/canada-accelerates-digital-healthcare-with-ai-connected-care-and-virtual-medicine/",
-   "source": "Digital Journal",
-   "category": "health",
-   "published": "2026-07-28T20:38:56+00:00"
-  },
-  {
-   "title": "gridbook added to PyPI",
-   "url": "https://pypi.org/project/gridbook/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-28T19:21:25+00:00"
-  },
-  {
-   "title": "gridbook 0.1.0rc1",
-   "url": "https://pypi.org/project/gridbook/0.1.0rc1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-28T19:21:25+00:00"
-  },
-  {
-   "title": "RAG-Powered Credit Scoring vs. Traditional Feature-Based ML",
-   "url": "https://www.c-sharpcorner.com/article/rag-powered-credit-scoring-vs-traditional-feature-based-ml/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-07-28T19:16:09+00:00"
-  },
-  {
-   "title": "bingo-ai 7.0.24",
-   "url": "https://pypi.org/project/bingo-ai/7.0.24/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-28T19:13:35+00:00"
-  },
-  {
-   "title": "bingo-ai 7.0.23",
-   "url": "https://pypi.org/project/bingo-ai/7.0.23/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-28T19:10:28+00:00"
   }
  ]
 }
