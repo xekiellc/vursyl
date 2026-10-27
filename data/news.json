@@ -1,40 +1,83 @@
 {
- "updated": "2026-10-27T17:45:54.631656+00:00",
+ "updated": "2026-10-27T21:59:13.132043+00:00",
  "items": [
   {
-   "title": "Genie 4: A new generation of world simulation",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-10-27T16:01:38+00:00"
-  },
-  {
-   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-   "source": "NVIDIA",
-   "category": "health",
-   "published": "2026-10-27T15:00:20+00:00"
-  },
-  {
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-27T07:00:00+00:00"
-  },
-  {
-   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-   "url": "https://openai.com/index/greptile-code-review-codex-astra",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-26T22:00:00+00:00"
-  },
-  {
-   "title": "At New York Climate Week 2026, MIT connects with a global network",
-   "url": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
+   "title": "Learner collaborates with MIT peers to develop book of AI insights",
+   "url": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
    "source": "MIT News AI",
    "category": "ai",
-   "published": "2026-10-26T19:00:00+00:00"
+   "published": "2026-10-27T20:55:00+00:00"
+  },
+  {
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "url": "https://openai.com/index/check-point-daybreak",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-27T00:00:00+00:00"
+  },
+  {
+   "title": "Intel Arc B580 runs 125B AI model nearly 3x faster with XeStrata in new test",
+   "url": "https://www.notebookcheck.net/Intel-Arc-B580-runs-125B-AI-model-nearly-3x-faster-with-XeStrata-in-new-test.1434389.0.html",
+   "source": "Notebookcheck.net",
+   "category": "compute",
+   "published": "2026-10-26T21:49:00+00:00"
+  },
+  {
+   "title": "iPronics Names Co-Founder & Photonics Pioneer Dr. Daniel P\u00e9rez-L\u00f3pez as CEO to Drive Commercial Scale for AI Optical Circuit Switching",
+   "url": "https://financialpost.com/globe-newswire/ipronics-names-co-founder-photonics-pioneer-dr-daniel-perez-lopez-as-ceo-to-drive-commercial-scale-for-ai-optical-circuit-switching",
+   "source": "Financial Post",
+   "category": "compute",
+   "published": "2026-10-26T21:18:14+00:00"
+  },
+  {
+   "title": "Anthropic boosts revenue efficiency to $2.08 per $1 spent on AI compute",
+   "url": "https://cryptobriefing.com/anthropic-boosts-revenue-efficiency-to-208-per-1-spent-on-ai-compute/",
+   "source": "Crypto Briefing",
+   "category": "ai",
+   "published": "2026-10-26T21:17:53+00:00"
+  },
+  {
+   "title": "Banks, Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech",
+   "url": "https://biztoc.com/x/0a4bd321012db68b",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-10-26T21:12:00+00:00"
+  },
+  {
+   "title": "(PR) Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
+   "url": "https://www.techpowerup.com/354153/intel-to-acquire-classiq-to-create-a-full-stack-quantum-computing-platform",
+   "source": "Techpowerup.com",
+   "category": "quantum",
+   "published": "2026-10-26T20:46:43+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Introducing Cisco Model Foundry: Bringing AI to our partners",
+   "url": "https://blogs.cisco.com/ai/cisco-model-foundry-partner-summit",
+   "source": "Cisco.com",
+   "category": "ai",
+   "published": "2026-10-26T19:59:44+00:00"
+  },
+  {
+   "title": "UCL scientists design symbolic AI digital twins to treat cancer",
+   "url": "https://www.news-medical.net/news/20261026/UCL-scientists-design-symbolic-AI-digital-twins-to-treat-cancer.aspx",
+   "source": "News-Medical.Net",
+   "category": "health",
+   "published": "2026-10-26T19:21:47+00:00"
+  },
+  {
+   "title": "Diri unveils AI robotic tutors at Bayelsa Medical University",
+   "url": "https://punchng.com/diri-unveils-ai-robotic-tutors-at-bayelsa-medical-university/",
+   "source": "The Punch",
+   "category": "robotics",
+   "published": "2026-10-26T18:23:39+00:00"
+  },
+  {
+   "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+   "url": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
+   "source": "Amazon.com",
+   "category": "ai",
+   "published": "2026-10-26T17:56:58+00:00"
   },
   {
    "title": "EQT becomes the nation\u2019s leading natural gas \u2018juggernaut\u2019 with a $13B deal as data center, export demand surges",
@@ -135,25 +178,11 @@
    "published": "2026-10-26T17:06:14+00:00"
   },
   {
-   "title": "Samsung Health now offers US users AI-backed diabetes prevention and support",
-   "url": "https://www.sammobile.com/news/samsung-health-now-offers-us-users-ai-backed-diabetes-prevention-and-support/",
-   "source": "SamMobile",
-   "category": "health",
-   "published": "2026-10-26T16:55:08+00:00"
-  },
-  {
    "title": "Anthropic plans IPO, suggests AI can help cure cancer",
    "url": "https://www.rte.ie/news/world/2026/1026/1596875-anthropic-ai-ipo/",
    "source": "RTE",
    "category": "ai",
    "published": "2026-10-26T16:30:27+00:00"
-  },
-  {
-   "title": "HTI-5 Final Rule Drops Source-Attribute Requirements for AI and Other Decision Support Tools From EHR Certification",
-   "url": "https://healthsystemcio.com/2026/10/26/hti-5-final-rule-ai-source-attributes/",
-   "source": "Healthsystemcio.com",
-   "category": "health",
-   "published": "2026-10-26T16:24:23+00:00"
   },
   {
    "title": "AI Now May Predict Your Biological Age And If You\u2019ll Survive Cancer \u2014 With A Face Scan",
@@ -177,32 +206,25 @@
    "published": "2026-10-26T15:23:00+00:00"
   },
   {
-   "title": "YYForce Applauds Tesla and Elon Musk on Commencing Manufacturing of Optimus Humanoid Robots",
-   "url": "https://financialpost.com/globe-newswire/yyforce-applauds-tesla-and-elon-musk-on-commencing-manufacturing-of-optimus-humanoid-robots",
+   "title": "Working with academic communities to build scientific understanding",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T14:30:00+00:00"
+  },
+  {
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T13:45:00+00:00"
+  },
+  {
+   "title": "Realbotix Launches Echo Humanoid Robot Line",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/realbotix-launches-echo-humanoid-robot-line",
    "source": "Financial Post",
    "category": "robotics",
-   "published": "2026-10-26T13:39:09+00:00"
-  },
-  {
-   "title": "Affordable humanoid robot maker Noetix reportedly files for Hong Kong IPO",
-   "url": "https://technode.com/2026/10/26/affordable-humanoid-robot-maker-noetix-reportedly-files-for-hong-kong-ipo/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-10-26T12:22:10+00:00"
-  },
-  {
-   "title": "Agile Robots plans up to 2,000 research humanoids through Nvidia partnership",
-   "url": "https://technode.com/2026/10/26/agile-robots-plans-up-to-2000-research-humanoids-through-nvidia-partnership/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-10-26T12:22:10+00:00"
-  },
-  {
-   "title": "Alibaba\u2019s Amap unveils humanoid model that learns whole-body tasks from human movements",
-   "url": "https://technode.com/2026/10/26/alibabas-amap-unveils-humanoid-model-that-learns-whole-body-tasks-from-human-movements/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-10-26T12:22:10+00:00"
+   "published": "2026-10-26T11:46:23+00:00"
   },
   {
    "title": "Foxconn boasts AI factories progress",
@@ -226,6 +248,34 @@
    "published": "2026-10-26T10:39:38+00:00"
   },
   {
+   "title": "Learning Midcircuit Measurement Backaction from Three Repeated Measurements",
+   "url": "https://link.aps.org/doi/10.1103/y6x3-348l",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-26T10:00:00+00:00"
+  },
+  {
+   "title": "Qubit-centric transformer for surface code decoding",
+   "url": "https://link.aps.org/doi/10.1103/ll1h-sm1y",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-26T10:00:00+00:00"
+  },
+  {
+   "title": "Theory and interpretability of quantum extreme learning machines: A Pauli transfer matrix approach",
+   "url": "https://link.aps.org/doi/10.1103/6tm7-3tn4",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-26T10:00:00+00:00"
+  },
+  {
+   "title": "ChatGPT\u2019s expanding world of work",
+   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T10:00:00+00:00"
+  },
+  {
    "title": "DropGenie Secures $5 Million Seed+ Financing to Scale Functional Biology Platform and Data Partnerships",
    "url": "https://www.prnewswire.com/news-releases/dropgenie-secures-5-million-seed-financing-to-scale-functional-biology-platform-and-data-partnerships-302918853.html",
    "source": "PRNewswire",
@@ -240,6 +290,13 @@
    "published": "2026-10-26T09:25:21+00:00"
   },
   {
+   "title": "ROKAE delivers its 10,000th humanoid force-controlled arm",
+   "url": "https://www.prnewswire.co.uk/news-releases/rokae-delivers-its-10-000th-humanoid-force-controlled-arm-302918216.html",
+   "source": "PR Newswire UK",
+   "category": "robotics",
+   "published": "2026-10-26T08:00:00+00:00"
+  },
+  {
    "title": "AI Agents Take On Healthcare\u2019s Paperwork So Doctors Can Focus on Patients",
    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-on-healthcares-paperwork-so-doctors-can-focus-on-patients/",
    "source": "pymnts.com",
@@ -252,6 +309,20 @@
    "source": "Wccftech",
    "category": "compute",
    "published": "2026-10-26T07:13:07+00:00"
+  },
+  {
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T07:00:00+00:00"
+  },
+  {
+   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "url": "https://openai.com/index/openai-cut-incident-investigation",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T07:00:00+00:00"
   },
   {
    "title": "AI model uses face photos to estimate biological age, predict survival risk in cancer patients",
@@ -301,14 +372,6 @@
    "source": "Digitimes",
    "category": "compute",
    "published": "2026-10-26T02:58:19+00:00"
-  },
-  {
-   "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
-   "source": "Science Daily",
-   "category": "quantum",
-   "published": "2026-10-26T01:42:48+00:00",
-   "breakthrough": true
   },
   {
    "title": "Intrinsic CEO Wendy Tan White on \u2018Democratizing\u2019 Robotics",
@@ -34938,69 +35001,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-07-29T19:23:01+00:00"
-  },
-  {
-   "title": "Anthropic and OpenAI now bringing in more money than Starbucks and McDonald\u2019s combined",
-   "url": "https://nypost.com/2026/07/29/business/anthropic-and-openai-making-more-revenue-than-mcdonalds-starbucks/",
-   "source": "New York Post",
-   "category": "ai",
-   "published": "2026-07-29T19:16:19+00:00"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang Makes First Ever X Post Sharing Letter to Congress and Says \u2018Transparency Can Be More Secure Than Obscurity\u2019",
-   "url": "https://biztoc.com/x/a78ec659e6fc9752",
-   "source": "Biztoc.com",
-   "category": "ai",
-   "published": "2026-07-29T19:16:17+00:00"
-  },
-  {
-   "title": "gubernaut-sdk added to PyPI",
-   "url": "https://pypi.org/project/gubernaut-sdk/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-29T19:16:11+00:00"
-  },
-  {
-   "title": "AI Infrastructure Firm Treeswift Signs 7K-SF Lease at 256 West 38th Street",
-   "url": "http://commercialobserver.com/2026/07/treeswift-lease-256-west-38th-street/",
-   "source": "Commercial Observer",
-   "category": "compute",
-   "published": "2026-07-29T19:14:34+00:00"
-  },
-  {
-   "title": "hypha 0.21.126",
-   "url": "https://pypi.org/project/hypha/0.21.126/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-29T19:09:43+00:00"
-  },
-  {
-   "title": "phantom-documents added to PyPI",
-   "url": "https://pypi.org/project/phantom-documents/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-29T19:09:16+00:00"
-  },
-  {
-   "title": "How much can you delegate to agents?",
-   "url": "https://newsletter.posthog.com/p/agent-autonomy",
-   "source": "Posthog.com",
-   "category": "ai",
-   "published": "2026-07-29T19:07:13+00:00"
-  },
-  {
-   "title": "ckg-nvidia-ai 0.17.0",
-   "url": "https://pypi.org/project/ckg-nvidia-ai/0.17.0/",
-   "source": "Pypi.org",
-   "category": "compute",
-   "published": "2026-07-29T19:05:16+00:00"
-  },
-  {
-   "title": "ckg-nvidia-nemoclaw 0.11.0",
-   "url": "https://pypi.org/project/ckg-nvidia-nemoclaw/0.11.0/",
-   "source": "Pypi.org",
-   "category": "compute",
-   "published": "2026-07-29T19:04:59+00:00"
   }
  ]
 }
