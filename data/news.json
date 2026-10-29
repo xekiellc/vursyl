@@ -1,48 +1,6 @@
 {
- "updated": "2026-10-28T22:23:35.977865+00:00",
+ "updated": "2026-10-29T05:05:23.994102+00:00",
  "items": [
-  {
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-10-28T17:00:58+00:00"
-  },
-  {
-   "title": "3 Questions: Why infrastructure is entering a defining era",
-   "url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
-   "source": "MIT News AI",
-   "category": "compute",
-   "published": "2026-10-28T16:00:00+00:00"
-  },
-  {
-   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-28T15:00:46+00:00"
-  },
-  {
-   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-28T13:15:00+00:00"
-  },
-  {
-   "title": "The future of the firm",
-   "url": "https://openai.com/index/the-future-of-the-firm",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-28T10:00:00+00:00"
-  },
-  {
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-28T09:30:00+00:00"
-  },
   {
    "title": "Legora is building the agentic operating system for legal work",
    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
@@ -51,11 +9,109 @@
    "published": "2026-10-28T09:30:00+00:00"
   },
   {
-   "title": "Making machines that can listen",
-   "url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
-   "source": "MIT News AI",
+   "title": "AI will improve software: Oracle's Larry Ellison rejects 'SaaS apocalypse'",
+   "url": "https://www.business-standard.com/world-news/ai-will-improve-software-oracle-s-larry-ellison-rejects-saas-apocalypse-126102800259_1.html",
+   "source": "Business Standard",
+   "category": "ai",
+   "published": "2026-10-28T04:55:05+00:00"
+  },
+  {
+   "title": "Show HN: SelfClaw \u2013 Self-hosted multi-model AI chat with OpenAI-compatible API",
+   "url": "https://github.com/Alanzj/SelfClaw",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-28T04:52:34+00:00"
+  },
+  {
+   "title": "Show HN: Simulusion \u2013 A PyTorch library for training and running world models",
+   "url": "https://github.com/ParamThakkar123/simulusion",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-28T04:50:59+00:00"
+  },
+  {
+   "title": "AI chip giant SK hynix says quarterly operating profit soars 630%",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chip-giant-sk-hynix-says-quarterly-operating-profit-soars-630/articleshow/135252393.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-10-28T04:45:52+00:00"
+  },
+  {
+   "title": "Apple Overhauls iMac With Powerful M6 Chip for 'Extra Snappy' Performance",
+   "url": "https://me.pcmag.com/en/old-desktop-pcs/38453/apple-overhauls-imac-with-powerful-m6-chip-for-extra-snappy-performance",
+   "source": "PCMag.com",
+   "category": "compute",
+   "published": "2026-10-28T04:44:22+00:00"
+  },
+  {
+   "title": "iOS 27.2 Rolls Out With Siri AI Upgrades, Apple Pencil Support for Duo, More",
+   "url": "https://me.pcmag.com/en/ios-1/38451/ios-272-rolls-out-with-siri-ai-upgrades-apple-pencil-support-for-duo-more",
+   "source": "PCMag.com",
+   "category": "ai",
+   "published": "2026-10-28T04:37:48+00:00"
+  },
+  {
+   "title": "Oracle's Larry Ellison dismisses 'SaaS apocalypse' fears, says AI will make software better",
+   "url": "https://economictimes.indiatimes.com/tech/technology/oracles-larry-ellison-dismisses-saas-apocalypse-fears-says-ai-will-make-software-better/articleshow/135251858.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-10-28T04:26:13+00:00"
+  },
+  {
+   "title": "From China to the Global Stage: Hengrui Showcases Innovative Research at ESMO Congress 2026, Exploring New Approaches to Oncology Treatment",
+   "url": "https://www.prnewswire.co.uk/news-releases/from-china-to-the-global-stage-hengrui-showcases-innovative-research-at-esmo-congress-2026-exploring-new-approaches-to-oncology-treatment-302921642.html",
+   "source": "PR Newswire UK",
+   "category": "health",
+   "published": "2026-10-28T04:26:00+00:00"
+  },
+  {
+   "title": "Show HN: OpenMontage Drama Studio \u2013 self-hosted AI studio for short dramas",
+   "url": "https://github.com/charliewwdev/OpenMontage",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-28T04:14:27+00:00"
+  },
+  {
+   "title": "From Classroom to Career: An AI-Enhanced Scaffolded Job Interview Approach in the L2 Classroom",
+   "url": "https://www.facultyfocus.com/articles/effective-teaching-strategies/from-classroom-to-career-an-ai-enhanced-scaffolded-job-interview-approach-in-the-l2-classroom/",
+   "source": "Facultyfocus.com",
    "category": "ai",
    "published": "2026-10-28T04:00:00+00:00"
+  },
+  {
+   "title": "Microsoft medical AI tops 80% accuracy in complex cases",
+   "url": "https://www.digitimes.com/news/a20261028PD200/microsoft-medical-healthcare.html",
+   "source": "Digitimes",
+   "category": "health",
+   "published": "2026-10-28T03:20:10+00:00"
+  },
+  {
+   "title": "Anthropic Buys a Small Drug Startup as It Pushes Deeper Into Biotech",
+   "url": "https://www.theinformation.com/briefings/anthropic-buys-small-drug-startup-pushes-deeper-biotech",
+   "source": "The Information",
+   "category": "health",
+   "published": "2026-10-28T00:26:34+00:00"
+  },
+  {
+   "title": "A single-molecule spin\u2013photon interface",
+   "url": "https://www.nature.com/articles/s41586-026-11147-6",
+   "source": "Nature.com",
+   "category": "breakthroughs",
+   "published": "2026-10-28T00:00:00+00:00"
+  },
+  {
+   "title": "Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers",
+   "url": "https://www.nature.com/articles/s41586-026-11178-z",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-10-28T00:00:00+00:00"
+  },
+  {
+   "title": "A multi-metric characterization of quantum convolutional neural networks: expressibility, trainability, and noise sensitivity",
+   "url": "https://www.nature.com/articles/s41598-026-73013-9.pdf",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-10-28T00:00:00+00:00"
   },
   {
    "title": "flyweight-llm 0.25.0",
@@ -177,18 +233,18 @@
    "published": "2026-10-27T21:07:43+00:00"
   },
   {
+   "title": "Learner collaborates with MIT peers to develop book of AI insights",
+   "url": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-10-27T20:55:00+00:00"
+  },
+  {
    "title": "Early progress on accelerating drug development with Claude",
    "url": "https://www.anthropic.com/research/early-progress-drug-development",
    "source": "Anthropic.com",
    "category": "health",
    "published": "2026-10-27T20:50:42+00:00"
-  },
-  {
-   "title": "KDDI Plans 1,000 AI Robots to Tackle Labor Shortages by 2030",
-   "url": "https://newsonjapan.com/article/151158.php",
-   "source": "Newsonjapan.com",
-   "category": "robotics",
-   "published": "2026-10-27T20:42:32+00:00"
   },
   {
    "title": "Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking",
@@ -219,11 +275,11 @@
    "published": "2026-10-27T17:16:54+00:00"
   },
   {
-   "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-   "url": "https://www.liquid.ai/blog/lfm3",
-   "source": "Liquid.ai",
+   "title": "Genie 4: A new generation of world simulation",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "source": "Google DeepMind",
    "category": "ai",
-   "published": "2026-10-27T17:04:50+00:00"
+   "published": "2026-10-27T16:01:38+00:00"
   },
   {
    "title": "CATL sets 'industry-leading' solid-state battery production timeline",
@@ -231,27 +287,6 @@
    "source": "Notebookcheck.net",
    "category": "compute",
    "published": "2026-10-27T15:51:00+00:00"
-  },
-  {
-   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-   "source": "NVIDIA",
-   "category": "health",
-   "published": "2026-10-27T15:00:20+00:00"
-  },
-  {
-   "title": "Retell uses OpenAI models to help power 100M monthly calls",
-   "url": "https://openai.com/index/retell-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-27T15:00:00+00:00"
-  },
-  {
-   "title": "Nord Quantique Secures US$10 Million DARPA Stage B Extension",
-   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nord-quantique-secures-us10-million-darpa-stage-b-extension",
-   "source": "Financial Post",
-   "category": "quantum",
-   "published": "2026-10-27T13:18:30+00:00"
   },
   {
    "title": "skillflow-py 1.5.100",
@@ -401,6 +436,13 @@
    "published": "2026-10-27T12:00:00+00:00"
   },
   {
+   "title": "Robbyant\u2019s Inaugural Embodied AI Challenge Draws Over 1,800 Teams Ahead of Real-Robot Final in Shanghai",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/robbyants-inaugural-embodied-ai-challenge-draws-over-1800-teams-ahead-of-real-robot-final-in-shanghai",
+   "source": "Financial Post",
+   "category": "robotics",
+   "published": "2026-10-27T11:04:09+00:00"
+  },
+  {
    "title": "Jefferson Study Finds Ambient AI Time Savings Concentrated Among Most Burdened Clinicians, Raising License Questions for CIOs",
    "url": "https://healthsystemcio.com/2026/10/27/ambient-ai-licenses-jefferson-study/",
    "source": "Healthsystemcio.com",
@@ -429,6 +471,20 @@
    "published": "2026-10-27T10:30:39+00:00"
   },
   {
+   "title": "Space-efficient quantum solvers for Boolean satisfiability problems via structural reduction",
+   "url": "https://link.aps.org/doi/10.1103/r3c5-4ldp",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-27T10:00:00+00:00"
+  },
+  {
+   "title": "Certifying Localizable Quantum Properties with Constant Sample Complexity",
+   "url": "https://link.aps.org/doi/10.1103/rkl6-hfrn",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-27T10:00:00+00:00"
+  },
+  {
    "title": "Basalt Health Raises $20M Series A",
    "url": "https://www.thesaasnews.com/news/basalt-health-raises-20m-series-a/",
    "source": "Thesaasnews.com",
@@ -443,18 +499,18 @@
    "published": "2026-10-27T07:11:42+00:00"
   },
   {
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-27T07:00:00+00:00"
-  },
-  {
    "title": "Following industrial investment from Midea Group, Jodell unveils full-stack new products",
    "url": "https://en.antaranews.com/news/438083/following-industrial-investment-from-midea-group-jodell-unveils-full-stack-new-products",
    "source": "Antaranews.com",
    "category": "robotics",
    "published": "2026-10-27T06:27:00+00:00"
+  },
+  {
+   "title": "Intel\u304c\u91cf\u5b50\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u4f01\u696d\u306eClassiq\u3092\u8cb7\u53ce\u3001\u30d5\u30eb\u30b9\u30bf\u30c3\u30af\u578b\u91cf\u5b50\u30b3\u30f3\u30d4\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u4e8b\u696d\u3078\u524d\u9032",
+   "url": "https://news.livedoor.com/article/detail/32668256/",
+   "source": "Livedoor.com",
+   "category": "quantum",
+   "published": "2026-10-27T06:15:00+00:00"
   },
   {
    "title": "China's Unitree Robotics shares surge over 60% in less than two weeks despite industry risks warning",
@@ -535,18 +591,18 @@
    "published": "2026-10-27T00:30:44+00:00"
   },
   {
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "url": "https://openai.com/index/check-point-daybreak",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-27T00:00:00+00:00"
+  },
+  {
    "title": "Samsung Executive Chairman reportedly eyes RX unit visit for humanoid robot push",
    "url": "https://www.digitimes.com/news/a20261023PD238/samsung-humanoid-robot-development-ces.html",
    "source": "Digitimes",
    "category": "robotics",
    "published": "2026-10-26T23:51:05+00:00"
-  },
-  {
-   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-   "url": "https://openai.com/index/greptile-code-review-codex-astra",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-26T22:00:00+00:00"
   },
   {
    "title": "Intel Arc B580 runs 125B AI model nearly 3x faster with XeStrata in new test",
@@ -582,13 +638,6 @@
    "source": "Techpowerup.com",
    "category": "quantum",
    "published": "2026-10-26T20:46:43+00:00"
-  },
-  {
-   "title": "At New York Climate Week 2026, MIT connects with a global network",
-   "url": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-26T19:00:00+00:00"
   },
   {
    "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
@@ -722,6 +771,13 @@
    "source": "PR Newswire UK",
    "category": "health",
    "published": "2026-10-26T15:23:00+00:00"
+  },
+  {
+   "title": "Working with academic communities to build scientific understanding",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-26T14:30:00+00:00"
   },
   {
    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
@@ -34945,62 +35001,6 @@
    "source": "The Times of India",
    "category": "ai",
    "published": "2026-07-30T16:56:22+00:00"
-  },
-  {
-   "title": "Google\u2019s new AI can now walk a humanoid across the room and tidy up, feet to fingertips",
-   "url": "https://thenextweb.com/news/gemini-robotics-2-whole-body-humanoid-control/",
-   "source": "The Next Web",
-   "category": "robotics",
-   "published": "2026-07-30T15:55:36+00:00"
-  },
-  {
-   "title": "Google launches gemini robotics 2",
-   "url": "https://cryptobriefing.com/google-launches-gemini-robotics-2/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-07-30T15:13:45+00:00"
-  },
-  {
-   "title": "Nuclearn Launches Equipment AI for Real-Time Alarm Diagnosis and Insight at Nuclear Plants",
-   "url": "https://www.prnewswire.com/news-releases/nuclearn-launches-equipment-ai-for-real-time-alarm-diagnosis-and-insight-at-nuclear-plants-302838403.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-07-30T15:00:00+00:00"
-  },
-  {
-   "title": "Eni Opens Supercomputing Capabilities to 'Innovation Ecosystem'",
-   "url": "https://www.rigzone.com/news/eni_opens_supercomputing_capabilities_to_innovation_ecosystem-30-jul-2026-184257-article/",
-   "source": "Rigzone",
-   "category": "compute",
-   "published": "2026-07-30T14:45:27+00:00"
-  },
-  {
-   "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
-   "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
-   "source": "Nvidia.com",
-   "category": "compute",
-   "published": "2026-07-30T14:38:32+00:00"
-  },
-  {
-   "title": "B.well launches CMS aligned network with health systems, tech companies",
-   "url": "https://www.techtarget.com/searchhealthit/news/366646622/Bwell-launches-CMS-aligned-network-with-health-systems-tech-companies",
-   "source": "Techtarget.com",
-   "category": "health",
-   "published": "2026-07-30T14:38:00+00:00"
-  },
-  {
-   "title": "Gold Electronics Demand Rises 4% on AI Infrastructure Boom",
-   "url": "https://biztoc.com/x/29a9f29db88abbb0",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-30T14:10:58+00:00"
-  },
-  {
-   "title": "Enlil Posts Strongest Quarter Yet, Fueled by New Customer Wins and Deeper Expansion Within Existing Customers",
-   "url": "https://www.prnewswire.com/news-releases/enlil-posts-strongest-quarter-yet-fueled-by-new-customer-wins-and-deeper-expansion-within-existing-customers-302839139.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-07-30T14:07:00+00:00"
   }
  ]
 }
