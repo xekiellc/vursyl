@@ -1,19 +1,132 @@
 {
- "updated": "2026-10-29T12:37:02.904445+00:00",
+ "updated": "2026-10-29T22:36:47.383063+00:00",
  "items": [
   {
-   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-28T15:00:46+00:00"
-  },
-  {
-   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-28T13:15:00+00:00"
+   "published": "2026-10-29T17:00:00+00:00"
+  },
+  {
+   "title": "Slice Into GFN Thursday: \u2018Phantom Blade Zero\u2019 Launches on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-10-29T13:00:16+00:00"
+  },
+  {
+   "title": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-29T09:00:00+00:00"
+  },
+  {
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "url": "https://openai.com/index/ropes-gray-ai-diligence",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-29T07:00:00+00:00"
+  },
+  {
+   "title": "Samsung's sleep apnea detection gets better on the Galaxy Watches and Galaxy Ring",
+   "url": "https://www.gsmarena.com/samsungs_sleep_apnea_detection_gets_better_on_the_galaxy_watches_and_galaxy_ring-news-75246.php",
+   "source": "GSMArena.com",
+   "category": "health",
+   "published": "2026-10-28T22:16:02+00:00"
+  },
+  {
+   "title": "Show HN: Local Code \u2013 Run DeepSeek 4.1 Flash 1017 Locally on Your Mac",
+   "url": "https://github.com/drawthingsai/local-code-community",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-28T22:05:50+00:00"
+  },
+  {
+   "title": "Japan and Germany Agree to Launch New AI Dialogue Framework",
+   "url": "https://newsonjapan.com/article/151166.php",
+   "source": "Newsonjapan.com",
+   "category": "ai",
+   "published": "2026-10-28T21:58:59+00:00"
+  },
+  {
+   "title": "pipecat-freeswitch added to PyPI",
+   "url": "https://pypi.org/project/pipecat-freeswitch/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-28T21:56:45+00:00"
+  },
+  {
+   "title": "Google announces Gemini 4 Carbon with state-of-the-art cybersecurity and long-context capabilities",
+   "url": "https://www.online-tech-tips.com/google-gemini-4-carbon-cybersecurity-long-context/#article",
+   "source": "Online-tech-tips.com",
+   "category": "ai",
+   "published": "2026-10-28T21:48:12+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "ipyllm added to PyPI",
+   "url": "https://pypi.org/project/ipyllm/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-28T21:39:18+00:00"
+  },
+  {
+   "title": "Cloudera expands its AI ecosystem with partnerships and packaged blueprints",
+   "url": "https://siliconangle.com/2026/10/28/cloudera-expands-its-ai-ecosystem-with-partnerships-and-packaged-blueprints/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-28T19:21:09+00:00"
+  },
+  {
+   "title": "New Obesity Drug 'Epe' Launches Amid Competitive Market | Aju Press",
+   "url": "https://m.ajupress.com/view/20261028175270514",
+   "source": "Ajupress.com",
+   "category": "health",
+   "published": "2026-10-28T19:12:59+00:00"
+  },
+  {
+   "title": "Foundry Raises $100 Million to Boost Manufacturing Footprint",
+   "url": "https://www.pymnts.com/news/investment-tracker/2026/foundry-raises-100-million-to-boost-manufacturing-footprint/",
+   "source": "pymnts.com",
+   "category": "compute",
+   "published": "2026-10-28T18:31:39+00:00"
+  },
+  {
+   "title": "Altera unveils Agilex 2X, betting on AI developers to expand programmable computing",
+   "url": "https://siliconangle.com/?p=852249",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-10-28T18:07:39+00:00"
+  },
+  {
+   "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+   "url": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+   "source": "Fb.com",
+   "category": "health",
+   "published": "2026-10-28T17:00:49+00:00"
+  },
+  {
+   "title": "German startup NVision shows new path to quantum computing chips in Nature paper",
+   "url": "https://economictimes.indiatimes.com/tech/technology/german-startup-nvision-shows-new-path-to-quantum-computing-chips-in-nature-paper/articleshow/135273277.cms",
+   "source": "The Times of India",
+   "category": "quantum",
+   "published": "2026-10-28T16:36:32+00:00"
+  },
+  {
+   "title": "Uncanny Valley! Realbotix's latest humanoid robot features silicone skin and eerily lifelike movements - but it costs $60,000",
+   "url": "https://www.dailymail.com/sciencetech/article-16245659/Uncanny-Valley-Realbotix-humanoid-robot.html",
+   "source": "Dailymail.com",
+   "category": "robotics",
+   "published": "2026-10-28T15:18:31+00:00"
+  },
+  {
+   "title": "Chinese Humanoid Stocks Catch Bid As Unitree Pulls Forward Breakthrough Timeline, JPM Turns Uber Bullish",
+   "url": "https://biztoc.com/x/a1807ff314f6abce",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-10-28T13:35:24+00:00"
   },
   {
    "title": "caii-terminal 3.5.0",
@@ -76,8 +189,7 @@
    "url": "https://cryptobriefing.com/anthropic-revenue-per-compute-dollar-s1/",
    "source": "Crypto Briefing",
    "category": "ai",
-   "published": "2026-10-28T12:06:43+00:00",
-   "breakthrough": true
+   "published": "2026-10-28T12:06:43+00:00"
   },
   {
    "title": "Circuit Mind lands $25M and puts AI agents to work checking circuit board schematics",
@@ -122,13 +234,6 @@
    "published": "2026-10-28T12:00:00+00:00"
   },
   {
-   "title": "Realbotix Relaunched Ask Aria Digital AI Avatar",
-   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/realbotix-relaunched-ask-aria-digital-ai-avatar",
-   "source": "Financial Post",
-   "category": "robotics",
-   "published": "2026-10-28T11:47:23+00:00"
-  },
-  {
    "title": "Genefluence's rapid, near-patient PCR test for urinary tract infections in first use at the Royal Hospital Chelsea",
    "url": "https://www.prnewswire.co.uk/news-releases/genefluences-rapid-near-patient-pcr-test-for-urinary-tract-infections-in-first-use-at-the-royal-hospital-chelsea-302922062.html",
    "source": "PR Newswire UK",
@@ -164,55 +269,6 @@
    "published": "2026-10-28T10:07:00+00:00"
   },
   {
-   "title": "Measurement-induced state transitions across the fluxonium qubit landscape",
-   "url": "https://link.aps.org/doi/10.1103/n2qr-9p7z",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-28T10:00:00+00:00"
-  },
-  {
-   "title": "Qubit encodings in the silicon $p$-orbital-valley spectrum for enhanced coherence and tunable two-qubit interaction",
-   "url": "https://link.aps.org/doi/10.1103/788s-lcp8",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-28T10:00:00+00:00"
-  },
-  {
-   "title": "The future of the firm",
-   "url": "https://openai.com/index/the-future-of-the-firm",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-28T10:00:00+00:00"
-  },
-  {
-   "title": "tergite-chipcal 0.1.0",
-   "url": "https://pypi.org/project/tergite-chipcal/0.1.0/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-10-28T09:47:44+00:00"
-  },
-  {
-   "title": "tergite-chipcal added to PyPI",
-   "url": "https://pypi.org/project/tergite-chipcal/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-10-28T09:47:40+00:00"
-  },
-  {
-   "title": "Japan experiments with autonomous AI chainsaw-wielding robots",
-   "url": "https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches",
-   "source": "Tom's Hardware UK",
-   "category": "robotics",
-   "published": "2026-10-28T09:40:00+00:00"
-  },
-  {
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-28T09:30:00+00:00"
-  },
-  {
    "title": "Legora is building the agentic operating system for legal work",
    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
    "source": "OpenAI",
@@ -220,11 +276,11 @@
    "published": "2026-10-28T09:30:00+00:00"
   },
   {
-   "title": "quspect added to PyPI",
-   "url": "https://pypi.org/project/quspect/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-10-28T08:21:37+00:00"
+   "title": "Shanghai Composite Rebounds 0.9% as Chinese Tech and Robot Stocks Rally on SK Hynix-Fueled AI Optimism",
+   "url": "https://www.ibtimes.com.au/chinese-stocks-rebound-ai-robotics-rally-1877508",
+   "source": "Ibtimes.com.au",
+   "category": "robotics",
+   "published": "2026-10-28T09:18:26+00:00"
   },
   {
    "title": "AI will improve software: Oracle's Larry Ellison rejects 'SaaS apocalypse'",
@@ -316,6 +372,20 @@
    "source": "The Information",
    "category": "health",
    "published": "2026-10-28T00:26:34+00:00"
+  },
+  {
+   "title": "Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers",
+   "url": "https://www.nature.com/articles/s41586-026-11178-z",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-10-28T00:00:00+00:00"
+  },
+  {
+   "title": "A multi-metric characterization of quantum convolutional neural networks: expressibility, trainability, and noise sensitivity",
+   "url": "https://www.nature.com/articles/s41598-026-73013-9.pdf",
+   "source": "Nature.com",
+   "category": "breakthroughs",
+   "published": "2026-10-28T00:00:00+00:00"
   },
   {
    "title": "A single-molecule spin\u2013photon interface",
@@ -491,20 +561,6 @@
    "source": "Google DeepMind",
    "category": "ai",
    "published": "2026-10-27T16:01:38+00:00"
-  },
-  {
-   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-27T15:00:20+00:00"
-  },
-  {
-   "title": "Retell uses OpenAI models to help power 100M monthly calls",
-   "url": "https://openai.com/index/retell-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-27T15:00:00+00:00"
   },
   {
    "title": "Nord Quantique Secures US$10 Million DARPA Stage B Extension",
@@ -722,13 +778,6 @@
    "source": "Pypi.org",
    "category": "robotics",
    "published": "2026-10-27T07:11:42+00:00"
-  },
-  {
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-27T07:00:00+00:00"
   },
   {
    "title": "Following industrial investment from Midea Group, Jodell unveils full-stack new products",
@@ -8037,13 +8086,6 @@
    "source": "Biztoc.com",
    "category": "compute",
    "published": "2026-10-08T21:23:56+00:00"
-  },
-  {
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-08T21:06:35+00:00"
   },
   {
    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -34959,48 +35001,6 @@
    "source": "GlobeNewswire",
    "category": "ai",
    "published": "2026-07-31T11:00:00+00:00"
-  },
-  {
-   "title": "Tesla China rolls out Doubao-powered voice assistant to four vehicle lines",
-   "url": "https://technode.com/2026/07/31/tesla-china-rolls-out-doubao-powered-voice-assistant-to-four-vehicle-lines/",
-   "source": "TechNode",
-   "category": "ai",
-   "published": "2026-07-31T08:23:29+00:00"
-  },
-  {
-   "title": "RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says",
-   "url": "https://biztoc.com/x/7963837c34287c17",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-31T08:15:03+00:00"
-  },
-  {
-   "title": "Agentic AI for banking compliance & onboarding",
-   "url": "https://www.straitstimes.com/business/spore-banks-using-ai-agents-to-vet-private-banking-clients-speed-up-onboarding",
-   "source": "The Straits Times",
-   "category": "ai",
-   "published": "2026-07-31T08:04:14+00:00"
-  },
-  {
-   "title": "EU call paves way for PPC AI gigafactory bid in western Greece",
-   "url": "https://www.naftemporiki.gr/english/2145036/eu-call-paves-way-for-ppc-ai-gigafactory-bid-in-western-greece/",
-   "source": "Naftemporiki.gr",
-   "category": "compute",
-   "published": "2026-07-31T08:03:35+00:00"
-  },
-  {
-   "title": "Microsoft earnings reflect efficiency gains from faster GPU deployment",
-   "url": "https://www.computerweekly.com/news/366646659/Microsoft-earnings-reflect-efficiency-gains-from-faster-GPU-deployment",
-   "source": "ComputerWeekly.com",
-   "category": "compute",
-   "published": "2026-07-31T08:00:00+00:00"
-  },
-  {
-   "title": "Canon Q2 Results: Cameras Boom as Compacts and AI Data Centers Lead to Record Profits",
-   "url": "https://www.canonrumors.com/canon-imaging-had-a-great-q2-2026/",
-   "source": "Canonrumors.com",
-   "category": "compute",
-   "published": "2026-07-31T07:54:16+00:00"
   }
  ]
 }
