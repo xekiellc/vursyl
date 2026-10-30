@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T05:05:01.514850+00:00",
+ "updated": "2026-10-30T12:28:07.686387+00:00",
  "items": [
   {
    "title": "Microsoft Research Focus \u2013 Edition #97",
@@ -9,11 +9,11 @@
    "published": "2026-10-29T19:19:16+00:00"
   },
   {
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "source": "NVIDIA",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-29T16:00:35+00:00"
+   "published": "2026-10-29T17:00:00+00:00"
   },
   {
    "title": "Slice Into GFN Thursday: \u2018Phantom Blade Zero\u2019 Launches on GeForce NOW",
@@ -21,6 +21,154 @@
    "source": "NVIDIA",
    "category": "compute",
    "published": "2026-10-29T13:00:16+00:00"
+  },
+  {
+   "title": "Show HN: Macvoice \u2013 A local voice agent for Mac in 1.4 GB, no PyTorch",
+   "url": "https://github.com/johnrobinsn/macvoice",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-10-29T12:25:54+00:00"
+  },
+  {
+   "title": "Ottawa-based AI video-surveillance company Solink raises $100-million in growth capital",
+   "url": "https://biztoc.com/x/92d2c1aeaad62ec5",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-29T12:22:49+00:00"
+  },
+  {
+   "title": "Our first step at defining a CPU benchmark for agentic AI",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-step-at-defining-a-cpu-benchmark-for-agentic-ai-how-we-can-measure-throughput-of-agentic-ai-workloads-without-any-gpu-involved",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-10-29T12:20:00+00:00"
+  },
+  {
+   "title": "Parse Biosciences and Nomic Announce 100 Million Cell, Multimodal AI-ready Dataset for Immune Biology",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/parse-biosciences-and-nomic-announce-100-million-cell-multimodal-ai-ready-dataset-for-immune-biology",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-10-29T12:17:33+00:00"
+  },
+  {
+   "title": "Nomic and Parse Build a Multimodal, Time-Resolved Dataset for AI Models of Immune Response",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nomic-and-parse-build-a-multimodal-time-resolved-dataset-for-ai-models-of-immune-response",
+   "source": "Financial Post",
+   "category": "health",
+   "published": "2026-10-29T12:16:23+00:00"
+  },
+  {
+   "title": "Korea Holds 1st AI Creative Contest for Children to Make Webtoons",
+   "url": "https://www.animenewsnetwork.com/news/2026-10-29/korea-holds-1st-ai-creative-contest-for-children-to-make-webtoons/.243304",
+   "source": "Anime News Network",
+   "category": "ai",
+   "published": "2026-10-29T12:15:00+00:00"
+  },
+  {
+   "title": "Google Debuts New AI Models, Genie 4 and Gemini 4 Carbon: What You Need to Know",
+   "url": "https://biztoc.com/x/ad34b13afa5d6f76",
+   "source": "Biztoc.com",
+   "category": "ai",
+   "published": "2026-10-29T12:06:58+00:00"
+  },
+  {
+   "title": "AMD Releases FSR SDK 2.4 With FSR 4.1.2 Support For Radeon RX 6000 GPUs & Ryzen APUs, Vulkan Support And Improved Frame Pacing",
+   "url": "https://wccftech.com/amd-releases-fsr-sdk-2-4-with-fsr-4-1-2-support-for-radeon-rx-6000-gpus-ryzen-apus-vulkan-support-and-improved-frame-pacing/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-10-29T12:02:22+00:00"
+  },
+  {
+   "title": "Crux Labs raises over $6M to improve enterprise agents with human judgment",
+   "url": "https://siliconangle.com/2026/10/29/crux-labs-raises-over-6m-to-improve-enterprise-agents-with-human-judgment/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-29T12:00:48+00:00"
+  },
+  {
+   "title": "Solink raises more than $100M to pull business data from security cameras with AI",
+   "url": "https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-10-29T12:00:28+00:00"
+  },
+  {
+   "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand \u2014 $63 million injection is the largest invest",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186495402",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-10-29T11:53:41+00:00"
+  },
+  {
+   "title": "Healthcare's AI race heats up",
+   "url": "https://www.businessinsider.com/retatrutide-ozempic-eli-lilly-health-tech-ai-robin-ro-medicine#article",
+   "source": "Business Insider",
+   "category": "health",
+   "published": "2026-10-29T11:05:31+00:00"
+  },
+  {
+   "title": "Does your company need a chief quantum officer?",
+   "url": "https://fortune.com/2026/10/29/does-your-company-need-a-chief-quantum-officer/",
+   "source": "Fortune",
+   "category": "quantum",
+   "published": "2026-10-29T11:03:04+00:00"
+  },
+  {
+   "title": "Britain\u2019s ambitious scale-ups backed to keep growing in the UK",
+   "url": "https://www.gov.uk/government/news/britains-ambitious-scale-ups-backed-to-keep-growing-in-the-uk",
+   "source": "Www.gov.uk",
+   "category": "ai",
+   "published": "2026-10-29T10:01:12+00:00"
+  },
+  {
+   "title": "Linear-optical generation of hybrid Gottesman-Kitaev-Preskill entanglement from small-amplitude cat states",
+   "url": "https://link.aps.org/doi/10.1103/92yt-xgf3",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-29T10:00:00+00:00"
+  },
+  {
+   "title": "Continuum limit of a qubit-regularized SU(3) lattice gauge theory on a plaquette chain",
+   "url": "https://link.aps.org/doi/10.1103/xtsm-rw6d",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-10-29T10:00:00+00:00"
+  },
+  {
+   "title": "AGIBOT Introduces Worken to Measure Productive Robot Work at AGIBOT Innovation Day 2026",
+   "url": "https://www.prnewswire.co.uk/news-releases/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026-302923486.html",
+   "source": "PR Newswire UK",
+   "category": "robotics",
+   "published": "2026-10-29T09:33:00+00:00"
+  },
+  {
+   "title": "Datadog Builds a Specialist AI Model for SRE Investigations",
+   "url": "https://www.infoq.com/news/2026/10/datadog-scout-sre-model/",
+   "source": "InfoQ.com",
+   "category": "ai",
+   "published": "2026-10-29T09:00:00+00:00"
+  },
+  {
+   "title": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-29T09:00:00+00:00"
+  },
+  {
+   "title": "IQM Demonstrates Entanglement Across a Complete 54-Qubit Processor, Bringing Full-Chip Performance to Cloud Users",
+   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/iqm-demonstrates-entanglement-across-a-complete-54-qubit-processor-bringing-full-chip-performance-to-cloud-users",
+   "source": "Financial Post",
+   "category": "quantum",
+   "published": "2026-10-29T07:01:34+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "url": "https://openai.com/index/ropes-gray-ai-diligence",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-29T07:00:00+00:00"
   },
   {
    "title": "toolseed added to PyPI",
@@ -118,8 +266,7 @@
    "url": "https://www.sammobile.com/news/samsung-record-breaking-profit-usd-80-5-billion-q3-2026/",
    "source": "SamMobile",
    "category": "compute",
-   "published": "2026-10-29T04:32:37+00:00",
-   "breakthrough": true
+   "published": "2026-10-29T04:32:37+00:00"
   },
   {
    "title": "auspex3d added to PyPI",
@@ -171,13 +318,6 @@
    "published": "2026-10-29T04:21:24+00:00"
   },
   {
-   "title": "T-Mobile Wants Its 5G Network to Be the Brain Behind Robots",
-   "url": "https://www.tmonews.com/2026/10/t-mobile-wants-its-5g-network-to-be-the-brain-behind-robots/",
-   "source": "TmoNews",
-   "category": "robotics",
-   "published": "2026-10-29T04:00:21+00:00"
-  },
-  {
    "title": "Partnering with Singapore to bring frontier AI to public health",
    "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
    "source": "Blog.google",
@@ -185,25 +325,11 @@
    "published": "2026-10-29T03:30:00+00:00"
   },
   {
-   "title": "Samsung targets physical AI as Lee Jae-yong leads robotics push",
-   "url": "https://www.digitimes.com/news/a20261029PD207/samsung-robotics-technology-manufacturing-chairman.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-10-29T03:22:00+00:00"
-  },
-  {
    "title": "qsengine added to PyPI",
    "url": "https://pypi.org/project/qsengine/",
    "source": "Pypi.org",
    "category": "quantum",
    "published": "2026-10-29T03:16:52+00:00"
-  },
-  {
-   "title": "LG Electronics ties AI cooling and robot plans to new plants and a 2030 humanoid target",
-   "url": "https://www.digitimes.com/news/a20261029VL208/lg-electronics-earnings-data-center-cooling-robot-2030.html",
-   "source": "Digitimes",
-   "category": "robotics",
-   "published": "2026-10-29T02:37:21+00:00"
   },
   {
    "title": "ashmatics-datamodels 0.24.0",
@@ -231,13 +357,6 @@
    "url": "https://www.digitalocean.com/community/conceptual-articles/ai-agent-sandbox",
    "source": "Digitalocean.com",
    "category": "ai",
-   "published": "2026-10-29T00:00:00+00:00"
-  },
-  {
-   "title": "Joint algorithm of pose estimation and motion retargeting for humanoid robot motion training",
-   "url": "https://www.nature.com/articles/s41598-026-77780-3.pdf",
-   "source": "Nature.com",
-   "category": "robotics",
    "published": "2026-10-29T00:00:00+00:00"
   },
   {
@@ -297,6 +416,13 @@
    "published": "2026-10-28T19:12:59+00:00"
   },
   {
+   "title": "Altera unveils Agilex 2X, betting on AI developers to expand programmable computing",
+   "url": "https://siliconangle.com/?p=852249",
+   "source": "SiliconANGLE News",
+   "category": "compute",
+   "published": "2026-10-28T18:07:39+00:00"
+  },
+  {
    "title": "Gemini 4 Carbon: Our next frontier model",
    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
    "source": "Google DeepMind",
@@ -332,25 +458,11 @@
    "published": "2026-10-28T15:37:51+00:00"
   },
   {
-   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-28T15:00:46+00:00"
-  },
-  {
    "title": "Chinese Humanoid Stocks Catch Bid As Unitree Pulls Forward Breakthrough Timeline, JPM Turns Uber Bullish",
    "url": "https://biztoc.com/x/a1807ff314f6abce",
    "source": "Biztoc.com",
    "category": "robotics",
    "published": "2026-10-28T13:35:24+00:00"
-  },
-  {
-   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-28T13:15:00+00:00"
   },
   {
    "title": "caii-terminal 3.5.0",
@@ -526,13 +638,6 @@
    "source": "Pypi.org",
    "category": "quantum",
    "published": "2026-10-28T09:47:40+00:00"
-  },
-  {
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-28T09:30:00+00:00"
   },
   {
    "title": "Legora is building the agentic operating system for legal work",
@@ -829,20 +934,6 @@
    "published": "2026-10-27T17:04:50+00:00"
   },
   {
-   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-   "source": "NVIDIA",
-   "category": "health",
-   "published": "2026-10-27T15:00:20+00:00"
-  },
-  {
-   "title": "Retell uses OpenAI models to help power 100M monthly calls",
-   "url": "https://openai.com/index/retell-ai",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-27T15:00:00+00:00"
-  },
-  {
    "title": "Nord Quantique Secures US$10 Million DARPA Stage B Extension",
    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nord-quantique-secures-us10-million-darpa-stage-b-extension",
    "source": "Financial Post",
@@ -1058,13 +1149,6 @@
    "source": "Pypi.org",
    "category": "robotics",
    "published": "2026-10-27T07:11:42+00:00"
-  },
-  {
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-27T07:00:00+00:00"
   },
   {
    "title": "Following industrial investment from Midea Group, Jodell unveils full-stack new products",
@@ -34917,90 +35001,6 @@
    "source": "Biztoc.com",
    "category": "robotics",
    "published": "2026-08-01T02:23:51+00:00"
-  },
-  {
-   "title": "South Korea\u2019s Exports Extend Momentum as Chip Boom Persists",
-   "url": "https://financialpost.com/pmn/business-pmn/south-koreas-exports-extend-momentum-as-chip-boom-persists",
-   "source": "Financial Post",
-   "category": "compute",
-   "published": "2026-08-01T02:19:16+00:00"
-  },
-  {
-   "title": "How Octagos Gave Clinics a Partner They Could Trust by Building a Marketing Engine as Precise as Its Platform with HubSpot\u2019s Breeze Assistant",
-   "url": "https://www.hubspot.com/case-studies/octagos-breeze-assistant",
-   "source": "Hubspot.com",
-   "category": "health",
-   "published": "2026-08-01T01:16:51+00:00"
-  },
-  {
-   "title": "Data center players commit nearly $2.4 trillion in spending as AI race intensifies",
-   "url": "https://cryptobriefing.com/data-center-spending-2-4-trillion-ai/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-08-01T00:38:55+00:00"
-  },
-  {
-   "title": "Ten advances in mathematics and theoretical computer science",
-   "url": "https://openai.com/index/ten-advances-in-mathematics",
-   "source": "OpenAI",
-   "category": "breakthroughs",
-   "published": "2026-08-01T00:00:00+00:00"
-  },
-  {
-   "title": "Rainfall Health Applauds CMS on Latest Innovative Push Toward Universal Episode-Based Payment Models",
-   "url": "https://www.prnewswire.com/news-releases/rainfall-health-applauds-cms-on-latest-innovative-push-toward-universal-episode-based-payment-models-302840389.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-07-31T21:10:00+00:00"
-  },
-  {
-   "title": "Ahead Health launches in Germany and the Netherlands, backed by $10 million funding led by 3VC and RTP Global",
-   "url": "https://www.aheadhealth.com/ch/en/insights/ahead-health-launches-germany-netherlands-10-million-funding",
-   "source": "Aheadhealth.com",
-   "category": "health",
-   "published": "2026-07-31T20:20:13+00:00"
-  },
-  {
-   "title": "IBM quietly cleared a quantum computing hurdle experts doubted",
-   "url": "https://www.thestreet.com/technology/ibm-quantum-computing-breakthrough",
-   "source": "TheStreet",
-   "category": "quantum",
-   "published": "2026-07-31T20:07:00+00:00"
-  },
-  {
-   "title": "This hilarious robot collapse reminds me that robot development is nowhere near where it needs to be, but a huge breakthrough from DeepMind could change all that",
-   "url": "https://www.techradar.com/ai-platforms-assistants/gemini/this-hilarious-robot-collapse-reminds-me-that-robot-development-is-nowhere-near-where-it-needs-to-be-but-a-huge-breakthrough-from-deepmind-could-change-all-that",
-   "source": "TechRadar",
-   "category": "robotics",
-   "published": "2026-07-31T19:55:00+00:00"
-  },
-  {
-   "title": "This huge Texas solar hub is nearly 1 GW, and it\u2019s only half built",
-   "url": "http://electrek.co/2026/07/31/this-huge-texas-solar-hub-is-nearly-1-gw-and-its-only-half-built/",
-   "source": "Electrek",
-   "category": "compute",
-   "published": "2026-07-31T19:14:20+00:00"
-  },
-  {
-   "title": "llmtrim 0.12.2",
-   "url": "https://pypi.org/project/llmtrim/0.12.2/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-31T19:09:17+00:00"
-  },
-  {
-   "title": "How Alphabet and Amazon Each Built The \u2018Best\u2019 Nvidia Chip Alternatives",
-   "url": "https://biztoc.com/x/d4d2a2a3c6ddcc0c",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-07-31T19:05:18+00:00"
-  },
-  {
-   "title": "agent-inbox 0.34.0",
-   "url": "https://pypi.org/project/agent-inbox/0.34.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-07-31T19:04:04+00:00"
   }
  ]
 }
