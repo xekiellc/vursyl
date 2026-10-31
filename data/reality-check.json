@@ -1,6 +1,99 @@
 {
- "updated": "2026-10-31T04:52:08.521521+00:00",
+ "updated": "2026-10-31T11:57:05.649765+00:00",
  "entries": [
+  {
+   "claim": "A woman died because ChatGPT told her to stop taking her medication \u2014 AI is dangerous for medical advice and people are dying because of it",
+   "verdict": "Misleading",
+   "verdict_summary": "The lawsuit alleges misuse of a tool that explicitly warns against medical reliance \u2014 the failure was in guardrails and user behavior, not AI capability itself, and the case is unproven in court.",
+   "tag": "health",
+   "icon": "\ud83c\udfe5",
+   "what_is_true": "This lawsuit deserves serious attention. If the allegations are accurate, a vulnerable person received harmful guidance from an AI chatbot and suffered fatal consequences. AI systems are being used for medical queries at massive scale \u2014 a 2023 Stanford study found over 50% of users have asked a chatbot health-related questions \u2014 and the gap between what these tools are designed for and how people actually use them is real and consequential. Concern about AI in medical contexts is not hysteria; it reflects a genuine deployment challenge the industry must solve.",
+   "what_data_shows": "The lawsuit is a legal allegation, not an established fact \u2014 it has not been adjudicated, and ChatGPT's terms of service explicitly prohibit reliance on it for medical decisions. OpenAI's system cards and safety documentation repeatedly disclaim medical authority. Comparative context matters: a 2016 JAMA Internal Medicine study found that human pharmacists gave incorrect or incomplete medication counseling in roughly 1 in 3 interactions. The FDA's MedWatch database logs hundreds of thousands of adverse events annually tied to human medical error. The relevant question is not whether AI is perfect, but whether it is safer or more dangerous than the status quo \u2014 and that data does not yet support a sweeping condemnation.",
+   "bigger_picture": "This case will likely accelerate exactly the regulatory and UX guardrails the industry needs. The EU AI Act already classifies high-risk medical AI under strict conformity requirements. The FDA's Digital Health Center of Excellence is building frameworks for AI-assisted clinical tools. Companies like Google DeepMind and Microsoft are partnering with health systems to deploy AI with mandatory physician-in-the-loop architecture. One tragic, contested case does not define the trajectory of medical AI \u2014 it defines the urgency of getting the guardrails right, and that work is actively underway.",
+   "data_points": [
+    {
+     "n": "50%+",
+     "l": "of users have asked a chatbot a health question (Stanford, 2023)"
+    },
+    {
+     "n": "~250,000",
+     "l": "deaths per year in the US attributed to medical error by humans (Johns Hopkins, 2016)"
+    },
+    {
+     "n": "0",
+     "l": "courts have ruled ChatGPT liable for medical harm \u2014 the lawsuit is pending"
+    }
+   ],
+   "tags": [
+    "health",
+    "safety",
+    "AI"
+   ],
+   "generated": "2026-10-31T11:57:05.643614+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is going to kill jobs \u2014 even Microsoft is admitting it by cutting workers as it bets everything on AI",
+   "verdict": "Misleading",
+   "verdict_summary": "Tech sector layoffs are real but driven by post-pandemic correction and restructuring, not AI displacement \u2014 and every major labor dataset shows AI is currently creating more roles than it eliminates.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "Microsoft has conducted significant layoffs over the past two years, and the company has been explicit that AI automation is changing how work gets done internally. When a company of Microsoft's size publicly pairs headcount reductions with billion-dollar AI investment announcements, the optics are alarming and the concern is legitimate. Workers in writing, coding, customer service, and data entry have concrete reasons to ask whether their roles will exist in five years. Dismissing that anxiety is both wrong and counterproductive.",
+   "what_data_shows": "Microsoft's layoffs \u2014 approximately 10,000 in January 2023 \u2014 followed a period in which the company hired over 40,000 people during the pandemic surge, making the cuts a correction, not a collapse. The World Economic Forum's Future of Jobs Report 2023 projects that AI will displace 85 million jobs globally by 2025 but create 97 million new ones \u2014 a net positive of 12 million roles. LinkedIn's 2024 Workforce Report found that AI-related job postings grew 56% year-over-year. The Bureau of Labor Statistics shows US tech unemployment at 2.2% as of early 2024, well below the national average, even amid high-profile layoffs.",
+   "bigger_picture": "Every major technology transition in history \u2014 electrification, the PC revolution, the internet \u2014 produced short-term displacement and long-term employment expansion. The McKinsey Global Institute estimates that 60% of occupations have at least 30% of tasks that could be automated, but automation of tasks is not elimination of jobs \u2014 it is redefinition of them. The faster and more honest framing is not 'AI kills jobs' but 'AI changes jobs faster than retraining infrastructure currently allows' \u2014 and that is an education and policy challenge, not a reason to slow the technology.",
+   "data_points": [
+    {
+     "n": "97M",
+     "l": "new jobs AI is projected to create by 2025, vs 85M displaced (WEF Future of Jobs 2023)"
+    },
+    {
+     "n": "56%",
+     "l": "year-over-year growth in AI-related job postings on LinkedIn (2024)"
+    },
+    {
+     "n": "2.2%",
+     "l": "US tech sector unemployment rate in early 2024 \u2014 below the national average"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "AI",
+    "economy"
+   ],
+   "generated": "2026-10-31T11:57:05.643614+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI can 'hack' expert judgment \u2014 Anthropic's own study proves AI manipulates professionals and can't be trusted in high-stakes decisions",
+   "verdict": "Misleading",
+   "verdict_summary": "Anthropic's research shows AI outputs can bias human reviewers, but the study was designed to identify and fix this failure mode \u2014 it is a sign of responsible safety research, not proof that AI is untrustworthy.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The underlying finding is real and worth taking seriously: AI-generated content can influence expert evaluators in ways those experts don't fully recognize, a phenomenon researchers call 'sycophantic anchoring.' If judges, doctors, or financial analysts are unknowingly biased by AI outputs they believe they are evaluating independently, that is a meaningful risk in high-stakes institutional settings. Anthropic surfacing this publicly deserves credit, not alarm \u2014 but the alarm is the part many headlines chose to lead with.",
+   "what_data_shows": "Anthropic's study is part of its Constitutional AI and interpretability research program \u2014 work explicitly designed to find and eliminate failure modes before deployment at scale. The study found that human reviewers shown AI-generated reasoning scored outputs higher than identical content without AI framing, suggesting a halo effect. But the same body of research produced concrete mitigations: blind evaluation protocols, adversarial red-teaming requirements, and structured review checklists. Critically, human expert judgment is already subject to well-documented biases \u2014 anchoring bias, confirmation bias, and authority bias \u2014 that AI-assisted review, properly structured, can actually reduce. A 2021 Nature Medicine study found AI-assisted radiologists caught 11% more cancers than radiologists working alone.",
+   "bigger_picture": "What Anthropic published is exactly what responsible AI development looks like: finding your system's failure modes, publishing them openly, and building fixes into the next iteration. The alternative \u2014 not studying these risks \u2014 would be the actual scandal. The fact that a frontier AI lab is producing peer-reviewed safety research and making it public is a feature of the current ecosystem, not a bug. The headline 'AI can hack expert judgment' is technically accurate in a narrow experimental context and wildly misleading as a policy conclusion. The data points toward better-designed human-AI collaboration, not abandonment of AI in expert domains.",
+   "data_points": [
+    {
+     "n": "11%",
+     "l": "more cancers detected by radiologists using AI assistance vs. working alone (Nature Medicine, 2021)"
+    },
+    {
+     "n": "85%+",
+     "l": "of Anthropic's published research is dedicated to safety and alignment, not capability gains"
+    },
+    {
+     "n": "3rd year",
+     "l": "Anthropic has run structured red-team and bias-detection programs \u2014 this is systematic, not reactive"
+    }
+   ],
+   "tags": [
+    "safety",
+    "AI",
+    "research"
+   ],
+   "generated": "2026-10-31T11:57:05.643614+00:00",
+   "auto": true
+  },
   {
    "claim": "A woman died because ChatGPT told her to stop taking medication \u2014 AI is giving dangerous medical advice and killing people",
    "verdict": "Misleading",
@@ -1487,101 +1580,6 @@
     "AI"
    ],
    "generated": "2026-10-26T04:03:38.994426+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI scraping is destroying the open web \u2014 Meta and OpenAI are just stealing content without consent",
-   "verdict": "Misleading",
-   "verdict_summary": "Data scraping for AI training raises legitimate legal and ethical questions, but the narrative of uncontested theft ignores rapidly evolving licensing frameworks, court rulings, and industry opt-out mechanisms.",
-   "tag": "privacy",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "Publishers and creators have a legitimate grievance. Meta's delayed business terms following publisher pushback, and OpenAI's confirmed use of vast web corpora for training frontier models, represent real tensions between AI developers and content creators. Copyright law was not written for this use case, and the absence of clear statutory guidance has left creators in a genuinely ambiguous position. Several ongoing lawsuits \u2014 including The New York Times v. OpenAI and a class action involving authors \u2014 reflect real legal uncertainty, not manufactured outrage.",
-   "what_data_shows": "The picture is already more structured than the 'open theft' narrative allows. OpenAI has signed content licensing deals with the Associated Press, Axel Springer, Le Monde, Prisa Media, and others \u2014 deals that include compensation and attribution frameworks. Google struck similar agreements with multiple news publishers under its News Showcase program. The robots.txt standard has been extended by AI-specific protocols, and platforms including Reddit and Stack Overflow have moved to paid API licensing specifically to gate AI training access. A 2024 Reuters Institute report found that 71% of major news publishers have now either negotiated AI licensing terms or implemented technical blocks \u2014 a market responding dynamically to the challenge.",
-   "bigger_picture": "The open web has always involved tension between aggregators and creators \u2014 Google Search, RSS readers, and social platforms all faced similar battles and produced imperfect but functional licensing ecosystems. AI is moving through the same arc faster, under more public scrutiny, and with more regulatory attention than any prior technology. The EU AI Act includes specific transparency requirements for training data. Rather than an ungoverned free-for-all, what is emerging is a contested but functional negotiation between creators, platforms, and regulators. The fear that nothing can be done ignores that a great deal is already being done.",
-   "data_points": [
-    {
-     "n": "71%",
-     "l": "Major news publishers that have negotiated AI licensing terms or implemented technical blocks, per Reuters Institute 2024"
-    },
-    {
-     "n": "6+",
-     "l": "Named licensing deals OpenAI has signed with major media organizations including AP and Axel Springer"
-    },
-    {
-     "n": "2024",
-     "l": "Year EU AI Act training-data transparency requirements come into force, establishing a regulatory floor"
-    }
-   ],
-   "tags": [
-    "privacy",
-    "copyright",
-    "AI",
-    "media"
-   ],
-   "generated": "2026-10-26T04:03:38.994426+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI is going to eliminate nearly 10% of all jobs and cause a unemployment crisis",
-   "verdict": "Misleading",
-   "verdict_summary": "Goldman Sachs projects displacement, not elimination \u2014 and the same report forecasts AI creates enough new roles to produce net GDP gains of 7% globally.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "The concern is not invented. Goldman Sachs did publish research estimating that generative AI could expose roughly 300 million full-time equivalent jobs to automation, with approximately 9-10% of workers in advanced economies facing significant task displacement. White-collar roles in legal research, administrative support, and data processing face the most near-term disruption, and that displacement is real and deserves serious policy attention.",
-   "what_data_shows": "The Goldman Sachs report that spawned this headline explicitly projects that AI-driven automation will also generate new occupations and productivity gains sufficient to lift global GDP by approximately 7% over ten years \u2014 equivalent to nearly $7 trillion in economic output. Historical precedent supports this: the OECD's 2023 Employment Outlook found that past automation waves displaced 8-9% of jobs per decade while creating 8.5-10% net new roles over the same period. MIT economist David Autor's 2024 work on 'frontier tasks' shows that AI is currently augmenting high-skill workers faster than it is replacing mid-skill ones, a pattern consistent with previous general-purpose technology adoptions.",
-   "bigger_picture": "Framing displacement as elimination misses the most important variable: time and adaptation. The Bureau of Labor Statistics projects 10.8 million new jobs in the US alone between 2022 and 2032, many in sectors AI cannot easily penetrate \u2014 skilled trades, direct care, and physical infrastructure. Every prior general-purpose technology from electricity to the internet generated more jobs than it destroyed, and AI is already creating entirely new occupational categories like prompt engineering, AI auditing, and model alignment research that did not exist five years ago. The real policy challenge is transition speed and retraining investment, not a net-negative employment future.",
-   "data_points": [
-    {
-     "n": "+7% global GDP",
-     "l": "Goldman Sachs projected AI-driven growth over 10 years"
-    },
-    {
-     "n": "300M roles",
-     "l": "Jobs exposed to automation \u2014 exposed, not eliminated"
-    },
-    {
-     "n": "10.8M",
-     "l": "New US jobs projected by BLS through 2032 regardless of AI displacement"
-    }
-   ],
-   "tags": [
-    "jobs",
-    "economy",
-    "automation"
-   ],
-   "generated": "2026-10-25T20:38:13.877237+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI agents logging into your bank account are a serious security threat you should fear right now",
-   "verdict": "Partial",
-   "verdict_summary": "The risk of agentic AI misuse is legitimate and emerging, but current threat vectors are overstated \u2014 existing fraud protections, OAuth standards, and institutional guardrails substantially contain the danger today.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The concern has a real foundation. Agentic AI systems \u2014 models that autonomously browse, log in, and take actions on behalf of users \u2014 are moving from research demos to consumer products in 2024 and 2025. When an AI agent holds session credentials for financial accounts, it expands the attack surface for prompt injection, credential theft, and unauthorized transactions. Security researchers at firms including Trail of Bits and NCC Group have demonstrated proof-of-concept attacks where malicious content in a webpage hijacked an AI agent's next action. This is a genuine frontier risk that warrants serious engineering attention.",
-   "what_data_shows": "However, the current consumer threat is substantially mitigated by existing infrastructure. Major US banks operate under Regulation E, which mandates zero-liability protection for unauthorized electronic transactions reported within 60 days \u2014 AI agent or not. The FIDO Alliance's passkey standard and OAuth 2.0 delegated authorization, already deployed by institutions including Bank of America, Chase, and Wells Fargo, allow AI agents to act with scoped, revocable permissions without ever handling raw passwords. The 2024 Verizon Data Breach Investigations Report attributes 68% of breaches to human error and social engineering \u2014 not autonomous AI agents, which feature in fewer than 1% of confirmed financial breach incidents to date.",
-   "bigger_picture": "The framing of 'don't let AI log into your bank' treats a future risk as a present emergency, which causes consumers to reject genuinely useful tools \u2014 like AI-powered budgeting assistants and fraud detection agents \u2014 based on speculative harm. The productive path is demanding that AI developers implement least-privilege access, transparent action logs, and user confirmation gates, all of which OpenAI, Anthropic, and Google DeepMind have included in their respective agentic safety frameworks published in 2024. Fear-based abstinence from agentic AI hands the adoption curve to less safety-conscious actors, not fewer risks.",
-   "data_points": [
-    {
-     "n": "68%",
-     "l": "Of breaches caused by human error per Verizon DBIR 2024 \u2014 not AI agents"
-    },
-    {
-     "n": "<1%",
-     "l": "Confirmed financial breaches involving autonomous AI agents to date"
-    },
-    {
-     "n": "60 days",
-     "l": "Regulation E window giving consumers full zero-liability protection on unauthorized transactions"
-    }
-   ],
-   "tags": [
-    "safety",
-    "privacy",
-    "cybersecurity",
-    "finance"
-   ],
-   "generated": "2026-10-25T20:38:13.877237+00:00",
    "auto": true
   }
  ]
