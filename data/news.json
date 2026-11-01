@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-31T21:14:54.554211+00:00",
+ "updated": "2026-11-01T05:17:33.342820+00:00",
  "items": [
+  {
+   "title": "TU allocates Rs 10.25 million for human resource development",
+   "url": "https://english.khabarhub.com/2026/31/573827/",
+   "source": "Khabarhub.com",
+   "category": "ai",
+   "published": "2026-10-31T05:01:52+00:00"
+  },
+  {
+   "title": "agentensemble 0.4.0",
+   "url": "https://pypi.org/project/agentensemble/0.4.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-10-31T04:34:37+00:00"
+  },
+  {
+   "title": "Traditional Chinese Medicine Formula Kills Drug-Resistant Cancer Cells in The Lab",
+   "url": "https://www.sciencealert.com/traditional-chinese-medicine-formula-kills-drug-resistant-cancer-cells-in-the-lab",
+   "source": "ScienceAlert",
+   "category": "health",
+   "published": "2026-10-31T00:00:00+00:00"
+  },
   {
    "title": "Show HN: Optimized CUDA forced alignment kernels. 10x \u2013 1000x faster",
    "url": "https://github.com/brthor/fast-forced-aligner",
@@ -49,41 +70,6 @@
    "source": "Nvidia.com",
    "category": "compute",
    "published": "2026-10-30T20:33:21+00:00"
-  },
-  {
-   "title": "6 insights from the GSA Women\u2019s Leadership Initiative: AI semiconductor industry trends turn the chip race into a systems race",
-   "url": "https://siliconangle.com/2026/10/30/ai-semiconductor-industry-trends-from-chips-systems-gsawomensleadershipinitiative/",
-   "source": "SiliconANGLE News",
-   "category": "compute",
-   "published": "2026-10-30T20:28:11+00:00"
-  },
-  {
-   "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
-   "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-10-30T20:15:00+00:00"
-  },
-  {
-   "title": "Mobile-health Network Solutions Launches MaNaDr Health Operating Ecosystem Connecting AI-Powered Virtual and In-Person Care",
-   "url": "https://finance.yahoo.com/healthcare/articles/mobile-health-network-solutions-launches-121000557.html",
-   "source": "Yahoo Entertainment",
-   "category": "health",
-   "published": "2026-10-30T20:14:32+00:00"
-  },
-  {
-   "title": "Mobile-health Network Solutions Reports FY2026 Results, Highlights Investments in AI, Advances Ghana Expansion, and Launches MaNaDr Health Operating Ecosystem for Global Rollout",
-   "url": "https://finance.yahoo.com/healthcare/articles/mobile-health-network-solutions-reports-120000154.html",
-   "source": "Yahoo Entertainment",
-   "category": "health",
-   "published": "2026-10-30T20:10:15+00:00"
-  },
-  {
-   "title": "Philips launches HyperVue Integrated System in the U.S., bringing advanced coronary imaging and physiology into the cathlab",
-   "url": "https://financialpost.com/globe-newswire/philips-launches-hypervue-integrated-system-in-the-u-s-bringing-advanced-coronary-imaging-and-physiology-into-the-cathlab",
-   "source": "Financial Post",
-   "category": "health",
-   "published": "2026-10-30T20:00:14+00:00"
   },
   {
    "title": "Extreme Networks wants the network to run AI, not just be run by it",
@@ -142,18 +128,18 @@
    "published": "2026-10-30T16:38:55+00:00"
   },
   {
-   "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-   "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-30T15:00:10+00:00"
+   "title": "How Smart Robots And AI Assemble Vehicles In 20 Hours",
+   "url": "https://www.ponoko.com/blog/ponoko/how-smart-robots-and-ai-assemble-vehicles-in-20-hours/",
+   "source": "Ponoko.com",
+   "category": "robotics",
+   "published": "2026-10-30T16:34:54+00:00"
   },
   {
-   "title": "Adrian Flux launches UK\u2019s first domestic humanoid robot insurance policy",
-   "url": "https://cryptobriefing.com/adrian-flux-humanoid-robot-insurance-uk/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-10-30T14:05:56+00:00"
+   "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+   "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-10-30T13:05:28+00:00"
   },
   {
    "title": "In 2025, Indiana University opened a free AI course to its alumni network of 805,000 people; more than 114,000 learners had already enrolled",
@@ -177,46 +163,11 @@
    "published": "2026-10-30T11:04:17+00:00"
   },
   {
-   "title": "Japan\u2019s KDDI Plans 1,000 AI Robots to Combat Labor Shortages",
-   "url": "https://news.sankakucomplex.com/n/UP-xj_vO1Ie0XG7PQKmSgQ",
-   "source": "Sankakucomplex.com",
-   "category": "robotics",
-   "published": "2026-10-30T11:00:00+00:00"
-  },
-  {
    "title": "Benchmarking Nvidia\u2019s Vera CPU for the data center \u2014 standalone Vera tested against Granite Rapids-AP and EPYC Turin",
    "url": "https://www.tomshardware.com/pc-components/cpus/benchmarking-nvidias-vera-cpu-for-the-data-center-standalone-vera-tested-against-granite-rapids-ap-and-epyc-turin",
    "source": "Tom's Hardware UK",
    "category": "compute",
    "published": "2026-10-30T11:00:00+00:00"
-  },
-  {
-   "title": "Photon pairs, squeezed light, and the quantum wave-mixing effect in a cascaded qubit system",
-   "url": "https://link.aps.org/doi/10.1103/cvt4-7799",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-30T10:00:00+00:00"
-  },
-  {
-   "title": "Talking to Superconducting Qubits with Millimeter Waves",
-   "url": "https://physics.aps.org/articles/v19/s140",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-10-30T10:00:00+00:00"
-  },
-  {
-   "title": "Making it easier for websites to express AI training preferences",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-30T09:30:00+00:00"
-  },
-  {
-   "title": "Noetix\u2019s RMB9,998 Humanoid Is Just the Start",
-   "url": "https://technode.com/2026/10/30/noetix-rmb9998-humanoid-just-the-start/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-10-30T09:00:18+00:00"
   },
   {
    "title": "Community safety report and new protections for teens",
@@ -423,13 +374,6 @@
    "published": "2026-10-29T16:39:20+00:00"
   },
   {
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-29T16:00:35+00:00"
-  },
-  {
    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
    "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
    "source": "Skypilot.ai",
@@ -449,13 +393,6 @@
    "source": "Plos.org",
    "category": "breakthroughs",
    "published": "2026-10-29T14:00:00+00:00"
-  },
-  {
-   "title": "Slice Into GFN Thursday: \u2018Phantom Blade Zero\u2019 Launches on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-29T13:00:16+00:00"
   },
   {
    "title": "Show HN: Macvoice \u2013 A local voice agent for Mac in 1.4 GB, no PyTorch",
@@ -589,13 +526,6 @@
    "source": "Financial Post",
    "category": "quantum",
    "published": "2026-10-29T07:01:34+00:00"
-  },
-  {
-   "title": "How Ropes & Gray is developing AI for transactional diligence",
-   "url": "https://openai.com/index/ropes-gray-ai-diligence",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-29T07:00:00+00:00"
   },
   {
    "title": "toolseed added to PyPI",
@@ -794,13 +724,6 @@
    "published": "2026-10-29T00:54:38+00:00"
   },
   {
-   "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-   "url": "https://openai.com/index/credit-saison",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-29T00:00:00+00:00"
-  },
-  {
    "title": "Joint algorithm of pose estimation and motion retargeting for humanoid robot motion training",
    "url": "https://www.nature.com/articles/s41598-026-77780-3.pdf",
    "source": "Nature.com",
@@ -906,13 +829,6 @@
    "published": "2026-10-28T16:36:32+00:00"
   },
   {
-   "title": "3 Questions: Why infrastructure is entering a defining era",
-   "url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
-   "source": "MIT News AI",
-   "category": "compute",
-   "published": "2026-10-28T16:00:00+00:00"
-  },
-  {
    "title": "quackd-toddlerbot 0.28.0",
    "url": "https://pypi.org/project/quackd-toddlerbot/0.28.0/",
    "source": "Pypi.org",
@@ -920,25 +836,11 @@
    "published": "2026-10-28T15:37:51+00:00"
   },
   {
-   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-10-28T15:00:46+00:00"
-  },
-  {
    "title": "Chinese Humanoid Stocks Catch Bid As Unitree Pulls Forward Breakthrough Timeline, JPM Turns Uber Bullish",
    "url": "https://biztoc.com/x/a1807ff314f6abce",
    "source": "Biztoc.com",
    "category": "robotics",
    "published": "2026-10-28T13:35:24+00:00"
-  },
-  {
-   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-28T13:15:00+00:00"
   },
   {
    "title": "caii-terminal 3.5.0",
