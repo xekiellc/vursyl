@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-02T05:16:44.342994+00:00",
+ "updated": "2026-11-02T15:14:04.397812+00:00",
  "items": [
+  {
+   "title": "Introducing the Grid Protectors Program",
+   "url": "https://openai.com/index/grid-protectors-program",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-02T15:00:00+00:00"
+  },
+  {
+   "title": "Could AI improve echocardiogram assessment and predict heart outcomes?",
+   "url": "https://www.medicalnewstoday.com/articles/could-ai-improve-echocardiogram-assessment-and-predict-heart-outcomes",
+   "source": "Medical News Today",
+   "category": "health",
+   "published": "2026-11-01T14:59:38+00:00"
+  },
+  {
+   "title": "Google\u2019s Suncatcher satellite runs AI in orbit and sends a haiku home",
+   "url": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
+   "source": "The Next Web",
+   "category": "compute",
+   "published": "2026-11-01T14:42:10+00:00"
+  },
+  {
+   "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-11-01T14:21:23+00:00"
+  },
+  {
+   "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows \u2014 lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186546033",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-11-01T14:12:57+00:00"
+  },
+  {
+   "title": "How to Run an AI Model Locally\u2014And Why You Might Want To",
+   "url": "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want",
+   "source": "Decrypt",
+   "category": "ai",
+   "published": "2026-11-01T14:01:02+00:00"
+  },
+  {
+   "title": "AMD might have accidentally created the best value GPU in 2026",
+   "url": "https://www.makeuseof.com/amd-might-have-accidentally-created-the-best-value-gpu-in-2026/",
+   "source": "MakeUseOf",
+   "category": "compute",
+   "published": "2026-11-01T14:00:16+00:00"
+  },
+  {
+   "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows \u2014 lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops",
+   "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-11-01T14:00:00+00:00"
+  },
+  {
+   "title": "3 Ways Humanoid Robots May Change Our Children",
+   "url": "https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202610/3-ways-humanoid-robots-may-change-our-children",
+   "source": "Psychology Today",
+   "category": "robotics",
+   "published": "2026-11-01T13:48:37+00:00"
+  },
+  {
+   "title": "Microsoft AI beats doctors in simulated diagnosis test",
+   "url": "https://www.foxnews.com/tech/microsoft-ai-beats-doctors-simulated-diagnosis-test",
+   "source": "Fox News",
+   "category": "ai",
+   "published": "2026-11-01T11:34:10+00:00"
+  },
+  {
+   "title": "2,152 more AI cameras, 85% conviction rate: Amit Shah lauds Chandigarh Police on Raising Day",
+   "url": "https://timesofindia.indiatimes.com/city/chandigarh/2152-more-ai-cameras-85-conviction-rate-amit-shah-lauds-chandigarh-police-on-raising-day/articleshow/135423388.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-11-01T09:45:11+00:00"
+  },
   {
    "title": "graphsnip added to PyPI",
    "url": "https://pypi.org/project/graphsnip/",
@@ -268,6 +345,13 @@
    "published": "2026-10-31T21:27:56+00:00"
   },
   {
+   "title": "Quantum algorithm targets wave simulations beyond the reach of supercomputers",
+   "url": "https://www.digitaljournal.com/article/quantum-algorithm-targets-wave-simulations-beyond-the-reach-of-supercomputers/",
+   "source": "Digital Journal",
+   "category": "quantum",
+   "published": "2026-10-31T21:23:24+00:00"
+  },
+  {
    "title": "mojolearn-nvidia-ptx 0.8.63",
    "url": "https://pypi.org/project/mojolearn-nvidia-ptx/0.8.63/",
    "source": "Pypi.org",
@@ -399,6 +483,28 @@
    "source": "ScienceAlert",
    "category": "health",
    "published": "2026-10-31T19:00:00+00:00"
+  },
+  {
+   "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
+   "url": "https://www.channelnewsasia.com/business/meta-builds-humanoid-robot-chinese-startup-fourier-information-says-6509811",
+   "source": "CNA",
+   "category": "robotics",
+   "published": "2026-10-31T16:13:30+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Meta and Fourier reportedly built a 106-pound humanoid robot named Max in three months",
+   "url": "https://cryptobriefing.com/meta-fourier-humanoid-robot-max/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-10-31T16:08:11+00:00"
+  },
+  {
+   "title": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
+   "url": "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push",
+   "source": "The Information",
+   "category": "robotics",
+   "published": "2026-10-31T16:00:40+00:00"
   },
   {
    "title": "Doctors back their own software: Docterz raises \u20b95 cr, nearly 60% from users of its clinic platform",
@@ -562,13 +668,6 @@
    "published": "2026-10-30T20:28:11+00:00"
   },
   {
-   "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
-   "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-10-30T20:15:00+00:00"
-  },
-  {
    "title": "Extreme Networks wants the network to run AI, not just be run by it",
    "url": "https://siliconangle.com/2026/10/30/extreme-networks-wants-the-network-to-run-ai-not-just-be-run-by-it/",
    "source": "SiliconANGLE News",
@@ -625,11 +724,11 @@
    "published": "2026-10-30T16:38:55+00:00"
   },
   {
-   "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-   "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-   "source": "NVIDIA",
+   "title": "Speeding up planning decisions with AI",
+   "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "source": "Google DeepMind",
    "category": "ai",
-   "published": "2026-10-30T15:00:10+00:00"
+   "published": "2026-10-30T14:18:30+00:00"
   },
   {
    "title": "Adrian Flux launches UK\u2019s first domestic humanoid robot insurance policy",
@@ -637,6 +736,13 @@
    "source": "Crypto Briefing",
    "category": "robotics",
    "published": "2026-10-30T14:05:56+00:00"
+  },
+  {
+   "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+   "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-10-30T13:05:28+00:00"
   },
   {
    "title": "In 2025, Indiana University opened a free AI course to its alumni network of 805,000 people; more than 114,000 learners had already enrolled",
@@ -667,11 +773,11 @@
    "published": "2026-10-30T11:00:00+00:00"
   },
   {
-   "title": "Making it easier for websites to express AI training preferences",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "title": "Community safety report and new protections for teens",
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-10-30T09:30:00+00:00"
+   "published": "2026-10-30T09:00:00+00:00"
   },
   {
    "title": "Development, Validation and AI Chatbot Evaluation of the Adolescent Mental Health AI Response Tool",
@@ -742,13 +848,6 @@
    "source": "ScienceAlert",
    "category": "health",
    "published": "2026-10-30T00:42:07+00:00"
-  },
-  {
-   "title": "Fair use benefits everyone",
-   "url": "https://openai.com/index/fair-use-benefits-everyone",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-10-30T00:00:00+00:00"
   },
   {
    "title": "Dentists\u2019 acceptance of artificial intelligence-assisted decision support for oral potentially malignant disorder detection: a structural equation modeling study",
@@ -863,18 +962,18 @@
    "published": "2026-10-29T18:28:11+00:00"
   },
   {
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-10-29T17:00:00+00:00"
+  },
+  {
    "title": "Invariz partners with IEM Kolkata to launch AI centre of excellence",
    "url": "https://timesofindia.indiatimes.com/city/kolkata/invariz-partners-with-iem-kolkata-to-launch-ai-centre-of-excellence/articleshow/135324162.cms",
    "source": "The Times of India",
    "category": "ai",
    "published": "2026-10-29T16:39:20+00:00"
-  },
-  {
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-10-29T16:00:35+00:00"
   },
   {
    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
@@ -34902,104 +35001,6 @@
    "source": "GlobeNewswire",
    "category": "health",
    "published": "2026-08-04T13:27:00+00:00"
-  },
-  {
-   "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-   "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-04T13:00:47+00:00"
-  },
-  {
-   "title": "Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says",
-   "url": "https://finance.yahoo.com/technology/articles/chinese-robot-maker-unitree-seen-103516395.html",
-   "source": "Yahoo Entertainment",
-   "category": "robotics",
-   "published": "2026-08-04T10:35:16+00:00"
-  },
-  {
-   "title": "The benefits of medical AI assistance vary based on user expertise",
-   "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
-   "source": "MIT News AI",
-   "category": "health",
-   "published": "2026-08-04T09:00:00+00:00"
-  },
-  {
-   "title": "llmbo-bedrock 0.2.4",
-   "url": "https://pypi.org/project/llmbo-bedrock/0.2.4/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-04T08:34:54+00:00"
-  },
-  {
-   "title": "Comparing GraphRAG and Traditional RAG for Enterprise Knowledge Retrieval",
-   "url": "https://www.c-sharpcorner.com/article/comparing-graphrag-and-traditional-rag-for-enterprise-knowledge-retrieval/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-08-04T08:33:55+00:00"
-  },
-  {
-   "title": "Show HN: Made Our BI v7 \u2013 Free Open Source with All Features (AI, SSO, RLS etc.)",
-   "url": "https://news.ycombinator.com/item?id=49165810",
-   "source": "Hacker News",
-   "category": "ai",
-   "published": "2026-08-04T08:32:50+00:00"
-  },
-  {
-   "title": "Building Enterprise AI Audit Trails with Microsoft Fabric",
-   "url": "https://www.c-sharpcorner.com/article/building-enterprise-ai-audit-trails-with-microsoft-fabric/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-08-04T08:30:45+00:00"
-  },
-  {
-   "title": "Implementing Agent-to-Agent Communication Protocols in Enterprise Systems",
-   "url": "https://www.c-sharpcorner.com/article/implementing-agent-to-agent-communication-protocols-in-enterprise-systems/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-08-04T08:25:33+00:00"
-  },
-  {
-   "title": "Using AI to generate Indigenous culture | ABC NEWS Loop",
-   "url": "https://biztoc.com/x/4a75dcce9cc4d4e1",
-   "source": "Biztoc.com",
-   "category": "ai",
-   "published": "2026-08-04T08:24:37+00:00"
-  },
-  {
-   "title": "Enterprise Prompt Firewall Design for AI Applications",
-   "url": "https://www.c-sharpcorner.com/article/enterprise-prompt-firewall-design-for-ai-applications/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-08-04T08:23:44+00:00"
-  },
-  {
-   "title": "Building AI-Powered Build Diagnostics with the Microsoft Binlog MCP Server",
-   "url": "https://www.c-sharpcorner.com/article/building-ai-powered-build-diagnostics-with-the-microsoft-binlog-mcp-server/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-08-04T08:02:26+00:00"
-  },
-  {
-   "title": "Benchmarking Embedding Models for Enterprise Semantic Search Applications",
-   "url": "https://www.c-sharpcorner.com/article/benchmarking-embedding-models-for-enterprise-semantic-search-applications/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-08-04T08:01:41+00:00"
-  },
-  {
-   "title": "AI\u00b2 Robotics eyes Hong Kong IPO after raising over $890M for humanoid robots",
-   "url": "https://cryptobriefing.com/ai2-robotics-hong-kong-ipo/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-08-04T07:46:33+00:00"
-  },
-  {
-   "title": "More PC gamers are using GPUs with 16GB of VRAM than 8GB, according to the latest Steam data",
-   "url": "https://www.tweaktown.com/news/112992/more-pc-gamers-are-using-gpus-with-16gb-of-vram-than-8gb-according-to-the-latest-steam-data/index.html",
-   "source": "TweakTown",
-   "category": "compute",
-   "published": "2026-08-04T07:26:08+00:00"
   }
  ]
 }
