@@ -1,26 +1,223 @@
 {
- "updated": "2026-11-05T14:23:38.705816+00:00",
+ "updated": "2026-11-05T23:28:59.165578+00:00",
  "items": [
   {
-   "title": "\u2018Hogwarts Legacy\u2019 Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+   "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
    "source": "NVIDIA",
    "category": "compute",
-   "published": "2026-11-05T14:00:34+00:00"
+   "published": "2026-11-05T20:00:41+00:00"
   },
   {
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "source": "OpenAI",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-11-05T02:00:00+00:00"
+   "published": "2026-11-05T17:00:35+00:00"
   },
   {
-   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-05T16:00:05+00:00"
+  },
+  {
+   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI\u2019s Memory Challenge",
+   "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-11-05T16:00:00+00:00"
+  },
+  {
+   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+   "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-11-05T16:00:00+00:00"
+  },
+  {
+   "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-04T14:30:00+00:00"
+   "published": "2026-11-05T09:00:00+00:00"
+  },
+  {
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-05T08:00:00+00:00"
+  },
+  {
+   "title": "Clearing up a robot\u2019s fuzzy memory",
+   "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-11-05T05:00:00+00:00"
+  },
+  {
+   "title": "nvidia-cublas 13.10.0.20",
+   "url": "https://pypi.org/project/nvidia-cublas/13.10.0.20/",
+   "source": "Pypi.org",
+   "category": "compute",
+   "published": "2026-11-04T23:26:43+00:00"
+  },
+  {
+   "title": "ai-audit-logger added to PyPI",
+   "url": "https://pypi.org/project/ai-audit-logger/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-04T23:13:32+00:00"
+  },
+  {
+   "title": "llm-tool-brave 0.11.0",
+   "url": "https://pypi.org/project/llm-tool-brave/0.11.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-04T23:00:05+00:00"
+  },
+  {
+   "title": "medpipe 0.4.1",
+   "url": "https://pypi.org/project/medpipe/0.4.1/",
+   "source": "Pypi.org",
+   "category": "health",
+   "published": "2026-11-04T22:49:02+00:00"
+  },
+  {
+   "title": "async-batch-llm 1.0.0rc1",
+   "url": "https://pypi.org/project/async-batch-llm/1.0.0rc1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-04T22:45:14+00:00"
+  },
+  {
+   "title": "ARMBIAN: Armbian 26.11 \u2013 Testing begins",
+   "url": "https://blog.armbian.com/armbian-26-11-testing-begins/",
+   "source": "Armbian.com",
+   "category": "compute",
+   "published": "2026-11-04T22:44:07+00:00"
+  },
+  {
+   "title": "voice2text 0.5.19",
+   "url": "https://pypi.org/project/voice2text/0.5.19/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-04T22:40:32+00:00"
+  },
+  {
+   "title": "lmlite 0.12.0",
+   "url": "https://pypi.org/project/lmlite/0.12.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-04T22:30:04+00:00"
+  },
+  {
+   "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
+   "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-11-04T22:20:12+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "qasp added to PyPI",
+   "url": "https://pypi.org/project/qasp/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-04T22:09:46+00:00"
+  },
+  {
+   "title": "Laza Medical Raises Up to $160 Million in Series B Financing Led by GE HealthCare to Advance Intelligent Imaging for Transforming the Cath Lab",
+   "url": "https://www.prnewswire.co.uk/news-releases/laza-medical-raises-up-to-160-million-in-series-b-financing-led-by-ge-healthcare-to-advance-intelligent-imaging-for-transforming-the-cath-lab-302929828.html",
+   "source": "PR Newswire UK",
+   "category": "health",
+   "published": "2026-11-04T21:34:00+00:00"
+  },
+  {
+   "title": "AIVISKAR 2026 at CGC University, Mohali, Redefines India\u2019s AI Innovation Landscape - The Tribune",
+   "url": "https://www.tribuneindia.com/news/business/aiviskar-2026-at-cgc-university-mohali-redefines-indias-ai-innovation-landscape/",
+   "source": "The Tribune India",
+   "category": "ai",
+   "published": "2026-11-04T21:27:31+00:00"
+  },
+  {
+   "title": "Amwell Says One-Third of Adults Now Using AI Health Tools",
+   "url": "https://www.pymnts.com/earnings/2026/amwell-says-one-third-of-adults-now-using-ai-health-tools/",
+   "source": "pymnts.com",
+   "category": "health",
+   "published": "2026-11-04T20:37:07+00:00"
+  },
+  {
+   "title": "Anthropic Develops Tools to Confirm AI Models\u2019 Identities",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-develops-tools-to-confirm-ai-models-identities/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-11-04T20:34:30+00:00"
+  },
+  {
+   "title": "Disneyland Is Training a Class of AI Robot Interns",
+   "url": "https://www.cnet.com/tech/computing/disneyland-training-ai-robot-interns/",
+   "source": "CNET",
+   "category": "robotics",
+   "published": "2026-11-04T20:13:45+00:00"
+  },
+  {
+   "title": "upheld added to PyPI",
+   "url": "https://pypi.org/project/upheld/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-04T19:40:12+00:00"
+  },
+  {
+   "title": "prwarden added to PyPI",
+   "url": "https://pypi.org/project/prwarden/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-04T19:21:56+00:00"
+  },
+  {
+   "title": "Why a pink potato-like robot is wheeling around Philadelphia",
+   "url": "https://www.popsci.com/science/orifice-awebot-robot-philadelphia/",
+   "source": "Popular Science",
+   "category": "robotics",
+   "published": "2026-11-04T19:17:00+00:00"
+  },
+  {
+   "title": "Microsoft\u2019s Medical AI Is Over Twice as Good Diagnosing Diseases as Doctors",
+   "url": "https://singularityhub.com/2026/11/04/microsofts-medical-ai-is-over-twice-as-good-diagnosing-diseases-as-doctors/#article",
+   "source": "Singularity Hub",
+   "category": "health",
+   "published": "2026-11-04T18:55:52+00:00"
+  },
+  {
+   "title": "Turn your home into a giant crane game with this open source robot",
+   "url": "https://www.theregister.com/offbeat/2026/11/04/turn-your-home-into-a-giant-crane-game-with-this-open-source-robot/5307628",
+   "source": "Theregister.com",
+   "category": "robotics",
+   "published": "2026-11-04T18:35:00+00:00"
+  },
+  {
+   "title": "Apple Intelligence Is Finally Coming to China in iOS 27.3: Report",
+   "url": "https://www.iphoneincanada.ca/2026/11/04/ios-27-3-beta-brings-ai-audio-tools-revamped-health-app-and-fresh-china-features/",
+   "source": "iPhone in Canada",
+   "category": "ai",
+   "published": "2026-11-04T18:32:21+00:00"
+  },
+  {
+   "title": "How ElevenLabs\u2019 CTO is rolling out AI agents\u2014and why he thinks bigger efficiency gains are ahead for the voice AI startup",
+   "url": "https://fortune.com/2026/11/04/waters-new-ai-tool-targets-one-of-the-pharmaceutical-industrys-most-tedious-tasks-2/",
+   "source": "Fortune",
+   "category": "ai",
+   "published": "2026-11-04T18:25:18+00:00"
+  },
+  {
+   "title": "Xiaomi\u2019s humanoid robots work a full 8-hour shift in its EV factory",
+   "url": "http://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory/",
+   "source": "Electrek",
+   "category": "robotics",
+   "published": "2026-11-04T16:23:06+00:00"
   },
   {
    "title": "patera-aiinterface 0.14.0",
@@ -149,32 +346,18 @@
    "published": "2026-11-04T12:58:46+00:00"
   },
   {
-   "title": "AIVISKAR 2026 at CGC University, Mohali, Redefines India\u2019s AI Innovation Landscape",
-   "url": "https://www.aninews.in/news/business/aiviskar-2026-at-cgc-university-mohali-redefines-india8217s-ai-innovation-landscape20261104172458",
-   "source": "ANI News",
+   "title": "quackd-toddlerbot 0.31.2",
+   "url": "https://pypi.org/project/quackd-toddlerbot/0.31.2/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-11-04T11:54:58+00:00"
+   "published": "2026-11-04T11:09:12+00:00"
   },
   {
-   "title": "New XPeng L05 set for UK launch with next-gen AI tech",
-   "url": "https://www.autoexpress.co.uk/xpeng/370825/new-xpeng-l05-set-bring-its-next-gen-ai-tech-brussels-motor-show",
-   "source": "AutoExpress",
-   "category": "robotics",
-   "published": "2026-11-04T10:06:44+00:00"
-  },
-  {
-   "title": "Why Meta Turned to China\u2019s Fourier for Its Humanoid Robot",
-   "url": "https://technode.com/2026/11/04/why-meta-turned-to-chinas-fourier-for-its-humanoid-robot/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-11-04T07:33:24+00:00"
-  },
-  {
-   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "title": "A thousand fewer paths to root",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-04T07:00:00+00:00"
+   "published": "2026-11-04T08:00:00+00:00"
   },
   {
    "title": "LiquidAI/d1-2B \u00b7 Hugging Face",
@@ -261,6 +444,13 @@
    "published": "2026-11-04T03:56:00+00:00"
   },
   {
+   "title": "Americans can now order a US-made tabletop humanoid for under $12,000",
+   "url": "https://newatlas.com/ai-humanoids/americans-realistic-humanoids-realbotix/",
+   "source": "New Atlas",
+   "category": "robotics",
+   "published": "2026-11-04T03:14:29+00:00"
+  },
+  {
    "title": "Apple Readies Launch of AI-Powered Health App",
    "url": "https://www.pymnts.com/fitness/2026/apple-readies-launch-of-ai-powered-health-app/",
    "source": "pymnts.com",
@@ -268,8 +458,15 @@
    "published": "2026-11-04T00:42:21+00:00"
   },
   {
-   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-   "url": "https://openai.com/index/devrev-enterprise-self-service",
+   "title": "Watch: Robots smash grueling 3,100-step mountain climb in a world first",
+   "url": "https://newatlas.com/ai-humanoids/watch-robot-dogs-climb-giant-mountain/",
+   "source": "New Atlas",
+   "category": "robotics",
+   "published": "2026-11-04T00:00:57+00:00"
+  },
+  {
+   "title": "Introducing Images 2.6",
+   "url": "https://openai.com/index/introducing-images-2-6",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-11-04T00:00:00+00:00"
@@ -322,13 +519,6 @@
    "source": "Nature.com",
    "category": "health",
    "published": "2026-11-04T00:00:00+00:00"
-  },
-  {
-   "title": "Figure 03 humanoids walk out of a factory that\u2019s still far from full",
-   "url": "https://the-gadgeteer.com/2026/11/03/figure-03-humanoids-walk-out-of-botq/",
-   "source": "The Gadgeteer",
-   "category": "robotics",
-   "published": "2026-11-03T23:45:00+00:00"
   },
   {
    "title": "model-finder-mcp 1.3.7",
@@ -485,13 +675,6 @@
    "published": "2026-11-03T17:05:06+00:00"
   },
   {
-   "title": "AI Is Changing How Semiconductor Fabs Work \u2014 and Engineers Are Moving Faster Because of It",
-   "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-11-03T16:00:45+00:00"
-  },
-  {
    "title": "A Plasmodium knowlesi A1-H.1 transcriptome time course focusing on the late asexual blood stages",
    "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014727",
    "source": "Plos.org",
@@ -532,6 +715,13 @@
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-11-03T08:00:00+00:00"
+  },
+  {
+   "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+   "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-03T07:00:12+00:00"
   },
   {
    "title": "MIT Researchers Used GPT-6 Astra to Edit Qwen's Open Weights Directly",
@@ -924,13 +1114,6 @@
    "source": "Notebookcheck.net",
    "category": "robotics",
    "published": "2026-11-02T07:30:00+00:00"
-  },
-  {
-   "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
-   "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-11-02T05:35:00+00:00"
   },
   {
    "title": "China's robot makers have mastered the moves. Now comes the race for brains",
@@ -34818,188 +35001,6 @@
    "source": "MarketBeat",
    "category": "compute",
    "published": "2026-08-07T03:03:53+00:00"
-  },
-  {
-   "title": "Alibaba\u2019s Qwen 3.8-Max enters enterprise market with 2.4 trillion parameters and aggressive pricing",
-   "url": "https://cryptobriefing.com/alibaba-qwen-3-8-max-enterprise-pricing/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-08-07T01:45:04+00:00"
-  },
-  {
-   "title": "Twilio\u2019s stock jumps on solid earnings and revenue beat and strong momentum in voice AI",
-   "url": "https://siliconangle.com/2026/08/06/twilios-stock-jumps-solid-earnings-revenue-beat-strong-momentum-voice-ai/",
-   "source": "SiliconANGLE News",
-   "category": "ai",
-   "published": "2026-08-07T01:27:21+00:00"
-  },
-  {
-   "title": "Optical networking startup Lumilens launches with $900M in funding",
-   "url": "https://siliconangle.com/2026/08/06/optical-networking-startup-lumilens-launches-900m-funding/",
-   "source": "SiliconANGLE News",
-   "category": "compute",
-   "published": "2026-08-07T01:10:39+00:00"
-  },
-  {
-   "title": "Enamine\u3068SyntheticGestalt\u3001\u4e16\u754c\u6700\u5927\u898f\u6a21\u306eAI\u5275\u85ac\u30c7\u30fc\u30bf\u69cb\u7bc9\u306b\u5411\u3051\u305f\u5354\u696d\u3092\u767a\u8868",
-   "url": "https://prtimes.jp/main/html/rd/p/000000022.000123750.html",
-   "source": "Prtimes.jp",
-   "category": "health",
-   "published": "2026-08-07T01:10:00+00:00"
-  },
-  {
-   "title": "AMD Buys AI Chip Startup Taalas That Hardwires AI Models Into Its Silicon",
-   "url": "https://slashdot.org/submission/17349656/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon",
-   "source": "Slashdot.org",
-   "category": "compute",
-   "published": "2026-08-07T01:05:24+00:00"
-  },
-  {
-   "title": "A clinically validated framework for auditing AI chatbot behavior in mental health interactions",
-   "url": "https://www.nature.com/articles/s41591-026-04577-2",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-08-07T00:00:00+00:00"
-  },
-  {
-   "title": "Energenesis Biomedical and Taiwan Tanabe Seiyaku Enter Joint Development Agreement for ENERGI-F703DFU",
-   "url": "https://www.prnewswire.com/news-releases/energenesis-biomedical-and-taiwan-tanabe-seiyaku-enter-joint-development-agreement-for-energi-f703dfu-302845312.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-06T23:00:00+00:00"
-  },
-  {
-   "title": "What are Agentic Workflows?",
-   "url": "https://www.databricks.com/blog/agentic-workflows",
-   "source": "Databricks.com",
-   "category": "ai",
-   "published": "2026-08-06T21:36:15+00:00"
-  },
-  {
-   "title": "DuckDuckGo's anti-AI sunglasses sell out after launch",
-   "url": "https://www.usatoday.com/story/tech/2026/08/06/anti-ai-sunglasses-duckduckgo/91199499007/",
-   "source": "USA Today",
-   "category": "ai",
-   "published": "2026-08-06T21:15:45+00:00"
-  },
-  {
-   "title": "AI\u2019s privacy trilemma solved? Researchers unify three key technologies",
-   "url": "https://www.digitaljournal.com/article/ais-privacy-trilemma-solved-researchers-unify-three-key-technologies/",
-   "source": "Digital Journal",
-   "category": "ai",
-   "published": "2026-08-06T21:06:24+00:00"
-  },
-  {
-   "title": "SpaceX to Build Natural Gas Power Plants for Texas Chip Factory",
-   "url": "https://financialpost.com/pmn/business-pmn/spacex-to-build-natural-gas-power-plants-for-texas-chip-factory",
-   "source": "Financial Post",
-   "category": "compute",
-   "published": "2026-08-06T19:37:21+00:00"
-  },
-  {
-   "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
-   "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
-   "source": "Amazon.com",
-   "category": "ai",
-   "published": "2026-08-06T18:57:55+00:00"
-  },
-  {
-   "title": "Intel Diamond Rapids Xeon 7 CPU Leaks With Massive 240MB L3 Cache",
-   "url": "https://hothardware.com/news/intel-diamond-rapids-xeon-7-cpu-leak-240mb-l3",
-   "source": "Hot Hardware",
-   "category": "compute",
-   "published": "2026-08-06T18:55:00+00:00"
-  },
-  {
-   "title": "vLLM hits 500K GPUs as co-founder Simon Mo makes the case for open models",
-   "url": "https://cryptobriefing.com/vllm-500k-gpus-simon-mo-open-models/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-08-06T18:44:27+00:00"
-  },
-  {
-   "title": "AI Workloads Drive CPU Demand as AMD Discusses Longer-Term China Deals",
-   "url": "https://biztoc.com/x/b135dd9d2c27ad7c",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-08-06T18:44:17+00:00"
-  },
-  {
-   "title": "ABS and Samsung Heavy Industries Advance 50 MW and 200 MW Floating Data Center Designs",
-   "url": "https://gcaptain.com/abs-and-samsung-heavy-industries-advance-50-mw-and-200-mw-floating-data-center-designs/",
-   "source": "gcaptain.com",
-   "category": "compute",
-   "published": "2026-08-06T18:43:34+00:00"
-  },
-  {
-   "title": "Cloudflare expects $665M revenue in Q2 2026 as AI tailwinds push valuation to record highs",
-   "url": "https://cryptobriefing.com/cloudflare-q2-2026-revenue-guidance-ai-stablecoin/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-08-06T18:36:12+00:00"
-  },
-  {
-   "title": "Hadrian secures $7.87B valuation with $1.37B raise to supercharge defense manufacturing",
-   "url": "https://cryptobriefing.com/hadrian-valuation-defense-manufacturing-expansion/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-08-06T18:24:53+00:00"
-  },
-  {
-   "title": "Microsoft activates fourth data center region in India as part of $20.5 billion investment",
-   "url": "https://cryptobriefing.com/microsoft-fourth-data-center-india-investment/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-08-06T18:15:35+00:00"
-  },
-  {
-   "title": "Assembly Health Appoints David Millen as Chief Technology Officer",
-   "url": "https://www.prnewswire.com/news-releases/assembly-health-appoints-david-millen-as-chief-technology-officer-302845293.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-06T18:01:00+00:00"
-  },
-  {
-   "title": "OpenAI teams up with American Psychological Association to explore AI\u2019s role in youth mental health",
-   "url": "https://cryptobriefing.com/openai-apa-ai-youth-mental-health/",
-   "source": "Crypto Briefing",
-   "category": "health",
-   "published": "2026-08-06T17:31:43+00:00"
-  },
-  {
-   "title": "Global Regenerative Medicine Market is Projected to Cross the USD 160 Billion Mark by 2034 | DelveInsight",
-   "url": "https://www.globenewswire.com/news-release/2026/08/06/3340604/0/en/Global-Regenerative-Medicine-Market-is-Projected-to-Cross-the-USD-160-Billion-Mark-by-2034-DelveInsight.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-08-06T17:00:00+00:00"
-  },
-  {
-   "title": "Petfolk Winner Of 2026 Pet Innovation Award For \u201cPet Care Innovation of the Year\u201d",
-   "url": "https://www.globenewswire.com/news-release/2026/08/06/3340587/0/en/Petfolk-Winner-Of-2026-Pet-Innovation-Award-For-Pet-Care-Innovation-of-the-Year.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-08-06T16:30:00+00:00"
-  },
-  {
-   "title": "Sharecare launches AskMD nationwide to turn any health question into a personalized plan",
-   "url": "https://www.manilatimes.net/2026/08/06/tmt-newswire/globenewswire/sharecare-launches-askmd-nationwide-to-turn-any-health-question-into-a-personalized-plan/2400211",
-   "source": "The Manila Times",
-   "category": "health",
-   "published": "2026-08-06T16:23:08+00:00"
-  },
-  {
-   "title": "Scaling fine-grained access control for enterprise lakehouse using SageMaker Unified Studio and AWS Lake Formation",
-   "url": "https://aws.amazon.com/blogs/big-data/scaling-fine-grained-access-control-for-enterprise-lakehouse-using-sagemaker-unified-studio-and-aws-lake-formation/",
-   "source": "Amazon.com",
-   "category": "ai",
-   "published": "2026-08-06T16:17:59+00:00"
-  },
-  {
-   "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
-   "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/",
-   "source": "Amazon.com",
-   "category": "ai",
-   "published": "2026-08-06T16:11:13+00:00"
   }
  ]
 }

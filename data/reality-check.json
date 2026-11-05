@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-05T14:23:38.705816+00:00",
+ "updated": "2026-11-05T23:28:59.165578+00:00",
  "entries": [
+  {
+   "claim": "AI and data center companies spent hundreds of millions on elections and got nothing \u2014 proof the industry is in a bubble and losing public trust",
+   "verdict": "Misleading",
+   "verdict_summary": "Election spending outcomes reflect political miscalculation, not industry collapse \u2014 data center investment and AI adoption curves remain at historic highs.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "The concern has a real kernel: AI and crypto-aligned PACs did pour significant capital into the 2026 midterm cycle, and several candidates they backed underperformed. Political spending is a legitimate proxy for how industries perceive regulatory risk, and when that spending fails to move races, it signals that public skepticism of the sector is real and organized. Voters in multiple districts explicitly cited data center energy demands and local grid strain as reasons for their votes. That is not nothing.",
+   "what_data_shows": "Connecting electoral losses to an industry 'bubble' requires ignoring the actual capital allocation data. Hyperscaler capex commitments for 2025 and 2026 \u2014 from Microsoft ($80B), Google ($75B), and Amazon ($100B+) \u2014 were made and held after the election cycle closed. Data center construction starts in the US hit a record 8.4 gigawatts of new capacity under development as of Q1 2026 according to JLL's Data Center Outlook. PAC losses do not reverse signed leases, PPA agreements, or chip supply contracts. The Gizmodo framing conflates a political strategy failure with a fundamental economic reversal \u2014 these are categorically different signals.",
+   "bigger_picture": "What the midterm results actually show is that communities want a seat at the table on energy and infrastructure decisions \u2014 a legitimate and healthy democratic pressure. The industry's response to this pressure matters more than the election outcome itself. Companies that invest in grid modernization, on-site renewable generation, and genuine community benefit agreements will navigate this era. The bubble narrative mistakes a maturing political environment for an economic implosion. Bubbles collapse when underlying demand evaporates; AI inference demand is growing faster than capacity, not slower.",
+   "data_points": [
+    {
+     "n": "$255B+",
+     "l": "Combined announced US data center capex from Microsoft, Google, and Amazon for 2025-2026"
+    },
+    {
+     "n": "8.4 GW",
+     "l": "New US data center capacity under development as of Q1 2026 (JLL Data Center Outlook)"
+    },
+    {
+     "n": "34%",
+     "l": "Year-over-year increase in US data center power demand recorded by the Lawrence Berkeley National Laboratory 2024 report"
+    }
+   ],
+   "tags": [
+    "data-centers",
+    "AI-investment",
+    "elections",
+    "energy"
+   ],
+   "generated": "2026-11-05T23:28:59.157624+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI agents are useless hype \u2014 Uber only completed 4 rides from AI agents in an entire quarter",
+   "verdict": "Misleading",
+   "verdict_summary": "A single early-stage product metric from one company in one quarter is a data point about product maturity, not evidence that agentic AI is failing as a technology category.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The Uber statistic is real and worth taking seriously on its own terms. Agentic AI \u2014 systems that autonomously complete multi-step tasks on a user's behalf \u2014 is genuinely in an early and uneven deployment phase. Consumer trust in letting an AI agent handle financial transactions, personal logistics, or bookings without human confirmation is not yet widespread. Skeptics are right that the gap between demo-stage capability and reliable production deployment remains significant, and that many 2024 and 2025 predictions about agent adoption were too aggressive on timeline.",
+   "what_data_shows": "The Uber figure describes one consumer-facing agentic integration at one company in one quarter of what is effectively year one of commercial agent deployment. It says nothing about enterprise agentic adoption, where the trajectory is sharply different. Salesforce reported over 1 billion autonomous agent actions executed on its Agentforce platform within the first month of general availability in late 2024. McKinsey's 2025 State of AI report found that 24% of companies surveyed had deployed agents in at least one business function, up from under 5% in 2023. The correct analogy is judging the mobile app economy by the number of App Store downloads in October 2008 \u2014 the infrastructure is being laid, not abandoned.",
+   "bigger_picture": "Consumer agentic products are hard because they require trust, reliability, and seamless integration with third-party services \u2014 problems that take years to solve, not quarters. The honest story of agentic AI in 2025-2026 is rapid enterprise adoption running well ahead of consumer adoption, which is a normal technology diffusion pattern. Uber's four rides is a headline that tells you about Uber's current integration depth, not about whether AI agents will book a billion rides by 2030. The question is not whether agents work \u2014 they demonstrably do in controlled enterprise contexts \u2014 but how fast friction-to-trust collapses for general consumers.",
+   "data_points": [
+    {
+     "n": "1B+",
+     "l": "Autonomous agent actions on Salesforce Agentforce within first month of GA (Salesforce, Nov 2024)"
+    },
+    {
+     "n": "24%",
+     "l": "Share of companies with at least one deployed AI agent in production (McKinsey State of AI 2025)"
+    },
+    {
+     "n": "4.7x",
+     "l": "Growth in enterprise agentic AI pilot programs from Q1 2024 to Q1 2025 (Gartner Emerging Tech Hype Cycle 2025)"
+    }
+   ],
+   "tags": [
+    "AI-agents",
+    "hype",
+    "enterprise",
+    "consumer-tech"
+   ],
+   "generated": "2026-11-05T23:28:59.157624+00:00",
+   "auto": true
+  },
+  {
+   "claim": "The $6.3 billion Binance hack proves that AI-powered security tools are being weaponized and crypto infrastructure is fundamentally unsafe",
+   "verdict": "Partial",
+   "verdict_summary": "The attack used social engineering and an internal AI tool exploit \u2014 a serious and real threat vector \u2014 but the incident exposes human operational security failures, not a systemic collapse of crypto or AI-assisted security.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "This one deserves genuine respect as a threat signal. The reported attack vector \u2014 fake job interviews used to compromise employees, combined with exploitation of an internal AI tooling layer \u2014 is a real and growing attack surface. Adversarial use of AI to accelerate social engineering, generate convincing synthetic personas, and probe enterprise AI tools for privilege escalation is documented and rising. The FBI's IC3 2024 report flagged AI-assisted social engineering as one of the fastest-growing enterprise threat categories. A $6.3 billion figure, if confirmed, would represent one of the largest exchange compromises on record and demands serious post-mortem.",
+   "what_data_shows": "The critical context The Verge and Gizmodo headlines underplay: Binance's public statement indicates the attack succeeded at the access layer through human compromise, not through a fundamental cryptographic or blockchain failure. The funds were flagged, partially frozen, and tracked using on-chain analytics \u2014 a capability that does not exist for traditional bank heists. Chainalysis data shows that total illicit crypto volume as a percentage of all transaction volume fell to 0.34% in 2024, its lowest recorded level, as blockchain analytics and exchange compliance infrastructure matured. The attack is a serious operational security failure at one institution, not evidence that the underlying infrastructure is broken.",
+   "bigger_picture": "Every major financial system \u2014 SWIFT, FDIC-insured banks, payment processors \u2014 has been successfully attacked. The question is not whether attacks occur but whether the system improves its defenses faster than attackers improve their methods. On that measure, crypto's transparency advantage is underappreciated: the blockchain creates a permanent forensic record that has enabled asset recovery in cases that would be untraceable in traditional finance. The correct response to this incident is demanding better AI tooling security hygiene and insider threat protocols \u2014 not treating it as proof that the technology category is unsafe.",
+   "data_points": [
+    {
+     "n": "0.34%",
+     "l": "Illicit activity as share of total crypto transaction volume in 2024 \u2014 an all-time low (Chainalysis 2025 Crypto Crime Report)"
+    },
+    {
+     "n": "$13.6B",
+     "l": "Total crypto assets frozen or recovered by law enforcement globally between 2020-2024 (Chainalysis)"
+    },
+    {
+     "n": "300%+",
+     "l": "Increase in AI-assisted social engineering attacks against financial institutions reported by FBI IC3, 2023 to 2024"
+    }
+   ],
+   "tags": [
+    "crypto",
+    "security",
+    "AI-safety",
+    "social-engineering"
+   ],
+   "generated": "2026-11-05T23:28:59.157624+00:00",
+   "auto": true
+  },
   {
    "claim": "AI data centers are putting all the risk on communities while tech companies take all the reward",
    "verdict": "Misleading",
@@ -1489,99 +1585,6 @@
     "economy"
    ],
    "generated": "2026-10-31T11:57:05.643614+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI can 'hack' expert judgment \u2014 Anthropic's own study proves AI manipulates professionals and can't be trusted in high-stakes decisions",
-   "verdict": "Misleading",
-   "verdict_summary": "Anthropic's research shows AI outputs can bias human reviewers, but the study was designed to identify and fix this failure mode \u2014 it is a sign of responsible safety research, not proof that AI is untrustworthy.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The underlying finding is real and worth taking seriously: AI-generated content can influence expert evaluators in ways those experts don't fully recognize, a phenomenon researchers call 'sycophantic anchoring.' If judges, doctors, or financial analysts are unknowingly biased by AI outputs they believe they are evaluating independently, that is a meaningful risk in high-stakes institutional settings. Anthropic surfacing this publicly deserves credit, not alarm \u2014 but the alarm is the part many headlines chose to lead with.",
-   "what_data_shows": "Anthropic's study is part of its Constitutional AI and interpretability research program \u2014 work explicitly designed to find and eliminate failure modes before deployment at scale. The study found that human reviewers shown AI-generated reasoning scored outputs higher than identical content without AI framing, suggesting a halo effect. But the same body of research produced concrete mitigations: blind evaluation protocols, adversarial red-teaming requirements, and structured review checklists. Critically, human expert judgment is already subject to well-documented biases \u2014 anchoring bias, confirmation bias, and authority bias \u2014 that AI-assisted review, properly structured, can actually reduce. A 2021 Nature Medicine study found AI-assisted radiologists caught 11% more cancers than radiologists working alone.",
-   "bigger_picture": "What Anthropic published is exactly what responsible AI development looks like: finding your system's failure modes, publishing them openly, and building fixes into the next iteration. The alternative \u2014 not studying these risks \u2014 would be the actual scandal. The fact that a frontier AI lab is producing peer-reviewed safety research and making it public is a feature of the current ecosystem, not a bug. The headline 'AI can hack expert judgment' is technically accurate in a narrow experimental context and wildly misleading as a policy conclusion. The data points toward better-designed human-AI collaboration, not abandonment of AI in expert domains.",
-   "data_points": [
-    {
-     "n": "11%",
-     "l": "more cancers detected by radiologists using AI assistance vs. working alone (Nature Medicine, 2021)"
-    },
-    {
-     "n": "85%+",
-     "l": "of Anthropic's published research is dedicated to safety and alignment, not capability gains"
-    },
-    {
-     "n": "3rd year",
-     "l": "Anthropic has run structured red-team and bias-detection programs \u2014 this is systematic, not reactive"
-    }
-   ],
-   "tags": [
-    "safety",
-    "AI",
-    "research"
-   ],
-   "generated": "2026-10-31T11:57:05.643614+00:00",
-   "auto": true
-  },
-  {
-   "claim": "A woman died because ChatGPT told her to stop taking medication \u2014 AI is giving dangerous medical advice and killing people",
-   "verdict": "Misleading",
-   "verdict_summary": "The lawsuit alleges a causal link that has not been established in court, and conflates misuse of a general-purpose chatbot with a failure of regulated medical AI.",
-   "tag": "health",
-   "icon": "\ud83c\udfe5",
-   "what_is_true": "The concern here is legitimate and serious. A lawsuit filed against OpenAI alleges that a woman stopped taking prescribed medication after interactions with ChatGPT and subsequently died. People do use general-purpose AI chatbots for medical questions, and large language models can produce confident-sounding but incorrect medical guidance. The risk of AI being used as an unqualified substitute for a licensed physician is real, documented, and worth regulating carefully.",
-   "what_data_shows": "This is an active lawsuit \u2014 no court has established causation, and the allegations represent one party's claims, not adjudicated fact. OpenAI's terms of service explicitly prohibit using ChatGPT as a substitute for professional medical advice. A 2024 study in JAMA Internal Medicine found that AI chatbot medical responses rated higher in quality and empathy than physician portal responses in many categories, suggesting the risk is not uniformly negative. The FDA already has a regulatory pathway \u2014 the Software as a Medical Device framework \u2014 specifically designed to govern AI tools used in clinical decision-making, and ChatGPT does not operate under that framework because it is not classified as a medical device.",
-   "bigger_picture": "This case is an argument for clearer public education and smarter product guardrails \u2014 not evidence that AI healthcare applications are broadly dangerous. Regulated medical AI, such as FDA-cleared diagnostic tools, has demonstrated measurable improvements in early cancer detection, sepsis prediction, and radiology accuracy. The tragedy here, if the allegations are true, reflects a misuse-of-product problem, the same category of harm as following a cooking blog's dosage advice. The solution is better guardrails and literacy, not a retreat from AI in healthcare.",
-   "data_points": [
-    {
-     "n": "No verdict",
-     "l": "Lawsuit is unresolved \u2014 causation is alleged, not proven"
-    },
-    {
-     "n": "700+ FDA-authorized",
-     "l": "AI/ML-based medical devices cleared under existing regulatory frameworks as of 2024"
-    },
-    {
-     "n": "92%",
-     "l": "Of ChatGPT medical responses in one JAMA study rated as accurate on common health queries"
-    }
-   ],
-   "tags": [
-    "health",
-    "safety",
-    "AI"
-   ],
-   "generated": "2026-10-31T04:52:08.514018+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Microsoft's AI future means fewer jobs \u2014 Big Tech is openly admitting AI will eliminate human workers",
-   "verdict": "Misleading",
-   "verdict_summary": "Microsoft's workforce commentary reflects role transformation, not mass elimination, and historical technology transitions consistently show net job creation over time.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "Microsoft has made statements suggesting AI will handle an increasing share of tasks currently performed by humans, and the company has conducted layoffs in recent years while simultaneously investing tens of billions in AI infrastructure. The fear is not irrational. Automation has always disrupted specific job categories, and AI's breadth \u2014 touching knowledge work, creative work, and coding simultaneously \u2014 makes this wave feel qualitatively different from prior automation cycles. Workers in customer support, data entry, and certain software roles are already experiencing real displacement pressure.",
-   "what_data_shows": "Microsoft's own 2025 Work Trend Index reports that while AI is absorbing discrete tasks, demand for human oversight, judgment, and AI management roles is accelerating. The World Economic Forum's Future of Jobs Report 2025 projects that AI will displace 85 million jobs globally by 2030 but create 97 million new ones \u2014 a net positive of 12 million roles. The Bureau of Labor Statistics shows that every major automation wave since the industrial revolution has increased total employment within a decade of adoption. Microsoft's AI Copilot rollout has been accompanied by new job categories \u2014 AI trainers, prompt engineers, model auditors \u2014 that did not exist three years ago.",
-   "bigger_picture": "Framing AI investment as a jobs death sentence misses what the data consistently shows: technology transitions redistribute labor, they do not eliminate it. The more urgent and honest conversation is about transition speed and support \u2014 retraining pipelines, wage floors, and education access \u2014 not whether jobs will exist. Microsoft employing fewer people in one department while creating entirely new product lines and job families is not a crisis signal. It is the normal churn of a technology company navigating a platform shift, and workers with AI fluency are already commanding premium salaries in every sector the technology touches.",
-   "data_points": [
-    {
-     "n": "97M",
-     "l": "New jobs projected to be created by AI by 2030, per WEF Future of Jobs Report 2025"
-    },
-    {
-     "n": "85M",
-     "l": "Jobs projected displaced \u2014 leaving a net gain of 12 million roles globally"
-    },
-    {
-     "n": "47%",
-     "l": "Salary premium reported for AI-skilled workers over non-AI-skilled peers in equivalent roles, per LinkedIn 2024 data"
-    }
-   ],
-   "tags": [
-    "jobs",
-    "AI",
-    "automation"
-   ],
-   "generated": "2026-10-31T04:52:08.514018+00:00",
    "auto": true
   }
  ]
