@@ -1,61 +1,146 @@
 {
- "updated": "2026-11-05T23:28:59.165578+00:00",
+ "updated": "2026-11-06T05:52:13.458871+00:00",
  "items": [
   {
-   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-11-05T20:00:41+00:00"
-  },
-  {
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-05T17:00:35+00:00"
-  },
-  {
-   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-   "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-05T16:00:05+00:00"
-  },
-  {
-   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI\u2019s Memory Challenge",
-   "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-11-05T16:00:00+00:00"
-  },
-  {
-   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-   "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-11-05T16:00:00+00:00"
-  },
-  {
-   "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "url": "https://openai.com/index/introducing-gpt-6-cyber",
+   "title": "Cult.fit builds operational muscle with Codex",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-05T09:00:00+00:00"
+   "published": "2026-11-05T20:00:00+00:00"
   },
   {
-   "title": "Merge builds product and business tools with OpenAI technology",
-   "url": "https://openai.com/index/merge-builds-with-openai",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-11-05T17:05:16+00:00"
+  },
+  {
+   "title": "Australian universities are creating AI-native graduates",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-05T08:00:00+00:00"
+   "published": "2026-11-05T17:00:00+00:00"
   },
   {
-   "title": "Clearing up a robot\u2019s fuzzy memory",
-   "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
-   "source": "MIT News AI",
+   "title": "Google unveils $15 billion data centre investment in Malaysia",
+   "url": "https://economictimes.indiatimes.com/tech/technology/google-unveils-15-billion-data-centre-investment-in-malaysia/articleshow/135559941.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-11-05T05:12:59+00:00"
+  },
+  {
+   "title": "Tairex Launches Multi-Agent AI System to Transform Clinical Collaboration and Decision Support",
+   "url": "https://en.antaranews.com/news/440319/tairex-launches-multi-agent-ai-system-to-transform-clinical-collaboration-and-decision-support",
+   "source": "Antaranews.com",
+   "category": "ai",
+   "published": "2026-11-05T04:04:55+00:00"
+  },
+  {
+   "title": "Arm beats second-quarter revenue estimates on AI and data-center demand",
+   "url": "https://economictimes.indiatimes.com/tech/technology/arm-beats-second-quarter-revenue-estimates-on-ai-and-data-center-demand/articleshow/135558205.cms",
+   "source": "The Times of India",
+   "category": "compute",
+   "published": "2026-11-05T04:02:56+00:00"
+  },
+  {
+   "title": "Xiaomi\u2019s humanoid robot just worked a full 8-hour shift, charging breaks included",
+   "url": "https://the-gadgeteer.com/2026/11/04/xiaomi-cyberone-02-eight-hour-shift/",
+   "source": "The Gadgeteer",
    "category": "robotics",
-   "published": "2026-11-05T05:00:00+00:00"
+   "published": "2026-11-05T04:00:00+00:00"
+  },
+  {
+   "title": "AI Reading Wearable Blood Pressure Data Flagged Hypertensive Crisis Risk Up to Three Days Early in 4,190 Adults",
+   "url": "https://www.medicaldaily.com/ai-tool-predicts-hypertensive-crisis-risk-480807",
+   "source": "Medical Daily",
+   "category": "health",
+   "published": "2026-11-05T03:47:46+00:00"
+  },
+  {
+   "title": "A tiny supercurrent could unlock quantum information without destroying it",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+   "source": "Science Daily",
+   "category": "quantum",
+   "published": "2026-11-05T03:47:09+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Your old medical reports may reveal a disease risk you don't know about. Here's how AI can help",
+   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/your-old-medical-reports-may-reveal-a-disease-risk-you-dont-know-about-heres-how-ai-can-help/articleshow/135557342.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-11-05T03:35:41+00:00"
+  },
+  {
+   "title": "OpenAI to acquire Pierre Computer Company to expand Codex coding capabilities",
+   "url": "https://www.thehindubusinessline.com/info-tech/openai-to-acquire-pierre-computer-company-to-expand-codex-coding-capabilities/article71668505.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-11-05T03:30:42+00:00"
+  },
+  {
+   "title": "TECO deepens robotics push, targets dexterous hands",
+   "url": "https://www.digitimes.com/news/a20261105PD213/teco-reducer-robot.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-11-05T03:12:53+00:00"
+  },
+  {
+   "title": "OpenAI to acquire developer tools firm Pierre to expand Codex capabilities",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-acquire-developer-tools-firm-pierre-to-expand-codex-capabilities/articleshow/135556193.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-11-05T02:27:35+00:00"
+  },
+  {
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-05T02:00:00+00:00"
+  },
+  {
+   "title": "Agility Robotics is taking humanoid robots public in a first for Wall Street",
+   "url": "https://biztoc.com/x/4cfb85f8e6313561",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-11-05T01:29:13+00:00"
+  },
+  {
+   "title": "Flipsnack grows product signups with conversion optimization",
+   "url": "https://openai.com/ads/customers/flipsnack",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-05T00:45:15+00:00"
+  },
+  {
+   "title": "AI-guided cancer survival prediction could spare some children high-dose brain radiation",
+   "url": "https://www.nature.com/articles/s41588-026-02816-3",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-11-05T00:00:00+00:00"
+  },
+  {
+   "title": "Agentic AI system for hospital management",
+   "url": "https://www.nature.com/articles/s41598-026-78738-1.pdf",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-11-05T00:00:00+00:00"
+  },
+  {
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "url": "https://openai.com/index/franklin-templeton",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-05T00:00:00+00:00"
+  },
+  {
+   "title": "Turn your home into a giant crane game with this open source robot",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186595270",
+   "source": "Slashdot.org",
+   "category": "robotics",
+   "published": "2026-11-04T23:53:18+00:00"
   },
   {
    "title": "nvidia-cublas 13.10.0.20",
@@ -118,8 +203,7 @@
    "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/",
    "source": "SiliconANGLE News",
    "category": "ai",
-   "published": "2026-11-04T22:20:12+00:00",
-   "breakthrough": true
+   "published": "2026-11-04T22:20:12+00:00"
   },
   {
    "title": "qasp added to PyPI",
@@ -129,39 +213,11 @@
    "published": "2026-11-04T22:09:46+00:00"
   },
   {
-   "title": "Laza Medical Raises Up to $160 Million in Series B Financing Led by GE HealthCare to Advance Intelligent Imaging for Transforming the Cath Lab",
-   "url": "https://www.prnewswire.co.uk/news-releases/laza-medical-raises-up-to-160-million-in-series-b-financing-led-by-ge-healthcare-to-advance-intelligent-imaging-for-transforming-the-cath-lab-302929828.html",
-   "source": "PR Newswire UK",
-   "category": "health",
-   "published": "2026-11-04T21:34:00+00:00"
-  },
-  {
    "title": "AIVISKAR 2026 at CGC University, Mohali, Redefines India\u2019s AI Innovation Landscape - The Tribune",
    "url": "https://www.tribuneindia.com/news/business/aiviskar-2026-at-cgc-university-mohali-redefines-indias-ai-innovation-landscape/",
    "source": "The Tribune India",
    "category": "ai",
    "published": "2026-11-04T21:27:31+00:00"
-  },
-  {
-   "title": "Amwell Says One-Third of Adults Now Using AI Health Tools",
-   "url": "https://www.pymnts.com/earnings/2026/amwell-says-one-third-of-adults-now-using-ai-health-tools/",
-   "source": "pymnts.com",
-   "category": "health",
-   "published": "2026-11-04T20:37:07+00:00"
-  },
-  {
-   "title": "Anthropic Develops Tools to Confirm AI Models\u2019 Identities",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-develops-tools-to-confirm-ai-models-identities/",
-   "source": "pymnts.com",
-   "category": "ai",
-   "published": "2026-11-04T20:34:30+00:00"
-  },
-  {
-   "title": "Disneyland Is Training a Class of AI Robot Interns",
-   "url": "https://www.cnet.com/tech/computing/disneyland-training-ai-robot-interns/",
-   "source": "CNET",
-   "category": "robotics",
-   "published": "2026-11-04T20:13:45+00:00"
   },
   {
    "title": "upheld added to PyPI",
@@ -176,13 +232,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-11-04T19:21:56+00:00"
-  },
-  {
-   "title": "Why a pink potato-like robot is wheeling around Philadelphia",
-   "url": "https://www.popsci.com/science/orifice-awebot-robot-philadelphia/",
-   "source": "Popular Science",
-   "category": "robotics",
-   "published": "2026-11-04T19:17:00+00:00"
   },
   {
    "title": "Microsoft\u2019s Medical AI Is Over Twice as Good Diagnosing Diseases as Doctors",
@@ -213,11 +262,11 @@
    "published": "2026-11-04T18:25:18+00:00"
   },
   {
-   "title": "Xiaomi\u2019s humanoid robots work a full 8-hour shift in its EV factory",
-   "url": "http://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory/",
-   "source": "Electrek",
-   "category": "robotics",
-   "published": "2026-11-04T16:23:06+00:00"
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-04T14:30:00+00:00"
   },
   {
    "title": "patera-aiinterface 0.14.0",
@@ -675,6 +724,20 @@
    "published": "2026-11-03T17:05:06+00:00"
   },
   {
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-11-03T17:01:49+00:00"
+  },
+  {
+   "title": "AI Is Changing How Semiconductor Fabs Work \u2014 and Engineers Are Moving Faster Because of It",
+   "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-03T16:00:45+00:00"
+  },
+  {
    "title": "A Plasmodium knowlesi A1-H.1 transcriptome time course focusing on the late asexual blood stages",
    "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014727",
    "source": "Plos.org",
@@ -715,13 +778,6 @@
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-11-03T08:00:00+00:00"
-  },
-  {
-   "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-   "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-03T07:00:12+00:00"
   },
   {
    "title": "MIT Researchers Used GPT-6 Astra to Edit Qwen's Open Weights Directly",
@@ -34945,62 +35001,6 @@
    "source": "The Times of India",
    "category": "ai",
    "published": "2026-08-07T06:27:54+00:00"
-  },
-  {
-   "title": "KIOXIA, Micron, and Samsung earn Best of Show awards at FMS 2026",
-   "url": "https://www.tweaktown.com/news/113032/kioxia-micron-and-samsung-earn-best-of-show-awards-at-fms-2026/index.html",
-   "source": "TweakTown",
-   "category": "compute",
-   "published": "2026-08-07T06:27:09+00:00"
-  },
-  {
-   "title": "Proxmox Virtual Environment Officially Runs on ARM64, But Your Raspberry Pi Isn't Supported Yet",
-   "url": "https://itsfoss.com/news/proxmox-virtual-environment-arm64-support/",
-   "source": "Itsfoss.com",
-   "category": "compute",
-   "published": "2026-08-07T06:22:08+00:00"
-  },
-  {
-   "title": "OpenAI Targets Late 2026 for Codex Version 3 Cloud Release",
-   "url": "https://www.geeky-gadgets.com/openai-codex-v3-expected-updates/",
-   "source": "Geeky Gadgets",
-   "category": "ai",
-   "published": "2026-08-07T06:15:00+00:00"
-  },
-  {
-   "title": "China extends trade boom as global AI tech demand surges",
-   "url": "https://www.rte.ie/news/business/2026/0807/1586878-chinese-trade-figures/",
-   "source": "RTE",
-   "category": "compute",
-   "published": "2026-08-07T06:10:33+00:00"
-  },
-  {
-   "title": "India, which once couldn't make smallpox vaccine, has now crossed a pharma milestone the world can't ignore",
-   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/independence-day-2026-india-pharma-journey-covaxin-made-in-india-drug-discovery-zaynich-wockhardt-ipa-indian-medicine-vaccine/articleshow/133003617.cms",
-   "source": "The Times of India",
-   "category": "health",
-   "published": "2026-08-07T05:44:12+00:00"
-  },
-  {
-   "title": "NVIDIA's RTX Neural Texture Compression now runs on RTX Spark and Windows on Arm",
-   "url": "https://www.tweaktown.com/news/113034/nvidias-rtx-neural-texture-compression-now-runs-on-rtx-spark-and-windows-on-arm/index.html",
-   "source": "TweakTown",
-   "category": "compute",
-   "published": "2026-08-07T05:36:08+00:00"
-  },
-  {
-   "title": "Penn awarded collaborative NSF grant to launch AI health institute",
-   "url": "https://www.thedp.com/article/2026/08/penn-nsf-grant-ai-physical-therapy-research-institute",
-   "source": "The Daily Pennsylvanian",
-   "category": "health",
-   "published": "2026-08-07T05:16:19+00:00"
-  },
-  {
-   "title": "indie Semiconductor Q2 Earnings Call Highlights",
-   "url": "https://www.marketbeat.com/instant-alerts/indie-semiconductor-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-   "source": "MarketBeat",
-   "category": "compute",
-   "published": "2026-08-07T03:03:53+00:00"
   }
  ]
 }

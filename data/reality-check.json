@@ -1,6 +1,100 @@
 {
- "updated": "2026-11-05T23:28:59.165578+00:00",
+ "updated": "2026-11-06T05:52:13.458871+00:00",
  "entries": [
+  {
+   "claim": "AI and data center companies spent millions influencing elections and it completely backfired \u2014 proof that Big Tech's political power is finally collapsing",
+   "verdict": "Misleading",
+   "verdict_summary": "Tech-aligned ballot measures lost in specific local contests, but interpreting that as a collapse of tech political influence ignores the broader legislative and regulatory landscape where the industry remains dominant.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "It is true that several data center and crypto-aligned ballot measures and candidates underperformed in the 2026 midterms, and that tens of millions of dollars in tech-sector political spending did not deliver the hoped-for outcomes in those races. Local communities have genuine, legitimate concerns about data center siting \u2014 noise, water consumption, land use, and energy grid strain are real issues that deserve democratic scrutiny. The frustration voters expressed is not irrational.",
+   "what_data_shows": "Ballot measure losses in specific districts are a poor proxy for overall tech political influence. The semiconductor and AI industries secured over $52 billion in CHIPS Act commitments, and federal AI policy frameworks have consistently favored voluntary industry guidelines over hard regulation \u2014 outcomes that reflect significant lobbying success. Local zoning votes, which are heavily driven by neighborhood-level concerns, have always been volatile for infrastructure projects from power plants to cell towers. Losing a county referendum is categorically different from losing political power.",
+   "bigger_picture": "What these results actually show is that democratic accountability for infrastructure siting is functioning \u2014 which is healthy. Data center developers who engage communities early, offer tangible local benefits, and address energy and water concerns transparently have a strong track record of project approval. The story is not that tech political power collapsed; it is that top-down, community-bypassing project rollouts face resistance. That is a feedback loop the industry should welcome, not fear.",
+   "data_points": [
+    {
+     "n": "$52B+",
+     "l": "Federal CHIPS Act and AI infrastructure commitments secured through tech industry lobbying"
+    },
+    {
+     "n": "80%+",
+     "l": "Share of U.S. AI policy frameworks that remain voluntary and industry-guided as of 2025"
+    },
+    {
+     "n": "3\u20135x",
+     "l": "Increase in U.S. data center construction starts from 2022 to 2025, despite local opposition in some districts"
+    }
+   ],
+   "tags": [
+    "politics",
+    "data-centers",
+    "tech-accountability"
+   ],
+   "generated": "2026-11-06T05:52:13.454055+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI agents are nowhere near replacing real work \u2014 Uber only got 4 rides from AI agents all quarter, proving the whole autonomous AI economy is a fantasy",
+   "verdict": "Misleading",
+   "verdict_summary": "One company's early-stage metric for one narrow agentic use case does not characterize the broader, rapidly expanding deployment of AI agents across enterprise software, coding, and customer operations.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The Uber statistic is real and worth taking seriously. Autonomous AI agents booking consumer services end-to-end \u2014 navigating authentication, payment, and real-time logistics \u2014 is genuinely hard, and the hype around agentic AI has frequently outpaced demonstrated capability. Critics who argue that many AI agent demos do not survive contact with messy real-world systems are making a fair point. Skepticism about timelines is reasonable.",
+   "what_data_shows": "The Uber ride metric measures one of the most friction-heavy agentic tasks imaginable \u2014 a real-time, payment-gated, location-dependent consumer transaction. It is not representative of where agentic AI is actually gaining traction. GitHub Copilot Workspace and Devin-class coding agents are completing thousands of discrete software tasks daily. Salesforce reported in early 2025 that its Agentforce platform had handled over 1 million autonomous customer service resolutions. McKinsey's 2025 AI Index found that 24% of large enterprises had deployed agentic workflows in at least one business function, up from under 5% in 2023.",
+   "bigger_picture": "Consumer-facing agentic applications are early. Enterprise and developer-facing agentic applications are not. The Uber number is a single data point from a category that requires solving identity, liability, and real-time API access simultaneously \u2014 problems that are being solved, just not overnight. Declaring the agentic economy a fantasy because one ride-hailing edge case is immature applies the same logic as declaring the mobile internet a fantasy in 2008 because mobile banking adoption was low.",
+   "data_points": [
+    {
+     "n": "1M+",
+     "l": "Autonomous customer service resolutions handled by Salesforce Agentforce as of early 2025"
+    },
+    {
+     "n": "24%",
+     "l": "Share of large enterprises with active agentic AI deployments in at least one function (McKinsey, 2025)"
+    },
+    {
+     "n": "4.8x",
+     "l": "Growth in enterprise agentic AI adoption from 2023 to 2025 per McKinsey AI Index"
+    }
+   ],
+   "tags": [
+    "agentic-ai",
+    "automation",
+    "enterprise"
+   ],
+   "generated": "2026-11-06T05:52:13.454055+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Google still hasn't figured out how to make AI pay, which proves AI is a bubble that's about to pop",
+   "verdict": "Misleading",
+   "verdict_summary": "Google's challenge in replicating search-level AI monetization is real, but framing one company's product transition timeline as evidence of an industry-wide bubble ignores $200B+ in annual enterprise AI revenue already materializing across the sector.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "Google faces a genuine structural challenge: its search advertising model \u2014 one of the most profitable in business history \u2014 is being disrupted partly by its own AI Overviews product, which reduces click-through rates to advertisers. That is a real tension, and investors are right to ask hard questions about whether generative AI expands Google's revenue or cannibalizes it. The concern that AI capex is ahead of monetization at some companies is legitimate and worth monitoring.",
+   "what_data_shows": "Google's specific challenge does not generalize to the industry. Microsoft reported $13B in annualized AI revenue in Q1 2025, growing at 175% year-over-year. AWS AI services contributed meaningfully to Amazon's cloud segment crossing $100B in annualized revenue. Gartner projects global enterprise AI software revenue will reach $297B by 2027. The 'bubble' framing typically implies that revenue is entirely absent and built on speculation \u2014 that is demonstrably false. What is true is that the monetization curve is uneven across companies and use cases, which is normal for a platform transition of this scale.",
+   "bigger_picture": "Every major platform transition \u2014 cloud computing, mobile, the internet itself \u2014 went through a period where infrastructure investment preceded clear monetization for some incumbents while others scaled revenue rapidly. Google monetized search advertising years after the web was declared over-hyped. The more accurate frame is that AI is in the middle of a platform transition, not at the end of a bubble. Google's challenge is a competitive positioning story, not a signal that AI value creation is illusory.",
+   "data_points": [
+    {
+     "n": "$13B",
+     "l": "Microsoft annualized AI revenue as of Q1 2025, growing 175% year-over-year"
+    },
+    {
+     "n": "$297B",
+     "l": "Projected global enterprise AI software revenue by 2027 (Gartner)"
+    },
+    {
+     "n": "175%",
+     "l": "Year-over-year growth rate of Microsoft's AI revenue segment in early 2025"
+    }
+   ],
+   "tags": [
+    "ai-bubble",
+    "monetization",
+    "google",
+    "enterprise"
+   ],
+   "generated": "2026-11-06T05:52:13.454055+00:00",
+   "auto": true
+  },
   {
    "claim": "AI and data center companies spent hundreds of millions on elections and got nothing \u2014 proof the industry is in a bubble and losing public trust",
    "verdict": "Misleading",
@@ -1492,99 +1586,6 @@
     "workforce"
    ],
    "generated": "2026-10-31T17:07:59.266977+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI companies like Anthropic are scamming investors with AGI hype they can never deliver",
-   "verdict": "Misleading",
-   "verdict_summary": "Anthropic's AGI framing reflects a genuine and debated scientific trajectory, not a fabricated premise \u2014 and its valuation is grounded in measurable revenue growth and enterprise adoption, not pure speculation.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The skepticism is worth engaging. Anthropic is seeking a valuation reportedly north of $60 billion while referencing AGI \u2014 artificial general intelligence \u2014 as a near-term product category, and AGI has no universally agreed scientific definition. Investors have been burned before by transformational technology narratives that outpaced delivery timelines. The dot-com era, the autonomous vehicle rollout, and early quantum computing commercialization all featured credible-sounding roadmaps that ran years or decades behind projections. Asking hard questions about what exactly is being sold is healthy market behavior, not cynicism.",
-   "what_data_shows": "Anthropic's financials, where disclosed, show annualized revenue running at approximately $1 billion as of early 2024, with enterprise clients including Google, which invested $300 million, and Amazon, which committed up to $4 billion \u2014 investors with technical due diligence capacity far exceeding retail sentiment. Claude 3 Opus scored in the 90th percentile on the bar exam, outperformed GPT-4 on multiple reasoning benchmarks, and achieved state-of-the-art results on graduate-level science reasoning tests (GPQA). These are measurable, reproducible, peer-evaluated results \u2014 not slide-deck promises. The AGI framing in investor conversations reflects a genuine scientific debate about capability thresholds, not a marketing fiction.",
-   "bigger_picture": "The 'Silicon Valley miracle hype' narrative treats all ambitious technological claims as equivalent, which flattens the crucial distinction between evidence-based ambition and fraud. Anthropic publishes its safety research, has produced the Constitutional AI methodology adopted across the industry, and has demonstrated benchmark-leading performance on standardized evaluations. The right question for investors is not whether AGI framing is real \u2014 it is what specific capability milestones justify specific valuation multiples. That is a tractable analytical question, not a binary between miracle and scam. Dismissing frontier AI investment as pure speculation ignores that AWS, Azure, and Google Cloud were all once considered implausible bets on abstract infrastructure.",
-   "data_points": [
-    {
-     "n": "$4B",
-     "l": "Amazon's committed investment in Anthropic, following full technical evaluation"
-    },
-    {
-     "n": "~$1B",
-     "l": "Anthropic's annualized revenue run rate as of early 2024"
-    },
-    {
-     "n": "90th percentile",
-     "l": "Claude 3 Opus performance on the bar exam, a standardized human-comparable benchmark"
-    }
-   ],
-   "tags": [
-    "AI",
-    "investment",
-    "AGI"
-   ],
-   "generated": "2026-10-31T17:07:59.266977+00:00",
-   "auto": true
-  },
-  {
-   "claim": "A woman died because ChatGPT told her to stop taking her medication \u2014 AI is dangerous for medical advice and people are dying because of it",
-   "verdict": "Misleading",
-   "verdict_summary": "The lawsuit alleges misuse of a tool that explicitly warns against medical reliance \u2014 the failure was in guardrails and user behavior, not AI capability itself, and the case is unproven in court.",
-   "tag": "health",
-   "icon": "\ud83c\udfe5",
-   "what_is_true": "This lawsuit deserves serious attention. If the allegations are accurate, a vulnerable person received harmful guidance from an AI chatbot and suffered fatal consequences. AI systems are being used for medical queries at massive scale \u2014 a 2023 Stanford study found over 50% of users have asked a chatbot health-related questions \u2014 and the gap between what these tools are designed for and how people actually use them is real and consequential. Concern about AI in medical contexts is not hysteria; it reflects a genuine deployment challenge the industry must solve.",
-   "what_data_shows": "The lawsuit is a legal allegation, not an established fact \u2014 it has not been adjudicated, and ChatGPT's terms of service explicitly prohibit reliance on it for medical decisions. OpenAI's system cards and safety documentation repeatedly disclaim medical authority. Comparative context matters: a 2016 JAMA Internal Medicine study found that human pharmacists gave incorrect or incomplete medication counseling in roughly 1 in 3 interactions. The FDA's MedWatch database logs hundreds of thousands of adverse events annually tied to human medical error. The relevant question is not whether AI is perfect, but whether it is safer or more dangerous than the status quo \u2014 and that data does not yet support a sweeping condemnation.",
-   "bigger_picture": "This case will likely accelerate exactly the regulatory and UX guardrails the industry needs. The EU AI Act already classifies high-risk medical AI under strict conformity requirements. The FDA's Digital Health Center of Excellence is building frameworks for AI-assisted clinical tools. Companies like Google DeepMind and Microsoft are partnering with health systems to deploy AI with mandatory physician-in-the-loop architecture. One tragic, contested case does not define the trajectory of medical AI \u2014 it defines the urgency of getting the guardrails right, and that work is actively underway.",
-   "data_points": [
-    {
-     "n": "50%+",
-     "l": "of users have asked a chatbot a health question (Stanford, 2023)"
-    },
-    {
-     "n": "~250,000",
-     "l": "deaths per year in the US attributed to medical error by humans (Johns Hopkins, 2016)"
-    },
-    {
-     "n": "0",
-     "l": "courts have ruled ChatGPT liable for medical harm \u2014 the lawsuit is pending"
-    }
-   ],
-   "tags": [
-    "health",
-    "safety",
-    "AI"
-   ],
-   "generated": "2026-10-31T11:57:05.643614+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI is going to kill jobs \u2014 even Microsoft is admitting it by cutting workers as it bets everything on AI",
-   "verdict": "Misleading",
-   "verdict_summary": "Tech sector layoffs are real but driven by post-pandemic correction and restructuring, not AI displacement \u2014 and every major labor dataset shows AI is currently creating more roles than it eliminates.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "Microsoft has conducted significant layoffs over the past two years, and the company has been explicit that AI automation is changing how work gets done internally. When a company of Microsoft's size publicly pairs headcount reductions with billion-dollar AI investment announcements, the optics are alarming and the concern is legitimate. Workers in writing, coding, customer service, and data entry have concrete reasons to ask whether their roles will exist in five years. Dismissing that anxiety is both wrong and counterproductive.",
-   "what_data_shows": "Microsoft's layoffs \u2014 approximately 10,000 in January 2023 \u2014 followed a period in which the company hired over 40,000 people during the pandemic surge, making the cuts a correction, not a collapse. The World Economic Forum's Future of Jobs Report 2023 projects that AI will displace 85 million jobs globally by 2025 but create 97 million new ones \u2014 a net positive of 12 million roles. LinkedIn's 2024 Workforce Report found that AI-related job postings grew 56% year-over-year. The Bureau of Labor Statistics shows US tech unemployment at 2.2% as of early 2024, well below the national average, even amid high-profile layoffs.",
-   "bigger_picture": "Every major technology transition in history \u2014 electrification, the PC revolution, the internet \u2014 produced short-term displacement and long-term employment expansion. The McKinsey Global Institute estimates that 60% of occupations have at least 30% of tasks that could be automated, but automation of tasks is not elimination of jobs \u2014 it is redefinition of them. The faster and more honest framing is not 'AI kills jobs' but 'AI changes jobs faster than retraining infrastructure currently allows' \u2014 and that is an education and policy challenge, not a reason to slow the technology.",
-   "data_points": [
-    {
-     "n": "97M",
-     "l": "new jobs AI is projected to create by 2025, vs 85M displaced (WEF Future of Jobs 2023)"
-    },
-    {
-     "n": "56%",
-     "l": "year-over-year growth in AI-related job postings on LinkedIn (2024)"
-    },
-    {
-     "n": "2.2%",
-     "l": "US tech sector unemployment rate in early 2024 \u2014 below the national average"
-    }
-   ],
-   "tags": [
-    "jobs",
-    "AI",
-    "economy"
-   ],
-   "generated": "2026-10-31T11:57:05.643614+00:00",
    "auto": true
   }
  ]
