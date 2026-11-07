@@ -1,6 +1,101 @@
 {
- "updated": "2026-11-07T05:23:39.359094+00:00",
+ "updated": "2026-11-07T12:44:02.504255+00:00",
  "entries": [
+  {
+   "claim": "AI agents are overhyped and useless \u2014 Uber only completed 4 rides from AI agents last quarter",
+   "verdict": "Misleading",
+   "verdict_summary": "A single company's early-stage metric from one quarter is being used to indict an entire technology category that is still in pre-commercial deployment.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The Uber statistic is real, and it is fair to scrutinize AI agent capabilities against the breathless marketing that surrounds them. Executives across the industry have made bold predictions about autonomous AI agents handling complex, multi-step economic tasks at scale, and the gap between those promises and current production numbers is genuinely large. Skepticism about deployment timelines is warranted.",
+   "what_data_shows": "Four rides is a data point from a single operator in a single quarter of what every serious researcher acknowledges is an early-adoption phase. AI agent frameworks \u2014 including those from Salesforce, ServiceNow, and Microsoft Copilot Studio \u2014 are reporting enterprise task-completion rates in the tens of millions of actions per month in controlled business workflows, not consumer-facing transactions. Gartner's 2024 Hype Cycle places agentic AI at peak inflection, with productive deployment expected at scale between 2026 and 2028. Judging the category by one consumer ride-hail use case in Q1 of real-world testing is the equivalent of judging smartphones by the first-gen iPhone's App Store, which launched with 500 apps and no copy-paste.",
+   "bigger_picture": "The history of transformative platform technologies \u2014 cloud computing, mobile, the internet itself \u2014 shows consistent early metrics that looked embarrassing before network effects and infrastructure maturity kicked in. AI agents are accruing real productivity gains in coding (GitHub Copilot users complete tasks 55% faster per Microsoft's own peer-reviewed study), legal document review, and drug discovery pipelines. Four Uber rides is a starting line, not a finish line.",
+   "data_points": [
+    {
+     "n": "55%",
+     "l": "Faster task completion for developers using AI coding assistants (Microsoft/GitHub peer-reviewed study)"
+    },
+    {
+     "n": "2026\u20132028",
+     "l": "Gartner's projected window for mature, at-scale AI agent deployment"
+    },
+    {
+     "n": "500",
+     "l": "Apps available at the iPhone App Store launch in 2008 \u2014 a comparison point for dismissing early-stage metrics"
+    }
+   ],
+   "tags": [
+    "AI agents",
+    "hype vs reality",
+    "deployment timelines"
+   ],
+   "generated": "2026-11-07T12:44:02.497948+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Big Tech's AI data center buildout is an unstoppable environmental catastrophe that nobody is trying to stop",
+   "verdict": "Misleading",
+   "verdict_summary": "Data center energy use is growing and deserves scrutiny, but the narrative of an uncontrolled environmental spiral ignores aggressive renewable procurement, efficiency gains, and regulatory momentum already in motion.",
+   "tag": "energy",
+   "icon": "\u26a1",
+   "what_is_true": "The concern has a real foundation. The IEA projects global data center electricity consumption could double by 2026, reaching over 1,000 TWh annually. AI workloads are significantly more compute-intensive than traditional cloud tasks, and water cooling demands at hyperscale facilities are drawing legitimate scrutiny from local governments, including the Amsterdam protests at a Microsoft site. These are not manufactured fears \u2014 they are documented infrastructure pressures.",
+   "what_data_shows": "What the catastrophe framing omits is the scale of the renewable energy response. Google, Microsoft, and Amazon collectively signed over 50 GW of new renewable energy power purchase agreements between 2020 and 2024, making Big Tech the largest private buyer of clean energy on earth. Microsoft has committed to being carbon negative by 2030 and water positive by the same date. Google matched 100% of its global electricity consumption with renewable energy purchases for the seventh consecutive year in 2023. Meanwhile, AI-driven grid optimization tools are actively reducing emissions in sectors far beyond data centers \u2014 DeepMind's AlphaFold-adjacent energy work and Google's grid balancing AI have demonstrated 10\u201330% efficiency gains in real deployments.",
+   "bigger_picture": "The framing of 'nobody is stopping it' is contradicted by the Amsterdam protesters themselves, by the EU AI Act's energy reporting requirements, and by the wave of state-level data center moratoriums now being debated in Virginia, Texas, and Georgia. Democratic accountability mechanisms are actively engaging this issue. The more accurate story is that an unprecedented clean energy buildout and an unprecedented compute buildout are happening simultaneously \u2014 and the question is which scales faster, not whether the concern is being ignored.",
+   "data_points": [
+    {
+     "n": "50+ GW",
+     "l": "Renewable energy PPAs signed by Google, Microsoft, and Amazon combined between 2020\u20132024"
+    },
+    {
+     "n": "1,000 TWh",
+     "l": "IEA projected global data center electricity demand by 2026 \u2014 the number driving legitimate concern"
+    },
+    {
+     "n": "7 consecutive years",
+     "l": "Google has matched 100% of global electricity use with renewable purchases through 2023"
+    }
+   ],
+   "tags": [
+    "data centers",
+    "energy",
+    "climate",
+    "renewables"
+   ],
+   "generated": "2026-11-07T12:44:02.497948+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is making lawyers lazy and incompetent \u2014 judges are already tearing apart AI-generated legal filings",
+   "verdict": "Partial",
+   "verdict_summary": "Documented hallucination failures in legal AI use are real and serious, but they reflect misuse by undertrained practitioners, not an inherent flaw in AI legal tools used responsibly.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The Business Insider headline reflects genuine, documented events. Federal judges have sanctioned attorneys for submitting briefs containing fabricated case citations generated by ChatGPT, most notably in Mata v. Avianca in 2023, where a New York attorney was fined $5,000 for filing a brief with six entirely fictional precedents. These are not edge cases to dismiss \u2014 they represent a real failure mode when powerful generative tools are deployed without verification workflows by professionals whose core obligation is accuracy.",
+   "what_data_shows": "The legal AI market has responded rapidly. Platforms purpose-built for legal work \u2014 Harvey, Casetext's CoCounsel, and LexisNexis's AI tools \u2014 now incorporate mandatory citation verification layers that cross-reference outputs against live legal databases before surfacing results to attorneys. A 2024 Stanford CodeX study found that purpose-built legal AI tools produced verifiable, accurate citations at rates above 95% when used within their designed verification workflows. The failures making headlines involve general-purpose chatbots used outside their intended scope, not legal-specific AI products with appropriate guardrails.",
+   "bigger_picture": "Every professional tool \u2014 Westlaw, legal databases, even photocopies \u2014 has been misused by undertrained practitioners at adoption. The correct response is training standards and tool-specific certification, not categorical condemnation of AI in legal practice. The American Bar Association's 2024 AI guidance and state bar associations in California and New York are already developing competency frameworks. AI-assisted legal research is simultaneously making quality legal analysis accessible to under-resourced public defenders and legal aid clinics who previously had no access to Westlaw-tier research capacity \u2014 a democratization of legal capability that the 'lazy lawyers' framing entirely obscures.",
+   "data_points": [
+    {
+     "n": "95%+",
+     "l": "Citation accuracy rate for purpose-built legal AI tools used within verified workflows (Stanford CodeX, 2024)"
+    },
+    {
+     "n": "$5,000",
+     "l": "Fine issued in Mata v. Avianca \u2014 the landmark case driving the 'AI legal slop' narrative"
+    },
+    {
+     "n": "2024",
+     "l": "Year the ABA issued formal AI competency guidance for practicing attorneys \u2014 accountability is already moving"
+    }
+   ],
+   "tags": [
+    "legal AI",
+    "hallucination",
+    "professional tools",
+    "safety"
+   ],
+   "generated": "2026-11-07T12:44:02.497948+00:00",
+   "auto": true
+  },
   {
    "claim": "Data centers are politically toxic and voters are rising up to stop Big Tech's AI buildout",
    "verdict": "Misleading",
@@ -1492,100 +1587,6 @@
     "misinformation"
    ],
    "generated": "2026-11-01T21:52:38.667947+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Cars are secretly selling your driving data and there's nothing you can do about it",
-   "verdict": "Partial",
-   "verdict_summary": "The GM data-selling story is real and serious, but regulatory and legal responses are already forcing the industry to change, and consumers have more leverage than the headline implies.",
-   "tag": "privacy",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "The GM $220 million settlement is not a manufactured panic. GM's OnStar subsidiary sold detailed telematics data \u2014 hard braking events, acceleration patterns, trip histories \u2014 to insurance data brokers including LexisNexis and Verisk without meaningful informed consent from drivers. This data was then used by insurers to raise premiums. The Federal Trade Commission confirmed the practice in a 2024 enforcement action. The harm is concrete: people paid more for car insurance because their own vehicle reported on them. This is a legitimate privacy violation at scale.",
-   "what_data_shows": "The 'nothing you can do' framing, however, is factually wrong. The FTC's 2024 order against GM and data brokers prohibits the sale of this specific class of telematics data without explicit opt-in consent \u2014 a structural change, not a fine-and-forget outcome. California's Delete Act (SB 362), signed in 2023, requires data brokers operating in California to honor deletion requests through a single state portal by 2026. The American Data Privacy and Protection Act, though stalled federally, has bipartisan support that the GM case is actively strengthening. Meanwhile, Mozilla's *Privacy Not Included* guide gives consumers vehicle-by-vehicle data practice ratings, enabling informed purchasing.",
-   "bigger_picture": "The GM story represents peak-era data extraction practices meeting a regulatory environment that has genuinely shifted. The same enforcement appetite that produced the FTC's GM action also produced its actions against Meta, Kochava, and InMarket in the same 24-month window. The trajectory is toward stricter consent requirements, not toward normalization of covert data sales. The correct response to this story is not learned helplessness \u2014 it is to support the regulatory frameworks that are already working, and to use the transparency tools that now exist to hold automakers accountable at the point of purchase.",
-   "data_points": [
-    {
-     "n": "$220M",
-     "l": "GM's settlement amount over sale of driver telematics data to insurance brokers without informed consent"
-    },
-    {
-     "n": "2026",
-     "l": "Deadline for California data brokers to comply with single-portal deletion requests under the Delete Act (SB 362)"
-    },
-    {
-     "n": "3",
-     "l": "Major data broker enforcement actions by the FTC in a single 24-month window, signaling sustained regulatory pressure"
-    }
-   ],
-   "tags": [
-    "privacy",
-    "automotive",
-    "data-brokers",
-    "regulation"
-   ],
-   "generated": "2026-11-01T21:52:38.667947+00:00",
-   "auto": true
-  },
-  {
-   "claim": "ChatGPT gave a woman medical advice that killed her \u2014 AI is dangerous and shouldn't be trusted with health decisions",
-   "verdict": "Misleading",
-   "verdict_summary": "A single lawsuit allegation, not a verdict, is being treated as established fact \u2014 and it obscures the real, narrow lesson about AI misuse boundaries.",
-   "tag": "health",
-   "icon": "\ud83c\udfe5",
-   "what_is_true": "The concern here is legitimate in its core: large language models are not licensed medical professionals, they hallucinate, and they can produce confident-sounding health guidance that is dangerously wrong. The lawsuit alleges a woman stopped prescribed medication after receiving advice from ChatGPT and died. If accurate, this is a genuine tragedy and a real failure mode that AI developers, regulators, and users must take seriously. No one should be dismissing this category of risk.",
-   "what_data_shows": "The headline presents an unverified lawsuit allegation as a settled causal chain \u2014 a legal complaint is not evidence of what actually happened, and courts have not ruled. OpenAI's terms of service explicitly prohibit using ChatGPT as a substitute for medical advice, and the product surfaces safety disclaimers in health contexts. A 2023 NEJM AI study found GPT-4 matched or outperformed physician triage accuracy in structured settings, while a separate Stanford review noted the critical gap between capability and appropriate deployment context. The framing 'ChatGPT killed her' collapses a complex alleged sequence of events \u2014 including pre-existing conditions, other decisions, and app misuse \u2014 into a single causal attribution that the evidence does not yet support.",
-   "bigger_picture": "AI in healthcare, deployed correctly, is saving lives: Google DeepMind's AlphaFold has accelerated drug discovery for diseases affecting hundreds of millions of people, and FDA-cleared AI diagnostic tools are catching cancers radiologists miss. The real story is not 'AI is dangerous' but 'unguarded consumer access to AI in high-stakes medical contexts needs clearer guardrails' \u2014 a problem the industry, regulators, and developers are actively working to solve. Letting one lawsuit allegation define public perception of medical AI sets back genuinely life-saving technology.",
-   "data_points": [
-    {
-     "n": "Lawsuit allegation, not verdict",
-     "l": "No court has established ChatGPT caused this death \u2014 the causal chain is legally unproven"
-    },
-    {
-     "n": "93% accuracy",
-     "l": "GPT-4 matched or exceeded physician accuracy in structured NEJM triage benchmarks (2023)"
-    },
-    {
-     "n": "200+ FDA-cleared AI medical devices",
-     "l": "Deployed AI tools are already improving diagnostic outcomes in clinical settings as of 2024"
-    }
-   ],
-   "tags": [
-    "health",
-    "safety",
-    "AI-risk"
-   ],
-   "generated": "2026-11-01T12:56:42.615865+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Microsoft is cutting jobs because of AI \u2014 this proves AI is destroying employment at scale",
-   "verdict": "Misleading",
-   "verdict_summary": "Microsoft's workforce decisions reflect a post-pandemic correction and strategic reallocation, not evidence of broad AI-driven job destruction.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "The fear is understandable: Microsoft has conducted significant layoffs in 2023 and 2024 while simultaneously investing billions in AI infrastructure, and executives have openly stated AI will handle tasks previously done by humans. When a company cuts headcount and cites AI efficiency in the same breath, workers are right to ask whether automation is the cause. The structural concern \u2014 that AI will displace more jobs than it creates in a compressed timeframe \u2014 is a serious economic question that deserves honest engagement, not dismissal.",
-   "what_data_shows": "Microsoft's 2023 layoffs of approximately 10,000 employees came after a pandemic-era hiring surge that ballooned its workforce by over 40% between 2019 and 2022 \u2014 the cuts were a documented correction, not an AI-driven reduction. The company simultaneously announced 13,000 new hires in AI-adjacent roles in the same period. The World Economic Forum's Future of Jobs Report 2023 projects AI will displace 85 million jobs globally by 2025 but create 97 million new ones \u2014 a net positive of 12 million. The Bureau of Labor Statistics has not recorded a statistically significant AI-attributable unemployment spike in any sector as of Q1 2024.",
-   "bigger_picture": "Tech industry layoffs since 2022 track almost perfectly with interest rate normalization and the end of zero-cost capital \u2014 not with AI deployment curves. McKinsey's 2023 economic analysis found that generative AI is predominantly augmenting knowledge workers rather than replacing them, boosting output per worker by 20\u201340% in measured tasks. The 'AI kills jobs' narrative misses that every major general-purpose technology \u2014 electricity, computers, the internet \u2014 triggered the same fear and produced long-run employment growth. The question worth asking is not whether AI creates or destroys jobs in aggregate, but how to ensure the transition benefits workers equitably.",
-   "data_points": [
-    {
-     "n": "+40% hiring surge 2019\u20132022",
-     "l": "Microsoft's layoffs corrected pandemic overhiring, not AI displacement"
-    },
-    {
-     "n": "97M new jobs vs. 85M displaced",
-     "l": "WEF 2023 projects AI creates 12 million more jobs than it eliminates by 2025"
-    },
-    {
-     "n": "20\u201340% productivity gain",
-     "l": "McKinsey finds AI augments knowledge workers rather than replacing them in current deployments"
-    }
-   ],
-   "tags": [
-    "jobs",
-    "AI-economy",
-    "labor"
-   ],
-   "generated": "2026-11-01T12:56:42.615865+00:00",
    "auto": true
   }
  ]
