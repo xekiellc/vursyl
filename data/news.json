@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-08T21:52:26.306881+00:00",
+ "updated": "2026-11-09T05:31:51.987210+00:00",
  "items": [
+  {
+   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-11-09T05:00:40+00:00"
+  },
+  {
+   "title": "Korea\u2019s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-09T05:00:39+00:00"
+  },
+  {
+   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-09T05:00:04+00:00"
+  },
+  {
+   "title": "NVIDIA Dynamo Recipes Bring Korea\u2019s Leading Open Models to Production",
+   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-09T05:00:00+00:00"
+  },
+  {
+   "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+   "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+   "source": "MIT News AI",
+   "category": "breakthroughs",
+   "published": "2026-11-09T05:00:00+00:00"
+  },
+  {
+   "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+   "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-11-09T05:00:00+00:00"
+  },
+  {
+   "title": "Bridgestone revs up output of massive mining tires on AI-driven demand",
+   "url": "https://biztoc.com/x/68b81941d2e53d94",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-11-08T05:16:54+00:00"
+  },
+  {
+   "title": "Shizuku-Duplex: Japanese Full-Duplex Model for Natural Conversation",
+   "url": "https://shizuku.ai/en/blog/1/",
+   "source": "Shizuku.ai",
+   "category": "ai",
+   "published": "2026-11-08T04:00:50+00:00"
+  },
+  {
+   "title": "Show HN: Maple \u2013 Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+   "url": "https://github.com/AmSach/maple",
+   "source": "Github.com",
+   "category": "compute",
+   "published": "2026-11-08T03:48:04+00:00"
+  },
+  {
+   "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
+   "source": "Science Daily",
+   "category": "health",
+   "published": "2026-11-08T02:52:28+00:00"
+  },
   {
    "title": "Ollama was holding back my \"weak\" Intel GPU, and one swap turned it into a solid local AI setup",
    "url": "https://www.xda-developers.com/ollama-was-holding-back-my-weak-intel-arc-gpu/",
@@ -30,18 +100,11 @@
    "published": "2026-11-07T20:27:59+00:00"
   },
   {
-   "title": "Nvidia\u2019s Jim Fan says GR00T keynote teaser shows real autonomous robots at normal speed",
-   "url": "https://cryptobriefing.com/nvidia-gr00t-jim-fan-corl-keynote-teaser/",
-   "source": "Crypto Briefing",
+   "title": "Chainsaw robot looks terrifying but has a real job",
+   "url": "https://www.foxnews.com/tech/chainsaw-robot-looks-terrifying-real-job",
+   "source": "Fox News",
    "category": "robotics",
-   "published": "2026-11-07T20:18:10+00:00"
-  },
-  {
-   "title": "I hired humanoid robots to clean up after a wild houseparty for for $100 \u2014 here\u2019s how it went",
-   "url": "https://nypost.com/2026/11/07/tech/robot-cleaner-topples-during-sf-residents-post-party-cleanup/",
-   "source": "New York Post",
-   "category": "robotics",
-   "published": "2026-11-07T17:11:15+00:00"
+   "published": "2026-11-07T12:58:55+00:00"
   },
   {
    "title": "zenagent-py 0.9.0",
@@ -188,8 +251,7 @@
    "url": "https://www.saastr.com/saastr-ai-app-of-the-week-base44-one-founder-zero-funding-80-million-from-wix-in-6-months-now-at-200-million-arr/",
    "source": "Saastr.com",
    "category": "ai",
-   "published": "2026-11-07T12:00:44+00:00",
-   "breakthrough": true
+   "published": "2026-11-07T12:00:44+00:00"
   },
   {
    "title": "The mathematical trick that explains how to find a needle in a haystack",
@@ -262,6 +324,13 @@
    "published": "2026-11-07T11:04:34+00:00"
   },
   {
+   "title": "StarBot Spark is a three-foot humanoid robot built in the US for $7,999",
+   "url": "https://the-gadgeteer.com/2026/11/07/starbot-spark-is-a-three-foot-humanoid-robot-built-in-the-us-for-7999/",
+   "source": "The Gadgeteer",
+   "category": "robotics",
+   "published": "2026-11-07T11:00:00+00:00"
+  },
+  {
    "title": "Show HN: One-script installer for TRELLIS.2 on Nvidia Blackwell under WSL2",
    "url": "https://github.com/Creepybits/trellis2-blackwell-wsl",
    "source": "Github.com",
@@ -274,6 +343,13 @@
    "source": "Pypi.org",
    "category": "robotics",
    "published": "2026-11-07T09:23:35+00:00"
+  },
+  {
+   "title": "Digit has a real job and more warehouses are next",
+   "url": "https://the-gadgeteer.com/2026/11/07/agility-digit-humanoid-goes-public/",
+   "source": "The Gadgeteer",
+   "category": "robotics",
+   "published": "2026-11-07T08:00:00+00:00"
   },
   {
    "title": "4 NIT-R researchers bag Japan research opportunity",
@@ -493,13 +569,6 @@
    "published": "2026-11-06T19:29:09+00:00"
   },
   {
-   "title": "How to predict the behavior of molecules from scant data",
-   "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-11-06T19:00:00+00:00"
-  },
-  {
    "title": "PyTorch 2.15 tackles the 'one bad GPU' problem",
    "url": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
    "source": "Theregister.com",
@@ -561,13 +630,6 @@
    "source": "Ponoko.com",
    "category": "robotics",
    "published": "2026-11-06T17:00:00+00:00"
-  },
-  {
-   "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-   "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-11-06T16:00:35+00:00"
   },
   {
    "title": "Blocky Anime Character Creator by FIVE DUCK GAMES",
@@ -675,6 +737,13 @@
    "published": "2026-11-06T09:05:17+00:00"
   },
   {
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-06T08:00:00+00:00"
+  },
+  {
    "title": "Allstate\u2019s AI Ecosystem to Include a Personal Agentic Assistant for Customers",
    "url": "https://www.insurancejournal.com/news/national/2026/11/06/891775.htm",
    "source": "Insurance Journal",
@@ -752,13 +821,6 @@
    "published": "2026-11-06T01:11:19+00:00"
   },
   {
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-11-06T00:00:00+00:00"
-  },
-  {
    "title": "Single-cell and spatial transcriptomics of cellular heterogeneity in Alzheimer disease",
    "url": "https://www.nature.com/articles/s41583-026-01096-4",
    "source": "Nature.com",
@@ -815,11 +877,12 @@
    "published": "2026-11-05T20:55:02+00:00"
   },
   {
-   "title": "Cult.fit builds operational muscle with Codex",
-   "url": "https://openai.com/index/cultfit-builds-with-codex",
-   "source": "OpenAI",
+   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+   "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+   "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-11-05T20:00:00+00:00"
+   "published": "2026-11-05T20:00:41+00:00",
+   "breakthrough": true
   },
   {
    "title": "First iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
@@ -871,11 +934,11 @@
    "published": "2026-11-05T17:05:16+00:00"
   },
   {
-   "title": "Australian universities are creating AI-native graduates",
-   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-   "source": "OpenAI",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-11-05T17:00:00+00:00"
+   "published": "2026-11-05T17:00:35+00:00"
   },
   {
    "title": "IBM, ORNL, and AMD Co-Locate the 120-Qubit Nighthawk With an MI355X Umbra Cluster for Quantum Error Correction",
@@ -890,6 +953,20 @@
    "source": "Digitimes",
    "category": "robotics",
    "published": "2026-11-05T16:36:00+00:00"
+  },
+  {
+   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-05T16:00:05+00:00"
+  },
+  {
+   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+   "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+   "source": "Microsoft Research",
+   "category": "ai",
+   "published": "2026-11-05T16:00:00+00:00"
   },
   {
    "title": "\u2018Hogwarts Legacy\u2019 Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
@@ -974,6 +1051,20 @@
    "source": "Business Standard",
    "category": "health",
    "published": "2026-11-05T10:27:10+00:00"
+  },
+  {
+   "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-05T09:00:00+00:00"
+  },
+  {
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-05T08:00:00+00:00"
   },
   {
    "title": "Pudu Robotics Unveils \"One Brain, Multiple Embodiments\" Strategy and Showcases Full Portfolio in European First",
@@ -34910,97 +35001,6 @@
    "source": "Biztoc.com",
    "category": "compute",
    "published": "2026-08-10T06:58:21+00:00"
-  },
-  {
-   "title": "SuperAlloy boosts profit and expands into semiconductor green supply chains",
-   "url": "https://www.digitimes.com/news/a20260810PD207/profit-superalloy-2026-revenue-equipment.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-08-10T06:55:00+00:00"
-  },
-  {
-   "title": "Samsung crosses major milestone in flagship AI memory chip production",
-   "url": "https://www.sammobile.com/news/samsung-hbm4-production-yield-crossed-major-milestone/",
-   "source": "SamMobile",
-   "category": "compute",
-   "published": "2026-08-10T06:48:02+00:00"
-  },
-  {
-   "title": "SMRs expected to provide one-quarter of new global nuclear capacity by 2050",
-   "url": "https://www.hurriyetdailynews.com/smrs-expected-to-provide-one-quarter-of-new-global-nuclear-capacity-by-2050-225436",
-   "source": "Hurriyet Daily News",
-   "category": "compute",
-   "published": "2026-08-10T06:38:40+00:00"
-  },
-  {
-   "title": "Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck",
-   "url": "https://www.digitimes.com/news/a20260810VL207/nvidia-infrastructure-texas-data-center-electricity.html",
-   "source": "Digitimes",
-   "category": "compute",
-   "published": "2026-08-10T06:29:30+00:00"
-  },
-  {
-   "title": "Avnet and Weston Robot Bring Physical AI to Industrial Operations with Autonomous Inspection Robot",
-   "url": "https://en.antaranews.com/news/426335/avnet-and-weston-robot-bring-physical-ai-to-industrial-operations-with-autonomous-inspection-robot",
-   "source": "Antaranews.com",
-   "category": "robotics",
-   "published": "2026-08-10T06:29:10+00:00"
-  },
-  {
-   "title": "ASUS Ascent GX10: The Desktop AI Box That Wins By Not Racing",
-   "url": "https://me.pcmag.com/en/computers-electronics/37819/asus-ascent-gx10-the-desktop-ai-box-that-wins-by-not-racing",
-   "source": "PCMag.com",
-   "category": "ai",
-   "published": "2026-08-10T06:21:27+00:00"
-  },
-  {
-   "title": "Indosat launches Zankore by Indosat to serve Asia-Pacific\u2019s AI demand - Companies - The Jakarta Post",
-   "url": "https://www.thejakartapost.com/business/2026/08/10/indosat-launches-zankore-by-indosat-to-serve-asia-pacifics-ai-demand",
-   "source": "Jakarta Post",
-   "category": "ai",
-   "published": "2026-08-10T06:04:11+00:00"
-  },
-  {
-   "title": "TSMC reports 45% rise in monthly sales amid AI demand",
-   "url": "https://cryptobriefing.com/tsmc-monthly-sales-rise-ai-demand-2/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-08-10T05:59:30+00:00"
-  },
-  {
-   "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
-   "url": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
-   "source": "Theregister.com",
-   "category": "ai",
-   "published": "2026-08-10T05:56:15+00:00"
-  },
-  {
-   "title": "Gene Solutions Advances Precision Oncology Education in Malaysia with the ''Beyond Actionable'' Academy",
-   "url": "https://en.antaranews.com/news/426313/gene-solutions-advances-precision-oncology-education-in-malaysia-with-the-beyond-actionable-academy",
-   "source": "Antaranews.com",
-   "category": "health",
-   "published": "2026-08-10T05:49:05+00:00"
-  },
-  {
-   "title": "KPJ Healthcare Launches First Orthopaedic and Rheumatology Centre of Excellence Under the KPJ Health System",
-   "url": "https://en.antaranews.com/news/426301/kpj-healthcare-launches-first-orthopaedic-and-rheumatology-centre-of-excellence-under-the-kpj-health-system",
-   "source": "Antaranews.com",
-   "category": "health",
-   "published": "2026-08-10T05:01:08+00:00"
-  },
-  {
-   "title": "Interacting collaborators reveal noninteracting fermions",
-   "url": "https://quantumfrontiers.com/2026/08/09/interacting-collaborators-reveal-noninteracting-fermions/",
-   "source": "Quantumfrontiers.com",
-   "category": "quantum",
-   "published": "2026-08-10T04:34:38+00:00"
-  },
-  {
-   "title": "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
-   "url": "https://www.prnewswire.com/news-releases/akeso-advances-io2-0--adc2-0-strategy-first-patient-dosed-in-phase-ii-study-of-trop2nectin-4-bispecific-adc-ak146d1-combined-with-ivonescimab-in-breast-cancer-302846851.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-10T04:05:00+00:00"
   }
  ]
 }

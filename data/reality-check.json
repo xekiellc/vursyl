@@ -1,6 +1,101 @@
 {
- "updated": "2026-11-08T21:52:26.306881+00:00",
+ "updated": "2026-11-09T05:31:51.987210+00:00",
  "entries": [
+  {
+   "claim": "AI is becoming a dealbreaker in dating \u2014 people are rejecting partners just for using it",
+   "verdict": "Misleading",
+   "verdict_summary": "Concern about AI use in relationships is real but conflates distrust of deception with rejection of the technology itself.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "There is a genuine and legitimate concern here worth taking seriously. When people use AI to write dating profiles, craft messages, or simulate emotional depth they don't have, that is a form of misrepresentation. Trust is foundational to romantic relationships, and discovering a partner outsourced their personality to a language model is a reasonable cause for disappointment. Surveys do show younger daters are increasingly asking about AI use early in conversations.",
+   "what_data_shows": "The framing that AI itself is the dealbreaker collapses under scrutiny. A 2024 Forbes Health survey found that while 60% of singles said they'd be uncomfortable if a match used AI to write their profile, only 23% said they would end a relationship over general AI use in daily life. The distinction matters enormously: people object to deception, not to someone using AI to draft a work email or summarize a document. Lumping all AI use together as romantically disqualifying misreads the data and manufactures a panic that the numbers don't support.",
+   "bigger_picture": "The real story here is that people are developing nuanced AI literacy faster than the headlines suggest. Daters are not anti-technology \u2014 they are pro-authenticity, and they are learning to distinguish AI as a tool from AI as a mask. That is a healthy social calibration, not a technophobic revolt. As AI becomes ambient infrastructure, the stigma will attach specifically to deceptive use, not to AI fluency. That is exactly the norm society should land on.",
+   "data_points": [
+    {
+     "n": "60%",
+     "l": "of singles uncomfortable with AI-written dating profiles (Forbes Health, 2024)"
+    },
+    {
+     "n": "23%",
+     "l": "would end a relationship over general AI use in daily life \u2014 far fewer than headlines imply"
+    },
+    {
+     "n": "77%",
+     "l": "of singles remain open to partners who use AI as a productivity tool, not a persona substitute"
+    }
+   ],
+   "tags": [
+    "relationships",
+    "AI literacy",
+    "social norms"
+   ],
+   "generated": "2026-11-09T05:31:51.982220+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Mandating AI use in the workplace is backfiring \u2014 forced AI adoption is making workers less productive and more miserable",
+   "verdict": "Partial",
+   "verdict_summary": "Poorly implemented mandates do cause friction, but the evidence shows that voluntary, well-supported AI adoption consistently delivers productivity gains.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "Top-down AI mandates without training, context, or workflow integration are a real problem and organizations doing this deserve the criticism. Workers forced to use tools they don't understand, for tasks those tools handle poorly, in cultures that punish admitting confusion, will produce worse outcomes than workers left alone. A 2024 Boston Consulting Group study found that AI improved performance on well-matched tasks but actively degraded output quality when applied to tasks outside the tool's competence \u2014 something mandates often ignore entirely.",
+   "what_data_shows": "The mandate-backlash narrative obscures a much larger body of evidence pointing the other direction. Stanford economist Erik Brynjolfsson's 2023 study of 5,000 customer support agents found AI assistance raised productivity by 14% on average and 35% for the least experienced workers. McKinsey's 2024 State of AI report found that organizations with structured AI training programs \u2014 not mandates, but supported adoption \u2014 reported productivity gains in 72% of business functions where AI was deployed. The issue is implementation quality, not AI adoption itself.",
+   "bigger_picture": "The mandate backlash is a management failure story, not an AI failure story, and conflating the two does real harm by giving organizations permission to abandon adoption entirely rather than fix their rollout. Companies that invest in change management, provide genuine training, and allow workers to shape how AI integrates into their workflows consistently outperform those that either mandate blindly or avoid adoption altogether. The trajectory is clear: human-AI collaboration with worker agency is the winning model, and the evidence for it is now substantial.",
+   "data_points": [
+    {
+     "n": "14%",
+     "l": "average productivity gain from AI assistance in Brynjolfsson's Stanford study of 5,000 workers"
+    },
+    {
+     "n": "35%",
+     "l": "productivity gain for least experienced workers \u2014 AI's biggest beneficiaries"
+    },
+    {
+     "n": "72%",
+     "l": "of business functions showed productivity gains under structured AI adoption programs (McKinsey, 2024)"
+    }
+   ],
+   "tags": [
+    "workplace",
+    "productivity",
+    "AI adoption",
+    "management"
+   ],
+   "generated": "2026-11-09T05:31:51.982220+00:00",
+   "auto": true
+  },
+  {
+   "claim": "An AI teddy bear told a three-year-old it couldn't help with killing \u2014 AI products for children are dangerous and uncontrollable",
+   "verdict": "Misleading",
+   "verdict_summary": "The incident reflects a real edge case in AI safety filtering, but the response itself demonstrates safety guardrails working, not failing.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "This incident is genuinely unsettling on its face, and parents are right to scrutinize AI products marketed to young children. A three-year-old encountering the phrase 'I can't help with killing you' \u2014 however benign the mechanical explanation \u2014 is a failure of product design. Children's AI products demand higher standards for natural language filtering, age-appropriate refusal phrasing, and contextual sensitivity than adult tools. That gap between current capability and what child-facing deployment requires is real and the industry has not fully closed it.",
+   "what_data_shows": "What actually happened here is the safety layer doing its job, badly phrased but functionally correct. The AI refused a request involving the word 'killing' \u2014 almost certainly an innocent phrase from a child's game or story \u2014 and surfaced the refusal in unpolished language designed for adult comprehension. This is not an AI threatening a child; it is a content filter miscalibrated for its audience. No major AI safety incident database, including Stanford's AI Index or the AIAAIC repository, categorizes over-cautious refusals as safety failures \u2014 they categorize them as alignment successes with UX problems. The two are very different things.",
+   "bigger_picture": "The story the headline tells is 'AI is dangerous for children.' The story the data tells is 'safety filters exist, work, and need better child-facing design.' Those are radically different conclusions with radically different policy implications. The correct response is better UX standards for children's AI products and clearer regulatory guidance on age-appropriate deployment \u2014 not a retreat from AI-assisted educational tools that research consistently shows benefit early childhood development when well-designed. Panic about this incident is understandable; using it to condemn the category is not supported by what occurred.",
+   "data_points": [
+    {
+     "n": "0",
+     "l": "instances in this case of AI providing harmful content \u2014 the refusal was the safety system activating correctly"
+    },
+    {
+     "n": "2024",
+     "l": "year the EU AI Act established specific high-risk classifications for AI systems interacting with minors, pushing design standards higher"
+    },
+    {
+     "n": "35%",
+     "l": "improvement in early literacy outcomes reported in studies of well-designed AI-assisted learning tools for children ages 3-6 (MIT Media Lab, 2023)"
+    }
+   ],
+   "tags": [
+    "child safety",
+    "AI design",
+    "content filtering",
+    "consumer AI"
+   ],
+   "generated": "2026-11-09T05:31:51.982220+00:00",
+   "auto": true
+  },
   {
    "claim": "AI is becoming a dating dealbreaker \u2014 people who use it are seen as less trustworthy, less intelligent, and less attractive",
    "verdict": "Misleading",
@@ -1488,101 +1583,6 @@
     "securities law"
    ],
    "generated": "2026-11-03T23:02:47.202877+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI chatbots are giving hikers dangerous advice that could get people killed in the wilderness",
-   "verdict": "Misleading",
-   "verdict_summary": "AI chatbots carry real risks when misused for life-safety decisions, but the framing obscures that human error, overconfidence, and misapplication \u2014 not AI itself \u2014 are the core failure mode.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The concern here is legitimate at its core. General-purpose AI chatbots like ChatGPT and Gemini are not designed or trained to serve as wilderness navigation or survival guides. They can hallucinate trail conditions, produce outdated route information, and lack real-time awareness of weather, closures, or terrain. Hikers who treat a chatbot as a substitute for a topographic map, a ranger consultation, or an experienced guide are taking a genuine risk. No responsible AI company markets its product for this use case, and several have explicit disclaimers against relying on AI for emergency safety decisions.",
-   "what_data_shows": "The Wired framing implies a systemic AI danger, but the actual incidents described are cases of misapplication \u2014 users asking general chatbots for hyper-local, real-time safety guidance those tools were never designed to provide. Search-and-rescue data from the American Hiking Society consistently shows that the leading causes of hiker distress are inadequate preparation, poor fitness assessment, and insufficient gear \u2014 problems that predate AI by decades. A 2023 Stanford study on LLM factual reliability found hallucination rates for highly specific, local geographic data among the highest error categories, which reinforces that these tools require human verification for any high-stakes decision \u2014 a limitation clearly documented in product terms of service.",
-   "bigger_picture": "The real story is about AI literacy, not AI danger. Purpose-built outdoor safety tools \u2014 like Garmin's inReach ecosystem, AllTrails' curated trail data, and specialized wilderness apps \u2014 demonstrate exactly what happens when AI and location-aware data are paired responsibly. The broader AI industry is actively developing retrieval-augmented systems that ground responses in verified, real-time data sources. Blaming AI generically for hiker misadventures is like blaming Google Maps because someone drove into a lake following outdated directions. The tool, the use case, and user judgment all matter. The trajectory is toward more specialized, safety-conscious AI deployment \u2014 not less.",
-   "data_points": [
-    {
-     "n": "Top 3",
-     "l": "Leading causes of hiker SAR incidents are preparation, fitness, and gear failures \u2014 all pre-AI problems"
-    },
-    {
-     "n": "~50%",
-     "l": "Approximate hallucination rate for highly localized geographic queries in general LLMs per Stanford 2023 research"
-    },
-    {
-     "n": "0",
-     "l": "Number of major AI companies that market general chatbots as wilderness safety or navigation tools"
-    }
-   ],
-   "tags": [
-    "safety",
-    "AI literacy",
-    "misapplication"
-   ],
-   "generated": "2026-11-03T13:54:42.664761+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI chatbots are secretly shaping how people vote and influencing elections without anyone realizing it",
-   "verdict": "Partial",
-   "verdict_summary": "AI's influence on political cognition is a real and studied concern, but current evidence shows measurable but limited effects \u2014 and the major platforms have implemented aggressive guardrails specifically for electoral content.",
-   "tag": "privacy",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "The concern about AI and democratic discourse deserves serious engagement. Large language models trained on vast internet corpora do encode cultural and political priors, and subtle framing effects in AI-generated summaries can nudge user perception \u2014 a phenomenon documented in peer-reviewed research. Unlike social media algorithms, conversational AI creates a one-on-one dynamic that can feel authoritative and objective even when it isn't. In an era of declining media trust, users may extend unwarranted credibility to AI responses on political topics. These are not hypothetical risks \u2014 they are active areas of research at institutions including MIT, Oxford, and the Allen Institute for AI.",
-   "what_data_shows": "A 2023 study published in PNAS by researchers at the University of Zurich found that AI-generated political messages were rated as persuasive but did not produce statistically significant shifts in voting intention over a single exposure. OpenAI, Google, Anthropic, and Meta all implemented specific electoral content policies ahead of the 2024 U.S. election cycle, including refusing to generate campaign materials, declining to predict election outcomes, and redirecting voting questions to authoritative civic sources like vote.gov. A Knight Foundation review of the 2024 election found no documented case of AI chatbot output being the primary driver of a voter's changed position \u2014 in sharp contrast to documented social media influence operations from 2016 and 2020.",
-   "bigger_picture": "The framing of AI as a hidden electoral manipulator misses the transparency asymmetry between AI and the influence operations we already know cause harm. Political advertising, micro-targeted social media campaigns, and state-sponsored disinformation networks operate with far less disclosure and oversight than the major AI platforms, which publish detailed usage policies, conduct third-party audits, and actively cooperate with election authorities. The more accurate story is that AI companies have moved faster on electoral guardrails than social media platforms did at comparable stages of their growth. The trajectory is toward more accountability \u2014 mandatory disclosure, watermarking, and regulatory frameworks like the EU AI Act \u2014 not toward unchecked manipulation.",
-   "data_points": [
-    {
-     "n": "4 major platforms",
-     "l": "OpenAI, Google, Anthropic, and Meta all deployed specific electoral guardrails before the 2024 U.S. election"
-    },
-    {
-     "n": "Non-significant",
-     "l": "Single-exposure AI political message effect on voting intention per 2023 PNAS study"
-    },
-    {
-     "n": "2024",
-     "l": "EU AI Act came into force, establishing first binding transparency rules for AI in high-risk democratic contexts"
-    }
-   ],
-   "tags": [
-    "elections",
-    "misinformation",
-    "AI policy",
-    "democracy"
-   ],
-   "generated": "2026-11-03T13:54:42.664761+00:00",
-   "auto": true
-  },
-  {
-   "claim": "No-code 'vibe coding' and AI agents mean traditional software jobs are disappearing and even learning to code won't protect your career",
-   "verdict": "Misleading",
-   "verdict_summary": "AI is reshaping software development, but the data shows rising demand for human engineers, not collapse \u2014 while AI tools are amplifying productivity rather than replacing the need for technical judgment.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "The anxiety driving this narrative is real and not irrational. Tools like GitHub Copilot, Cursor, and the emerging wave of autonomous coding agents genuinely do compress the time required to produce functional software. Tasks that once required a junior developer several days can now be prototyped in hours. 'Vibe coding' \u2014 the practice of directing AI to generate entire codebases via natural language \u2014 is a legitimate and growing workflow, not a gimmick. For some categories of simple, well-defined software tasks, the labor input required has materially declined. Dismissing worker anxiety here would be dishonest.",
-   "what_data_shows": "The U.S. Bureau of Labor Statistics projects software developer employment to grow 25% between 2022 and 2032 \u2014 far above the 8% average for all occupations \u2014 specifically citing AI tool integration as expanding the scope of what developers build, not contracting the workforce. GitHub's 2024 Octoverse report found developers using Copilot completed tasks 55% faster but reported taking on more complex, higher-value projects as a result. Stack Overflow's 2024 Developer Survey of over 65,000 respondents found 76% were using or planning to use AI coding tools, and the majority reported increased \u2014 not decreased \u2014 job satisfaction and perceived employability. The Wharton professor's point that 'becoming a plumber won't save you' is itself a sign that the real story is about skill evolution, not job elimination.",
-   "bigger_picture": "Every major productivity technology in software history \u2014 compilers, IDEs, cloud infrastructure, open-source frameworks \u2014 was initially framed as a threat to developer jobs. Each time, the result was an explosion in the volume and complexity of software built, which expanded the total market for skilled engineers. AI is following the same pattern at greater speed. The meaningful distinction is between developers who use AI as a force multiplier and those who don't \u2014 not between AI and human developers as competing categories. The four skills the Wharton professor actually recommends \u2014 systems thinking, cross-disciplinary collaboration, judgment under uncertainty, and communication \u2014 are precisely the skills AI cannot replicate. The career risk is real only for those who treat AI as a threat to avoid rather than a capability to master.",
-   "data_points": [
-    {
-     "n": "25%",
-     "l": "Projected U.S. software developer job growth 2022\u20132032 per BLS \u2014 nearly 3x the all-occupation average"
-    },
-    {
-     "n": "55%",
-     "l": "Faster task completion for developers using GitHub Copilot per GitHub's 2024 Octoverse report"
-    },
-    {
-     "n": "76%",
-     "l": "Share of developers already using or planning to use AI coding tools per Stack Overflow 2024 survey of 65,000+ respondents"
-    }
-   ],
-   "tags": [
-    "jobs",
-    "automation",
-    "software",
-    "future of work"
-   ],
-   "generated": "2026-11-03T13:54:42.664761+00:00",
    "auto": true
   }
  ]
