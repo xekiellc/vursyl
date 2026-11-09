@@ -1,47 +1,166 @@
 {
- "updated": "2026-11-09T05:31:51.987210+00:00",
+ "updated": "2026-11-09T15:42:39.539759+00:00",
  "items": [
   {
-   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
    "source": "NVIDIA",
    "category": "robotics",
-   "published": "2026-11-09T05:00:40+00:00"
+   "published": "2026-11-09T14:00:01+00:00"
   },
   {
-   "title": "Korea\u2019s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+   "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
    "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-11-09T05:00:39+00:00"
+   "published": "2026-11-09T08:00:53+00:00"
   },
   {
-   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-   "source": "NVIDIA",
+   "title": "Scrine \u2013 Joyscroll books. Read any book one sentence at a time",
+   "url": "https://scrine.io/",
+   "source": "Scrine.io",
    "category": "ai",
-   "published": "2026-11-09T05:00:04+00:00"
+   "published": "2026-11-08T15:35:50+00:00"
   },
   {
-   "title": "NVIDIA Dynamo Recipes Bring Korea\u2019s Leading Open Models to Production",
-   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-   "source": "NVIDIA",
+   "title": "In Controlled LLM Markets, Full Disclosure Helped Some Models and Hurt Others",
+   "url": "https://forkast.news/in-controlled-llm-markets-full-disclosure-helped-some-models-and-hurt-others/",
+   "source": "Forkast.news",
    "category": "ai",
-   "published": "2026-11-09T05:00:00+00:00"
+   "published": "2026-11-08T15:32:35+00:00"
   },
   {
-   "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-   "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-11-09T05:00:00+00:00"
+   "title": "Diamond Foundry unveils world\u2019s first 200mm single-crystal diamond wafer",
+   "url": "https://cryptobriefing.com/diamond-foundry-200mm-single-crystal-diamond-wafer/",
+   "source": "Crypto Briefing",
+   "category": "compute",
+   "published": "2026-11-08T15:30:53+00:00"
   },
   {
-   "title": "AI-assisted learning platform helps robots reason beyond literal commands",
-   "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-   "source": "MIT News AI",
+   "title": "Diamond Foundry creates world's first 200mm single-crystal diamond wafer",
+   "url": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors",
+   "source": "Tom's Hardware UK",
+   "category": "compute",
+   "published": "2026-11-08T15:25:00+00:00"
+  },
+  {
+   "title": "fairbench-ai 0.5.7",
+   "url": "https://pypi.org/project/fairbench-ai/0.5.7/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-08T15:20:57+00:00"
+  },
+  {
+   "title": "Show HN: Recalc \u2013 Spreadsheet where cells can be Claude Code or Codex terminals",
+   "url": "https://github.com/sshah03/recalc",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-11-08T15:12:07+00:00"
+  },
+  {
+   "title": "Show HN: Loop \u2013 your coding agents, from your phone",
+   "url": "https://github.com/j-asefa/loop",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-11-08T15:11:43+00:00"
+  },
+  {
+   "title": "distributed-llm 0.6.1",
+   "url": "https://pypi.org/project/distributed-llm/0.6.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-08T15:10:57+00:00"
+  },
+  {
+   "title": "agent-capmap added to PyPI",
+   "url": "https://pypi.org/project/agent-capmap/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-08T15:05:29+00:00"
+  },
+  {
+   "title": "promptlint-ai 0.3.1",
+   "url": "https://pypi.org/project/promptlint-ai/0.3.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-08T15:01:50+00:00"
+  },
+  {
+   "title": "Show HN: Joggo \u2013 a self-hosted GitHub Actions runner for the Windows PC you use",
+   "url": "https://github.com/telluric-dev/joggo",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-11-08T14:59:45+00:00"
+  },
+  {
+   "title": "OpenAI Raises $11B at a $1.25T Valuation",
+   "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+   "source": "24/7 Wall St.",
+   "category": "ai",
+   "published": "2026-11-08T14:49:23+00:00"
+  },
+  {
+   "title": "aleshaq-sdk added to PyPI",
+   "url": "https://pypi.org/project/aleshaq-sdk/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-08T14:39:20+00:00"
+  },
+  {
+   "title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
+   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186653292",
+   "source": "Slashdot.org",
+   "category": "compute",
+   "published": "2026-11-08T14:32:05+00:00"
+  },
+  {
+   "title": "The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)",
+   "url": "https://biztoc.com/x/c62ea122a31c9fc2",
+   "source": "Biztoc.com",
    "category": "robotics",
-   "published": "2026-11-09T05:00:00+00:00"
+   "published": "2026-11-08T14:28:30+00:00"
+  },
+  {
+   "title": "I hired humanoid robots to clean up after a wild house party for for $100 \u2014 here\u2019s how it went",
+   "url": "https://biztoc.com/x/6d07dc3f68a70e41",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-11-08T14:28:14+00:00"
+  },
+  {
+   "title": "presidio-deident added to PyPI",
+   "url": "https://pypi.org/project/presidio-deident/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-08T13:58:33+00:00"
+  },
+  {
+   "title": "phi-gate added to PyPI",
+   "url": "https://pypi.org/project/phi-gate/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-08T11:29:45+00:00"
+  },
+  {
+   "title": "Peggy Johnson took humanoid robots to Wall Street. Now she has to make them profitable",
+   "url": "https://biztoc.com/x/b8105f293560509c",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-11-08T10:08:31+00:00"
+  },
+  {
+   "title": "SGH's AI tool wins international award for improving antibiotic use",
+   "url": "https://en.antaranews.com/news/441167/sghs-ai-tool-wins-international-award-for-improving-antibiotic-use",
+   "source": "Antaranews.com",
+   "category": "health",
+   "published": "2026-11-08T09:26:53+00:00"
+  },
+  {
+   "title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
+   "url": "https://github.com/kobaltgit/StatCraft",
+   "source": "Github.com",
+   "category": "compute",
+   "published": "2026-11-08T08:53:43+00:00"
   },
   {
    "title": "Bridgestone revs up output of massive mining tires on AI-driven demand",
@@ -98,6 +217,20 @@
    "source": "Techpowerup.com",
    "category": "compute",
    "published": "2026-11-07T20:27:59+00:00"
+  },
+  {
+   "title": "Nvidia\u2019s Jim Fan says GR00T keynote teaser shows real autonomous robots at normal speed",
+   "url": "https://cryptobriefing.com/nvidia-gr00t-jim-fan-corl-keynote-teaser/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-11-07T20:18:10+00:00"
+  },
+  {
+   "title": "I hired humanoid robots to clean up after a wild houseparty for for $100 \u2014 here\u2019s how it went",
+   "url": "https://nypost.com/2026/11/07/tech/robot-cleaner-topples-during-sf-residents-post-party-cleanup/",
+   "source": "New York Post",
+   "category": "robotics",
+   "published": "2026-11-07T17:11:15+00:00"
   },
   {
    "title": "Chainsaw robot looks terrifying but has a real job",
@@ -569,6 +702,13 @@
    "published": "2026-11-06T19:29:09+00:00"
   },
   {
+   "title": "How to predict the behavior of molecules from scant data",
+   "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+   "source": "MIT News AI",
+   "category": "breakthroughs",
+   "published": "2026-11-06T19:00:00+00:00"
+  },
+  {
    "title": "PyTorch 2.15 tackles the 'one bad GPU' problem",
    "url": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
    "source": "Theregister.com",
@@ -630,6 +770,13 @@
    "source": "Ponoko.com",
    "category": "robotics",
    "published": "2026-11-06T17:00:00+00:00"
+  },
+  {
+   "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+   "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-11-06T16:00:35+00:00"
   },
   {
    "title": "Blocky Anime Character Creator by FIVE DUCK GAMES",
@@ -737,13 +884,6 @@
    "published": "2026-11-06T09:05:17+00:00"
   },
   {
-   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
-   "url": "https://openai.com/index/partnering-with-hacktron",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-11-06T08:00:00+00:00"
-  },
-  {
    "title": "Allstate\u2019s AI Ecosystem to Include a Personal Agentic Assistant for Customers",
    "url": "https://www.insurancejournal.com/news/national/2026/11/06/891775.htm",
    "source": "Insurance Journal",
@@ -821,6 +961,14 @@
    "published": "2026-11-06T01:11:19+00:00"
   },
   {
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-06T00:00:00+00:00",
+   "breakthrough": true
+  },
+  {
    "title": "Single-cell and spatial transcriptomics of cellular heterogeneity in Alzheimer disease",
    "url": "https://www.nature.com/articles/s41583-026-01096-4",
    "source": "Nature.com",
@@ -877,12 +1025,11 @@
    "published": "2026-11-05T20:55:02+00:00"
   },
   {
-   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-   "source": "NVIDIA",
+   "title": "Cult.fit builds operational muscle with Codex",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
+   "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-05T20:00:41+00:00",
-   "breakthrough": true
+   "published": "2026-11-05T20:00:00+00:00"
   },
   {
    "title": "First iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
@@ -941,6 +1088,13 @@
    "published": "2026-11-05T17:00:35+00:00"
   },
   {
+   "title": "Australian universities are creating AI-native graduates",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-05T17:00:00+00:00"
+  },
+  {
    "title": "IBM, ORNL, and AMD Co-Locate the 120-Qubit Nighthawk With an MI355X Umbra Cluster for Quantum Error Correction",
    "url": "https://www.storagereview.com/news/ibm-ornl-amd-quantum-error-correction-co-design-platform-nighthawk-umbra-mi355x",
    "source": "Storagereview.com",
@@ -960,13 +1114,6 @@
    "source": "NVIDIA",
    "category": "ai",
    "published": "2026-11-05T16:00:05+00:00"
-  },
-  {
-   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-   "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
-   "source": "Microsoft Research",
-   "category": "ai",
-   "published": "2026-11-05T16:00:00+00:00"
   },
   {
    "title": "\u2018Hogwarts Legacy\u2019 Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
@@ -34854,153 +35001,6 @@
    "source": "Business Standard",
    "category": "ai",
    "published": "2026-08-10T12:56:25+00:00"
-  },
-  {
-   "title": "Intel plans $15 billion stock offering as AI demand accelerates",
-   "url": "https://biztoc.com/x/b53d217165d05e77",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-08-10T12:55:15+00:00"
-  },
-  {
-   "title": "Meta's 'open source' Muse Glimmer model can run on a single computer",
-   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184918830",
-   "source": "Slashdot.org",
-   "category": "ai",
-   "published": "2026-08-10T12:52:58+00:00"
-  },
-  {
-   "title": "Can Johnson & Johnson (JNJ) Challenge Intuitive Surgical (ISRG) After Ottava\u2019s FDA Approval?",
-   "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-challenge-intuitive-124242559.html",
-   "source": "Yahoo Entertainment",
-   "category": "health",
-   "published": "2026-08-10T12:42:42+00:00"
-  },
-  {
-   "title": "LIMPID Selected for Korea's Deep-Tech TIPS Program, Expanding Government-Backed R&D Behind Kinfora to US$6 Million",
-   "url": "https://www.prnewswire.com/news-releases/limpid-selected-for-koreas-deep-tech-tips-program-expanding-government-backed-rd-behind-kinfora-to-us6-million-302846077.html",
-   "source": "PRNewswire",
-   "category": "breakthroughs",
-   "published": "2026-08-10T12:32:00+00:00"
-  },
-  {
-   "title": "GlobalFoundries Selects Redpanda to Unify Real-Time Data and Power AI Agents Across its Global Manufacturing Footprint",
-   "url": "https://www.prnewswire.com/news-releases/globalfoundries-selects-redpanda-to-unify-real-time-data-and-power-ai-agents-across-its-global-manufacturing-footprint-302846473.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-08-10T12:30:00+00:00"
-  },
-  {
-   "title": "Medidata Expands Executive Leadership Team to Scale Operations and Accelerate Growth for Customers",
-   "url": "https://financialpost.com/globe-newswire/medidata-expands-executive-leadership-team-to-scale-operations-and-accelerate-growth-for-customers",
-   "source": "Financial Post",
-   "category": "ai",
-   "published": "2026-08-10T12:04:06+00:00"
-  },
-  {
-   "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips | TechCrunch",
-   "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-   "source": "TechCrunch",
-   "category": "compute",
-   "published": "2026-08-10T12:02:11+00:00"
-  },
-  {
-   "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-   "url": "https://openai.com/index/model-ml",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-10T12:00:00+00:00"
-  },
-  {
-   "title": "Spear Education and VoiceStack Partner to Strengthen Dental Front Office Performance",
-   "url": "https://www.prnewswire.com/news-releases/spear-education-and-voicestack-partner-to-strengthen-dental-front-office-performance-302846421.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-10T12:00:00+00:00"
-  },
-  {
-   "title": "POMDOCTOR LIMITED Highlights Healthcare Intelligence Flywheel as a Self-Reinforcing Growth Engine",
-   "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-highlights-healthcare-intelligence-flywheel-as-a-self-reinforcing-growth-engine-302846822.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-10T12:00:00+00:00"
-  },
-  {
-   "title": "Unitree's Shanghai IPO more than 8,000 times oversubscribed by retail investors",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/unitrees-shanghai-ipo-more-8-112909363.html",
-   "source": "Yahoo Entertainment",
-   "category": "robotics",
-   "published": "2026-08-10T11:29:09+00:00"
-  },
-  {
-   "title": "Putting frontier cyber models in more trusted hands",
-   "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-10T10:00:00+00:00"
-  },
-  {
-   "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-   "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-10T10:00:00+00:00"
-  },
-  {
-   "title": "Preventing Knowledge Debt in AI-Assisted Software Development",
-   "url": "https://www.c-sharpcorner.com/article/preventing-knowledge-debt-in-ai-assisted-software-development/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-08-10T09:44:36+00:00"
-  },
-  {
-   "title": "Building MCP Load Tests for Stateless Agent Workloads",
-   "url": "https://www.c-sharpcorner.com/article/building-mcp-load-tests-for-stateless-agent-workloads/",
-   "source": "C-sharpcorner.com",
-   "category": "ai",
-   "published": "2026-08-10T09:29:23+00:00"
-  },
-  {
-   "title": "AI for science needs reasoning, not just data",
-   "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-   "source": "MIT Technology Review",
-   "category": "ai",
-   "published": "2026-08-10T09:00:00+00:00"
-  },
-  {
-   "title": "Former ByteDance robotics head reportedly joins Xiaomi",
-   "url": "https://technode.com/2026/08/10/former-bytedance-robotics-head-reportedly-joins-xiaomi/",
-   "source": "TechNode",
-   "category": "robotics",
-   "published": "2026-08-10T07:22:38+00:00"
-  },
-  {
-   "title": "Excel Copilot Adds ChatGPT and Claude Switching for Spreadsheets",
-   "url": "https://www.geeky-gadgets.com/excel-copilot-top-features/",
-   "source": "Geeky Gadgets",
-   "category": "ai",
-   "published": "2026-08-10T07:13:00+00:00"
-  },
-  {
-   "title": "Samsung HBM4 Memory Reportedly Achieves the \u201cGolden Yield\u201d of 80% As It Aims To Challenge SK Hynix\u2019s \u201cAI DRAM\u201d Dominance",
-   "url": "https://wccftech.com/samsung-hbm4-memory-achieves-the-golden-yield-of-80-percent/",
-   "source": "Wccftech",
-   "category": "compute",
-   "published": "2026-08-10T07:10:17+00:00"
-  },
-  {
-   "title": "Free Library of Philadelphia expands Critical AI Literacy series with hands-on workshop [WHYY]",
-   "url": "http://whyy.org/articles/philadelphia-library-critical-artificial-intellifence-literacy-workshop/",
-   "source": "WHYY",
-   "category": "ai",
-   "published": "2026-08-10T07:05:37+00:00"
-  },
-  {
-   "title": "Tech giants TSMC and Sony to invest billions in advanced chip sensor plant",
-   "url": "https://biztoc.com/x/56b510ce62d6772c",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-08-10T06:58:21+00:00"
   }
  ]
 }
