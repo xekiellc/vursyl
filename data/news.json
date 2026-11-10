@@ -1,76 +1,160 @@
 {
- "updated": "2026-11-10T01:20:50.257695+00:00",
+ "updated": "2026-11-10T14:36:59.243343+00:00",
  "items": [
   {
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-11-09T19:00:00+00:00"
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "Google DeepMind",
+   "category": "breakthroughs",
+   "published": "2026-11-10T12:02:28+00:00"
   },
   {
-   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-   "url": "https://openai.com/index/control-room",
+   "title": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
    "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-10T12:00:00+00:00"
+  },
+  {
+   "title": "Closing the AI guidance gap in education",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-10T09:00:00+00:00"
+  },
+  {
+   "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+   "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-11-10T05:00:00+00:00"
+  },
+  {
+   "title": "Nvidia unveils GR00T 2 and Isaac Lab 3.0 at CoRL conference",
+   "url": "https://cryptobriefing.com/nvidia-gr00t-2-isaac-lab-3-corl/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-11-09T14:08:51+00:00"
+  },
+  {
+   "title": "Lunit to Supply AI-Powered Imaging Solutions to Saudi Arabia's Ministry of National Guard Health Affairs",
+   "url": "https://www.prnewswire.com/news-releases/lunit-to-supply-ai-powered-imaging-solutions-to-saudi-arabias-ministry-of-national-guard-health-affairs-302933151.html",
+   "source": "PRNewswire",
+   "category": "health",
+   "published": "2026-11-09T14:05:25+00:00"
+  },
+  {
+   "title": "Anthropic strikes $3.4 bn off-grid power deal \u2013 FT",
+   "url": "https://rt-english.com/business/648608-anthropic-strikes-34-bn-off/",
+   "source": "Rt-english.com",
+   "category": "compute",
+   "published": "2026-11-09T14:05:06+00:00"
+  },
+  {
+   "title": "Diagrid\u2019s Dapr 1.19 lightens AI agent workflows and drops a control-plane service",
+   "url": "https://siliconangle.com/2026/11/09/diagrids-dapr-1-19-lightens-ai-agent-workflows-and-drops-a-control-plane-service/",
+   "source": "SiliconANGLE News",
+   "category": "ai",
+   "published": "2026-11-09T14:00:55+00:00"
+  },
+  {
+   "title": "AWS commits $100M in AI and cloud credits to health groups in underserved communities",
+   "url": "https://siliconangle.com/2026/11/09/aws-commits-100m-in-ai-and-cloud-credits-to-health-groups-in-underserved-communities/",
+   "source": "SiliconANGLE News",
+   "category": "health",
+   "published": "2026-11-09T14:00:38+00:00"
+  },
+  {
+   "title": "AWS\u2019 $100 Million AI Bet Is on Reaching Patients, Not Replacing Doctors",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/aws-100-million-ai-bet-is-on-reaching-patients-not-replacing-doctors/",
+   "source": "pymnts.com",
+   "category": "health",
+   "published": "2026-11-09T14:00:25+00:00"
+  },
+  {
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+   "source": "Nvidia.com",
+   "category": "robotics",
+   "published": "2026-11-09T14:00:01+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Matillion recognized as a Visionary in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Data Integration Tools",
+   "url": "https://www.prnewswire.co.uk/news-releases/matillion-recognized-as-a-visionary-in-the-2026-gartner-magic-quadrant-for-data-integration-tools-302933310.html",
+   "source": "PR Newswire UK",
    "category": "ai",
    "published": "2026-11-09T13:00:00+00:00"
   },
   {
-   "title": "CodeRabbit scales agentic software development and ships 20x more",
-   "url": "https://openai.com/index/coderabbit-codex-daybreak",
-   "source": "OpenAI",
+   "title": "Google unveils new AI chip variants as cloud demand surges",
+   "url": "https://www.channelnewsasia.com/business/google-unveils-new-ai-chip-variants-cloud-demand-surges-6536191",
+   "source": "CNA",
+   "category": "compute",
+   "published": "2026-11-09T12:39:49+00:00"
+  },
+  {
+   "title": "Google unveils two new variants of in-house chips",
+   "url": "https://www.channelnewsasia.com/business/google-unveils-two-new-variants-in-house-chips-6536191",
+   "source": "CNA",
+   "category": "compute",
+   "published": "2026-11-09T12:39:49+00:00"
+  },
+  {
+   "title": "Terafab Is Now Aiming For A Memory Production Capacity Of Around 700,000 Wafers Per Month, Which Is Roughly Equal To Samsung\u2019s Entire DRAM Capacity",
+   "url": "https://biztoc.com/x/72620897687dc079",
+   "source": "Biztoc.com",
+   "category": "compute",
+   "published": "2026-11-09T11:32:31+00:00"
+  },
+  {
+   "title": "Web Summit 2026 in Lisbon highlights record China presence and robot speakers debut",
+   "url": "https://biztoc.com/x/3123ee48971d880f",
+   "source": "Biztoc.com",
    "category": "ai",
-   "published": "2026-11-09T08:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-11-09T10:31:02+00:00"
   },
   {
-   "title": "Kuken Industries searches 70 years of drawings in minutes",
-   "url": "https://openai.com/index/kuken",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-11-09T08:00:00+00:00"
-  },
-  {
-   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-09T05:00:40+00:00"
-  },
-  {
-   "title": "Korea\u2019s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-09T05:00:39+00:00"
-  },
-  {
-   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-09T05:00:04+00:00"
-  },
-  {
-   "title": "NVIDIA Dynamo Recipes Bring Korea\u2019s Leading Open Models to Production",
-   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-09T05:00:00+00:00"
-  },
-  {
-   "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-   "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-11-09T05:00:00+00:00"
-  },
-  {
-   "title": "AI-assisted learning platform helps robots reason beyond literal commands",
-   "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-   "source": "MIT News AI",
+   "title": "Web Summit 2026 in Lisbon: record Chinese delegation and humanoid robots as speakers",
+   "url": "https://biztoc.com/x/4d668cd92ea05b08",
+   "source": "Biztoc.com",
    "category": "robotics",
-   "published": "2026-11-09T05:00:00+00:00"
+   "published": "2026-11-09T10:00:27+00:00"
+  },
+  {
+   "title": "Electron qubit floating above a nonuniform solid neon layer",
+   "url": "https://link.aps.org/doi/10.1103/3k7l-4597",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-11-09T10:00:00+00:00"
+  },
+  {
+   "title": "Minimizing classical resources in variational measurement-based quantum computation for generative modeling",
+   "url": "https://link.aps.org/doi/10.1103/5hzz-v77n",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-11-09T10:00:00+00:00"
+  },
+  {
+   "title": "Metrological channels induced by encrypted quantum cloning: Optimal-probe Fisher-information broadcasting and single-use operational recovery",
+   "url": "https://link.aps.org/doi/10.1103/zmbh-l8zk",
+   "source": "Aps.org",
+   "category": "quantum",
+   "published": "2026-11-09T10:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+   "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+   "source": "Nvidia.com",
+   "category": "ai",
+   "published": "2026-11-09T08:00:53+00:00"
+  },
+  {
+   "title": "Innodisk says AI applications now generate more than 40% of revenue as 3Q26 profit jumps",
+   "url": "https://www.digitimes.com/news/a20261109PD222/innodisk-revenue-ai-applications-profit-high-end.html",
+   "source": "Digitimes",
+   "category": "compute",
+   "published": "2026-11-09T03:55:00+00:00"
   },
   {
    "title": "artest-llm 1.0.0",
@@ -885,6 +969,13 @@
    "published": "2026-11-06T19:29:09+00:00"
   },
   {
+   "title": "How to predict the behavior of molecules from scant data",
+   "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+   "source": "MIT News AI",
+   "category": "ai",
+   "published": "2026-11-06T19:00:00+00:00"
+  },
+  {
    "title": "PyTorch 2.15 tackles the 'one bad GPU' problem",
    "url": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
    "source": "Theregister.com",
@@ -946,6 +1037,13 @@
    "source": "Ponoko.com",
    "category": "robotics",
    "published": "2026-11-06T17:00:00+00:00"
+  },
+  {
+   "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+   "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-11-06T16:00:35+00:00"
   },
   {
    "title": "Blocky Anime Character Creator by FIVE DUCK GAMES",
@@ -34903,104 +35001,6 @@
    "source": "Hot Hardware",
    "category": "compute",
    "published": "2026-08-10T18:45:00+00:00"
-  },
-  {
-   "title": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve",
-   "url": "https://www.cnbc.com/2026/08/10/open-ai-daybreak-cybersecurity.html",
-   "source": "CNBC",
-   "category": "ai",
-   "published": "2026-08-10T18:43:17+00:00"
-  },
-  {
-   "title": "Brex shifts AI governance to network traffic monitoring with open-source LLM proxy",
-   "url": "https://cryptobriefing.com/brex-crabtrap-ai-governance-network-monitoring/",
-   "source": "Crypto Briefing",
-   "category": "ai",
-   "published": "2026-08-10T18:39:44+00:00"
-  },
-  {
-   "title": "Rakuten Sees Earnings Growth From AI",
-   "url": "https://biztoc.com/x/c6342caee03ea0e8",
-   "source": "Biztoc.com",
-   "category": "ai",
-   "published": "2026-08-10T18:38:12+00:00"
-  },
-  {
-   "title": "IIT-Gn to launch Rs 190cr semiconductor training hub",
-   "url": "https://timesofindia.indiatimes.com/city/ahmedabad/iit-gn-to-launch-rs-190cr-semiconductor-training-hub/articleshow/133130148.cms",
-   "source": "The Times of India",
-   "category": "compute",
-   "published": "2026-08-10T18:33:27+00:00"
-  },
-  {
-   "title": "BlackRock partners with NABTU to align construction workers for data centers",
-   "url": "https://cryptobriefing.com/blackrock-nabtu-data-center-construction-workers/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-08-10T18:30:49+00:00"
-  },
-  {
-   "title": "AbbVie\u2019s (ABBV) Botox Just Got A Step Closer To A Fifth Use",
-   "url": "https://finance.yahoo.com/healthcare/articles/abbvie-abbv-botox-just-got-165940206.html",
-   "source": "Yahoo Entertainment",
-   "category": "health",
-   "published": "2026-08-10T16:59:40+00:00"
-  },
-  {
-   "title": "The biggest opportunity to improve lung cancer survival isn\u2019t a new drug",
-   "url": "https://biztoc.com/x/8f310b055ed516f3",
-   "source": "Biztoc.com",
-   "category": "health",
-   "published": "2026-08-10T16:38:30+00:00"
-  },
-  {
-   "title": "Mark Zuckerberg Lays Out Optimistic AI Vision of \"Personal Superintelligence\" for Everyone",
-   "url": "https://www.breitbart.com/tech/2026/08/10/mark-zuckerberg-lays-out-optimistic-ai-vision-of-personal-superintelligence-for-everyone/",
-   "source": "Breitbart News",
-   "category": "ai",
-   "published": "2026-08-10T16:20:22+00:00"
-  },
-  {
-   "title": "Dyna Robotics unveils DYNA-2 World-Action Model, demonstrating first true scaling law in robotics powered entirely by human data",
-   "url": "https://www.prnewswire.com/news-releases/dyna-robotics-unveils-dyna-2-world-action-model-demonstrating-first-true-scaling-law-in-robotics-powered-entirely-by-human-data-302847114.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-08-10T16:00:00+00:00"
-  },
-  {
-   "title": "Metabio Advances Global Preventive Healthcare with Integrated AI-Powered Bioresonance Ecosystem",
-   "url": "https://www.globenewswire.com/news-release/2026/08/10/3342013/0/en/metabio-advances-global-preventive-healthcare-with-integrated-ai-powered-bioresonance-ecosystem.html",
-   "source": "GlobeNewswire",
-   "category": "health",
-   "published": "2026-08-10T15:31:00+00:00"
-  },
-  {
-   "title": "China Intends To Build Its 2035 Moon Station With Quadruped Robots",
-   "url": "https://www.ponoko.com/blog/ponoko/china-intends-to-build-its-2035-moon-station-with-quadruped-robots/",
-   "source": "Ponoko.com",
-   "category": "robotics",
-   "published": "2026-08-10T15:12:48+00:00"
-  },
-  {
-   "title": "Why business leaders need to take quantum seriously",
-   "url": "https://www.techradar.com/pro/why-business-leaders-need-to-take-quantum-seriously",
-   "source": "TechRadar",
-   "category": "quantum",
-   "published": "2026-08-10T14:47:08+00:00"
-  },
-  {
-   "title": "Behavioral/Mental Health Software Market worth $8.43 billion by 2031 - Exclusive Report by MarketsandMarkets\u2122",
-   "url": "https://www.prnewswire.com/news-releases/behavioralmental-health-software-market-worth-8-43-billion-by-2031---exclusive-report-by-marketsandmarkets-302846970.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-10T14:30:00+00:00"
-  },
-  {
-   "title": "QuadMed Makes Connecting to Care as Simple as a Text",
-   "url": "https://www.prnewswire.com/news-releases/quadmed-makes-connecting-to-care-as-simple-as-a-text-302847157.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-10T14:16:00+00:00"
   }
  ]
 }
