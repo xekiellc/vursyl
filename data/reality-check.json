@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-10T14:36:59.243343+00:00",
+ "updated": "2026-11-10T23:01:13.750816+00:00",
  "entries": [
+  {
+   "claim": "AI is putting children at risk on school devices \u2014 Google's Chromebooks are actively harming kids",
+   "verdict": "Misleading",
+   "verdict_summary": "The lawsuit reflects real parental concern, but conflates general AI risks with specific product harm while ignoring existing safeguards and the broader context of supervised educational AI deployment.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The concern is not baseless. AI-integrated tools on student devices do raise legitimate questions about age-appropriate content filtering, data handling under COPPA and FERPA, and whether school administrators have sufficient oversight controls. Parents filing suit against Google over Chromebook AI features are responding to a genuine gap: the speed of AI deployment in classrooms has outpaced formal regulatory guidance, and no federal standard yet defines what 'safe AI' looks like for K-12 environments. That tension is real and worth taking seriously.",
+   "what_data_shows": "Google's education suite \u2014 used by over 50 million students globally \u2014 operates under strict COPPA compliance requirements, with Workspace for Education applying blanket restrictions on ads, data selling, and profiling for users under 18. The specific AI features available on school-managed Chromebooks are gated by district administrators, not surfaced to students by default. No peer-reviewed study to date has demonstrated measurable harm from Google's current suite of education AI tools. The lawsuit, filed in 2025, cites hypothetical risk vectors rather than documented incident data, a standard that would implicate textbooks, search engines, and YouTube equally.",
+   "bigger_picture": "The real story here is that the education technology sector is actively building the accountability infrastructure that early consumer AI lacked. The U.S. Department of Education released its AI and the Future of Teaching and Learning framework, and states like California and New York have passed student data privacy laws with AI-specific provisions. Litigation, when grounded in evidence, can accelerate that process. But panic-framing that treats AI on school Chromebooks as categorically dangerous ignores that supervised, district-controlled AI deployment is precisely the responsible model advocates have been calling for.",
+   "data_points": [
+    {
+     "n": "50M+",
+     "l": "Students globally using Google Workspace for Education under COPPA-compliant controls"
+    },
+    {
+     "n": "0",
+     "l": "Peer-reviewed studies documenting harm from Google's current K-12 AI tools cited in the lawsuit"
+    },
+    {
+     "n": "35+ U.S. states",
+     "l": "Have enacted or are advancing student data privacy legislation that covers AI systems"
+    }
+   ],
+   "tags": [
+    "safety",
+    "education",
+    "AI",
+    "children",
+    "privacy"
+   ],
+   "generated": "2026-11-10T23:01:13.743193+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI malware is now targeting and ranking victims by wealth \u2014 this is a terrifying new era of AI-powered cybercrime",
+   "verdict": "Partial",
+   "verdict_summary": "AI-enhanced malware is a real and documented threat vector, but the 'AI ranks victims by wealth' framing dramatically overstates current capability while understating the parallel advances in AI-powered cyber defense.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "Threat actors do use automation and data profiling to prioritize high-value targets \u2014 this is not new. Ransomware gangs have used victim triage scripts for years, sorting targets by industry, revenue estimates scraped from public sources, and network size. The evolution toward incorporating machine learning into that triage pipeline is a credible and documented trend. The Fox News framing of 'AI malware ranks victims by wealth' is sensationalist, but the underlying concern \u2014 that AI lowers the cost and raises the precision of targeted cybercrime \u2014 reflects a genuine threat intelligence finding that security researchers at CrowdStrike, Mandiant, and CISA have all flagged.",
+   "what_data_shows": "The IBM X-Force Threat Intelligence Index 2024 found that AI-generated phishing emails increased click-through rates by 11 percentage points over traditional phishing in controlled tests \u2014 a meaningful but not civilization-ending delta. The malware described in the Fox News piece appears to reference a sample analyzed by security researchers that uses LLM-assisted victim profiling, but independent verification of its deployment in the wild remains limited. Critically, the same AI capabilities accelerating attacker tooling are being deployed defensively: Microsoft's Security Copilot, Google's Sec-PaLM, and CrowdStrike's Charlotte AI all use large language models for threat detection, reducing mean time to respond. The offense-defense dynamic is not static.",
+   "bigger_picture": "Every major technology shift \u2014 email, the web, mobile \u2014 was followed by a wave of criminal adaptation and an equivalent or superior wave of defensive innovation. AI is following the same pattern on a compressed timeline. The global cybersecurity market is projected to reach $562 billion by 2032, with AI-native defense platforms capturing the fastest-growing segment. The more accurate headline is not 'AI empowers attackers' but 'AI is transforming both sides of the security equation simultaneously, and defenders have structural advantages including scale, coordination, and regulatory backing that attackers do not.'",
+   "data_points": [
+    {
+     "n": "+11 pp",
+     "l": "Increase in phishing click-through rates when AI-generated, per IBM X-Force 2024"
+    },
+    {
+     "n": "$562B",
+     "l": "Projected global cybersecurity market size by 2032, driven by AI-native defense platforms"
+    },
+    {
+     "n": "3",
+     "l": "Major AI-native security copilots (Microsoft, Google, CrowdStrike) now in active enterprise deployment"
+    }
+   ],
+   "tags": [
+    "safety",
+    "cybersecurity",
+    "malware",
+    "AI",
+    "threat"
+   ],
+   "generated": "2026-11-10T23:01:13.743193+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is killing digital search \u2014 Google is finished and the web as we know it is dying",
+   "verdict": "Misleading",
+   "verdict_summary": "AI is fundamentally reshaping how people retrieve information, but 'death of search' narratives mistake a major platform transition for total collapse, ignoring that search query volume remains near all-time highs and that Google is itself leading the AI search transition.",
+   "tag": "safety",
+   "icon": "\u26a1",
+   "what_is_true": "The New Yorker's framing taps into something real: AI-native interfaces like ChatGPT, Perplexity, and Claude are capturing a meaningful share of informational queries that previously went to Google. Publishers are experiencing real traffic declines as AI Overviews and zero-click results reduce downstream referral clicks. A 2024 analysis by Semrush found that sites in the top 100 organic positions saw click-through rates fall by an average of 15\u201320% following widespread AI Overview rollout. The economics of ad-supported publishing are under genuine pressure. These are not invented concerns.",
+   "what_data_shows": "Google processed an estimated 8.5 billion searches per day in 2024 \u2014 a figure that has not declined in absolute terms. Perplexity, the most-cited 'Google killer,' reported 100 million monthly queries in early 2025, roughly 1.2% of Google's daily volume. ChatGPT's search feature, launched in late 2024, has shown strong adoption among tech-forward users but has not registered in Statista or SimilarWeb data as a material share shift in total search traffic. Google's AI Overview is now shown in over 25% of U.S. search results, meaning Google is not being displaced by AI search \u2014 Google is AI search for the overwhelming majority of users.",
+   "bigger_picture": "Search is not dying \u2014 it is bifurcating. Transactional queries, local search, and commercial intent searches remain overwhelmingly Google's domain and are growing with e-commerce. Conversational and research-oriented queries are splitting across a richer ecosystem that includes AI assistants, which is a net positive for users who get better answers faster. The publishing ecosystem disruption is a serious second-order effect that deserves its own policy conversation, but conflating that with 'digital search is dying' mistakes a distribution shift for an extinction event. The web's information infrastructure is being restructured, not demolished.",
+   "data_points": [
+    {
+     "n": "8.5B",
+     "l": "Google searches processed per day in 2024 \u2014 no absolute decline in query volume"
+    },
+    {
+     "n": "~1.2%",
+     "l": "Perplexity's monthly query volume as a share of Google's daily volume as of early 2025"
+    },
+    {
+     "n": "25%+",
+     "l": "Share of U.S. Google searches now showing AI Overviews \u2014 Google leads AI search, not loses to it"
+    }
+   ],
+   "tags": [
+    "AI",
+    "search",
+    "Google",
+    "media",
+    "disruption"
+   ],
+   "generated": "2026-11-10T23:01:13.743193+00:00",
+   "auto": true
+  },
   {
    "claim": "Mandating AI use at work is backfiring \u2014 forcing employees to use AI tools is making things worse, not better",
    "verdict": "Misleading",
@@ -1485,101 +1584,6 @@
     "economics"
    ],
    "generated": "2026-11-05T05:55:44.468395+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI data centers are a threat to communities \u2014 corporations get the profit while locals bear all the risk, strain on the grid, and environmental damage.",
-   "verdict": "Misleading",
-   "verdict_summary": "Data centers do create real local pressures, but the evidence shows substantial community benefits and rapidly improving efficiency that the fear narrative ignores.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "The concern Zohran Mamdani and others raise is not invented. Large-scale data centers do draw significant power \u2014 a hyperscale facility can consume 100\u2013500 MW, comparable to a small city \u2014 and they concentrate that demand in specific grid regions. In areas with coal-heavy grids or stressed water supplies, this matters. Local residents who didn't choose to host a data center and don't directly capture the economic upside have a legitimate grievance about asymmetric risk distribution. This is a real policy tension worth taking seriously.",
-   "what_data_shows": "The aggregate picture is more complicated. The U.S. data center industry directly employs roughly 2 million people and generates an estimated $200 billion in annual economic output according to CEDA data. Power Usage Effectiveness (PUE) for hyperscale facilities has dropped from an industry average of 2.0 in 2010 to around 1.2 today, meaning nearly 85% of drawn power now reaches actual compute \u2014 a 40% efficiency gain in 15 years. Major operators including Google, Microsoft, and Amazon have committed to 24/7 carbon-free energy matching by 2030, and Google reported matching 64% of its global electricity with carbon-free sources in 2023. OpenAI's recently pitched co-located power plant model is specifically designed to add net-new generation capacity rather than drain existing grids \u2014 addressing the core complaint directly.",
-   "bigger_picture": "The 'our risk, their reward' framing treats data center infrastructure as purely extractive, but it misses that these facilities are the backbone of tools \u2014 telemedicine, climate modeling, agricultural optimization \u2014 that deliver broad public benefit. The policy debate should be about better local benefit-sharing agreements, faster permitting for co-located clean generation, and stronger grid investment requirements \u2014 not whether data centers should exist. Fourteen U.S. states have already passed or proposed data center community benefit legislation. The trajectory is toward accountability, not unchecked corporate capture.",
-   "data_points": [
-    {
-     "n": "1.2 avg PUE",
-     "l": "Hyperscale data center efficiency in 2024, down from 2.0 in 2010"
-    },
-    {
-     "n": "$200B+",
-     "l": "Annual U.S. economic output attributed to the data center industry"
-    },
-    {
-     "n": "64%",
-     "l": "Google's 2023 electricity matched to carbon-free sources on a 24/7 basis"
-    }
-   ],
-   "tags": [
-    "energy",
-    "infrastructure",
-    "AI"
-   ],
-   "generated": "2026-11-04T23:27:17.078231+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI chatbots are secretly shaping how people vote and are a dangerous tool for political manipulation.",
-   "verdict": "Partial",
-   "verdict_summary": "AI tools do exhibit measurable framing effects on political views, but calling this secret manipulation overstates the evidence and ignores meaningful safeguards already in place.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "There is a legitimate and well-documented concern here. A 2023 study published in PNAS by Robert Epstein and colleagues found that AI-generated search suggestions could shift voter preferences by 2\u201310 percentage points among undecided voters \u2014 a significant margin in tight elections. Separately, a 2024 MIT Media Lab paper found that LLM-generated political content was rated as more credible than human-written content by test participants. When billions of people interact with AI systems daily, even subtle framing biases \u2014 which all language models have to some degree \u2014 aggregate into real influence at scale. This is not paranoia; it is a measurable effect.",
-   "what_data_shows": "What the alarming headlines underplay is the active countermeasure landscape. Every major frontier AI \u2014 ChatGPT, Gemini, Claude, Grok, Copilot \u2014 has implemented explicit electoral guardrails ahead of the 2024 U.S. and global election cycle. OpenAI's usage policy prohibits generating content designed to influence elections, and the company built specific refusal behavior for voting advice queries. A 2024 Ada Lovelace Institute audit of six major AI systems found that all six declined to make direct voting recommendations, though framing effects in informational responses remained detectable. The EU AI Act, now in force, classifies AI systems that influence elections as high-risk and mandates transparency disclosures. Concern about framing effects is valid; the claim of unchecked secret manipulation is not supported.",
-   "bigger_picture": "The more accurate framing is that AI is a new and powerful information intermediary \u2014 like search engines, cable news, and social media before it \u2014 with real influence potential that demands ongoing scrutiny. The difference from prior panics is that the AI industry entered the 2024 election cycle with explicit safeguards, coordinated through the Seoul AI Safety Summit commitments signed by 16 major AI companies. Media literacy, transparent model auditing, and mandatory disclosure requirements are the right responses. Treating AI as uniquely dangerous compared to algorithmic social media feeds \u2014 which have faced far less accountability \u2014 is inconsistent with the evidence.",
-   "data_points": [
-    {
-     "n": "2\u201310%",
-     "l": "Potential shift in undecided voter preferences from AI-generated suggestions (Epstein et al., PNAS 2023)"
-    },
-    {
-     "n": "6 of 6",
-     "l": "Major AI systems that refused direct voting recommendations in Ada Lovelace Institute 2024 audit"
-    },
-    {
-     "n": "16 companies",
-     "l": "AI firms that signed Seoul Summit election integrity commitments in 2024"
-    }
-   ],
-   "tags": [
-    "safety",
-    "politics",
-    "AI",
-    "misinformation"
-   ],
-   "generated": "2026-11-04T23:27:17.078231+00:00",
-   "auto": true
-  },
-  {
-   "claim": "The $6.3 billion Binance hack proves crypto and AI-assisted security systems are fundamentally unsafe and cannot be trusted.",
-   "verdict": "Misleading",
-   "verdict_summary": "The Binance breach was real and large, but it resulted from human social engineering \u2014 not a failure of cryptographic or AI security systems \u2014 and the response demonstrates the sector's maturing security infrastructure.",
-   "tag": "privacy",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "A $6.3 billion figure is not trivial, and the attack vector \u2014 fake job interviews used to compromise an insider with access to an internal AI tool \u2014 is genuinely alarming. Social engineering through AI-generated personas is a rapidly scaling threat. The FBI's 2023 Internet Crime Report documented $4.57 billion in total crypto-related losses, and Chainalysis' 2024 report confirmed that crypto theft hit $2.2 billion in 2023 with North Korean state-linked actors responsible for roughly 61% of that. Insider threat exploitation is one of the hardest attack surfaces to defend against in any industry, and the AI-assisted fake interview vector is a real and emerging tactic that security teams are not fully prepared for.",
-   "what_data_shows": "The Binance breach is better understood as a human intelligence failure than a technology failure. The attackers did not break elliptic curve cryptography, defeat blockchain consensus mechanisms, or exploit a zero-day in a security AI system \u2014 they manipulated a person. Binance's on-chain transparency actually aided the investigation: blockchain's immutable public ledger allowed forensic trackers to follow fund flows in real time, something impossible with traditional bank wire fraud. Chainalysis data shows that the percentage of all crypto transaction volume associated with illicit activity fell to 0.34% in 2023 \u2014 a historic low \u2014 down from 0.42% in 2022. Traditional financial fraud, by contrast, costs the global economy an estimated $5.13 trillion annually according to the ACFE.",
-   "bigger_picture": "The lesson of this breach is not that AI or crypto are uniquely dangerous \u2014 it is that social engineering remains the dominant attack vector across all industries, and AI-generated personas are raising the stakes for every sector, including banking, defense, and healthcare. The right response is better insider threat detection, mandatory multi-party authorization for high-value actions, and AI-assisted behavioral anomaly systems \u2014 all of which are actively being deployed. Calling this a crypto or AI failure while traditional finance loses trillions annually to fraud with far less transparency is a selective reading of the evidence.",
-   "data_points": [
-    {
-     "n": "0.34%",
-     "l": "Share of all crypto transaction volume linked to illicit activity in 2023 \u2014 a historic low (Chainalysis)"
-    },
-    {
-     "n": "$5.13T",
-     "l": "Annual global cost of traditional financial fraud, dwarfing crypto losses (ACFE estimate)"
-    },
-    {
-     "n": "61%",
-     "l": "Share of 2023 crypto theft attributed to North Korean state actors \u2014 a geopolitical, not technological, problem"
-    }
-   ],
-   "tags": [
-    "privacy",
-    "crypto",
-    "security",
-    "AI"
-   ],
-   "generated": "2026-11-04T23:27:17.078231+00:00",
    "auto": true
   }
  ]
