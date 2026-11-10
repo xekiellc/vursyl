@@ -1,19 +1,230 @@
 {
- "updated": "2026-11-09T15:42:39.539759+00:00",
+ "updated": "2026-11-10T01:20:50.257695+00:00",
  "items": [
   {
-   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-11-09T14:00:01+00:00"
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-09T19:00:00+00:00"
   },
   {
-   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-   "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "url": "https://openai.com/index/control-room",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-09T13:00:00+00:00"
+  },
+  {
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-09T08:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "url": "https://openai.com/index/kuken",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-09T08:00:00+00:00"
+  },
+  {
+   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
    "source": "NVIDIA",
    "category": "ai",
-   "published": "2026-11-09T08:00:53+00:00"
+   "published": "2026-11-09T05:00:40+00:00"
+  },
+  {
+   "title": "Korea\u2019s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-09T05:00:39+00:00"
+  },
+  {
+   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-09T05:00:04+00:00"
+  },
+  {
+   "title": "NVIDIA Dynamo Recipes Bring Korea\u2019s Leading Open Models to Production",
+   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-09T05:00:00+00:00"
+  },
+  {
+   "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+   "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+   "source": "MIT News AI",
+   "category": "breakthroughs",
+   "published": "2026-11-09T05:00:00+00:00"
+  },
+  {
+   "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+   "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-11-09T05:00:00+00:00"
+  },
+  {
+   "title": "artest-llm 1.0.0",
+   "url": "https://pypi.org/project/artest-llm/1.0.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-09T01:15:21+00:00"
+  },
+  {
+   "title": "llm-ports 1.20.0",
+   "url": "https://pypi.org/project/llm-ports/1.20.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-09T01:02:32+00:00"
+  },
+  {
+   "title": "jeffy-loop 1.28.0",
+   "url": "https://pypi.org/project/jeffy-loop/1.28.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-09T01:01:26+00:00"
+  },
+  {
+   "title": "heddle-ai 0.13.0",
+   "url": "https://pypi.org/project/heddle-ai/0.13.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-09T01:00:48+00:00"
+  },
+  {
+   "title": "Stavian Group Showcases Its Infrastructure Vision for the AI Era at the Inaugural Fortune SEA500 Summit 2026",
+   "url": "https://www.prnewswire.co.uk/news-releases/stavian-group-showcases-its-infrastructure-vision-for-the-ai-era-at-the-inaugural-fortune-sea500-summit-2026-302932596.html",
+   "source": "PR Newswire UK",
+   "category": "compute",
+   "published": "2026-11-09T01:00:00+00:00"
+  },
+  {
+   "title": "unica-attention 0.1.0b2",
+   "url": "https://pypi.org/project/unica-attention/0.1.0b2/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-09T00:59:44+00:00"
+  },
+  {
+   "title": "toolnexus 0.29.1",
+   "url": "https://pypi.org/project/toolnexus/0.29.1/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-09T00:59:03+00:00"
+  },
+  {
+   "title": "metal-woof 1.1.6.41",
+   "url": "https://pypi.org/project/metal-woof/1.1.6.41/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-09T00:57:50+00:00"
+  },
+  {
+   "title": "Show HN: Replay your Claude Code logs to count parallel session collisions",
+   "url": "https://github.com/dooly6276/claude-bulkhead",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-11-09T00:55:37+00:00"
+  },
+  {
+   "title": "waterledger-models 3.14.0",
+   "url": "https://pypi.org/project/waterledger-models/3.14.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-09T00:33:41+00:00"
+  },
+  {
+   "title": "skilltotal 0.99.0",
+   "url": "https://pypi.org/project/skilltotal/0.99.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-09T00:31:44+00:00"
+  },
+  {
+   "title": "LASEMA explores AI to speed up emergency reports",
+   "url": "https://punchng.com/lasema-explores-ai-to-speed-up-emergency-reports/",
+   "source": "The Punch",
+   "category": "ai",
+   "published": "2026-11-09T00:29:20+00:00"
+  },
+  {
+   "title": "treelace 0.1.0",
+   "url": "https://pypi.org/project/treelace/0.1.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-09T00:25:41+00:00"
+  },
+  {
+   "title": "Apple CEO Pushes for Greater Progress on AI",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-ceo-pushes-for-greater-progress-on-ai/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-11-09T00:25:34+00:00"
+  },
+  {
+   "title": "power-loop 11.0.0",
+   "url": "https://pypi.org/project/power-loop/11.0.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-09T00:05:56+00:00"
+  },
+  {
+   "title": "What\u2019s new in Red Hat OpenShift 5",
+   "url": "https://www.redhat.com/en/blog/announcing-red-hat-openshift-5",
+   "source": "Redhat.com",
+   "category": "compute",
+   "published": "2026-11-09T00:00:00+00:00"
+  },
+  {
+   "title": "AI has transformed maths \u2014 this is how we got here",
+   "url": "https://www.nature.com/articles/d41586-026-03627-6",
+   "source": "Nature.com",
+   "category": "ai",
+   "published": "2026-11-09T00:00:00+00:00"
+  },
+  {
+   "title": "SkinFusionNet: MobileNetV2 and vision transformer hybrid deep learning model with automated skin cancer classification",
+   "url": "https://www.nature.com/articles/s41598-026-74475-7.pdf",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-11-09T00:00:00+00:00"
+  },
+  {
+   "title": "Terafab Is Now Aiming For A Memory Production Capacity Of Around 700,000 Wafers Per Month, Which Is Roughly Equal To Samsung\u2019s Entire DRAM Capacity",
+   "url": "https://wccftech.com/terafab-is-now-aiming-for-a-memory-production-capacity-of-around-700000-wafers-per-month-which-is-roughly-equal-to-samsungs-entire-dram-capacity/",
+   "source": "Wccftech",
+   "category": "compute",
+   "published": "2026-11-08T23:54:59+00:00"
+  },
+  {
+   "title": "qram-simulator 0.3.0",
+   "url": "https://pypi.org/project/qram-simulator/0.3.0/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-11-08T23:27:38+00:00"
+  },
+  {
+   "title": "grg added to PyPI",
+   "url": "https://pypi.org/project/grg/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-08T17:52:36+00:00"
+  },
+  {
+   "title": "Healthtech: Assistant medical officer builds free hormone health platform after her own PCOS experience",
+   "url": "https://theedgemalaysia.com/node/824722",
+   "source": "Theedgemalaysia.com",
+   "category": "health",
+   "published": "2026-11-08T16:14:51+00:00"
   },
   {
    "title": "Scrine \u2013 Joyscroll books. Read any book one sentence at a time",
@@ -51,13 +262,6 @@
    "published": "2026-11-08T15:20:57+00:00"
   },
   {
-   "title": "Show HN: Recalc \u2013 Spreadsheet where cells can be Claude Code or Codex terminals",
-   "url": "https://github.com/sshah03/recalc",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-11-08T15:12:07+00:00"
-  },
-  {
    "title": "Show HN: Loop \u2013 your coding agents, from your phone",
    "url": "https://github.com/j-asefa/loop",
    "source": "Github.com",
@@ -86,25 +290,11 @@
    "published": "2026-11-08T15:01:50+00:00"
   },
   {
-   "title": "Show HN: Joggo \u2013 a self-hosted GitHub Actions runner for the Windows PC you use",
-   "url": "https://github.com/telluric-dev/joggo",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-11-08T14:59:45+00:00"
-  },
-  {
    "title": "OpenAI Raises $11B at a $1.25T Valuation",
    "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
    "source": "24/7 Wall St.",
    "category": "ai",
    "published": "2026-11-08T14:49:23+00:00"
-  },
-  {
-   "title": "aleshaq-sdk added to PyPI",
-   "url": "https://pypi.org/project/aleshaq-sdk/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-11-08T14:39:20+00:00"
   },
   {
    "title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
@@ -114,25 +304,11 @@
    "published": "2026-11-08T14:32:05+00:00"
   },
   {
-   "title": "The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ)",
-   "url": "https://biztoc.com/x/c62ea122a31c9fc2",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-11-08T14:28:30+00:00"
-  },
-  {
-   "title": "I hired humanoid robots to clean up after a wild house party for for $100 \u2014 here\u2019s how it went",
-   "url": "https://biztoc.com/x/6d07dc3f68a70e41",
-   "source": "Biztoc.com",
-   "category": "robotics",
-   "published": "2026-11-08T14:28:14+00:00"
-  },
-  {
-   "title": "presidio-deident added to PyPI",
-   "url": "https://pypi.org/project/presidio-deident/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-11-08T13:58:33+00:00"
+   "title": "UKRI Backs Five Research Hubs Developing Health Technologies With \u00a352",
+   "url": "https://scienmag.com/ukri-backs-five-research-hubs-developing-health-technologies-with-52-million/",
+   "source": "Scienmag.com",
+   "category": "health",
+   "published": "2026-11-08T12:30:05+00:00"
   },
   {
    "title": "phi-gate added to PyPI",
@@ -147,6 +323,13 @@
    "source": "Biztoc.com",
    "category": "robotics",
    "published": "2026-11-08T10:08:31+00:00"
+  },
+  {
+   "title": "World Models Will Soon Be Inescapable. Here\u2019s What You Need to Know",
+   "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+   "source": "Wired",
+   "category": "ai",
+   "published": "2026-11-08T10:00:00+00:00"
   },
   {
    "title": "SGH's AI tool wins international award for improving antibiotic use",
@@ -702,13 +885,6 @@
    "published": "2026-11-06T19:29:09+00:00"
   },
   {
-   "title": "How to predict the behavior of molecules from scant data",
-   "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-11-06T19:00:00+00:00"
-  },
-  {
    "title": "PyTorch 2.15 tackles the 'one bad GPU' problem",
    "url": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
    "source": "Theregister.com",
@@ -770,13 +946,6 @@
    "source": "Ponoko.com",
    "category": "robotics",
    "published": "2026-11-06T17:00:00+00:00"
-  },
-  {
-   "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-   "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-11-06T16:00:35+00:00"
   },
   {
    "title": "Blocky Anime Character Creator by FIVE DUCK GAMES",
@@ -884,6 +1053,13 @@
    "published": "2026-11-06T09:05:17+00:00"
   },
   {
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-06T08:00:00+00:00"
+  },
+  {
    "title": "Allstate\u2019s AI Ecosystem to Include a Personal Agentic Assistant for Customers",
    "url": "https://www.insurancejournal.com/news/national/2026/11/06/891775.htm",
    "source": "Insurance Journal",
@@ -965,8 +1141,7 @@
    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-06T00:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-11-06T00:00:00+00:00"
   },
   {
    "title": "Single-cell and spatial transcriptomics of cellular heterogeneity in Alzheimer disease",
@@ -34826,181 +35001,6 @@
    "source": "PRNewswire",
    "category": "health",
    "published": "2026-08-10T14:16:00+00:00"
-  },
-  {
-   "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
-   "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-08-10T14:00:00+00:00"
-  },
-  {
-   "title": "Integrating short-read and long-read single-cell transcriptomics of pig pituitary reveals mechanisms of high-altitude hypoxia adaptation",
-   "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012267",
-   "source": "Plos.org",
-   "category": "health",
-   "published": "2026-08-10T14:00:00+00:00"
-  },
-  {
-   "title": "xerv-crayon 5.7.13",
-   "url": "https://pypi.org/project/xerv-crayon/5.7.13/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-10T13:14:07+00:00"
-  },
-  {
-   "title": "xerv-crayon 5.7.12",
-   "url": "https://pypi.org/project/xerv-crayon/5.7.12/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-10T13:12:45+00:00"
-  },
-  {
-   "title": "Microsoft in talks with TSMC to produce custom chips",
-   "url": "https://cryptobriefing.com/microsoft-tsmc-custom-chip-talks/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-08-10T13:11:03+00:00"
-  },
-  {
-   "title": "AI Found an Influenza Target That Survives Viral Mutation",
-   "url": "https://financialpost.com/globe-newswire/ai-found-an-influenza-target-that-survives-viral-mutation",
-   "source": "Financial Post",
-   "category": "health",
-   "published": "2026-08-10T13:10:39+00:00"
-  },
-  {
-   "title": "Microsoft\u2019s AI chip project shows revival signs, plans Maia 300 release",
-   "url": "https://cryptobriefing.com/microsoft-maia-300-ai-chip-revival/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-08-10T13:10:35+00:00"
-  },
-  {
-   "title": "llm-trees added to PyPI",
-   "url": "https://pypi.org/project/llm-trees/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-10T13:10:29+00:00"
-  },
-  {
-   "title": "llm-trees 0.2.0",
-   "url": "https://pypi.org/project/llm-trees/0.2.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-10T13:10:29+00:00"
-  },
-  {
-   "title": "dompruner added to PyPI",
-   "url": "https://pypi.org/project/dompruner/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-10T13:09:10+00:00"
-  },
-  {
-   "title": "dompruner 0.1.0",
-   "url": "https://pypi.org/project/dompruner/0.1.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-10T13:09:10+00:00"
-  },
-  {
-   "title": "Brightfin Appoints Preeti Shukla as Chief Product and AI Officer",
-   "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/brightfin-appoints-preeti-shukla-as-chief-product-and-ai-officer",
-   "source": "Financial Post",
-   "category": "ai",
-   "published": "2026-08-10T13:07:57+00:00"
-  },
-  {
-   "title": "saive-client added to PyPI",
-   "url": "https://pypi.org/project/saive-client/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-10T13:05:21+00:00"
-  },
-  {
-   "title": "Acer Swift Go 16 AI (AMD Gorgon Point) Review: A balanced, affordable, big-screen portable",
-   "url": "https://www.tomshardware.com/laptops/acer-swift-go-16-ai-amd-gorgon-point-review",
-   "source": "Tom's Hardware UK",
-   "category": "compute",
-   "published": "2026-08-10T13:05:00+00:00"
-  },
-  {
-   "title": "TSMC Revenue Surges as AI Chip Demand Hold",
-   "url": "https://app.moby.co/home/news/news-tsmc-revenue-surges-as-ai-chip-demand-hold?utm_source=yahoo_finance&amp;utm_medium=rss",
-   "source": "Moby.co",
-   "category": "compute",
-   "published": "2026-08-10T13:04:45+00:00"
-  },
-  {
-   "title": "Why Taiwan Semiconductor (TSM) Could Be a Top AI Infrastructure Winner",
-   "url": "https://biztoc.com/x/b5a4139c71ec521d",
-   "source": "Biztoc.com",
-   "category": "compute",
-   "published": "2026-08-10T13:03:31+00:00"
-  },
-  {
-   "title": "Lancium Supports Governor Abbott's Call for Transparency and Accountability in Texas Data Center Development",
-   "url": "https://www.prnewswire.com/news-releases/lancium-supports-governor-abbotts-call-for-transparency-and-accountability-in-texas-data-center-development-302847121.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-08-10T13:03:00+00:00"
-  },
-  {
-   "title": "UK government announces \u00a3130m investment in automotive tech",
-   "url": "https://www.autocar.co.uk/car-news/technology/uk-government-announces-%C2%A3130m-investment-automotive-tech",
-   "source": "Autocar",
-   "category": "compute",
-   "published": "2026-08-10T13:02:47+00:00"
-  },
-  {
-   "title": "Situational Awareness bets $400M on chip startup Source Foundry",
-   "url": "https://qz.com/situational-awareness-source-foundry-chip-startup-400-million-081026",
-   "source": "Quartz India",
-   "category": "compute",
-   "published": "2026-08-10T13:02:20+00:00"
-  },
-  {
-   "title": "Uttar Pradesh Semiconductor Policy, 2024: Key features, incentives",
-   "url": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-semiconductor-policy-2024-key-features-incentives-126081000780_1.html",
-   "source": "Business Standard",
-   "category": "compute",
-   "published": "2026-08-10T13:00:38+00:00"
-  },
-  {
-   "title": "llm-ot-cost-monitor added to PyPI",
-   "url": "https://pypi.org/project/llm-ot-cost-monitor/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-10T13:00:08+00:00"
-  },
-  {
-   "title": "Tritium Betavoltaic Cells Aim to Support Future Lunar Bases",
-   "url": "https://spectrum.ieee.org/tritium-nuclear-battery",
-   "source": "Ieee.org",
-   "category": "compute",
-   "published": "2026-08-10T13:00:01+00:00"
-  },
-  {
-   "title": "Unveiling a Smarter Future for Dentistry at China Dental Show 2026",
-   "url": "https://www.prnewswire.com/news-releases/unveiling-a-smarter-future-for-dentistry-at-china-dental-show-2026-302847023.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-10T13:00:00+00:00"
-  },
-  {
-   "title": "Hyosung rides the AI wave as Chairman Hyun-Joon Cho's proactive investments yield improved affiliate performance",
-   "url": "https://www.prnewswire.com/news-releases/hyosung-rides-the-ai-wave-as-chairman-hyun-joon-chos-proactive-investments-yield-improved-affiliate-performance-302847058.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-08-10T13:00:00+00:00"
-  },
-  {
-   "title": "Meta launches new AI model as Zuckerberg champions open-weight push",
-   "url": "https://www.business-standard.com/technology/artificial-intelligence/meta-launches-new-ai-model-as-zuckerberg-champions-open-weight-push-126081001450_1.html",
-   "source": "Business Standard",
-   "category": "ai",
-   "published": "2026-08-10T12:56:25+00:00"
   }
  ]
 }
