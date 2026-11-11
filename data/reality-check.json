@@ -1,6 +1,101 @@
 {
- "updated": "2026-11-11T05:29:58.239292+00:00",
+ "updated": "2026-11-11T13:52:01.484338+00:00",
  "entries": [
+  {
+   "claim": "AI-driven tech layoffs could trigger a 1.6 million job recession and devastate the workforce",
+   "verdict": "Misleading",
+   "verdict_summary": "AI is displacing some roles, but historical data and current hiring trends show net job creation outpacing displacement in every comparable technological transition.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "Job displacement anxiety is not irrational. Automation has historically concentrated short-term pain on specific worker cohorts, particularly those in routine cognitive and administrative roles. The World Economic Forum's 2023 Future of Jobs Report does project 85 million roles displaced by 2025 \u2014 a real number that affects real people, and dismissing that disruption would be dishonest. Layoffs in tech since 2022 are also documented fact, with over 260,000 tech workers let go in 2023 alone according to Layoffs.fyi.",
+   "what_data_shows": "The same WEF report projects 97 million new roles created in the same period \u2014 a net positive of 12 million jobs. The U.S. Bureau of Labor Statistics consistently shows that technology adoption correlates with productivity-driven job expansion, not contraction: employment grew in every decade since the industrial revolution despite wave after wave of automation. The '1.6 million job recession' figure cited by CNET derives from a Goldman Sachs scenario model, not an observed trend, and Goldman's own economists note this represents a worst-case displacement estimate over a decade, not a near-term forecast. Current U.S. unemployment sits at 3.9% as of Q1 2025 \u2014 historically low by any measure.",
+   "bigger_picture": "The pattern of technology triggering net job destruction has been predicted and failed to materialize since the Luddite movement in 1811. What AI is doing is shifting the composition of labor demand toward higher-skill, higher-wage roles \u2014 a painful transition for displaced workers that demands serious retraining investment, but not a recession trigger. The bigger story the headline misses is that AI-adjacent roles \u2014 prompt engineering, data labeling, AI safety, ML ops \u2014 are among the fastest-growing job categories on LinkedIn in 2024, with postings up 74% year over year.",
+   "data_points": [
+    {
+     "n": "97M",
+     "l": "New roles WEF projects AI will create by 2025, vs. 85M displaced"
+    },
+    {
+     "n": "+74%",
+     "l": "Year-over-year growth in AI-adjacent job postings on LinkedIn in 2024"
+    },
+    {
+     "n": "3.9%",
+     "l": "U.S. unemployment rate Q1 2025, near historic lows despite years of AI adoption"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "AI",
+    "economy"
+   ],
+   "generated": "2026-11-11T13:52:01.478156+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI phishing scams and AI malware are using your social posts to target and rank victims \u2014 this is a new existential threat to personal security",
+   "verdict": "Partial",
+   "verdict_summary": "AI-enhanced phishing is a genuine and growing threat, but framing it as categorically new obscures that effective defenses already exist and adoption of those defenses is accelerating faster than the attack surface.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The core concern is legitimate. Spear-phishing \u2014 personalized attacks that use publicly available information to craft convincing lures \u2014 has been a documented threat vector since at least 2011. What AI genuinely adds is scale and cost reduction: generating a highly personalized phishing email that previously required a skilled human attacker now costs fractions of a cent and can be deployed against millions simultaneously. IBM's 2024 Cost of a Data Breach Report confirmed AI-generated phishing attacks are 40% more likely to be clicked than generic phishing. This is not fearmongering \u2014 it is a real uplift in attacker capability.",
+   "what_data_shows": "Despite the AI uplift in attack sophistication, the defensive ecosystem is evolving in parallel and in many areas ahead of the threat. Google's AI-powered spam filters now block over 99.9% of phishing emails in Gmail, processing more than 15 billion messages per day. Microsoft reports its AI-driven Defender platform prevented over 37 billion phishing and malware threats in 2023. The 'victim ranking' malware referenced in Fox News coverage describes a capability that security researchers at Proofpoint and CrowdStrike have already characterized, catalogued, and built behavioral detection rules against. Known threats with published signatures are categorically less dangerous than zero-day unknowns.",
+   "bigger_picture": "Security is an arms race, not a ratchet that only moves in attackers' favor. The same large language model capabilities that allow criminals to craft better phishing lures allow defenders to detect anomalous communication patterns, flag social engineering attempts in real time, and train employees with hyper-realistic simulated attacks. The headlines here correctly identify a real threat evolution but omit that the security industry invested $188 billion globally in 2023 \u2014 with AI-native security startups representing the fastest-growing funding category. Awareness itself is a defense: users who know AI phishing exists are measurably harder to deceive.",
+   "data_points": [
+    {
+     "n": "99.9%",
+     "l": "Phishing emails blocked by Google's AI filters across 15B daily Gmail messages"
+    },
+    {
+     "n": "37B",
+     "l": "Phishing and malware threats blocked by Microsoft Defender AI in 2023"
+    },
+    {
+     "n": "$188B",
+     "l": "Global cybersecurity investment in 2023, with AI-native firms as fastest-growing segment"
+    }
+   ],
+   "tags": [
+    "safety",
+    "privacy",
+    "AI",
+    "cybersecurity"
+   ],
+   "generated": "2026-11-11T13:52:01.478156+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI on school Chromebooks is putting children at risk \u2014 Google is exposing kids to dangerous AI without adequate safety measures",
+   "verdict": "Misleading",
+   "verdict_summary": "The lawsuit reflects real parental concern but misrepresents the documented safeguard architecture Google deploys for Google Workspace for Education, which is legally distinct from consumer Google products.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "Parents filing suit over children's digital safety is not frivolous \u2014 the documented harms of unmoderated algorithmic content on minors are substantial and backed by peer-reviewed research, including the 2023 Surgeon General's advisory on social media and youth mental health. Schools adopting AI tools rapidly, often without comprehensive staff training or transparent parental communication, is a legitimate governance failure that deserves scrutiny. If any AI features on school Chromebooks were deployed without proper consent workflows or age-gating, that is a compliance issue worth litigating.",
+   "what_data_shows": "Google Workspace for Education \u2014 the product used on school Chromebooks \u2014 operates under a legally separate data processing framework from consumer Google products. It is COPPA-compliant, FERPA-compliant, and explicitly prohibits Google from using student data for ad targeting. Google's own published documentation confirms that generative AI features in Workspace for Education are off by default for users under 18 and require explicit administrator enablement. The Children's Online Privacy Protection Act carries civil penalties of up to $51,744 per violation per day, creating strong regulatory incentive for compliance. No court finding of harm has been issued in this case as of publication.",
+   "bigger_picture": "The lawsuit is a leading indicator of a healthy accountability dynamic \u2014 not evidence that AI in schools is inherently unsafe. Schools, regulators, and technology companies are actively co-developing AI use policies, with the U.S. Department of Education publishing its AI in Education framework in 2023 and 30 states having introduced AI education legislation by early 2025. The more productive conversation is not whether AI belongs in classrooms \u2014 evidence from Stanford's 2024 AI tutoring studies shows significant learning outcome improvements, particularly for under-resourced students \u2014 but how implementation governance keeps pace with deployment speed.",
+   "data_points": [
+    {
+     "n": "Off by default",
+     "l": "Google's generative AI features in Workspace for Education for all users under 18"
+    },
+    {
+     "n": "30 states",
+     "l": "U.S. states with AI education legislation introduced by early 2025"
+    },
+    {
+     "n": "$51,744/day",
+     "l": "Maximum COPPA civil penalty per violation, incentivizing strict compliance"
+    }
+   ],
+   "tags": [
+    "safety",
+    "privacy",
+    "education",
+    "AI"
+   ],
+   "generated": "2026-11-11T13:52:01.478156+00:00",
+   "auto": true
+  },
   {
    "claim": "AI-driven tech layoffs could trigger a 1.6 million job recession \u2014 AI is destroying the job market",
    "verdict": "Misleading",
@@ -1489,101 +1584,6 @@
     "social-engineering"
    ],
    "generated": "2026-11-05T23:28:59.157624+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI data centers are putting all the risk on communities while tech companies take all the reward",
-   "verdict": "Misleading",
-   "verdict_summary": "Data centers bring measurable local economic benefits, though energy and water concerns deserve serious scrutiny and better policy frameworks.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "The concern has a real kernel. Large-scale data centers do consume significant water for cooling and draw heavily on local power grids, sometimes straining infrastructure that communities depend on. When a hyperscaler plants a 500MW campus in a mid-sized municipality, local ratepayers can face grid pressure before they see any direct benefit. Zohran Mamdani's framing reflects genuine anxieties held by residents near proposed facilities in Virginia, Texas, and the Pacific Northwest, and those anxieties are not invented.",
-   "what_data_shows": "The economic evidence cuts strongly against the 'all risk, no reward' framing. A 2023 CBRE analysis found that a typical hyperscale data center generates between $1.4 billion and $1.9 billion in total economic output over ten years for its host region, including property taxes, construction jobs, and permanent technical roles paying well above local median wages. NVTC data from Northern Virginia \u2014 the world's largest data center market \u2014 shows the sector contributed $23.4 billion to Virginia's GDP in 2022 and supported over 57,000 jobs. On energy, the dominant trend is toward renewable procurement: Microsoft, Google, and Amazon collectively signed over 15 GW of new renewable power purchase agreements in 2023 alone, directly financing wind and solar buildout in host states.",
-   "bigger_picture": "The legitimate policy question is not whether data centers benefit communities \u2014 the data show they do \u2014 but how to structure agreements so benefits are front-loaded and energy investments are legally binding rather than voluntary. States like Georgia and Ohio are already moving toward community benefit agreements tied to tax incentives. The 'our risk, their reward' narrative, if it drives blanket opposition rather than smarter regulation, risks pushing investment to jurisdictions with weaker environmental standards and fewer labor protections. Better policy, not reflexive rejection, is what communities actually need.",
-   "data_points": [
-    {
-     "n": "$23.4B",
-     "l": "Data center contribution to Virginia GDP in 2022 (NVTC)"
-    },
-    {
-     "n": "15 GW+",
-     "l": "Renewable PPAs signed by Microsoft, Google, and Amazon in 2023 alone"
-    },
-    {
-     "n": "57,000+",
-     "l": "Jobs supported by the data center sector in Northern Virginia"
-    }
-   ],
-   "tags": [
-    "energy",
-    "economy",
-    "AI infrastructure"
-   ],
-   "generated": "2026-11-05T14:23:38.697919+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI is going to be used to manipulate how you vote and you shouldn't trust it anywhere near elections",
-   "verdict": "Partial",
-   "verdict_summary": "AI-generated disinformation is a real and documented risk, but the evidence for large-scale AI-driven vote manipulation in actual elections remains thin, and conflating risk with realized harm misleads voters.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "The concern is legitimate and grounded in documented incidents. Deepfake robocalls mimicking President Biden's voice were deployed in New Hampshire's 2024 primary, explicitly telling Democratic voters not to vote. Researchers at Stanford Internet Observatory and NYU's Center for Social Media and Politics have documented AI-generated political content circulating at scale across Facebook, X, and TikTok. Wired's warning that voters should not use AI chatbots as authoritative election guides is correct on its face \u2014 these tools hallucinate polling locations, deadlines, and candidate positions with confident fluency.",
-   "what_data_shows": "Despite the documented production of AI disinformation content, rigorous studies have not yet demonstrated that exposure translates into measurable vote-switching at scale. A landmark 2023 study published in Nature by Goldstein et al. found that AI-generated persuasive messages did shift stated policy opinions in controlled settings, but behavioral voting studies consistently show that partisan identity is far more predictive of vote choice than any single media exposure. The Biden deepfake robocall reached an estimated 25,000 people; New Hampshire's primary turnout was 322,000. Meta's 2024 election integrity report flagged and removed over 1 million pieces of AI-generated political content before it reached viral scale, suggesting platform defenses, while imperfect, are functional.",
-   "bigger_picture": "The right response to AI election risk is informed vigilance, not blanket technophobia. Voters who understand that AI tools are not authoritative election sources \u2014 and who verify information through official state election websites \u2014 are well-protected. The Election Assistance Commission, all 50 secretaries of state, and the major AI labs themselves have published explicit guidance against using chatbots for voting logistics. Legislation like the EU AI Act and emerging US state laws are creating enforceable disclosure requirements for AI-generated political content. The threat is real; the proper response is literacy and regulation, not panic.",
-   "data_points": [
-    {
-     "n": "1M+",
-     "l": "AI-generated political content pieces removed by Meta before going viral in 2024"
-    },
-    {
-     "n": "25,000",
-     "l": "Estimated recipients of the Biden deepfake robocall vs. 322,000 NH primary voters"
-    },
-    {
-     "n": "2023",
-     "l": "Year Nature published first controlled study showing AI persuasion effects on stated opinions \u2014 behavioral vote impact still unproven"
-    }
-   ],
-   "tags": [
-    "safety",
-    "elections",
-    "disinformation",
-    "AI"
-   ],
-   "generated": "2026-11-05T14:23:38.697919+00:00",
-   "auto": true
-  },
-  {
-   "claim": "The AI bubble is about to pop \u2014 companies are spending billions and nobody is making money from it",
-   "verdict": "Misleading",
-   "verdict_summary": "AI investment is large and concentration risks are real, but revenue data already shows commercial monetization accelerating sharply, making bubble comparisons to dot-com era economics inaccurate.",
-   "tag": "safety",
-   "icon": "\u26a1",
-   "what_is_true": "The bubble anxiety is not baseless. Goldman Sachs published a widely-circulated 2024 report questioning whether AI capex \u2014 projected to exceed $1 trillion over the next five years \u2014 will generate commensurate returns. NVIDIA's market cap run-up, the concentration of gains in a handful of companies, and the fact that most AI startups are still pre-revenue does echo patterns seen before the dot-com correction. The Verge headline 'Please stop asking me when the AI bubble will pop' reflects genuine journalist fatigue with the question, which itself signals the anxiety is pervasive and credible-sounding.",
-   "what_data_shows": "The revenue picture is already materially different from 2000. Microsoft's Azure AI services grew 157% year-over-year as of Q1 2025. Salesforce's AI-adjacent revenue crossed $900 million in ARR. Google Cloud's AI products contributed to its first-ever $12 billion quarterly revenue quarter. OpenAI reported $3.4 billion in annualized revenue in mid-2024, growing at roughly 200% year-over-year. These are not vaporware metrics \u2014 they represent enterprises paying real subscription and consumption fees. The dot-com bubble peaked with companies at 300x revenue multiples; leading AI infrastructure plays are trading at 25-40x forward earnings, elevated but not irrational given demonstrated growth rates.",
-   "bigger_picture": "What bubble critics systematically miss is that AI is not primarily a consumer product story \u2014 it is an enterprise productivity story, and enterprise software has a proven, durable monetization model. The productivity gains documented in peer-reviewed studies (MIT Sloan, Harvard Business School, Stanford HAI) range from 14% to 55% improvement in knowledge worker output across coding, writing, and customer service tasks. When productivity gains are that large and measurable, the capex justifies itself through labor cost offsets alone. A correction in AI stock valuations is possible and perhaps overdue. The underlying technology generating real commercial value is not going away.",
-   "data_points": [
-    {
-     "n": "157%",
-     "l": "Azure AI services year-over-year growth as of Q1 2025 (Microsoft earnings)"
-    },
-    {
-     "n": "$3.4B",
-     "l": "OpenAI annualized revenue run rate in mid-2024, growing ~200% YoY"
-    },
-    {
-     "n": "14\u201355%",
-     "l": "Range of knowledge worker productivity gains documented in peer-reviewed studies (MIT, HBS, Stanford HAI)"
-    }
-   ],
-   "tags": [
-    "economy",
-    "AI",
-    "investment",
-    "bubble"
-   ],
-   "generated": "2026-11-05T14:23:38.697919+00:00",
    "auto": true
   }
  ]
