@@ -1,26 +1,251 @@
 {
- "updated": "2026-11-11T13:52:01.484338+00:00",
+ "updated": "2026-11-12T00:18:27.866920+00:00",
  "items": [
   {
-   "title": "ChatGPT Plus for veterans and servicemembers",
-   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-11T08:00:00+00:00"
+   "published": "2026-11-12T00:00:00+00:00"
   },
   {
-   "title": "Gemini 4 Carbon is now available",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
    "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-11-10T16:03:47+00:00"
+   "category": "breakthroughs",
+   "published": "2026-11-11T15:00:15+00:00"
   },
   {
-   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
    "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-11T03:00:20+00:00"
+  },
+  {
+   "title": "Show HN: PeepNote \u2013 Local desktop notes for saving and reusing LLM responses",
+   "url": "https://github.com/OddlyGoods/peep-note",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-11-11T00:14:18+00:00"
+  },
+  {
+   "title": "I gave my local AI model access to my personal documents, and it finally became more useful than a chatbot",
+   "url": "https://www.xda-developers.com/gave-local-ai-model-access-to-personal-documents-became-more-useful-than-chatbot/",
+   "source": "XDA Developers",
+   "category": "ai",
+   "published": "2026-11-11T00:00:20+00:00"
+  },
+  {
+   "title": "Novel application of artificial intelligence based astronomical centroiding to small particle tracking",
+   "url": "https://www.nature.com/articles/s41598-026-79919-8.pdf",
+   "source": "Nature.com",
+   "category": "ai",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "How Red Hat OpenShift 5 simplifies incident diagnosis with supervised AI",
+   "url": "https://www.redhat.com/en/blog/how-red-hat-openshift-5-simplifies-incident-diagnosis-supervised-ai",
+   "source": "Redhat.com",
+   "category": "ai",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Unlocking next-generation workloads: What\u2019s new in Red Hat OpenShift Virtualization 5",
+   "url": "https://www.redhat.com/en/blog/unlocking-next-generation-workloads-whats-new-red-hat-openshift-virtualization-5",
+   "source": "Redhat.com",
    "category": "compute",
-   "published": "2026-11-10T16:00:03+00:00"
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Announcing the general availability of MCP server for Red Hat Enterprise Linux",
+   "url": "https://www.redhat.com/en/blog/announcing-general-availability-mcp-server-red-hat-enterprise-linux",
+   "source": "Redhat.com",
+   "category": "compute",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Now in Developer Preview: The self-managed Red Hat Enterprise Linux command-line assistant",
+   "url": "https://www.redhat.com/en/blog/now-developer-preview-self-managed-red-hat-enterprise-linux-command-line-assistant",
+   "source": "Redhat.com",
+   "category": "ai",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Pharmacological chaperone treatment with Cystadane in aspartylglucosaminuria: an open-label, phase Ib/II trial",
+   "url": "https://www.nature.com/articles/s41467-026-78752-x",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Digital twin\u2013guided graph-transformer with meta-reinforcement learning for real-time adaptive cyber-attack mitigation in smart grids",
+   "url": "https://www.nature.com/articles/s41598-026-75705-8.pdf",
+   "source": "Nature.com",
+   "category": "ai",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "DeepMind's ultra-powerful AI for genome mapping wows scientists",
+   "url": "https://www.nature.com/articles/d41586-026-03673-0",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-11-11T00:00:00+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "Anthropic bought a one-person, AI-powered biotech: is this drug discovery\u2019s future?",
+   "url": "https://www.nature.com/articles/d41586-026-03640-9",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity",
+   "url": "https://www.nature.com/articles/s41588-026-02832-3",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Benchmarking hybrid quantum-classical algorithms for power grid optimization problems",
+   "url": "https://www.nature.com/articles/s41598-026-78377-6.pdf",
+   "source": "Nature.com",
+   "category": "quantum",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Advancing multimodal tools to decode organoid complexity",
+   "url": "https://www.nature.com/articles/s41592-026-03320-6",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Topographical mismatch sustains open microchannels in living soft tissue for non-destructive protein biopsy",
+   "url": "https://www.nature.com/articles/s41467-026-78755-8.pdf",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Prospective evaluation of automated KU F40 fecal analysis versus microscopy for intestinal protozoa and illustrative labor costs",
+   "url": "https://www.nature.com/articles/s41598-026-79234-2.pdf",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Guide to observability with Red Hat OpenShift 5",
+   "url": "https://www.redhat.com/en/blog/guide-observability-red-hat-openshift-5",
+   "source": "Redhat.com",
+   "category": "compute",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Google Summer of Code 2026 results",
+   "url": "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
+   "source": "Rust-lang.org",
+   "category": "compute",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Introducing Red Hat Enterprise Linux 10.3 and 9.9",
+   "url": "https://www.redhat.com/en/blog/introducing-red-hat-enterprise-linux-103-and-99",
+   "source": "Redhat.com",
+   "category": "compute",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Low-power 2D CFETs using single-crystal high-\u03ba dielectrics",
+   "url": "https://www.nature.com/articles/s41586-026-11272-2",
+   "source": "Nature.com",
+   "category": "compute",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
+   "url": "https://openai.com/index/jiostar-vijay-seshadri",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-11T00:00:00+00:00"
+  },
+  {
+   "title": "Agents in Production: Build an AI Chat App with Shiny and {shinychat}",
+   "url": "https://www.r-bloggers.com/2026/11/agents-in-production-build-an-ai-chat-app-with-shiny-and-shinychat/",
+   "source": "R-bloggers.com",
+   "category": "ai",
+   "published": "2026-11-10T23:59:00+00:00"
+  },
+  {
+   "title": "This Self-Driving Hospital Chair Wants to Retire Hollywood\u2019s Dramatic Gurney Sprint",
+   "url": "https://www.yankodesign.com/2026/11/10/this-self-driving-hospital-chair-wants-to-retire-hollywoods-dramatic-gurney-sprint/",
+   "source": "Yanko Design",
+   "category": "robotics",
+   "published": "2026-11-10T23:30:32+00:00"
+  },
+  {
+   "title": "Subtle Changes in How You Walk May Signal Parkinson's Nearly 7 Years Early",
+   "url": "https://www.sciencealert.com/subtle-changes-in-how-you-walk-may-signal-parkinsons-nearly-7-years-early",
+   "source": "ScienceAlert",
+   "category": "health",
+   "published": "2026-11-10T23:00:00+00:00"
+  },
+  {
+   "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+   "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+   "source": "The Verge",
+   "category": "health",
+   "published": "2026-11-10T21:40:31+00:00"
+  },
+  {
+   "title": "14 robotics founders who\u2019ve already built a $1B company",
+   "url": "https://www.cbinsights.com/research/14-robotics-founders-unicorns/",
+   "source": "Cbinsights.com",
+   "category": "robotics",
+   "published": "2026-11-10T21:16:19+00:00"
+  },
+  {
+   "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+   "url": "https://biztoc.com/x/69991b125cb9f9c2",
+   "source": "Biztoc.com",
+   "category": "health",
+   "published": "2026-11-10T20:55:09+00:00"
+  },
+  {
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M | TechCrunch",
+   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "source": "TechCrunch",
+   "category": "health",
+   "published": "2026-11-10T19:29:29+00:00"
+  },
+  {
+   "title": "It scored zero on these robot tasks, now it aces them, and it\u2019s working a Mercedes-Benz line",
+   "url": "https://the-gadgeteer.com/2026/11/10/it-scored-zero-on-these-robot-tasks-now-it-aces-them-and-its-working-a-mercedes-benz-line/",
+   "source": "The Gadgeteer",
+   "category": "robotics",
+   "published": "2026-11-10T16:30:00+00:00"
+  },
+  {
+   "title": "Gemini Robotics 2.5 launches with enhanced everyday skills",
+   "url": "https://cryptobriefing.com/gemini-robotics-2-5-launch-everyday-skills/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-11-10T15:12:19+00:00"
+  },
+  {
+   "title": "Google DeepMind unveils Gemini Robotics 2.5 with ASIMOV-Jailbreak safety benchmark",
+   "url": "https://cryptobriefing.com/google-deepmind-gemini-robotics-2-5-asimov/",
+   "source": "Crypto Briefing",
+   "category": "robotics",
+   "published": "2026-11-10T15:10:11+00:00"
+  },
+  {
+   "title": "Mori AI home robot \"resembles a contemporary table lamp\"",
+   "url": "https://www.dezeen.com/2026/11/10/okaq-mori-ai-home-robot-lamp/",
+   "source": "Dezeen",
+   "category": "robotics",
+   "published": "2026-11-10T15:00:00+00:00"
   },
   {
    "title": "liorium added to PyPI",
@@ -156,60 +381,25 @@
    "published": "2026-11-10T12:31:00+00:00"
   },
   {
-   "title": "qram-simulator 0.5.2",
-   "url": "https://pypi.org/project/qram-simulator/0.5.2/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-11-10T12:30:05+00:00"
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "Google DeepMind",
+   "category": "breakthroughs",
+   "published": "2026-11-10T12:02:28+00:00"
   },
   {
-   "title": "Multilevel charge fluctuations in a Si/SiGe double quantum dot device",
-   "url": "https://link.aps.org/doi/10.1103/sym2-vxjl",
-   "source": "Aps.org",
-   "category": "quantum",
-   "published": "2026-11-10T10:00:00+00:00"
-  },
-  {
-   "title": "Introducing Businesses in ChatGPT",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "title": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-10T10:00:00+00:00"
+   "published": "2026-11-10T12:00:00+00:00"
   },
   {
-   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-   "url": "https://openai.com/index/singapore-airlines-travel-work",
+   "title": "Closing the AI guidance gap in education",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-10T08:00:00+00:00"
-  },
-  {
-   "title": "Boston Dynamics' wheeled Atlas robot spins, jumps and glides in new video",
-   "url": "https://www.koreajoongangdaily.com/business/atlas-is-on-a-roll-hyundais-humanoid-robot-trades-feet-for-wheels/12965255",
-   "source": "Koreajoongangdaily.com",
-   "category": "robotics",
-   "published": "2026-11-10T07:50:58+00:00"
-  },
-  {
-   "title": "Europe can compete in robotics and physical AI, top\u00a0chipmaker CEOs\u00a0say",
-   "url": "https://www.channelnewsasia.com/business/europe-can-compete-in-robotics-and-physical-ai-top-chipmaker-ceos-say-6538606",
-   "source": "CNA",
-   "category": "robotics",
-   "published": "2026-11-10T07:17:33+00:00"
-  },
-  {
-   "title": "Boston Dynamics Adds Wheels to Atlas Humanoid",
-   "url": "https://hardware.slashdot.org/story/26/11/09/2317206/boston-dynamics-adds-wheels-to-atlas-humanoid",
-   "source": "Slashdot.org",
-   "category": "robotics",
-   "published": "2026-11-10T07:00:00+00:00"
-  },
-  {
-   "title": "Work at the Frontier: AI\u2019s effect on freelance work",
-   "url": "https://openai.com/index/ai-effect-on-freelance-work",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-11-10T07:00:00+00:00"
+   "published": "2026-11-10T09:00:00+00:00"
   },
   {
    "title": "foton-daylight 0.3.7",
@@ -238,6 +428,13 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-11-10T05:11:01+00:00"
+  },
+  {
+   "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+   "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+   "source": "MIT News AI",
+   "category": "health",
+   "published": "2026-11-10T05:00:00+00:00"
   },
   {
    "title": "AI\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u306eCoWorker\u3001\u793e\u54e1\u306eAI\u5229\u7528\u3092\u5b88\u308b\u201c\u30a6\u30a4\u30eb\u30b9\u5bfe\u7b56\u30bd\u30d5\u30c8\u306eAI\u7248\u201d\u300cCoWorker AI\u30cf\u30fc\u30cd\u30b9\u300d\u3092\u63d0\u4f9b\u958b\u59cb",
@@ -282,12 +479,25 @@
    "published": "2026-11-10T04:28:46+00:00"
   },
   {
+   "title": "Samsung SDI reportedly set to lead early battery supply for Boston Dynamics' Atlas",
+   "url": "https://www.digitimes.com/news/a20261110PD214/samsung-sdi-atlas-robot-hyundai-design.html",
+   "source": "Digitimes",
+   "category": "robotics",
+   "published": "2026-11-10T03:35:00+00:00"
+  },
+  {
+   "title": "Exclusive: Quantum Motion makes 10,000-fold leap in chip integration, but qubit control remains the real test",
+   "url": "https://www.digitimes.com/news/a20261109VL212/quantum-computer-silicon-manufacturing-component-taiwan.html",
+   "source": "Digitimes",
+   "category": "quantum",
+   "published": "2026-11-10T01:19:12+00:00"
+  },
+  {
    "title": "AI-Powered Precision Brain Stimulation Reduces PTSD in Weeks",
    "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202611/ai-powered-precision-brain-stimulation-reduces-ptsd-in-weeks",
    "source": "Psychology Today",
    "category": "health",
-   "published": "2026-11-10T01:07:00+00:00",
-   "breakthrough": true
+   "published": "2026-11-10T01:07:00+00:00"
   },
   {
    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
@@ -351,13 +561,6 @@
    "source": "Crypto Briefing",
    "category": "ai",
    "published": "2026-11-09T21:30:27+00:00"
-  },
-  {
-   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-   "source": "Google DeepMind",
-   "category": "robotics",
-   "published": "2026-11-09T19:51:47+00:00"
   },
   {
    "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
@@ -451,6 +654,13 @@
    "published": "2026-11-09T14:00:25+00:00"
   },
   {
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-11-09T14:00:01+00:00"
+  },
+  {
    "title": "Matillion recognized as a Visionary in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Data Integration Tools",
    "url": "https://www.prnewswire.co.uk/news-releases/matillion-recognized-as-a-visionary-in-the-2026-gartner-magic-quadrant-for-data-integration-tools-302933310.html",
    "source": "PR Newswire UK",
@@ -514,53 +724,18 @@
    "published": "2026-11-09T09:20:26+00:00"
   },
   {
+   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+   "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-09T08:00:53+00:00"
+  },
+  {
    "title": "Kuken Industries searches 70 years of drawings in minutes",
    "url": "https://openai.com/index/kuken",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-11-09T08:00:00+00:00"
-  },
-  {
-   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-09T05:00:40+00:00"
-  },
-  {
-   "title": "Korea\u2019s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-09T05:00:39+00:00"
-  },
-  {
-   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-09T05:00:04+00:00"
-  },
-  {
-   "title": "NVIDIA Dynamo Recipes Bring Korea\u2019s Leading Open Models to Production",
-   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-09T05:00:00+00:00"
-  },
-  {
-   "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-   "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
-   "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-11-09T05:00:00+00:00"
-  },
-  {
-   "title": "AI-assisted learning platform helps robots reason beyond literal commands",
-   "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-   "source": "MIT News AI",
-   "category": "robotics",
-   "published": "2026-11-09T05:00:00+00:00"
   },
   {
    "title": "Innodisk says AI applications now generate more than 40% of revenue as 3Q26 profit jumps",
@@ -34826,181 +35001,6 @@
    "source": "BetaKit",
    "category": "health",
    "published": "2026-08-11T17:16:06+00:00"
-  },
-  {
-   "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-   "source": "Blog.google",
-   "category": "health",
-   "published": "2026-08-11T17:00:00+00:00"
-  },
-  {
-   "title": "Knowtex Publishes White Paper on National Deployment of Ambient AI Across the U.S. Department of Veterans Affairs",
-   "url": "https://www.prnewswire.com/news-releases/knowtex-publishes-white-paper-on-national-deployment-of-ambient-ai-across-the-us-department-of-veterans-affairs-302848672.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-08-11T16:30:00+00:00"
-  },
-  {
-   "title": "How ONESTRUCTION built the Ishigaki-IDS foundation model with AWS GenAIIC",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic/",
-   "source": "Amazon.com",
-   "category": "ai",
-   "published": "2026-08-11T16:14:33+00:00"
-  },
-  {
-   "title": "LCMC Health Announces Strategic AI Partnership with Qualified Health to Enhance Patient Care and Safety",
-   "url": "https://www.prnewswire.com/news-releases/lcmc-health-announces-strategic-ai-partnership-with-qualified-health-to-enhance-patient-care-and-safety-302848687.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-11T16:14:00+00:00"
-  },
-  {
-   "title": "Robot.com Unveils R-dog: A Four-Legged Robotic Platform Designed to Deliver, Advertise, and Engage",
-   "url": "https://www.prnewswire.com/news-releases/robotcom-unveils-r-dog-a-four-legged-robotic-platform-designed-to-deliver-advertise-and-engage-302847638.html",
-   "source": "PRNewswire",
-   "category": "robotics",
-   "published": "2026-08-11T16:00:00+00:00"
-  },
-  {
-   "title": "Flagler Health raises $50M Series B to build the AI operating system for $400 billion musculoskeletal care market",
-   "url": "https://techstartups.com/2026/08/11/flagler-health-raises-50m-series-b-to-build-the-ai-operating-system-for-400-billion-musculoskeletal-care-market/",
-   "source": "TechStartups.com",
-   "category": "health",
-   "published": "2026-08-11T15:27:40+00:00"
-  },
-  {
-   "title": "qnpack added to PyPI",
-   "url": "https://pypi.org/project/qnpack/",
-   "source": "Pypi.org",
-   "category": "quantum",
-   "published": "2026-08-11T13:18:58+00:00"
-  },
-  {
-   "title": "Show HN: Vergilant \u2013 alerts when your LLM API calls fail, stall, or burn money",
-   "url": "https://vergilant.dev",
-   "source": "Vergilant.dev",
-   "category": "ai",
-   "published": "2026-08-11T13:09:52+00:00"
-  },
-  {
-   "title": "Nvidia unveils Nemotron 3.5 Lightning and NeMo Switchyard to slash enterprise AI costs",
-   "url": "https://cryptobriefing.com/nvidia-nemotron-lightning-nemo-switchyard/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-08-11T13:08:39+00:00"
-  },
-  {
-   "title": "Mercyhealth Selects Vitea to Responsibly Scale AI Across Its System",
-   "url": "https://www.prnewswire.com/news-releases/mercyhealth-selects-vitea-to-responsibly-scale-ai-across-its-system-302846282.html",
-   "source": "PRNewswire",
-   "category": "health",
-   "published": "2026-08-11T13:07:00+00:00"
-  },
-  {
-   "title": "Show HN: Verity \u2013 Permission-aware memory for AI agents",
-   "url": "https://github.com/RunAlphaLoop/verity",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-08-11T13:06:34+00:00"
-  },
-  {
-   "title": "FAU Video Compression Technology Portfolio Acquired by Dolby Laboratories",
-   "url": "https://www.prnewswire.com/news-releases/fau-video-compression-technology-portfolio-acquired-by-dolby-laboratories-302847470.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-08-11T13:05:00+00:00"
-  },
-  {
-   "title": "Omada Health Touts Record Q2 as GLP-1 Demand Fuels Growth Strategy",
-   "url": "https://www.marketbeat.com/instant-alerts/omada-health-touts-record-q2-as-glp-1-demand-fuels-growth-strategy-2026-08-11/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-   "source": "MarketBeat",
-   "category": "health",
-   "published": "2026-08-11T13:04:37+00:00"
-  },
-  {
-   "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
-   "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
-   "source": "Nvidia.com",
-   "category": "ai",
-   "published": "2026-08-11T13:01:56+00:00"
-  },
-  {
-   "title": "Wix launches Symphony, a new standalone multi-agent system built for business operations",
-   "url": "https://siliconangle.com/2026/08/11/wix-launches-symphony-new-standalone-multi-agent-system-built-business-operations/",
-   "source": "SiliconANGLE News",
-   "category": "ai",
-   "published": "2026-08-11T13:00:46+00:00"
-  },
-  {
-   "title": "Exclusive: ZeroDrift applies small language model to prevent AI-generated compliance violations",
-   "url": "https://siliconangle.com/2026/08/11/exclusive-zerodrift-applies-small-language-model-prevent-ai-generated-compliance-violations/",
-   "source": "SiliconANGLE News",
-   "category": "ai",
-   "published": "2026-08-11T13:00:35+00:00"
-  },
-  {
-   "title": "Marengo CIMS Hospital AI monitoring system helps prevent 115 cardiac emergencies",
-   "url": "https://medicaldialogues.in/news/health/hospital-diagnostics/marengo-cims-hospital-ai-monitoring-system-helps-prevent-115-cardiac-emergencies-176946",
-   "source": "Medical Dialogues",
-   "category": "health",
-   "published": "2026-08-11T13:00:35+00:00"
-  },
-  {
-   "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
-   "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
-   "source": "Nvidia.com",
-   "category": "ai",
-   "published": "2026-08-11T13:00:27+00:00"
-  },
-  {
-   "title": "Blumira launches Hearth, an AI command center that spans rival security tools",
-   "url": "https://siliconangle.com/2026/08/11/blumira-launches-hearth-ai-command-center-spans-rival-security-tools/",
-   "source": "SiliconANGLE News",
-   "category": "ai",
-   "published": "2026-08-11T13:00:16+00:00"
-  },
-  {
-   "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
-   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-08-11T13:00:05+00:00"
-  },
-  {
-   "title": "Nvidia releases Nemotron 3.5 Lightning and NeMo Switchyard to give enterprise AI capability options",
-   "url": "https://siliconangle.com/2026/08/11/nvidia-releases-nemotron-3-5-lightning-nemo-switchyard-give-enterprise-ai-capability-options/",
-   "source": "SiliconANGLE News",
-   "category": "ai",
-   "published": "2026-08-11T13:00:01+00:00"
-  },
-  {
-   "title": "Nvidia unveils first open-source AI model since CEO Jensen Huang entered the chat",
-   "url": "https://www.cnbc.com/2026/08/11/nvidia-releases-nemotron-3point5-lightning-open-source-ai-model-.html",
-   "source": "CNBC",
-   "category": "ai",
-   "published": "2026-08-11T13:00:01+00:00"
-  },
-  {
-   "title": "Cloud AI Today - Novo Nordisk Partners With AWS For AI-Driven Drug Discovery",
-   "url": "https://biztoc.com/x/9c84d0e5647bf7fd",
-   "source": "Biztoc.com",
-   "category": "health",
-   "published": "2026-08-11T12:52:08+00:00"
-  },
-  {
-   "title": "Cleveland Clinic launches prescription drone delivery",
-   "url": "https://www.foxnews.com/tech/cleveland-clinic-launches-prescription-drone-delivery",
-   "source": "Fox News",
-   "category": "robotics",
-   "published": "2026-08-11T12:41:13+00:00"
-  },
-  {
-   "title": "The AI dividend in healthcare is real. Now the focus is extending its impact",
-   "url": "https://fortune.com/2026/08/11/ai-dividend-healthcare-extend-impact-philips-index/",
-   "source": "Fortune",
-   "category": "health",
-   "published": "2026-08-11T12:30:00+00:00"
   }
  ]
 }

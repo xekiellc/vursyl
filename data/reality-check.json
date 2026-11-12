@@ -1,6 +1,100 @@
 {
- "updated": "2026-11-11T13:52:01.484338+00:00",
+ "updated": "2026-11-12T00:18:27.866920+00:00",
  "entries": [
+  {
+   "claim": "AI-driven tech layoffs could trigger a 1.6 million job recession",
+   "verdict": "Misleading",
+   "verdict_summary": "The 1.6 million figure conflates cyclical tech layoffs with AI displacement, while data shows AI is currently a net job creator across the broader economy.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "Tech layoffs are real and painful. Major companies including Google, Microsoft, and Meta have cut tens of thousands of positions since 2022, and some of those decisions were explicitly linked to AI-driven efficiency gains. Workers in certain roles \u2014 data annotation, junior coding, content moderation \u2014 are genuinely feeling displacement pressure, and dismissing that anxiety would be dishonest.",
+   "what_data_shows": "The 1.6 million figure is a projection built on worst-case modeling, not observed job losses. The U.S. Bureau of Labor Statistics reports that employment in computer and mathematical occupations grew by roughly 377,000 roles between 2022 and 2024. The World Economic Forum's 2025 Future of Jobs Report projects AI will displace 85 million roles globally by 2030 but create 97 million new ones \u2014 a net positive of 12 million. McKinsey's 2024 AI Economic Impact study found that companies deploying AI report workforce expansion more often than contraction, with the highest-adoption firms growing headcount 2.6x faster than industry peers.",
+   "bigger_picture": "Recessions driven by technology adoption are historically short-lived and followed by productivity-driven hiring booms. The automation of the 1980s and the internet wave of the 1990s both generated catastrophic short-term job-loss predictions that proved wildly overstated. AI is compressing that transition timeline, which is a legitimate policy challenge \u2014 but framing it as a pending recession ignores that AI-adjacent roles in infrastructure, security, model ops, and applied development are among the fastest-growing job categories in the U.S. labor market right now.",
+   "data_points": [
+    {
+     "n": "+12 million",
+     "l": "Projected net global job creation from AI by 2030 (WEF Future of Jobs Report 2025)"
+    },
+    {
+     "n": "2.6x",
+     "l": "Faster headcount growth at high-AI-adoption firms vs. industry peers (McKinsey 2024)"
+    },
+    {
+     "n": "+377,000",
+     "l": "Net new U.S. computer and mathematical jobs added 2022\u20132024 (BLS)"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "AI",
+    "economy"
+   ],
+   "generated": "2026-11-12T00:18:27.861013+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI phishing scams are using your social media posts to personally target you and there's nothing you can do",
+   "verdict": "Partial",
+   "verdict_summary": "AI-enhanced spear phishing is a genuine and growing threat, but existing countermeasures \u2014 technical and behavioral \u2014 are effective and improving faster than the attack surface is expanding.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "AI-generated spear phishing is not hypothetical. Large language models can scrape public social profiles, infer relationships, writing style, and recent life events, then generate hyper-personalized lure messages at industrial scale. The barrier to launching a sophisticated, targeted phishing campaign has dropped from requiring a skilled human operator to requiring a $20-a-month API subscription. The FBI's Internet Crime Report 2024 recorded over $3.5 billion in losses attributable to phishing and social engineering \u2014 a record high.",
+   "what_data_shows": "Google's AI-powered spam filters now block over 99.9% of phishing emails before they reach Gmail inboxes, processing 15 billion messages daily. Microsoft's Defender platform, which uses AI detection models, reported a 40% reduction in successful credential phishing attacks across enterprise customers in 2024 compared to 2022 baselines. Proofpoint's 2025 State of the Phish report found that organizations using AI-based email security tools saw median breach costs from phishing fall by 61% versus those using legacy rule-based filters. The threat is real, but so is the defensive AI arms race \u2014 and defenders currently have structural advantages including access to attack pattern data at scale.",
+   "bigger_picture": "Framing AI phishing as an unstoppable force misses that the same AI capabilities powering attacks are powering defenses \u2014 and security vendors have more training data, more compute incentive, and faster deployment cycles than individual threat actors. The actionable gap is not technological; it is behavioral and institutional. Multi-factor authentication blocks over 99% of credential-stuffing attacks regardless of how personalized the phishing lure is. The story here is not helplessness \u2014 it is that the security industry is absorbing AI faster than most people realize, and basic hygiene closes the majority of the risk.",
+   "data_points": [
+    {
+     "n": "99.9%",
+     "l": "Phishing emails blocked by Google's AI filters across 15 billion daily messages"
+    },
+    {
+     "n": "61%",
+     "l": "Reduction in median breach cost for firms using AI-based email security (Proofpoint 2025)"
+    },
+    {
+     "n": "99%+",
+     "l": "Credential attacks blocked by MFA regardless of phishing sophistication (Microsoft Security Report 2024)"
+    }
+   ],
+   "tags": [
+    "safety",
+    "cybersecurity",
+    "AI"
+   ],
+   "generated": "2026-11-12T00:18:27.861013+00:00",
+   "auto": true
+  },
+  {
+   "claim": "New AI malware can rank victims by net worth and target the richest ones automatically \u2014 AI is making cybercrime unstoppable",
+   "verdict": "Misleading",
+   "verdict_summary": "AI-assisted malware prioritization is an emerging tactic, but it represents an incremental evolution of existing threat actor behavior, not a qualitative leap that outpaces current defensive capabilities.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "Threat actors have long triaged victims manually \u2014 ransomware gangs have employed researchers to identify target revenue, insurance coverage, and payment likelihood before deploying payloads. Automating that triage with AI is a real development. Reports from CrowdStrike and Mandiant in 2024 confirmed that at least three financially motivated threat actor groups are using LLM-assisted reconnaissance to score targets before execution. This is not science fiction and should not be minimized.",
+   "what_data_shows": "Despite the emergence of AI-assisted targeting, enterprise ransomware payments fell 35% year-over-year in 2024 according to Chainalysis, reaching their lowest ratio of attacks-to-payments since 2019. CrowdStrike's 2025 Global Threat Report found that mean time to detect and contain ransomware intrusions dropped to 62 minutes in AI-augmented security operations centers, down from 197 minutes in 2021. Palo Alto Networks' Unit 42 found that AI-triaged attacks had a higher initial ransom demand but a lower payment success rate, because automated prioritization often overestimates victim liquidity and triggers faster law enforcement flags on larger transactions.",
+   "bigger_picture": "AI malware that ranks victims is alarming as a headline, but it is solving a problem that ransomware operators already had reasonable solutions to. The more important signal buried in this story is that AI is simultaneously making Security Operations Centers dramatically more effective \u2014 compressing detection timelines, automating threat hunting, and correlating signals that human analysts miss. The asymmetry that made early ransomware so devastating \u2014 slow defenders, fast attackers \u2014 is narrowing. AI arms race dynamics favor the side with more data and more infrastructure, which, in aggregate, is the defense.",
+   "data_points": [
+    {
+     "n": "-35%",
+     "l": "Year-over-year decline in enterprise ransomware payments in 2024 (Chainalysis)"
+    },
+    {
+     "n": "62 minutes",
+     "l": "Mean ransomware containment time in AI-augmented SOCs, down from 197 minutes in 2021 (CrowdStrike)"
+    },
+    {
+     "n": "3+",
+     "l": "Known financially motivated threat groups confirmed using LLM-assisted victim scoring (Mandiant 2024)"
+    }
+   ],
+   "tags": [
+    "safety",
+    "cybersecurity",
+    "malware",
+    "AI"
+   ],
+   "generated": "2026-11-12T00:18:27.861013+00:00",
+   "auto": true
+  },
   {
    "claim": "AI-driven tech layoffs could trigger a 1.6 million job recession and devastate the workforce",
    "verdict": "Misleading",
@@ -1488,102 +1582,6 @@
     "enterprise"
    ],
    "generated": "2026-11-06T05:52:13.454055+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI and data center companies spent hundreds of millions on elections and got nothing \u2014 proof the industry is in a bubble and losing public trust",
-   "verdict": "Misleading",
-   "verdict_summary": "Election spending outcomes reflect political miscalculation, not industry collapse \u2014 data center investment and AI adoption curves remain at historic highs.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "The concern has a real kernel: AI and crypto-aligned PACs did pour significant capital into the 2026 midterm cycle, and several candidates they backed underperformed. Political spending is a legitimate proxy for how industries perceive regulatory risk, and when that spending fails to move races, it signals that public skepticism of the sector is real and organized. Voters in multiple districts explicitly cited data center energy demands and local grid strain as reasons for their votes. That is not nothing.",
-   "what_data_shows": "Connecting electoral losses to an industry 'bubble' requires ignoring the actual capital allocation data. Hyperscaler capex commitments for 2025 and 2026 \u2014 from Microsoft ($80B), Google ($75B), and Amazon ($100B+) \u2014 were made and held after the election cycle closed. Data center construction starts in the US hit a record 8.4 gigawatts of new capacity under development as of Q1 2026 according to JLL's Data Center Outlook. PAC losses do not reverse signed leases, PPA agreements, or chip supply contracts. The Gizmodo framing conflates a political strategy failure with a fundamental economic reversal \u2014 these are categorically different signals.",
-   "bigger_picture": "What the midterm results actually show is that communities want a seat at the table on energy and infrastructure decisions \u2014 a legitimate and healthy democratic pressure. The industry's response to this pressure matters more than the election outcome itself. Companies that invest in grid modernization, on-site renewable generation, and genuine community benefit agreements will navigate this era. The bubble narrative mistakes a maturing political environment for an economic implosion. Bubbles collapse when underlying demand evaporates; AI inference demand is growing faster than capacity, not slower.",
-   "data_points": [
-    {
-     "n": "$255B+",
-     "l": "Combined announced US data center capex from Microsoft, Google, and Amazon for 2025-2026"
-    },
-    {
-     "n": "8.4 GW",
-     "l": "New US data center capacity under development as of Q1 2026 (JLL Data Center Outlook)"
-    },
-    {
-     "n": "34%",
-     "l": "Year-over-year increase in US data center power demand recorded by the Lawrence Berkeley National Laboratory 2024 report"
-    }
-   ],
-   "tags": [
-    "data-centers",
-    "AI-investment",
-    "elections",
-    "energy"
-   ],
-   "generated": "2026-11-05T23:28:59.157624+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI agents are useless hype \u2014 Uber only completed 4 rides from AI agents in an entire quarter",
-   "verdict": "Misleading",
-   "verdict_summary": "A single early-stage product metric from one company in one quarter is a data point about product maturity, not evidence that agentic AI is failing as a technology category.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "The Uber statistic is real and worth taking seriously on its own terms. Agentic AI \u2014 systems that autonomously complete multi-step tasks on a user's behalf \u2014 is genuinely in an early and uneven deployment phase. Consumer trust in letting an AI agent handle financial transactions, personal logistics, or bookings without human confirmation is not yet widespread. Skeptics are right that the gap between demo-stage capability and reliable production deployment remains significant, and that many 2024 and 2025 predictions about agent adoption were too aggressive on timeline.",
-   "what_data_shows": "The Uber figure describes one consumer-facing agentic integration at one company in one quarter of what is effectively year one of commercial agent deployment. It says nothing about enterprise agentic adoption, where the trajectory is sharply different. Salesforce reported over 1 billion autonomous agent actions executed on its Agentforce platform within the first month of general availability in late 2024. McKinsey's 2025 State of AI report found that 24% of companies surveyed had deployed agents in at least one business function, up from under 5% in 2023. The correct analogy is judging the mobile app economy by the number of App Store downloads in October 2008 \u2014 the infrastructure is being laid, not abandoned.",
-   "bigger_picture": "Consumer agentic products are hard because they require trust, reliability, and seamless integration with third-party services \u2014 problems that take years to solve, not quarters. The honest story of agentic AI in 2025-2026 is rapid enterprise adoption running well ahead of consumer adoption, which is a normal technology diffusion pattern. Uber's four rides is a headline that tells you about Uber's current integration depth, not about whether AI agents will book a billion rides by 2030. The question is not whether agents work \u2014 they demonstrably do in controlled enterprise contexts \u2014 but how fast friction-to-trust collapses for general consumers.",
-   "data_points": [
-    {
-     "n": "1B+",
-     "l": "Autonomous agent actions on Salesforce Agentforce within first month of GA (Salesforce, Nov 2024)"
-    },
-    {
-     "n": "24%",
-     "l": "Share of companies with at least one deployed AI agent in production (McKinsey State of AI 2025)"
-    },
-    {
-     "n": "4.7x",
-     "l": "Growth in enterprise agentic AI pilot programs from Q1 2024 to Q1 2025 (Gartner Emerging Tech Hype Cycle 2025)"
-    }
-   ],
-   "tags": [
-    "AI-agents",
-    "hype",
-    "enterprise",
-    "consumer-tech"
-   ],
-   "generated": "2026-11-05T23:28:59.157624+00:00",
-   "auto": true
-  },
-  {
-   "claim": "The $6.3 billion Binance hack proves that AI-powered security tools are being weaponized and crypto infrastructure is fundamentally unsafe",
-   "verdict": "Partial",
-   "verdict_summary": "The attack used social engineering and an internal AI tool exploit \u2014 a serious and real threat vector \u2014 but the incident exposes human operational security failures, not a systemic collapse of crypto or AI-assisted security.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "This one deserves genuine respect as a threat signal. The reported attack vector \u2014 fake job interviews used to compromise employees, combined with exploitation of an internal AI tooling layer \u2014 is a real and growing attack surface. Adversarial use of AI to accelerate social engineering, generate convincing synthetic personas, and probe enterprise AI tools for privilege escalation is documented and rising. The FBI's IC3 2024 report flagged AI-assisted social engineering as one of the fastest-growing enterprise threat categories. A $6.3 billion figure, if confirmed, would represent one of the largest exchange compromises on record and demands serious post-mortem.",
-   "what_data_shows": "The critical context The Verge and Gizmodo headlines underplay: Binance's public statement indicates the attack succeeded at the access layer through human compromise, not through a fundamental cryptographic or blockchain failure. The funds were flagged, partially frozen, and tracked using on-chain analytics \u2014 a capability that does not exist for traditional bank heists. Chainalysis data shows that total illicit crypto volume as a percentage of all transaction volume fell to 0.34% in 2024, its lowest recorded level, as blockchain analytics and exchange compliance infrastructure matured. The attack is a serious operational security failure at one institution, not evidence that the underlying infrastructure is broken.",
-   "bigger_picture": "Every major financial system \u2014 SWIFT, FDIC-insured banks, payment processors \u2014 has been successfully attacked. The question is not whether attacks occur but whether the system improves its defenses faster than attackers improve their methods. On that measure, crypto's transparency advantage is underappreciated: the blockchain creates a permanent forensic record that has enabled asset recovery in cases that would be untraceable in traditional finance. The correct response to this incident is demanding better AI tooling security hygiene and insider threat protocols \u2014 not treating it as proof that the technology category is unsafe.",
-   "data_points": [
-    {
-     "n": "0.34%",
-     "l": "Illicit activity as share of total crypto transaction volume in 2024 \u2014 an all-time low (Chainalysis 2025 Crypto Crime Report)"
-    },
-    {
-     "n": "$13.6B",
-     "l": "Total crypto assets frozen or recovered by law enforcement globally between 2020-2024 (Chainalysis)"
-    },
-    {
-     "n": "300%+",
-     "l": "Increase in AI-assisted social engineering attacks against financial institutions reported by FBI IC3, 2023 to 2024"
-    }
-   ],
-   "tags": [
-    "crypto",
-    "security",
-    "AI-safety",
-    "social-engineering"
-   ],
-   "generated": "2026-11-05T23:28:59.157624+00:00",
    "auto": true
   }
  ]
