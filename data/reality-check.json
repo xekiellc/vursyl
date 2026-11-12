@@ -1,6 +1,103 @@
 {
- "updated": "2026-11-12T00:18:27.866920+00:00",
+ "updated": "2026-11-12T14:54:00.844820+00:00",
  "entries": [
+  {
+   "claim": "AI-driven tech layoffs are about to trigger a 1.6 million job recession",
+   "verdict": "Misleading",
+   "verdict_summary": "The 1.6 million figure conflates cyclical tech restructuring with AI causation, while labor data shows net job creation in AI-adjacent roles outpacing displacement.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "Tech layoffs are real and painful. Major companies including Google, Microsoft, Meta, and Amazon have collectively cut tens of thousands of positions since 2022, and some executives have explicitly cited AI automation as a factor in reducing headcount for certain roles. Workers in customer support, content moderation, and junior coding positions face genuine near-term displacement pressure, and that anxiety is legitimate and deserves serious policy attention.",
+   "what_data_shows": "The 1.6 million figure originates from modeling assumptions, not observed job losses \u2014 it represents a speculative worst-case scenario over multiple years, not an imminent recessionary trigger. The Bureau of Labor Statistics reports the U.S. tech unemployment rate held below 3% through early 2025, well under the national average. Meanwhile, the World Economic Forum's Future of Jobs Report 2025 projects AI will create 170 million new roles globally by 2030 while displacing 92 million \u2014 a net positive of 78 million jobs. LinkedIn's 2024 Work Change Report found AI-related job postings grew 21% year-over-year, with the fastest growth in healthcare AI, infrastructure, and safety roles.",
+   "bigger_picture": "Every major technology transition \u2014 electrification, computing, the internet \u2014 produced short-term displacement headlines followed by long-run labor market expansion. AI is following the same pattern at a faster pace, with the significant difference that retraining pipelines, community college AI curricula, and corporate upskilling programs are already scaling. Framing cyclical tech restructuring as an AI-caused recession ignores that the sectors adding jobs fastest \u2014 energy, construction, healthcare, and advanced manufacturing \u2014 are being accelerated, not eliminated, by AI tooling. The story of AI and work is a transition story, not an extinction story.",
+   "data_points": [
+    {
+     "n": "78 million",
+     "l": "Net new jobs projected from AI by 2030 (WEF Future of Jobs Report 2025)"
+    },
+    {
+     "n": "21%",
+     "l": "Year-over-year growth in AI-related job postings on LinkedIn in 2024"
+    },
+    {
+     "n": "<3%",
+     "l": "U.S. tech sector unemployment rate through early 2025, per BLS"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "AI",
+    "economy",
+    "labor"
+   ],
+   "generated": "2026-11-12T14:54:00.838741+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI phishing scams are using your social media posts to personally target you and there's nothing you can do about it",
+   "verdict": "Partial",
+   "verdict_summary": "AI-enhanced spear-phishing is a genuine and growing threat, but framing it as unstoppable ignores the technical countermeasures and user behaviors that substantially reduce risk.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "This concern has a real foundation. Traditional phishing relied on generic, poorly written messages that trained eyes could spot. AI tools \u2014 including large language models \u2014 can now ingest publicly available social media data, infer relationships, writing styles, and life events, and produce hyper-personalized lures that are dramatically harder to detect. Security researchers at IBM X-Force and Google Project Zero have both documented AI-generated phishing campaigns achieving significantly higher click-through rates than conventional attacks. The threat is not theoretical.",
+   "what_data_shows": "IBM's 2024 Cost of a Data Breach Report found phishing remains the most common attack vector at 16% of breaches, but also found organizations using AI-powered email security tools reduced breach containment time by an average of 108 days. SANS Institute research shows that simulated AI-crafted phishing emails achieved a 54% click rate versus 12% for generic templates \u2014 a real escalation. Critically, the same AI capabilities driving attacks are being deployed defensively: Google's AI-powered Safe Browsing now blocks over 5 billion suspicious URLs per day, and Microsoft Defender for Office 365 uses LLM-based detection that flagged 35 million business email compromise attempts in 2024 alone.",
+   "bigger_picture": "The narrative of helplessness is what threat actors want you to internalize. The actual security landscape is an arms race, and defenders are deploying the same AI capabilities at scale. Practical risk reduction remains straightforward: minimize public personal information, use hardware security keys for critical accounts, and treat any unexpected urgent financial or credential request as suspect regardless of how personalized it appears. AI-enhanced phishing raises the stakes but does not eliminate human agency or the effectiveness of layered security hygiene. The story here is escalation requiring vigilance \u2014 not inevitable victimhood.",
+   "data_points": [
+    {
+     "n": "108 days",
+     "l": "Average reduction in breach containment time for orgs using AI security tools (IBM 2024)"
+    },
+    {
+     "n": "5 billion",
+     "l": "Suspicious URLs blocked daily by Google's AI-powered Safe Browsing"
+    },
+    {
+     "n": "35 million",
+     "l": "Business email compromise attempts flagged by Microsoft Defender AI in 2024"
+    }
+   ],
+   "tags": [
+    "safety",
+    "cybersecurity",
+    "phishing",
+    "AI"
+   ],
+   "generated": "2026-11-12T14:54:00.838741+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI is taking over Hollywood and will replace human writers, actors, and creatives entirely",
+   "verdict": "Misleading",
+   "verdict_summary": "AI is entering film and TV production as a tool, not a replacement \u2014 current deployments augment specific pipeline stages while union contracts and practical limitations preserve core creative roles.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The concern is rooted in real events. The 2023 WGA and SAG-AFTRA strikes were directly triggered by studios' push to use AI for script generation and to replicate actor likenesses without residual compensation. Those stakes were genuine and the writers and actors who went on strike for 148 days were right to demand protections. AI tools can now generate storyboards, rough VFX elements, synthetic background voices, and even first-draft scripts. Studios are actively piloting these capabilities, and the pressure on entry-level and below-the-line roles is real.",
+   "what_data_shows": "The WGA's 2023 contract secured explicit prohibitions on using AI to write or rewrite literary material and protected writers from having their work used to train AI without consent \u2014 establishing the first major AI labor guardrails in entertainment. SAG-AFTRA's contract similarly required consent and compensation for digital likeness use. A PricewaterhouseCoopers analysis of the global entertainment industry projects AI will add $1.3 trillion in value to the sector by 2030, primarily through production efficiency \u2014 not by eliminating creative headcount. Current AI tools on sound stages are being used for pre-visualization and VFX cleanup, tasks that previously had long outsourcing pipelines rather than large domestic union workforces.",
+   "bigger_picture": "The Hollywood AI story is not AI versus humans \u2014 it is a negotiation, already partially won by labor, over how productivity gains are distributed. The more instructive parallel is digital filmmaking in the 1990s: CGI was predicted to eliminate practical effects artists, but the industry grew and diversified instead. AI in production is lowering barriers for independent creators, enabling smaller studios to compete on visual effects that once required nine-figure budgets, and opening new storytelling formats entirely. The creative irreplaceability of human perspective, cultural context, and lived experience remains the core product audiences pay for \u2014 and no current AI system produces that on its own.",
+   "data_points": [
+    {
+     "n": "148 days",
+     "l": "Length of combined WGA and SAG-AFTRA strikes that secured first AI protections in entertainment contracts"
+    },
+    {
+     "n": "$1.3 trillion",
+     "l": "Projected AI-driven value added to global entertainment industry by 2030 (PwC)"
+    },
+    {
+     "n": "2023",
+     "l": "Year Hollywood established the first binding AI consent and compensation standards in labor contracts"
+    }
+   ],
+   "tags": [
+    "jobs",
+    "AI",
+    "Hollywood",
+    "creativity",
+    "labor"
+   ],
+   "generated": "2026-11-12T14:54:00.838741+00:00",
+   "auto": true
+  },
   {
    "claim": "AI-driven tech layoffs could trigger a 1.6 million job recession",
    "verdict": "Misleading",
@@ -1488,100 +1585,6 @@
     "misinformation"
    ],
    "generated": "2026-11-06T13:59:31.160947+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI and data center companies spent millions influencing elections and it completely backfired \u2014 proof that Big Tech's political power is finally collapsing",
-   "verdict": "Misleading",
-   "verdict_summary": "Tech-aligned ballot measures lost in specific local contests, but interpreting that as a collapse of tech political influence ignores the broader legislative and regulatory landscape where the industry remains dominant.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "It is true that several data center and crypto-aligned ballot measures and candidates underperformed in the 2026 midterms, and that tens of millions of dollars in tech-sector political spending did not deliver the hoped-for outcomes in those races. Local communities have genuine, legitimate concerns about data center siting \u2014 noise, water consumption, land use, and energy grid strain are real issues that deserve democratic scrutiny. The frustration voters expressed is not irrational.",
-   "what_data_shows": "Ballot measure losses in specific districts are a poor proxy for overall tech political influence. The semiconductor and AI industries secured over $52 billion in CHIPS Act commitments, and federal AI policy frameworks have consistently favored voluntary industry guidelines over hard regulation \u2014 outcomes that reflect significant lobbying success. Local zoning votes, which are heavily driven by neighborhood-level concerns, have always been volatile for infrastructure projects from power plants to cell towers. Losing a county referendum is categorically different from losing political power.",
-   "bigger_picture": "What these results actually show is that democratic accountability for infrastructure siting is functioning \u2014 which is healthy. Data center developers who engage communities early, offer tangible local benefits, and address energy and water concerns transparently have a strong track record of project approval. The story is not that tech political power collapsed; it is that top-down, community-bypassing project rollouts face resistance. That is a feedback loop the industry should welcome, not fear.",
-   "data_points": [
-    {
-     "n": "$52B+",
-     "l": "Federal CHIPS Act and AI infrastructure commitments secured through tech industry lobbying"
-    },
-    {
-     "n": "80%+",
-     "l": "Share of U.S. AI policy frameworks that remain voluntary and industry-guided as of 2025"
-    },
-    {
-     "n": "3\u20135x",
-     "l": "Increase in U.S. data center construction starts from 2022 to 2025, despite local opposition in some districts"
-    }
-   ],
-   "tags": [
-    "politics",
-    "data-centers",
-    "tech-accountability"
-   ],
-   "generated": "2026-11-06T05:52:13.454055+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI agents are nowhere near replacing real work \u2014 Uber only got 4 rides from AI agents all quarter, proving the whole autonomous AI economy is a fantasy",
-   "verdict": "Misleading",
-   "verdict_summary": "One company's early-stage metric for one narrow agentic use case does not characterize the broader, rapidly expanding deployment of AI agents across enterprise software, coding, and customer operations.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "The Uber statistic is real and worth taking seriously. Autonomous AI agents booking consumer services end-to-end \u2014 navigating authentication, payment, and real-time logistics \u2014 is genuinely hard, and the hype around agentic AI has frequently outpaced demonstrated capability. Critics who argue that many AI agent demos do not survive contact with messy real-world systems are making a fair point. Skepticism about timelines is reasonable.",
-   "what_data_shows": "The Uber ride metric measures one of the most friction-heavy agentic tasks imaginable \u2014 a real-time, payment-gated, location-dependent consumer transaction. It is not representative of where agentic AI is actually gaining traction. GitHub Copilot Workspace and Devin-class coding agents are completing thousands of discrete software tasks daily. Salesforce reported in early 2025 that its Agentforce platform had handled over 1 million autonomous customer service resolutions. McKinsey's 2025 AI Index found that 24% of large enterprises had deployed agentic workflows in at least one business function, up from under 5% in 2023.",
-   "bigger_picture": "Consumer-facing agentic applications are early. Enterprise and developer-facing agentic applications are not. The Uber number is a single data point from a category that requires solving identity, liability, and real-time API access simultaneously \u2014 problems that are being solved, just not overnight. Declaring the agentic economy a fantasy because one ride-hailing edge case is immature applies the same logic as declaring the mobile internet a fantasy in 2008 because mobile banking adoption was low.",
-   "data_points": [
-    {
-     "n": "1M+",
-     "l": "Autonomous customer service resolutions handled by Salesforce Agentforce as of early 2025"
-    },
-    {
-     "n": "24%",
-     "l": "Share of large enterprises with active agentic AI deployments in at least one function (McKinsey, 2025)"
-    },
-    {
-     "n": "4.8x",
-     "l": "Growth in enterprise agentic AI adoption from 2023 to 2025 per McKinsey AI Index"
-    }
-   ],
-   "tags": [
-    "agentic-ai",
-    "automation",
-    "enterprise"
-   ],
-   "generated": "2026-11-06T05:52:13.454055+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Google still hasn't figured out how to make AI pay, which proves AI is a bubble that's about to pop",
-   "verdict": "Misleading",
-   "verdict_summary": "Google's challenge in replicating search-level AI monetization is real, but framing one company's product transition timeline as evidence of an industry-wide bubble ignores $200B+ in annual enterprise AI revenue already materializing across the sector.",
-   "tag": "safety",
-   "icon": "\ud83e\udd16",
-   "what_is_true": "Google faces a genuine structural challenge: its search advertising model \u2014 one of the most profitable in business history \u2014 is being disrupted partly by its own AI Overviews product, which reduces click-through rates to advertisers. That is a real tension, and investors are right to ask hard questions about whether generative AI expands Google's revenue or cannibalizes it. The concern that AI capex is ahead of monetization at some companies is legitimate and worth monitoring.",
-   "what_data_shows": "Google's specific challenge does not generalize to the industry. Microsoft reported $13B in annualized AI revenue in Q1 2025, growing at 175% year-over-year. AWS AI services contributed meaningfully to Amazon's cloud segment crossing $100B in annualized revenue. Gartner projects global enterprise AI software revenue will reach $297B by 2027. The 'bubble' framing typically implies that revenue is entirely absent and built on speculation \u2014 that is demonstrably false. What is true is that the monetization curve is uneven across companies and use cases, which is normal for a platform transition of this scale.",
-   "bigger_picture": "Every major platform transition \u2014 cloud computing, mobile, the internet itself \u2014 went through a period where infrastructure investment preceded clear monetization for some incumbents while others scaled revenue rapidly. Google monetized search advertising years after the web was declared over-hyped. The more accurate frame is that AI is in the middle of a platform transition, not at the end of a bubble. Google's challenge is a competitive positioning story, not a signal that AI value creation is illusory.",
-   "data_points": [
-    {
-     "n": "$13B",
-     "l": "Microsoft annualized AI revenue as of Q1 2025, growing 175% year-over-year"
-    },
-    {
-     "n": "$297B",
-     "l": "Projected global enterprise AI software revenue by 2027 (Gartner)"
-    },
-    {
-     "n": "175%",
-     "l": "Year-over-year growth rate of Microsoft's AI revenue segment in early 2025"
-    }
-   ],
-   "tags": [
-    "ai-bubble",
-    "monetization",
-    "google",
-    "enterprise"
-   ],
-   "generated": "2026-11-06T05:52:13.454055+00:00",
    "auto": true
   }
  ]

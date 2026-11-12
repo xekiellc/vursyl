@@ -1,9 +1,23 @@
 {
- "updated": "2026-11-12T00:18:27.866920+00:00",
+ "updated": "2026-11-12T14:54:00.844820+00:00",
  "items": [
   {
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-12T09:30:00+00:00"
+  },
+  {
+   "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+   "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+   "source": "MIT News AI",
+   "category": "breakthroughs",
+   "published": "2026-11-12T05:00:00+00:00"
+  },
+  {
+   "title": "Supporting research on AI and children\u2019s safety",
+   "url": "https://openai.com/index/children-first-declaration",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-11-12T00:00:00+00:00"
@@ -16,11 +30,103 @@
    "published": "2026-11-11T15:00:15+00:00"
   },
   {
-   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-   "source": "NVIDIA",
+   "title": "UK-backed AI chip startup Fractile hits $7 billion valuation in funding round",
+   "url": "https://www.channelnewsasia.com/business/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-in-funding-round-6543451",
+   "source": "CNA",
+   "category": "compute",
+   "published": "2026-11-11T14:51:42+00:00"
+  },
+  {
+   "title": "Red Hat accelerates agentic adoption across hybrid environments",
+   "url": "https://siliconangle.com/2026/11/11/red-hat-accelerates-agentic-adoption-hybrid-environments-rhsummit/",
+   "source": "SiliconANGLE News",
    "category": "ai",
-   "published": "2026-11-11T03:00:20+00:00"
+   "published": "2026-11-11T14:42:00+00:00"
+  },
+  {
+   "title": "Show HN: Prefixwise \u2013 names why each LLM request missed the prompt cache",
+   "url": "https://github.com/tejachavali/prefixwise",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-11-11T14:39:08+00:00"
+  },
+  {
+   "title": "How AI Is Changing the Way Retail Leaders Make\u00a0Decisions",
+   "url": "http://wwd.com/voices/from-the-mainstage/ai-retail-leaders-decision-making-aily-labs-1239410048/",
+   "source": "WWD",
+   "category": "ai",
+   "published": "2026-11-11T14:34:51+00:00"
+  },
+  {
+   "title": "Gov.gr upgrade to simplify public services, with consent replacing digital certificates",
+   "url": "https://en.protothema.gr/2026/11/11/gov-gr-upgrade-to-simplify-public-services-with-consent-replacing-digital-certificates/",
+   "source": "Protothema.gr",
+   "category": "ai",
+   "published": "2026-11-11T14:30:09+00:00"
+  },
+  {
+   "title": "Google\u2019s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+   "source": "The Verge",
+   "category": "health",
+   "published": "2026-11-11T14:18:08+00:00"
+  },
+  {
+   "title": "Cathie Wood Calls Humanoid Robots a '$26 Trillion Opportunity' Over the Next 15 Years: 'Embodied AI' Could\u2026",
+   "url": "https://biztoc.com/x/a8896175397c2756",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-11-11T14:01:26+00:00"
+  },
+  {
+   "title": "Instance causal multiple instance learning for whole slide image classification",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362621",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-11-11T14:00:00+00:00"
+  },
+  {
+   "title": "Sphinx: An R package for adaptive spatial neighborhood modeling and functional analysis in spatial omics",
+   "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014954",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-11-11T14:00:00+00:00"
+  },
+  {
+   "title": "Pepti-DrugPhAI: Multimodal AI-evaluator for functional pharmacokinetics and toxicity of peptides",
+   "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014956",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-11-11T14:00:00+00:00"
+  },
+  {
+   "title": "AI100 report released: embodied AI highlighted as grand challenge",
+   "url": "https://robohub.org/ai100-report-released-embodied-ai-highlighted-as-grand-challenge/",
+   "source": "Robohub.org",
+   "category": "robotics",
+   "published": "2026-11-11T13:48:55+00:00",
+   "breakthrough": true
+  },
+  {
+   "title": "IBM Quantum announces upcoming Nighthawk r3 processor designed to execute 10,000 operations",
+   "url": "https://siliconangle.com/2026/11/11/ibm-quantum-announces-upcoming-nighthawk-r3-processor-designed-to-execute-10000-operations/",
+   "source": "SiliconANGLE News",
+   "category": "quantum",
+   "published": "2026-11-11T12:00:01+00:00"
+  },
+  {
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-11T08:00:00+00:00"
+  },
+  {
+   "title": "Beijing\u2019s newest news anchors are life-sized robots with bionic skin",
+   "url": "https://the-gadgeteer.com/2026/11/10/beijings-newest-news-anchors-are-life-sized-robots-with-bionic-skin/",
+   "source": "The Gadgeteer",
+   "category": "robotics",
+   "published": "2026-11-11T01:54:25+00:00"
   },
   {
    "title": "Show HN: PeepNote \u2013 Local desktop notes for saving and reusing LLM responses",
@@ -35,6 +141,13 @@
    "source": "XDA Developers",
    "category": "ai",
    "published": "2026-11-11T00:00:20+00:00"
+  },
+  {
+   "title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis",
+   "url": "https://www.nature.com/articles/s41586-026-11230-y",
+   "source": "Nature.com",
+   "category": "health",
+   "published": "2026-11-11T00:00:00+00:00"
   },
   {
    "title": "Novel application of artificial intelligence based astronomical centroiding to small particle tracking",
@@ -90,28 +203,13 @@
    "url": "https://www.nature.com/articles/d41586-026-03673-0",
    "source": "Nature.com",
    "category": "health",
-   "published": "2026-11-11T00:00:00+00:00",
-   "breakthrough": true
+   "published": "2026-11-11T00:00:00+00:00"
   },
   {
    "title": "Anthropic bought a one-person, AI-powered biotech: is this drug discovery\u2019s future?",
    "url": "https://www.nature.com/articles/d41586-026-03640-9",
    "source": "Nature.com",
    "category": "health",
-   "published": "2026-11-11T00:00:00+00:00"
-  },
-  {
-   "title": "Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity",
-   "url": "https://www.nature.com/articles/s41588-026-02832-3",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-11-11T00:00:00+00:00"
-  },
-  {
-   "title": "Benchmarking hybrid quantum-classical algorithms for power grid optimization problems",
-   "url": "https://www.nature.com/articles/s41598-026-78377-6.pdf",
-   "source": "Nature.com",
-   "category": "quantum",
    "published": "2026-11-11T00:00:00+00:00"
   },
   {
@@ -164,13 +262,6 @@
    "published": "2026-11-11T00:00:00+00:00"
   },
   {
-   "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
-   "url": "https://openai.com/index/jiostar-vijay-seshadri",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-11-11T00:00:00+00:00"
-  },
-  {
    "title": "Agents in Production: Build an AI Chat App with Shiny and {shinychat}",
    "url": "https://www.r-bloggers.com/2026/11/agents-in-production-build-an-ai-chat-app-with-shiny-and-shinychat/",
    "source": "R-bloggers.com",
@@ -199,13 +290,6 @@
    "published": "2026-11-10T21:40:31+00:00"
   },
   {
-   "title": "14 robotics founders who\u2019ve already built a $1B company",
-   "url": "https://www.cbinsights.com/research/14-robotics-founders-unicorns/",
-   "source": "Cbinsights.com",
-   "category": "robotics",
-   "published": "2026-11-10T21:16:19+00:00"
-  },
-  {
    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
    "url": "https://biztoc.com/x/69991b125cb9f9c2",
    "source": "Biztoc.com",
@@ -220,32 +304,11 @@
    "published": "2026-11-10T19:29:29+00:00"
   },
   {
-   "title": "It scored zero on these robot tasks, now it aces them, and it\u2019s working a Mercedes-Benz line",
-   "url": "https://the-gadgeteer.com/2026/11/10/it-scored-zero-on-these-robot-tasks-now-it-aces-them-and-its-working-a-mercedes-benz-line/",
-   "source": "The Gadgeteer",
-   "category": "robotics",
-   "published": "2026-11-10T16:30:00+00:00"
-  },
-  {
-   "title": "Gemini Robotics 2.5 launches with enhanced everyday skills",
-   "url": "https://cryptobriefing.com/gemini-robotics-2-5-launch-everyday-skills/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-11-10T15:12:19+00:00"
-  },
-  {
-   "title": "Google DeepMind unveils Gemini Robotics 2.5 with ASIMOV-Jailbreak safety benchmark",
-   "url": "https://cryptobriefing.com/google-deepmind-gemini-robotics-2-5-asimov/",
-   "source": "Crypto Briefing",
-   "category": "robotics",
-   "published": "2026-11-10T15:10:11+00:00"
-  },
-  {
-   "title": "Mori AI home robot \"resembles a contemporary table lamp\"",
-   "url": "https://www.dezeen.com/2026/11/10/okaq-mori-ai-home-robot-lamp/",
-   "source": "Dezeen",
-   "category": "robotics",
-   "published": "2026-11-10T15:00:00+00:00"
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-10T16:00:03+00:00"
   },
   {
    "title": "liorium added to PyPI",
@@ -388,18 +451,11 @@
    "published": "2026-11-10T12:02:28+00:00"
   },
   {
-   "title": "Helping caregivers use AI in everyday life",
-   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-10T12:00:00+00:00"
-  },
-  {
-   "title": "Closing the AI guidance gap in education",
-   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-11-10T09:00:00+00:00"
+   "published": "2026-11-10T10:00:00+00:00"
   },
   {
    "title": "foton-daylight 0.3.7",
@@ -428,13 +484,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-11-10T05:11:01+00:00"
-  },
-  {
-   "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
-   "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
-   "source": "MIT News AI",
-   "category": "health",
-   "published": "2026-11-10T05:00:00+00:00"
   },
   {
    "title": "AI\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u306eCoWorker\u3001\u793e\u54e1\u306eAI\u5229\u7528\u3092\u5b88\u308b\u201c\u30a6\u30a4\u30eb\u30b9\u5bfe\u7b56\u30bd\u30d5\u30c8\u306eAI\u7248\u201d\u300cCoWorker AI\u30cf\u30fc\u30cd\u30b9\u300d\u3092\u63d0\u4f9b\u958b\u59cb",
@@ -654,13 +703,6 @@
    "published": "2026-11-09T14:00:25+00:00"
   },
   {
-   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-11-09T14:00:01+00:00"
-  },
-  {
    "title": "Matillion recognized as a Visionary in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Data Integration Tools",
    "url": "https://www.prnewswire.co.uk/news-releases/matillion-recognized-as-a-visionary-in-the-2026-gartner-magic-quadrant-for-data-integration-tools-302933310.html",
    "source": "PR Newswire UK",
@@ -724,18 +766,46 @@
    "published": "2026-11-09T09:20:26+00:00"
   },
   {
-   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-   "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-09T08:00:53+00:00"
-  },
-  {
    "title": "Kuken Industries searches 70 years of drawings in minutes",
    "url": "https://openai.com/index/kuken",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-11-09T08:00:00+00:00"
+  },
+  {
+   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+   "source": "NVIDIA",
+   "category": "robotics",
+   "published": "2026-11-09T05:00:40+00:00"
+  },
+  {
+   "title": "Korea\u2019s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-09T05:00:39+00:00"
+  },
+  {
+   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-09T05:00:04+00:00"
+  },
+  {
+   "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+   "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+   "source": "MIT News AI",
+   "category": "breakthroughs",
+   "published": "2026-11-09T05:00:00+00:00"
+  },
+  {
+   "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+   "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-11-09T05:00:00+00:00"
   },
   {
    "title": "Innodisk says AI applications now generate more than 40% of revenue as 3Q26 profit jumps",
@@ -34931,76 +35001,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-08-11T18:34:04+00:00"
-  },
-  {
-   "title": "3tears-scrape 0.24.0",
-   "url": "https://pypi.org/project/3tears-scrape/0.24.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-11T18:34:02+00:00"
-  },
-  {
-   "title": "3tears-models 0.24.0",
-   "url": "https://pypi.org/project/3tears-models/0.24.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-11T18:33:55+00:00"
-  },
-  {
-   "title": "3tears-agent-tools 0.24.0",
-   "url": "https://pypi.org/project/3tears-agent-tools/0.24.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-11T18:33:37+00:00"
-  },
-  {
-   "title": "3tears-agent-skills 0.24.0",
-   "url": "https://pypi.org/project/3tears-agent-skills/0.24.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-11T18:33:35+00:00"
-  },
-  {
-   "title": "Robotics Stocks Rally as Unitree\u2019s 8000X Oversubscribed IPO Draws Frenzied Demand: Ouster, Symbotic, and Teradyne in Focus",
-   "url": "https://247wallst.com/investing/2026/08/11/robotics-stocks-rally-as-unitrees-8000x-oversubscribed-ipo-draws-frenzied-demand-ouster-symbotic-and-teradyne-in-focus/",
-   "source": "24/7 Wall St.",
-   "category": "robotics",
-   "published": "2026-08-11T18:32:06+00:00"
-  },
-  {
-   "title": "Google joins the OpenROAD Initiative as principal member to accelerate open source silicon innovation",
-   "url": "https://opensource.googleblog.com/2026/08/%20google-joins-the-openroad-initiative-as-principal-member-to-accelerate-open-source-silicon-innovation.html",
-   "source": "Googleblog.com",
-   "category": "compute",
-   "published": "2026-08-11T18:30:00+00:00"
-  },
-  {
-   "title": "How GPU acceleration builds billion-scale vector indexes on Amazon OpenSearch Service",
-   "url": "https://aws.amazon.com/blogs/big-data/how-gpu-acceleration-builds-billion-scale-vector-indexes-on-amazon-opensearch-service/",
-   "source": "Amazon.com",
-   "category": "compute",
-   "published": "2026-08-11T18:29:48+00:00"
-  },
-  {
-   "title": "Show HN: HyperSAE \u2013 Hyperbolic Sparse Autoencoders for LLM Interpretability",
-   "url": "https://github.com/vishal-dehurdle/hypersae",
-   "source": "Github.com",
-   "category": "ai",
-   "published": "2026-08-11T18:19:02+00:00"
-  },
-  {
-   "title": "Freeit Data Solutions Named No. 2615 on the 2026 Inc. 5000 List, the Most Prestigious Ranking of America's Fastest-Growing Private Companies",
-   "url": "https://www.prnewswire.com/news-releases/freeit-data-solutions-named-no-2615-on-the-2026-inc-5000-list-the-most-prestigious-ranking-of-americas-fastest-growing-private-companies-302848790.html",
-   "source": "PRNewswire",
-   "category": "ai",
-   "published": "2026-08-11T18:17:00+00:00"
-  },
-  {
-   "title": "This Ottawa scientist believes skincare is a foothold into the future of medicine | BetaKit",
-   "url": "https://betakit.com/how-an-ottawa-scientist-is-using-skincare-as-a-foothold-for-the-future-of-medicine/",
-   "source": "BetaKit",
-   "category": "health",
-   "published": "2026-08-11T17:16:06+00:00"
   }
  ]
 }
