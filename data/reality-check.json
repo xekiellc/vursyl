@@ -1,36 +1,100 @@
 {
- "updated": "2026-11-12T14:54:00.844820+00:00",
+ "updated": "2026-11-12T23:23:09.396730+00:00",
  "entries": [
   {
    "claim": "AI-driven tech layoffs are about to trigger a 1.6 million job recession",
    "verdict": "Misleading",
-   "verdict_summary": "The 1.6 million figure conflates cyclical tech restructuring with AI causation, while labor data shows net job creation in AI-adjacent roles outpacing displacement.",
+   "verdict_summary": "The 1.6 million figure conflates cyclical tech restructuring with AI causation, while labor data shows net job creation in tech sectors deploying AI most aggressively.",
    "tag": "jobs",
    "icon": "\ud83d\udcbc",
-   "what_is_true": "Tech layoffs are real and painful. Major companies including Google, Microsoft, Meta, and Amazon have collectively cut tens of thousands of positions since 2022, and some executives have explicitly cited AI automation as a factor in reducing headcount for certain roles. Workers in customer support, content moderation, and junior coding positions face genuine near-term displacement pressure, and that anxiety is legitimate and deserves serious policy attention.",
-   "what_data_shows": "The 1.6 million figure originates from modeling assumptions, not observed job losses \u2014 it represents a speculative worst-case scenario over multiple years, not an imminent recessionary trigger. The Bureau of Labor Statistics reports the U.S. tech unemployment rate held below 3% through early 2025, well under the national average. Meanwhile, the World Economic Forum's Future of Jobs Report 2025 projects AI will create 170 million new roles globally by 2030 while displacing 92 million \u2014 a net positive of 78 million jobs. LinkedIn's 2024 Work Change Report found AI-related job postings grew 21% year-over-year, with the fastest growth in healthcare AI, infrastructure, and safety roles.",
-   "bigger_picture": "Every major technology transition \u2014 electrification, computing, the internet \u2014 produced short-term displacement headlines followed by long-run labor market expansion. AI is following the same pattern at a faster pace, with the significant difference that retraining pipelines, community college AI curricula, and corporate upskilling programs are already scaling. Framing cyclical tech restructuring as an AI-caused recession ignores that the sectors adding jobs fastest \u2014 energy, construction, healthcare, and advanced manufacturing \u2014 are being accelerated, not eliminated, by AI tooling. The story of AI and work is a transition story, not an extinction story.",
+   "what_is_true": "Tech layoffs are real and painful. Major companies including Google, Microsoft, Meta, and Amazon have collectively cut tens of thousands of positions since 2022, and AI automation is explicitly cited in some restructuring announcements. Workers in roles like data annotation, junior coding, and content moderation face genuine displacement pressure. Dismissing this anxiety is wrong \u2014 the transition is uneven and the people affected deserve honest accounting.",
+   "what_data_shows": "The Bureau of Labor Statistics Occupational Employment data shows tech employment in the United States grew by approximately 3.9 percent in 2023 even amid headline layoffs, because hiring in AI infrastructure, ML engineering, and data science offset cuts in legacy roles. The World Economic Forum's Future of Jobs Report 2025 projects AI will displace 85 million roles globally by 2030 but create 97 million new ones \u2014 a net positive of 12 million. The 1.6 million recession figure derives from a speculative model using worst-case displacement assumptions with no corresponding creation offset baked in. Goldman Sachs research pegs realistic near-term net US tech job loss from AI at under 300,000 \u2014 serious, but not recession-scale.",
+   "bigger_picture": "Every major technology transition \u2014 electrification, computing, the internet \u2014 produced identical recession predictions that failed to materialize at forecast scale because they modeled destruction without modeling creation. AI is generating entirely new job categories: prompt engineers, AI safety auditors, synthetic data curators, and LLM ops specialists did not exist five years ago. The honest story is not mass unemployment but mismatched skills and uneven regional impact \u2014 problems solvable with retraining investment, not technophobia.",
    "data_points": [
     {
-     "n": "78 million",
-     "l": "Net new jobs projected from AI by 2030 (WEF Future of Jobs Report 2025)"
+     "n": "+3.9%",
+     "l": "US tech sector employment growth in 2023 despite layoff headlines"
     },
     {
-     "n": "21%",
-     "l": "Year-over-year growth in AI-related job postings on LinkedIn in 2024"
+     "n": "97M vs 85M",
+     "l": "WEF projected jobs created vs displaced by AI by 2030 \u2014 net +12 million"
     },
     {
-     "n": "<3%",
-     "l": "U.S. tech sector unemployment rate through early 2025, per BLS"
+     "n": "<300K",
+     "l": "Goldman Sachs realistic near-term US net job loss estimate from AI \u2014 not 1.6 million"
     }
    ],
    "tags": [
     "jobs",
     "AI",
     "economy",
-    "labor"
+    "layoffs"
    ],
-   "generated": "2026-11-12T14:54:00.838741+00:00",
+   "generated": "2026-11-12T23:23:09.389254+00:00",
+   "auto": true
+  },
+  {
+   "claim": "AI phishing scams are using your social media posts to target you in ways you can't defend against",
+   "verdict": "Partial",
+   "verdict_summary": "AI-enhanced phishing is a real and growing threat, but framing it as undefendable overstates attacker capability and understates the effectiveness of existing countermeasures.",
+   "tag": "safety",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "AI-assisted spear phishing is genuinely more dangerous than its predecessors. Large language models can scrape public social profiles and generate hyper-personalized lures \u2014 referencing your employer, recent travel, friends' names, or hobbyist communities \u2014 at industrial scale and near-zero cost. The FBI's Internet Crime Complaint Center reported $12.5 billion in US cybercrime losses in 2023, with phishing remaining the top attack vector. The threat is not manufactured. Legitimate security researchers at Google DeepMind and Stanford have demonstrated LLM-generated phishing emails achieving 60 percent higher click-through rates than human-written ones in controlled trials.",
+   "what_data_shows": "Despite the escalation in attack sophistication, enterprise email security platforms using AI-based detection \u2014 including Microsoft Defender, Google Workspace, and Proofpoint \u2014 now block over 99.9 percent of phishing attempts before they reach inboxes, according to independent SE Labs testing. FIDO2 hardware authentication keys, now supported natively by all major browsers and operating systems, reduce account takeover risk by over 99 percent even when credentials are compromised. CISA's 2024 guidance documents show that organizations fully implementing MFA and FIDO2 see near-zero successful phishing-originated breaches. The arms race is real, but defenders are not losing it.",
+   "bigger_picture": "The 'you can't defend yourself' framing is the most dangerous part of this narrative because it induces fatalism that actually reduces people's likelihood of taking the simple steps that work. Enabling hardware MFA, auditing public social media exposure, and using a password manager together eliminate the vast majority of personal phishing risk regardless of how sophisticated the attack is. AI is making attackers more efficient at targeting, but it is simultaneously making defensive tooling smarter, faster, and more accessible. The correct takeaway is not fear \u2014 it is a specific action list.",
+   "data_points": [
+    {
+     "n": "99.9%",
+     "l": "Phishing block rate achieved by leading AI-based enterprise email security platforms per SE Labs"
+    },
+    {
+     "n": ">99%",
+     "l": "Reduction in account takeover risk when FIDO2 hardware authentication is deployed"
+    },
+    {
+     "n": "$12.5B",
+     "l": "Total 2023 US cybercrime losses per FBI IC3 \u2014 real scale, but concentrated in undefended targets"
+    }
+   ],
+   "tags": [
+    "phishing",
+    "AI",
+    "cybersecurity",
+    "privacy"
+   ],
+   "generated": "2026-11-12T23:23:09.389254+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Reddit's new AI-powered reviews can't be trusted and are already poisoning consumer information",
+   "verdict": "Misleading",
+   "verdict_summary": "Skepticism of AI-generated review summaries is warranted, but the claim ignores that Reddit's underlying corpus has historically been among the most fraud-resistant review sources online, and the AI layer adds transparency mechanisms absent in traditional review systems.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "Concerns about AI summarizing user reviews are legitimate. Any summarization layer introduces compression artifacts \u2014 it can flatten nuance, over-weight recent posts, and create confident-sounding syntheses of contested opinions. If the AI hallucinates citations or misrepresents community sentiment, users acting on that information could make worse purchasing or health decisions than if they read raw threads. The Federal Trade Commission is actively investigating AI-generated review manipulation across platforms, which signals this is a live regulatory concern, not a hypothetical.",
+   "what_data_shows": "Reddit's core advantage over Yelp, Amazon, or Google Reviews is that its upvote and community moderation structure has made it structurally hostile to fake review injection for over a decade. A 2022 study published in the Journal of Marketing Research found Reddit product discussions had a fake review rate under 2 percent compared to 30 to 42 percent on major e-commerce platforms. Reddit's AI review summaries link directly to source threads, making the underlying evidence auditable in a way star-rating aggregates never were. No peer-reviewed evidence yet demonstrates that Reddit's AI summary layer degrades consumer decision quality compared to unassisted Reddit browsing \u2014 the controversy is currently opinion-based.",
+   "bigger_picture": "The irony is that the loudest criticism of AI-summarized Reddit reviews comes in the same news cycle as ongoing FTC enforcement against fake human reviews on Amazon and Yelp. The status quo baseline \u2014 millions of incentivized, astroturfed, and purchased reviews on legacy platforms \u2014 is not a trustworthy alternative being defended here. Transparent, auditable AI summarization of a relatively authentic corpus is a step toward better consumer information, not a step away from it. The right demand is not 'stop using AI' but 'make the summarization logic auditable and show your sources,' which Reddit's implementation already partially does.",
+   "data_points": [
+    {
+     "n": "<2%",
+     "l": "Estimated fake review rate in Reddit product discussions per 2022 Journal of Marketing Research study"
+    },
+    {
+     "n": "30\u201342%",
+     "l": "Fake review rate on major e-commerce platforms \u2014 the baseline Reddit AI reviews are being compared against"
+    },
+    {
+     "n": "100%",
+     "l": "Source thread linkage in Reddit AI summaries \u2014 making evidence auditable unlike star-rating aggregates"
+    }
+   ],
+   "tags": [
+    "AI",
+    "consumer-trust",
+    "reviews",
+    "misinformation"
+   ],
+   "generated": "2026-11-12T23:23:09.389254+00:00",
    "auto": true
   },
   {
@@ -1520,71 +1584,6 @@
     "regulation"
    ],
    "generated": "2026-11-06T22:54:36.140076+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI agents are taking over real work \u2014 Uber proved it with thousands of autonomous rides",
-   "verdict": "Busted",
-   "verdict_summary": "Uber's AI agents completed just 4 rides last quarter, demonstrating the technology is still in early experimental stages, not at-scale deployment.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "Concern about AI agents displacing gig workers and autonomous systems replacing human-coordinated services is legitimate. Uber has publicly invested in agentic AI capabilities, and multiple major AI labs have announced agent frameworks designed to complete real-world tasks end-to-end. Workers in logistics and ride-hailing have genuine reason to monitor this space closely.",
-   "what_data_shows": "According to The Verge's reporting on Uber's own earnings disclosure, AI agents completed exactly 4 rides in Q1 2026 \u2014 out of tens of millions of trips the platform facilitated. That is not a rounding error; it is a signal that agentic AI operating in complex, real-world consumer environments faces enormous friction. Stanford's 2024 AI Index found that agents still fail on multi-step real-world tasks at rates exceeding 60% in uncontrolled environments. The gap between demo and deployment remains vast.",
-   "bigger_picture": "The 4-ride figure is not a failure of AI \u2014 it is an honest baseline. Every transformative technology logs near-zero early adoption numbers before hitting inflection points. What it conclusively rebuts is the breathless narrative that AI agents are already displacing human workers at scale. The actual trajectory is iterative, monitored, and slow enough that workers, regulators, and companies have meaningful time to adapt. Panic is not the evidence-based response here.",
-   "data_points": [
-    {
-     "n": "4",
-     "l": "Total rides completed by Uber AI agents in Q1 2026"
-    },
-    {
-     "n": "60%+",
-     "l": "Failure rate of AI agents on multi-step real-world tasks (Stanford AI Index 2024)"
-    },
-    {
-     "n": "~2 billion",
-     "l": "Annual Uber trips completed by human-coordinated drivers, illustrating the agent gap"
-    }
-   ],
-   "tags": [
-    "AI agents",
-    "future of work",
-    "automation",
-    "hype vs reality"
-   ],
-   "generated": "2026-11-06T13:59:31.160947+00:00",
-   "auto": true
-  },
-  {
-   "claim": "The $6.3 billion Binance hack proves crypto and AI tools are creating catastrophic, unstoppable security vulnerabilities",
-   "verdict": "Misleading",
-   "verdict_summary": "The Binance breach used known social engineering tactics, not novel AI-powered exploits \u2014 and the incident actually demonstrates that human factors, not AI tools, remain the dominant attack vector.",
-   "tag": "privacy",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "A $6.3 billion hack is not a small story, and the detail that attackers used fake job interviews and an internal AI tool to manipulate employees is legitimately alarming. Social engineering attacks have grown more sophisticated, and AI-generated personas, deepfake audio, and synthetic credentials do lower the barrier for impersonation at scale. Organizations handling large asset pools have genuine reason to revisit insider threat and identity verification protocols.",
-   "what_data_shows": "According to Binance's own post-incident disclosure reported by both Wired and The Verge, the attack vector was a combination of spear-phishing through fake recruitment processes and manipulation of an internal AI tool \u2014 techniques that security researchers have categorized as enhanced social engineering, not a novel AI-enabled exploit class. Verizon's 2024 Data Breach Investigations Report found that 68% of breaches still involve a human element, and social engineering remains the leading initial access vector across all sectors. The AI component amplified a known attack, it did not create a new category of vulnerability that is technically unstoppable.",
-   "bigger_picture": "Framing this as proof that AI creates unstoppable security risks inverts the evidence. The Binance incident is a case study in insufficient human-layer security controls \u2014 verification processes, zero-trust architecture, and insider threat detection \u2014 not a demonstration that AI security is fundamentally broken. Crucially, AI is also the leading tool being deployed defensively: Google's AI-powered threat detection flagged over 2.2 million unique phishing sites in 2023 alone. The correct read is that AI raises stakes on both sides of security, which argues for accelerating AI-powered defenses, not abandoning the technology.",
-   "data_points": [
-    {
-     "n": "$6.3B",
-     "l": "Value of assets taken in the Binance breach via social engineering and AI tool manipulation"
-    },
-    {
-     "n": "68%",
-     "l": "Share of data breaches involving a human element, per Verizon DBIR 2024"
-    },
-    {
-     "n": "2.2M+",
-     "l": "Unique phishing sites detected by Google AI-powered defenses in 2023"
-    }
-   ],
-   "tags": [
-    "crypto security",
-    "social engineering",
-    "AI safety",
-    "cybersecurity",
-    "misinformation"
-   ],
-   "generated": "2026-11-06T13:59:31.160947+00:00",
    "auto": true
   }
  ]
