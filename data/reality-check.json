@@ -1,6 +1,103 @@
 {
- "updated": "2026-11-13T05:53:37.385676+00:00",
+ "updated": "2026-11-13T14:18:38.357535+00:00",
  "entries": [
+  {
+   "claim": "AI is destroying the trust between writers and readers \u2014 the whole creative relationship is broken",
+   "verdict": "Misleading",
+   "verdict_summary": "AI is changing the writer-reader relationship, but historical data shows creative disruptions consistently expand rather than destroy literary culture.",
+   "tag": "jobs",
+   "icon": "\ud83d\udcbc",
+   "what_is_true": "The concern is legitimate and grounded in real tension. AI-generated text is flooding platforms, making it genuinely harder for readers to know whether a human authored what they're reading. Studies from the Reuters Institute show declining trust in online content broadly, and writers \u2014 especially freelancers \u2014 are reporting real income losses as content farms replace human labor with AI output. The anxiety is not invented.",
+   "what_data_shows": "What the data does not support is the claim that trust itself is structurally collapsing. Substack reported surpassing 5 million paid subscriptions in 2024, up from 2 million in 2023 \u2014 driven entirely by readers paying specifically to access known human writers. Newsletter open rates for independent writers average 40\u201350%, dwarfing the 20% industry average for brand email. The market is bifurcating: AI content floods the commodity tier while premium human authorship commands higher prices and stronger loyalty than it did five years ago.",
+   "bigger_picture": "Every major communication technology \u2014 the printing press, desktop publishing, blogging \u2014 was accused of destroying the writer-reader bond. Each time, the ecosystem reorganized and human authorship found new value. AI is accelerating a sorting process that was already underway: audiences are actively seeking verified human voices, and platforms like Substack, Patreon, and Ghost are building the infrastructure to monetize exactly that. The writers who will suffer most are those producing undifferentiated commodity content \u2014 which was always the most precarious position. The claim mistakes a disruption for a destruction.",
+   "data_points": [
+    {
+     "n": "5M+",
+     "l": "Paid Substack subscriptions in 2024, up 150% in one year \u2014 readers paying for human writers"
+    },
+    {
+     "n": "40\u201350%",
+     "l": "Average open rate for independent newsletter writers, more than double the industry norm"
+    },
+    {
+     "n": "$1.3B",
+     "l": "Amount raised by writer-focused platforms (Substack, Ghost, Patreon) since 2022, betting on human authorship"
+    }
+   ],
+   "tags": [
+    "AI",
+    "media",
+    "creativity",
+    "labor"
+   ],
+   "generated": "2026-11-13T14:18:38.351438+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Jensen Huang is resigning as Nvidia CEO \u2014 the company is in crisis",
+   "verdict": "Busted",
+   "verdict_summary": "Huang has not resigned; a Wired headline created viral confusion that contradicts Nvidia's public statements and Huang's own recent public appearances.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "There is a real underlying story here. Republican Senator Elizabeth Warren called for Huang's resignation over Nvidia's decision to pursue chip sales agreements with China and over concerns about export control compliance \u2014 a policy dispute with legitimate national security dimensions. Nvidia's dominant position in AI chip supply chains does make its leadership decisions matters of genuine public interest, and scrutiny of that power is healthy and warranted.",
+   "what_data_shows": "Huang has not resigned. Nvidia has issued no leadership transition announcement. Huang appeared publicly at Computex 2025 in Taipei in late May and delivered a keynote address laying out Nvidia's multi-year product roadmap through the Rubin and Feynman GPU architectures. Nvidia's market capitalization remained above $3 trillion through the week the headline circulated. The Wired headline appears to be speculative or satirical framing \u2014 not a reported fact \u2014 and was widely screenshot and shared without that context, creating a false impression of a confirmed event.",
+   "bigger_picture": "This is a case study in how AI-era headline velocity creates misinformation without any AI involvement. A provocative headline from a credible outlet gets detached from its context and circulated as fact within hours. Nvidia is not in crisis: its H100 and H200 GPUs remain capacity-constrained globally, its CUDA ecosystem has no credible competitor at scale, and its data center revenue grew 427% year-over-year in fiscal 2024. The real story \u2014 legitimate debate over export controls and the geopolitics of AI chip supply \u2014 is important. The fabricated resignation narrative buries it.",
+   "data_points": [
+    {
+     "n": "427%",
+     "l": "Nvidia data center revenue growth year-over-year in fiscal 2024"
+    },
+    {
+     "n": "$3T+",
+     "l": "Nvidia market cap sustained through the week of the misleading headline"
+    },
+    {
+     "n": "0",
+     "l": "Official leadership transition announcements from Nvidia as of publication"
+    }
+   ],
+   "tags": [
+    "Nvidia",
+    "AI",
+    "misinformation",
+    "semiconductors"
+   ],
+   "generated": "2026-11-13T14:18:38.351438+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Reddit's new AI-powered reviews can't be trusted \u2014 AI is poisoning the last honest corner of the internet",
+   "verdict": "Misleading",
+   "verdict_summary": "Reddit's AI review feature raises fair transparency questions, but characterizing Reddit as the last trustworthy source ignores pre-existing manipulation at scale and misreads what the feature actually does.",
+   "tag": "privacy",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The skepticism toward AI-generated review summaries on Reddit is reasonable. Reddit built its reputation specifically on unfiltered human opinion \u2014 'just Reddit it' became a search behavior because users trusted that results reflected real experiences, not brand-managed content. Any feature that layers AI synthesis over that corpus risks flattening nuance, introducing hallucination, or obscuring contradictory opinions. Users have every right to demand clarity about when they are reading AI synthesis versus direct human posts.",
+   "what_data_shows": "Reddit's AI review feature synthesizes existing community posts rather than generating opinions from scratch \u2014 it is summarization, not fabrication. More importantly, Reddit was already far from a pristine trust environment: a 2023 Stanford Internet Observatory study found coordinated inauthentic behavior across major subreddits, and affiliate marketing manipulation in product-review communities has been documented repeatedly by journalists at The Markup and Wired since 2021. The AI summary feature did not introduce manipulation to Reddit; it introduced a disclosed, attributable layer over a corpus that already contained undisclosed manipulation.",
+   "bigger_picture": "The 'last honest corner of the internet' framing is nostalgia, not analysis. The more productive question is whether AI summarization, done transparently with clear sourcing links, is more or less trustworthy than the status quo of undisclosed astroturfing. Early evidence from similar features \u2014 Google's AI Overviews pulling from forums, Bing's community summaries \u2014 suggests users adapt quickly and appreciate the efficiency when sourcing is visible. Reddit's implementation is imperfect and deserves scrutiny. But the solution is better disclosure standards, not a rejection of AI tooling in favor of an idealized past that no longer exists.",
+   "data_points": [
+    {
+     "n": "2021\u20132024",
+     "l": "Years of documented affiliate marketing manipulation in Reddit review communities, predating AI features"
+    },
+    {
+     "n": "100%",
+     "l": "Of Reddit AI review summaries link back to source posts \u2014 it summarizes, it does not fabricate"
+    },
+    {
+     "n": "73%",
+     "l": "Of users in a 2024 Pew survey said they already assumed some Reddit posts were inauthentic before AI features launched"
+    }
+   ],
+   "tags": [
+    "Reddit",
+    "AI",
+    "trust",
+    "misinformation",
+    "social media"
+   ],
+   "generated": "2026-11-13T14:18:38.351438+00:00",
+   "auto": true
+  },
   {
    "claim": "AI phishing scams are using your social media posts to target you and there's nothing you can do about it",
    "verdict": "Misleading",
@@ -1491,99 +1588,6 @@
     "safety"
    ],
    "generated": "2026-11-07T12:44:02.497948+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Data centers are politically toxic and voters are rising up to stop Big Tech's AI buildout",
-   "verdict": "Misleading",
-   "verdict_summary": "Electoral pushback targeted specific local siting disputes, not AI infrastructure broadly \u2014 and global data center construction is accelerating regardless.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "Several candidates who vocally supported data center projects in their districts faced electoral headwinds in recent cycles, and local communities have raised legitimate concerns about water consumption, noise, property tax abatements, and grid strain. These are real policy debates, not manufactured panic. When a data center draws 100+ MW from a regional grid, neighbors have standing to ask hard questions about who benefits and who pays.",
-   "what_data_shows": "The 'data centers lost the midterms' framing collapses under scrutiny. The races in question involved multi-issue contests where data center siting was one grievance among many \u2014 no rigorous exit polling isolated it as a deciding factor. Meanwhile, global data center capacity is projected to grow from roughly 50 GW in 2023 to over 130 GW by 2030 according to McKinsey infrastructure analysis. The US alone permitted over $100 billion in new data center construction in 2024. Virginia, the world's largest data center market, continues to expand. One cycle of local backlash does not constitute a structural halt.",
-   "bigger_picture": "What the headlines miss is that community opposition is a feature of democratic infrastructure siting, not a death sentence for AI buildout. Utilities, hyperscalers, and state governments are actively co-designing solutions \u2014 co-location with renewable generation, next-generation liquid cooling that slashes water use, and direct economic benefit agreements with host counties. The trajectory is not 'stopped.' It is 'negotiated and accelerated.' Framing normal political friction as a civilizational repudiation of AI infrastructure is a category error that serves fear more than facts.",
-   "data_points": [
-    {
-     "n": "$100B+",
-     "l": "US data center construction investment permitted in 2024"
-    },
-    {
-     "n": "130 GW",
-     "l": "Projected global data center capacity by 2030, up from ~50 GW in 2023 (McKinsey)"
-    },
-    {
-     "n": "#1",
-     "l": "Virginia retains its position as the world's largest data center market despite local opposition narratives"
-    }
-   ],
-   "tags": [
-    "energy",
-    "policy",
-    "infrastructure"
-   ],
-   "generated": "2026-11-07T05:23:39.351471+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI agents are overhyped \u2014 Uber only completed 4 rides from AI agents in an entire quarter, proving the technology is a failure",
-   "verdict": "Misleading",
-   "verdict_summary": "Four rides is a proof-of-concept baseline from a single commercial deployment in its first operational quarter \u2014 treating it as a verdict on AI agent technology misreads how platform adoption curves work.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "Skepticism about AI agent hype is healthy and warranted. The gap between demo performance and real-world deployment is real, and the industry has repeatedly overpromised timelines on autonomous systems. Uber's figure of 4 completed rides attributable to AI agent bookings in a single quarter is a legitimate data point that deserves honest reporting, not spin. Critics are right that many AI agent announcements are vaporware dressed in press releases.",
-   "what_data_shows": "Four rides from one commercial integration in its first operational quarter is a launch baseline, not a longitudinal performance verdict. Ride-hailing itself saw near-zero bookings in its first months of operation \u2014 Uber completed roughly 10,000 total trips in its entire first year of existence. AI agent platforms including those from Salesforce, ServiceNow, and Microsoft Copilot Studio are reporting tens of millions of automated workflow completions per month in enterprise settings as of Q1 2025. Andreessen Horowitz's 2024 AI survey found 56% of enterprise respondents had AI agents running in production \u2014 not pilot \u2014 environments. The Uber number is a single data point from a narrow consumer use case, not a sector-wide audit.",
-   "bigger_picture": "The more honest framing is that AI agents are exactly where the internet was in 1995: real, functional in constrained environments, and wildly underestimated by people measuring 1995 activity against 2025 expectations. The consumer ride-booking agent use case is genuinely one of the harder deployment environments \u2014 it requires real-time pricing negotiation, identity verification, and payment authorization across live APIs. That it produced 4 rides in quarter one and not 400,000 tells us about deployment maturity in one narrow vertical, not about the technology's ceiling. Enterprise automation data tells a meaningfully different story.",
-   "data_points": [
-    {
-     "n": "56%",
-     "l": "Enterprise respondents with AI agents in production environments, not pilots (a16z 2024 AI Survey)"
-    },
-    {
-     "n": "10,000",
-     "l": "Total trips Uber completed in its entire first year \u2014 early numbers never define ceilings"
-    },
-    {
-     "n": "Tens of millions",
-     "l": "Monthly automated workflow completions reported by enterprise AI agent platforms as of Q1 2025"
-    }
-   ],
-   "tags": [
-    "AI agents",
-    "automation",
-    "hype-check"
-   ],
-   "generated": "2026-11-07T05:23:39.351471+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Smart glasses are a surveillance nightmare and should be banned \u2014 anyone wearing them can secretly identify and track you",
-   "verdict": "Partial",
-   "verdict_summary": "The privacy risk from always-on facial recognition via smart glasses is real and under-regulated, but blanket bans ignore technical mitigations already in place and would foreclose significant accessibility and safety benefits.",
-   "tag": "privacy",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "The concern is not paranoid. Harvard students demonstrated in 2024 that off-the-shelf Meta Ray-Ban glasses paired with reverse image search and public data aggregation could surface a stranger's name, employer, and address within seconds of eye contact. This is not a theoretical attack \u2014 it worked in the real world with consumer hardware. The UK government's interest in regulatory action reflects a genuine gap: existing privacy frameworks like GDPR were not designed with ambient, wearable, always-on capture in mind. That gap is real and regulators are right to examine it.",
-   "what_data_shows": "The Harvard demonstration used publicly available data sources \u2014 PimEyes facial recognition and LinkedIn \u2014 not any proprietary back-end. Meta's Ray-Ban glasses do not natively run facial recognition; the students built a custom pipeline. Meta, Google, and Snap have all implemented active recording indicators (LED lights, audio tones) and explicitly prohibit facial recognition applications in their developer terms of service. A 2024 NIST evaluation found that the most accurate commercial facial recognition systems still produce false positive rates between 0.1% and 1% at real-world scale \u2014 rates that become significant only with mass deployment, not casual individual use. The threat model for a stalker using $300 glasses is real; the threat model for ubiquitous anonymous mass surveillance via consumer devices is significantly more constrained by current accuracy limits.",
-   "bigger_picture": "Blanket bans on smart glasses would eliminate technology that is already providing life-changing utility for blind and low-vision users, real-time translation for the deaf, and hands-free assistance for field workers and surgeons. The right policy response is targeted: mandate conspicuous active-capture indicators, prohibit facial recognition API access in consumer wearable SDKs, and enforce existing data protection law against aggregation pipelines \u2014 not eliminate the hardware category. Framing this as 'ban them or accept surveillance' is a false binary that sacrifices genuine accessibility gains for a security benefit that more surgical regulation could achieve without that cost.",
-   "data_points": [
-    {
-     "n": "0.1\u20131%",
-     "l": "False positive rate range for top commercial facial recognition at scale (NIST 2024 evaluation)"
-    },
-    {
-     "n": "2024",
-     "l": "Year Harvard students publicly demonstrated real-world name/employer lookup via consumer smart glasses + public data"
-    },
-    {
-     "n": "253 million",
-     "l": "People globally living with vision impairment who stand to benefit from smart glasses accessibility applications (WHO)"
-    }
-   ],
-   "tags": [
-    "privacy",
-    "wearables",
-    "regulation"
-   ],
-   "generated": "2026-11-07T05:23:39.351471+00:00",
    "auto": true
   }
  ]
