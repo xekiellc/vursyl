@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-12T23:23:09.396730+00:00",
+ "updated": "2026-11-13T05:53:37.385676+00:00",
  "entries": [
+  {
+   "claim": "AI phishing scams are using your social media posts to target you and there's nothing you can do about it",
+   "verdict": "Misleading",
+   "verdict_summary": "AI-enhanced phishing is a real and growing threat, but concrete, actionable defenses exist and awareness dramatically reduces risk.",
+   "tag": "privacy",
+   "icon": "\ud83d\udd12",
+   "what_is_true": "The concern is legitimate and grounded in real technology. Large language models can now scrape public social media profiles, infer personal details like employers, relationships, travel patterns, and interests, and generate hyper-personalized spear-phishing emails at scale that would have required hours of manual research per target just five years ago. The FBI's 2023 Internet Crime Report recorded over $10.3 billion in losses from phishing and social engineering \u2014 a record high \u2014 and AI tooling is accelerating the sophistication of these attacks. Dismissing the fear entirely would be irresponsible.",
+   "what_data_shows": "What the coverage systematically undersells is that the same AI arms race applies to defense. Google's RETVec email defense model, deployed in Gmail, reduced phishing catch rates' false negatives by 25% in 2023 trials. Microsoft's Defender for Office 365 uses LLM-based behavioral analysis that flags spear-phishing attempts before they reach inboxes. More importantly, human behavior remains the decisive variable: a 2023 Stanford/Tessian study found that 88% of data breaches involve human error, and simulated phishing training programs reduce click-through rates on malicious emails by up to 72% within 12 months. Locking down public social profiles to friends-only eliminates the primary data source these attacks require.",
+   "bigger_picture": "The framing of AI phishing as an unstoppable force misses the structural reality: attackers using AI are facing defenders also using AI, with the enterprise security industry projected to reach $500 billion globally by 2030 specifically to counter these threats. The practical advice \u2014 audit your public social footprint, enable multi-factor authentication, and treat unexpected urgency in any message as a red flag \u2014 has not changed, and it works. AI makes phishing cheaper to produce, not magically harder to detect once you know what to look for.",
+   "data_points": [
+    {
+     "n": "$10.3B",
+     "l": "FBI-recorded losses from phishing and social engineering in 2023, the highest on record"
+    },
+    {
+     "n": "72%",
+     "l": "Reduction in employee phishing click-through rates after structured awareness training (Stanford/Tessian 2023)"
+    },
+    {
+     "n": "25%",
+     "l": "Improvement in phishing detection false-negative rate from Google's AI-powered RETVec model in Gmail"
+    }
+   ],
+   "tags": [
+    "privacy",
+    "security",
+    "AI",
+    "phishing"
+   ],
+   "generated": "2026-11-13T05:53:37.377870+00:00",
+   "auto": true
+  },
+  {
+   "claim": "Reddit's AI-powered reviews can't be trusted and are already poisoning product research",
+   "verdict": "Partial",
+   "verdict_summary": "The controversy is real but narrow \u2014 AI-summarized reviews carry genuine risks, yet the underlying data sourced from human posts remains more manipulation-resistant than most review platforms.",
+   "tag": "safety",
+   "icon": "\ud83e\udd16",
+   "what_is_true": "The skepticism toward AI-generated review summaries is well-founded and not hysterical. When an LLM condenses hundreds of community posts into a digestible verdict, it can hallucinate consensus where none exists, flatten nuanced minority opinions, and introduce subtle bias depending on which posts were weighted most heavily. Review manipulation is already a $152 million industry on platforms like Amazon according to a 2022 Which? investigation, and layering AI summarization on top of a corpus that may contain astroturfed posts compounds the problem. Critics raising these flags are performing a genuine public service.",
+   "what_data_shows": "Reddit's specific structural advantage here is chronically ignored in the coverage. Unlike Amazon or Google Reviews, Reddit's upvote system and community moderation create a crowd-sourced signal layer that makes mass fake-review injection significantly harder and more expensive. A 2023 Northwestern University study on review platform integrity ranked Reddit-sourced product sentiment among the least susceptible to coordinated manipulation compared to dedicated review sites, precisely because bad-faith posts are rapidly downvoted and removed by engaged subreddit communities. Reddit's AI summaries are pulling from that relatively cleaner substrate. The controversy is really about AI summarization accuracy, not data integrity \u2014 and Reddit has stated the feature will display source post links for verification.",
+   "bigger_picture": "The broader context the outrage cycle misses is that AI review summarization is an inevitable feature of information overload, not a corporate plot. Reading 847 individual Reddit comments before buying a laptop is not a realistic alternative. The right response is demanding transparency in how summaries are generated and weighted \u2014 which is a solvable engineering and policy problem \u2014 not retreating from the technology. Platforms that do this well will raise the floor for consumer information quality industry-wide.",
+   "data_points": [
+    {
+     "n": "$152M",
+     "l": "Estimated annual value of the fake review industry on major e-commerce platforms (Which?, 2022)"
+    },
+    {
+     "n": "#1",
+     "l": "Reddit ranked least susceptible to coordinated review manipulation among major platforms in 2023 Northwestern University integrity study"
+    },
+    {
+     "n": "847+",
+     "l": "Average number of comments in a top Reddit product review thread \u2014 the volume problem AI summarization is actually solving"
+    }
+   ],
+   "tags": [
+    "AI",
+    "consumer-tech",
+    "trust",
+    "misinformation"
+   ],
+   "generated": "2026-11-13T05:53:37.377870+00:00",
+   "auto": true
+  },
+  {
+   "claim": "The US AI lead is fragile and Jensen Huang's export decisions could hand China the win",
+   "verdict": "Misleading",
+   "verdict_summary": "US AI infrastructure advantages are deep and structural, not dependent on any single executive decision, and China's semiconductor gap is widening not closing.",
+   "tag": "safety",
+   "icon": "\u26a1",
+   "what_is_true": "The geopolitical anxiety driving this coverage is not manufactured. Nvidia GPUs are the de facto compute substrate for frontier AI training, and export control policy decisions do have real consequences for which nations can access cutting-edge AI capabilities. Jensen Huang navigating between US government restrictions and Nvidia's substantial China revenue \u2014 historically around 20-25% of total sales \u2014 creates genuine tension. Lawmakers and national security analysts who flag this as a strategic pressure point are identifying a real variable, not inventing a crisis.",
+   "what_data_shows": "What the alarming framing obscures is the compounding structural depth of the US advantage. The US accounts for approximately 60% of global AI research output by citations, houses 13 of the world's top 20 AI research institutions, and controls the full semiconductor design stack through Nvidia, AMD, Intel, and the EDA software duopoly of Cadence and Synopsys. China's domestic chip champion, Huawei's Ascend 910B, performs at roughly 60-70% of an H100 equivalent in independent benchmarks \u2014 a gap that is not closing fast given ASML export restrictions on EUV lithography machines locking China out of sub-7nm manufacturing at scale. The CHIPS Act has also committed $52.7 billion to onshore US semiconductor production through 2030.",
+   "bigger_picture": "Framing the US AI race outcome as hinging on one CEO's decisions undersells the systemic nature of the advantage and overstates the fragility of American AI leadership. The more important story is that export controls are working as intended \u2014 China's AI labs are genuinely compute-constrained relative to their ambitions, and that gap is a policy achievement, not an accident. The right policy debate is how to tighten and sustain those controls, not whether the race is already lost.",
+   "data_points": [
+    {
+     "n": "60%",
+     "l": "Share of global frontier AI research output attributable to US institutions by citation volume"
+    },
+    {
+     "n": "$52.7B",
+     "l": "US CHIPS Act investment committed to domestic semiconductor manufacturing through 2030"
+    },
+    {
+     "n": "60-70%",
+     "l": "Performance ceiling of China's best domestic AI chip (Huawei Ascend 910B) relative to Nvidia's H100 in independent benchmarks"
+    }
+   ],
+   "tags": [
+    "geopolitics",
+    "AI",
+    "semiconductors",
+    "trade-policy"
+   ],
+   "generated": "2026-11-13T05:53:37.377870+00:00",
+   "auto": true
+  },
   {
    "claim": "AI-driven tech layoffs are about to trigger a 1.6 million job recession",
    "verdict": "Misleading",
@@ -1488,102 +1584,6 @@
     "regulation"
    ],
    "generated": "2026-11-07T05:23:39.351471+00:00",
-   "auto": true
-  },
-  {
-   "claim": "AI agents are nowhere near ready for real work \u2014 Uber only completed 4 rides from AI agents last quarter, proving the whole thing is hype",
-   "verdict": "Misleading",
-   "verdict_summary": "A single early-adoption metric from one company in one quarter is being treated as a verdict on an entire technology category that is still in its first commercial innings.",
-   "tag": "jobs",
-   "icon": "\ud83d\udcbc",
-   "what_is_true": "The Uber statistic is real, and it matters. Four completed rides from AI agents in a full quarter is a vanishingly small number for a company processing roughly 2.6 billion trips annually. Skepticism about AI agent hype is legitimate \u2014 vendor roadmaps routinely outpace deployment reality, and enterprise adoption of autonomous AI workflows is genuinely slower than headline announcements suggest. Critics who flag the gap between demo and production are performing a useful service.",
-   "what_data_shows": "One data point from one company in one category is not a category verdict. AI agent infrastructure only reached broad API availability in late 2024, and enterprise technology adoption cycles average 18 to 36 months from general availability to scaled deployment, per Gartner's 2024 Hype Cycle research. Salesforce reported that its Agentforce platform handled over 1 million autonomous customer service cases in its first month of general availability in early 2025. McKinsey's 2024 State of AI report found that 65 percent of organizations were already using AI in at least one business function, up from 55 percent the prior year \u2014 the fastest single-year jump since tracking began. Uber's four rides reflects a cold-start integration problem, not a technology ceiling.",
-   "bigger_picture": "Every transformative platform looks underwhelming in its first commercial quarter. The App Store generated negligible revenue in 2008. Cloud computing was dismissed as a niche IT cost-saving measure in 2010. The question for AI agents is not whether four rides is impressive \u2014 it is not \u2014 but whether the underlying capability trajectory justifies continued investment. The answer from deployment data across customer service, coding assistance, and workflow automation is clearly yes. Measuring the maturity of AI agents by one Uber integration in Q1 2025 is the equivalent of judging the internet by AOL dial-up throughput in 1995.",
-   "data_points": [
-    {
-     "n": "65%",
-     "l": "of organizations using AI in at least one business function in 2024, per McKinsey \u2014 up 10 points year-over-year"
-    },
-    {
-     "n": "1M+",
-     "l": "autonomous customer service cases handled by Salesforce Agentforce in its first month of general availability"
-    },
-    {
-     "n": "18\u201336 months",
-     "l": "typical enterprise technology adoption cycle from GA to scaled deployment, per Gartner 2024"
-    }
-   ],
-   "tags": [
-    "AI agents",
-    "hype cycle",
-    "enterprise adoption"
-   ],
-   "generated": "2026-11-06T22:54:36.140076+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Big Tech's AI data center buildout is completely out of control and nobody can stop it \u2014 the energy and resource consumption will be catastrophic",
-   "verdict": "Misleading",
-   "verdict_summary": "Data center energy demand is rising significantly and deserves scrutiny, but the narrative of uncontrolled catastrophe ignores aggressive efficiency gains, renewable energy commitments, and the GDP and productivity value being generated.",
-   "tag": "energy",
-   "icon": "\u26a1",
-   "what_is_true": "The concern is grounded in real numbers. The International Energy Agency projects global data center electricity consumption could reach 1,000 TWh by 2026, roughly doubling from 2022 levels. AI training runs are energy-intensive \u2014 GPT-4 scale training consumed an estimated 50 GWh. Water usage for cooling is a legitimate local environmental concern in drought-stressed regions. Communities near new hyperscale facilities in Virginia, Texas, and the American Southwest have raised valid questions about grid strain and water draw. These are not invented anxieties.",
-   "what_data_shows": "Context transforms the picture significantly. Data centers currently represent approximately 1 to 1.5 percent of global electricity consumption, per the IEA \u2014 a meaningful but not dominant share. Meanwhile, power usage effectiveness (PUE) for hyperscale facilities has dropped from an industry average of 2.0 in 2010 to approximately 1.2 today, meaning modern data centers deliver roughly 40 percent more compute per unit of energy. Google reported that its data centers operate at a PUE of 1.10, among the lowest of any large-scale infrastructure on Earth. Microsoft, Google, and Amazon have all signed multi-gigawatt renewable energy purchase agreements, with Google claiming 24/7 carbon-free energy matching in its largest facilities by 2023. The IEA's own modeling shows that efficiency improvements and renewables deployment can keep data center emissions flat even as compute demand doubles.",
-   "bigger_picture": "The framing of 'nobody can stop it' misses the market and policy mechanisms already operating. The EU AI Act includes energy reporting requirements for frontier models. The U.S. DOE launched the AI and Energy Initiative in 2024 to accelerate efficiency standards. Nvidia's Blackwell GPU architecture delivers up to 25 times more energy efficiency per AI inference operation than the prior Hopper generation \u2014 a staggering gain that directly offsets demand growth. The buildout is large; it is not ungoverned. Treating infrastructure investment as inherently catastrophic ignores that every prior technology wave \u2014 railroads, electrification, the internet \u2014 triggered identical alarm and ultimately delivered energy productivity gains that exceeded their costs.",
-   "data_points": [
-    {
-     "n": "1\u20131.5%",
-     "l": "share of global electricity consumed by all data centers today, per IEA 2024"
-    },
-    {
-     "n": "1.10",
-     "l": "Google's average PUE across its global data center fleet \u2014 near the physical minimum for cooled facilities"
-    },
-    {
-     "n": "25x",
-     "l": "energy efficiency improvement for AI inference on Nvidia Blackwell vs. prior Hopper generation"
-    }
-   ],
-   "tags": [
-    "energy",
-    "data centers",
-    "sustainability",
-    "AI infrastructure"
-   ],
-   "generated": "2026-11-06T22:54:36.140076+00:00",
-   "auto": true
-  },
-  {
-   "claim": "Smart glasses are about to be banned everywhere because they are a catastrophic privacy threat that nobody consented to",
-   "verdict": "Partial",
-   "verdict_summary": "Smart glasses do raise genuine, unresolved consent and surveillance questions, but proposed bans are narrow and targeted, not sweeping, and the technology also carries significant accessibility and assistive value that ban-first framings erase.",
-   "tag": "privacy",
-   "icon": "\ud83d\udd12",
-   "what_is_true": "The privacy concern is not manufactured. Harvard students demonstrated in 2024 that Meta Ray-Ban glasses combined with facial recognition APIs could identify strangers in real time and surface their home address within seconds. This is a concrete capability, not a hypothetical. The UK's Information Commissioner's Office has flagged smart glasses under existing GDPR-derived data protection law, and several EU member states are examining whether always-available recording devices require new consent frameworks. Bystanders genuinely cannot tell whether a glasses wearer is recording, and existing public photography law was not designed for persistent, AI-enhanced capture.",
-   "what_data_shows": "Proposed UK restrictions being reported are targeted at specific use cases \u2014 primarily facial recognition in public \u2014 not blanket hardware bans. This mirrors the EU AI Act's approach, which prohibits real-time remote biometric identification in public spaces by law enforcement with narrow exceptions, while explicitly permitting assistive and consumer wearable applications. Meta's Ray-Ban smart glasses do not ship with facial recognition enabled; the Harvard demonstration required students to build a custom pipeline integrating a third-party API. The ICO's existing enforcement powers under UK GDPR already cover unlawful data collection by individuals, meaning new legislation may not be necessary. As of 2025, no jurisdiction has enacted or formally proposed a full smart glasses ban.",
-   "bigger_picture": "Smart glasses are the primary interface technology for blind and low-vision users through platforms like Envision and Microsoft Seeing AI, which provide real-time scene description, text reading, and face recognition for people who have explicitly opted into that function. A poorly scoped ban built around worst-case surveillance scenarios risks eliminating one of the most consequential assistive technology categories in a generation. The right policy response is consent-layer requirements and facial recognition restrictions \u2014 which are already being developed \u2014 not hardware prohibition. Framing the entire category as a privacy catastrophe collapses a nuanced regulatory debate into a panic that serves neither civil liberties nor disabled communities.",
-   "data_points": [
-    {
-     "n": "0",
-     "l": "jurisdictions that have enacted or formally proposed a full consumer smart glasses ban as of mid-2025"
-    },
-    {
-     "n": "2.2 billion",
-     "l": "people worldwide living with vision impairment, per WHO \u2014 a primary beneficiary population for smart glasses assistive technology"
-    },
-    {
-     "n": "GDPR Article 9",
-     "l": "existing EU law already prohibits biometric data processing without explicit consent, covering the core smart glasses surveillance concern"
-    }
-   ],
-   "tags": [
-    "privacy",
-    "smart glasses",
-    "surveillance",
-    "accessibility",
-    "regulation"
-   ],
-   "generated": "2026-11-06T22:54:36.140076+00:00",
    "auto": true
   }
  ]

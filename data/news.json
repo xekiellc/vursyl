@@ -1,12 +1,26 @@
 {
- "updated": "2026-11-12T23:23:09.396730+00:00",
+ "updated": "2026-11-13T05:53:37.385676+00:00",
  "items": [
   {
-   "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
-   "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
+   "title": "New AI \u201ccopilot\u201d helps engineers design better structures",
+   "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
    "source": "MIT News AI",
-   "category": "breakthroughs",
-   "published": "2026-11-12T21:15:00+00:00"
+   "category": "ai",
+   "published": "2026-11-13T05:00:00+00:00"
+  },
+  {
+   "title": "Helping robots fit into the human workplace",
+   "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+   "source": "MIT News AI",
+   "category": "robotics",
+   "published": "2026-11-13T05:00:00+00:00"
+  },
+  {
+   "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+   "url": "https://openai.com/business/customer-stories/amplitude",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-12T20:00:00+00:00"
   },
   {
    "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
@@ -16,25 +30,165 @@
    "published": "2026-11-12T20:00:00+00:00"
   },
   {
-   "title": "Introducing Gemini 4 Hydrogen",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-11-12T18:00:50+00:00"
-  },
-  {
-   "title": "Gondola doubles revenue as its team builds more with Codex",
-   "url": "https://openai.com/business/customer-stories/gondola",
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-12T12:00:00+00:00"
+   "published": "2026-11-12T09:30:00+00:00"
   },
   {
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-   "source": "OpenAI",
+   "title": "token-atlas-engine added to PyPI",
+   "url": "https://pypi.org/project/token-atlas-engine/",
+   "source": "Pypi.org",
    "category": "ai",
+   "published": "2026-11-12T05:50:32+00:00"
+  },
+  {
+   "title": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
+   "url": "https://biztoc.com/x/1ed34cd3ebc030ae",
+   "source": "Biztoc.com",
+   "category": "robotics",
+   "published": "2026-11-12T05:47:17+00:00"
+  },
+  {
+   "title": "llm-ports 1.23.0",
+   "url": "https://pypi.org/project/llm-ports/1.23.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-12T05:46:38+00:00"
+  },
+  {
+   "title": "chimera-agent 0.87.0",
+   "url": "https://pypi.org/project/chimera-agent/0.87.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-12T05:44:43+00:00"
+  },
+  {
+   "title": "llmtrace-observability added to PyPI",
+   "url": "https://pypi.org/project/llmtrace-observability/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-12T05:33:30+00:00"
+  },
+  {
+   "title": "A Class 10 student from Kerala builds a remote-controlled farm machine that could make farmers' lives easier, wins science award",
+   "url": "https://timesofindia.indiatimes.com/education/news/a-class-10-student-from-kerala-builds-a-remote-controlled-farm-machine-that-could-make-farmers-lives-easier-wins-science-award/articleshow/135756700.cms",
+   "source": "The Times of India",
+   "category": "robotics",
+   "published": "2026-11-12T05:31:18+00:00"
+  },
+  {
+   "title": "Show HN: Unglazed \u2013 paper-to-explainer-video tool that gets every detail",
+   "url": "https://github.com/ShadowKingYT444/unglazed",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-11-12T05:27:54+00:00"
+  },
+  {
+   "title": "pdf-redpen 0.2.0",
+   "url": "https://pypi.org/project/pdf-redpen/0.2.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-12T05:25:35+00:00"
+  },
+  {
+   "title": "pdf-redpen added to PyPI",
+   "url": "https://pypi.org/project/pdf-redpen/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-12T05:25:35+00:00"
+  },
+  {
+   "title": "maxtext 0.2.6",
+   "url": "https://pypi.org/project/maxtext/0.2.6/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-12T05:09:35+00:00"
+  },
+  {
+   "title": "tgai-orv 0.9.52",
+   "url": "https://pypi.org/project/tgai-orv/0.9.52/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-12T05:06:04+00:00"
+  },
+  {
+   "title": "BITSoM rewrites the MBA playbook for the AI era",
+   "url": "https://timesofindia.indiatimes.com/education/bitsom-rewrites-the-mba-playbook-for-the-ai-era/articleshow/135755925.cms",
+   "source": "The Times of India",
+   "category": "ai",
+   "published": "2026-11-12T05:04:43+00:00"
+  },
+  {
+   "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+   "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+   "source": "Mit.edu",
+   "category": "ai",
+   "published": "2026-11-12T05:00:00+00:00"
+  },
+  {
+   "title": "conexus 8.2.0",
+   "url": "https://pypi.org/project/conexus/8.2.0/",
+   "source": "Pypi.org",
+   "category": "ai",
+   "published": "2026-11-12T04:59:16+00:00"
+  },
+  {
+   "title": "HHS Awards $3.7 Million to 40 AI Projects Aimed at Lyme Disease and Other Hard-to-Diagnose Invisible Illnesses",
+   "url": "https://www.medicaldaily.com/hhs-ai-prototypes-lyme-disease-invisible-illness-481132",
+   "source": "Medical Daily",
+   "category": "health",
+   "published": "2026-11-12T03:52:51+00:00"
+  },
+  {
+   "title": "Show HN: Paper Radar \u2013 daily ArXiv triage, now runs on Claude Haiku too",
+   "url": "https://github.com/Eliot5566/JEV-Paper-Radar",
+   "source": "Github.com",
+   "category": "ai",
+   "published": "2026-11-12T03:05:49+00:00"
+  },
+  {
+   "title": "\u2018Good admin isn\u2019t sexy, but saves lives\u2019: Start-up uses AI to cut healthcare administration burden",
+   "url": "https://www.irishtimes.com/business/innovation/2026/11/12/good-admin-isnt-sexy-but-saves-lives-start-up-uses-ai-to-cut-healthcare-administration-burden/",
+   "source": "The Irish Times",
+   "category": "health",
+   "published": "2026-11-12T03:00:00+00:00"
+  },
+  {
+   "title": "Inside this quantum computer, memory vibrates like a guitar string",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+   "source": "Science Daily",
+   "category": "quantum",
+   "published": "2026-11-12T02:35:20+00:00"
+  },
+  {
+   "title": "quantum-canary 0.9.1",
+   "url": "https://pypi.org/project/quantum-canary/0.9.1/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-11-12T02:11:32+00:00"
+  },
+  {
+   "title": "Morning Brief Podcast: Liquid Biopsy: Catching Cancer Early With a Simple Blood Test",
+   "url": "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-liquid-biopsy-catching-cancer-early-with-a-simple-blood-test/podcast/135751558.cms",
+   "source": "The Times of India",
+   "category": "health",
+   "published": "2026-11-12T00:36:21+00:00"
+  },
+  {
+   "title": "LeViT\u2013ResNet hybrid AI model for transferable early detection and classification of liver cancer",
+   "url": "https://www.nature.com/articles/s41598-026-79683-9.pdf",
+   "source": "Nature.com",
+   "category": "health",
    "published": "2026-11-12T00:00:00+00:00"
+  },
+  {
+   "title": "Claude Fable 5.2 tops new life-science image benchmark as tool use nearly doubles scores",
+   "url": "https://cryptobriefing.com/claude-fable-5-2-vials-aa-benchmark-tools/",
+   "source": "Crypto Briefing",
+   "category": "health",
+   "published": "2026-11-11T23:51:26+00:00"
   },
   {
    "title": "Edelbyte reels in $70M for its multi-purpose data analytics platform",
@@ -79,20 +233,6 @@
    "published": "2026-11-11T22:37:09+00:00"
   },
   {
-   "title": "Diraq switches on a silicon quantum computer inside a commercial data center",
-   "url": "https://cryptobriefing.com/diraq-silicon-quantum-computer-equinix-data-center/",
-   "source": "Crypto Briefing",
-   "category": "quantum",
-   "published": "2026-11-11T22:03:54+00:00"
-  },
-  {
-   "title": "Meta\u2019s Max brings the \u2018Rosie the Robot\u2019 dream closer, but first it must learn to see",
-   "url": "https://www.digitaljournal.com/article/metas-max-brings-the-rosie-the-robot-dream-closer-but-first-it-must-learn-to-see/",
-   "source": "Digital Journal",
-   "category": "robotics",
-   "published": "2026-11-11T21:34:47+00:00"
-  },
-  {
    "title": "14 of the 30 most valuable vertical AI companies now train their own models",
    "url": "https://www.cbinsights.com/research/most-valuable-vertical-ai-research-lab-model-ownership/",
    "source": "Cbinsights.com",
@@ -107,39 +247,18 @@
    "published": "2026-11-11T20:45:45+00:00"
   },
   {
-   "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-   "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-   "source": "Ibm.com",
-   "category": "quantum",
-   "published": "2026-11-11T19:47:59+00:00"
-  },
-  {
-   "title": "Portable Device Tracks and Eliminates Mosquitoes With AI-Powered Cameras and Lasers",
-   "url": "https://mymodernmet.com/photon-matrix-mosquitos/",
-   "source": "My Modern Met",
+   "title": "OUT Motor \u2014 Active Ragdoll & Crowd Animation by Alex Merqury",
+   "url": "https://assetstore.unity.com/packages/tools/physics/out-motor-active-ragdoll-crowd-animation-418364",
+   "source": "Unity.com",
    "category": "robotics",
-   "published": "2026-11-11T18:30:28+00:00"
+   "published": "2026-11-11T19:09:10+00:00"
   },
   {
-   "title": "IBM to offer access to a dual-processor quantum system in 2027",
-   "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186690668",
-   "source": "Slashdot.org",
-   "category": "quantum",
-   "published": "2026-11-11T17:53:31+00:00"
-  },
-  {
-   "title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
-   "url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
-   "source": "SiliconANGLE News",
-   "category": "robotics",
-   "published": "2026-11-11T16:30:22+00:00"
-  },
-  {
-   "title": "(PR) IBM Announces Quantum Nighthawk r3 Processor, Plans to Scale Beyond 1,000 Qubits in 2027",
-   "url": "https://www.techpowerup.com/354696/ibm-announces-quantum-nighthawk-r3-processor-plans-to-scale-beyond-1-000-qubits-in-2027",
-   "source": "Techpowerup.com",
-   "category": "quantum",
-   "published": "2026-11-11T16:18:33+00:00"
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "source": "Google DeepMind",
+   "category": "health",
+   "published": "2026-11-11T15:00:15+00:00"
   },
   {
    "title": "UK-backed AI chip startup Fractile hits $7 billion valuation in funding round",
@@ -205,6 +324,34 @@
    "published": "2026-11-11T14:00:00+00:00"
   },
   {
+   "title": "AI100 report released: embodied AI highlighted as grand challenge",
+   "url": "https://robohub.org/ai100-report-released-embodied-ai-highlighted-as-grand-challenge/",
+   "source": "Robohub.org",
+   "category": "robotics",
+   "published": "2026-11-11T13:48:55+00:00"
+  },
+  {
+   "title": "IBM Quantum announces upcoming Nighthawk r3 processor designed to execute 10,000 operations",
+   "url": "https://siliconangle.com/2026/11/11/ibm-quantum-announces-upcoming-nighthawk-r3-processor-designed-to-execute-10000-operations/",
+   "source": "SiliconANGLE News",
+   "category": "quantum",
+   "published": "2026-11-11T12:00:01+00:00"
+  },
+  {
+   "title": "iqm-qubit-selector 2.0.0",
+   "url": "https://pypi.org/project/iqm-qubit-selector/2.0.0/",
+   "source": "Pypi.org",
+   "category": "quantum",
+   "published": "2026-11-11T09:24:02+00:00"
+  },
+  {
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-11T08:00:00+00:00"
+  },
+  {
    "title": "\u4e16\u754c\u306e\u30d2\u30e5\u30fc\u30de\u30ce\u30a4\u30c9\u30ed\u30dc\u30c3\u30c8\u5e02\u5834\u30012034\u5e74\u306b1,326\u5104\u7c73\u30c9\u30eb\u3078\u6025\u62e1\u5927\u4e88\u6e2c\uff5c\u5e74\u5e73\u5747\u6210\u9577\u738737.0\uff05\u3001\u751f\u6210AI\u30fb\u7523\u696d\u81ea\u52d5\u5316\u30fb\u4eba\u624b\u4e0d\u8db3\u5bfe\u7b56\u304c\u5e02\u5834\u6210\u9577\u3092\u727d\u5f15",
    "url": "https://prtimes.jp/main/html/rd/p/000000021.000189317.html",
    "source": "Prtimes.jp",
@@ -217,13 +364,6 @@
    "source": "Drivencarguide.co.nz",
    "category": "robotics",
    "published": "2026-11-11T03:05:00+00:00"
-  },
-  {
-   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-11T03:00:20+00:00"
   },
   {
    "title": "Show HN: PeepNote \u2013 Local desktop notes for saving and reusing LLM responses",
@@ -251,13 +391,6 @@
    "url": "https://www.nature.com/articles/s41598-026-78377-6.pdf",
    "source": "Nature.com",
    "category": "quantum",
-   "published": "2026-11-11T00:00:00+00:00"
-  },
-  {
-   "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
-   "url": "https://openai.com/index/jiostar-vijay-seshadri",
-   "source": "OpenAI",
-   "category": "ai",
    "published": "2026-11-11T00:00:00+00:00"
   },
   {
@@ -422,11 +555,11 @@
    "published": "2026-11-10T19:29:29+00:00"
   },
   {
-   "title": "Gemini 4 Carbon is now available",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-11-10T16:03:47+00:00"
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-11-10T16:00:03+00:00"
   },
   {
    "title": "liorium added to PyPI",
@@ -562,11 +695,11 @@
    "published": "2026-11-10T12:31:00+00:00"
   },
   {
-   "title": "Helping caregivers use AI in everyday life",
-   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-   "source": "OpenAI",
-   "category": "health",
-   "published": "2026-11-10T12:00:00+00:00"
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-11-10T12:02:28+00:00"
   },
   {
    "title": "Introducing Businesses in ChatGPT",
@@ -602,13 +735,6 @@
    "source": "Pypi.org",
    "category": "ai",
    "published": "2026-11-10T05:11:01+00:00"
-  },
-  {
-   "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
-   "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
-   "source": "MIT News AI",
-   "category": "health",
-   "published": "2026-11-10T05:00:00+00:00"
   },
   {
    "title": "AI\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u306eCoWorker\u3001\u793e\u54e1\u306eAI\u5229\u7528\u3092\u5b88\u308b\u201c\u30a6\u30a4\u30eb\u30b9\u5bfe\u7b56\u30bd\u30d5\u30c8\u306eAI\u7248\u201d\u300cCoWorker AI\u30cf\u30fc\u30cd\u30b9\u300d\u3092\u63d0\u4f9b\u958b\u59cb",
@@ -737,13 +863,6 @@
    "published": "2026-11-09T21:30:27+00:00"
   },
   {
-   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-   "source": "Google DeepMind",
-   "category": "robotics",
-   "published": "2026-11-09T19:51:47+00:00"
-  },
-  {
    "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
    "url": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/",
    "source": "Amazon.com",
@@ -835,13 +954,6 @@
    "published": "2026-11-09T14:00:25+00:00"
   },
   {
-   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-   "source": "NVIDIA",
-   "category": "robotics",
-   "published": "2026-11-09T14:00:01+00:00"
-  },
-  {
    "title": "Matillion recognized as a Visionary in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Data Integration Tools",
    "url": "https://www.prnewswire.co.uk/news-releases/matillion-recognized-as-a-visionary-in-the-2026-gartner-magic-quadrant-for-data-integration-tools-302933310.html",
    "source": "PR Newswire UK",
@@ -903,13 +1015,6 @@
    "source": "Pypi.org",
    "category": "quantum",
    "published": "2026-11-09T09:20:26+00:00"
-  },
-  {
-   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-   "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-   "source": "NVIDIA",
-   "category": "ai",
-   "published": "2026-11-09T08:00:53+00:00"
   },
   {
    "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -34895,111 +35000,6 @@
    "source": "Digitimes",
    "category": "compute",
    "published": "2026-08-12T02:05:00+00:00"
-  },
-  {
-   "title": "Next wave of AI-led banking must help rural India, says Setty",
-   "url": "https://timesofindia.indiatimes.com/business/india-business/next-wave-of-ai-led-banking-must-help-rural-india-says-setty/articleshow/133167862.cms",
-   "source": "The Times of India",
-   "category": "ai",
-   "published": "2026-08-12T01:56:44+00:00"
-  },
-  {
-   "title": "litellm 1.98.0.dev1",
-   "url": "https://pypi.org/project/litellm/1.98.0.dev1/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-12T01:50:31+00:00"
-  },
-  {
-   "title": "ietf-llm 0.18.0",
-   "url": "https://pypi.org/project/ietf-llm/0.18.0/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-12T01:45:40+00:00"
-  },
-  {
-   "title": "Claude\u306e\u751f\u6210\u3057\u305f\u6587\u7ae0\u306b\u300c\u76ee\u306b\u898b\u3048\u306a\u3044\u900f\u304b\u3057\u300d\u3092\u57cb\u3081\u8fbc\u3080\u3068Anthropic\u304c\u767a\u8868\u3001\u65e5\u672c\u3092\u542b\u3081\u305f\u5168\u4e16\u754c\u3067\u9069\u7528\u3055\u308c\u308b\u4e88\u5b9a",
-   "url": "https://news.livedoor.com/article/detail/32045988/",
-   "source": "Livedoor.com",
-   "category": "ai",
-   "published": "2026-08-12T01:40:00+00:00"
-  },
-  {
-   "title": "frontier-ai-gmas added to PyPI",
-   "url": "https://pypi.org/project/frontier-ai-gmas/",
-   "source": "Pypi.org",
-   "category": "ai",
-   "published": "2026-08-12T01:37:36+00:00"
-  },
-  {
-   "title": "Target Appoints Lowe\u2019s Veteran Chandhu Nair as First Chief AI Officer",
-   "url": "https://www.pymnts.com/news/retail/2026/target-appoints-lowes-veteran-chandhu-nair-as-first-chief-ai-officer/",
-   "source": "pymnts.com",
-   "category": "ai",
-   "published": "2026-08-12T01:30:42+00:00"
-  },
-  {
-   "title": "Can AI Improve Productivity? Why Time Tracking Data Matters More Than Ever",
-   "url": "https://addicted2success.com/ai/ai-productivity-time-tracking-data/",
-   "source": "Addicted2success.com",
-   "category": "ai",
-   "published": "2026-08-12T01:27:24+00:00"
-  },
-  {
-   "title": "Run AI Models on Your Own Machine: A Practical Guide to Open-Weight Models with LM Studio, Ollama, and OpenCode",
-   "url": "https://dev.classmethod.jp/articles/open-weight-ai-model/",
-   "source": "Classmethod.jp",
-   "category": "ai",
-   "published": "2026-08-12T00:56:21+00:00"
-  },
-  {
-   "title": "Procognitive restoration of PV neuron plasticity in neurodevelopmental disorders",
-   "url": "https://www.nature.com/articles/s41586-026-10907-8",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-08-12T00:00:00+00:00"
-  },
-  {
-   "title": "Proactive concussion prediction using symmetry-aware multiscale explainable hybrid deep learning and multimodal data fusion",
-   "url": "https://www.nature.com/articles/s41598-026-54871-9",
-   "source": "Nature.com",
-   "category": "health",
-   "published": "2026-08-12T00:00:00+00:00"
-  },
-  {
-   "title": "3 AI bets powering Atlassian\u2019s integrated marketing impact",
-   "url": "https://www.atlassian.com/blog/how-we-build/ai-bets-powering-atlassian-integrated-marketing-impact",
-   "source": "Atlassian.com",
-   "category": "ai",
-   "published": "2026-08-11T22:49:05+00:00"
-  },
-  {
-   "title": "Chai Discovery unveils Chai-3, advancing AI drug design capabilities",
-   "url": "https://cryptobriefing.com/chai-discovery-chai-3-ai-drug-design/",
-   "source": "Crypto Briefing",
-   "category": "health",
-   "published": "2026-08-11T22:23:05+00:00"
-  },
-  {
-   "title": "What to know about Elon Musk's massive $16.8 billion chip factory",
-   "url": "https://abcnews.com/Business/elon-musks-massive-168-billion-chip-factory/story?id=135545042",
-   "source": "Abcnews.com",
-   "category": "compute",
-   "published": "2026-08-11T20:30:18+00:00"
-  },
-  {
-   "title": "Quantinuum Reports Second Quarter 2026 Results",
-   "url": "https://www.prnewswire.com/news-releases/quantinuum-reports-second-quarter-2026-results-302848865.html",
-   "source": "PRNewswire",
-   "category": "quantum",
-   "published": "2026-08-11T20:05:00+00:00"
-  },
-  {
-   "title": "The whole of PyTorch on one page",
-   "url": "https://tensor.khalilli.ai/blog/part-0-the-map/",
-   "source": "Khalilli.ai",
-   "category": "ai",
-   "published": "2026-08-11T19:05:10+00:00"
   }
  ]
 }
