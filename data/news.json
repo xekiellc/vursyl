@@ -1,26 +1,75 @@
 {
- "updated": "2026-11-13T23:25:07.761382+00:00",
+ "updated": "2026-11-14T05:42:38.314494+00:00",
  "items": [
   {
-   "title": "Introducing ChatGPT Wallet",
-   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+   "source": "NVIDIA",
+   "category": "health",
+   "published": "2026-11-13T13:00:42+00:00"
+  },
+  {
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield",
    "source": "OpenAI",
    "category": "ai",
-   "published": "2026-11-13T15:00:00+00:00"
+   "published": "2026-11-13T08:00:00+00:00"
   },
   {
-   "title": "New AI \u201ccopilot\u201d helps engineers design better structures",
-   "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
-   "source": "MIT News AI",
+   "title": "risk-aware-trading-agents added to PyPI",
+   "url": "https://pypi.org/project/risk-aware-trading-agents/",
+   "source": "Pypi.org",
    "category": "ai",
-   "published": "2026-11-13T05:00:00+00:00"
+   "published": "2026-11-13T05:39:03+00:00"
   },
   {
-   "title": "Helping robots fit into the human workplace",
-   "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
-   "source": "MIT News AI",
+   "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+   "source": "Science Daily",
+   "category": "quantum",
+   "published": "2026-11-13T05:26:41+00:00"
+  },
+  {
+   "title": "Digital Health Roundup: FDA\u2019s GenAI Comment Divide, Agilent\u2019s Proscia Bet, AI Scribes\u2019 Device Status",
+   "url": "https://insights.citeline.com/medtech-insight/digital-technologies/digital-health-roundup-fdas-genai-comment-divide-agilents-proscia-bet-ai-scribes-device-status-EPMZDLUFZBC5VDHHV5MTEN552Y/",
+   "source": "Citeline.com",
+   "category": "health",
+   "published": "2026-11-13T05:21:04+00:00"
+  },
+  {
+   "title": "CTA Previews Health Innovation at CES 2027, Announces New Wearable Technology White Paper",
+   "url": "https://usanewshour.com/cta-previews-health-innovation-at-ces-2027-announces-new-wearable-technology-white-paper/424366/",
+   "source": "Usanewshour.com",
+   "category": "health",
+   "published": "2026-11-13T05:06:29+00:00"
+  },
+  {
+   "title": "Google rolls out Gemini 4 Hydrogen with 2.5x speed boost, four reasoning levels",
+   "url": "https://www.thehindubusinessline.com/info-tech/google-rolls-out-gemini-4-hydrogen-with-25x-speed-boost-four-reasoning-levels/article71696552.ece",
+   "source": "BusinessLine",
+   "category": "ai",
+   "published": "2026-11-13T05:03:58+00:00"
+  },
+  {
+   "title": "Anthropic\u2019s Claude Tops AI Rankings as OpenAI Limits Cyber Model",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/",
+   "source": "pymnts.com",
+   "category": "ai",
+   "published": "2026-11-13T01:12:36+00:00"
+  },
+  {
+   "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+   "url": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/",
+   "source": "Nvidia.com",
    "category": "robotics",
-   "published": "2026-11-13T05:00:00+00:00"
+   "published": "2026-11-13T00:46:19+00:00"
+  },
+  {
+   "title": "IBM to offer access to a dual-processor quantum system in 2027",
+   "url": "https://www.osnews.com/story/146368/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+   "source": "Osnews.com",
+   "category": "quantum",
+   "published": "2026-11-13T00:03:25+00:00"
   },
   {
    "title": "Nscale expects 14-fold revenue surge in amended IPO filing",
@@ -93,13 +142,6 @@
    "published": "2026-11-12T22:30:41+00:00"
   },
   {
-   "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
-   "source": "Amazon.com",
-   "category": "health",
-   "published": "2026-11-12T21:47:07+00:00"
-  },
-  {
    "title": "Microsoft Research Focus \u2013 Edition #98",
    "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
    "source": "Microsoft Research",
@@ -107,26 +149,11 @@
    "published": "2026-11-12T21:31:57+00:00"
   },
   {
-   "title": "AI chatbots are becoming part of teenage mental health support",
-   "url": "https://www.digitaljournal.com/article/ai-chatbots-are-becoming-part-of-teenage-mental-health-support/",
-   "source": "Digital Journal",
-   "category": "health",
-   "published": "2026-11-12T21:28:32+00:00"
-  },
-  {
-   "title": "IBM Quantum Nighthawk r3 Targets 10,000 Operations on 520 Qubits, With a 1,040-Qubit System in 2027",
-   "url": "https://www.storagereview.com/news/ibm-quantum-nighthawk-r3-10000-operations-520-qubits-1040-qubit-system-2027",
-   "source": "Storagereview.com",
-   "category": "quantum",
-   "published": "2026-11-12T20:15:31+00:00",
-   "breakthrough": true
-  },
-  {
-   "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
-   "url": "https://openai.com/business/customer-stories/amplitude",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-11-12T20:00:00+00:00"
+   "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
+   "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
+   "source": "MIT News AI",
+   "category": "breakthroughs",
+   "published": "2026-11-12T21:15:00+00:00"
   },
   {
    "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
@@ -136,18 +163,11 @@
    "published": "2026-11-12T20:00:00+00:00"
   },
   {
-   "title": "Can Network Science Transform Health and Nutrition?",
-   "url": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
-   "source": "Quanta Magazine",
+   "title": "IIT Kharagpur becomes first IIT to offer postgraduate medical courses",
+   "url": "https://www.business-standard.com/education/news/iit-kharagpur-becomes-first-iit-to-offer-postgraduate-medical-courses-126111300017_1.html",
+   "source": "Business Standard",
    "category": "health",
-   "published": "2026-11-12T19:40:54+00:00"
-  },
-  {
-   "title": "SolverX Joins Blood Purification Research Project in Korea\u2019s Advanced Research Projects Agency for Health (ARPA-H) Initiative",
-   "url": "https://www.solverx.ai/news/kist-purify-blood-purification",
-   "source": "Solverx.ai",
-   "category": "health",
-   "published": "2026-11-12T18:13:07+00:00"
+   "published": "2026-11-12T19:06:49+00:00"
   },
   {
    "title": "IBM Quantum and the race to make scientific advantage useful to industry",
@@ -155,6 +175,13 @@
    "source": "SiliconANGLE News",
    "category": "quantum",
    "published": "2026-11-12T18:01:06+00:00"
+  },
+  {
+   "title": "Introducing Gemini 4 Hydrogen",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-11-12T18:00:50+00:00"
   },
   {
    "title": "Anthropic CEO predicts AI will eliminate major diseases within a decade",
@@ -169,13 +196,6 @@
    "source": "CryptoSlate",
    "category": "health",
    "published": "2026-11-12T16:45:25+00:00"
-  },
-  {
-   "title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
-   "url": "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
-   "source": "SiliconANGLE News",
-   "category": "robotics",
-   "published": "2026-11-12T16:10:57+00:00"
   },
   {
    "title": "Bliki: Generated Glossary",
@@ -204,6 +224,13 @@
    "source": "CMSWire",
    "category": "ai",
    "published": "2026-11-12T14:05:21+00:00"
+  },
+  {
+   "title": "A New Dawn in the Cloud: \u2018Warhammer 40,000: Dawn of War IV\u2019 Is Coming to GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+   "source": "NVIDIA",
+   "category": "compute",
+   "published": "2026-11-12T14:00:59+00:00"
   },
   {
    "title": "Square Expands Agentic AI Tools to Give Sellers More Control Over Business Operations",
@@ -248,6 +275,13 @@
    "published": "2026-11-12T14:00:18+00:00"
   },
   {
+   "title": "A Poisson-multinomial model for quantifying gene therapy vector integrity using quadplex digital PCR",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362653",
+   "source": "Plos.org",
+   "category": "health",
+   "published": "2026-11-12T14:00:00+00:00"
+  },
+  {
    "title": "RPDL-YOLO: An efficient YOLOv8 framework for small bird detection in airport airside environments",
    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362491",
    "source": "Plos.org",
@@ -260,6 +294,13 @@
    "source": "Plos.org",
    "category": "health",
    "published": "2026-11-12T14:00:00+00:00"
+  },
+  {
+   "title": "Quantum leap: IBM plans to scale beyond 1,000 qubits in 2027 with Nighthawk r3 processor",
+   "url": "https://www.theregister.com/systems/2026/11/12/quantum-leap-ibm-plans-to-scale-beyond-1000-qubits-in-2027-with-nighthawk-r3-processor/5309357",
+   "source": "Theregister.com",
+   "category": "quantum",
+   "published": "2026-11-12T13:37:02+00:00"
   },
   {
    "title": "Money Worries Tracked With Older-Looking Hearts on AI-Read ECGs in 280,000 Mayo Patients",
@@ -297,6 +338,13 @@
    "published": "2026-11-12T13:01:43+00:00"
   },
   {
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "url": "https://openai.com/business/customer-stories/gondola",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-12T12:00:00+00:00"
+  },
+  {
    "title": "Robot tells Al Jazeera AI is \u2018too useful to disappear\u2019",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to",
    "source": "Al Jazeera English",
@@ -309,13 +357,6 @@
    "source": "Business Insider",
    "category": "robotics",
    "published": "2026-11-12T10:00:03+00:00"
-  },
-  {
-   "title": "Holiday Extras is rethinking what it can build with Codex",
-   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-11-12T09:30:00+00:00"
   },
   {
    "title": "Embodied AI's Next Frontier: Integrating Intelligence with Real-World Systems",
@@ -409,13 +450,6 @@
    "published": "2026-11-12T05:04:43+00:00"
   },
   {
-   "title": "New research could lead to faster, trustworthy AI models for climate prediction",
-   "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
-   "source": "MIT News AI",
-   "category": "ai",
-   "published": "2026-11-12T05:00:00+00:00"
-  },
-  {
    "title": "conexus 8.2.0",
    "url": "https://pypi.org/project/conexus/8.2.0/",
    "source": "Pypi.org",
@@ -456,6 +490,20 @@
    "source": "The Times of India",
    "category": "health",
    "published": "2026-11-12T00:36:21+00:00"
+  },
+  {
+   "title": "Supporting research on AI and children\u2019s safety",
+   "url": "https://openai.com/index/children-first-declaration",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-12T00:00:00+00:00"
+  },
+  {
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "source": "OpenAI",
+   "category": "ai",
+   "published": "2026-11-12T00:00:00+00:00"
   },
   {
    "title": "LeViT\u2013ResNet hybrid AI model for transferable early detection and classification of liver cancer",
@@ -584,13 +632,6 @@
    "published": "2026-11-11T16:18:33+00:00"
   },
   {
-   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-   "source": "Google DeepMind",
-   "category": "breakthroughs",
-   "published": "2026-11-11T15:00:15+00:00"
-  },
-  {
    "title": "UK-backed AI chip startup Fractile hits $7 billion valuation in funding round",
    "url": "https://www.channelnewsasia.com/business/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-in-funding-round-6543451",
    "source": "CNA",
@@ -675,13 +716,6 @@
    "published": "2026-11-11T09:24:02+00:00"
   },
   {
-   "title": "ChatGPT Plus for veterans and servicemembers",
-   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-   "source": "OpenAI",
-   "category": "ai",
-   "published": "2026-11-11T08:00:00+00:00"
-  },
-  {
    "title": "\u4e16\u754c\u306e\u30d2\u30e5\u30fc\u30de\u30ce\u30a4\u30c9\u30ed\u30dc\u30c3\u30c8\u5e02\u5834\u30012034\u5e74\u306b1,326\u5104\u7c73\u30c9\u30eb\u3078\u6025\u62e1\u5927\u4e88\u6e2c\uff5c\u5e74\u5e73\u5747\u6210\u9577\u738737.0\uff05\u3001\u751f\u6210AI\u30fb\u7523\u696d\u81ea\u52d5\u5316\u30fb\u4eba\u624b\u4e0d\u8db3\u5bfe\u7b56\u304c\u5e02\u5834\u6210\u9577\u3092\u727d\u5f15",
    "url": "https://prtimes.jp/main/html/rd/p/000000021.000189317.html",
    "source": "Prtimes.jp",
@@ -694,6 +728,13 @@
    "source": "Drivencarguide.co.nz",
    "category": "robotics",
    "published": "2026-11-11T03:05:00+00:00"
+  },
+  {
+   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+   "source": "NVIDIA",
+   "category": "ai",
+   "published": "2026-11-11T03:00:20+00:00"
   },
   {
    "title": "Show HN: PeepNote \u2013 Local desktop notes for saving and reusing LLM responses",
@@ -885,11 +926,11 @@
    "published": "2026-11-10T19:29:29+00:00"
   },
   {
-   "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-   "source": "NVIDIA",
-   "category": "compute",
-   "published": "2026-11-10T16:00:03+00:00"
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-11-10T16:03:47+00:00"
   },
   {
    "title": "liorium added to PyPI",
@@ -1025,18 +1066,18 @@
    "published": "2026-11-10T12:31:00+00:00"
   },
   {
-   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "published": "2026-11-10T12:02:28+00:00"
-  },
-  {
    "title": "Helping caregivers use AI in everyday life",
    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
    "source": "OpenAI",
    "category": "ai",
    "published": "2026-11-10T12:00:00+00:00"
+  },
+  {
+   "title": "Opening the datasets behind our AI weather models",
+   "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "published": "2026-11-10T11:13:04+00:00"
   },
   {
    "title": "Introducing Businesses in ChatGPT",
@@ -34959,48 +35000,6 @@
    "source": "Yahoo Entertainment",
    "category": "compute",
    "published": "2026-08-12T19:39:33+00:00"
-  },
-  {
-   "title": "Saturn Cloud Integrates NVIDIA DSX OS Into Its AI Token Factory Platform",
-   "url": "https://www.prnewswire.com/news-releases/saturn-cloud-integrates-nvidia-dsx-os-into-its-ai-token-factory-platform-302850047.html",
-   "source": "PRNewswire",
-   "category": "compute",
-   "published": "2026-08-12T18:56:00+00:00"
-  },
-  {
-   "title": "Gemini App Hits 1 Billion Users Faster Than Any Other Google Product",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/gemini-app-hits-1-billion-users-faster-than-any-other-google-product/",
-   "source": "pymnts.com",
-   "category": "ai",
-   "published": "2026-08-12T18:53:00+00:00"
-  },
-  {
-   "title": "The No-Regrets AI Investment Agenda",
-   "url": "https://www.forrester.com/blogs/the-no-regrets-ai-investment-agenda/",
-   "source": "Forrester.com",
-   "category": "ai",
-   "published": "2026-08-12T18:47:05+00:00"
-  },
-  {
-   "title": "Liqid Pools 30 AMD MI350P GPUs in One Server: 4.3TB of HBM3E and 69 PFLOPS for AI Inference",
-   "url": "https://www.storagereview.com/news/liqid-pools-30-amd-mi350p-gpus-in-one-server-4-3tb-of-hbm3e-and-69-pflops-for-ai-inference",
-   "source": "Storagereview.com",
-   "category": "compute",
-   "published": "2026-08-12T18:40:29+00:00"
-  },
-  {
-   "title": "Alibaba\u2019s Qwen3.8 model goes live on Nvidia\u2019s GB300, hits 4,000 tokens per second",
-   "url": "https://cryptobriefing.com/alibaba-qwen3-nvidia-gb300-performance/",
-   "source": "Crypto Briefing",
-   "category": "compute",
-   "published": "2026-08-12T18:35:40+00:00"
-  },
-  {
-   "title": "Cleveland Clinic Tied Vendor Payments to Onboarding Waves in 4-Month AI Scribe Rollout",
-   "url": "https://healthsystemcio.com/2026/08/12/ai-scribe-deployment-vendor-milestones/",
-   "source": "Healthsystemcio.com",
-   "category": "health",
-   "published": "2026-08-12T18:27:20+00:00"
   }
  ]
 }
